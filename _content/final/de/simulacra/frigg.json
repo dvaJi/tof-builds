@@ -1,0 +1,280 @@
+{
+  "_id": 6,
+  "id": "frigg",
+  "name": "Frigg",
+  "weapon": "Balmung",
+  "weapon_id": "balmung",
+  "birthday": "1. Februar (Wassermann)",
+  "birthplace": "Erben von Aida",
+  "gender": "Weiblich",
+  "info": "Zurückhaltend, aber entschlossen bei der Arbeit.\nSie hat einzigartige Ansichten und eine besondere Lebensphilosophie. Wenn es die Zeit erlaubt, denkt sie über den wahren Sinn des Lebens nach.",
+  "description": "Einer der Engel der Gnade. Da ihr Körper in eine Maschine aus lebendem Metall verwandelt wurde, konnte sie auch ohne Suppressor der Strahlung widerstehen, der sie ausgesetzt war.\n\nSie ist eine treue Unterstützerin des Weisen und führt jeden Befehl mit bedingungslosem Gehorsam aus. Als eine der wichtigsten Offiziere hat Frigg das Recht, die Truppen der Erben von Aida im Kampf anzuführen, aber meist agiert sie lieber alleine.",
+  "like": "Meine eigene Klinge",
+  "dislike": "Alles, das ihr begegnet",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 8,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Wenn der Anwender auf dem Boden ist, kann er Balmung benutzen, um 5-mal hintereinander anzugreifen.\nDer erste Angriff verursacht Schaden in Höhe von <b>62.1%</b> des ANG + <b>3</b> und leichten Rückstoß.\nDer zweite Angriff verursacht Schaden in Höhe von <b>46.2%</b> des ANG + <b>2</b> und leichten Rückstoß.\nDer dritte Angriff verursacht Schaden in Höhe von <b>91.1%</b> des ANG + <b>5</b> und leichten Rückstoß.\nDer vierte Angriff verursacht Schaden in Höhe von <b>55.8%</b> des ANG + <b>3</b> und leichten Rückstoß.\nDer fünfte Angriff verursacht Schaden in Höhe von <b>218.4%</b> des ANG + <b>11</b> und schleudert das Ziel zu Boden."
+    },
+    {
+      "name": "Luftsprengung",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, tippe auf normaler Angriff, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>64.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>72.6%</b> des ANG + <b>4</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>76.7%</b> des ANG + <b>4</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>107.9%</b> des ANG + <b>6</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>168.3%</b> des ANG + <b>9</b>."
+    },
+    {
+      "name": "Schwungschnitt",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff während normaler Angriffe gedrückt, um „Schwungschnitt“ auszulösen.\nDer Anwender hechtet mit einem horizontalem Hieb vorwärts und schleudert das Ziel in die Luft, bevor er sich selbst in die Luft schwingt. Verursacht maximal <b>134.3%</b> des ANG + <b>7</b> Schaden."
+    },
+    {
+      "name": "Spiralschnitt",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Drücke und halte den normalen Angriff in der Luft, oder drücke den normalen Angriff beim Klettern, Zurückspringen oder bei Verwendung von „Jetpack“, um „Spiralschnitt“ auszulösen.\nVerursacht im Fallen pro Treffer Schaden in Höhe von <b>19.8%</b> des ANG + <b>1</b>. Bei der Landung erleiden Ziele in der Nähe Schaden in Höhe von <b>185.7%</b> des ANG + <b>10</b>."
+    },
+    {
+      "name": "Mehrfachschlitzer",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Angriff löst „Mehrfachschlitzer“ aus.\nEntfesselt mehrere Hiebe in einem bestimmten Bereich vor dem Anwender, die Gesamtschaden in Höhe von <b>{4}%</b> des ANG + <b>{5}</b> verursachen."
+    },
+    {
+      "name": "Fimbulwinter",
+      "type": [
+        "Skill"
+      ],
+      "description": "Der Wanderer schlägt wild um sich und verursacht Gesamtschaden in Höhe von <b>577.5%</b> des ANG + <b>30</b>. Schleudert Ziele in die Luft, lässt sie dort schweben und gewährt Schadensimmunität, während diese Fähigkeit eingesetzt wird. Abklingzeit: <b>30</b> Sek.\nDer Einsatz von <b>Fimbulwinter</b> erzeugt für <b>25</b> Sek. einen großen Froststurm um den Anwender herum. Innerhalb des Froststurms verbraucht „Balmung-Ausweichen“ keine Ausweichaktionen.\nGewährt innerhalb des Froststurms „Froststurm I“ und erhöht „Zertrümmern“ um <b>25%</b>, wenn eine Frostwaffe verwendet wird."
+    },
+    {
+      "name": "Kälteeinbruch",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden <b>alle Debuffs vom Anwender entfernt</b> und er macht beim Wechsel zu dieser Waffe einen Satz nach vorne. Der Anwender kontrolliert Gegner in einem Bereich vorübergehend, um danach einen gewaltigen Hieb auszuführen, der Gegnern Schaden in Höhe von <b>618.2%</b> des ANG + <b>33</b> zufügt und sie in die Luft wirft."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eispanzer",
+    "description": "Voll geladene Waffen <b>gefrieren</b> das Ziel für <b>2</b> Sekunden und verursachen für <b>6</b> Sekunden Frostschaden. Das Durchbrechen des Eispanzers verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während Frostschaden ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> reduziert."
+  },
+  "weapon_resonance": {
+    "name": "Frostresonanz",
+    "description": "<b>Frostresonanz</b>: Erhöht den Frost-ANG um <b>15%</b> und den Frostwiderstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Frostwaffen aktiviert. Diese Set-Effekte funktionieren auch mit Waffen im Nebenhand-Slot. Der Effekt kann nicht gestapelt werden."
+  },
+  "advancement": [
+    "Erhalte jedes Mal, wenn du innerhalb des Froststurms <b>550%</b> x Frost-ANG Schaden erhältst, <b>1</b> Frostigkeitspunkt. Es können bis zu <b>10</b> Frostigkeitspunkte angesammelt werden.\nWenn der Froststurm endet, erleiden Gegner innerhalb des Froststurms Bombenschaden in Höhe von Frostigkeitspunkte x Frost-ANG x <b>95%</b>. Nach Verlassen des Froststurms geht alle <b>3</b> Sek. <b>1</b> Frostigkeitspunkt verloren.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Erhöht das Frostigkeit-Limit um <b>15</b>. Der Einsatz von Entladungsfähigkeit von Frostwaffen innerhalb des Froststurms fügt Gegnern darin Schaden in Höhe von <b>20%</b> des Frost-ANG x (aktuelle Frostigkeit +5) zu.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Das durch Frostwaffen verursachte „Zertrümmern“ von Schilden innerhalb des Froststurms friert das Ziel für <b>2</b> Sek. ein und fügt ihm zusätzlichen Schaden in Höhe von Frostigkeitspunkte x Frost-ANG x <b>35%</b> zu (der Schaden wird verdoppelt, wenn das Ziel nicht eingefroren werden kann).",
+    "Wenn die Frostigkeit <b>15</b> Punkte erreicht und der Anwender sich innerhalb eines Froststurms befindet, erhält er zusätzlich „Froststurm II“, wodurch beim Verwenden von Frostwaffen der Frost-ANG um <b>25%</b> erhöht wird."
+  ],
+  "traits": [
+    {
+      "name": "Einfrieren",
+      "description": "Erhöht bei Kampfbeginn den Frost-ANG alle <b>3</b> Sek. um <b>1,5%</b>. Hält <b>5</b> Sek. an und ist bis zu <b>10</b>-mal stapelbar."
+    },
+    {
+      "name": "Vereisung",
+      "description": "Frost-ANG wird bei Kampfbeginn alle <b>3</b> Sek. um <b>2,4%</b> erhöht. Hält <b>5</b> Sek. an und ist bis zu <b>10</b>-mal stapelbar. Gewährt außerdem innerhalb des Froststurms „Hyperkörper“ und Immunität gegen Kontrolleffekte."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Herz des Winters",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

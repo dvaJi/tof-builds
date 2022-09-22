@@ -1,0 +1,286 @@
+{
+  "_id": 3,
+  "id": "crow",
+  "name": "Cuervo",
+  "weapon": "Cuchillas Relampagueantes",
+  "weapon_id": "thunderblades",
+  "birthday": "17 de diciembre (Sagitario)",
+  "birthplace": "Desconocido",
+  "gender": "Masculino",
+  "info": "Una personalidad viva y alegre que ilumina cualquier habitación. Franco y extrovertido, es optimista en cualquier situación, pero a veces puede ser demasiado orgulloso.\nA menudo practica algunos trucos de daga llamativos y tiene un repertorio de chistes secos que le resultan divertidísimos. Le gusta contar estos chistes como si estuviera en el escenario.\nLo que hay debajo de su actitud alegre y despreocupada, son una fuerza de voluntad y una determinación inquebrantables. Está dispuesto a alcanzar sus objetivos sin importar lo que se interponga en su camino. A veces se esfuerza demasiado.",
+  "description": "Como antiguo Ejecutor, Cuervo mantiene una buena relación con Hykros. No cometió grandes errores ni fue despedido por bajo rendimiento. Solo descubrió que deseaba una vida con menos reglas tras trabajar con el equipo local por un tiempo y decidió que eso funcionaba para él.\nAhora viaja libremente durante largos periodos. Su personalidad alegre deja una gran primera impresión en quienes lo conocen y siempre juega nuevos trucos o bromas cuando llega a un sitio nuevo. Lo llaman Crowy, lo cual no le desagrada.",
+  "like": "Gatos, todo tipo de dagas",
+  "dislike": "Alcohol, historias de fantasmas",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Cuchillas gemelas",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, blande las cuchillas dobles para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>73%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>90.9%</b> del ATQ + <b>5</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>96.8%</b> del ATQ + <b>5</b> y hace retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>202.2%</b> del ATQ + <b>11</b> y hace retroceder un poco al objetivo."
+    },
+    {
+      "name": "Ráfaga de aire",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>38.4%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>92%</b> del ATQ + <b>5</b>.\nCuarto ataque: inflige daño equivalente al <b>138%</b> del ATQ + <b>7</b>."
+    },
+    {
+      "name": "Embestida rápida",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Embestida Rápida.\nAl impactar <b>suspende fuertemente</b> al objetivo e inflige daño total equivalente al <b>116.8%</b> del ATQ + <b>6</b>."
+    },
+    {
+      "name": "Impulso en espiral",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o pulsa el ataque normal al trepar, saltar hacia atrás o usar el Propulsor para activar Impulso en espiral.\nEn el descenso, cada golpe inflige daño equivalente al <b>42%</b> del ATQ + <b>2</b>."
+    },
+    {
+      "name": "Ataque sorpresa",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+    },
+    {
+      "name": "Cuchillas voladoras",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Cuchillas voladoras.\nCorta un objetivo <b>5</b> veces, cada una de las cuales inflige daño equivalente al <b>26.4%</b> del ATQ + <b>1</b>. Otorga inmunidad a los efectos de control durante la fase."
+    },
+    {
+      "name": "Cuchillas bumerán",
+      "type": [
+        "Skill"
+      ],
+      "description": "Lanza <b>6</b> Cuchillas bumerán, y cada una inflige daño equivalente al <b>52.8%</b> del ATQ + <b>3</b>. Obtiene <b>hipercuerpo</b> por hasta <b>8</b> segundos, y el efecto se elimina cuando regresan las cuchillas. <b>45</b> segundos de enfriamiento."
+    },
+    {
+      "name": "Cuchillas de órbita",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Fantasía</span>, <b>remueve todas las desventajas del portador</b> y te trasladas a la ubicación objetivo tras cambiar a esta arma y atacar, lo que inflige daño equivalente al <b>86.9%</b> del ATQ + <b>5</b> y electrocuta al objetivo (luego de <b>5</b> segundos, inflige daño eléctrico equivalente al <b>15%</b> del daño infligido, hasta un <b>350%</b> del ATQ del nómada. Este es un estado anormal que puede eliminarse). También genera 3 cuchillas que orbitan alrededor del nómada y que infligen daño equivalente al <b>65.2%</b> del ATQ + <b>3</b> a quienes las tocan."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eléctrico",
+    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>144%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+  },
+  "advancement": [
+    "Atacar objetivos por la espalda aumenta la tasa crítica de cualquier ataque de cuchillas dobles en un <b>40%</b>. La puñalada a un objetivo electrificado aumenta la tasa crítica en un <b>100%</b> y el daño crítico en un <b>30%</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Aumenta el daño en un <b>30%</b> a los objetivos que tengan menos del <b>60%</b> de sus PS.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+    "Activar un Ataque por la espalda otorga una probabilidad de crítico de 100% durante los próximos <b>4</b> segundos y aumenta el daño crítico en un <b>50%</b>. Enfriamiento: <b>10</b> segundos.",
+    "Al usar una habilidad, aumenta el daño eléctrico infligido al objetivo en un <b>20%</b> durante <b>20</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "Cuervo: Ermitaño",
+      "icon": true,
+      "description": "Cuando Cuervo no está en un equipo, aumenta el daño infligido en un <b>6%</b> y reduce el daño recibido en un <b>4%</b>."
+    },
+    {
+      "name": "Cuervo: Noche Silenciosa",
+      "icon": true,
+      "description": "Cuando Cuervo no está en un equipo, aumenta el daño infligido en un <b>10%</b> y reduce el daño recibido en un <b>6%</b>. Cuando Cuervo entra al combate, aumenta el daño infligido en un <b>12%</b> por <b>12</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Corazón de rayo",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

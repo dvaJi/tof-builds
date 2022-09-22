@@ -1,0 +1,24 @@
+{
+  "name": "Snail Baked Rice",
+  "uri": "snailbakedrice",
+  "imgSrc": "snailbakedrice.webp",
+  "rarity": "4",
+  "chinaOnly": false,
+  "effect": "Recovers **20** satiety\n**Physical Resistance +15%<br>\nPhysical Resistance +675**<br>\nDuration **1200** sec",
+  "recipe": [
+    {
+      "name": "Carrion Snail",
+      "rarity": "4",
+      "uri": "carrionsnail",
+      "imgSrc": "carrionsnail.webp",
+      "amount": 1
+    },
+    {
+      "name": "Rice",
+      "rarity": "4",
+      "uri": "rice",
+      "imgSrc": "rice.webp",
+      "amount": 2
+    }
+  ]
+}

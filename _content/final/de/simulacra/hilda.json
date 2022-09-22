@@ -1,0 +1,131 @@
+{
+  "_id": 7,
+  "id": "hilda",
+  "name": "Hilda",
+  "weapon": "Der Terminator",
+  "weapon_id": "the_terminator",
+  "birthday": "11. April (Widder)",
+  "birthplace": "Banges",
+  "gender": "Weiblich",
+  "info": "Ein leidenschaftliches und aufrichtiges junges Mädchen, unbekümmert, unkompliziert und beliebt.\nSie diskriminiert niemanden aufgrund seines Alters oder Geschlechts, sondern behandelt alle gleich. Ob Alt oder Jung, sie versteht sich mit jedem auf Anhieb. Theo, der Sohn des Leiters von Banges Tech, ist ein enger Freund.\nSie kann gelegentlich schroff und unsensibel wirken und vergisst viel (sogar ihre eigenen Waffen).",
+  "description": "Hilda ist der „Superstar“ im Hafen von Banges und unter den Menschen in der Stadt nicht unbekannt.\nSie liebt ihre Heimatstadt sehr und würde alles tun, um sie zu beschützen.\nHilda hat keine feste Berufung und zieht es vor, im Hafen umherzuziehen. Dabei erledigt sie dies und das für die Shops, um etwas Taschengeld zu verdienen; gelegentlich übernimmt sie auch gefährlichere Aufgaben, wie Patrouillen- oder Wachdienst. Wenn sie sich müde fühlt, nimmt sie sich ein oder zwei Tage frei, um nach Herzenslust zu essen und einzukaufen.",
+  "like": "Brathähnchen, Feiern, Schnäppchenjagd",
+  "dislike": "Lebenspläne",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe auf den normalen Angriff, um den Zielmodus zu aktivieren. Halte den normalen Angriff gedrückt, um kontinuierlich bis zu <b>40</b> Schüsse abzufeuern. Jeder Schuss verursacht Schaden in Höhe von <b>11.4%</b> des ANG + <b>1</b>. Bei Kopfschüssen oder einem Treffer an der Schwachstelle des Gegners wird der Schaden verdoppelt und der Gegner zu Boden geworfen (Kopfschüsse sind gegen Wanderer unwirksam)."
+    },
+    {
+      "name": "Geschützturm",
+      "type": [
+        "Skill"
+      ],
+      "description": "Aktiviere das Geschützmodus und feuere große Energiekugeln ab, die jeweils Schaden in Höhe von <b>213.3%</b> des ANG + <b>11</b> verursachen und das Ziel in die Luft schleudern. Du bist gegen Lähmungsangriffe und Kontroll-Effekte immun, während du den Geschützturm aufstellst. <b>3.5</b> Sekunden Abklingzeit."
+    },
+    {
+      "name": "Arktischer Strahl",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und ein arktischer Strahl abgefeuert. Dies verursacht Schaden in Höhe von <b>329.2%</b> des ANG + <b>17</b> und bewirkt einen <b>3</b> Sek. anhaltenden <b>Einfrieren</b>-Effekt. Außerdem sinkt der Frostwiderstand des Ziels für <b>10</b> Sek. um <b>50%</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eispanzer",
+    "description": "Voll geladene Waffen <b>gefrieren</b> das Ziel für <b>2</b> Sekunden und verursachen für <b>6</b> Sekunden Frostschaden. Das Durchbrechen des Eispanzers verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während Frostschaden ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> reduziert."
+  },
+  "advancement": [
+    "Erhöht mit jedem Treffer eines normalen Angriffs den Schaden um <b>1%</b>. Der Effekt hält <b>2</b> Sek. an und kann bis zu <b>15</b>-mal gestapelt werden. Erhöht die Munition auf <b>60</b>.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>10%</b>.",
+    "Erhöht beim Wechsel zu dieser Waffe innerhalb von <b>10</b> Sek. den Schaden von normalen Angriffen sowie von „Zertrümmern“ um <b>30%</b>. Abklingzeit: <b>25</b> Sek. Erhöht die Munition auf <b>80</b>.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>20%</b>.",
+    "Verringert die Abklingzeit von normalen Angriffen im Geschützturm-Modus um <b>2</b> Sek.",
+    "Erhöht beim Wechsel zu dieser Waffe innerhalb von <b>10</b> Sek. den Schaden von normalen Angriffen sowie von „Zertrümmern“ um <b>60%</b>. Abklingzeit: <b>25</b> Sek."
+  ],
+  "traits": [
+    {
+      "name": "Hilda: Bleifuß",
+      "icon": true,
+      "description": "Erhöht die Geschwindigkeit um <b>7%</b>, wenn Hilda ein Fahrzeug verwendet."
+    },
+    {
+      "name": "Hilda: Volltempo-Driften",
+      "icon": true,
+      "description": "Erhöht die Geschwindigkeit um <b>10%</b>, wenn Hilda ein Fahrzeug verwendet."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

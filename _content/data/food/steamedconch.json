@@ -1,0 +1,24 @@
+{
+  "name": "Steamed Conch",
+  "uri": "steamedconch",
+  "imgSrc": "steamedconch.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Conch",
+      "rarity": "2",
+      "uri": "conch",
+      "imgSrc": "conch.webp",
+      "amount": 2
+    },
+    {
+      "name": "Lettuce",
+      "rarity": "2",
+      "uri": "lettuce",
+      "imgSrc": "lettuce.webp",
+      "amount": 1
+    }
+  ]
+}

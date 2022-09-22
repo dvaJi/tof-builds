@@ -1,0 +1,179 @@
+{
+  "_id": 4,
+  "id": "echo",
+  "name": "Echo",
+  "weapon": "Donner-Hellebarde",
+  "weapon_id": "thunderous_halberd",
+  "birthday": "14. August (Löwe)",
+  "birthplace": "Keine Aufzeichnungen",
+  "gender": "Weiblich",
+  "info": "Ein ungeschicktes Mädchen voller Tatendrang, die das Herz auf der Zunge trägt.\nWeil sie einst von einem reisenden Händler gerettet wurde, reist sie jetzt umher, um ihrerseits Gutes zu tun.\nSie hasst das Böse und will es ausmerzen, indem sie gute Taten begeht. Da sie jung und unerfahren ist, beurteilt sie andere oft nach fragwürdigen Kriterien.",
+  "description": "Echo wurde in Warren geboren und träumte immer davon, das Land des ewigen Schnees zu verlassen, um den Rest der Welt zu sehen.\nAls sie neun war, zerstörte eine plötzliche Lawine ihr Zuhause. Ihre Eltern konnten sie retten, kamen aber selbst ums Leben. Sie wurde von einem durchreisenden Händler gerettet und in eine Einrichtung in Banges gebracht.\nNach fünf Jahren in Banges beschloss sie, sich aufzumachen, um gegen das Böse zu kämpfen und das Gute in die Welt zu tragen.",
+  "like": "Oma Eileen; Fisch essen",
+  "dislike": "Fahrzeuge fahren",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Shieldbreaking",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 11,
+  "charge": 7,
+  "skills": [
+    {
+      "name": "Stoß",
+      "type": [
+        "Attack"
+      ],
+      "description": "Wenn der Anwender auf dem Boden steht und den Langspeer schwingt, greift er 5-mal hintereinander an.\nErster Angriff: verursacht Schaden in Höhe von <b>24.7%</b> des ANG + <b>1</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>22.6%</b> des ANG + <b>1</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>47.2%</b> des ANG + <b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>65.2%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>114.95%</b> des ANG + <b>6</b> und stößt das Ziel eine beträchtliche Strecke zurück."
+    },
+    {
+      "name": "Sprungschlag",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist, tippe auf normaler Angriff, um 4 Mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>27.4%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>23.2%</b> des ANG + <b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>45.8%</b> des ANG + <b>2</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>110%</b> des ANG + <b>6</b>."
+    },
+    {
+      "name": "Kopfspalter",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Kopfspalter“ auszulösen.\nFügt beim Fallen Schaden in Höhe von <b>8%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b> und schlägst das Ziel nieder.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+    },
+    {
+      "name": "Speerhagel",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Speerhagel“ auszulösen.\nLässt das Ziel bei einem Treffer <b>länger schweben</b> und verursacht Schaden in Höhe von <b>49.2%</b> des ANG + <b>3</b>. Tippe erneut, um das schwebende Ziel weiter anzugreifen und ihm Schaden in Höhe von bis zu <b>98%</b> des ANG + <b>5</b> zuzufügen."
+    },
+    {
+      "name": "Schleichattacke",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+    },
+    {
+      "name": "Fliegender Tritt",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Um „Fliegender Tritt“ auszulösen, tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (vor dem Ausweichen auf eine Pfeiltaste tippen).\nDies fügt getroffenen Gegnern Schaden in Höhe von <b>72%</b> des ANG + <b>4</b> zu, stößt sie deutlich zurück und <b>betäubt</b> sie für <b>1</b> Sek. oder für <b>0,5</b> Sek., wenn das Ziel ein Wanderer ist."
+    },
+    {
+      "name": "Stürzender Aufprall",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um „Stürzender Aufprall“ auszulösen.\nDies treibt den Langspeer in den Boden, lässt Ziele <b>länger schweben</b> und verursacht Schaden in Höhe von <b>52.8%</b> des ANG + <b>3</b>."
+    },
+    {
+      "name": "Mondjäger",
+      "type": [
+        "Skill"
+      ],
+      "description": "Lässt Ziele <b>länger schweben</b> und den Anwender in die Luft springen, um Schaden in Höhe von <b>127.5%</b> des ANG + <b>7</b> zu verursachen. Abklingzeit: <b>25</b> Sek."
+    },
+    {
+      "name": "Donnerschlag",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>, er springt in die Luft und wirft einen Blitzspeer. Dies verursacht eine Flächenexplosion sowie Schaden in Höhe von <b>296.7%</b> des ANG + <b>16</b> und <b>betäubt</b> das Ziel <b>1</b> Sek. lang."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+  },
+  "advancement": [
+    "Erhöht Zertrümmern um <b>15%</b>. Wenn der Schild des Ziels zertrümmert wurde, wird der ANG aller Teammitglieder für <b>30 Sek.</b> um <b>15%</b> erhöht. Kann nicht gestapelt werden.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>10%</b>.",
+    "Nachdem ein Ziel mit <span class=\"text-green\">Mondjäger</span> getroffen wurde, wird sein ANG für <b>15</b> Sek. um <b>5%</b> verringert und der ANG des Anwenders um <b>5%</b> erhöht (Effekt bis zu <b>3</b>-mal stapelbar, indem mehrere Ziele getroffen werden). Der Effekt wird gegen Ziele mit Verwunden verdoppelt.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>20%</b>.",
+    "Verdoppelt die Betäubungsdauer von Ausweichfähigkeiten.",
+    "Je höher die zurückgelegte Entfernung der Entladungsfähigkeit ist, desto mehr Schaden verursacht sie (bis zu <b>100%</b> mehr Schaden)."
+  ],
+  "traits": [
+    {
+      "name": "Echo: Aufrichtigkeit",
+      "icon": true,
+      "description": "Wenn das Ziel mit Echo in einem Team ist, erhalten Verbündete im Umkreis von <b>10</b> Metern um Echo einen Schadensbonus von <b>4%</b> (außer Echo)."
+    },
+    {
+      "name": "Echo: Entschlossenheit",
+      "icon": true,
+      "description": "Wenn das Ziel mit Echo in einem Team ist, erhalten Verbündete im Umkreis von <b>10</b> Metern um Echo einen Schadensbonus von <b>6%</b> (außer Echo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

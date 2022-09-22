@@ -1,0 +1,286 @@
+{
+  "_id": 2,
+  "id": "cocoritter",
+  "name": "Coco",
+  "weapon": "Absolute Zero",
+  "weapon_id": "absolute_zero",
+  "birthday": "1 June (Gemini)",
+  "birthplace": "Unknown",
+  "gender": "Female",
+  "info": "An innocent, romantic girl who is always upbeat. Too trusting of others, thus giving off the impression of being naive.\nLoves sweets, yet manages to keep a delicate balance between sugar and healthy food. Directionally challenged, but has the knack to not get lost ever once she's found her way. One cannot help to be concerned for her, though in reality, she's very capable of taking care of herself.",
+  "description": "Being the daughter of a Hykros medical researcher, Cocoritter started showing her talents in the art of healing at a young age, and joined the lab where her parents worked, absorbing as much medical knowledge as possible.\nShe's been roaming the land, traveling from one shelter to another and treating the injured. She takes this duty very seriously, and considers the experience necessary for becoming a veteran medical staff.",
+  "like": "Candy, anything cute",
+  "dislike": "Unknown",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 12.5,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing the staff to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>54.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>40.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>89.7%</b> of ATK + <b>5</b>.\nFifth Attack: Deal damage equal to <b>158.4%</b> of ATK + <b>8</b>."
+    },
+    {
+      "name": "Soaring Barrage",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>70.5%</b> of ATK + <b>4</b>.\nSecond Attack: Deal damage equal to <b>50.8%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>55.1%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>99.1%</b> of ATK + <b>5</b>.\nFifth Attack: Deal damage equal to <b>103.2%</b> of ATK + <b>5</b>."
+    },
+    {
+      "name": "Moonfall",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne to trigger Moonfall.\nUpon landing, deal damage once every <b>0.2</b> seconds, for a total of <b>123.8%</b> of ATK + <b>7</b> damage."
+    },
+    {
+      "name": "Focused Assault",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After the third normal attack, hold the normal attack button to trigger branch attacks, consuming<b>300</b>points of endurance.\nFirst Attack: Pull in enemies in front of the user, <b>suspending them</b> and dealing damage equal to <b>34.9%</b> of ATK + <b>2</b> every <b>0.3</b> seconds (up to <b>4</b> times).\nSecond Attack: Deal damage equal to <b>40.4%</b> of ATK + <b>2</b> at the target location and to nearby enemies every <b>0.3</b> seconds."
+    },
+    {
+      "name": "Surge",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Surge.\nEach wave of energy deals damage equal to <b>45.9%</b> of ATK + <b>2</b> to targets.\nGrant <b>75</b> weapon charge points upon use."
+    },
+    {
+      "name": "Tesseract",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short period after dodging to trigger Evasive Blast.\nFire an energy orb forward, dealing damage equal to <b>66.4%</b> of ATK + <b>3</b> to targets in its path every <b>0.3</b> seconds (up to 5 times).\nGrant <b>75</b> weapon charge points upon use."
+    },
+    {
+      "name": "Sanctuary",
+      "type": [
+        "Skill"
+      ],
+      "description": "Create a healing zone that moves with the Wanderer and heals nearby allies for <b>95%</b> of ATK + <b>5</b> once every <b>0.5</b> seconds for <b>6</b> seconds. <b>60</b>-second cooldown."
+    },
+    {
+      "name": "Swift Deliverance",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, and the staff continues to remove debuffs from the Wanderer and allies, plus healing nearby Wanderers and allies for <b>118.8%</b> of ATK + <b>6</b> HP for <b>7</b> seconds."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Fully charged weapons will <b>freeze</b> the target for <b>2</b> seconds and leave it frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+  },
+  "advancement": [
+    "After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <b>15</b> meters. Heal for <b>25%</b> of ATK and restore <b>50</b> weapon charge points each time and last for <b>25</b> seconds. Cooldown: <b>25</b> seconds.",
+    "Increase the current weapon's base HP growth by <b>16%</b>.",
+    "Use <span class=\"text-yellow\">Sanctuary</span> or discharge skills to remove debuffs from targets, can be used while being affected by control effects. Increase shatter and damage dealt for all teammates within range by <b>20%</b>, and grant them immunity to control effects and shatter.",
+    "Increase the current weapon's base HP growth by <b>32%</b>.",
+    "Increase healing effect by <b>15%</b>, plus an additional <b>20%</b> when healing targets with less than <b>60%</b> HP.",
+    "Whenever a healing bee is summoned or disappears from battle, heal all allies for <b>100%</b> of the user's ATK. All allies within <b>10</b> meters of the healing bee also gain <b>15%</b> all damage and healing boost (cannot stack)."
+  ],
+  "traits": [
+    {
+      "name": "Cocoritter: Assistance",
+      "icon": true,
+      "description": "When Cocoritter uses a support weapon, increase healing effects she inflicts on others and receives by <b>20%</b>."
+    },
+    {
+      "name": "Cocoritter: Trust",
+      "icon": true,
+      "description": "When Cocoritter uses a support weapon, increase healing and healing received by <b>20%</b>. And when Cocoritter uses a support-type weapon's discharge skill or weapon skill, increase nearby allies' ATK by <b>15%</b> for <b>5</b> seconds."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Heart of winter",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

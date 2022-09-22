@@ -1,0 +1,162 @@
+{
+  "_id": 1,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "weapon": "Nachtigallfeder",
+  "weapon_id": "nightingales_feather",
+  "birthday": "8. Mai (Stier)",
+  "birthplace": "HT201-Zuflucht",
+  "gender": "Weiblich",
+  "info": "Leidet an mangelndem Selbstbewusstsein und macht sich zu viele Sorgen. Was andere Leute denken, beschäftigt sie mehr als ihre eigenen Ideen. Entsprechend ist sie sehr empfindlich und zerbricht sich oft den Kopf über Kleinigkeiten. Aber sie ist auch bodenständig, freundlich, höflich und sorgfältig.\nSie ist noch dabei, zu lernen und sich weiterzuentwickeln. Sie weiß, wo ihre Probleme liegen, und arbeitet daran, eine bessere Führungspersönlichkeit zu werden.",
+  "description": "Als derzeitiges Oberhaupt der Zuflucht HT201 ist Bai Ling für den täglichen Betrieb und das Kampfkommando zuständig. Sie hat erst vor Kurzem die Leitung übernommen, wirkt also noch etwas überfordert und nervös bei der Arbeit.\nDas plötzliche Dahinscheiden des alten Oberhaupts war für Bai Ling ein großer Schock, und einige Mitglieder der Zuflucht hatten Bedenken wegen ihrer übermäßig ängstlichen Persönlichkeit. Sie empfindet ihre Führungsrolle als belastend und macht sich häufig Sorgen darüber, wie sie dafür sorgen kann, dass alles gut läuft.\nAber sie ist auch rücksichtsvoll, verantwortungsbewusst, genau und eine gute Buchhalterin. HT201 scheint zurzeit also in guten Händen zu sein.",
+  "like": "Buchhaltung, Finanzmanagement, Inventur",
+  "dislike": "Mit exzentrischen oder gemeinen Menschen zurechtkommen müssen",
+  "element": "Physical",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 6,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Schnelles Ziehen",
+      "type": [
+        "Attack"
+      ],
+      "description": "Während du auf dem Boden stehst, spanne den Bogen wiederholt, um 5 Mal anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>33.7%</b> des ANG + <b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>30.2%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>54.3%</b> des ANG + <b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>83.5%</b> des ANG + <b>4</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>77.7%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück."
+    },
+    {
+      "name": "Aufgeladener Pfeil",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, um die Waffe aufzuladen. Fügt Grundschaden in Höhe von <b>60.5</b> des ANG + <b>3</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und ihn zu Boden wirfst (Kopfschüsse sind gegen Wanderer unwirksam)."
+    },
+    {
+      "name": "Pfeilhagel",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halten des normalen Angriffs nach einem beliebigen normalen Angriff löst „Pfeilhagel“ aus. Dies verursacht Flächenschaden in Höhe von bis zu <b>198.7%</b> des ANG + <b>10</b> an Zielen."
+    },
+    {
+      "name": "Luft-Salve",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist, tippe auf normaler Angriff, um 4 Mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>38.8%</b> des ANG + <b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>51%</b> des ANG + <b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>77.7%</b> des ANG + <b>4</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>117%</b> des ANG + <b>6</b>."
+    },
+    {
+      "name": "Geladener Pfeil",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe nach dem Ausweichen auf den normalen Angriff, um einen geladenen Pfeil auszulösen. Dies wirft das Ziel um eine kurze Distanz zurück und verursacht Schaden in Höhe von <b>85.5%</b> des ANG + <b>5</b>."
+    },
+    {
+      "name": "Durchdringender Schuss",
+      "type": [
+        "Skill"
+      ],
+      "description": "Macht einen Rückwärtssalto und schießt <b>1</b> „Durchdringender Schuss“ nach vorne, der Schaden in Höhe von <b>154.8%</b> des ANG + <b>8</b> verursacht und das Ziel zurückzuschleudern. Abklingzeit: <b>12</b> Sek."
+    },
+    {
+      "name": "Explosives Sperrfeuer",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und „Explosives Sperrfeuer“ auf das Ziel losgelassen. Dies verursacht Schaden in Höhe von <b>486.6%</b> des ANG + <b>26</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Verwunden",
+    "description": "Voll geladene Waffen verursachen beim nächsten Angriff Schaden in Höhe von <b>100%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
+  },
+  "advancement": [
+    "Nach jedem fünften normalen Angriff oder der Verwendung von <span class=\"text-green\">Durchdringender Schuss</span> wird 1 Ausweichversuch wiederhergestellt.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>10%</b>.",
+    "Erhöht den Kopfschussschaden um <b>30%</b>.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>20%</b>.",
+    "Ausweichfähigkeiten fügen Zielen für <b>7</b> Sek. „Verwunden“ zu.",
+    "Erhöht die kritische Trefferrate bei Zielen mit „Verwunden“ um <b>30%</b> und den kritischen Schaden um <b>50%</b>."
+  ],
+  "traits": [
+    {
+      "name": "Bai Ling: Tapferkeit",
+      "icon": true,
+      "description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für <b>12</b> Sek. um <b>8%</b>. Abklingzeit: <b>60</b> Sek."
+    },
+    {
+      "name": "Bai Ling: Entschlossenheit",
+      "icon": true,
+      "description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für <b>12</b> Sek. um <b>15%</b>. Abklingzeit: <b>60</b> Sek."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

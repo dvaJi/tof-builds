@@ -1,0 +1,17 @@
+{
+  "name": "Crispy Oil Melon",
+  "uri": "crispyoilmelon",
+  "imgSrc": "crispyoilmelon.webp",
+  "rarity": "4",
+  "chinaOnly": true,
+  "effect": "Recovers **20** satiety\nRecovers **20% + 60,000** HP",
+  "recipe": [
+    {
+      "name": "Oil Melon",
+      "rarity": "4",
+      "uri": "oilmelon",
+      "imgSrc": "oilmelon.webp",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "_id": 9,
+  "id": "king",
+  "name": "KING",
+  "weapon": "Scythe of the Crow",
+  "weapon_id": "scythe_of_the_crow",
+  "birthday": "3 November (Scorpio)",
+  "birthplace": "Ravager",
+  "gender": "Pria",
+  "info": "Urakan dan bergaya flamboyan, KING memancarkan aura yang kuat ke mana pun dia pergi. Dengan nyali besarnya, dia senantiasa membersitkan watak yang intimidatif dan agresif. Meski perangainya bisa menimbulkan masalah, KING tak sulit diajak berkomunikasi.\nSebagai biang caper, KING adalah seorang materialis; karena itu, dia lugas dan mata duitan. Pembual dan orang yang sok-sokan adalah karakter yang dibencinya.\nKING kerap menggunakan kekerasan untuk menyelesaikan masalah dan meraih keinginannya. Dia juga tak suka muluk-muluk dalam berstrategi (dalam bertarung maupun lainnya).\nMereka yang baru bertemu sejenak dengan KING mungkin berpendapat bahwa dia cuma seorang pria perkasa yang simpel; meskipun bisa saja mengutarakan anggapan itu tanpa niat apa pun, mereka lebih memilih menyimpannya dalam hati.",
+  "description": "Dari semua orang yang mau-maunya berurusan dengan bunga mencekik Banges Business Association, KING adalah kasus paling unik. Biasanya, orang yang tak mampu membayar akan dipaksa bekerja di tambang, tetapi dia tak pernah diperlakukan seperti itu.\nBukannya Association tidak mau, tetapi walaupun sudah menawarkan hadiah besar agar tidak perlu repot berusaha, mereka tetap tidak dapat menangkapnya.\nSebagai seorang tentara bayaran yang ternama akan keahlian bertarungnya, KING memang lekat dengan kekerasan. Sejak kecil, dia suka berkelahi. Kini, dia jadi jagoan ulung satu lawan banyak. Setiap kali dia dapat pekerjaan, bayarannya besar, tapi juga cepat dihabiskannya.",
+  "like": "Uang, Menghabiskan Uang, Hal sederhana",
+  "dislike": "Item Tak Ternilai",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 5,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan Scythe untuk melancarkan serangan 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>57.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebanyak <b>49.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>106.8%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebanyak <b>109.5%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kelima: Menimbulkan damage sebanyak <b>104.2%</b> ATK + <b>5</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan membuat Wanderer kena Airborne."
+    },
+    {
+      "name": "Rising Scythe",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat Airborne atau setelah melompat satu kali, serang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>63.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan damage sebanyak <b>68.8%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>190.5%</b> ATK + <b>10</b>.\nSerangan Keempat: Menimbulkan damage sebanyak <b>213.6%</b> ATK + <b>11</b>.\nSerangan Kelima: Menimbulkan damage sebanyak <b>173.9%</b> ATK + <b>9</b> dan memukul jatuh target. Makin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+    },
+    {
+      "name": "Asunder",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Asunder.\nSaat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>71.9%</b> ATK + <b>4</b> dan <b>Knockdown</b>.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar damage yang ditimbulkan, maks <b>600%</b> damage."
+    },
+    {
+      "name": "Returning Chainblade",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk Normal Attack selama durasi singkat Perfect Dodge (ketuk tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>137.4%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+    },
+    {
+      "name": "Returning Chainblade",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack selama durasi singkat Perfect Dodge (ketuk tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>126.9%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
+    },
+    {
+      "name": "Domain of the Bat",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Saat menghindar, memanggil Domain of the Bat yang menarik target ke tengah. Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengayunkan Scythe, menimpakan hingga <b>114.3%</b> ATK + <b>6</b> damage kepada target."
+    },
+    {
+      "name": "Mortal Coil",
+      "type": [
+        "Skill"
+      ],
+      "description": "Ayunkan Scythe untuk menimbulkan damage sebanyak <b>499.9%</b> ATK + <b>26</b>. Cooldown: <b>45</b> detik."
+    },
+    {
+      "name": "Flaming Scythe",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menciptakan Flaming Scythe saat beralih ke senjata ini sehingga menimbulkan damage sebanyak <b>398.3%</b> ATK + <b>21</b> dan bertahan selama <b>10</b> detik. Selain itu, memunculkan Flaming Scythe Domain setiap <b>2</b> detik. Scythe akan memanggil letusan gunung berapi dari tanah, yang menimbulkan damage sebanyak <b>66%</b> ATK + <b>3</b> kepada target dan mengakibatkan Suspend kepada mereka."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>{3}%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+  },
+  "advancement": [
+    "Meningkatkan Shatter sebesar <b>15%</b>. Setelah menghancurkan perisai musuh, menimpakan Burn Damage sebanyak <b>120%</b> ATK kepada target setiap detik selama <b>15</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Meningkatkan damage yang ditimpakan sebanyak <b>10%</b> untuk setiap musuh dalam radius <b>6</b> meter, maks <b>30%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Meningkatkan damage yang ditimpakan terhadap HP Shield atau musuh dengan Shield sebanyak <b>100%</b>.",
+    "Meningkatkan damage yang ditimpakan sebanyak <b>10%</b> untuk setiap musuh yang dibantai selama <b>30</b> detik (bisa ditumpuk maks <b>3</b> kali)."
+  ],
+  "traits": [
+    {
+      "name": "KING: Coldblooded Swipe",
+      "icon": true,
+      "description": "Setiap <b>7</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>8%</b> Max HP."
+    },
+    {
+      "name": "KING: Fear Reaper",
+      "icon": true,
+      "description": "Setiap <b>5</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>10%</b> Max HP."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Heart of Lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

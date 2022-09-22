@@ -1,0 +1,280 @@
+{
+  "_id": 6,
+  "id": "frigg",
+  "name": "Frigg",
+  "weapon": "Balmung",
+  "weapon_id": "balmung",
+  "birthday": "1.º de fevereiro (Aquário)",
+  "birthplace": "Herdeiros de Aida",
+  "gender": "Feminino",
+  "info": "Reservada e, no trabalho, decidida. \nEla tem o próprio entendimento e filosofia pela vida, e, quando tem tempo, costuma refletir sobre o que significa viver.",
+  "description": "Uma Anjo da Clemência. Com o corpo reestruturado em máquina de metal vivo, ela pôde resistir à radiação sem usar supressor. \n\nÉ o braço direito do Sábio e obedece a cada ordem sem questionar. Como uma das principais oficiais dos herdeiros de Aida, Frigg tem autorização para liderar as tropas, mas prefere agir sozinha na maioria das vezes.",
+  "like": "Minha espada",
+  "dislike": "Tudo do jeito dela",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 8,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, executa 5 ataques consecutivos com Balmung.\nO primeiro ataque causa dano de <b>62.1%</b> do ATQ + <b>3</b> e leve repulsão.\nO segundo ataque causa dano de <b>46.2%</b> do ATQ + <b>2</b> e repulsão.\nO terceiro ataque causa dano de <b>91.1%</b> do ATQ + <b>5</b> e leve repulsão.\nO quarto ataque causa dano de <b>55.8%</b> do ATQ + <b>3</b> e leve repulsão.\nO quinto ataque causa dano de <b>218.4%</b> do ATQ + <b>11</b> e derruba o alvo."
+    },
+    {
+      "name": "Disparo Aéreo",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>64.4%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>72.6%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>76.7%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>107.9%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano de <b>168.3%</b> do ATQ + <b>9</b>."
+    },
+    {
+      "name": "Corte Elevado",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal para usar Corte Elevado.\nAvance com um deslizamento horizontal e então lance o alvo no ar antes de se elevar com ele. Causa dano máximo de <b>134.3%</b> do ATQ + <b>7</b>."
+    },
+    {
+      "name": "Corte Espiralado",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Corte Espiralado.\nEnquanto cai, cada golpe causa dano de <b>19.8%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>185.7%</b> do ATQ + <b>10</b> a alvos próximos."
+    },
+    {
+      "name": "Multicorte",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal durante o tempo de esquiva perfeita para usar Multicorte.\nRealiza diversos cortes a uma distância definida em frente ao usuário e causa dano total de <b>{4}%</b> do ATQ + <b>{5}</b>."
+    },
+    {
+      "name": "Fimbulwinter",
+      "type": [
+        "Skill"
+      ],
+      "description": "Corta o espaço ao seu redor. Causa dano total de <b>577.5%</b> do ATQ + <b>30</b>. Pode suspender e lançar os alvos no ar e concede imunidade a dano enquanto a habilidade estiver em uso. Tempo de recarga: <b>30</b> seg.\nUma grande Área Gélida se forma ao seu redor por <b>25</b> segundos após usar <b>Fimbulwinter</b>. Não consome tentativas de esquiva quando você se esquiva com a Balmung na Área Gélida.\nConfere domínio glacial I quando estiver na Área Gélida, que aumenta o despedaçar em <b>25%</b> ao usar uma arma gélida."
+    },
+    {
+      "name": "Fratura Frígida",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga de arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de quem a usa</b> e arremete ao trocar para esta arma, controlando temporariamente os oponentes em uma área antes de realizar um corte gigantesco. Causa dano de <b>618.2%</b> do ATQ + <b>33</b> e lança os inimigos no ar."
+    }
+  ],
+  "weapon_type": {
+    "name": "Casca de Gelo",
+    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>111%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Ressonância gélida",
+    "description": "<b>Ressonância gélida</b>: Aumenta o ATQ gélido em <b>15%</b> e a resistência gélida em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas gélidas. Este efeito de conjunto também funciona com armas no espaço secundário. Não acumula."
+  },
+  "advancement": [
+    "Você ganha <b>1</b> ponto de glacialidade cada vez que sofre dano de <b>550%</b> do ATQ gélido na Área Gélida. É possível acumular até <b>10</b> pontos de glacialidade.\nQuando a Área Gélida termina, causa dano explosivo de <b>95%</b> do ATQ gélido x pontos de glacialidade a todos os inimigos na Área Gélida. Perde <b>1</b> ponto de glacialidade a cada <b>3</b> segundos ao sair da Área Gélida.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>16%</b>.",
+    "Aumenta o limite de glacialidade para <b>15</b> pontos. Causa dano de <b>20%</b> do ATQ gélido x (pontos de glacialidade + 5) a todos os alvos na Área Gélida ao usar habilidades de descarga com armas gélidas na Área Gélida.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Despedaçar escudos com armas gélidas na Área Gélida congela o alvo por <b>2</b> segundos e causa dano adicional de <b>35%</b> do ATQ gélido x pontos de glacialidade. O dano adicional é dobrado se o alvo não puder ser congelado.",
+    "Recebe um domínio glacial II adicional que aumenta o ATQ gélido em <b>25%</b> ao usar armas gélidas quando estiver dentro da Área Gélida e glacialidade atingir <b>15</b> pontos."
+  ],
+  "traits": [
+    {
+      "name": "Congelamento",
+      "description": "Aumenta o ATQ gélido em <b>1,5%</b> a cada <b>3</b> segundos ao entrar em batalha. Acumula até <b>10</b> vezes. Dura <b>5</b> segundos."
+    },
+    {
+      "name": "Bloqueado por gelo",
+      "description": "Aumenta o ATQ gélido em <b>2,4%</b> a cada <b>3</b> segundos ao entrar em batalha. Acumula até <b>10</b> vezes. Dura <b>5</b> segundos. Além disso, confere corpo de aço e imunidade a efeitos incapacitantes na Área Gélida."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Coração-de-inverno",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Corpo reforçado II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

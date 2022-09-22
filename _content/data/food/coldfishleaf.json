@@ -1,0 +1,17 @@
+{
+  "name": "Cold Fish Leaf",
+  "uri": "coldfishleaf",
+  "imgSrc": "coldfishleaf.webp",
+  "rarity": "3",
+  "chinaOnly": true,
+  "effect": "Recovers **10** satiety\nRecovers **16% + 34,000** HP",
+  "recipe": [
+    {
+      "name": "Fish Leaf",
+      "rarity": "3",
+      "uri": "fishleaf",
+      "imgSrc": "fishleaf.webp",
+      "amount": 2
+    }
+  ]
+}

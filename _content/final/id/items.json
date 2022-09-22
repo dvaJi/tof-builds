@@ -1,0 +1,176 @@
+[
+  {
+    "_id": 1,
+    "id": "icecore",
+    "name": "Icecore",
+    "description": "Shard berisi Ice Elemental Power, sejernih kristal.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "N"
+  },
+  {
+    "_id": 2,
+    "id": "heart_of_winter",
+    "name": "Heart of Winter",
+    "description": "Bijih langka dengan Ice Elemental Power. Ice Element dengan kemurnian tinggi di dalamnya memberikan tampilan biru yang kaya.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "R"
+  },
+  {
+    "_id": 3,
+    "id": "nano_coating_i",
+    "name": "Nano Coating I",
+    "description": "Lapisan yang dikembangkan dari teknologi baru untuk sedikit meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "R"
+  },
+  {
+    "_id": 4,
+    "id": "nano_coating_ii",
+    "name": "Nano Coating II",
+    "description": "Lapisan yang dikembangkan kembali setelah penelitian lebih lanjut untuk meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "SR"
+  },
+  {
+    "_id": 5,
+    "id": "nano_coating_iii",
+    "name": "Nano Coating III",
+    "description": "Lapisan yang dikembangkan dari teknologi eksklusif Hykros untuk meningkatkan kinerja senjata secara signifikan.",
+    "usage": "Untuk meningkatkan senjata."
+  },
+  {
+    "_id": 6,
+    "id": "nano_coating_iv",
+    "name": "Nano Coating IV",
+    "usage": "Untuk meningkatkan senjata."
+  },
+  {
+    "_id": 7,
+    "id": "booster_frame_i",
+    "name": "Booster Frame I",
+    "description": "Kerangka kuat yang dikembangkan dari teknologi baru untuk sedikit meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "SR"
+  },
+  {
+    "_id": 8,
+    "id": "booster_frame_ii",
+    "name": "Booster Frame II",
+    "description": "Kerangka yang dikembangkan kembali setelah penelitian lebih lanjut untuk meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "SSR"
+  },
+  {
+    "_id": 9,
+    "id": "booster_frame_iii",
+    "name": "Booster Frame III",
+    "description": "Kerangka kuat yang dikembangkan dari teknologi eksklusif Hykros untuk meningkatkan kinerja senjata secara signifikan.",
+    "usage": "Untuk meningkatkan senjata."
+  },
+  {
+    "_id": 10,
+    "id": "booster_frame_iv",
+    "name": "Booster Frame IV",
+    "usage": "Untuk meningkatkan senjata."
+  },
+  {
+    "_id": 11,
+    "id": "rockcore",
+    "name": "Rockcore",
+    "description": "Shard sangat keras yang terbentuk dalam pengaruh Omnium, berpenampilan membosankan.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "N"
+  },
+  {
+    "_id": 12,
+    "id": "heart_of_summit",
+    "name": "Heart of Summit",
+    "description": "Bijih langka dan sangat keras yang membutuhkan teknologi Omnium spesial untuk bisa ditempa.",
+    "usage": "Untuk meningkatkan senjata."
+  },
+  {
+    "_id": 13,
+    "id": "landsource",
+    "name": "Landsource",
+    "description": "Bijih langka yang utuh dan keras. Kristal transparan ini terkadang memancarkan denyut misterius mungil seperti detak jantung.",
+    "usage": "Untuk meningkatkan senjata."
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_i",
+    "name": "Acidproof Glaze I",
+    "description": "Material tahan asam yang dikembangkan dari teknologi baru untuk sedikit meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "R"
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_ii",
+    "name": "Acidproof Glaze II",
+    "description": "Glasir yang dikembangkan kembali setelah penelitian lebih lanjut untuk meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "SR"
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_iii",
+    "name": "Acidproof Glaze III",
+    "description": "Glasir yang dikembangkan dari teknologi eksklusif Hykros untuk meningkatkan kinerja senjata secara signifikan.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "SSR"
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_iv",
+    "name": "Acidproof Glaze IV",
+    "usage": "Untuk meningkatkan senjata."
+  },
+  {
+    "_id": 18,
+    "id": "nanofiber_frame_i",
+    "name": "Nanofiber Frame I",
+    "description": "Kerangka premium yang dikembangkan dari teknologi baru untuk sedikit meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "SR"
+  },
+  {
+    "_id": 19,
+    "id": "nanofiber_frame_ii",
+    "name": "Nanofiber Frame II",
+    "description": "Kerangka premium yang dikembangkan kembali setelah penelitian lebih lanjut untuk meningkatkan kinerja senjata.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "SSR"
+  },
+  {
+    "_id": 20,
+    "id": "magcore",
+    "name": "Magcore",
+    "description": "Shard berisi Volt Elemental Power yang berpendar redup dalam gelap.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "N"
+  },
+  {
+    "_id": 21,
+    "id": "heart_of_lightning",
+    "name": "Heart of Lightning",
+    "description": "Bijih langka yang berisi Volt Elemental Power. Dalam penerangan yang baik, nyala di dalamnya bisa terlihat.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "R"
+  },
+  {
+    "_id": 22,
+    "id": "firecore",
+    "name": "Firecore",
+    "description": "Shard dengan Fire Elemental Power, mengeluarkan sedikit panas saat dilelehkan.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "N"
+  },
+  {
+    "_id": 23,
+    "id": "Heart of Lava",
+    "name": "Heart of Lava",
+    "description": "Bijih langka yang berisi Fire Elemental Power. Warna merahnya yang menyala sudah jadi cukup bukti akan kekuatan di dalamnya.",
+    "usage": "Untuk meningkatkan senjata.",
+    "rarity": "R"
+  }
+]

@@ -1,0 +1,285 @@
+{
+  "name": "Shiro",
+  "weapon": "Chakram of the Seas",
+  "element": "Physical",
+  "rarity": "SSR",
+  "id": "shiro",
+  "global": false,
+  "tier": 3,
+  "tier_constellation": 3,
+  "pvp": 3,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Sub DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 11.7,
+  "charge": 6,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A Sub DPS with great AOE capabilities thanks to her bouncing chakrams. She gets very powerful team-wide skill cooldown reset at her 3rd advancement.",
+      "set1": [
+        "Shiro",
+        "King"
+      ],
+      "set2": [
+        "Shiro"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Rapid Throw",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, brandish the chakram to unleash 5 spinning attacks.</p>\n<ul>\n<li>First Attack: Deal damage equal to 30.7% of ATK + 2.</li>\n<li>Second Attack: Deal damage equal to 23.8% of ATK + 1.</li>\n<li>Third Attack: Deal damage equal to 34% of ATK + 2.</li>\n<li>Fourth Attack: Deal damage equal to 30.7% of ATK + 2.</li>\n<li>Fifth Attack: Deal damage equal to 53.8% of ATK + 3 and knock the target back a short distance.</li>\n</ul>"
+    },
+    {
+      "name": "Aerial Discharge",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne or after jumping once, tap normal attack to unleash 3 spinning attacks in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 26.2% of ATK + 1.</li>\n<li>Second Attack: Deal damage equal to 29.2% of ATK + 2.</li>\n<li>Third Attack: Deal damage equal to 37.2% of ATK + 2.</li>\n</ul>"
+    },
+    {
+      "name": "Scatter",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "<p>After the second normal attack, hold attack button to activate Scatter.</p>\n<p>Fire five penetrating chakrams forward, each hit dealing 43.5% of ATK + 2 damage, with minor knockback.</p>"
+    },
+    {
+      "name": "Air Spin",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold normal attack while airborne to trigger Air Spin.</p>\n<p>Unleash a powerful strike, dealing damage equal to 191.5% of ATK + 10 to the target and nearby enemies, and suspend them."
+    },
+    {
+      "name": "Sneak Attack",
+      "icon": true,
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to 427.5% of ATK + 23."
+    },
+    {
+      "name": "Waning Moon",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short period after dodging to trigger Waning Moon.</p>\n<p>Toss a spinning chakram forward, dealing damage equal to 132.9% of ATK + 7 to the target and inflicting a stun effect for 0.5 seconds. The chakram then splits into 3 and keeps traveling, dealing damage equal to 24.2% of ATK + 1 to targets along their path. Split chakrams will bounce during Full Bloom.</p>"
+    },
+    {
+      "name": "Full Bloom",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Create a Chakram Domain with the Wanderer at the center for 8 seconds. At the same time, enemies are pulled in, and their speed is reduced by 30% for 8 seconds. Fire 5 chakrams that bounce between enemies, dealing damage equal to 24.2% of ATK + 1 to targets along their paths, bouncing up to 5 times.</p>\n<p>The split chakrams triggered by Waning Moon will also bounce up to 5 times.</p>\n<p>Cooldown: 45 seconds.</p>"
+    },
+    {
+      "name": "Spirit of the Air",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "When weapon charge is full or Phantasia is triggered, switching to this weapon from another weapon removes all debuffs from the wielder and unleashes Chkram of the Seas at a target. Struck target causes AOE stun for 1 second, plus 1 attack each against up to 3 units every second (each attack has 10% chance of stunning the target for 1.5 seconds) dealing 41.4% of ATK + 2 damage for 10 seconds."
+    }
+  ],
+  "weapon_type": {
+    "name": "Grievous",
+    "type": "Physical",
+    "description": "Fully charged weapons will inflict damage equal to 137% of ATK with the next attack, and make the target grievous for 7 seconds, taking 20% extra damage."
+  },
+  "advancement": [
+    "Increase damage dealt to and all elemental shattering effects on targets within Full Bloom's range by 30%.",
+    "Increase the current weapon's base ATK growth by 16%.",
+    "<p>Increase shatter by 15% and reset all weapon skill cooldowns upon shattering the target's shield.</p>\n<p>Can only be triggered once every 30 seconds.</p>",
+    "Increase the current weapon's base HP growth by 32%.",
+    "Attacking a grievous target extends the duration of grievous by an additional 7 seconds (only takes effect once for the same effect).",
+    "After using Full Bloom, grant a 100% crit chance for the next 8 seconds."
+  ],
+  "traits": [
+    {
+      "name": "Security Alert",
+      "icon": true,
+      "description": "<p>When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by 10% and physical ATK by an additional 7% for 8 seconds.</p>\n<p>Cooldown: 16 seconds.</p>"
+    },
+    {
+      "name": "Red Alarm",
+      "icon": true,
+      "description": "<p>When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by 16% and physical ATK by an additional 10% for 8 seconds.</p>\n<p>Cooldown: 16 seconds.</p>"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "Heart of Summit",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

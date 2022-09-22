@@ -1,0 +1,31 @@
+{
+  "name": "Balloon Fruit Salad",
+  "uri": "balloonfruitsalad",
+  "imgSrc": "balloonfruitsalad.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\nRecovers **16% + 34,000** HP",
+  "recipe": [
+    {
+      "name": "Balloon Fruit",
+      "rarity": "3",
+      "uri": "balloonfruit",
+      "imgSrc": "balloonfruit.webp",
+      "amount": 2
+    },
+    {
+      "name": "Thornmato",
+      "rarity": "3",
+      "uri": "thornmato",
+      "imgSrc": "thornmato.webp",
+      "amount": 2
+    },
+    {
+      "name": "Salad Dressing",
+      "rarity": "3",
+      "uri": "saladdressing",
+      "imgSrc": "saladdressing.webp",
+      "amount": 1
+    }
+  ]
+}

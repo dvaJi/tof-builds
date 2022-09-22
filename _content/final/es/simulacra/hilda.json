@@ -1,0 +1,131 @@
+{
+  "_id": 7,
+  "id": "hilda",
+  "name": "Hilda",
+  "weapon": "Exterminadora",
+  "weapon_id": "the_terminator",
+  "birthday": "11 de marzo (Aries)",
+  "birthplace": "Banges",
+  "gender": "Femenino",
+  "info": "Una joven apasionada y sincera. Despreocupada y casual. Muy popular.\nNo discrimina a nadie según edad o género y trata a todos como iguales. Se lleva bien con todos al instante sin importar la edad; considera a Theo, el hijo del director de Tecnología Banges, su amigo cercano.\nA veces es un poco grosera e insensible y suele olvidarse cosas (incluidas sus propias armas).",
+  "description": "Hilda, la \"superestrella\" del Puerto de Banges, no es una desconocida para la gente del pueblo.\nSiente un profundo amor por su ciudad natal y hará todo lo posible por protegerla.\nHilda no tiene una carrera establecida y prefiere vagar por el puerto haciendo esto y aquello para las tiendas a cambio de dinero; de vez en cuando, acepta tareas más peligrosas, como patrullas o guardias. Siempre que se siente cansada, se toma uno o dos días libres para comer y comprar a gusto.",
+  "like": "Pollo frito, celebraciones, negociar",
+  "dislike": "Planes de vida",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal para entrar al modo de apuntado. Mantén el ataque normal para disparar de forma continua hasta <b>40</b> veces. Cada disparo inflige daño equivalente al <b>11.4%</b> del ATQ + <b>1</b>. Inflige daño doble al acertar a la cabeza o a los puntos débiles del enemigo y lo derriba (los disparos a la cabeza no son efectivos contra nómadas)."
+    },
+    {
+      "name": "Torreta",
+      "type": [
+        "Skill"
+      ],
+      "description": "Activa el modo de torreta para disparar grandes esferas de energía, cada una de las cuales inflige daño equivalente al <b>213.3%</b> del ATQ + <b>11</b> y lanza el objetivo al aire. Te volverás inmune al aturdimiento por golpes mientras preparas la Torreta. <b>3.5</b> segundos de enfriamiento."
+    },
+    {
+      "name": "Rayo ártico",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Fantasía</span>, <b>remueve todas las desventajas del portador</b> y dispara un Rayo ártico tras cambiar a esta arma, que inflige daño equivalente al <b>329.2%</b> del ATQ + <b>17</b> y causa un efecto de <b>congelación</b> por <b>3</b> segundos. También reduce la resistencia al hielo del objetivo un <b>50%</b> durante <b>10</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Caparazón de Hielo",
+    "description": "Las armas completamente cargadas <b>congelarán</b> al objetivo por <b>2</b> segundos y lo dejarán congelado por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>111%</b> del ATQ. Mientras esté congelado, la tasa de carga del arma del objetivo se reduce en un <b>50%</b>."
+  },
+  "advancement": [
+    "Cada ataque normal exitoso aumenta el daño en un <b>1%</b> durante <b>2</b> segundos (se puede acumular hasta <b>15</b> veces). Aumenta la cantidad de municiones a <b>60</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>10%</b>.",
+    "Dentro de <b>10</b> segundos de cambiar al arma, aumenta el daño de los ataques normales y de destrucción en un <b>30%</b>. Enfriamiento: <b>25</b> segundos. Aumenta la capacidad de municiones a <b>80</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>20%</b>.",
+    "Reduce en <b>2</b> segundos el enfriamiento de los ataques normales en modo de torreta.",
+    "Dentro de <b>10</b> segundos de cambiar al arma, aumenta el daño de los ataques normales y de destrucción en un <b>60%</b>. Enfriamiento: <b>25</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "Hilda: Acelerador a Fondo",
+      "icon": true,
+      "description": "Cuando Hilda usa un vehículo, aumenta la velocidad en un <b>7%</b>."
+    },
+    {
+      "name": "Hilda: A Toda Velocidad",
+      "icon": true,
+      "description": "Cuando Hilda usa un vehículo, aumenta la velocidad en un <b>10%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

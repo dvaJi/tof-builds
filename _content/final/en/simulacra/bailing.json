@@ -1,0 +1,162 @@
+{
+  "_id": 1,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "weapon": "Nightingale's Feather",
+  "weapon_id": "nightingales_feather",
+  "birthday": "May 8 (Taurus)",
+  "birthplace": "HT201 Shelter",
+  "gender": "Female",
+  "info": "Lacks confidence and worries too much. She cares more about what other people think than about her own ideas, so it makes her sensitive and anxious over small things. On the other hand, she's also down-to-earth, kind, polite, and meticulous.\nShe's still learning and growing. Having realized her own problems, she's slowly trying to become someone capable of taking charge.",
+  "description": "As the current leader of the HT201 Shelter, Bai Ling is in charge of its daily operation and combat command. She only recently took over the leadership, so she still seems a little overwhelmed and flustered when handling her work.\nThe sudden passing of the previous leader left Bai Ling in shock, and her over-worrying and anxiety-prone personality was also questioned by some members of the shelter. She considers leadership a heavy burden, and is often worried about how to make sure everything runs smoothly.\nBut she is also considerate, responsible, meticulous, and good at bookkeeping, so at the moment, HT201 looks like it's in good hands.",
+  "like": "Accounting, financial management, stock-taking",
+  "dislike": "Having to deal with strange or mean people",
+  "element": "Physical",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Quickdraw",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, draw the bow repeatedly to attack 5 times.\nFirst Attack: Deal damage equal to <b>33.7%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>30.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>54.3%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>83.5%</b> of ATK + <b>4</b>.\nFifth Attack: Deal damage equal to <b>77.7%</b> of ATK + <b>4</b> and knock the target back a short distance."
+    },
+    {
+      "name": "Charged Arrow",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack to charge. Deal basic damage equal to <b>60.5%</b> of ATK + <b>3</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers)."
+    },
+    {
+      "name": "Arrow Rain",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to <b>198.7%</b> of ATK + <b>10</b> area damage to targets."
+    },
+    {
+      "name": "Air Volley",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, tap normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>38.8%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>51%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>77.7%</b> of ATK + <b>4</b>.\nFourth Attack: Deal damage equal to <b>117%</b> of ATK + <b>6</b>."
+    },
+    {
+      "name": "Loaded Arrow",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap attack after dodging to trigger Loaded Arrow, knocking the target back by a short distance and dealing damage equal to <b>85.5%</b> of ATK + <b>5</b>."
+    },
+    {
+      "name": "Piercing Shot",
+      "type": [
+        "Skill"
+      ],
+      "description": "Backflips and fires <b>1</b> piercing shot forward, dealing damage equal to <b>154.8%</b> of ATK + <b>8</b> and knocking the target back. <b>12</b>-second cooldown."
+    },
+    {
+      "name": "Explosive Barrage",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and unleashes Explosive Barrage on the target upon switching to this weapon, dealing damage equal to <b>486.6%</b> of ATK + <b>26</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Grievous",
+    "description": "Fully charged weapons will inflict damage equal to <b>100%</b> of ATK with the next attack, and make the target grievous for <b>7</b> seconds, taking <b>20%</b> extra damage."
+  },
+  "advancement": [
+    "Restore 1 dodge attempt every fifth normal attack or after using <span class=\"text-green\">Piercing Shot</span>.",
+    "Increase the current weapon's base ATK growth by <b>10%</b>.",
+    "Increase headshot damage by <b>30%</b>.",
+    "Increase the current weapon's base ATK growth by <b>20%</b>.",
+    "Dodge skills inflict a grievous effect on targets for <b>7</b> seconds.",
+    "Increase crit rate to grievous targets by <b>30%</b> and crit damage by <b>50%</b>."
+  ],
+  "traits": [
+    {
+      "name": "Bai Ling: Valor",
+      "icon": true,
+      "description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by <b>8%</b> for <b>12</b> seconds. Cooldown: <b>60</b> seconds."
+    },
+    {
+      "name": "Bai Ling: Resoluteness",
+      "icon": true,
+      "description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by <b>15%</b> for <b>12</b> seconds. Cooldown: <b>60</b> seconds."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Wholegrain Bread",
+  "uri": "wholegrainbread",
+  "imgSrc": "wholegrainbread.webp",
+  "rarity": "1",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety",
+  "recipe": [
+    {
+      "name": "Homi Grain",
+      "rarity": "1",
+      "uri": "homigrain",
+      "imgSrc": "homigrain.webp",
+      "amount": 2
+    }
+  ]
+}

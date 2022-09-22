@@ -1,0 +1,31 @@
+{
+  "name": "Chicken Noodle Soup",
+  "uri": "chickennoodlesoup",
+  "imgSrc": "chickennoodlesoup.webp",
+  "rarity": "4",
+  "chinaOnly": true,
+  "effect": "Recovers **20** satiety\n**Physical Attack +2%**<br>\n**Physical Attack +150**<br>\nDuration **1200** sec",
+  "recipe": [
+    {
+      "name": "Radish",
+      "rarity": "4",
+      "uri": "radish",
+      "imgSrc": "radish.webp",
+      "amount": 1
+    },
+    {
+      "name": "Poultry Meat",
+      "rarity": "4",
+      "uri": "poultrymeat",
+      "imgSrc": "poultrymeat.webp",
+      "amount": 1
+    },
+    {
+      "name": "Homi Grain",
+      "rarity": "4",
+      "uri": "homigrain",
+      "imgSrc": "homigrain.webp",
+      "amount": 2
+    }
+  ]
+}

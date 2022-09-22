@@ -1,0 +1,280 @@
+{
+  "name": "Frigg",
+  "weapon": "Balmung",
+  "element": "Ice",
+  "rarity": "SSR",
+  "id": "frigg",
+  "global": false,
+  "tier": 1,
+  "tier_constellation": 0,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 8,
+  "charge": 8,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "The premier Ice DPS unit thanks to her Ice Resonance who revolves around dodge attacks.",
+      "set1": [
+        "Frigg"
+      ],
+      "set2": [
+        "Samir"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>Initiate 5 attacks in a row with Balmun when on the ground.</p>\n<ul>\n<li>First Attack: Deal damage equal to 62.1% of ATK + 3 and knock the target back a short distance.</li>\n<li>Second Attack: Deal damage equal to 46.2% of ATK + 2 and knock the target back a short distance.</li>\n<li>Third Attack: Deal damage equal to 91.1% of ATK + 5 and knock the target back a short distance.</li>\n<li>Fourth Attack: Deal damage equal to 55.8% of ATK + 3 and knock the target back a short distance.</li>\n<li>Fifth Attack: Deal damage equal to 218.4% of ATK + 11 and knock down the target.</li>\n</ul>"
+    },
+    {
+      "name": "Aerial Discharge",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne or after jumping once, tap normal attack to attack 5 times in a row.</p>\n<ul>\r\n<li>First Attack: Deal damage equal to 64.4% of ATK + 3.</li>\r\n<li>Second Attack: Deal damage equal to 72.6% of ATK + 4.</li>\r\n<li>Third Attack: Deal damage equal to 76.7% of ATK + 4.</li>\r\n<li>Fourth Attack: Deal damage equal to 107.9% of ATK + 6.</li>\n<li>Fourth Attack: Deal damage equal to 168.3% of ATK + 9.</li>\r\n</ul>"
+    },
+    {
+      "name": "Soaring Slash",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "<p>While normal attacking, hold normal attack to trigger Soaring Slash.</p>\n<p>Lunge forward with a horizontal swipe, then launch the target into the air before soaring up with the target. Deal a maximum of 134.3% of ATK + 7 damage.</p>"
+    },
+    {
+      "name": "Helix Slash",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Helix Slash.</p>\n<p>While falling, deal damage equal to 19.8% of ATK + 1 each hit. Upon landing, deal damage equal to 185.7% of ATK + 10 to nearby targets.</p>"
+    },
+    {
+      "name": "Multislash",
+      "icon": true,
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short perfect dodge window to trigger Multislash.</p>\n<p>Unleash multiple slashes at a set distance in front of the user, dealing total damage equal to 143.9% of ATK + 8.</p>"
+    },
+    {
+      "name": "Fimbulwinter",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Slash the space around the Wanderer, dealing total damage equal to 577.5% of ATK + 30. Can suspend and launch targets, and grant damage immunity while this skill is in use. 30-second cooldown.</p>\n<p>After unleashing \"Fimbulwinter\", a large frost domain will be formed around you for 25 seconds. The number of dodge you can perform will not be deducted when you perform the Balmung dodge within the frost domain.</p>\n<p>Grant \"Domain of Frost I\" when you are in the frost domain, and increase shatter by 25% when using a frost weapon.</p>"
+    },
+    {
+      "name": "Frigid Fracture",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "<p>When a weapon charge is full or Phantasia is triggered, clear all debuffs from the user and dash forward upon switching to this weapon, temporarily controlling opponents in an area before unleashing a gigantic slash. Deal damage equal to 618.2% of ATK + 33 and launch enemies into the air.</p>"
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "type": "Ice",
+    "description": "Fully charged weapons will freeze the target for 2 seconds and leave it frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 111% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%."
+  },
+  "weapon_resonance": {
+    "name": "Frost Resonance",
+    "type": "Ice",
+    "description": "Increase frost ATK by 15% and frost resistance by 25%. Active by equipping 2 or more frost weapons. This set's effects also works with weapons in the off-hand slot. This effect does not stack."
+  },
+  "advancement": [
+    "<p>Gain 1 frostiness point every time you deal 550% x Frost ATK of damage in the Frost Domain.</p>\n<p>Up to 10 frost points can be accumulated.</p>\n<p>When Frost Domain ends, frostiness points x Frost ATK x 95% of blast damage will be dealt to all enemies in the Frost Domain. After leaving the Frost Domain, lose 1 frostiness point every 3 seconds.</p>",
+    "Increase the current weapon's base HP growth by 16%.",
+    "<p>Increase frostiness limit to 15. When using discharge skills of frost weapons in the frost domain, deal damage equal to 20% of Frost ATK x (current frostiness + 5) to all the targets in the frost domain.</p>",
+    "Increase the current weapon's base ATK growth by 32%.",
+    "<p>Shattering shields using frost weapons in the Frost Domain will freeze the target for 2 seconds and cause frostiness points x Frost ATK  x 35% of additional damage (if the target cannot be frozen, double the additional damage dealt).</p>",
+    "When frostiness reaches 15 points and you are in the Frost Domain, you will get an additional \"Domain of Frost II\" that increases Frost ATK by 12% when frost weapons are used."
+  ],
+  "traits": [
+    {
+      "name": "Freeze",
+      "icon": true,
+      "description": "Increase frost ATK by 1.5% every 3 seconds upon entering battle. Stack up to 10 times. Lasts for 5 seconds."
+    },
+    {
+      "name": "Icebound",
+      "icon": true,
+      "description": "<p>Frost ATK is boosted by 2.4% every 3 seconds upon entering a combat. Stack up to 10 times. Lasts for 5 seconds.</p>\n<p>In addition, gain hyperbody and become immune to control effects in the Frost Domain.</p>"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "Heart of Winter",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

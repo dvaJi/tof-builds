@@ -1,0 +1,38 @@
+// const asd = require("../_content/genshingg.js");
+import asd from "../_content/genshingg.js";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
+
+const DATA_PATH = path.join(__dirname, "..", "_content", "data_gg");
+
+function main() {
+  const simulacras = asd["webpackJsonpgenshin-react"][0][1]["31"]();
+
+  for (const simulacra of simulacras) {
+    fs.writeFileSync(
+      path.join(DATA_PATH, "simulacra", slugify(simulacra.name) + ".json"),
+      JSON.stringify(
+        { ...simulacra, id: slugify(simulacra.name) },
+        undefined,
+        2
+      )
+    );
+  }
+}
+
+function slugify(value) {
+  if (!value) return "";
+
+  return value
+    .toLowerCase()
+    .replace(/\s/g, "_")
+    .replace(/\W/g, "")
+    .replace(/__+/g, "_");
+}
+
+main();

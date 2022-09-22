@@ -1,0 +1,131 @@
+{
+  "_id": 7,
+  "id": "hilda",
+  "name": "Hilda",
+  "weapon": "L'Exterminateur",
+  "weapon_id": "the_terminator",
+  "birthday": "11 avril (bélier)",
+  "birthplace": "Banges",
+  "gender": "Féminin",
+  "info": "Une jeune fille passionnée et sincère. Insouciante et décontractée. Populaire auprès des autres.\nNe discrimine pas les personnes sur la base de leur âge ou de leur sexe, et traite tout le monde sur un pied d'égalité. S'entend rapidement bien avec tout le monde, qu'il s'agisse d'enfants ou d'adultes ; considère Théo, le fils du directeur de Banges Tech, comme un ami proche.\nPeut parfois se montrer quelque peu rustre et insensible et oublie souvent des choses (notamment ses propres armes).",
+  "description": "Véritable star du port de Banges, Hilda connaît tout le monde en ville.\nElle aime profondément sa ville natale et la protègera quoi qu'il en coûte.\nHilda n'a pas fait carrière à proprement parler et préfère faire des petits boulots sur le port en échange d'un peu d'argent ; il lui arrive d'accepter des missions plus dangereuses de temps à autre, comme patrouiller ou monter la garde. Quand elle est fatiguée, elle prend un ou deux jours de congé pour manger comme un ogre.",
+  "like": "Poulet frit, célébrations, troc",
+  "dislike": "Projets de vie",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Attaque normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale pour entrer en mode Visée. Maintenez Attaque normale pour tirer en continu, jusqu'à <b>40</b> cartouches. Chaque tir inflige des dégâts de base équivalant à <b>11.4%</b> de l'ATQ + <b>1</b>. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible d'un ennemi et le renversez (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+    },
+    {
+      "name": "Tourelle",
+      "type": [
+        "Skill"
+      ],
+      "description": "Vous activez le mode Tourelle et envoyez de grands orbes d'énergie. Chacun d'entre eux inflige des dégâts correspondant à <b>213.3%</b> de l'ATQ + <b>11</b>, et envoie la cible dans les airs. L'installation de la tourelle vous immunise contre l'hébétement et les effets de contrôle. <b>3.5</b> secondes de recharge."
+    },
+    {
+      "name": "Rayon arctique",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et tire un rayon arctique au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>329.2%</b> de l'ATQ + <b>17</b>, ainsi qu'un effet de <b>congélation</b> de <b>3</b> secondes. Réduit aussi de <b>50%</b> la résistance au givre de la cible pendant <b>10</b> secondes."
+    }
+  ],
+  "weapon_type": {
+    "name": "Coquille de glace",
+    "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>111%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+  },
+  "advancement": [
+    "Chaque attaque normale réussie accroît les dégâts de <b>1%</b> pendant <b>2</b> secondes (cumulable jusqu'à <b>15</b> fois). Accroît le nombre de munitions à <b>60</b>.",
+    "Augmente de <b>10%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>30%</b> les dégâts des attaques normales et la capacité de fracture dans les <b>10</b> secondes après avoir changé d'arme. Temps de recharge : <b>25</b> secondes. Accroît le nombre de munitions à <b>80</b>.",
+    "Augmente de <b>20%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Réduit de <b>2</b> secondes le temps de recharge des attaques normales en mode Tourelle.",
+    "Accroît de <b>60%</b> les dégâts des attaques normales et la capacité de fracture dans les <b>10</b> secondes après avoir changé d'arme. Temps de recharge : <b>25</b> secondes."
+  ],
+  "traits": [
+    {
+      "name": "Hilda : Pied au plancher",
+      "icon": true,
+      "description": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de <b>7%</b>."
+    },
+    {
+      "name": "Hilda : Dérapage à pleine vitesse",
+      "icon": true,
+      "description": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de <b>10%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

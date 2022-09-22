@@ -1,0 +1,280 @@
+{
+  "_id": 6,
+  "id": "frigg",
+  "name": "Frigg",
+  "weapon": "Balmung",
+  "weapon_id": "balmung",
+  "birthday": "1 Februari (Aquarius)",
+  "birthplace": "Heirs of Aida",
+  "gender": "Perempuan",
+  "info": "Pendiam, dan tegas saat bekerja. \nDia punya pemahaman dan filosofi hidup yang unik, dan akan merenungkan makna kehidupan jika sedang senggang.",
+  "description": "Salah satu Angels of Clemency. Dengan tubuh yang direstrukturisasi menjadi Mesin dari logam hidup, dia bisa bertahan dari serbuan radiasi tanpa Suppressor. \n\nDia benar-benar membantu Sage, karena mematuhi setiap perintahnya tanpa syarat. Sebagai petugas utama, Frigg diberi izin untuk memimpin pasukan Heirs of Aida, tapi dia biasanya lebih suka beraksi sendiri.",
+  "like": "Pedangku sendiri",
+  "dislike": "Segala yang menghadang",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 8,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Memulai 5 serangan berturut-turut dengan Balmung saat di darat.\nSerangan yang pertama menimpakan damage sebanyak <b>62.1%</b> ATK + <b>3</b> dan memberikan Knockback kecil.\nSerangan yang kedua menimpakan damage sebanyak <b>46.2%</b> ATK + <b>2</b> dan memberikan Knockback kecil.\nSerangan yang ketiga menimpakan damage sebanyak <b>91.1%</b> ATK + <b>5</b> dan memberikan Knockback kecil.\nSerangan yang keempat menimpakan damage sebanyak <b>55.8%</b> ATK + <b>3</b> dan memberikan Knockback kecil.\nSerangan yang kelima menimpakan damage sebanyak <b>218.4%</b> ATK + <b>11</b> dan menjatuhkan target."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>168.3%</b> ATK + <b>9</b>."
+    },
+    {
+      "name": "Soaring Slash",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Saat melakukan Normal Attack, tahan Normal Attack untuk mengaktifkan Soaring Slash.\nTerjang maju dengan Swipe Horizontal, lalu lontarkan target ke udara sebelum membumbung tinggi bersama target. Menimpakan maksimum <b>134.3%</b> ATK + <b>7</b> damage."
+    },
+    {
+      "name": "Helix Slash",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat Airborne, atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimpakan damage sebanyak <b>19.8%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimpakan damage sebanyak <b>185.7%</b> ATK + <b>10</b> ke target di sekitar."
+    },
+    {
+      "name": "Multislash",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack dalam jangka waktu Perfect Attack yang singkat untuk mengaktifkan Multislash.\nLepaskan banyak tebasan sejauh jarak tertentu di depan pengguna, menimpakan damage total sebanyak <b>{4}%</b> ATK + <b>{5}</b>."
+    },
+    {
+      "name": "Fimbulwinter",
+      "type": [
+        "Skill"
+      ],
+      "description": "Menebas area di sekitar Wanderer, dan menimpakan Total Damage setara dengan <b>577.5%</b> ATK + <b>30</b>. Bisa mengakibatkan Suspend dan melontarkan target, dan memberikan Damage Immunity saat skill ini digunakan. Cooldown <b>30</b>detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, suatu Frost Domain yang luas akan terbentuk di sekitarmu selama <b>25</b> detik. Jumlah Dodge yang bisa kamu lakukan tidak akan dikurangi saat kamu melakukan Balmung Dodge dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain, dan meningkatkan Shatter sebesar <b>25%</b> saat menggunakan Frost Weapon."
+    },
+    {
+      "name": "Frigid Fracture",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan,<b>menghilangkan semua debuff dari penggunanya</b> dan melesat maju setelah beralih ke senjata ini, mengendalikan lawan di suatu area untuk sementara sebelum melepaskan slash raksasa. Menimpakan damage sebanyak <b>618.2%</b>ATK + <b>33</b> dan melontarkan musuh ke udara."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Frost Resonance",
+    "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Frost Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata dari slot dadakan. Efek tidak bisa ditumpuk."
+  },
+  "advancement": [
+    "Mendapatkan <b>1</b> poin Frostiness setiap kali kamu menerima damage sebesar <b>550%</b> x Frost ATK dalam Frost Domain. Frost bisa diakumulasikan maks <b>10</b> poin.\nSaat Frost Domain habis, Blast Damage sebesar poin Frostiness x Frost ATK x <b>95%</b> akan ditimpakan kepada musuh yang ada di dalam Frost Domain. Setelah keluar dari Frost Domain, <b>1</b> poin Frostiness akan hilang setiap <b>3</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Meningkatkan batas Frostiness menjadi <b>15</b>. Penggunaan Discharge Skill dengan Frost Weapon di dalam Frost Domain akan menimpakan damage setara dengan <b>20%</b> Frost ATK x (Frostiness saat ini +5) kepada semua target di Frost Domain.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Penghancuran perisai dengan menggunakan Frost Weapon di dalam Frost Domain akan membekukan target selama <b>2</b> detik dan menimpakan damage tambahan sebesar poin Frostiness x Frost ATK x <b>35%</b> (jika target tidak bisa dibekukan, damage tambahan yang ditimpakan akan digandakan).",
+    "Saat Frostiness mencapai <b>15</b> poin dan kamu berada dalam Frost Domain, kamu akan mendapatkan tambahan \"Domain of Frost II\" yang akan meningkatkan Frost ATK sebesar <b>25%</b> saat Frost Weapon digunakan."
+  ],
+  "traits": [
+    {
+      "name": "Freeze",
+      "description": "Meningkatkan Frost ATK sebanyak <b>1,5%</b> setiap <b>3</b> detik setelah memasuki pertempuran. Bisa ditumpuk hingga <b>10</b> kali. Bertahan selama <b>5</b> detik."
+    },
+    {
+      "name": "Icebound",
+      "description": "Frost ATK ditingkatkan sebesar <b>2,4%</b> setiap <b>3</b> detik setelah memasuki pertempuran. Bisa ditumpuk maks <b>10</b> kali. Bertahan <b>5</b> detik. Selain itu, pemain juga akan mendapatkan Hyperbody dan menjadi kebal terhadap Control Effect di Frost Domain."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Heart of Winter",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

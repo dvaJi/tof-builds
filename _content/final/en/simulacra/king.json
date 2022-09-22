@@ -1,0 +1,294 @@
+{
+  "_id": 9,
+  "id": "king",
+  "name": "KING",
+  "weapon": "Scythe of the Crow",
+  "weapon_id": "scythe_of_the_crow",
+  "birthday": "November 3 (Scorpio)",
+  "birthplace": "Ravagers",
+  "gender": "Male",
+  "info": "Unruly and flamboyantly-dressed, KING's powerful presence can be felt wherever he goes. With a bite far worse than his bark, he exudes pure intimidation and aggression every minute of every day. Though his temper can be problematic, communicating with KING is far from difficult.\nConstantly seeking stimulation, KING prioritizes the satisfaction of material desires; to that end, he prizes concision and the clear monetary value of things, and hates liars and pretentious people.\nKING often resorts to violence in order to solve problems and obtain what he wants, and is not particularly fond of elaborate strategies (in combat, or otherwise).\nThose who spend a small amount of time with KING may realize that he is nothing more than a strong and simple man; they would do well to keep those thoughts to themselves, even if they mean no harm by saying so.",
+  "description": "Out of all those stupid enough to saddle themselves with Banges Business Association's high interest rates, KING is the most unique case. Usually, anyone unable to afford payment gets sent to work in the mines, but he never got such treatment.\nIt's not that the Association didn't want to, but even if they did post big bounties and spare no arms or efforts, they still couldn't touch him.\nAs a merc famous for his combat prowess, KING is touted as the personification of violence. He's been fighting since childhood and is a veteran brawler specializing in one-against-many. He would get lucrative pays for each job, only to supposedly blow it all immediately.",
+  "like": "Money, Spending Money, Simple things",
+  "dislike": "Priceless Items",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 5,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing the scythe to launch 5 consecutive attacks.\nFirst Attack: Deal damage equal to <b>57.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>49.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>106.8%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>109.5%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>104.2%</b> of ATK + <b>5</b>, <b>strongly suspend</b> the target, and cause the Wanderer to go airborne."
+    },
+    {
+      "name": "Rising Scythe",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>63.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>68.8%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>190.5%</b> of ATK + <b>10</b>.\nFourth Attack: Deal damage equal to <b>213.6%</b> of ATK + <b>11</b>.\nFifth Attack: Deal damage equal to <b>173.9%</b> of ATK + <b>9</b> and knock the target down. The higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+    },
+    {
+      "name": "Asunder",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Asunder.\nWhile falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>71.9%</b> of ATK + <b>4</b> and deliver a <b>knockdown</b>.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+    },
+    {
+      "name": "Returning Chainblade",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Rapid Lunge.\nDeal up to <b>137.4%</b> of ATK + <b>7</b> damage and pull in nearby enemies."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+    },
+    {
+      "name": "Returning Chainblade",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Rapid Lunge.\nDeal up to <b>126.9%</b> of ATK + <b>7</b> damage and pull in nearby enemies."
+    },
+    {
+      "name": "Domain of the Bat",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "When dodging, summon a domain of the bat that pulls the target into the center. Tap normal attack during the short period after dodging to swing the scythe, dealing up to <b>114.3%</b> of ATK + <b>6</b> damage to the target."
+    },
+    {
+      "name": "Mortal Coil",
+      "type": [
+        "Skill"
+      ],
+      "description": "Swing the scythe, dealing damage equal to <b>499.9%</b> of ATK + <b>26</b>. Cooldown: <b>45</b> seconds."
+    },
+    {
+      "name": "Flaming Scythe",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and create a Flaming Scythe upon switching to this weapon, dealing damage equal to <b>398.3%</b> of ATK + <b>21</b> and lasts for <b>10</b> seconds. Additionally, spawn Flaming Scythes Domain every <b>2</b> seconds. The scythes summon volcanic eruptions from the ground, which deal damage equal to <b>66%</b> of ATK + <b>3</b> to targets and suspend them."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>{3}%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+  },
+  "advancement": [
+    "Increase shatter by <b>15%</b>. After shattering the target's shield, deal burn damage equal to <b>120%</b> of ATK to the target every second for <b>15</b> seconds.",
+    "Increase the current weapon's base HP growth by <b>16%</b>.",
+    "Increase damage dealt by <b>10%</b> for each enemy within <b>6</b> meters, up to a maximum of <b>30%</b>.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "Increase damage dealt against HP shields or shielded enemies by <b>100%</b>.",
+    "Increase damage dealt by <b>10%</b> for each enemy slain for <b>30</b> seconds. Stack up to <b>3</b> times."
+  ],
+  "traits": [
+    {
+      "name": "KING: Coldblooded Swipe",
+      "icon": true,
+      "description": "Every <b>7</b> enemies defeated by KING restore HP equal to <b>8%</b> of Max HP."
+    },
+    {
+      "name": "KING: Fear Reaper",
+      "icon": true,
+      "description": "Every <b>5</b> enemies defeated by KING restore HP equal to <b>10%</b> of Max HP."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Heart of lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

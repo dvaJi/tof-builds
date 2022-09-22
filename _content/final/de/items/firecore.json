@@ -1,0 +1,8 @@
+{
+  "_id": 22,
+  "id": "firecore",
+  "name": "Feuerkern",
+  "description": "Scherben mit Feuerelementarkraft, die beim Einschmelzen eine leichte Hitze abgeben.",
+  "usage": "Für die Verstärkung von Waffen.",
+  "rarity": "N"
+}

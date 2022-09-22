@@ -1,0 +1,17 @@
+{
+  "name": "Salmon Sashimi",
+  "uri": "salmonsashimi",
+  "imgSrc": "salmonsashimi.webp",
+  "rarity": "4",
+  "chinaOnly": false,
+  "effect": "Recovers **20** satiety\n**Ice Attack +2%<br>\nIce Attack +150**<br>\nDuration **1200** sec",
+  "recipe": [
+    {
+      "name": "Lake Bass",
+      "rarity": "4",
+      "uri": "lakebass",
+      "imgSrc": "lakebass.webp",
+      "amount": 1
+    }
+  ]
+}

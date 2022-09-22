@@ -1,0 +1,175 @@
+{
+  "name": "Bai Ling",
+  "weapon": "Nightingale's Feather",
+  "element": "Physical",
+  "rarity": "SR",
+  "id": "bai_ling",
+  "global": false,
+  "tier": 4,
+  "tier_constellation": 6,
+  "pvp": 5,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A Main DPS that revolves around dodge attacks with her 5th advancement, becoming a relying source of the grievous debuff.",
+      "set1": [
+        "Samir"
+      ],
+      "set2": [
+        "Samir",
+        "Tsubasa"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Quickdraw",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, draw the bow repeatedly to attack 5 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 33.7% of ATK + 2.</li>\n<li>Second Attack: Deal damage equal to 30.2% of ATK + 2.</li>\n<li>Third Attack: Deal damage equal to 54.3% of ATK + 3.</li>\n<li>Fourth Attack: Deal damage equal to 83.5% of ATK + 4.</li>\n<li>Fifth Attack: Deal damage equal to 77.7% of ATK + 4 and knock the target back a short distance.</li>\n</ul>"
+    },
+    {
+      "name": "Charged Arrow",
+      "icon": true,
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal atack to charge. Deal basic damage equal to 60.5% of ATK + 3, and 50% more for each 1 second spent charging, up to 3 seconds. Deal double damage when scoring a headshot or when hitting ane nemy's weak point, knocking them down (headshots are ineffective against Wanderers)."
+    },
+    {
+      "name": "Arrow Rain",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to 198.7% of ATK + 10 area damage to targets."
+    },
+    {
+      "name": "Air Volley",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne, tap normal attack to attack 4 times in a row in the air.</p>\n<ul>\n<li>First Attack: Deal damage equal to 38.8% of ATK + 2.</li>\n<li>Second Attack: Deal damage equal to 51% of ATK + 3.</li>\n<li>Third Attack: Deal damage equal to 77.7% of ATK + 4.</li>\n<li>Fourth Attack: Deal damage equal to 117% of ATK + 6.</li>\n</ul>"
+    },
+    {
+      "name": "Loaded Arrow",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap attack after dodging to trigger a Loaded Arrow, which knocking the target back and dealing equal to 85.5% of ATK + 5."
+    },
+    {
+      "name": "Piercing Shot",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Backflips ands fires 1 piercing shot forward, dealing damage equal to 154.8% of ATK + 8 and knocking the target back.</p>\n<p>Cooldown: 12 seconds.</p>"
+    },
+    {
+      "name": "Explosive Barrage",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "When weapon charge is full or Phantasia is triggered, remove all debuffs from the wielder, and unleashes Explosive Barrage on the target upon switching to this weapon, dealing damage equal to 486.6% of ATK + 26."
+    }
+  ],
+  "weapon_type": {
+    "name": "Grievous",
+    "type": "Physical",
+    "description": "Fully charged weapons will inflict damage equal to 100% of ATK with the next attack, and make the target grievous for 7 seconds, taking 20% extra damage."
+  },
+  "advancement": [
+    "Restore 1 dodge attempt every fifth normal attack or after using Piercing Shot.",
+    "Increase the current weapon's base ATK growth by 10%.",
+    "Increase headshot damage by 30%.",
+    "Increase the current weapon's base ATK growth by 20%.",
+    "Dodge skills inflict grievous on targets for 7 seconds.",
+    "Increase crit rate to grievous targets by 30% and crit damage by 50%."
+  ],
+  "traits": [
+    {
+      "name": "Valor",
+      "icon": true,
+      "description": "<p>When Bai Ling puts the Glider or the Jetboard away, increase speed by 8% for 12 seconds.</p>\n<p>Cooldown: 60 seconds.</p>"
+    },
+    {
+      "name": "Resoluteness",
+      "icon": true,
+      "description": "<p>When Bai Ling puts the Glider or the Jetboard away, increase speed by 15% for 12 seconds.</p>\n<p>Cooldown: 60 seconds.</p>"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "250",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "1"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "500",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "750",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1000",
+      "mat1": {
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "2"
+      }
+    }
+  ]
+}

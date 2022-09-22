@@ -1,0 +1,1037 @@
+{
+  "de": {
+    "layout": {
+      "guides": "Guides"
+    },
+    "ascension_planner": {},
+    "characters": {},
+    "character": {
+      "normal_attack": "Normal Attack",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {},
+    "weapon": {},
+    "artifacts": {},
+    "tierlist": {},
+    "tierlist_weapons": {},
+    "food": {},
+    "ingredients": {},
+    "potions": {},
+    "teams": {},
+    "fishing": {},
+    "calculator": {},
+    "todo": {},
+    "achievements": {},
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "es": {
+    "layout": {
+      "guides": "Guides"
+    },
+    "ascension_planner": {},
+    "characters": {},
+    "character": {
+      "normal_attack": "Normal Attack",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {},
+    "weapon": {},
+    "artifacts": {},
+    "tierlist": {},
+    "tierlist_weapons": {},
+    "food": {},
+    "ingredients": {},
+    "potions": {},
+    "teams": {},
+    "fishing": {},
+    "calculator": {},
+    "todo": {},
+    "achievements": {},
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "fr": {
+    "layout": {
+      "guides": "Guides"
+    },
+    "ascension_planner": {},
+    "characters": {},
+    "character": {
+      "normal_attack": "Normal Attack",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {},
+    "weapon": {},
+    "artifacts": {},
+    "tierlist": {},
+    "tierlist_weapons": {},
+    "food": {},
+    "ingredients": {},
+    "potions": {},
+    "teams": {},
+    "fishing": {},
+    "calculator": {},
+    "todo": {},
+    "achievements": {},
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "id": {
+    "layout": {
+      "potions": "Potions",
+      "tierlist": "Tierlist",
+      "database": "Database",
+      "calculator": "Calculator",
+      "tierlist_characters": "Tierlist Characters",
+      "tierlist_weapons": "Tierlist Weapons",
+      "teams": "Teams",
+      "fishing": "Fishing",
+      "todo": "Todo",
+      "achievements": "Achievements",
+      "guides": "Guides"
+    },
+    "ascension_planner": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "north_america": "North America"
+    },
+    "characters": {
+      "anemo": "Anemo",
+      "geo": "Geo",
+      "pyro": "Pyro",
+      "hydro": "Hydro",
+      "electro": "Electro",
+      "cryo": "Cryo"
+    },
+    "character": {
+      "builds": "Builds",
+      "most_used": "Most Used",
+      "skills": "Skills",
+      "recommended_primary_stats": "Recommended Primary Stats",
+      "substats_priority": "Substats Priority",
+      "ascension_materials": "Ascension Materials",
+      "talent_materials": "Talent Materials",
+      "talents_priority": "Talents Priority",
+      "constellations": "Constellations",
+      "passives": "Passive Talent",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {
+      "search": "Search...",
+      "secondary": "Secondary",
+      "level": "Level",
+      "stats": "Stats",
+      "ascension": "Ascension",
+      "refinement": "Refinement"
+    },
+    "weapon": {
+      "secondary": "Secondary",
+      "level": "Level",
+      "stats": "Stats",
+      "ascension": "Ascension",
+      "refinement": "Refinement",
+      "recommended_characters": "Recommended Characters",
+      "ascension_materials": "Ascension Materials"
+    },
+    "artifacts": {
+      "2-4piece_artifact_sets": "2-4 Piece Artifact Sets",
+      "name": "Name",
+      "max_rarity": "Max Rarity",
+      "1piece_bonus": "1-Piece Bonus",
+      "1piece_artifact_sets": "1-Piece Artifact Sets",
+      "2piece_bonus": "2-Piece Bonus",
+      "4piece_bonus": "4-Piece Bonus"
+    },
+    "tierlist": {
+      "tierlist": "Tierlist",
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "tierlist_weapons": {
+      "tierlist_weapons": "Tierlist Weapons",
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "food": {
+      "all": "All",
+      "normal": "Normal",
+      "delicious": "Delicious",
+      "suspicious": "Suspicious",
+      "special": "Special",
+      "search": "Search..."
+    },
+    "ingredients": {
+      "name": "Name"
+    },
+    "potions": {
+      "potions": "Potions",
+      "name": "Name",
+      "rarity": "Rarity",
+      "effect": "Effect"
+    },
+    "teams": {
+      "teams": "Teams",
+      "best_team_comp": "Best Team Comp",
+      "character_team": "Best Team for {name}",
+      "substitute_characters": "Substitute Characters",
+      "main dps": "Main DPS",
+      "sub dps": "Sub DPS",
+      "support": "Support"
+    },
+    "fishing": {
+      "fishing": "Fishing",
+      "the_chasm": "The Chasm"
+    },
+    "calculator": {
+      "calculator": "Calculator",
+      "character_level": "Character Level",
+      "current_level": "Current Level",
+      "intended_level": "Intended Level",
+      "talents_level": "Talents Level",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "calculate": "Calculate",
+      "choose_weapon": "Choose Weapon",
+      "add_to_todo_list": "Add to TODO List",
+      "added_to_todo_list": "Added to TODO List",
+      "exp_wasted": "EXP Wasted"
+    },
+    "todo": {
+      "todo": "Todo",
+      "no_todo_msg": "No To do yet. Add some from the calculator page.",
+      "go_to_calculator": "Go to Calculator",
+      "farm_today": "Farm Today",
+      "summary": "Summary",
+      "levels": "Levels",
+      "talents": "Talents",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "delete": "Delete"
+    },
+    "achievements": {},
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "ja": {
+    "layout": {
+      "todo": "Todo",
+      "achievements": "Achievements",
+      "guides": "Guides"
+    },
+    "ascension_planner": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "north_america": "North America"
+    },
+    "characters": {
+      "anemo": "Anemo",
+      "geo": "Geo",
+      "pyro": "Pyro",
+      "hydro": "Hydro",
+      "electro": "Electro",
+      "cryo": "Cryo"
+    },
+    "character": {
+      "builds": "Builds",
+      "most_used": "Most Used",
+      "skills": "Skills",
+      "recommended_primary_stats": "Recommended Primary Stats",
+      "substats_priority": "Substats Priority",
+      "ascension_materials": "Ascension Materials",
+      "talent_materials": "Talent Materials",
+      "talents_priority": "Talents Priority",
+      "constellations": "Constellations",
+      "passives": "Passive Talent",
+      "normal_attack": "Normal Attack",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {},
+    "weapon": {
+      "recommended_characters": "Recommended Characters",
+      "ascension_materials": "Ascension Materials"
+    },
+    "artifacts": {},
+    "tierlist": {
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "tierlist_weapons": {
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "food": {},
+    "ingredients": {},
+    "potions": {},
+    "teams": {
+      "main dps": "Main DPS",
+      "sub dps": "Sub DPS",
+      "support": "Support"
+    },
+    "fishing": {
+      "the_chasm": "The Chasm"
+    },
+    "calculator": {
+      "add_to_todo_list": "Add to TODO List",
+      "added_to_todo_list": "Added to TODO List",
+      "exp_wasted": "EXP Wasted"
+    },
+    "todo": {
+      "title": "Genshin Impact Todo List",
+      "description": "Todo List to plan and track items and mora you need",
+      "todo": "Todo",
+      "no_todo_msg": "No To do yet. Add some from the calculator page.",
+      "go_to_calculator": "Go to Calculator",
+      "farm_today": "Farm Today",
+      "summary": "Summary",
+      "levels": "Levels",
+      "talents": "Talents",
+      "delete": "Delete"
+    },
+    "achievements": {
+      "title": "Genshin Impact Achievements",
+      "description": "Achievements to unlock new features and rewards",
+      "achievements": "Achievements",
+      "show_achieved": "Show Achieved"
+    },
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "ko": {
+    "layout": {
+      "guides": "Guides"
+    },
+    "ascension_planner": {},
+    "characters": {},
+    "character": {
+      "normal_attack": "Normal Attack",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {},
+    "weapon": {},
+    "artifacts": {},
+    "tierlist": {},
+    "tierlist_weapons": {},
+    "food": {},
+    "ingredients": {},
+    "potions": {},
+    "teams": {},
+    "fishing": {},
+    "calculator": {},
+    "todo": {},
+    "achievements": {},
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "pt": {
+    "layout": {
+      "calculator": "Calculator",
+      "tierlist_characters": "Tierlist Characters",
+      "tierlist_weapons": "Tierlist Weapons",
+      "teams": "Teams",
+      "fishing": "Fishing",
+      "todo": "Todo",
+      "achievements": "Achievements",
+      "guides": "Guides"
+    },
+    "ascension_planner": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "north_america": "North America"
+    },
+    "characters": {
+      "anemo": "Anemo",
+      "geo": "Geo",
+      "pyro": "Pyro",
+      "hydro": "Hydro",
+      "electro": "Electro",
+      "cryo": "Cryo"
+    },
+    "character": {
+      "builds": "Builds",
+      "most_used": "Most Used",
+      "skills": "Skills",
+      "recommended_primary_stats": "Recommended Primary Stats",
+      "substats_priority": "Substats Priority",
+      "ascension_materials": "Ascension Materials",
+      "talent_materials": "Talent Materials",
+      "talents_priority": "Talents Priority",
+      "constellations": "Constellations",
+      "passives": "Passive Talent",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {
+      "level": "Level",
+      "stats": "Stats"
+    },
+    "weapon": {
+      "level": "Level",
+      "stats": "Stats",
+      "recommended_characters": "Recommended Characters",
+      "ascension_materials": "Ascension Materials"
+    },
+    "artifacts": {},
+    "tierlist": {
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "tierlist_weapons": {
+      "title": "Genshin Impact Weapons Tier List (Best Weapons)",
+      "description": "All the best weapons ranked in order of power, viability, and versatility to clear content.",
+      "tierlist_weapons": "Tierlist Weapons",
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "food": {
+      "all": "All",
+      "normal": "Normal",
+      "delicious": "Delicious",
+      "suspicious": "Suspicious",
+      "special": "Special"
+    },
+    "ingredients": {},
+    "potions": {},
+    "teams": {
+      "title": "Best Team Comp | Party Building Guide | Genshin Impact",
+      "description": "This is a guide to making the best party in Genshin Impact. Learn how to make the best party! We introduce the best party composition for each task including exploring areas, slaying field bosses, and more!",
+      "teams": "Teams",
+      "best_team_comp": "Best Team Comp",
+      "character_team": "Best Team for {name}",
+      "substitute_characters": "Substitute Characters",
+      "main dps": "Main DPS",
+      "sub dps": "Sub DPS",
+      "support": "Support"
+    },
+    "fishing": {
+      "fishing": "Fishing",
+      "the_chasm": "The Chasm"
+    },
+    "calculator": {
+      "title": "Genshin Impact Calculator",
+      "description": "Genshin Impact Calculator to calculate how many mora and materials needed for your character or weapon ascension",
+      "calculator": "Calculator",
+      "character_level": "Character Level",
+      "current_level": "Current Level",
+      "intended_level": "Intended Level",
+      "talents_level": "Talents Level",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "calculate": "Calculate",
+      "choose_weapon": "Choose Weapon",
+      "add_to_todo_list": "Add to TODO List",
+      "added_to_todo_list": "Added to TODO List",
+      "exp_wasted": "EXP Wasted"
+    },
+    "todo": {
+      "title": "Genshin Impact Todo List",
+      "description": "Todo List to plan and track items and mora you need",
+      "todo": "Todo",
+      "no_todo_msg": "No To do yet. Add some from the calculator page.",
+      "go_to_calculator": "Go to Calculator",
+      "farm_today": "Farm Today",
+      "summary": "Summary",
+      "levels": "Levels",
+      "talents": "Talents",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "delete": "Delete"
+    },
+    "achievements": {
+      "title": "Genshin Impact Achievements",
+      "description": "Achievements to unlock new features and rewards",
+      "achievements": "Achievements",
+      "show_achieved": "Show Achieved"
+    },
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "ru": {
+    "layout": {
+      "todo": "Todo",
+      "achievements": "Achievements",
+      "guides": "Guides"
+    },
+    "ascension_planner": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "north_america": "North America"
+    },
+    "characters": {
+      "anemo": "Anemo",
+      "geo": "Geo",
+      "pyro": "Pyro",
+      "hydro": "Hydro",
+      "electro": "Electro",
+      "cryo": "Cryo"
+    },
+    "character": {
+      "builds": "Builds",
+      "most_used": "Most Used",
+      "skills": "Skills",
+      "recommended_primary_stats": "Recommended Primary Stats",
+      "substats_priority": "Substats Priority",
+      "ascension_materials": "Ascension Materials",
+      "talent_materials": "Talent Materials",
+      "talents_priority": "Talents Priority",
+      "constellations": "Constellations",
+      "passives": "Passive Talent",
+      "normal_attack": "Normal Attack",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {},
+    "weapon": {
+      "ascension_materials": "Ascension Materials"
+    },
+    "artifacts": {},
+    "tierlist": {
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "tierlist_weapons": {
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "food": {},
+    "ingredients": {},
+    "potions": {},
+    "teams": {
+      "main dps": "Main DPS",
+      "sub dps": "Sub DPS",
+      "support": "Support"
+    },
+    "fishing": {
+      "the_chasm": "The Chasm"
+    },
+    "calculator": {
+      "add_to_todo_list": "Add to TODO List",
+      "added_to_todo_list": "Added to TODO List",
+      "exp_wasted": "EXP Wasted"
+    },
+    "todo": {
+      "title": "Genshin Impact Todo List",
+      "description": "Todo List to plan and track items and mora you need",
+      "todo": "Todo",
+      "no_todo_msg": "No To do yet. Add some from the calculator page.",
+      "go_to_calculator": "Go to Calculator",
+      "farm_today": "Farm Today",
+      "summary": "Summary",
+      "levels": "Levels",
+      "talents": "Talents",
+      "delete": "Delete"
+    },
+    "achievements": {
+      "title": "Genshin Impact Achievements",
+      "description": "Achievements to unlock new features and rewards",
+      "achievements": "Achievements",
+      "show_achieved": "Show Achieved"
+    },
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "th": {
+    "layout": {
+      "potions": "Potions",
+      "tierlist": "Tierlist",
+      "database": "Database",
+      "calculator": "Calculator",
+      "tierlist_characters": "Tierlist Characters",
+      "tierlist_weapons": "Tierlist Weapons",
+      "teams": "Teams",
+      "fishing": "Fishing",
+      "todo": "Todo",
+      "achievements": "Achievements",
+      "guides": "Guides"
+    },
+    "ascension_planner": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "north_america": "North America"
+    },
+    "characters": {
+      "anemo": "Anemo",
+      "geo": "Geo",
+      "pyro": "Pyro",
+      "hydro": "Hydro",
+      "electro": "Electro",
+      "cryo": "Cryo"
+    },
+    "character": {
+      "builds": "Builds",
+      "most_used": "Most Used",
+      "skills": "Skills",
+      "recommended_primary_stats": "Recommended Primary Stats",
+      "substats_priority": "Substats Priority",
+      "ascension_materials": "Ascension Materials",
+      "talent_materials": "Talent Materials",
+      "talents_priority": "Talents Priority",
+      "constellations": "Constellations",
+      "passives": "Passive Talent",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {
+      "secondary": "Secondary",
+      "level": "Level",
+      "stats": "Stats",
+      "ascension": "Ascension",
+      "refinement": "Refinement"
+    },
+    "weapon": {
+      "secondary": "Secondary",
+      "level": "Level",
+      "stats": "Stats",
+      "ascension": "Ascension",
+      "refinement": "Refinement",
+      "recommended_characters": "Recommended Characters",
+      "ascension_materials": "Ascension Materials"
+    },
+    "artifacts": {
+      "2-4piece_artifact_sets": "2-4 Piece Artifact Sets",
+      "name": "Name",
+      "max_rarity": "Max Rarity",
+      "1piece_bonus": "1-Piece Bonus",
+      "1piece_artifact_sets": "1-Piece Artifact Sets",
+      "2piece_bonus": "2-Piece Bonus",
+      "4piece_bonus": "4-Piece Bonus"
+    },
+    "tierlist": {
+      "tierlist": "Tierlist",
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "tierlist_weapons": {
+      "tierlist_weapons": "Tierlist Weapons",
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "food": {
+      "all": "All",
+      "normal": "Normal",
+      "delicious": "Delicious",
+      "suspicious": "Suspicious",
+      "special": "Special"
+    },
+    "ingredients": {
+      "name": "Name"
+    },
+    "potions": {
+      "potions": "Potions",
+      "name": "Name",
+      "rarity": "Rarity",
+      "effect": "Effect"
+    },
+    "teams": {
+      "teams": "Teams",
+      "best_team_comp": "Best Team Comp",
+      "character_team": "Best Team for {name}",
+      "substitute_characters": "Substitute Characters",
+      "main dps": "Main DPS",
+      "sub dps": "Sub DPS",
+      "support": "Support"
+    },
+    "fishing": {
+      "fishing": "Fishing",
+      "the_chasm": "The Chasm"
+    },
+    "calculator": {
+      "calculator": "Calculator",
+      "character_level": "Character Level",
+      "current_level": "Current Level",
+      "intended_level": "Intended Level",
+      "talents_level": "Talents Level",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "calculate": "Calculate",
+      "choose_weapon": "Choose Weapon",
+      "add_to_todo_list": "Add to TODO List",
+      "added_to_todo_list": "Added to TODO List",
+      "exp_wasted": "EXP Wasted"
+    },
+    "todo": {
+      "todo": "Todo",
+      "no_todo_msg": "No To do yet. Add some from the calculator page.",
+      "go_to_calculator": "Go to Calculator",
+      "farm_today": "Farm Today",
+      "summary": "Summary",
+      "levels": "Levels",
+      "talents": "Talents",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "delete": "Delete"
+    },
+    "achievements": {
+      "achievements": "Achievements",
+      "show_achieved": "Show Achieved"
+    },
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "vi": {
+    "layout": {
+      "guides": "Guides"
+    },
+    "ascension_planner": {},
+    "characters": {},
+    "character": {
+      "normal_attack": "Normal Attack",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {},
+    "weapon": {},
+    "artifacts": {},
+    "tierlist": {},
+    "tierlist_weapons": {},
+    "food": {},
+    "ingredients": {},
+    "potions": {},
+    "teams": {},
+    "fishing": {},
+    "calculator": {},
+    "todo": {},
+    "achievements": {},
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  },
+  "zh-tw": {
+    "layout": {
+      "potions": "Potions",
+      "tierlist": "Tierlist",
+      "database": "Database",
+      "calculator": "Calculator",
+      "tierlist_characters": "Tierlist Characters",
+      "tierlist_weapons": "Tierlist Weapons",
+      "teams": "Teams",
+      "fishing": "Fishing",
+      "todo": "Todo",
+      "achievements": "Achievements",
+      "guides": "Guides"
+    },
+    "ascension_planner": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "north_america": "North America"
+    },
+    "characters": {
+      "anemo": "Anemo",
+      "geo": "Geo",
+      "pyro": "Pyro",
+      "hydro": "Hydro",
+      "electro": "Electro",
+      "cryo": "Cryo"
+    },
+    "character": {
+      "builds": "Builds",
+      "most_used": "Most Used",
+      "skills": "Skills",
+      "recommended_primary_stats": "Recommended Primary Stats",
+      "substats_priority": "Substats Priority",
+      "ascension_materials": "Ascension Materials",
+      "talent_materials": "Talent Materials",
+      "talents_priority": "Talents Priority",
+      "constellations": "Constellations",
+      "passives": "Passive Talent",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "18atk_set": "ATK +18% set",
+      "20energyrecharge_set": "Energy Recharge +20% set",
+      "25physicaldmg_set": "Physical DMG +25% set",
+      "bonus": "Bonus",
+      "choose_2": "Choose 2",
+      "sands": "Sands",
+      "goblet": "Goblet",
+      "circlet": "Circlet"
+    },
+    "weapons": {
+      "secondary": "Secondary",
+      "level": "Level",
+      "stats": "Stats",
+      "ascension": "Ascension",
+      "refinement": "Refinement"
+    },
+    "weapon": {
+      "secondary": "Secondary",
+      "level": "Level",
+      "stats": "Stats",
+      "ascension": "Ascension",
+      "refinement": "Refinement",
+      "recommended_characters": "Recommended Characters",
+      "ascension_materials": "Ascension Materials"
+    },
+    "artifacts": {
+      "2-4piece_artifact_sets": "2-4 Piece Artifact Sets",
+      "name": "Name",
+      "max_rarity": "Max Rarity",
+      "1piece_bonus": "1-Piece Bonus",
+      "1piece_artifact_sets": "1-Piece Artifact Sets",
+      "2piece_bonus": "2-Piece Bonus",
+      "4piece_bonus": "4-Piece Bonus"
+    },
+    "tierlist": {
+      "tierlist": "Tierlist",
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "tierlist_weapons": {
+      "tierlist_weapons": "Tierlist Weapons",
+      "main_dps": "Main DPS",
+      "sub_dps": "Sub DPS",
+      "support": "Support"
+    },
+    "food": {
+      "all": "All",
+      "normal": "Normal",
+      "delicious": "Delicious",
+      "suspicious": "Suspicious",
+      "special": "Special"
+    },
+    "ingredients": {
+      "name": "Name"
+    },
+    "potions": {
+      "potions": "Potions",
+      "name": "Name",
+      "rarity": "Rarity",
+      "effect": "Effect"
+    },
+    "teams": {
+      "teams": "Teams",
+      "best_team_comp": "Best Team Comp",
+      "character_team": "Best Team for {name}",
+      "substitute_characters": "Substitute Characters",
+      "main dps": "Main DPS",
+      "sub dps": "Sub DPS",
+      "support": "Support"
+    },
+    "fishing": {
+      "fishing": "Fishing",
+      "the_chasm": "The Chasm"
+    },
+    "calculator": {
+      "calculator": "Calculator",
+      "character_level": "Character Level",
+      "current_level": "Current Level",
+      "intended_level": "Intended Level",
+      "talents_level": "Talents Level",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "calculate": "Calculate",
+      "choose_weapon": "Choose Weapon",
+      "add_to_todo_list": "Add to TODO List",
+      "added_to_todo_list": "Added to TODO List",
+      "exp_wasted": "EXP Wasted"
+    },
+    "todo": {
+      "todo": "Todo",
+      "no_todo_msg": "No To do yet. Add some from the calculator page.",
+      "go_to_calculator": "Go to Calculator",
+      "farm_today": "Farm Today",
+      "summary": "Summary",
+      "levels": "Levels",
+      "talents": "Talents",
+      "normal_attack": "Normal Attack",
+      "skill": "Skill",
+      "burst": "Burst",
+      "delete": "Delete"
+    },
+    "achievements": {
+      "achievements": "Achievements",
+      "show_achieved": "Show Achieved"
+    },
+    "materials": {},
+    "guides": {
+      "title": "Genshin Impact Guides",
+      "description": "Guides to help you learn the game",
+      "guides": "Guides",
+      "back_to_guides": "Back to Guides",
+      "published_at": "Published at {date}",
+      "youtube_tutorial": "YouTube Tutorial",
+      "interactive_map": "Interactive Map",
+      "related_guides": "Related Guides"
+    }
+  }
+}

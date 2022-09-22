@@ -1,0 +1,188 @@
+{
+  "name": "Ene",
+  "weapon": "Pummeler",
+  "element": "Ice",
+  "rarity": "SR",
+  "id": "ene",
+  "global": false,
+  "tier": 4,
+  "tier_constellation": 3,
+  "pvp": 4,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Tank",
+  "soon": false,
+  "new": false,
+  "resonance": "Defense",
+  "shatter": 10,
+  "charge": 6,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A free to play friendly tank with a reliable taunt and a powerful dodge attack when paired with the Huma matrix set.",
+      "set1": [
+        "Huma"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, swing the maul to attack 4 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 76.3% of ATK + 4 and knock the target back a short distance.</li>\n<li>Second Attack: Deal damage equal to 62.1% of ATK + 3 and knock the target back a short distance.</li>\n<li>Third Attack: Deal damage equal to 157.4% of ATK + 8 and knock the target back a short distance.</li>\n<li>Fourth Attack: Deal damage equal to 263.8% of ATK + 14 and launch the target.</li>\n</ul>\n<p>While Outburst is active, swing the maul to attack 4 times in a row.</p>\n<ul>\r\n<li>First Attack: Deal damage equal to 75.5% of ATK + 4 and knock the target back a short distance.</li>\r\n<li>Second Attack: Deal damage equal to 65% of ATK + 3 and knock the target back a short distance.</li>\r\n<li>Third Attack: Deal damage equal to 171.3% of ATK + 9 and knock the target back a short distance.</li>\r\n<li>Fourth Attack: Deal damage equal to 315.3% of ATK + 17 and strongly suspend the target.</li>\r\n</ul>"
+    },
+    {
+      "name": "Pummel",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne or after jumping once, tap normal attack to trigger Pummel.</p>\n<p>Deal damage equal to 121.7% of ATK + 6 and suspend the target.</p>\n<p>While Outburst is active, deal damage equal to 133.9% of ATK + 7 and strongly suspend the target.</p>\n<p>The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage.</p>"
+    },
+    {
+      "name": "Shockwave",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "<p>Tapping and holding while airborne, double-jumping, short tapping in the air when there are targets nearby, climbing, jumping backward, or attacking while using the Jetpack will trigger Shockwave.</p>\n<p>Strongly suspend the target 4 times, dealing damage equal to 34.8% of ATK + 2 each time. Cost 250 endurance.</p>\n<p>While Outburst is active, Shockwave strongly suspends the target 5 times, dealing damage equal to 38.3% of ATK + 2 each time.</p>\n<p>The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage.</p>"
+    },
+    {
+      "name": "Sneak Attack",
+      "icon": true,
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to 427.5% of ATK + 23."
+    },
+    {
+      "name": "Focus Smash",
+      "icon": true,
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold normal attack to trigger Focus Smash (can be charged up to 3 stacks). Grant immunity to all control effects and hyperbody while charging.</p>\n<ul>\n<li>First Stack: Deal damage equal to 110% of ATK + 6 and suspend the target.</li>\n<li>Second Stack: Deal damage equal to 276% of ATK + 15 and strongly suspend the target.</li>\n<li>Third Stack: Deal damage equal to 518% of ATK + 27 and strongly suspend the target.</li>\n</ul>\n<p>While Outburst is active, tap and hold normal attack to trigger Furious Strikes, dealing damage equal to 501.6% of ATK + 26 and strongly suspend the target.</p>"
+    },
+    {
+      "name": "Jumping Smash",
+      "icon": true,
+      "type": [
+        "Dodge"
+      ],
+      "description": "Use the arrow buttons and the dodge button to trigger Jumping Smash, unleashing a Shockwave that suspends the enemy 4 times, dealing damage equal to 161.6% of ATK + 9."
+    },
+    {
+      "name": "Worldsplitter",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short period after a dodge to trigger Worldsplitter, unleashing 3 shockwaves forward, each dealing damage equal to 52.4% of ATK + 3, and suspending the targets.</p>\n<p>While in Outburst mode, fire 5 shockwaves forward, each dealing damage equal to 52.4% of ATK + 3 and suspending the target.</p>"
+    },
+    {
+      "name": "Outburst",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Switch to activate Outburst, increasing damage dealt for 25 seconds.</p>\n<p>While Outburst is active, skills trigger Windfury, dealing damage equal to 219% of ATK + 12, strongly suspend the target, and create an air current on the ground.</p>\n<p>While standing in the current, dodging has no cost.</p>\n<p>Cooldown: 45 seconds (Windfury's cooldown: 10 seconds).</p>"
+    },
+    {
+      "name": "Overwhelming Maul",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "When weapon charge is full or Phantasia is triggered, remove all debuffs from the wielder and strongly suspend nearby targets upon switching to this weapon, dealing damage equal to 153.3% of ATK + 8. Also summon a maul to fall on nearby targets, dealing damage equal to 153.3% of ATK + 8."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "type": "Ice",
+    "description": "Fully charged weapons will freeze the target for 2 seconds and leave it frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 111% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%."
+  },
+  "advancement": [
+    "<p>Taunt nearby targets after switching to this weapon, preventing 1 instance of damage in the next 8 seconds and granting hyperbody for the next 8 seconds.</p>\n<p>Cooldown: 15 seconds.</p>",
+    "Increase the current weapon's base HP growth by 10%.",
+    "<p>After taking damage, reduce all damage received by 50% for the next 6 seconds.</p>\n<p>Cooldown: 20 seconds.</p>",
+    "Increase the current weapon's base HP growth by 20%.",
+    "<p>Normal attacks stun targets for 2.5 seconds.</p>\n<p>Cooldown: 20 seconds.</p>",
+    "Discharge skills deal an additional 10% damage to targets and increase frost damage by an additional 10% for 25 seconds."
+  ],
+  "traits": [
+    {
+      "name": "Fast Mode",
+      "icon": true,
+      "description": "When Ene swims, climbs, or glides, reduce endurance consumption by 12%."
+    },
+    {
+      "name": "Beyond Limits Mode",
+      "icon": true,
+      "description": "When Ene swims, climbs, or glides, reduce endurance consumption by 20%."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "250",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "1"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "500",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "750",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1000",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "2"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "2"
+      }
+    }
+  ]
+}

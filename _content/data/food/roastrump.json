@@ -1,0 +1,17 @@
+{
+  "name": "Roast Rump",
+  "uri": "roastrump",
+  "imgSrc": "roastrump.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **500** stamina\nRecovers **15% + 20,000** HP",
+  "recipe": [
+    {
+      "name": "Rear Hock",
+      "rarity": "3",
+      "uri": "rearhock",
+      "imgSrc": "rearhock.webp",
+      "amount": 2
+    }
+  ]
+}

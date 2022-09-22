@@ -1,0 +1,131 @@
+{
+  "_id": 7,
+  "id": "hilda",
+  "name": "Hilda",
+  "weapon": "The Terminator",
+  "weapon_id": "the_terminator",
+  "birthday": "11 April (Aries)",
+  "birthplace": "Banges",
+  "gender": "Female",
+  "info": "A passionate and sincere young girl. Carefree and casual. Popular with others.\nDoes not discriminate against people based on age or gender, and treats everyone the same. Quickly get along with everybody, no matter kids or adults; sees Theo, the son of the head of Banges Tech, as a close friend.\nCan be somewhat crude and insensitive at times and often forgets things (including her own weapons).",
+  "description": "The \"superstar\" of Banges Port, Hilda is no stranger to the people in town.\nShe has a deep love for her hometown and will go to any lengths to protect it.\nHilda has no established career and prefers roaming around the port doing this and that for the stores in exchange for pocket money; once in a while, she takes on more dangerous assignments, like patrol or guard duty. Whenever she feels tired, she takes off a day or two to eat and store to her heart's content.",
+  "like": "Fried chicken, celebrations, bartering",
+  "dislike": "Life plans",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tap normal attack to enter aiming mode. Hold normal attack to fire continuously, up to <b>40</b> rounds. Each shot deals damage equal to <b>11.4%</b> of ATK + <b>1</b>. Deal double damage when scoring a headshot or hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers)."
+    },
+    {
+      "name": "Turret",
+      "type": [
+        "Skill"
+      ],
+      "description": "Enable turret mode and fire large energy orbs, each dealing damage equal to <b>213.3%</b> of ATK + <b>11</b> and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. <b>3.5</b>-second cooldown."
+    },
+    {
+      "name": "Arctic Beam",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and fire an arctic beam upon switching to this weapon, dealing damage equal to <b>329.2%</b> of ATK + <b>17</b> and inflict a <b>3</b>-second <b>freeze</b> effect. Also reduce the target's frost resistance by <b>50%</b> for <b>10</b> seconds."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Fully charged weapons will <b>freeze</b> the target for <b>2</b> seconds and leave it frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>111%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+  },
+  "advancement": [
+    "Every successful normal attack increases damage by <b>1%</b> for <b>2</b> seconds. Stack up to <b>15</b> times. Increase ammo count to <b>60</b>.",
+    "Increase the current weapon's base ATK growth by <b>10%</b>.",
+    "Within <b>10</b> seconds of switching to the weapon, increase damage of normal attacks and shatter by <b>30%</b>. Cooldown: <b>25</b> seconds. Increase ammo to <b>80</b>.",
+    "Increase the current weapon's base ATK growth by <b>20%</b>.",
+    "Reduce cooldown of normal attacks while in turret mode by <b>2</b> seconds.",
+    "Within <b>10</b> seconds upon switching to the weapon, increase damage of normal attacks and shatter by <b>60%</b>. Cooldown: <b>25</b> seconds."
+  ],
+  "traits": [
+    {
+      "name": "Hilda: Pedal to the Metal",
+      "icon": true,
+      "description": "When Hilda uses a vehicle, increase speed by <b>7%</b>."
+    },
+    {
+      "name": "Hilda: Full-speed Drifting",
+      "icon": true,
+      "description": "When Hilda uses a vehicle, increase speed by <b>10%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

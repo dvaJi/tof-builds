@@ -1,0 +1,277 @@
+{
+  "_id": 8,
+  "id": "huma",
+  "name": "Huma",
+  "weapon": "Molten Shield V2",
+  "weapon_id": "molten_shield_v2",
+  "birthday": "12 January (Capricorn)",
+  "birthplace": "Hykros",
+  "gender": "Female",
+  "info": "Sometimes falls into a state of confusion or daze, due to missing some of her memories and parts of her identity data. Often wears a mask over her mouth, making communication even more difficult. Exceedingly quiet and introverted.\nWith little experience of the outside world, she is as innocent as a fledgling and has a detached air.",
+  "description": "A girl whose illness has bestowed strange powers, currently receiving treatment at Hykros.\nFor some reason, Huma has lost all memory of her past, as well as her former personality. Since waking up, the sum of Huma's knowledge about the world is limited to Hykros. Everything else merely makes her a little afraid and anxious.\nPresently, all of Huma's personal relationships are with those medical researchers whom she has gotten to know during her treatment. These researchers have suggested Huma accompany others to explore the outside world, in the hopes of gradually returning her to a more normal existence. Huma, however, made an astonishing decision — choosing to be trained as a Hykros Executor.\nThe girl's reasoning is simple and pure — she feels reassured in the company of Executors, and wishes to use her abilities to pay back the kindness Hykros has shown her.",
+  "like": "Reading, peace and quiet, gardening",
+  "dislike": "Unknown",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Tank",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing the shield axe to attack 4 times in a row.\nFirst Attack in Shield Form: Deal damage equal to <b>77.7%</b> of ATK + <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>56.9%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>62.8%</b> of ATK + <b>3</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>184%</b> of ATK + <b>10</b> and <b>launch the target into the air</b>.\nFirst Attack in Axe Form: Deal damage equal to <b>135.2%</b> of ATK + <b>7</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>79.4%</b> of ATK + <b>4</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>119.9%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>221.3%</b> of ATK + <b>12</b> and knock the target back."
+    },
+    {
+      "name": "Aerial Strike",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, tap normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>75.9%</b> of ATK + <b>4</b>.\nSecond Attack: Deal damage equal to <b>80.2%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>103%</b> of ATK + <b>5</b>.\nFourth Attack: Deal damage equal to <b>118.6%</b> of ATK + <b>6</b> and deliver a <b>knockdown</b>, launch the target upon landing."
+    },
+    {
+      "name": "Anticipation",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Shield Form: While on the ground, tap and hold normal attack to enter shield form (release to exit) for <b>3</b> seconds, during which the Wanderer is unable to move, and all damage taken is reduced by <b>50%</b>. While in shield form, releasing the normal attack button after taking damage or after holding the button for <b>3</b> seconds, unleash fire crash, dealing damage equal to <b>167.3%</b> of ATK + <b>9</b> and inflicting a <b>1</b>-second <b>stun</b> effect on the target.\nAxe Form: Smash the target, dealing damage equal to <b>122.2%</b> of ATK + <b>6</b> and suspending the target."
+    },
+    {
+      "name": "Valor",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Air Branch attacks.\nShield Form: While falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>89.2%</b> of ATK + <b>5</b> and suspend the target.\nAxe Form: While falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>128.3%</b> of ATK + <b>7</b> and suspend the target.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+    },
+    {
+      "name": "Erupt",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short period after dodging to trigger a Dodge Attack.\nShield Form: Unleash a flaming shield, dealing damage equal to <b>55.8%</b> of ATK + <b>3</b> and knocking back targets. In addition, trigger an explosion that deals damage equal to <b>{0}%</b> of ATK + <b>{1}</b>, <b>stun</b> targets for <b>0.5</b> seconds, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds.\nAxe Form: Swing an axe to deal damage equal to <b>55.8%</b> of ATK + <b>3</b>, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds."
+    },
+    {
+      "name": "Fission",
+      "type": [
+        "Skill"
+      ],
+      "description": "Shield Conversion: Switch from shield form to axe form and smash the ground, dealing damage equal to <b>373.8%</b> of ATK + <b>20</b> and <b>strongly suspends</b> the target. Leave a large flame zone for <b>5</b> seconds that burns the target, dealing continuous damage equal to <b>233.6%</b> of ATK + <b>12</b>.\nAxe Conversion: Switch from axe form to shield form and slam it to the ground, dealing damage equal to <b>309.5%</b> of ATK + <b>16</b> to the target and knocking them back. Prevent the target from switching weapons for <b>5</b> seconds.\nCooldown: <b>25</b> seconds. Shield Conversion, and Axe Conversion share a cooldown."
+    },
+    {
+      "name": "Seething Rage",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or when <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and unleash a flame shockwave upon switching to this weapon, dealing damage equal to <b>352%</b> of ATK + <b>19</b>. Taunt enemies for <b>5</b> seconds, during which gain <b>15%</b> damage reduction. Scatter shield-shaped objects based on the number of targets taunted. Objects last <b>20</b> seconds and provide <b>10</b> seconds of <b>5%</b> damage reduction (stackable), restoring dodge by 1."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>{3}%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+  },
+  "advancement": [
+    "Gain a stack of Strong Shield upon casting Discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <b>10%</b> damage reduction for <b>15</b> seconds and stacks up to <b>3</b> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <b>15%</b> for <b>15</b> seconds. Switching to a different weapon cancels this effect.",
+    "Increase the current weapon's base HP growth by <b>16%</b>.",
+    "While in shield form, branch/dodge attacks deal additional damage to targets equal to <b>4%</b> of the user's current HP.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "After switching to a shield axe, immediately grant <b>30%</b> damage reduction that diminishes by <b>10%</b> every <b>3</b> seconds, down to a minimum of <b>10%</b>. Switching weapons cancels this effect. Cooldown: <b>30</b> seconds.",
+    "Enhance conversion skills.\nShield Conversion Enhancement: Increases damage dealt by <b>60%</b> and expands the radius of the flame zone by <b>30%</b>.\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <b>5</b> seconds after using this skill, turns all damage received into HP (up to a maximum of <b>15%</b> of the user's Max HP)."
+  ],
+  "traits": [
+    {
+      "name": "Huma: Fortitude",
+      "icon": true,
+      "description": "Each time Huma receives damage, gain <b>1</b> Fortitude mark and gain <b>1</b> more Fortitude mark if it is flame damage, up to <b>1</b> time per <b>1</b> second and <b>12</b> stacks in total. Upon using a weapon skill, use all Fortitude marks and gain an HP shield equal to the number of marks x<b>0.4%</b> HP for <b>12</b> seconds. If Fortitude marks are used when the effect is stacked up to the maximum, then gain an HP shield equal to the number of marks x<b>0.6%</b> HP."
+    },
+    {
+      "name": "Huma: Iron Screen",
+      "icon": true,
+      "description": "Each time Huma receives damage, gain <b>1</b> Fortitude mark and gain <b>1</b> more Fortitude mark if it is flame damage, up to <b>1</b> time per <b>1</b> second and <b>12</b> stacks in total. Upon using a weapon skill, use all Fortitude marks and gain an HP shield equal to the number of marks x<b>0.6%</b> HP for <b>12</b> seconds. If Fortitude marks are used when the effect is stacked up to the maximum, then gain an HP shield equal to the number of marks x<b>0.9%</b> HP."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Heart of lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

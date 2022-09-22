@@ -1,0 +1,131 @@
+{
+  "_id": 7,
+  "id": "hilda",
+  "name": "Hilda",
+  "weapon": "The Terminator",
+  "weapon_id": "the_terminator",
+  "birthday": "11 April (Aries)",
+  "birthplace": "Banges",
+  "gender": "Perempuan",
+  "info": "Gadis muda yang bersemangat dan tulus. Periang dan santai. Disukai orang-orang.\nTidak membedakan orang berdasarkan usia atau jenis kelamin, dan memperlakukan semua orang dengan cara yang sama. Mudah bergaul dengan semua orang, entah itu anak kecil ataupun orang dewasa. Menganggap Theo, anak dari kepala Banges Tech, sebagai teman dekat.\nTerkadang bisa agak kasar dan tidak sensitif dan sering lupa akan sesuatu (termasuk senjatanya sendiri).",
+  "description": "\"Superstar\" dari Banges Port, Hilda, sudah tak asing lagi bagi masyarakat di kota tersebut.\nDia sangat mencintai kampung halamannya dan akan melakukan apa pun untuk melindunginya.\nHilda tidak punya pekerjaan tetap dan lebih suka berjalan-jalan di sekitar pelabuhan membantu toko-toko dengan imbalan uang saku; sesekali, dia mengambil tugas yang lebih berbahaya, seperti patroli atau tugas jaga. Saat merasa lelah, dia mengambil libur satu atau dua hari untuk makan dan menghemat energi sepuasnya.",
+  "like": "Ayam goreng, perayaan, barter",
+  "dislike": "Rencana hidup",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack untuk memasuki mode membidik. Tahan Normal Attack untuk terus menembak, hingga <b>40</b> tembakan. Setiap tembakan menimpakan damage sebanyak <b>11.4%</b> ATK + <b>1</b>. Menimpakan Double Damage saat melakukan Headshot atau mengenai titik lemah musuh hingga memukul jatuh mereka (Headshot tidak efektif pada Wanderer)."
+    },
+    {
+      "name": "Turret",
+      "type": [
+        "Skill"
+      ],
+      "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan damage sebanyak <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental. Menjadi kebal terhadap Hitstun dan Control Effect saat memasang Turret. Cooldown <b>3.5</b> detik."
+    },
+    {
+      "name": "Arctic Beam",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebanyak <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebanyak <b>50%</b> selama <b>10</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+  },
+  "advancement": [
+    "Setiap Normal Attack yang berhasil akan meningkatkan damage sebanyak <b>1%</b> selama <b>2</b> detik (bisa ditumpuk maks <b>15</b> kali). Menambah jumlah amunisi menjadi <b>60</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Normal Attack dan Shatter sebanyak <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+    "Mengurangi cooldown untuk Normal Attack selama dalam mode Turret sebanyak <b>2</b> detik.",
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Normal Attack dan Shatter sebanyak <b>60%</b>. Cooldown: <b>25</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "Hilda: Pedal to the Metal",
+      "icon": true,
+      "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>7%</b>."
+    },
+    {
+      "name": "Hilda: Full-speed Drifting",
+      "icon": true,
+      "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>10%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

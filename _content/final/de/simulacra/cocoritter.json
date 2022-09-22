@@ -1,0 +1,286 @@
+{
+  "_id": 2,
+  "id": "cocoritter",
+  "name": "Coco",
+  "weapon": "Gefrierpunkt",
+  "weapon_id": "absolute_zero",
+  "birthday": "1. Juni (Zwilling)",
+  "birthplace": "Unbekannt",
+  "gender": "Weiblich",
+  "info": "Ein unschuldiges, romantisches und immer gut gelauntes Mädchen. Sie vertraut anderen zu sehr und erweckt so manchmal den Eindruck, naiv zu sein.\nSie liebt Süßigkeiten, schafft es aber, ihren Zuckerkonsum mit gesunden Lebensmitteln aufzuwiegen. Sie hat zwar Orientierungsschwierigkeiten, aber wenn sie einmal ihren Weg gefunden hat, verirrt sie sich nie. Man kann nicht anders, als sich Sorgen um sie zu machen, wobei sie in Wahrheit sehr gut auf sich aufpassen kann.",
+  "description": "Als Tochter eines medizinischen Forschers aus Hykros zeigte Cocolita schon in jungen Jahren ihr Können in den Heilkünsten und trat dem Labor bei, in dem ihre Eltern arbeiteten, um so viel medizinisches Wissen wie möglich aufzunehmen.\nSie durchstreift das Land, reist von Zuflucht zu Zuflucht und behandelt die Verletzten. Sie nimmt diese Aufgabe sehr ernst und ist überzeugt, dass diese Erfahrung notwendig ist, um zu einer Veteranin unter dem medizinischen Personal zu werden.",
+  "like": "Süßigkeiten; alles, was niedlich ist",
+  "dislike": "Unbekannt",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 4,
+  "charge": 12.5,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Schwinge den Stab während du auf dem Boden stehst, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>54.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>40.8%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG + <b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>89.7%</b> des ANG + <b>5</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>158.4%</b> des ANG + <b>8</b>."
+    },
+    {
+      "name": "Steigendes Sperrfeuer",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, tippe auf normaler Angriff, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>70.5%</b> des ANG + <b>4</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>50.8%</b> des ANG + <b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>55.1%</b> des ANG + <b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>99.1%</b> des ANG + <b>5</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>103.2%</b> des ANG + <b>5</b>."
+    },
+    {
+      "name": "Mondfall",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um Mondfall auszulösen.\nVerursacht bei der Landung einmal alle <b>0,2</b> Sekunden Schaden, der insgesamt <b>123.8%</b> des ANG + <b>7</b> Schaden verursacht."
+    },
+    {
+      "name": "Eisschlitz",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: zieht Gegner vor dem Anwender heran, lässt <b>sie schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>34.9%</b> des ANG + <b>2</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>40.4%</b> des ANG + <b>2</b> am Zielort und an Gegnern in der Nähe."
+    },
+    {
+      "name": "Volt-Welle",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums des perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Volt-Welle“ auszulösen.\nJede Energiewelle verursacht Schaden in Höhe von <b>45.9%</b> des ANG + <b>2</b> an Zielen.\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+    },
+    {
+      "name": "Tesserakt",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Ausweichende Explosion“ auszulösen.\nDies schießt eine Energiekugel nach vorne und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>66.4%</b> des ANG + <b>3</b> an Zielen im Weg (bis zu 5-mal).\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+    },
+    {
+      "name": "Heiligtum",
+      "type": [
+        "Skill"
+      ],
+      "description": "Erzeugt eine Heilzone, die sich mit dem Wanderer bewegt und Verbündete in der Nähe für <b>95%</b> des ANG + <b>5</b> für <b>6</b> Sekunden einmal alle <b>0,5</b> Sekunden heilt. <b>60</b> Sekunden Abklingzeit."
+    },
+    {
+      "name": "Hauch von Ruhe",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>118.8%</b> des ANG + <b>6</b> LP."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eispanzer",
+    "description": "Voll geladene Waffen <b>gefrieren</b> das Ziel für <b>2</b> Sekunden und verursachen für <b>6</b> Sekunden Frostschaden. Das Durchbrechen des Eispanzers verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während Frostschaden ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> reduziert."
+  },
+  "advancement": [
+    "Beschwört nach dem Ausweichen eine heilende Biene, die dem Anwender folgt und den Verbündeten mit den prozentual niedrigsten LP innerhalb von <b>15</b> Metern heilt. Heilt jedes Mal um <b>25%</b> des ANG und stellt <b>50</b> Waffenladungspunkte wieder her. Hält <b>25</b> Sek. an. Abklingzeit: <b>25</b> Sek.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Entfernt mit <span class=\"text-yellow\">Refugium</span> oder Entladungsfähigkeiten Debuffs von Zielen. Kann trotz Kontrolleffekten verwendet werden. Erhöht Zertrümmern und den verursachten Schaden von allen Teammitgliedern in Reichweite um <b>20%</b> und gewährt ihnen Immunität gegen Kontrolleffekte und Zertrümmern.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Erhöht den Heilungseffekt um <b>15%</b> und zusätzlich um <b>20%</b>, wenn Ziele mit weniger als <b>60%</b> LP geheilt werden.",
+    "Wenn eine heilende Biene beschworen wird oder den Kampf verlässt, heilt der Anwender alle Verbündeten um <b>100%</b> des eigenen ANG. Alle Verbündeten im Umkreis von <b>10</b> Metern um die Biene erhalten außerdem einen Schadens- sowie einen Heilungsbonus in Höhe von <b>15%</b> (nicht stapelbar)."
+  ],
+  "traits": [
+    {
+      "name": "Cocolita: Unterstützung",
+      "icon": true,
+      "description": "Wenn Cocolita eine Unterstützungswaffe verwendet, werden die von ihr gewirkten Heilungseffekte auf andere und umgekehrt um <b>20%</b> erhöht."
+    },
+    {
+      "name": "Cocolita: Vertrauen",
+      "icon": true,
+      "description": "Wenn Cocolita eine Unterstützungswaffe einsetzt, wird die verursachte und erhaltene Heilung um <b>20%</b> erhöht. Wenn Cocolita die Waffen- oder Entladungsfähigkeit einer Unterstützungswaffe einsetzt, wird der ANG von Verbündeten in der Nähe für <b>5</b> Sek. um <b>15%</b> erhöht."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Herz des Winters",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Säurefeste Glasur II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

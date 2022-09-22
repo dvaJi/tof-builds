@@ -1,0 +1,286 @@
+{
+  "_id": 3,
+  "id": "crow",
+  "name": "Crow",
+  "weapon": "Adagas Trovejantes",
+  "weapon_id": "thunderblades",
+  "birthday": "17 de dezembro (Sagitário)",
+  "birthplace": "Desconhecido",
+  "gender": "Masculino",
+  "info": "Uma personalidade vívida e animada que ilumina qualquer ambiente. É sincero e extrovertido e otimista em qualquer situação, mas, às vezes, orgulhoso demais.\nCostuma fazer truques de adagas chamativos e tem um amplo repertório de piadas de tiozinho que ele acha hilárias. Crow gosta de contar essas piadas como se estivesse no palco.\nPor trás do jeito descontraído e despreocupado existem força de vontade e determinação inabaláveis. Não mede esforços para conquistar seus objetivos. Às vezes exige demais de si mesmo.",
+  "description": "Como ex-Executor, Crow mantém uma boa relação com a Hykros. Ele não cometeu nenhum erro crítico e não foi dispensado por mau desempenho. Simplesmente percebeu que queria uma vida menos regrada após trabalhar com a equipe de lá por um tempo e tomou a decisão que lhe parecia melhor.\nAtualmente, viaja livremente por longos períodos de tempo. Sua personalidade alegre causa uma ótima primeira impressão nas pessoas que cruzam o seu caminho, e ele sempre apresenta novos truques ou piadas quando chega em um lugar novo. As pessoas o chamam de Crowzinho, mas ele não liga.",
+  "like": "Gatos, todo tipo de adagas",
+  "dislike": "Álcool, histórias de fantasmas",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Cutilada",
+      "type": [
+        "Attack"
+      ],
+      "description": "Enquanto está no solo, brande a montante em 5 ataques seguidos.\nPrimeiro ataque: causa dano igual a <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>73%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>96.8%</b> do ATQ + <b>5</b>, que repele o alvo, repelindo-o uma curta distância.\n Quinto ataque: causa dano de <b>202.2%</b> do ATQ + <b>11</b> e repele o alvo uma curta distância."
+    },
+    {
+      "name": "Floreio Aéreo",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>38.4%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>92%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>138%</b> do ATQ + <b>7</b>."
+    },
+    {
+      "name": "Lançamento Veloz",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Lançamento Veloz.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano total de <b>116.8%</b> do ATQ + <b>6</b>."
+    },
+    {
+      "name": "Mergulho Espiralante",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Espiralante.\nEnquanto cai, cada golpe causa dano de <b>42%</b> do ATQ + <b>2</b>."
+    },
+    {
+      "name": "Ataque Furtivo",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+    },
+    {
+      "name": "Adagas Voadoras",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Adagas Voadoras.\nGolpeia um alvo <b>5</b> vezes. Cada golpe causa dano de <b>26.4%</b> do ATQ + <b>1</b>. Enquanto estiver ativo, fica imune a efeitos incapacitantes."
+    },
+    {
+      "name": "Adagas-Bumerangue",
+      "type": [
+        "Skill"
+      ],
+      "description": "Arremessa <b>6</b> adagas-bumerangue. Cada uma causa dano de <b>52.8%</b> do ATQ + <b>3</b>. Ganha <b>corpo de aço</b> durante até <b>8</b> segundos. O efeito acaba quando as adagas voltam. Tempo de recarga: <b>45</b> seg."
+    },
+    {
+      "name": "Adagas Giratórias",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e se teletransporta para o local do alvo ao trocar para esta arma e ataca. Causa dano de <b>86.9%</b> do ATQ + <b>5</b> e eletrocuta o alvo (após <b>5</b> segundos, causa dano elétrico equivalente a <b>15%</b> do dano causado, até <b>350%</b> do seu ATQ. Este é um status anormal que não pode ser anulado). Além disso, gera 3 adagas que giram em volta do Errante e causam dano de <b>65.2%</b> do ATQ + <b>3</b> a quem encostar nelas."
+    }
+  ],
+  "weapon_type": {
+    "name": "Raio",
+    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+  },
+  "advancement": [
+    "Atacar alvos por trás aumenta a taxa de crítico de todos os golpes de adagas em <b>40%</b>. Apunhalar um alvo eletrocutado pelas costas aumenta a taxa de crítico em <b>100%</b> e o dano crítico em <b>30%</b>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Aumenta em <b>30%</b> o dano causado a alvos com menos de <b>60%</b> de vida.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
+    "Desferir um Ataque Traseiro dá 100% de chance de crítico para os <b>4</b> segundos seguintes e aumenta o dano crítico em <b>50%</b>. Tempo de recarga: <b>10</b> seg.",
+    "Após usar uma habilidade, aumenta o dano elétrico causado ao alvo em <b>20%</b> durante <b>20</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "Crow: Solidão",
+      "icon": true,
+      "description": "Quando Crow não está em equipe, aumenta o dano causado em <b>6%</b> e reduz o dano sofrido em <b>4%</b>."
+    },
+    {
+      "name": "Crow: Noite Silenciosa",
+      "icon": true,
+      "description": "Quando Crow não está em equipe, aumenta o dano causado em <b>10%</b> e reduz o dano sofrido em <b>6%</b>. Quando Crow entra em combate, aumenta o dano causado em <b>12%</b> durante <b>12</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Coração-de-raio",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

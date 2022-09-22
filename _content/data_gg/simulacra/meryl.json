@@ -1,0 +1,302 @@
+{
+  "name": "Meryl",
+  "weapon": "Rosy Edge",
+  "element": "Ice",
+  "rarity": "SSR",
+  "id": "meryl",
+  "global": false,
+  "tier": 2,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Shieldbreaking",
+  "soon": false,
+  "new": false,
+  "resonance": "Defense",
+  "shatter": 12,
+  "charge": 4,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "The best shieldbreaking defense unit with the second highest shatter stat currently in the game.",
+      "set1": [
+        "King",
+        "Shiro"
+      ],
+      "set2": [
+        "Robarg"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Heavy Cleave",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, swing the greatsword to attack 4 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 72.9% of ATK + 4 and knock the target back a short distance.</li>\n<li>Second Attack: Deal damage equal to 60.1% of ATK + 3 and knock the target back a short distance.</li>\n<li>Third Attack: Deal damage equal to 105.4% of ATK + 6 and knock the target back a short distance.</li>\n<li>Fourth Attack: Deal damage equal to 156.3% of ATK + 8, strongly suspend the target, then launch them upon landing.</li>\n</ul>"
+    },
+    {
+      "name": "Aerial Strike",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne or after jumping once, tap normal attack to attack 4 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 106.5% of ATK + 6.</li>\n<li>Second Attack: Deal damage equal to 87.5% of ATK + 5.</li>\n<li>Third Attack: Deal damage equal to 156% of ATK + 8.</li>\n<li>Fourth Attack: Deal damage equal to 140.5% of ATK + 7 and deliver a knockdown, launch the target upon landing.</li>\n</ul>"
+    },
+    {
+      "name": "Rising Slash",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "<p>After the third normal attack, hold attack button to trigger Rising Slash.</p>\n<p>Upon hit, strongly suspend the target and go airborne, dealing damage equal to 64.3% of ATK + 3.</p>"
+    },
+    {
+      "name": "Moonset Slash",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Moonset Slash.</p>\n<p>While falling, each hit deals damage equal to 12.5% of ATK + 1. Upon landing, deal damage equal to 140.5% of ATK + 7 and launch targets.</p>\n<p>The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage.</p>"
+    },
+    {
+      "name": "Sneak Attack",
+      "icon": true,
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to 570% of ATK + 30."
+    },
+    {
+      "name": "Whirlwind",
+      "icon": true,
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to 132.8% of ATK + 7 every 0.5 seconds to the target. Grant hitstun immunity while in use."
+    },
+    {
+      "name": "Devastate",
+      "icon": true,
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate.</p>\n<p>Deal damage equal to 65.9% of ATK + 3 each hit and launch targets.</p>"
+    },
+    {
+      "name": "Crescent Slash",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short period after dodging to trigger Crescent Slash.</p>\n<p>Swing the greatsword to unleash sword auras forward, each dealing damage equal to 49.6% of ATK + 3.</p>"
+    },
+    {
+      "name": "Blizzard",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Swing the greatsword to launch sword auras forward, each dealing damage equal to 141.7% of ATK + 7 and increasing damage dealt by 5% with each hit. While active, immune to control effects.</p>\n<p>Cooldown: 45 seconds.</p>"
+    },
+    {
+      "name": "Frost Barrier",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "<p>When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the wielder and smash the ground to form a barrier, dealing damage equal to 503.2% of ATK + 26 to nearby enemies, suspending targets. This reduces their speed by 50% and stops them from dodge or jump.</p>\n<p>The barrier lasts 5 seconds and blocks projectiles.</p>"
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "type": "Ice",
+    "description": "Fully charged weapons will freeze the target for 2 seconds and leave it frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%."
+  },
+  "advancement": [
+    "Increase shatter by 15% and restore 10% of HP after shattering the target's shield.",
+    "Increase the current weapon's base HP growth by 16%.",
+    "<p>Upon switching to the weapon, gain an Ice Shield equal to 10% of Max HP. The Ice Shield lasts up to 10 seconds.</p>\n<p>Cooldown: 20 seconds.</p>",
+    "Increase the current weapon's base HP growth by 32%.",
+    "Increase damage and shatter by 50% while the shield is active.",
+    "<p>Upon switching to the weapon, gain an Ice Shield equal to 20% of Max HP and immune to controls when shield is active. The Ice Shield lasts up to 10 seconds.</p>\n<p>Cooldown: 20 seconds.</p>"
+  ],
+  "traits": [
+    {
+      "name": "Cool Rose",
+      "icon": true,
+      "description": "Reduce frost damage received by Meryl by 20%, gain immunity to the frostbitten effect, and reduce duration of being frozen by 50%."
+    },
+    {
+      "name": "Frosted",
+      "icon": true,
+      "description": "Reduce frost damage received by Meryl by 25%, gain immunity to the frostbitten effect, and reduce duration of being frozen by 50%."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "Heart of Winter",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

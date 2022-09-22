@@ -1,0 +1,24 @@
+{
+  "name": "Sliced Fish with Mushroom",
+  "uri": "slicedfishwithmushroom",
+  "imgSrc": "slicedfishwithmushroom.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Mushroom",
+      "rarity": "2",
+      "uri": "mushroom",
+      "imgSrc": "mushroom.webp",
+      "amount": 2
+    },
+    {
+      "name": "Silver Bass",
+      "rarity": "2",
+      "uri": "silverbass",
+      "imgSrc": "silverbass.webp",
+      "amount": 1
+    }
+  ]
+}

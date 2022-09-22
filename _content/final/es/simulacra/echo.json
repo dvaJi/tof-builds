@@ -1,0 +1,179 @@
+{
+  "_id": 4,
+  "id": "echo",
+  "name": "Echo",
+  "weapon": "Alabarda de trueno",
+  "weapon_id": "thunderous_halberd",
+  "birthday": "14 de agosto (Leo)",
+  "birthplace": "Sin registros",
+  "gender": "Femenino",
+  "info": "Una vigorosa niña distraída que disfruta decir lo que piensa. Desde que fue rescatada por un mercader viajero, desea pagar por adelantado su deuda con buenas acciones durante sus viajes. Aborrece el mal y equipara las buenas acciones con la erradicación del mal. Al ser joven e inexperta, se sustenta en estándares cuestionables para emitir juicios de valor.",
+  "description": "Echo nació en Warren y siempre soñó con dejar la tierra de la nieve y ver el resto del mundo. Una repentina avalancha destruyó su refugio cuando tenía nueve años y perdió a sus padres cuando intentaron salvarla. Un mercader viajero la rescató y la llevó a un centro de recuperación en Banges. Luego de cinco años en Banges, decidió salir de viaje para castigar el mal y difundir el bien.",
+  "like": "La abuela Eileen, comer pescado",
+  "dislike": "Conducir vehículos",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "skills": [
+    {
+      "name": "Arremetida",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, blande la lanza larga para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>24.7%</b> del ATQ + <b>1</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>47.2%</b> del ATQ + <b>2</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>65.2%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>114.95%</b> del ATQ + <b>6</b> y hace retroceder mucho al objetivo."
+    },
+    {
+      "name": "Golpe de salto",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>27.4%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>23.2%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>45.8%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>110%</b> del ATQ + <b>6</b>."
+    },
+    {
+      "name": "Choque propulsor",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o pulsa el ataque normal al trepar, saltar hacia atrás o usar el Propulsor para activar Choque Propulsor.\nEn el descenso, cada golpe inflige daño equivalente al <b>8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> y derriba al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+    },
+    {
+      "name": "Ráfaga de lanza",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\nAl golpear, <b>suspende fuertemente</b> al objetivo e inflige daño equivalente al <b>49.2%</b> del ATQ + <b>3</b>. Pulsa de nuevo para seguir atacando al enemigo suspendido, lo que inflige hasta un <b>98%</b> del ATQ + <b>5</b> de daño a un objetivo individual."
+    },
+    {
+      "name": "Ataque sorpresa",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+    },
+    {
+      "name": "Patada voladora",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante la oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Patada Voladora.\nAl golpear al objetivo, inflige daño equivalente al <b>72%</b> del ATQ + <b>4</b>, lo hace retroceder mucho y <b>aturde</b> a los enemigos por <b>1</b> segundo o <b>0.5</b> segundos para nómadas."
+    },
+    {
+      "name": "Embestida aplastante",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Embestida Aplastante.\nClava la lanza larga en el suelo, lo cual <b>suspende fuertemente</b> a los objetivos e inflige daño equivalente al <b>52.8%</b> del ATQ + <b>3</b>."
+    },
+    {
+      "name": "Cazalunas",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Suspende fuertemente</b> a los objetivos y quedas en el aire, lo que inflige daño equivalente al <b>127.5%</b> del ATQ + <b>7</b>. Enfriamiento: <b>25</b> segundos."
+    },
+    {
+      "name": "Trueno",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté completa o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b>, que salta al aire y arroja una lanza que genera un área de explosión e inflige daño equivalente al <b>296.7%</b> del ATQ + <b>16</b> y <b>paraliza</b> al objetivo durante <b>1</b> segundo."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eléctrico",
+    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>106%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+  },
+  "advancement": [
+    "Aumenta la destrucción en un <b>15%</b>. Luego de destruir el escudo del objetivo, aumenta el ATQ de todos los compañeros de grupo en un <b>15%</b> durante <b>30</b> segundos. No puede acumularse.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>10%</b>.",
+    "Luego de golpear un objetivo con <span class=\"text-green\">Cazalunas</span>, reduce su ATQ en un <b>5%</b> y aumenta el ATQ del usuario en un <b>5%</b> durante <b>15</b> segundos (el efecto puede acumularse hasta <b>3</b> veces si se golpean varios objetivos). El efecto se duplica para los objetivos graves.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>20%</b>.",
+    "Duración de aturdimiento doble para las habilidades de esquivar.",
+    "Las habilidades de descarga infligen más daño cuanto más lejos se desplazan, hasta <b>100%</b> de daño adicional."
+  ],
+  "traits": [
+    {
+      "name": "Echo: Integridad",
+      "icon": true,
+      "description": "Al formar equipo con Echo, los aliados dentro de un radio de <b>10</b> metros alrededor de Echo obtienen un refuerzo de daño del <b>4%</b> (excepto Echo)."
+    },
+    {
+      "name": "Echo: Determinación",
+      "icon": true,
+      "description": "Al formar equipo con Echo, los aliados dentro de un radio de <b>10</b> metros alrededor de Echo obtienen un refuerzo de daño del <b>6%</b> (excepto Echo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón reforzado I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

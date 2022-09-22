@@ -1,0 +1,31 @@
+{
+  "name": "Caviar Sushi",
+  "uri": "caviarsushi",
+  "imgSrc": "caviarsushi.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\nRecovers **16% + 34,000** HP",
+  "recipe": [
+    {
+      "name": "Caviar",
+      "rarity": "3",
+      "uri": "caviar",
+      "imgSrc": "caviar.webp",
+      "amount": 1
+    },
+    {
+      "name": "Rice",
+      "rarity": "3",
+      "uri": "rice",
+      "imgSrc": "rice.webp",
+      "amount": 2
+    },
+    {
+      "name": "Laver",
+      "rarity": "3",
+      "uri": "laver",
+      "imgSrc": "laver.webp",
+      "amount": 2
+    }
+  ]
+}

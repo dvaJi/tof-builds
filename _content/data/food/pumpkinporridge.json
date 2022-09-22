@@ -1,0 +1,24 @@
+{
+  "name": "Pumpkin Porridge",
+  "uri": "pumpkinporridge",
+  "imgSrc": "pumpkinporridge.webp",
+  "rarity": "3",
+  "chinaOnly": true,
+  "effect": "Recovers **10** satiety\nRecovers **15% + 20,000** HP",
+  "recipe": [
+    {
+      "name": "Pumpkin",
+      "rarity": "3",
+      "uri": "pumpkin",
+      "imgSrc": "pumpkin.webp",
+      "amount": 2
+    },
+    {
+      "name": "Rice",
+      "rarity": "3",
+      "uri": "rice",
+      "imgSrc": "rice.webp",
+      "amount": 3
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "name": "Cocoritter",
+  "weapon": "Absolute Zero",
+  "element": "Ice",
+  "rarity": "SSR",
+  "id": "cocoritter",
+  "global": false,
+  "tier": 2,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Utility",
+  "soon": false,
+  "new": false,
+  "resonance": "Support",
+  "shatter": 4,
+  "charge": 12.5,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A high throughput healer with long cooldowns. Her first advancement gives her access to a constant heal.",
+      "set1": [
+        "Cocoritter"
+      ],
+      "set2": [
+        "Pepper"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, swing the staff to attack 5 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 54.4% of ATK + 3.</li>\n<li>Second Attack: Deal damage equal to 40.8% of ATK + 2.</li>\n<li>Third Attack: Deal damage equal to 65.6% of ATK + 3.</li>\n<li>Fourth Attack: Deal damage equal to 89.7% of ATK + 5.</li>\n<li>Fifth Attack: Deal damage equal to 158.4% of ATK + 8.</li>\n</ul>"
+    },
+    {
+      "name": "Soaring Barrage",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne or after jumping, tap normal attack to attack 5 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 70.5% of ATK + 4.</li>\n<li>Second Attack: Deal damage equal to 50.8% of ATK + 3.</li>\n<li>Third Attack: Deal damage equal to 55.1% of ATK + 3.</li>\n<li>Fourth Attack: Deal damage equal to 99.1% of ATK + 5.</li>\n<li>Fifth Attack: Deal damage equal to 103.2% of ATK + 5.</li>\n</ul>"
+    },
+    {
+      "name": "Moonfall",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold the normal attack while airborne to trigger Moonfall.</p>\n<p>Upon landing, deal damage once every 0.2 seconds, for a total of 123.8% of ATK + 7 damage.</p>"
+    },
+    {
+      "name": "Focused Assault",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "<p>After the third normal attack, hold the normal attack button to trigger branch attacks, consuming 300 points of endurance.</p>\n<ul>\n<li>Pull in enemies in front of the user, suspending them and dealing damage equal to 34.9% of ATK + 2 every 0.3 seconds (up to 4 times).</li>\n<li>Second Attack: Deal damage equal to 40.4% of ATK + 2 at the target location and to nearby enemies every 0.3 seconds.</li>\n</ul>"
+    },
+    {
+      "name": "Surge",
+      "icon": true,
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Surge.</p>\n<p>Each weave of energy deals damage equal to 45.9% of ATK + 2 to targets.</p>\n<p>Grant 75 weapon charge points upon use.</p>"
+    },
+    {
+      "name": "Tesseract",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short period after dodging to trigger Evasive Blast.</p>\n<p>Fires an orb forward, dealing damage equal to 66.4% of ATK + 3 to targets in its path every 0.3 seconds (up to 5 times).</p>\n<p>Grant 75 weapon charge points upon use.</p>"
+    },
+    {
+      "name": "Sanctuary",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Create a healing zone that moves with the Wanderer and heals nearby allies for 95% of ATK + 5 once every 0.5 seconds for 6 seconds.</p>\n<p>Cooldown: 60 seconds.</p>"
+    },
+    {
+      "name": "Swift Deliverance",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "When weapon charge is full or Phantasia is triggered, switching to this weapon from another weapon removes all debuffs from the wielder, and the staff continues to remove debuffs from the Wanderer and allies, plus healing nearby Wanderers and allies for 118.8% of ATK + 6 HP for 7 seconds."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "type": "Ice",
+    "description": "Fully charged weapons will freeze the target for 2 seconds and leave it frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%."
+  },
+  "advancement": [
+    "<p>After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within 15 meters. Heal for 25% of ATK and restore 50 weapon charge points each time and last for 25 seconds.</p>\n<p>Cooldown: 25 seconds.</p>",
+    "Increase the current weapon's base HP growth by 16%.",
+    "Use Sanctuary or discharge skills to remove debuffs from targets, can be used while being affected by control effects. Increase shatter and damage dealt for all teammates within range by 20%, and grant them immunity to control effects and shatter.",
+    "Increase the current weapon's base HP growth by 32%.",
+    "Increase healing effect by 15%, plus an additional 20% when healing targets with less than 60% HP.",
+    "Whenever a healing bee is summoned or disappears from battle, heal all allies for 100% of the user's ATK. All allies within 10 meters of the healing bee also gain 15% all damage and healing boost (cannot stack)."
+  ],
+  "traits": [
+    {
+      "name": "Assistance",
+      "icon": true,
+      "description": "When Cocoritter uses a support weapon, increase healing effects she inflicts on others and receives by 20%."
+    },
+    {
+      "name": "Trust",
+      "icon": true,
+      "description": "When Cocoritter uses a support weapon, increase healing and healing received by 20%. And when Cocoritter uses a support-type weapon's discharge skill or weapon skill, increase nearby allies' ATK by 15% for 5 seconds."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "Heart of Winter",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

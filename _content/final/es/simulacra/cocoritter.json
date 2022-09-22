@@ -1,0 +1,286 @@
+{
+  "_id": 2,
+  "id": "cocoritter",
+  "name": "Coco",
+  "weapon": "Cero Absoluto",
+  "weapon_id": "absolute_zero",
+  "birthday": "1 de junio (Géminis)",
+  "birthplace": "Desconocido",
+  "gender": "Femenino",
+  "info": "Una inocente niña romántica que siempre está alegre. Es muy confiada y eso le da un aire de ingenuidad.\nAma los dulces, pero logra mantener un delicado equilibrio entre el azúcar y los alimentos saludables. Se pierde con facilidad, pero una vez que encuentra su norte logra llegar a donde sea. Aunque es muy capaz de cuidarse por sí misma, es inevitable sentir preocupación por su bienestar.",
+  "description": "Al ser hija de un investigador médico de Hykros, Cocoritter comenzó a mostrar su talento en el arte de la curación a una edad temprana, y se unió al laboratorio donde trabajaban sus padres, donde absorbió todos los conocimientos médicos posibles.\nHa estado recorriendo la tierra, viajando de un refugio a otro y tratando a los heridos. Se toma este deber muy en serio, y considera que es la experiencia necesaria para convertirse en una veterana del personal médico.",
+  "like": "Dulces, cualquier cosa bonita",
+  "dislike": "Desconocido",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 12.5,
+  "skills": [
+    {
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, blande la vara y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>54.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>40.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>89.7%</b> del ATQ + <b>5</b>.\nQuinto ataque: inflige daño equivalente al <b>158.4%</b> del ATQ + <b>8</b>."
+    },
+    {
+      "name": "Ráfaga elevada",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>70.5%</b> del ATQ + <b>4</b>.\nSegundo ataque: inflige daño equivalente al <b>50.8%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>55.1%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>99.1%</b> del ATQ + <b>5</b>.\nQuinto ataque: inflige daño equivalente al <b>103.2%</b> del ATQ + <b>5</b>."
+    },
+    {
+      "name": "Cascada lunar",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal en el aire para activar Cascada lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> segundos, por un total de daño equivalente al <b>123.8%</b> del ATQ + <b>7</b>."
+    },
+    {
+      "name": "Asalto enfocado",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar ataques de ráfaga, que consumen <b>300</b> puntos de resistencia.\nPrimer ataque: atrae enemigos ubicados frente al usuario, los <b>suspende</b> e inflige daño equivalente al <b>34.9%</b> del ATQ + <b>2</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: inflige daño equivalente al <b>40.4%</b> del ATQ + <b>2</b> a la ubicación del objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
+    },
+    {
+      "name": "Sobrecarga",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Sobrecarga.\nCada ola de energía inflige daño equivalente al <b>45.9%</b> del ATQ + <b>2</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
+    },
+    {
+      "name": "Teseracto",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal un poco después de esquivar para activar Explosión evasiva.\nDispara un orbe de energía hacia adelante, lo que inflige daño equivalente al <b>66.4%</b> del ATQ + <b>3</b> a los objetivos en el camino cada <b>0.3</b> segundos (hasta 5 veces).\nOtorga <b>75</b> puntos de carga de arma al usarse."
+    },
+    {
+      "name": "Santuario",
+      "type": [
+        "Skill"
+      ],
+      "description": "Crea una zona de curación que se mueve con el nómada y cura a los aliados cercanos el equivalente al <b>95%</b> del ATQ + <b>5</b> una vez cada <b>0.5</b> segundos durante <b>6</b> segundos. <b>60</b> segundos de enfriamiento."
+    },
+    {
+      "name": "Liberación rápida",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y el bastón continúa removiendo desventajas del nómada y los aliados, y además cura un <b>118.8%</b> del ATQ + <b>6</b> de sus PS durante <b>7</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Caparazón de Hielo",
+    "description": "Las armas completamente cargadas <b>congelarán</b> al objetivo por <b>2</b> segundos y lo dejarán congelado por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga del arma del objetivo se reduce en un <b>50%</b>."
+  },
+  "advancement": [
+    "Luego de esquivar, invoca una abeja de curación que sigue al usuario y cura al aliado que tenga el menor porcentaje de PS en un radio de <b>15</b> metros. Cura un <b>25%</b> del ATQ y restaura <b>50</b> puntos de carga de arma en cada ocasión, y dura <b>25</b> segundos. Enfriamiento: <b>25</b> segundos.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
+    "Usa <span class=\"text-yellow\">Santuario</span> o habilidades de descarga para quitar desventajas a los objetivos. Se puede usar bajo efectos de control. Aumenta la destrucción y el daño infligido por todos los compañeros de grupo dentro del rango en un <b>20%</b>, y les otorga inmunidad a los efectos de control y destrucción.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+    "Aumenta el efecto de curación en un <b>15%</b> más un <b>20%</b> adicional al curar objetivos que tengan menos del <b>60%</b> de sus PS.",
+    "Siempre que una abeja de curación se invoque o desaparezca de la batalla, cura a todos los aliados por el <b>100%</b> del ATQ del usuario. Todos los aliados en <b>10</b> metros a la redonda de la abeja de curación también un ganan <b>15%</b> de Refuerzo de Daño y curación. Este efecto no es acumulable."
+  ],
+  "traits": [
+    {
+      "name": "Cocoritter: Asistencia",
+      "icon": true,
+      "description": "Cuando Cocoritter usa un arma de soporte, aumenta los efectos de curación que causa en los demás y que recibe en un <b>20%</b>."
+    },
+    {
+      "name": "Cocoritter: Confianza",
+      "icon": true,
+      "description": "Cuando Cocoritter usa un arma de soporte, aumenta la curación y la curación recibida en un <b>20%</b>. Y cuando Cocoritter usa una habilidad de descarga de un arma de soporte o una habilidad de arma, aumenta el ATQ de los aliados cercanos en un <b>15%</b> durante <b>5</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Corazón de invierno",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Esmaltado antiácido I",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

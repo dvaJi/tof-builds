@@ -1,0 +1,17 @@
+{
+  "name": "Stir-Fried Broccoli",
+  "uri": "stir-friedbroccoli",
+  "imgSrc": "stir-friedbroccoli.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **14** satiety",
+  "recipe": [
+    {
+      "name": "Broccoli",
+      "rarity": "2",
+      "uri": "broccoli",
+      "imgSrc": "broccoli.webp",
+      "amount": 2
+    }
+  ]
+}

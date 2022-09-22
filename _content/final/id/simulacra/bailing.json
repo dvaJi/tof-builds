@@ -1,0 +1,162 @@
+{
+  "_id": 1,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "weapon": "Nightingale's Feather",
+  "weapon_id": "nightingales_feather",
+  "birthday": "8 Mei (Taurus)",
+  "birthplace": "HT201 Shelter",
+  "gender": "Perempuan",
+  "info": "Kurang percaya diri dan terlalu banyak cemas. Dia lebih peduli dengan pikiran orang lain daripada ide-idenya sendiri sehingga jadi sensitif dan khawatir tentang hal-hal kecil. Di sisi lain, dia juga rendah hati, baik hati, sopan, dan cermat.\nDia masih belajar dan bertumbuh. Setelah menyadari masalahnya sendiri, dia perlahan coba menjadi orang yang bisa memimpin.",
+  "description": "Sebagai pemimpin HT201 Shelter, Bai Ling bertanggung jawab atas operasi harian dan komando tempurnya. Dia baru saja mengambil alih kepemimpinannya, jadi masih tampak sedikit kewalahan dan bingung mengerjakan tugasnya.\nKematian mendadak pemimpin sebelumnya membuat Bai Ling syok, dan kepribadiannya yang mudah khawatir dan gelisah itu juga dipertanyakan beberapa anggota Shelter. Dia menganggap kedudukannya itu beban yang berat dan sering cemas karena ingin memastikan semua berjalan lancar.\nNamun, dia juga sosok yang perhatian, bertanggung jawab, teliti, dan pandai dalam pembukuan, jadi saat ini, HT201 Shelter tampaknya ada di tangan yang tepat.",
+  "like": "Akuntansi, manajemen keuangan, menghitung stok",
+  "dislike": "Harus berurusan dengan orang aneh dan jahat",
+  "element": "Physical",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Quickdraw",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\nSerangan Pertama: Timpakan damage sebanyak <b>33.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>30.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>54.3%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>83.5%</b> ATK + <b>4</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat."
+    },
+    {
+      "name": "Charged Arrow",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack untuk mengisi. Timpakan damage dasar sebanyak <b>60.5%</b> ATK + <b>3</b>, dan <b>50%</b> lebih banyak untuk setiap <b>1</b> detik pengisian, hingga <b>3</b> detik. Menimpakan Double Damage saat melakukan Headshot atau saat mengenai titik lemah musuh hingga memukul jatuh mereka (Headshot tidak efektif pada Wanderer)."
+    },
+    {
+      "name": "Arrow Rain",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack, tahan tombol Normal Attack untuk melepaskan Arrow Rain, yang akan menimpakan damage hingga <b>198.7%</b> ATK + <b>10</b> Area Damage kepada target."
+    },
+    {
+      "name": "Air Volley",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>38.8%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>51%</b> ATK + <b>3</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>77.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>117%</b> ATK + <b>6</b>."
+    },
+    {
+      "name": "Loaded Arrow",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Serang setelah menghindar untuk mengaktifkan Loaded Arrow, yang akan memukul mundur target dalam jarak dekat dan menimpakan damage sebanyak <b>85.5%</b> ATK + <b>5</b>."
+    },
+    {
+      "name": "Piercing Shot",
+      "type": [
+        "Skill"
+      ],
+      "description": "Melakukan jungkir balik dan menembakkan <b>1</b> Piercing Shot ke depan, menimpakan damage sebanyak <b>154.8%</b> ATK + <b>8</b> dan memukul mundur target. Cooldown <b>12</b> detik."
+    },
+    {
+      "name": "Explosive Barrage",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Explosive Barrage ke arah target setelah beralih ke senjata ini, dan akan menimpakan damage sebanyak <b>486.6%</b> ATK + <b>26</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Grievous",
+    "description": "Senjata yang terisi penuh akan menimpakan damage sebanyak <b>100%</b> ATK dengan serangan berikutnya, dan membuat target Grievous selama <b>7</b> detik, menerima <b>20%</b> damage ekstra."
+  },
+  "advancement": [
+    "Memulihkan 1 upaya Dodge untuk setiap Normal Attack kelima atau setelah menggunakan <span class=\"text-green\">Piercing Shot</span>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+    "Meningkatkan Headshot Damage sebanyak <b>30%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+    "Dodge Skill akan mengakibatkan Grievous kepada target selama <b>7</b> detik.",
+    "Meningkatkan Crit Rate untuk target yang terkena Grievous sebanyak <b>30%</b> dan Crit Damage sebanyak <b>50%</b>."
+  ],
+  "traits": [
+    {
+      "name": "Bai Ling: Valor",
+      "icon": true,
+      "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>8%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
+    },
+    {
+      "name": "Bai Ling: Resoluteness",
+      "icon": true,
+      "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>15%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

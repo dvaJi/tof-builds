@@ -1,0 +1,24 @@
+{
+  "name": "Seaweed and Egg Soup",
+  "uri": "seaweedandeggsoup",
+  "imgSrc": "seaweedandeggsoup.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Laver",
+      "rarity": "2",
+      "uri": "laver",
+      "imgSrc": "laver.webp",
+      "amount": 2
+    },
+    {
+      "name": "Poultry Egg",
+      "rarity": "2",
+      "uri": "poultryegg",
+      "imgSrc": "poultryegg.webp",
+      "amount": 1
+    }
+  ]
+}

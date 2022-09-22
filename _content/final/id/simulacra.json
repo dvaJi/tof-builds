@@ -1,0 +1,2074 @@
+[
+  {
+    "_id": 1,
+    "id": "bailing",
+    "name": "Bai Ling",
+    "weapon": "Nightingale's Feather",
+    "weapon_id": "nightingales_feather",
+    "birthday": "8 Mei (Taurus)",
+    "birthplace": "HT201 Shelter",
+    "gender": "Perempuan",
+    "info": "Kurang percaya diri dan terlalu banyak cemas. Dia lebih peduli dengan pikiran orang lain daripada ide-idenya sendiri sehingga jadi sensitif dan khawatir tentang hal-hal kecil. Di sisi lain, dia juga rendah hati, baik hati, sopan, dan cermat.\nDia masih belajar dan bertumbuh. Setelah menyadari masalahnya sendiri, dia perlahan coba menjadi orang yang bisa memimpin.",
+    "description": "Sebagai pemimpin HT201 Shelter, Bai Ling bertanggung jawab atas operasi harian dan komando tempurnya. Dia baru saja mengambil alih kepemimpinannya, jadi masih tampak sedikit kewalahan dan bingung mengerjakan tugasnya.\nKematian mendadak pemimpin sebelumnya membuat Bai Ling syok, dan kepribadiannya yang mudah khawatir dan gelisah itu juga dipertanyakan beberapa anggota Shelter. Dia menganggap kedudukannya itu beban yang berat dan sering cemas karena ingin memastikan semua berjalan lancar.\nNamun, dia juga sosok yang perhatian, bertanggung jawab, teliti, dan pandai dalam pembukuan, jadi saat ini, HT201 Shelter tampaknya ada di tangan yang tepat.",
+    "like": "Akuntansi, manajemen keuangan, menghitung stok",
+    "dislike": "Harus berurusan dengan orang aneh dan jahat",
+    "element": "Physical",
+    "rarity": "SR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 10,
+    "skills": [
+      {
+        "name": "Quickdraw",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\nSerangan Pertama: Timpakan damage sebanyak <b>33.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>30.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>54.3%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>83.5%</b> ATK + <b>4</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat."
+      },
+      {
+        "name": "Charged Arrow",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack untuk mengisi. Timpakan damage dasar sebanyak <b>60.5%</b> ATK + <b>3</b>, dan <b>50%</b> lebih banyak untuk setiap <b>1</b> detik pengisian, hingga <b>3</b> detik. Menimpakan Double Damage saat melakukan Headshot atau saat mengenai titik lemah musuh hingga memukul jatuh mereka (Headshot tidak efektif pada Wanderer)."
+      },
+      {
+        "name": "Arrow Rain",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Setelah Normal Attack, tahan tombol Normal Attack untuk melepaskan Arrow Rain, yang akan menimpakan damage hingga <b>198.7%</b> ATK + <b>10</b> Area Damage kepada target."
+      },
+      {
+        "name": "Air Volley",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>38.8%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>51%</b> ATK + <b>3</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>77.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>117%</b> ATK + <b>6</b>."
+      },
+      {
+        "name": "Loaded Arrow",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk Serang setelah menghindar untuk mengaktifkan Loaded Arrow, yang akan memukul mundur target dalam jarak dekat dan menimpakan damage sebanyak <b>85.5%</b> ATK + <b>5</b>."
+      },
+      {
+        "name": "Piercing Shot",
+        "type": [
+          "Skill"
+        ],
+        "description": "Melakukan jungkir balik dan menembakkan <b>1</b> Piercing Shot ke depan, menimpakan damage sebanyak <b>154.8%</b> ATK + <b>8</b> dan memukul mundur target. Cooldown <b>12</b> detik."
+      },
+      {
+        "name": "Explosive Barrage",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Explosive Barrage ke arah target setelah beralih ke senjata ini, dan akan menimpakan damage sebanyak <b>486.6%</b> ATK + <b>26</b>."
+      }
+    ],
+    "weapon_type": {
+      "name": "Grievous",
+      "description": "Senjata yang terisi penuh akan menimpakan damage sebanyak <b>100%</b> ATK dengan serangan berikutnya, dan membuat target Grievous selama <b>7</b> detik, menerima <b>20%</b> damage ekstra."
+    },
+    "advancement": [
+      "Memulihkan 1 upaya Dodge untuk setiap Normal Attack kelima atau setelah menggunakan <span class=\"text-green\">Piercing Shot</span>.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+      "Meningkatkan Headshot Damage sebanyak <b>30%</b>.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+      "Dodge Skill akan mengakibatkan Grievous kepada target selama <b>7</b> detik.",
+      "Meningkatkan Crit Rate untuk target yang terkena Grievous sebanyak <b>30%</b> dan Crit Damage sebanyak <b>50%</b>."
+    ],
+    "traits": [
+      {
+        "name": "Bai Ling: Valor",
+        "icon": true,
+        "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>8%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
+      },
+      {
+        "name": "Bai Ling: Resoluteness",
+        "icon": true,
+        "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>15%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 250,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 1
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 500,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 750,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "id": "cocoritter",
+    "name": "Coco",
+    "weapon": "Absolute Zero",
+    "weapon_id": "absolute_zero",
+    "birthday": "1 Juni (Gemini)",
+    "birthplace": "Unknown",
+    "gender": "Perempuan",
+    "info": "Seorang gadis lugu dan romantis yang selalu ceria. Terlalu percaya dengan orang lain sehingga terkesan naif.\nSuka permen, tapi bisa menjaga keseimbangan antara gula dan makanan sehat. Kesulitan dengan arah, tapi tidak pernah tersesat begitu dia tahu jalan. Orang cenderung mencemaskannya, walau sebenarnya dia sangat mampu untuk menjaga diri.",
+    "description": "Sebagai putri peneliti medis Hykros, Cocoritter mulai menunjukkan bakatnya di bidang pengobatan saat masih muda. Dia bergabung dengan lab tempat orang tuanya bekerja untuk menimba ilmu medis sebanyak mungkin.\nDia berkeliling ke mana-mana, berpindah dari satu shelter ke shelter lainnya dan mengobati yang cedera. Dia bertugas dengan penuh kesungguhan dan menganggap pengalamannya penting demi menjadi staf medis kawakan.",
+    "like": "Permen, apa pun yang imut",
+    "dislike": "Unknown",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 4,
+    "charge": 12.5,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, ayunkan tongkat untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>54.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>40.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>65.6%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>89.7%</b> ATK + <b>5</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>158.4%</b> ATK + <b>8</b>."
+      },
+      {
+        "name": "Soaring Barrage",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>70.5%</b> ATK + <b>4</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>50.8%</b> ATK + <b>3</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>55.1%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>99.1%</b> ATK + <b>5</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>103.2%</b> ATK + <b>5</b>."
+      },
+      {
+        "name": "Moonfall",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack saat mengudara untuk mengaktifkan Moonfall.\nSaat mendarat, timpakan damage satu kali setiap <b>0,2</b> detik, dengan total <b>123.8%</b> ATK + <b>7</b> damage."
+      },
+      {
+        "name": "Focused Assault",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Branch Attack, yang akan menghabiskan <b>300</b> poin Endurance.\nSerangan Pertama: Menarik musuh ke depan pengguna dan mengakibatkan <b>Suspend</b> kepada mereka dan menimbulkan damage sebanyak <b>34.9%</b> ATK + <b>2</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimbulkan damage sebanyak <b>40.4%</b> ATK + <b>2</b> di lokasi target dan kepada musuh di sekitar setiap <b>0,3</b> detik."
+      },
+      {
+        "name": "Surge",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk tombol Normal Attack dalam Perfect Dodge Window singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap gelombang energi akan menimpakan damage sebanyak <b>45.9%</b> ATK + <b>2</b> kepada target.\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+      },
+      {
+        "name": "Tesseract",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk tombol Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebanyak <b>66.4%</b> ATK + <b>3</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+      },
+      {
+        "name": "Sanctuary",
+        "type": [
+          "Skill"
+        ],
+        "description": "Buat zona penyembuhan yang bergerak bersama Pengembara dan menyembuhkan teman terdekat dengan <b>95%</b> ATK + <b>5</b> satu kali setiap <b>0,5</b> detik selama <b>6</b> detik. Cooldown <b>60</b> detik."
+      },
+      {
+        "name": "Swift Deliverance",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebanyak <b>118.8%</b> ATK + <b>6</b> HP selama <b>7</b> detik."
+      }
+    ],
+    "weapon_type": {
+      "name": "Ice Shell",
+      "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>151%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+    },
+    "advancement": [
+      "Setelah menghindar, memanggil Healing Bee yang akan mengikuti pengguna dan menyembuhkan teman yang punya persentase HP paling rendah dalam radius <b>15</b> meter. Menyembuhkan sebanyak <b>25%</b> ATK dan memulihkan <b>50</b> poin Weapon Charge setiap kalinya, dan bertahan <b>25</b> detik. Cooldown: <b>25</b> detik.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+      "Menggunakan <span class=\"text-yellow\">Sanctuary</span> atau Discharge Skill untuk menghilangkan debuff dari target. Bisa digunakan saat terkena Control Effect. Meningkatkan Shatter dan damage yang ditimpakan untuk semua rekan tim dalam jangkauan sebanyak <b>20%</b>, dan memberi mereka kekebalan terhadap Control Effect dan Shatter.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+      "Meningkatkan efek Healing sebanyak <b>15%</b>, ditambah <b>20%</b> lagi saat menyembuhkan target yang punya HP kurang dari <b>60%</b>.",
+      "Setiap kali Healing Bee dipanggil atau menghilang dari pertempuran, semua sekutu akan menerima Healing sebanyak <b>100%</b> dari ATK pengguna. Semua sekutu dalam radius <b>10</b> meter dari Healing Bee juga akan mendapatkan <b>15%</b> Damage Boost (tidak bisa ditumpuk)."
+    ],
+    "traits": [
+      {
+        "name": "Cocoritter: Assistance",
+        "icon": true,
+        "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan efek Healing yang ditimpakannya pada orang lain dan yang diterimanya sebanyak <b>20%</b>."
+      },
+      {
+        "name": "Cocoritter: Trust",
+        "icon": true,
+        "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan Healing dan Healing yang diterima sebanyak <b>20%</b>. Kemudian, pada saat Cocoritter menggunakan Discharge Skill atau Weapon Skill tipe support, meningkatkan ATK teman di sekitar sebanyak <b>15%</b> selama <b>5</b> detik."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Heart of Winter",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Acidproof Glaze II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber Frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "id": "crow",
+    "name": "Crow",
+    "weapon": "Thunderblades",
+    "weapon_id": "thunderblades",
+    "birthday": "17 Desember (Sagittarius)",
+    "birthplace": "Unknown",
+    "gender": "Pria",
+    "info": "Pribadi energik dan ceria yang selalu menghidupkan suasana. Dengan sifat lugas dan terbuka, dia selalu optimistis dalam segala situasi, tapi kadang sedikit besar kepala.\nKerap mempertunjukkan trik atraktif dengan belatinya dan punya segudang lawakan receh yang dianggapnya lucu. Dia senang melempar guyonan layaknya sedang di atas panggung.\nNamun, di balik perilakunya yang riang gembira, dia punya kemauan dan tekad yang kuat. Antusias dalam meraih tujuannya tanpa peduli rintangan yang menghadang. Terkadang suka memaksakan diri.",
+    "description": "Sebagai mantan Executor, Crow menjaga hubungan baiknya dengan Hykros. Dia tidak pernah membuat kesalahan fatal, atau didepak karena kinerja buruk. Setelah bekerja bersama tim di sana selama sementara waktu, dia menyadari bahwa yang diinginkannya adalah kehidupan tanpa banyak aturan. Dia lantas membuat keputusan yang tepat bagi dirinya.\nKini, dia bertualang bebas dalam waktu yang lama. Kepribadiannya yang ceria meninggalkan kesan pertama yang dalam bagi siapa pun yang ditemuinya. Dia juga suka mempertontonkan trik atau melontarkan lelucon saat tiba di tempat baru. Nama panggilannya Crowy, dan dia tak keberatan dipanggil demikian.",
+    "like": "Kucing, segala macam pisau",
+    "dislike": "Alkohol, cerita hantu",
+    "element": "Volt",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 8,
+    "skills": [
+      {
+        "name": "Twin Blades",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, ayunkan Dual Blade untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>60.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Menimpakan damage sebanyak <b>73%</b> ATK + <b>4</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimpakan damage sebanyak <b>90.9%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Menimpakan damage sebanyak <b>96.8%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Menimpakan damage sebanyak <b>202.2%</b> ATK + <b>11</b> dan memukul mundur target dalam jarak dekat."
+      },
+      {
+        "name": "Sky Flurry",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>65.6%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>38.4%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>92%</b> ATK + <b>5</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>138%</b> ATK + <b>7</b>."
+      },
+      {
+        "name": "Rapid Lunge",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Rapid Lunge.\nSetelah kena, akan mengakibatkan <b>Suspend Keras</b> kepada target dan menimbulkan damage sebanyak <b>116.8%</b> ATK + <b>6</b>."
+      },
+      {
+        "name": "Spiral Drive",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack saat mengudara (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nSaat jatuh, timpakan damage sebanyak <b>42%</b> ATK + <b>2</b> tiap kena sasaran."
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+      },
+      {
+        "name": "Flying Blades",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk Normal Attack selama jendela Perfect Dodge yang singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebanyak <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap Control Effect saat proses phasing."
+      },
+      {
+        "name": "Returning Blades",
+        "type": [
+          "Skill"
+        ],
+        "description": "Menembakkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebanyak <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. Cooldown <b>45</b> detik."
+      },
+      {
+        "name": "Orbiting Blades",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan berkedip ke lokasi target setelah beralih ke senjata ini dan menyerang, dan menimpakan damage sebanyak <b>86.9%</b> ATK + <b>5</b> membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimpakan Volt Damage sebanyak <b>15%</b> dari damage yang ditimpakan, maks <b>350%</b> ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). Juga memunculkan 3 mata pisau yang akan mengitari Wanderer, dan menimpakan damage sebanyak <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
+      }
+    ],
+    "weapon_type": {
+      "name": "Volt",
+      "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    },
+    "advancement": [
+      "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebanyak <b>40%</b>. Backstabbing target yang kena Electrify akan meningkatkan Crit Rate sebanyak <b>100%</b> dan Crit Damage sebanyak <b>30%</b>.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+      "Meningkatkan damage sebanyak <b>30%</b> kepada target yang punya HP kurang dari <b>60%</b>.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+      "Mengaktifkan Back Attack akan memberikan 100% peluang Crit selama <b>4</b> detik berikutnya dan meningkatkan Crit Damage sebanyak <b>50%</b>. Cooldown: <b>10</b> detik.",
+      "Setelah menggunakan skill, meningkatkan Volt Damage yang ditimpakan kepada target sebanyak <b>20%</b> selama <b>20</b> detik."
+    ],
+    "traits": [
+      {
+        "name": "Crow: Loner",
+        "icon": true,
+        "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>6%</b> dan mengurangi damage yang diterima sebanyak <b>4%</b>."
+      },
+      {
+        "name": "Crow: Silent Night",
+        "icon": true,
+        "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>10%</b> dan mengurangi damage yang diterima sebanyak <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan damage yang ditimbulkan sebanyak <b>12%</b> selama <b>12</b> detik."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lightning",
+          "name": "Heart of Lightning",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano Coating II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber Frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "id": "echo",
+    "name": "Echo",
+    "weapon": "Thunderous Halberd",
+    "weapon_id": "thunderous_halberd",
+    "birthday": "14 Agustus (Leo)",
+    "birthplace": "Tidak Ada Riwayat",
+    "gender": "Perempuan",
+    "info": "Seorang gadis ceroboh yang sangat aktif dan ceplas-ceplos.\nSejak diselamatkan oleh seorang pedagang yang sedang lewat, dia ingin melakukan hal yang sama dengan melakukan kebaikan saat berkelana.\nDia tidak suka kejahatan, dan berpendapat bahwa kebaikan hanya bisa dilakukan dengan membasmi kejahatan. Muda dan kurang berpengalaman, dia sering menilai orang berdasarkan standar yang meragukan.",
+    "description": "Echo lahir di Warren, dan bermimpi untuk pergi dari negeri penuh salju itu untuk melihat dunia.\nSaat berusia sembilan tahun, Shelter-nya hancur oleh salju longsor yang mendadak datang, dan orang tuanya meninggal karena melindunginya. Dia kemudian diselamatkan oleh seorang pedagang yang lewat dan dibawa ke fasilitas pemulihan di Banges.\nSetelah tinggal di Banges selama lima tahun, dia memulai perjalanan untuk membasmi kejahatan dan menyebarkan kebaikan.",
+    "like": "Granny Eileen, makan ikan",
+    "dislike": "Mengemudikan kendaraan",
+    "element": "Volt",
+    "rarity": "SR",
+    "role": "Shieldbreaking",
+    "resonance": "DPS",
+    "shatter": 11,
+    "charge": 7,
+    "skills": [
+      {
+        "name": "Thrust",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>24.7%</b> ATK + <b>1</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Menimpakan damage sebanyak <b>22.6%</b> ATK + <b>1</b> memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimpakan damage sebanyak <b>47.2%</b> ATK + <b>2</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Menimpakan damage sebanyak <b>65.2%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Menimpakan damage sebanyak <b>114.95%</b> ATK + <b>6</b> dan memukul mundur target dalam jarak yang signifikan."
+      },
+      {
+        "name": "Jumping Strike",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>27.4%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>23.2%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>45.8%</b> ATK + <b>2</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>110%</b> ATK + <b>6</b>."
+      },
+      {
+        "name": "Crashing Drive",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat turun, menimbulkan damage sebanyak <b>8%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>48.5%</b> ATK + <b>3</b> dan memukul jatuh target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      },
+      {
+        "name": "Spear Flurry",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target sehingga menimbulkan damage sebanyak <b>49.2%</b> ATK + <b>3</b>. Ketuk lagi untuk terus menyerang target yang kena Suspend sehingga menimbulkan damage maks <b>98%</b> ATK + <b>5</b> damage kepada satu target."
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+      },
+      {
+        "name": "Flying Kick",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk tombol Normal Attack dalam jangka waktu Perfect Dodge yang singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan damage sebanyak <b>72%</b> ATK + <b>4</b>, memukul mundur target cukup jauh, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
+      },
+      {
+        "name": "Lunging Smash",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Lunging Smash.\nHantamkan Long Spear ke dalam tanah, mengakibatkan <b>Suspend Keras</b> kepada target sehingga menimbulkan damage sebanyak <b>52.8%</b> ATK + <b>3</b>."
+      },
+      {
+        "name": "Moonchaser",
+        "type": [
+          "Skill"
+        ],
+        "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengalami Airborne sehingga menimbulkan damage sebanyak <b>127.5%</b> ATK + <b>7</b>. Cooldown: <b>25</b> detik."
+      },
+      {
+        "name": "Thunderclap",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, yang melompat di udara dan melemparkan Lightning Spear yang akan menyebabkan ledakan area dan menimbulkan <b>296.7%</b> ATK + <b>16</b>damage dan mengakibatkan <b>Paralyze</b> kepada target selama <b>1</b> detik."
+      }
+    ],
+    "weapon_type": {
+      "name": "Volt",
+      "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>106%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    },
+    "advancement": [
+      "Meningkatkan Shatter sebanyak <b>15%</b>. Setelah menghancurkan Shield musuh, meningkatkan ATK semua rekan tim sebanyak <b>15%</b> selama <b>30</b> detik. Efek ini tidak bisa ditumpuk.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+      "Setelah menghantam target dengan <span class=\"text-green\">Moonchaser</span>, mengurangi ATK mereka sebanyak <b>5%</b> dan meningkatkan ATK pengguna sebanyak <b>5%</b> selama <b>15</b> detik (efek bisa ditumpuk maks <b>3</b> kali dengan menghantam beberapa target). Efek akan digandakan pada target yang terkena Grievous.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+      "Menggandakan durasi Stun dari Dodge Skill.",
+      "Makin jauh laju Discharge Skill, damage yang ditimpakan pun makin besar, hingga <b>100%</b> damage lebih besar."
+    ],
+    "traits": [
+      {
+        "name": "Echo: Uprightness",
+        "icon": true,
+        "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>4%</b> (kecuali Echo)."
+      },
+      {
+        "name": "Echo: Determination",
+        "icon": true,
+        "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>6%</b> (kecuali Echo)."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 250,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 1
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 500,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 750,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 2
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "id": "ene",
+    "name": "Ene",
+    "weapon": "Pummeler",
+    "weapon_id": "pummeler",
+    "birthday": "17 Agustus (Leo)",
+    "birthplace": "Keamanan Victoria",
+    "gender": "Perempuan",
+    "info": "Dia terlihat malas dan lesu saat tidak ada pekerjaan, tetapi sangat bersemangat dan kompetitif kalau bertempur.\nDia sangat bangga dengan badan robotnya, yang tangkas, kuat, dan tidak dimakan usia. Dia juga keras kepala dan suka menantang dirinya semaksimal mungkin, tidak mau menyerah kepada manusia biasa.\nSecara mental, dia masih anak kecil dan menunjukkan sisinya yang rapuh saat bersama ayahnya.",
+    "description": "Pada zaman Old Federation, Victoria, seorang kontraktor militer privat, pernah merancang serangkaian droid tempur, dan Ene adalah prototipe pertama proyek itu.\nTujuannya adalah membuat droid sempurna yang memiliki identitas dan kemampuan untuk berpikir, merasakan, dan memperhitungkan tindakan berikutnya sendiri. Sang pemilik, yang memberikan lampu hijau untuk proyek ini, mengunggah kesadaran cadangan almarhum putrinya pada Ene sebagai \"jiwa\" droid itu.\nPada akhirnya, Ene mendapat hak menjadi manusia sebagai putri sang pemilik.",
+    "like": "Bersama ayahnya, manusia yang lebih kuat darinya",
+    "dislike": "Sangat memahami kerapuhan hidup",
+    "element": "Ice",
+    "rarity": "SR",
+    "role": "Tank",
+    "resonance": "DPS",
+    "shatter": 10,
+    "charge": 6,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>76.3%</b> ATK + <b>4</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebanyak <b>62.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>157.4%</b> ATK + <b>8</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebanyak <b>263.8%</b> ATK + <b>14</b> dan melontarkan target.\nSelama Outburst masih aktif, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>{8}%</b> ATK + <b>{9}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebanyak <b>{10}%</b> ATK + <b>{11}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>{12}%</b> ATK + <b>{13}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebanyak <b>{14}%</b> ATK + <b>{15}</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
+      },
+      {
+        "name": "Pummel",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat Airborne atau setelah melompat satu kali, ketuk Normal Attack untuk mengaktifkan Pummel. Menimbulkan damage sebanyak <b>121.7%</b> ATK + <b>6</b>dan mengakibatkan Suspend kepada target.\nSaat Outburst masih aktif, menimbulkan damage sebanyak <b>133.9%</b> ATK + <b>7</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      },
+      {
+        "name": "Shockwave",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Shockwave akan diaktifkan dengan mengetuk dan menahan tombol saat Airborne, melompat dua kali, mengetuk sebentar di udara saat ada target di sekitar, memanjat, melompat mundur, atau menyerang sambil menggunakan Jetpack. Mengakibatkan <b>Suspend Keras</b> kepada target <b>4</b> kali, dan menimbulkan damage sebanyak <b>34.8%</b> ATK + <b>2</b> setiap kalinya. Membutuhkan <b>250</b> Endurance.\nSelama Outburst masih aktif, Shockwave akan mengakibatkan <b>Suspend Keras</b> kepada target <b>5</b> kali, dan menimbulkan damage sebanyak <b>38.3%</b> *ATK + <b>2</b> setiap kalinya.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>427.5%</b> ATK + <b>23</b>."
+      },
+      {
+        "name": "Focus Smash",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan tombol Normal Attack untuk mengaktifkan Focus Smash (bisa diisi sampai maks 3 tumpuk). Memberikan kekebalan terhadap semua Control Effect dan Hyperbody saat diisi.\nTumpukan Pertama: Menimbulkan damage sebanyak <b>110%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target.\nTumpukan Kedua: Menimbulkan damage sebanyak <b>276%</b> ATK + <b>15</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nTumpukan Ketiga: Menimbulkan damage sebanyak <b>518%</b> ATK + <b>27</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nSelama Outburst masih aktif, ketuk dan tahan tombol Normal Attack untuk mengaktifkan Furious Strike, dan menimbulkan damage sebanyak <b>501.6%</b> ATK + <b>26</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
+      },
+      {
+        "name": "Jumping Smash",
+        "type": [
+          "Dodge"
+        ],
+        "description": "Gunakan tombol panah dan tombol menghindar untuk mengaktifkan Jumping Smash, melepaskan Shockwave yang mengakibatkan Suspend kepada musuh <b>4</b> kali, menimbulkan damage sebanyak <b>161.6%</b> dari ATK + <b>9</b>."
+      },
+      {
+        "name": "Worldsplitter",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk Normal Attack dalam waktu sesaat setelah menghindar untuk mengaktifkan Worldsplitter, melepaskan <b>3</b> Shockwave ke depan, masing-masing menimbulkan damage sebanyak <b>52.4%</b> dari ATK + <b>3</b>, dan mengakibatkan Suspend kepada target.\nSaat di mode Outburst, tembakkan <b>5</b> Shockwave ke depan, masing-masing menimbulkan damage sebanyak <b>{0}%</b> dari ATK + <b>{1}</b> dan mengakibatkan Suspend kepada target."
+      },
+      {
+        "name": "Outburst",
+        "type": [
+          "Skill"
+        ],
+        "description": "Beralih ke Outburst, meningkatkan damage yang ditimbulkan selama <b>25</b> detik.\nSelama Outburst masih aktif, skill akan mengaktifkan Windfury, yang akan menimbulkan damage sebanyak <b>219%</b> ATK + <b>12</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan menciptakan aliran udara di tanah. Saat berdiri di tengah aliran itu, tidak butuh biaya apa pun untuk menghindar. Cooldown: <b>45</b> detik (cooldown untuk Windfury: <b>10</b> detik)."
+      },
+      {
+        "name": "Overwhelming Maul",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan mengakibatkan \n <b>Suspend Keras</b> kepada target di sekitar setelah beralih ke senjata ini, dan menimbulkan damage sebanyak <b>153.3%</b> ATK + <b>8</b>. Juga memanggil Maul yang menjatuhi target di sekitar, dan menimbulkan damage sebanyak <b>153.3%</b> ATK + <b>8</b>."
+      }
+    ],
+    "weapon_type": {
+      "name": "Ice Shell",
+      "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+    },
+    "advancement": [
+      "Memberikan Taunt kepada target di dekatnya setelah beralih ke senjata ini, sehingga akan mencegah <b>1</b> damage dalam waktu <b>8</b> detik berikutnya, dan memberikan Hyperbody selama <b>8</b> detik berikutnya. Cooldown: <b>15</b> detik.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+      "Setelah menerima damage, mengurangi semua damage yang diterima sebanyak <b>50%</b> selama <b>6</b> detik berikutnya. Cooldown: <b>20</b> detik.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+      "Normal Attack akan mengakibatkan <b>Stun</b> kepada target selama <b>2,5</b> detik. Cooldown: <b>20</b> detik.",
+      "Discharge Skill menimpakan <b>10%</b> damage tambahan kepada target dan meningkatkan Frost Damage sebanyak <b>10%</b> lagi selama <b>25</b> detik."
+    ],
+    "traits": [
+      {
+        "name": "Ene: Fast Mode",
+        "icon": true,
+        "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>12%</b>."
+      },
+      {
+        "name": "Ene: Beyond Limits Mode",
+        "icon": true,
+        "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>20%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 250,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 1
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 500,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 750,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 2
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "id": "frigg",
+    "name": "Frigg",
+    "weapon": "Balmung",
+    "weapon_id": "balmung",
+    "birthday": "1 Februari (Aquarius)",
+    "birthplace": "Heirs of Aida",
+    "gender": "Perempuan",
+    "info": "Pendiam, dan tegas saat bekerja. \nDia punya pemahaman dan filosofi hidup yang unik, dan akan merenungkan makna kehidupan jika sedang senggang.",
+    "description": "Salah satu Angels of Clemency. Dengan tubuh yang direstrukturisasi menjadi Mesin dari logam hidup, dia bisa bertahan dari serbuan radiasi tanpa Suppressor. \n\nDia benar-benar membantu Sage, karena mematuhi setiap perintahnya tanpa syarat. Sebagai petugas utama, Frigg diberi izin untuk memimpin pasukan Heirs of Aida, tapi dia biasanya lebih suka beraksi sendiri.",
+    "like": "Pedangku sendiri",
+    "dislike": "Segala yang menghadang",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 8,
+    "charge": 8,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "Memulai 5 serangan berturut-turut dengan Balmung saat di darat.\nSerangan yang pertama menimpakan damage sebanyak <b>62.1%</b> ATK + <b>3</b> dan memberikan Knockback kecil.\nSerangan yang kedua menimpakan damage sebanyak <b>46.2%</b> ATK + <b>2</b> dan memberikan Knockback kecil.\nSerangan yang ketiga menimpakan damage sebanyak <b>91.1%</b> ATK + <b>5</b> dan memberikan Knockback kecil.\nSerangan yang keempat menimpakan damage sebanyak <b>55.8%</b> ATK + <b>3</b> dan memberikan Knockback kecil.\nSerangan yang kelima menimpakan damage sebanyak <b>218.4%</b> ATK + <b>11</b> dan menjatuhkan target."
+      },
+      {
+        "name": "Aerial Discharge",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>168.3%</b> ATK + <b>9</b>."
+      },
+      {
+        "name": "Soaring Slash",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Saat melakukan Normal Attack, tahan Normal Attack untuk mengaktifkan Soaring Slash.\nTerjang maju dengan Swipe Horizontal, lalu lontarkan target ke udara sebelum membumbung tinggi bersama target. Menimpakan maksimum <b>134.3%</b> ATK + <b>7</b> damage."
+      },
+      {
+        "name": "Helix Slash",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack saat Airborne, atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimpakan damage sebanyak <b>19.8%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimpakan damage sebanyak <b>185.7%</b> ATK + <b>10</b> ke target di sekitar."
+      },
+      {
+        "name": "Multislash",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk Normal Attack dalam jangka waktu Perfect Attack yang singkat untuk mengaktifkan Multislash.\nLepaskan banyak tebasan sejauh jarak tertentu di depan pengguna, menimpakan damage total sebanyak <b>{4}%</b> ATK + <b>{5}</b>."
+      },
+      {
+        "name": "Fimbulwinter",
+        "type": [
+          "Skill"
+        ],
+        "description": "Menebas area di sekitar Wanderer, dan menimpakan Total Damage setara dengan <b>577.5%</b> ATK + <b>30</b>. Bisa mengakibatkan Suspend dan melontarkan target, dan memberikan Damage Immunity saat skill ini digunakan. Cooldown <b>30</b>detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, suatu Frost Domain yang luas akan terbentuk di sekitarmu selama <b>25</b> detik. Jumlah Dodge yang bisa kamu lakukan tidak akan dikurangi saat kamu melakukan Balmung Dodge dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain, dan meningkatkan Shatter sebesar <b>25%</b> saat menggunakan Frost Weapon."
+      },
+      {
+        "name": "Frigid Fracture",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan,<b>menghilangkan semua debuff dari penggunanya</b> dan melesat maju setelah beralih ke senjata ini, mengendalikan lawan di suatu area untuk sementara sebelum melepaskan slash raksasa. Menimpakan damage sebanyak <b>618.2%</b>ATK + <b>33</b> dan melontarkan musuh ke udara."
+      }
+    ],
+    "weapon_type": {
+      "name": "Ice Shell",
+      "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+    },
+    "weapon_resonance": {
+      "name": "Frost Resonance",
+      "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Frost Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata dari slot dadakan. Efek tidak bisa ditumpuk."
+    },
+    "advancement": [
+      "Mendapatkan <b>1</b> poin Frostiness setiap kali kamu menerima damage sebesar <b>550%</b> x Frost ATK dalam Frost Domain. Frost bisa diakumulasikan maks <b>10</b> poin.\nSaat Frost Domain habis, Blast Damage sebesar poin Frostiness x Frost ATK x <b>95%</b> akan ditimpakan kepada musuh yang ada di dalam Frost Domain. Setelah keluar dari Frost Domain, <b>1</b> poin Frostiness akan hilang setiap <b>3</b> detik.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+      "Meningkatkan batas Frostiness menjadi <b>15</b>. Penggunaan Discharge Skill dengan Frost Weapon di dalam Frost Domain akan menimpakan damage setara dengan <b>20%</b> Frost ATK x (Frostiness saat ini +5) kepada semua target di Frost Domain.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+      "Penghancuran perisai dengan menggunakan Frost Weapon di dalam Frost Domain akan membekukan target selama <b>2</b> detik dan menimpakan damage tambahan sebesar poin Frostiness x Frost ATK x <b>35%</b> (jika target tidak bisa dibekukan, damage tambahan yang ditimpakan akan digandakan).",
+      "Saat Frostiness mencapai <b>15</b> poin dan kamu berada dalam Frost Domain, kamu akan mendapatkan tambahan \"Domain of Frost II\" yang akan meningkatkan Frost ATK sebesar <b>25%</b> saat Frost Weapon digunakan."
+    ],
+    "traits": [
+      {
+        "name": "Freeze",
+        "description": "Meningkatkan Frost ATK sebanyak <b>1,5%</b> setiap <b>3</b> detik setelah memasuki pertempuran. Bisa ditumpuk hingga <b>10</b> kali. Bertahan selama <b>5</b> detik."
+      },
+      {
+        "name": "Icebound",
+        "description": "Frost ATK ditingkatkan sebesar <b>2,4%</b> setiap <b>3</b> detik setelah memasuki pertempuran. Bisa ditumpuk maks <b>10</b> kali. Bertahan <b>5</b> detik. Selain itu, pemain juga akan mendapatkan Hyperbody dan menjadi kebal terhadap Control Effect di Frost Domain."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Heart of Winter",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano Coating II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "name": "Booster Frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "id": "hilda",
+    "name": "Hilda",
+    "weapon": "The Terminator",
+    "weapon_id": "the_terminator",
+    "birthday": "11 April (Aries)",
+    "birthplace": "Banges",
+    "gender": "Perempuan",
+    "info": "Gadis muda yang bersemangat dan tulus. Periang dan santai. Disukai orang-orang.\nTidak membedakan orang berdasarkan usia atau jenis kelamin, dan memperlakukan semua orang dengan cara yang sama. Mudah bergaul dengan semua orang, entah itu anak kecil ataupun orang dewasa. Menganggap Theo, anak dari kepala Banges Tech, sebagai teman dekat.\nTerkadang bisa agak kasar dan tidak sensitif dan sering lupa akan sesuatu (termasuk senjatanya sendiri).",
+    "description": "\"Superstar\" dari Banges Port, Hilda, sudah tak asing lagi bagi masyarakat di kota tersebut.\nDia sangat mencintai kampung halamannya dan akan melakukan apa pun untuk melindunginya.\nHilda tidak punya pekerjaan tetap dan lebih suka berjalan-jalan di sekitar pelabuhan membantu toko-toko dengan imbalan uang saku; sesekali, dia mengambil tugas yang lebih berbahaya, seperti patroli atau tugas jaga. Saat merasa lelah, dia mengambil libur satu atau dua hari untuk makan dan menghemat energi sepuasnya.",
+    "like": "Ayam goreng, perayaan, barter",
+    "dislike": "Rencana hidup",
+    "element": "Ice",
+    "rarity": "SR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 10,
+    "charge": 10,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "Ketuk Normal Attack untuk memasuki mode membidik. Tahan Normal Attack untuk terus menembak, hingga <b>40</b> tembakan. Setiap tembakan menimpakan damage sebanyak <b>11.4%</b> ATK + <b>1</b>. Menimpakan Double Damage saat melakukan Headshot atau mengenai titik lemah musuh hingga memukul jatuh mereka (Headshot tidak efektif pada Wanderer)."
+      },
+      {
+        "name": "Turret",
+        "type": [
+          "Skill"
+        ],
+        "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan damage sebanyak <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental. Menjadi kebal terhadap Hitstun dan Control Effect saat memasang Turret. Cooldown <b>3.5</b> detik."
+      },
+      {
+        "name": "Arctic Beam",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebanyak <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebanyak <b>50%</b> selama <b>10</b> detik."
+      }
+    ],
+    "weapon_type": {
+      "name": "Ice Shell",
+      "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+    },
+    "advancement": [
+      "Setiap Normal Attack yang berhasil akan meningkatkan damage sebanyak <b>1%</b> selama <b>2</b> detik (bisa ditumpuk maks <b>15</b> kali). Menambah jumlah amunisi menjadi <b>60</b>.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+      "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Normal Attack dan Shatter sebanyak <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+      "Mengurangi cooldown untuk Normal Attack selama dalam mode Turret sebanyak <b>2</b> detik.",
+      "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Normal Attack dan Shatter sebanyak <b>60%</b>. Cooldown: <b>25</b> detik."
+    ],
+    "traits": [
+      {
+        "name": "Hilda: Pedal to the Metal",
+        "icon": true,
+        "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>7%</b>."
+      },
+      {
+        "name": "Hilda: Full-speed Drifting",
+        "icon": true,
+        "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>10%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 250,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 1
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 500,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 750,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 2
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "id": "huma",
+    "name": "Huma",
+    "weapon": "Molten Shield V2",
+    "weapon_id": "molten_shield_v2",
+    "birthday": "12 Januari (Capricorn)",
+    "birthplace": "Hykros",
+    "gender": "Perempuan",
+    "info": "Terkadang terlihat bingung atau linglung karena kehilangan sebagian ingatan dan data identitasnya. Sering mengenakan masker di mulutnya, membuat komunikasi bertambah sulit. Sangat pendiam dan penyendiri.\nDengan sedikit pengalaman di dunia luar, dia lugu seperti anak burung dan memancarkan aura yang dingin.",
+    "description": "Gadis dengan penyakit yang menganugerahinya kekuatan aneh, tengah mendapat perawatan di Hykros.\nUntuk alasan tertentu, Huma kehilangan semua ingatan masa lalunya, juga kepribadiannya dulu. Sejak tersadar, pengetahuan Huma tentang dunia hanya sebatas Hykros. Lainnya hanya akan membuatnya agak takut dan gelisah.\nSaat ini, hubungan pribadi Huma hanya terjalin dengan peneliti medis yang telah dikenalnya selama dia dirawat. Para peneliti ini menyarankan kepada Huma untuk menemani yang lain menjelajahi dunia luar. Harapannya, dia bisa berangsur kembali ke kehidupan normalnya. Namun, Huma membuat keputusan yang mencengangkan — memilih dilatih menjadi Executor Hykros.\nAlasannya sederhana dan lugu — dia merasa aman saat berada di tengah-tengah Executor, dan ingin menggunakan kemampuannya untuk membalas kebaikan Hykros.",
+    "like": "Membaca, damai dan tenang, berkebun",
+    "dislike": "Unknown",
+    "element": "Fire",
+    "rarity": "SSR",
+    "role": "Tank",
+    "resonance": "DPS",
+    "shatter": 10,
+    "charge": 10,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, ayunkan kapak perisai untuk menyerang 4 kali berturut-turut.\nSerangan Pertama dalam Shield Form: Timpakan damage sebanyak <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>56.9%</b> ATK + <b>3</b> pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>62.8%</b> ATK + <b>3</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>184%</b> ATK + <b>10</b> dan buat target terpental.</>.\nSerangan Pertama dalam Axe Form: Timpakan damage sebanyak <b>135.2%</b> ATK + <b>7</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>79.4%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>119.9%</b> ATK + <b>6</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>221.3%</b> ATK + <b>12</b> dan pukul mundur target."
+      },
+      {
+        "name": "Aerial Strike",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>75.9%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimpakan damage sebanyak <b>80.2%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan damage sebanyak <b>103%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimpakan damage sebanyak <b>118.6%</b> ATK + <b>6</b> dan mengakibatkan <b>Knockdown</b>, dan akan membuat musuh terpental setelah mendarat."
+      },
+      {
+        "name": "Anticipation",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Shield Form: Saat di darat, ketuk dan tahan Normal Attack untuk memasuki Shield Form (lepaskan untuk keluar) selama <b>3</b> detik. Selama itu, Wanderer tidak bisa bergerak, dan semua damage yang diterima berkurang sebanyak <b>50%</b>. Saat dalam Shield Form, melepaskan tombol Normal Attack setelah menerima damage atau setelah menahan tombol selama <b>3</b> detik, lepaskan Fire Crash, menimbulkan damage sebanyak <b>167.3%</b> ATK + <b>9</b> dan menimbulkan efek <b>Stun</b> kepada target selama <b>1</b> detik.\nAxe Form: Hancurkan target, menimbulkan damage sebanyak <b>122.2%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target."
+      },
+      {
+        "name": "Valor",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan serangan Air Branch.\nShield Form: Saat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>89.2%</b> ATK + <b>5</b> dan buat target kena Suspend.\nAxe Form: Saat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>128.3%</b> ATK + <b>7</b> dan mengakibatkan Suspend kepada target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      },
+      {
+        "name": "Erupt",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Dodge Attack.\nShield Form: Lepaskan perisai api untuk menimbulkan damage sebanyak <b>55.8%</b> ATK + <b>3</b> dan memukul mundur target. Selain itu, mengaktifkan ledakan yang menimbulkan damage sebanyak <b>{0}%</b> ATK + <b>{1}</b>, memberikan efek <b>Stun</b> kepada target selama <b>0,5</b> detik, dan mengurangi efek Healing berikutnya kepada target sebanyak <b>30%</b> selama <b>10</b> detik.\nAxe Form: Ayunkan kapak untuk menimbulkan damage sebanyak <b>55.8%</b> ATK + <b>3</b>, dan mengurangi efek Healing berikutnya kepada sebanyak <b>30%</b> selama <b>10</b> detik."
+      },
+      {
+        "name": "Fission",
+        "type": [
+          "Skill"
+        ],
+        "description": "Shield Conversion: Beralih dari Shield Form ke Axe Form dan menghantam tanah sehingga menimbulkan damage sebanyak <b>373.8%</b> ATK + <b>20</b> dan mengakibatkan <b>Suspend Keras</b> kepada target. Meninggalkan zona api besar selama <b>5</b> detik yang akan membakar target, dan menimbulkan damage terus-menerus sebanyak <b>233.6%</b> ATK + <b>12</b>.\nAxe Conversion: Beralih dari bentuk kapak ke bentuk perisai dan menghantamkannya ke tanah, menimbulkan damage sebanyak <b>309.5%</b> ATK + <b>16</b> kepada target dan memukul mereka mundur. Membuat target tidak bisa berganti senjata selama <b>5</b> detik.\nCooldown: <b>25</b> detik untuk Shield Conversion sekaligus Axe Conversion."
+      },
+      {
+        "name": "Seething Rage",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Flame Shockwave setelah beralih ke senjata ini, menimpakan damage sebanyak <b>352%</b> ATK + <b>19</b>. Memberikan Taunt kepada musuh selama <b>5</b> detik, dan selama itu akan mendapatkan <b>15%</b> Damage Reduction. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek bertahan <b>20</b> detik dan selama <b>10</b> detik akan memberikan <b>5%</b> Damage Reduction (bisa ditumpuk), dan memulihkan Dodge sebanyak 1."
+      }
+    ],
+    "weapon_type": {
+      "name": "Flame",
+      "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>{3}%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+    },
+    "advancement": [
+      "Mendapatkan Strong Shield setelah menggunakan Discharge: Seething Rage. Jika menggunakan Dodge Skill atau Branch Skill selama dalam Shield Form, akan mendapatkan satu tumpuk Strong Shield, yang akan memberikan <b>10%</b> Damage Reduction selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Axe Form, semua tumpukan Strong Shield akan berubah menjadi tumpukan Sharp Axe, yang masing-masing akan meningkatkan damage sebanyak <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+      "Selama dalam wujud perisai, Branch/Dodge Attack akan menimpakan damage tambahan kepada target sebanyak <b>4%</b> dari HP saat ini pengguna.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+      "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang sebanyak <b>10%</b> setiap <b>3</b> detik, hingga minimum <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
+      "Meningkatkan Conversion Skill.\nShield Enhancement: Meningkatkan damage yang ditimbulkan sebanyak <b>60%</b> dan memperluas radius zona Flame sebanyak <b>30%</b>.\nAxe Enhancement: Cooldown tidak sama dengan Shield Enhancement. Selama <b>5</b> detik selanjutnya setelah menggunakan skill ini, semua damage yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
+    ],
+    "traits": [
+      {
+        "name": "Huma: Fortitude",
+        "icon": true,
+        "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP."
+      },
+      {
+        "name": "Huma: Iron Screen",
+        "icon": true,
+        "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,9%</b> HP."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "Heart of Lava",
+          "name": "Heart of Lava",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Acidproof Glaze II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber Frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "id": "king",
+    "name": "KING",
+    "weapon": "Scythe of the Crow",
+    "weapon_id": "scythe_of_the_crow",
+    "birthday": "3 November (Scorpio)",
+    "birthplace": "Ravager",
+    "gender": "Pria",
+    "info": "Urakan dan bergaya flamboyan, KING memancarkan aura yang kuat ke mana pun dia pergi. Dengan nyali besarnya, dia senantiasa membersitkan watak yang intimidatif dan agresif. Meski perangainya bisa menimbulkan masalah, KING tak sulit diajak berkomunikasi.\nSebagai biang caper, KING adalah seorang materialis; karena itu, dia lugas dan mata duitan. Pembual dan orang yang sok-sokan adalah karakter yang dibencinya.\nKING kerap menggunakan kekerasan untuk menyelesaikan masalah dan meraih keinginannya. Dia juga tak suka muluk-muluk dalam berstrategi (dalam bertarung maupun lainnya).\nMereka yang baru bertemu sejenak dengan KING mungkin berpendapat bahwa dia cuma seorang pria perkasa yang simpel; meskipun bisa saja mengutarakan anggapan itu tanpa niat apa pun, mereka lebih memilih menyimpannya dalam hati.",
+    "description": "Dari semua orang yang mau-maunya berurusan dengan bunga mencekik Banges Business Association, KING adalah kasus paling unik. Biasanya, orang yang tak mampu membayar akan dipaksa bekerja di tambang, tetapi dia tak pernah diperlakukan seperti itu.\nBukannya Association tidak mau, tetapi walaupun sudah menawarkan hadiah besar agar tidak perlu repot berusaha, mereka tetap tidak dapat menangkapnya.\nSebagai seorang tentara bayaran yang ternama akan keahlian bertarungnya, KING memang lekat dengan kekerasan. Sejak kecil, dia suka berkelahi. Kini, dia jadi jagoan ulung satu lawan banyak. Setiap kali dia dapat pekerjaan, bayarannya besar, tapi juga cepat dihabiskannya.",
+    "like": "Uang, Menghabiskan Uang, Hal sederhana",
+    "dislike": "Item Tak Ternilai",
+    "element": "Fire",
+    "rarity": "SSR",
+    "role": "Shieldbreaking",
+    "resonance": "DPS",
+    "shatter": 12.5,
+    "charge": 5,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, ayunkan Scythe untuk melancarkan serangan 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>57.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebanyak <b>49.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>106.8%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebanyak <b>109.5%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kelima: Menimbulkan damage sebanyak <b>104.2%</b> ATK + <b>5</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan membuat Wanderer kena Airborne."
+      },
+      {
+        "name": "Rising Scythe",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat Airborne atau setelah melompat satu kali, serang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>63.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan damage sebanyak <b>68.8%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>190.5%</b> ATK + <b>10</b>.\nSerangan Keempat: Menimbulkan damage sebanyak <b>213.6%</b> ATK + <b>11</b>.\nSerangan Kelima: Menimbulkan damage sebanyak <b>173.9%</b> ATK + <b>9</b> dan memukul jatuh target. Makin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      },
+      {
+        "name": "Asunder",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Asunder.\nSaat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>71.9%</b> ATK + <b>4</b> dan <b>Knockdown</b>.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar damage yang ditimbulkan, maks <b>600%</b> damage."
+      },
+      {
+        "name": "Returning Chainblade",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk Normal Attack selama durasi singkat Perfect Dodge (ketuk tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>137.4%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+      },
+      {
+        "name": "Returning Chainblade",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk Normal Attack selama durasi singkat Perfect Dodge (ketuk tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>126.9%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
+      },
+      {
+        "name": "Domain of the Bat",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Saat menghindar, memanggil Domain of the Bat yang menarik target ke tengah. Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengayunkan Scythe, menimpakan hingga <b>114.3%</b> ATK + <b>6</b> damage kepada target."
+      },
+      {
+        "name": "Mortal Coil",
+        "type": [
+          "Skill"
+        ],
+        "description": "Ayunkan Scythe untuk menimbulkan damage sebanyak <b>499.9%</b> ATK + <b>26</b>. Cooldown: <b>45</b> detik."
+      },
+      {
+        "name": "Flaming Scythe",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menciptakan Flaming Scythe saat beralih ke senjata ini sehingga menimbulkan damage sebanyak <b>398.3%</b> ATK + <b>21</b> dan bertahan selama <b>10</b> detik. Selain itu, memunculkan Flaming Scythe Domain setiap <b>2</b> detik. Scythe akan memanggil letusan gunung berapi dari tanah, yang menimbulkan damage sebanyak <b>66%</b> ATK + <b>3</b> kepada target dan mengakibatkan Suspend kepada mereka."
+      }
+    ],
+    "weapon_type": {
+      "name": "Flame",
+      "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>{3}%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+    },
+    "advancement": [
+      "Meningkatkan Shatter sebesar <b>15%</b>. Setelah menghancurkan perisai musuh, menimpakan Burn Damage sebanyak <b>120%</b> ATK kepada target setiap detik selama <b>15</b> detik.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+      "Meningkatkan damage yang ditimpakan sebanyak <b>10%</b> untuk setiap musuh dalam radius <b>6</b> meter, maks <b>30%</b>.",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+      "Meningkatkan damage yang ditimpakan terhadap HP Shield atau musuh dengan Shield sebanyak <b>100%</b>.",
+      "Meningkatkan damage yang ditimpakan sebanyak <b>10%</b> untuk setiap musuh yang dibantai selama <b>30</b> detik (bisa ditumpuk maks <b>3</b> kali)."
+    ],
+    "traits": [
+      {
+        "name": "KING: Coldblooded Swipe",
+        "icon": true,
+        "description": "Setiap <b>7</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>8%</b> Max HP."
+      },
+      {
+        "name": "KING: Fear Reaper",
+        "icon": true,
+        "description": "Setiap <b>5</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>10%</b> Max HP."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof Glaze I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "Heart of Lava",
+          "name": "Heart of Lava",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Acidproof Glaze II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber Frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  }
+]

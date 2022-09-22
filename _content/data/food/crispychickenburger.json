@@ -1,0 +1,31 @@
+{
+  "name": "Crispy Chicken Burger",
+  "uri": "crispychickenburger",
+  "imgSrc": "crispychickenburger.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Homi Grain",
+      "rarity": "2",
+      "uri": "homigrain",
+      "imgSrc": "homigrain.webp",
+      "amount": 1
+    },
+    {
+      "name": "Poultry Meat",
+      "rarity": "2",
+      "uri": "poultrymeat",
+      "imgSrc": "poultrymeat.webp",
+      "amount": 1
+    },
+    {
+      "name": "Lettuce",
+      "rarity": "2",
+      "uri": "lettuce",
+      "imgSrc": "lettuce.webp",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Braised Meat",
+  "uri": "braisedmeat",
+  "imgSrc": "braisedmeat.webp",
+  "rarity": "4",
+  "chinaOnly": false,
+  "effect": "Recovers **20** satiety\n**Ice Resistance +15%<br>\nIce Resistance +675**<br>\nDuration **1200** sec",
+  "recipe": [
+    {
+      "name": "Fatty Cut",
+      "rarity": "4",
+      "uri": "fattycut",
+      "imgSrc": "fattycut.webp",
+      "amount": 1
+    }
+  ]
+}

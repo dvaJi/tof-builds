@@ -1,0 +1,286 @@
+{
+  "_id": 3,
+  "id": "crow",
+  "name": "Crow",
+  "weapon": "Thunderblades",
+  "weapon_id": "thunderblades",
+  "birthday": "17 December (Sagittarius)",
+  "birthplace": "Unknown",
+  "gender": "Male",
+  "info": "A lively and cheerful personality who brightens up any room. Frank and extroverted, he is optimistic in any situation but can be overly proud at times\nOften practices some eye-catching dagger tricks and has a repertoire of dry jokes that he finds hilarious. He likes delivering these jokes as though he were on stage.\nWhat beneath his cheery and carefree attitude, are unshakeable willpower and determination. Keen to achieve his goals no matter what is in his way. Sometimes pushes himself too hard.",
+  "description": "As an ex-Executor, Crow maintains a good relationship with Hykros. He didn't make any critical mistakes, and he was not let go due to poor performance. He simply realized that he longed for a life with fewer rules after working with the team there for a while, and made the decision that worked for him.\nHe now travels freely over long periods of time. His cheerful personality leaves a great first impression on those who he comes across, and he always performs new tricks or jokes when he arrives at a new place. They call him Crowy, and he doesn't mind.",
+  "like": "Cats, all kinds of daggers",
+  "dislike": "Alcohol, ghost stories",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Twin Blades",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing the dual blades to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>60.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>73%</b> of ATK + <b>4</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>90.9%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>96.8%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>202.2%</b> of ATK + <b>11</b> and knock the target back a short distance."
+    },
+    {
+      "name": "Sky Flurry",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, tap normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>38.4%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>92%</b> of ATK + <b>5</b>.\nFourth Attack: Deal damage equal to <b>138%</b> of ATK + <b>7</b>."
+    },
+    {
+      "name": "Rapid Lunge",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After the third normal attack, hold the normal attack button to trigger Rapid Lunge.\nUpon hit, <b>strongly suspend</b> the target, dealing total damage equal to <b>116.8%</b> of ATK + <b>6</b>."
+    },
+    {
+      "name": "Spiral Drive",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Spiral Drive.\nWhile falling, deal damage equal to <b>42%</b> of ATK + <b>2</b> each hit."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+    },
+    {
+      "name": "Flying Blades",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Blades.\nSlash a target <b>5</b> times, each dealing damage equal to <b>26.4%</b> of ATK + <b>1</b>. Grant immunity to control effects while phasing."
+    },
+    {
+      "name": "Returning Blades",
+      "type": [
+        "Skill"
+      ],
+      "description": "Fire <b>6</b> returning blades, each dealing damage equal to <b>52.8%</b> of ATK + <b>3</b>. Gains <b>hyperbody</b> for up to <b>8</b> seconds, and the effect is removed when the blades return. <b>45</b> -second cooldown."
+    },
+    {
+      "name": "Orbiting Blades",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and blink to the target location upon switching to this weapon and attack, dealing damage equal to <b>86.9%</b> of ATK + <b>5</b> and electrocuting the target (after <b>5</b> seconds, deals volt damage equal to <b>15%</b> of damage dealt, up to <b>350%</b> of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to <b>65.2%</b> of ATK + <b>3</b> to those that touch them."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+  },
+  "advancement": [
+    "Attacking targets from behind increases crit rate of all dual blades attacks by <b>40%</b>. Backstabbing an electrified target increases crit rate by <b>100%</b> and crit damage by <b>30%</b>.",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "Increase damage by <b>30%</b> to targets with less than <b>60%</b> HP.",
+    "Increase the current weapon's base HP growth by <b>32%</b>.",
+    "Triggering a Back Attack grants a 100% crit chance for the next <b>4</b> seconds and increases crit damage by <b>50%</b>. Cooldown: <b>10</b> seconds.",
+    "After using a skill, increase volt damage dealt to the target by <b>20%</b> for <b>20</b> seconds."
+  ],
+  "traits": [
+    {
+      "name": "Crow: Loner",
+      "icon": true,
+      "description": "When Crow is not in a team, increase damage dealt by <b>6%</b> and reduce damage received by <b>4%</b>."
+    },
+    {
+      "name": "Crow: Silent Night",
+      "icon": true,
+      "description": "When Crow is not in a team, increase damage dealt by <b>10%</b> and reduce damage received by <b>6%</b>. When Crow enters combat, increase damage dealt by <b>12%</b> for <b>12</b> seconds."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Heart of lightning",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

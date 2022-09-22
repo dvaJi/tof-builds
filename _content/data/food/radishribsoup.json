@@ -1,0 +1,24 @@
+{
+  "name": "Radish Rib Soup",
+  "uri": "radishribsoup",
+  "imgSrc": "radishribsoup.webp",
+  "rarity": "4",
+  "chinaOnly": true,
+  "effect": "Recovers **20** satiety\n**Physical Resistance +15%**<br>\n**Physical Resistance +675**<br>\nDuration **1200** sec",
+  "recipe": [
+    {
+      "name": "Radish",
+      "rarity": "4",
+      "uri": "radish",
+      "imgSrc": "radish.webp",
+      "amount": 1
+    },
+    {
+      "name": "Ribs",
+      "rarity": "4",
+      "uri": "ribs",
+      "imgSrc": "ribs.webp",
+      "amount": 1
+    }
+  ]
+}

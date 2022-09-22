@@ -1,0 +1,177 @@
+{
+  "_id": 5,
+  "id": "ene",
+  "name": "Ene",
+  "weapon": "Pummeler",
+  "weapon_id": "pummeler",
+  "birthday": "17 Agustus (Leo)",
+  "birthplace": "Keamanan Victoria",
+  "gender": "Perempuan",
+  "info": "Dia terlihat malas dan lesu saat tidak ada pekerjaan, tetapi sangat bersemangat dan kompetitif kalau bertempur.\nDia sangat bangga dengan badan robotnya, yang tangkas, kuat, dan tidak dimakan usia. Dia juga keras kepala dan suka menantang dirinya semaksimal mungkin, tidak mau menyerah kepada manusia biasa.\nSecara mental, dia masih anak kecil dan menunjukkan sisinya yang rapuh saat bersama ayahnya.",
+  "description": "Pada zaman Old Federation, Victoria, seorang kontraktor militer privat, pernah merancang serangkaian droid tempur, dan Ene adalah prototipe pertama proyek itu.\nTujuannya adalah membuat droid sempurna yang memiliki identitas dan kemampuan untuk berpikir, merasakan, dan memperhitungkan tindakan berikutnya sendiri. Sang pemilik, yang memberikan lampu hijau untuk proyek ini, mengunggah kesadaran cadangan almarhum putrinya pada Ene sebagai \"jiwa\" droid itu.\nPada akhirnya, Ene mendapat hak menjadi manusia sebagai putri sang pemilik.",
+  "like": "Bersama ayahnya, manusia yang lebih kuat darinya",
+  "dislike": "Sangat memahami kerapuhan hidup",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Tank",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>76.3%</b> ATK + <b>4</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebanyak <b>62.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>157.4%</b> ATK + <b>8</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebanyak <b>263.8%</b> ATK + <b>14</b> dan melontarkan target.\nSelama Outburst masih aktif, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan damage sebanyak <b>{8}%</b> ATK + <b>{9}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebanyak <b>{10}%</b> ATK + <b>{11}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>{12}%</b> ATK + <b>{13}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebanyak <b>{14}%</b> ATK + <b>{15}</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
+    },
+    {
+      "name": "Pummel",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat Airborne atau setelah melompat satu kali, ketuk Normal Attack untuk mengaktifkan Pummel. Menimbulkan damage sebanyak <b>121.7%</b> ATK + <b>6</b>dan mengakibatkan Suspend kepada target.\nSaat Outburst masih aktif, menimbulkan damage sebanyak <b>133.9%</b> ATK + <b>7</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+    },
+    {
+      "name": "Shockwave",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Shockwave akan diaktifkan dengan mengetuk dan menahan tombol saat Airborne, melompat dua kali, mengetuk sebentar di udara saat ada target di sekitar, memanjat, melompat mundur, atau menyerang sambil menggunakan Jetpack. Mengakibatkan <b>Suspend Keras</b> kepada target <b>4</b> kali, dan menimbulkan damage sebanyak <b>34.8%</b> ATK + <b>2</b> setiap kalinya. Membutuhkan <b>250</b> Endurance.\nSelama Outburst masih aktif, Shockwave akan mengakibatkan <b>Suspend Keras</b> kepada target <b>5</b> kali, dan menimbulkan damage sebanyak <b>38.3%</b> *ATK + <b>2</b> setiap kalinya.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>427.5%</b> ATK + <b>23</b>."
+    },
+    {
+      "name": "Focus Smash",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan tombol Normal Attack untuk mengaktifkan Focus Smash (bisa diisi sampai maks 3 tumpuk). Memberikan kekebalan terhadap semua Control Effect dan Hyperbody saat diisi.\nTumpukan Pertama: Menimbulkan damage sebanyak <b>110%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target.\nTumpukan Kedua: Menimbulkan damage sebanyak <b>276%</b> ATK + <b>15</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nTumpukan Ketiga: Menimbulkan damage sebanyak <b>518%</b> ATK + <b>27</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nSelama Outburst masih aktif, ketuk dan tahan tombol Normal Attack untuk mengaktifkan Furious Strike, dan menimbulkan damage sebanyak <b>501.6%</b> ATK + <b>26</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
+    },
+    {
+      "name": "Jumping Smash",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Gunakan tombol panah dan tombol menghindar untuk mengaktifkan Jumping Smash, melepaskan Shockwave yang mengakibatkan Suspend kepada musuh <b>4</b> kali, menimbulkan damage sebanyak <b>161.6%</b> dari ATK + <b>9</b>."
+    },
+    {
+      "name": "Worldsplitter",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack dalam waktu sesaat setelah menghindar untuk mengaktifkan Worldsplitter, melepaskan <b>3</b> Shockwave ke depan, masing-masing menimbulkan damage sebanyak <b>52.4%</b> dari ATK + <b>3</b>, dan mengakibatkan Suspend kepada target.\nSaat di mode Outburst, tembakkan <b>5</b> Shockwave ke depan, masing-masing menimbulkan damage sebanyak <b>{0}%</b> dari ATK + <b>{1}</b> dan mengakibatkan Suspend kepada target."
+    },
+    {
+      "name": "Outburst",
+      "type": [
+        "Skill"
+      ],
+      "description": "Beralih ke Outburst, meningkatkan damage yang ditimbulkan selama <b>25</b> detik.\nSelama Outburst masih aktif, skill akan mengaktifkan Windfury, yang akan menimbulkan damage sebanyak <b>219%</b> ATK + <b>12</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan menciptakan aliran udara di tanah. Saat berdiri di tengah aliran itu, tidak butuh biaya apa pun untuk menghindar. Cooldown: <b>45</b> detik (cooldown untuk Windfury: <b>10</b> detik)."
+    },
+    {
+      "name": "Overwhelming Maul",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan mengakibatkan \n <b>Suspend Keras</b> kepada target di sekitar setelah beralih ke senjata ini, dan menimbulkan damage sebanyak <b>153.3%</b> ATK + <b>8</b>. Juga memanggil Maul yang menjatuhi target di sekitar, dan menimbulkan damage sebanyak <b>153.3%</b> ATK + <b>8</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+  },
+  "advancement": [
+    "Memberikan Taunt kepada target di dekatnya setelah beralih ke senjata ini, sehingga akan mencegah <b>1</b> damage dalam waktu <b>8</b> detik berikutnya, dan memberikan Hyperbody selama <b>8</b> detik berikutnya. Cooldown: <b>15</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+    "Setelah menerima damage, mengurangi semua damage yang diterima sebanyak <b>50%</b> selama <b>6</b> detik berikutnya. Cooldown: <b>20</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+    "Normal Attack akan mengakibatkan <b>Stun</b> kepada target selama <b>2,5</b> detik. Cooldown: <b>20</b> detik.",
+    "Discharge Skill menimpakan <b>10%</b> damage tambahan kepada target dan meningkatkan Frost Damage sebanyak <b>10%</b> lagi selama <b>25</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "Ene: Fast Mode",
+      "icon": true,
+      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>12%</b>."
+    },
+    {
+      "name": "Ene: Beyond Limits Mode",
+      "icon": true,
+      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>20%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

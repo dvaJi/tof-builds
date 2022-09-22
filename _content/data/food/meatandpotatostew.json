@@ -1,0 +1,24 @@
+{
+  "name": "Meat and Potato Stew",
+  "uri": "meatandpotatostew",
+  "imgSrc": "meatandpotatostew.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **14** satiety",
+  "recipe": [
+    {
+      "name": "Potato",
+      "rarity": "2",
+      "uri": "potato",
+      "imgSrc": "potato.webp",
+      "amount": 1
+    },
+    {
+      "name": "Game Meat",
+      "rarity": "2",
+      "uri": "gamemeat",
+      "imgSrc": "gamemeat.webp",
+      "amount": 1
+    }
+  ]
+}

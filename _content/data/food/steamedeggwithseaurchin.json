@@ -1,0 +1,24 @@
+{
+  "name": "Steamed Egg with Sea Urchin",
+  "uri": "steamedeggwithseaurchin",
+  "imgSrc": "steamedeggwithseaurchin.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\nRecovers **15% + 20,000** HP",
+  "recipe": [
+    {
+      "name": "Sea Urchin",
+      "rarity": "3",
+      "uri": "seaurchin",
+      "imgSrc": "seaurchin.webp",
+      "amount": 2
+    },
+    {
+      "name": "Poultry Egg",
+      "rarity": "3",
+      "uri": "poultryegg",
+      "imgSrc": "poultryegg.webp",
+      "amount": 2
+    }
+  ]
+}

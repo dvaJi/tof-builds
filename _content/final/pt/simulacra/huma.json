@@ -1,0 +1,277 @@
+{
+  "_id": 8,
+  "id": "huma",
+  "name": "Huma",
+  "weapon": "Escudo Fundido V2",
+  "weapon_id": "molten_shield_v2",
+  "birthday": "12 de janeiro (Capricórnio)",
+  "birthplace": "Hykros",
+  "gender": "Feminino",
+  "info": "Por vezes, cai em um estado de confusão e atordoamento pela falta de algumas de suas memórias e de partes dos seus dados de identidade. Usa frequentemente uma máscara sobre a boca, o que dificulta ainda mais a comunicação. Excessivamente quieta e introvertida.\nCom pouca experiência no mundo exterior, ela é tão inocente quanto um passarinho e possui um ar desinteressado.",
+  "description": "Uma garota cuja doença lhe conferiu poderes estranhos. Atualmente recebe tratamento da Hykros.\nPor algum motivo, Huma perdeu todas as lembranças do passado e sua antiga personalidade. Desde que acordou, o conhecimento dela acerca do mundo se limita à Hykros. Todo o resto a deixa amedrontada e nervosa.\nNo momento, todos os relacionamentos de Huma são com os pesquisadores médicos que ela conheceu por conta do tratamento. Esses pesquisadores sugeriram que Huma acompanhe outras pessoas para explorar o mundo exterior, esperando que assim ela retome uma vida mais normal. Contudo, a decisão de Huma foi surpreendente: receber treinamento para ser Executora da Hykros.\nA motivação é simples e genuína: ela se sente segura na companhia de Executores e quer usar suas habilidades para retribuir a gentileza que a Hykros lhe demonstrou.",
+  "like": "Leitura, paz, silêncio, jardinagem",
+  "dislike": "Desconhecido",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Tank",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda o machado-escudo para atacar 4 vezes seguidas.\nPrimeiro ataque em forma de escudo: Causa dano de <b>77.7%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>56.9%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>62.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>184%</b> do ATQ + <b>10</b> e <b>lança o alvo no ar</b>.\nPrimeiro ataque em forma de machado: Causa dano de <b>135.2%</b> do ATQ + <b>7</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>79.4%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>119.9%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>221.3%</b> do ATQ + <b>12</b> e repele o alvo."
+    },
+    {
+      "name": "Golpe Aéreo",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>75.9%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>80.2%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>103%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>118.6%</b> do ATQ + <b>6</b> e <b>derruba</b> o alvo, lança o alvo no ar ao aterrissar."
+    },
+    {
+      "name": "Antecipação",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Forma de escudo: No chão, segure o botão de ataque normal para acionar a forma de escudo (solte para desativar) durante <b>3</b> segundos, durante os quais o Errante não pode se mexer e todo dano sofrido é reduzido em <b>50%</b>. Em forma de escudo, soltar o botão de ataque normal após sofrer dano ou após <b>3</b> segundos segurando desencadeia uma pancada ígnea, que causa dano de <b>167.3%</b> do ATQ + <b>9</b> e inflige <b>atordoamento</b> durante <b>1</b> segundo ao alvo.\nForma de machado: Esmaga o alvo, causando dano de <b>122.2%</b> do ATQ + <b>6</b> e suspendendo-o."
+    },
+    {
+      "name": "Valentia",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar ataques encadeados no ar.\nForma de escudo: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>89.2%</b> do ATQ + <b>5</b> e suspende o alvo.\nForma de machado: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>128.3%</b> do ATQ + <b>7</b> e suspende os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+    },
+    {
+      "name": "Erupção",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal logo após se esquivar para usar um Ataque Esquivado.\nForma de escudo: Gera um escudo flamejante que causa dano de <b>55.8%</b> do ATQ + <b>3</b> e repele o alvo. Provoca uma explosão que causa dano de <b>{0}%</b> do ATQ + <b>{1}</b>. A explosão <b>atordoa</b> o alvo durante <b>0,5</b> segundo e, durante <b>10</b> segundos, reduz a cura recebida pelo alvo em <b>30%</b>.\nForma de machado: Brande o machado, causando dano de <b>55.8%</b> do ATQ + <b>3</b> e reduzindo a cura recebida pelo alvo em <b>30%</b> durante <b>10</b> segundos."
+    },
+    {
+      "name": "Fissão",
+      "type": [
+        "Skill"
+      ],
+      "description": "Conversão de Escudo: Troca da forma de escudo para a forma de machado e bate no chão. Causa dano de <b>373.8%</b> do ATQ + <b>20</b> ao alvo e o <b>suspende muito</b>. Cria uma área de fogo ampla durante <b>5</b> segundos que queima o alvo, causando dano de <b>233.6%</b> do ATQ + <b>12</b>.\nConversão de Machado: Troca da forma de machado para a forma de escudo e bate no chão. Causa dano de <b>309.5%</b> do ATQ + <b>16</b> ao alvo e o repele. Impede o alvo de trocar de arma durante <b>5</b> segundos.\nTempo de recarga: <b>25</b> seg. Conversão de Escudo e Conversão de Machado compartilham o mesmo tempo de recarga."
+    },
+    {
+      "name": "Fúria Ardente",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga de arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de quem a usa</b> e libera uma onda de choque de fogo ao trocar para esta arma. Causa dano de <b>352%</b> do ATQ + <b>19</b>. Provoca inimigos durante <b>5</b> segundos, durante os quais o dano do Errante é reduzido em <b>15%</b>. Espalha objetos em formato de escudo com base no número de alvos provocados. Os objetos duram <b>20</b> segundos, reduzem o dano sofrido em <b>5%</b> durante <b>10</b> segundos (acumulável) e restauram 1 esquiva."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fogo",
+    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>{3}%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+  },
+  "advancement": [
+    "Ganha um acúmulo de escudo forte após usar Descarga: Fúria Ardente. Usar uma habilidade esquivada ou uma habilidade encadeada na forma de escudo dá um acúmulo de escudo forte, que confere <b>10%</b> de redução de dano durante <b>15</b> segundos. Acumula até <b>3</b> vezes. Trocar para a forma de machado converte todos os acúmulos de escudo forte em acúmulos de machado afiado. Cada acúmulo aumenta o dano em <b>15%</b> durante <b>15</b> segundos. Trocar para uma arma diferente cancela o efeito.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>16%</b>.",
+    "Durante a forma de escudo, ataques encadeados ou esquivados causam dano adicional de <b>4%</b> da sua vida atual ao alvo.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Após alternar para o machado-escudo, recebe <b>30%</b> de redução de dano imediatamente, que diminui <b>10%</b> a cada <b>3</b> segundos até no mínimo <b>10%</b>. Trocar de arma cancela o efeito. Tempo de recarga: <b>30</b> seg.",
+    "Aprimora habilidades de conversão.\nAprimoramento de Escudo: Aumenta o dano causado em <b>60%</b> e o raio da área de fogo em <b>30%</b>.\nAprimoramento de Machado: Não compartilha tempo de recarga com Aprimoramento de Escudo. Durante os <b>5</b> segundos seguintes após usar esta habilidade, converte todo o dano sofrido em vida (até <b>15%</b> da vida máxima do usuário)."
+  ],
+  "traits": [
+    {
+      "name": "Huma: Coragem",
+      "icon": true,
+      "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,4%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida."
+    },
+    {
+      "name": "Huma: Tela de Ferro",
+      "icon": true,
+      "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,9%</b> da vida."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Coração-de-lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Revestimento antiácido II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

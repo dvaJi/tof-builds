@@ -1,0 +1,17 @@
+{
+  "name": "Deep-fried Tofu",
+  "uri": "deep-friedtofu",
+  "imgSrc": "deep-friedtofu.webp",
+  "rarity": "2",
+  "chinaOnly": true,
+  "effect": "Recovers **14** satiety",
+  "recipe": [
+    {
+      "name": "Soybeans",
+      "rarity": "2",
+      "uri": "soybeans",
+      "imgSrc": "soybeans.webp",
+      "amount": 2
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "_id": 4,
+  "id": "echo",
+  "name": "Echo",
+  "weapon": "Alabarda Trovejante",
+  "weapon_id": "thunderous_halberd",
+  "birthday": "14 de agosto (Leão)",
+  "birthplace": "Não há registro",
+  "gender": "Feminino",
+  "info": "Uma garota desastrada e cheia de energia que gosta de expressar suas emoções e pensamentos.\nDesde que foi resgatada por um comerciante, ela deseja retribuir fazendo o bem durante suas viagens.\nEla odeia o mal e considera que eliminá-lo é uma boa ação. Sendo jovem e inexperiente, ela frequentemente julga as pessoas com base em padrões questionáveis.",
+  "description": "Echo nasceu em Warren e sempre sonhou em sair da terra da neve pura para ver o resto do mundo.\nQuando tinha nove anos de idade, o abrigo onde vivia foi destruído por uma avalanche repentina, durante a qual os seus pais morreram tentando salvá-la. Então, ela foi resgatada por um comerciante que passava por ali, que a enviou para uma instalação de recuperação em Banges.\nApós cinco anos em Banges, ela decidiu sair em uma jornada para punir o mal e espalhar o bem.",
+  "like": "Vovó Eileen, comer peixe",
+  "dislike": "Dirigir veículos",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "skills": [
+    {
+      "name": "Lançada",
+      "type": [
+        "Attack"
+      ],
+      "description": "Enquanto está no solo, brande a lança longa em 5 ataques seguidos.\nPrimeiro ataque: causa dano igual a <b>24.7%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>22.6%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>47.2%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>65.2%</b> do ATQ + <b>3</b>, que repele o alvo, repelindo-o uma curta distância.\n Quinto ataque: causa dano de <b>114.95%</b> do ATQ + <b>6</b> e repele o alvo uma distância significativa."
+    },
+    {
+      "name": "Ataque Suspenso",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.4%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>23.2%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>45.8%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>110%</b> do ATQ + <b>6</b>."
+    },
+    {
+      "name": "Mergulho Esmagador",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Esmagador.\nEnquanto cai, cada golpe causa dano de <b>8%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>48.5%</b> do ATQ + <b>3</b> e derruba os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+    },
+    {
+      "name": "Floreio Arremessante",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Floreio Arremessante.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano de <b>49.2%</b> do ATQ + <b>3</b>. Toque novamente para continuar atacando o alvo suspenso e causar dano de até <b>98%</b> do ATQ + <b>5</b>."
+    },
+    {
+      "name": "Ataque Furtivo",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+    },
+    {
+      "name": "Chute Desorientador",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Chute Desorientador.\nCausa dano de <b>72%</b> do ATQ + <b>4</b> ao alvo atingido, o repele uma boa distância e o <b>atordoa</b> durante <b>1</b> segundo (alvos não Errantes) ou <b>0,5</b> segundo (Errantes)."
+    },
+    {
+      "name": "Esmagada Violenta",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\nBate a lança no chão, <b>suspendendo muito</b> os alvos e causando dano de <b>52.8%</b> do ATQ + <b>3</b>."
+    },
+    {
+      "name": "Combate nas Alturas",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Suspende muito</b> o alvo e suspende a si mesmo, causando dano de <b>127.5%</b> do ATQ + <b>7</b>. Tempo de recarga: <b>25</b> seg."
+    },
+    {
+      "name": "Lança Relampejante",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, que pula no ar e arremessa uma lança relampejante que explode. Causa dano em área de <b>296.7%</b> do ATQ + <b>16</b> e <b>paralisa</b> o alvo durante <b>1</b> segundo."
+    }
+  ],
+  "weapon_type": {
+    "name": "Raio",
+    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+  },
+  "advancement": [
+    "Aumenta o despedaçar em <b>15%</b>. Após despedaçar o escudo do alvo, aumenta o ATQ de todos os colegas de equipe em <b>15%</b> durante <b>30</b> segundos. Não acumula.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>10%</b>.",
+    "Após atingir um alvo com <span class=\"text-green\">Combate nas Alturas</span>, reduz o ATQ dele em <b>5%</b> e aumenta o seu ATQ em <b>5%</b> durante <b>15</b> segundos (acumula até <b>3</b> por atingir vários alvos). O efeito é dobrado contra alvos com lesão.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>20%</b>.",
+    "Dobra a duração do atordoamento de habilidades de esquiva.",
+    "Quanto maior a distância percorrida pela descarga da habilidade, maior o dano que ela causa (até <b>100%</b> a mais de dano)."
+  ],
+  "traits": [
+    {
+      "name": "Echo: Integridade",
+      "icon": true,
+      "description": "Quando Echo estiver na equipe, aliados a até <b>10</b> metros dela recebem um reforço de <b>4%</b> de dano (exceto Echo)."
+    },
+    {
+      "name": "Echo: Persistência",
+      "icon": true,
+      "description": "Quando Echo estiver na equipe, aliados a até <b>10</b> metros dela recebem um reforço de <b>6%</b> de dano (exceto Echo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

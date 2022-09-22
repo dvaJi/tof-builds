@@ -1,0 +1,24 @@
+{
+  "name": "Sea Crab Soup",
+  "uri": "seacrabsoup",
+  "imgSrc": "seacrabsoup.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\n**Flame Resistance +10%<br>\nFlame Resistance +290**<br>\nDuration **900** sec",
+  "recipe": [
+    {
+      "name": "Hermit Crab",
+      "rarity": "3",
+      "uri": "hermitcrab",
+      "imgSrc": "hermitcrab.webp",
+      "amount": 2
+    },
+    {
+      "name": "Mushroom",
+      "rarity": "3",
+      "uri": "mushroom",
+      "imgSrc": "mushroom.webp",
+      "amount": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Caterpillar Fungus Noodles",
+  "uri": "caterpillarfungusnoodles",
+  "imgSrc": "caterpillarfungusnoodles.webp",
+  "rarity": "4",
+  "chinaOnly": false,
+  "effect": "Recovers **20** satiety\nRecovers **20% + 60,000** HP",
+  "recipe": [
+    {
+      "name": "Caterpillar Fungus",
+      "rarity": "4",
+      "uri": "caterpillarfungus",
+      "imgSrc": "caterpillarfungus.webp",
+      "amount": 1
+    },
+    {
+      "name": "Brown Rice",
+      "rarity": "4",
+      "uri": "brownrice",
+      "imgSrc": "brownrice.webp",
+      "amount": 3
+    }
+  ]
+}

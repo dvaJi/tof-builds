@@ -1,0 +1,179 @@
+{
+  "_id": 4,
+  "id": "echo",
+  "name": "Echo",
+  "weapon": "Thunderous Halberd",
+  "weapon_id": "thunderous_halberd",
+  "birthday": "August 14 (Leo)",
+  "birthplace": "No Record",
+  "gender": "Female",
+  "info": "A clumsy girl who is full of vigor and likes to wear her mind on her sleeve.\nSince she was rescued by a passing merchant, she wants to pay it forward by doing good deeds while traveling.\nShe hates evil, and equates good deeds with eliminating evil. Being young and inexperienced, she often judges someone based on questionable standards.",
+  "description": "Echo was born in Warren, and dreamed about stepping out of the land of the pure snow to see the rest of the world.\nWhen she was nine, her shelter was destroyed by a sudden avalanche, during which her parents died saving her. She was then rescued by a passing merchant, and sent to a recovery facility in Banges.\nAfter five years in Banges, she decided to go on a journey to punish evil and spread good.",
+  "like": "Granny Eileen, eating fish",
+  "dislike": "Driving vehicles",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "skills": [
+    {
+      "name": "Thrust",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing the long spear to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>24.7%</b> of ATK + <b>1</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>22.6%</b> of ATK + <b>1</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>47.2%</b> of ATK + <b>2</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>65.2%</b> of ATK + <b>3</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>114.95%</b> of ATK + <b>6</b> and knock the target back a significant distance."
+    },
+    {
+      "name": "Jumping Strike",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, tap normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.4%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>23.2%</b> of ATK + <b>1</b>.\nThird Attack: Deal damage equal to <b>45.8%</b> of ATK + <b>2</b>.\nFourth Attack: Deal damage equal to <b>110%</b> of ATK + <b>6</b>."
+    },
+    {
+      "name": "Crashing Drive",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Crashing Drive.\nWhile falling, deal damage equal to <b>8%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>48.5%</b> of ATK + <b>3</b> and knock the target down.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+    },
+    {
+      "name": "Spear Flurry",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After the third normal attack, hold the normal attack button to trigger Spear Flurry.\nUpon hit, <b>strongly suspend</b> the target, dealing damage equal to <b>49.2%</b> of ATK + <b>3</b>. Tap again to continue attacking the suspended target, dealing up to <b>98%</b> of ATK + <b>5</b> damage to a single target."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+    },
+    {
+      "name": "Flying Kick",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Kick.\nOnce hit the target, deal damage equal to <b>72%</b> of ATK + <b>4</b>, knock the enemies back significantly, and <b>stun</b> enemies for <b>1</b> second or <b>0.5</b> seconds to Wanderers."
+    },
+    {
+      "name": "Lunging Smash",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short period after dodging to trigger Lunging Smash.\nSlam the long spear into the ground, <b>strongly suspending</b> targets, dealing damage equal to <b>52.8%</b> of ATK + <b>3</b>."
+    },
+    {
+      "name": "Moonchaser",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Strongly suspend</b> targets and go airborne, dealing damage equal to <b>127.5%</b> of ATK + <b>7</b>. Cooldown: <b>25</b> seconds."
+    },
+    {
+      "name": "Thunderclap",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, who jumps in the air and throws a lightning spear that causes area explosion to deal <b>296.7%</b> of ATK + <b>16</b>damage plus <b>paralyzing</b> the target for <b>1</b> second."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>106%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+  },
+  "advancement": [
+    "Increase shatter by <b>15%</b>. After shattering the target's shield, increase all teammates' ATK by <b>15%</b> for <b>30</b> seconds. This cannot be stacked.",
+    "Increase the current weapon's base HP growth by <b>10%</b>.",
+    "After hitting a target with <span class=\"text-green\">Moonchaser</span>, reduce their ATK by <b>5%</b> and increase the user's ATK by <b>5%</b> for <b>15</b> seconds (effect can be stacked up to <b>3</b> times by hitting multiple targets). Effect is doubled to grievous targets.",
+    "Increase the current weapon's base ATK growth by <b>20%</b>.",
+    "Double stun duration from dodge skills.",
+    "Discharge skill deals more damage the further it travels, up to <b>100%</b> more damage."
+  ],
+  "traits": [
+    {
+      "name": "Echo: Uprightness",
+      "icon": true,
+      "description": "When teamed up with Echo, allies within <b>10</b> meters around Echo gain a damage boost of <b>4%</b> (excluding Echo)."
+    },
+    {
+      "name": "Echo: Determination",
+      "icon": true,
+      "description": "When teamed up with Echo, allies  within <b>10</b> meters around Echo gain a damage boost of <b>6%</b> (excluding Echo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

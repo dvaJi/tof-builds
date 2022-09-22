@@ -1,0 +1,286 @@
+{
+  "_id": 2,
+  "id": "cocoritter",
+  "name": "Coco",
+  "weapon": "Absolute Zero",
+  "weapon_id": "absolute_zero",
+  "birthday": "1 Juni (Gemini)",
+  "birthplace": "Unknown",
+  "gender": "Perempuan",
+  "info": "Seorang gadis lugu dan romantis yang selalu ceria. Terlalu percaya dengan orang lain sehingga terkesan naif.\nSuka permen, tapi bisa menjaga keseimbangan antara gula dan makanan sehat. Kesulitan dengan arah, tapi tidak pernah tersesat begitu dia tahu jalan. Orang cenderung mencemaskannya, walau sebenarnya dia sangat mampu untuk menjaga diri.",
+  "description": "Sebagai putri peneliti medis Hykros, Cocoritter mulai menunjukkan bakatnya di bidang pengobatan saat masih muda. Dia bergabung dengan lab tempat orang tuanya bekerja untuk menimba ilmu medis sebanyak mungkin.\nDia berkeliling ke mana-mana, berpindah dari satu shelter ke shelter lainnya dan mengobati yang cedera. Dia bertugas dengan penuh kesungguhan dan menganggap pengalamannya penting demi menjadi staf medis kawakan.",
+  "like": "Permen, apa pun yang imut",
+  "dislike": "Unknown",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 12.5,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan tongkat untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>54.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>40.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>65.6%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>89.7%</b> ATK + <b>5</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>158.4%</b> ATK + <b>8</b>."
+    },
+    {
+      "name": "Soaring Barrage",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>70.5%</b> ATK + <b>4</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>50.8%</b> ATK + <b>3</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>55.1%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>99.1%</b> ATK + <b>5</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>103.2%</b> ATK + <b>5</b>."
+    },
+    {
+      "name": "Moonfall",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat mengudara untuk mengaktifkan Moonfall.\nSaat mendarat, timpakan damage satu kali setiap <b>0,2</b> detik, dengan total <b>123.8%</b> ATK + <b>7</b> damage."
+    },
+    {
+      "name": "Focused Assault",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Branch Attack, yang akan menghabiskan <b>300</b> poin Endurance.\nSerangan Pertama: Menarik musuh ke depan pengguna dan mengakibatkan <b>Suspend</b> kepada mereka dan menimbulkan damage sebanyak <b>34.9%</b> ATK + <b>2</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimbulkan damage sebanyak <b>40.4%</b> ATK + <b>2</b> di lokasi target dan kepada musuh di sekitar setiap <b>0,3</b> detik."
+    },
+    {
+      "name": "Surge",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk tombol Normal Attack dalam Perfect Dodge Window singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap gelombang energi akan menimpakan damage sebanyak <b>45.9%</b> ATK + <b>2</b> kepada target.\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+    },
+    {
+      "name": "Tesseract",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk tombol Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebanyak <b>66.4%</b> ATK + <b>3</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+    },
+    {
+      "name": "Sanctuary",
+      "type": [
+        "Skill"
+      ],
+      "description": "Buat zona penyembuhan yang bergerak bersama Pengembara dan menyembuhkan teman terdekat dengan <b>95%</b> ATK + <b>5</b> satu kali setiap <b>0,5</b> detik selama <b>6</b> detik. Cooldown <b>60</b> detik."
+    },
+    {
+      "name": "Swift Deliverance",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebanyak <b>118.8%</b> ATK + <b>6</b> HP selama <b>7</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>151%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+  },
+  "advancement": [
+    "Setelah menghindar, memanggil Healing Bee yang akan mengikuti pengguna dan menyembuhkan teman yang punya persentase HP paling rendah dalam radius <b>15</b> meter. Menyembuhkan sebanyak <b>25%</b> ATK dan memulihkan <b>50</b> poin Weapon Charge setiap kalinya, dan bertahan <b>25</b> detik. Cooldown: <b>25</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Menggunakan <span class=\"text-yellow\">Sanctuary</span> atau Discharge Skill untuk menghilangkan debuff dari target. Bisa digunakan saat terkena Control Effect. Meningkatkan Shatter dan damage yang ditimpakan untuk semua rekan tim dalam jangkauan sebanyak <b>20%</b>, dan memberi mereka kekebalan terhadap Control Effect dan Shatter.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Meningkatkan efek Healing sebanyak <b>15%</b>, ditambah <b>20%</b> lagi saat menyembuhkan target yang punya HP kurang dari <b>60%</b>.",
+    "Setiap kali Healing Bee dipanggil atau menghilang dari pertempuran, semua sekutu akan menerima Healing sebanyak <b>100%</b> dari ATK pengguna. Semua sekutu dalam radius <b>10</b> meter dari Healing Bee juga akan mendapatkan <b>15%</b> Damage Boost (tidak bisa ditumpuk)."
+  ],
+  "traits": [
+    {
+      "name": "Cocoritter: Assistance",
+      "icon": true,
+      "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan efek Healing yang ditimpakannya pada orang lain dan yang diterimanya sebanyak <b>20%</b>."
+    },
+    {
+      "name": "Cocoritter: Trust",
+      "icon": true,
+      "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan Healing dan Healing yang diterima sebanyak <b>20%</b>. Kemudian, pada saat Cocoritter menggunakan Discharge Skill atau Weapon Skill tipe support, meningkatkan ATK teman di sekitar sebanyak <b>15%</b> selama <b>5</b> detik."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Heart of Winter",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

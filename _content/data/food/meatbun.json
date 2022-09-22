@@ -1,0 +1,24 @@
+{
+  "name": "Meat Bun",
+  "uri": "meatbun",
+  "imgSrc": "meatbun.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **14** satiety",
+  "recipe": [
+    {
+      "name": "Homi Grain",
+      "rarity": "2",
+      "uri": "homigrain",
+      "imgSrc": "homigrain.webp",
+      "amount": 2
+    },
+    {
+      "name": "Game Meat",
+      "rarity": "2",
+      "uri": "gamemeat",
+      "imgSrc": "gamemeat.webp",
+      "amount": 1
+    }
+  ]
+}

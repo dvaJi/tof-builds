@@ -1,0 +1,24 @@
+{
+  "name": "Rose Tea",
+  "uri": "rosetea",
+  "imgSrc": "rosetea.webp",
+  "rarity": "4",
+  "chinaOnly": true,
+  "effect": "Recovers **800** stamina\nRecovers **20% + 60,000** HP",
+  "recipe": [
+    {
+      "name": "Rose Petals",
+      "rarity": "4",
+      "uri": "rosepetals",
+      "imgSrc": "rosepetals.webp",
+      "amount": 1
+    },
+    {
+      "name": "Honey",
+      "rarity": "4",
+      "uri": "honey",
+      "imgSrc": "honey.webp",
+      "amount": 2
+    }
+  ]
+}

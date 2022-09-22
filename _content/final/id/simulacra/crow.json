@@ -1,0 +1,286 @@
+{
+  "_id": 3,
+  "id": "crow",
+  "name": "Crow",
+  "weapon": "Thunderblades",
+  "weapon_id": "thunderblades",
+  "birthday": "17 Desember (Sagittarius)",
+  "birthplace": "Unknown",
+  "gender": "Pria",
+  "info": "Pribadi energik dan ceria yang selalu menghidupkan suasana. Dengan sifat lugas dan terbuka, dia selalu optimistis dalam segala situasi, tapi kadang sedikit besar kepala.\nKerap mempertunjukkan trik atraktif dengan belatinya dan punya segudang lawakan receh yang dianggapnya lucu. Dia senang melempar guyonan layaknya sedang di atas panggung.\nNamun, di balik perilakunya yang riang gembira, dia punya kemauan dan tekad yang kuat. Antusias dalam meraih tujuannya tanpa peduli rintangan yang menghadang. Terkadang suka memaksakan diri.",
+  "description": "Sebagai mantan Executor, Crow menjaga hubungan baiknya dengan Hykros. Dia tidak pernah membuat kesalahan fatal, atau didepak karena kinerja buruk. Setelah bekerja bersama tim di sana selama sementara waktu, dia menyadari bahwa yang diinginkannya adalah kehidupan tanpa banyak aturan. Dia lantas membuat keputusan yang tepat bagi dirinya.\nKini, dia bertualang bebas dalam waktu yang lama. Kepribadiannya yang ceria meninggalkan kesan pertama yang dalam bagi siapa pun yang ditemuinya. Dia juga suka mempertontonkan trik atau melontarkan lelucon saat tiba di tempat baru. Nama panggilannya Crowy, dan dia tak keberatan dipanggil demikian.",
+  "like": "Kucing, segala macam pisau",
+  "dislike": "Alkohol, cerita hantu",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Twin Blades",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan Dual Blade untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>60.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Menimpakan damage sebanyak <b>73%</b> ATK + <b>4</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimpakan damage sebanyak <b>90.9%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Menimpakan damage sebanyak <b>96.8%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Menimpakan damage sebanyak <b>202.2%</b> ATK + <b>11</b> dan memukul mundur target dalam jarak dekat."
+    },
+    {
+      "name": "Sky Flurry",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>65.6%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>38.4%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>92%</b> ATK + <b>5</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>138%</b> ATK + <b>7</b>."
+    },
+    {
+      "name": "Rapid Lunge",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Rapid Lunge.\nSetelah kena, akan mengakibatkan <b>Suspend Keras</b> kepada target dan menimbulkan damage sebanyak <b>116.8%</b> ATK + <b>6</b>."
+    },
+    {
+      "name": "Spiral Drive",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat mengudara (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nSaat jatuh, timpakan damage sebanyak <b>42%</b> ATK + <b>2</b> tiap kena sasaran."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+    },
+    {
+      "name": "Flying Blades",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack selama jendela Perfect Dodge yang singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebanyak <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap Control Effect saat proses phasing."
+    },
+    {
+      "name": "Returning Blades",
+      "type": [
+        "Skill"
+      ],
+      "description": "Menembakkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebanyak <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. Cooldown <b>45</b> detik."
+    },
+    {
+      "name": "Orbiting Blades",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan berkedip ke lokasi target setelah beralih ke senjata ini dan menyerang, dan menimpakan damage sebanyak <b>86.9%</b> ATK + <b>5</b> membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimpakan Volt Damage sebanyak <b>15%</b> dari damage yang ditimpakan, maks <b>350%</b> ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). Juga memunculkan 3 mata pisau yang akan mengitari Wanderer, dan menimpakan damage sebanyak <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+  },
+  "advancement": [
+    "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebanyak <b>40%</b>. Backstabbing target yang kena Electrify akan meningkatkan Crit Rate sebanyak <b>100%</b> dan Crit Damage sebanyak <b>30%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Meningkatkan damage sebanyak <b>30%</b> kepada target yang punya HP kurang dari <b>60%</b>.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Mengaktifkan Back Attack akan memberikan 100% peluang Crit selama <b>4</b> detik berikutnya dan meningkatkan Crit Damage sebanyak <b>50%</b>. Cooldown: <b>10</b> detik.",
+    "Setelah menggunakan skill, meningkatkan Volt Damage yang ditimpakan kepada target sebanyak <b>20%</b> selama <b>20</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "Crow: Loner",
+      "icon": true,
+      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>6%</b> dan mengurangi damage yang diterima sebanyak <b>4%</b>."
+    },
+    {
+      "name": "Crow: Silent Night",
+      "icon": true,
+      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>10%</b> dan mengurangi damage yang diterima sebanyak <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan damage yang ditimbulkan sebanyak <b>12%</b> selama <b>12</b> detik."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Heart of Lightning",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

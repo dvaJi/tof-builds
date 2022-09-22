@@ -1,0 +1,129 @@
+[
+  {
+    "_locid": "Item_Mine_ice01_",
+    "id": "icecore",
+    "rarity": "N"
+  },
+  {
+    "_locid": "Item_Mine_ice02_",
+    "id": "heart_of_winter",
+    "rarity": "R"
+  },
+  {
+    "_locid": "Item_breakthrough_A1_",
+    "id": "nano_coating_i",
+    "rarity": "R"
+  },
+  {
+    "_locid": "Item_breakthrough_A2_",
+    "id": "nano_coating_ii",
+    "rarity": "SR"
+  },
+  {
+    "_locid": "Item_breakthrough_A3_",
+    "id": "nano_coating_iii"
+  },
+  {
+    "_locid": "Item_breakthrough_A4_",
+    "id": "nano_coating_iv"
+  },
+  {
+    "_locid": "Item_breakthrough_C1_",
+    "id": "booster_frame_i",
+    "rarity": "SR"
+  },
+  {
+    "_locid": "Item_breakthrough_C2_",
+    "id": "booster_frame_ii",
+    "rarity": "SSR"
+  },
+  {
+    "_locid": "Item_breakthrough_C3_",
+    "id": "booster_frame_iii"
+  },
+  {
+    "_locid": "Item_breakthrough_C4_",
+    "id": "booster_frame_iv"
+  },
+  {
+    "_locid": "Item_Mine_physic01_",
+    "id": "rockcore",
+    "rarity": "N"
+  },
+  {
+    "_locid": "Item_Mine_physic02_",
+    "id": "heart_of_summit"
+  },
+  {
+    "_locid": "Item_Mine_physic03_",
+    "id": "landsource"
+  },
+  {
+    "_locid": "Item_breakthrough_B1_",
+    "id": "acidproof_glaze_i",
+    "rarity": "R"
+  },
+  {
+    "_locid": "Item_breakthrough_B2_",
+    "id": "acidproof_glaze_ii",
+    "rarity": "SR"
+  },
+  {
+    "_locid": "Item_breakthrough_B3_",
+    "id": "acidproof_glaze_iii",
+    "rarity": "SSR"
+  },
+  {
+    "_locid": "Item_breakthrough_B4_",
+    "id": "acidproof_glaze_iv"
+  },
+  {
+    "_locid": "Item_breakthrough_D1_",
+    "id": "nanofiber_frame_i",
+    "rarity": "SR"
+  },
+  {
+    "_locid": "Item_breakthrough_D2_",
+    "id": "nanofiber_frame_ii",
+    "rarity": "SSR"
+  },
+  {
+    "_locid": "Item_Mine_thunder01_",
+    "id": "magcore",
+    "rarity": "N"
+  },
+  {
+    "_locid": "Item_Mine_thunder02_",
+    "id": "heart_of_lightning",
+    "rarity": "R"
+  },
+  {
+    "_locid": "Item_Mine_fire01_",
+    "id": "firecore",
+    "rarity": "N"
+  },
+  {
+    "_locid": "Item_breakthrough_B1_",
+    "id": "acidproof_glaze_i",
+    "rarity": "R"
+  },
+  {
+    "_locid": "Item_breakthrough_B2_",
+    "id": "acidproof_glaze_ii",
+    "rarity": "SR"
+  },
+  {
+    "_locid": "Item_breakthrough_B3_",
+    "id": "acidproof_glaze_iii",
+    "rarity": "SSR"
+  },
+  {
+    "_locid": "Item_breakthrough_B4_",
+    "id": "acidproof_glaze_iv"
+  },
+  {
+    "_locid": "Item_Mine_fire02_",
+    "id": "Heart of Lava",
+    "rarity": "R"
+  }
+]

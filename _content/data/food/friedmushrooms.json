@@ -1,0 +1,17 @@
+{
+  "name": "Fried Mushrooms",
+  "uri": "friedmushrooms",
+  "imgSrc": "friedmushrooms.webp",
+  "rarity": "1",
+  "chinaOnly": false,
+  "effect": "Recovers **5** satiety\nRecovers **10% + 1,500** HP",
+  "recipe": [
+    {
+      "name": "Mushroom",
+      "rarity": "1",
+      "uri": "mushroom",
+      "imgSrc": "mushroom.webp",
+      "amount": 2
+    }
+  ]
+}

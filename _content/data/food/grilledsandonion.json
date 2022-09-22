@@ -1,0 +1,17 @@
+{
+  "name": "Grilled Sand Onion",
+  "uri": "grilledsandonion",
+  "imgSrc": "grilledsandonion.webp",
+  "rarity": "1",
+  "chinaOnly": true,
+  "effect": "Recovers **10** satiety",
+  "recipe": [
+    {
+      "name": "Sand Onion",
+      "rarity": "1",
+      "uri": "sandonion",
+      "imgSrc": "sandonion.webp",
+      "amount": 2
+    }
+  ]
+}

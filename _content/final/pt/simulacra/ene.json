@@ -1,0 +1,177 @@
+{
+  "_id": 5,
+  "id": "ene",
+  "name": "Ene",
+  "weapon": "Esmurrador",
+  "weapon_id": "pummeler",
+  "birthday": "17 de agosto (Leão)",
+  "birthplace": "Victoria Segurança",
+  "gender": "Feminino",
+  "info": "Ela aparenta ser preguiçosa e desmotivada quando não há nada a fazer, mas fica extremamente animada e competitiva em combate.\nTem muito orgulho de seu corpo robótico, que é ágil, forte e não envelhece. Ela também é teimosa e se esforça ao limite, recusando-se a ser derrotada por pessoas com corpos feitos de carne.\nEntretanto, sua mente ainda é a de uma criança, e ela revela um lado frágil quando está com seu pai.",
+  "description": "Durante a época da Antiga Federação, Victoria, uma empreiteira militar privada, certa vez idealizou uma série de droides de combate, e Ene foi o primeiro protótipo do projeto.\nO objetivo era criar um droide perfeito com uma identidade própria e a capacidade de pensar, sentir e calcular a próxima ação. O proprietário que autorizou este projeto carregou a consciência de sua falecida filha em Ene como a \"alma\" do droide.\nPor fim, Ene ganhou o direito de ser humana na qualidade de filha do proprietário.",
+  "like": "Estar com seu pai, humanos que são mais fortes do que ela",
+  "dislike": "Compreende completamente a fragilidade da vida",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Tank",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda o martelo para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>76.3%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>62.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>157.4%</b> do ATQ + <b>8</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>263.8%</b> do ATQ + <b>14</b> e lança o alvo no ar.\nNo modo Irrupção, branda o martelo para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>{8}%</b> do ATQ + <b>{9}</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>{10}%</b> do ATQ + <b>{11}</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>{12}%</b> do ATQ + <b>{13}</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>{14}%</b> do ATQ + <b>{15}</b> e <b>suspende muito</b> o alvo."
+    },
+    {
+      "name": "Bordoada",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para executar Bordoada. Causa dano de <b>121.7%</b> do ATQ + <b>6</b> e suspende o alvo.\nDurante Irrupção, causa dano de <b>133.9%</b> do ATQ + <b>7</b> e <b>suspende muito</b> o alvo.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+    },
+    {
+      "name": "Abalo Sísmico",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segurar o botão de ataque normal enquanto estiver no ar, der salto duplo, tocar brevemente no ar quando houver alvos por perto, escalar, pular para trás ou atacar enquanto usa a mochila a jato desencadeia Abalo Sísmico. <b>Suspende muito</b> o alvo <b>4</b> vezes. Cada vez causa dano de <b>34.8%</b> do ATQ + <b>2</b>. Custa <b>250</b> de vigor.\nDurante Irrupção, Abalo Sísmico <b>suspende muito</b> o alvo <b>5</b> vezes. Cada vez causa dano de <b>38.3%</b> do ATQ + <b>2</b>.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+    },
+    {
+      "name": "Ataque Furtivo",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>427.5%</b> do ATQ + <b>23</b>."
+    },
+    {
+      "name": "Pancada Repulsora",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal para usar Pancada Repulsora. (O ataque pode ser concentrado até 3 acúmulos.) Recebe corpo de aço e imunidade a todos os efeitos incapacitantes enquanto carrega.\nPrimeiro acúmulo: Causa dano de <b>110%</b> do ATQ + <b>6</b> e suspende o alvo.\nSegundo acúmulo: Causa dano de <b>276%</b> do ATQ + <b>15</b> e <b>suspende muito</b> o alvo.\nTerceiro ataque: Causa dano de <b>518%</b> do ATQ + <b>27</b> e <b>suspende muito</b> o alvo.\nDurante Irrupção, segure o botão de ataque normal para usar Golpes Furiosos, que causa dano de <b>501.6%</b> do ATQ + <b>26</b> e <b>suspende muito</b> o alvo."
+    },
+    {
+      "name": "Esquiva Sísmica",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquive-se para usar Esquiva Sísmica. Gera uma onda sísmica que suspende o alvo <b>4</b> vezes e causa dano de <b>161.6%</b> do ATQ + <b>9</b>."
+    },
+    {
+      "name": "Divide-Mundos",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal logo após se esquivar para usar Divide-Mundos. Gera <b>3</b> ondas sísmicas para frente; cada uma causa dano de <b>52.4%</b> do ATQ + <b>3</b> e suspende os alvos.\nNo modo Irrupção, gera <b>5</b> ondas sísmicas para frente; cada uma causa dano de <b>{0}%</b> do ATQ + <b>{1}</b> e suspende os alvos."
+    },
+    {
+      "name": "Irrupção",
+      "type": [
+        "Skill"
+      ],
+      "description": "Troque para ativar Irrupção, que aumenta o dano causado durante <b>25</b> segundos.\nDurante Irrupção, habilidades geram Ventania, que causa dano de <b>219%</b> do ATQ + <b>12</b>, <b>suspende muito</b> o alvo e cria uma corrente de ar no chão. Enquanto estiver na corrente, a esquiva não tem custo. Tempo de recarga: <b>45</b> seg. (tempo de recarga de Ventania: <b>10</b> seg.)."
+    },
+    {
+      "name": "Marretada Impiedosa",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e <b>suspende muito</b> os alvos próximos ao trocar para esta arma. Causa dano de <b>153.3%</b> do ATQ + <b>8</b>. Além disso, materializa uma marreta que cai sobre alvos próximos e causa dano de <b>153.3%</b> do ATQ + <b>8</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Casca de Gelo",
+    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>111%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+  },
+  "advancement": [
+    "Provoca inimigos próximos ao trocar para esta arma, anulando <b>1</b> dano nos <b>8</b> segundos seguintes e ganhando corpo de aço durante os <b>8</b> segundos seguintes. Tempo de recarga: <b>15</b> seg.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>10%</b>.",
+    "Após sofrer dano, reduz em <b>50%</b> todo o dano sofrido durante os <b>6</b> segundos seguintes. Tempo de recarga: <b>20</b> seg.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>20%</b>.",
+    "Ataques normais <b>atordoam</b> alvos durante <b>2,5</b> segundos. Tempo de recarga: <b>20</b> seg.",
+    "Habilidades de descarga causam <b>10%</b> de dano a mais a alvos e aumenta o dano gélido em mais <b>10%</b> durante <b>25</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "Ene: Modo Rápido",
+      "icon": true,
+      "description": "Quando Ene nada, escala ou plana, reduz o consumo de vigor em <b>12%</b>."
+    },
+    {
+      "name": "Ene: Modo Além do Limite",
+      "icon": true,
+      "description": "Quando Ene nada, escala ou plana, reduz o consumo de vigor em <b>20%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

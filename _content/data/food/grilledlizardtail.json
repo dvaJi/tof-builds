@@ -1,0 +1,17 @@
+{
+  "name": "Grilled Lizard Tail",
+  "uri": "grilledlizardtail",
+  "imgSrc": "grilledlizardtail.webp",
+  "rarity": "2",
+  "chinaOnly": true,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Fleshy Tail",
+      "rarity": "2",
+      "uri": "fleshytail",
+      "imgSrc": "fleshytail.webp",
+      "amount": 2
+    }
+  ]
+}

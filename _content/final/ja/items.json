@@ -1,0 +1,176 @@
+[
+  {
+    "_id": 1,
+    "id": "icecore",
+    "name": "氷結のコア",
+    "description": "氷元素エナジーを含有する鉱石の欠片。氷のように透き通っている",
+    "usage": "武器突破素材",
+    "rarity": "N"
+  },
+  {
+    "_id": 2,
+    "id": "heart_of_winter",
+    "name": "寒冬の心",
+    "description": "氷元素エナジーを含有する希少な鉱石。結晶が濃い青に見えるのは、内包する氷元素の純度が高い証拠",
+    "usage": "武器突破素材",
+    "rarity": "R"
+  },
+  {
+    "_id": 3,
+    "id": "nano_coating_i",
+    "name": "ナノコートⅠ型",
+    "description": "新技術を使って開発した武器のコーティング剤。わずかながら武器の性能向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "R"
+  },
+  {
+    "_id": 4,
+    "id": "nano_coating_ii",
+    "name": "ナノコートⅡ型",
+    "description": "技術の再革新により、新たに開発された武器コーティング剤。武器の性能向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "SR"
+  },
+  {
+    "_id": 5,
+    "id": "nano_coating_iii",
+    "name": "ナノコートⅢ型",
+    "description": "ハガードの独自技術により開発された武器のコーティング剤。武器性能の大幅向上に役立つ",
+    "usage": "武器突破素材"
+  },
+  {
+    "_id": 6,
+    "id": "nano_coating_iv",
+    "name": "ナノコートⅣ型",
+    "usage": "武器突破素材"
+  },
+  {
+    "_id": 7,
+    "id": "booster_frame_i",
+    "name": "合金強化フレームⅠ型",
+    "description": "新技術を用いて開発された強化フレーム。わずかながら武器の性能向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "SR"
+  },
+  {
+    "_id": 8,
+    "id": "booster_frame_ii",
+    "name": "合金強化フレームⅡ型",
+    "description": "技術の再革新により新開発された強化フレーム。武器性能の向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "SSR"
+  },
+  {
+    "_id": 9,
+    "id": "booster_frame_iii",
+    "name": "合金強化フレームⅢ型",
+    "description": "ハガードの独自技術により開発された強化フレーム。武器性能の大幅向上に役立つ",
+    "usage": "武器突破素材"
+  },
+  {
+    "_id": 10,
+    "id": "booster_frame_iv",
+    "name": "合金強化フレームⅣ型",
+    "usage": "武器突破素材"
+  },
+  {
+    "_id": 11,
+    "id": "rockcore",
+    "name": "岩石のコア",
+    "description": "見た目は地味でも、オムニアムの影響下で生成された極めて硬度の高い鉱石の破片",
+    "usage": "武器突破素材",
+    "rarity": "N"
+  },
+  {
+    "_id": 12,
+    "id": "heart_of_summit",
+    "name": "山岳の心",
+    "description": "硬度が極めて高い希少な鉱石。特殊なオムニアム技術でしか溶解精錬できない",
+    "usage": "武器突破素材"
+  },
+  {
+    "_id": 13,
+    "id": "landsource",
+    "name": "大地の源",
+    "description": "欠けのない完全体であり、硬度の極めて高い貴重な鉱石。透明な結晶の内部で時おり揺れる神秘的でかすかな光は、まるで躍動する心臓のよう",
+    "usage": "武器突破素材"
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_i",
+    "name": "耐蝕フィルムⅠ型",
+    "description": "新技術を用いて開発された耐蝕材料。わずかながら武器の性能向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "R"
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_ii",
+    "name": "耐蝕フィルムⅡ型",
+    "description": "技術の再革新により新開発された耐蝕材料。武器性能の向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "SR"
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_iii",
+    "name": "耐蝕フィルムⅢ型",
+    "description": "ハガードの独自技術により開発された耐蝕材料。武器性能の大幅向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "SSR"
+  },
+  {
+    "_id": 23,
+    "id": "acidproof_glaze_iv",
+    "name": "耐蝕フィルムⅣ型",
+    "usage": "武器突破素材"
+  },
+  {
+    "_id": 18,
+    "id": "nanofiber_frame_i",
+    "name": "ナノファイバーフレームⅠ型",
+    "description": "新技術を用いて開発された高強度フレーム。わずかながら武器の性能向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "SR"
+  },
+  {
+    "_id": 19,
+    "id": "nanofiber_frame_ii",
+    "name": "ナノファイバーフレームⅡ型",
+    "description": "技術の再革新により新開発された高強度フレーム。武器性能の向上に役立つ",
+    "usage": "武器突破素材",
+    "rarity": "SSR"
+  },
+  {
+    "_id": 20,
+    "id": "magcore",
+    "name": "磁気エナジーのコア",
+    "description": "雷元素エナジーを含有する鉱石の欠片。闇の中でかすかな光を放つ",
+    "usage": "武器突破素材",
+    "rarity": "N"
+  },
+  {
+    "_id": 21,
+    "id": "heart_of_lightning",
+    "name": "稲妻の心",
+    "description": "雷元素エナジーを含有する貴重な鉱石。明るい場所でも内部を貫く稲妻が見える",
+    "usage": "武器突破素材",
+    "rarity": "R"
+  },
+  {
+    "_id": 22,
+    "id": "firecore",
+    "name": "灼熱のコア",
+    "description": "炎元素のエナジーを含有する鉱石の欠片。溶解する際、わずかな熱を放出する",
+    "usage": "武器突破素材",
+    "rarity": "N"
+  },
+  {
+    "_id": 23,
+    "id": "Heart of Lava",
+    "name": "溶岩の心",
+    "description": "炎元素エナジーを内包する希少な鉱石。炎のような紅色は、大量の元素を蓄えている証",
+    "usage": "武器突破素材",
+    "rarity": "R"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "Honeyed Fruit Juice",
+  "uri": "honeyedfruitjuice",
+  "imgSrc": "honeyedfruitjuice.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **300** stamina\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Fallen Fruit",
+      "rarity": "2",
+      "uri": "fallenfruit",
+      "imgSrc": "fallenfruit.webp",
+      "amount": 2
+    },
+    {
+      "name": "Honey",
+      "rarity": "2",
+      "uri": "honey",
+      "imgSrc": "honey.webp",
+      "amount": 1
+    },
+    {
+      "name": "Carbonated Water",
+      "rarity": "2",
+      "uri": "carbonatedwater",
+      "imgSrc": "carbonatedwater.webp",
+      "amount": 1
+    }
+  ]
+}

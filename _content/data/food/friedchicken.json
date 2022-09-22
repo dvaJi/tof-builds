@@ -1,0 +1,24 @@
+{
+  "name": "Fried Chicken",
+  "uri": "friedchicken",
+  "imgSrc": "friedchicken.webp",
+  "rarity": "2",
+  "chinaOnly": false,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Poultry Meat",
+      "rarity": "2",
+      "uri": "poultrymeat",
+      "imgSrc": "poultrymeat.webp",
+      "amount": 2
+    },
+    {
+      "name": "Homi Grain",
+      "rarity": "2",
+      "uri": "homigrain",
+      "imgSrc": "homigrain.webp",
+      "amount": 1
+    }
+  ]
+}

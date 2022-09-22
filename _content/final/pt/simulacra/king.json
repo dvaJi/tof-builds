@@ -1,0 +1,294 @@
+{
+  "_id": 9,
+  "id": "king",
+  "name": "KING",
+  "weapon": "Gadanha do Corvo",
+  "weapon_id": "scythe_of_the_crow",
+  "birthday": "3 de novembro (Escorpião)",
+  "birthplace": "Devastadores",
+  "gender": "Masculino",
+  "info": "A presença imponente de KING, insubordinado e vestido com extravagância, preenche qualquer ambiente. Como um cão que ladra pouco e morde muito, ele exala uma aura intimidante e agressiva a cada segundo. Ainda que seu gênio possa ser problemático, comunicar-se com KING não tem nada de difícil.\nEm busca constante por estímulos, ele prioriza a satisfação através dos desejos materiais; para isso, preza por objetividade e o valor monetário claro das coisas e abomina mentirosos e arrogantes.\nKING costuma recorrer à violência para resolver problemas e conseguir o que quer e não é muito chegado a estratégias elaboradas (nem em combate nem em nada).\nQuem passa algum tempo com ele pode perceber que é só um homem forte e simples, mas é melhor guardar isso para si, mesmo que não queira ofender.",
+  "description": "Dentre todos os estúpidos o bastante para aceitarem as taxas de juros altas da Junta Comercial de Banges, KING é o caso mais singular. Geralmente, qualquer pessoa que não consiga quitar a dívida é enviada para trabalhar nas minas, mas ele nunca recebeu esse tratamento.\nNão que a Junta não quisesse, mas mesmo que ela oferecesse grandes recompensas e não poupasse esforços, ainda não conseguia pôr as mãos nele.\nComo mercenário famoso por sua habilidade em combate, KING é conhecido como a personificação da violência. Ele luta desde criança e é especializado em combate sem armas de um contra vários. Cada serviço lhe rendia pagamentos generosos, mas ia lá e gastava tudo de uma vez só.",
+  "like": "Dinheiro, gastar dinheiro, coisas simples",
+  "dislike": "Objetos Valiosíssimos",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 5,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda a gadanha para executar 5 ataques seguidos.\nPrimeiro ataque: Causa dano de <b>57.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>49.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>106.8%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>109.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>104.2%</b> do ATQ + <b>5</b>, <b>suspende muito</b> o alvo e suspende a si mesmo."
+    },
+    {
+      "name": "Gadanha Ascendente",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>63.4%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>68.8%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>190.5%</b> do ATQ + <b>10</b>.\nQuarto ataque: Causa dano de <b>213.6%</b> do ATQ + <b>11</b>.\nQuinto ataque: Causa dano de <b>173.9%</b> do ATQ + <b>9</b> e derruba o alvo. Quanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+    },
+    {
+      "name": "Gadanha Cadente",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Gadanha Cadente.\nEnquanto cai, causa dano de <b>12.5%</b> do ATQ + <b>1</b> a cada golpe. Ao aterrissar, causa dano de <b>71.9%</b> do ATQ + <b>4</b> e <b>derruba</b> os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+    },
+    {
+      "name": "Duas em Uma",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Lançamento Veloz.\nCausa dano de <b>137.4%</b> do ATQ + <b>7</b> e puxa inimigos próximos."
+    },
+    {
+      "name": "Ataque Furtivo",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+    },
+    {
+      "name": "Duas em Uma",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Lançamento Veloz.\nCausa dano de <b>126.9%</b> do ATQ + <b>7</b> e puxa inimigos próximos."
+    },
+    {
+      "name": "Festa dos Morcegos",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ao se esquivar, invoca um bando de morcegos que puxa o alvo para o centro. Toque no botão de ataque normal logo após se esquivar para brandir a gadanha. Causa dano de <b>114.3%</b> do ATQ + <b>6</b> ao alvo."
+    },
+    {
+      "name": "Fardo Mortal",
+      "type": [
+        "Skill"
+      ],
+      "description": "Brande a gadanha e causa dano de <b>499.9%</b> do ATQ + <b>26</b>. Tempo de recarga: <b>45</b> seg."
+    },
+    {
+      "name": "Gadanha Ígnea",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e cria uma Gadanha Ígnea ao trocar para esta arma. Causa dano de <b>398.3%</b> do ATQ + <b>21</b> e dura por <b>10</b> segundos. Além disso, gera a Área da Gadanha Ígnea a cada <b>2</b> segundos. As gadanhas provocam erupções vulcânicas no chão, que causam dano de <b>66%</b> do ATQ + <b>3</b> a alvos e os suspende."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fogo",
+    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>{3}%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+  },
+  "advancement": [
+    "Aumenta o despedaçar em <b>15%</b>. Após despedaçar o escudo de um alvo, causa dano de queimadura de <b>120%</b> do ATQ por segundo a ele durante <b>15</b> segundos.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>16%</b>.",
+    "Por cada inimigo em um raio de <b>6</b> metros, aumenta o dano causado em <b>10%</b>, até <b>30%</b>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Aumenta em <b>100%</b> o dano causado a escudos de vida ou inimigos com escudo.",
+    "Durante <b>30</b> segundos, aumenta o dano causado em <b>10%</b> por cada inimigo abatido (acumula até <b>3</b> vezes)."
+  ],
+  "traits": [
+    {
+      "name": "KING: Abate a Sangue Frio",
+      "icon": true,
+      "description": "Restaura o equivalente a <b>8%</b> da vida máxima a cada <b>7</b> inimigos abatidos por KING."
+    },
+    {
+      "name": "KING: Ceifador do Medo",
+      "icon": true,
+      "description": "Restaura o equivalente a <b>10%</b> da vida máxima a cada <b>5</b> inimigos abatidos por KING."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Coração-de-lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Revestimento antiácido II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

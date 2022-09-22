@@ -1,0 +1,17 @@
+{
+  "name": "Fried Egg",
+  "uri": "friedegg",
+  "imgSrc": "friedegg.webp",
+  "rarity": "1",
+  "chinaOnly": false,
+  "effect": "Recovers **5** satiety\nRecovers **10% + 1,500** HP",
+  "recipe": [
+    {
+      "name": "Poultry Egg",
+      "rarity": "1",
+      "uri": "poultryegg",
+      "imgSrc": "poultryegg.webp",
+      "amount": 2
+    }
+  ]
+}

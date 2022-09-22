@@ -1,0 +1,179 @@
+{
+  "_id": 4,
+  "id": "echo",
+  "name": "Echo",
+  "weapon": "Thunderous Halberd",
+  "weapon_id": "thunderous_halberd",
+  "birthday": "14 Agustus (Leo)",
+  "birthplace": "Tidak Ada Riwayat",
+  "gender": "Perempuan",
+  "info": "Seorang gadis ceroboh yang sangat aktif dan ceplas-ceplos.\nSejak diselamatkan oleh seorang pedagang yang sedang lewat, dia ingin melakukan hal yang sama dengan melakukan kebaikan saat berkelana.\nDia tidak suka kejahatan, dan berpendapat bahwa kebaikan hanya bisa dilakukan dengan membasmi kejahatan. Muda dan kurang berpengalaman, dia sering menilai orang berdasarkan standar yang meragukan.",
+  "description": "Echo lahir di Warren, dan bermimpi untuk pergi dari negeri penuh salju itu untuk melihat dunia.\nSaat berusia sembilan tahun, Shelter-nya hancur oleh salju longsor yang mendadak datang, dan orang tuanya meninggal karena melindunginya. Dia kemudian diselamatkan oleh seorang pedagang yang lewat dan dibawa ke fasilitas pemulihan di Banges.\nSetelah tinggal di Banges selama lima tahun, dia memulai perjalanan untuk membasmi kejahatan dan menyebarkan kebaikan.",
+  "like": "Granny Eileen, makan ikan",
+  "dislike": "Mengemudikan kendaraan",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "skills": [
+    {
+      "name": "Thrust",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>24.7%</b> ATK + <b>1</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Menimpakan damage sebanyak <b>22.6%</b> ATK + <b>1</b> memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimpakan damage sebanyak <b>47.2%</b> ATK + <b>2</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Menimpakan damage sebanyak <b>65.2%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Menimpakan damage sebanyak <b>114.95%</b> ATK + <b>6</b> dan memukul mundur target dalam jarak yang signifikan."
+    },
+    {
+      "name": "Jumping Strike",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>27.4%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>23.2%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>45.8%</b> ATK + <b>2</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>110%</b> ATK + <b>6</b>."
+    },
+    {
+      "name": "Crashing Drive",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat turun, menimbulkan damage sebanyak <b>8%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>48.5%</b> ATK + <b>3</b> dan memukul jatuh target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+    },
+    {
+      "name": "Spear Flurry",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target sehingga menimbulkan damage sebanyak <b>49.2%</b> ATK + <b>3</b>. Ketuk lagi untuk terus menyerang target yang kena Suspend sehingga menimbulkan damage maks <b>98%</b> ATK + <b>5</b> damage kepada satu target."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+    },
+    {
+      "name": "Flying Kick",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk tombol Normal Attack dalam jangka waktu Perfect Dodge yang singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan damage sebanyak <b>72%</b> ATK + <b>4</b>, memukul mundur target cukup jauh, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
+    },
+    {
+      "name": "Lunging Smash",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Lunging Smash.\nHantamkan Long Spear ke dalam tanah, mengakibatkan <b>Suspend Keras</b> kepada target sehingga menimbulkan damage sebanyak <b>52.8%</b> ATK + <b>3</b>."
+    },
+    {
+      "name": "Moonchaser",
+      "type": [
+        "Skill"
+      ],
+      "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengalami Airborne sehingga menimbulkan damage sebanyak <b>127.5%</b> ATK + <b>7</b>. Cooldown: <b>25</b> detik."
+    },
+    {
+      "name": "Thunderclap",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, yang melompat di udara dan melemparkan Lightning Spear yang akan menyebabkan ledakan area dan menimbulkan <b>296.7%</b> ATK + <b>16</b>damage dan mengakibatkan <b>Paralyze</b> kepada target selama <b>1</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>106%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+  },
+  "advancement": [
+    "Meningkatkan Shatter sebanyak <b>15%</b>. Setelah menghancurkan Shield musuh, meningkatkan ATK semua rekan tim sebanyak <b>15%</b> selama <b>30</b> detik. Efek ini tidak bisa ditumpuk.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+    "Setelah menghantam target dengan <span class=\"text-green\">Moonchaser</span>, mengurangi ATK mereka sebanyak <b>5%</b> dan meningkatkan ATK pengguna sebanyak <b>5%</b> selama <b>15</b> detik (efek bisa ditumpuk maks <b>3</b> kali dengan menghantam beberapa target). Efek akan digandakan pada target yang terkena Grievous.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+    "Menggandakan durasi Stun dari Dodge Skill.",
+    "Makin jauh laju Discharge Skill, damage yang ditimpakan pun makin besar, hingga <b>100%</b> damage lebih besar."
+  ],
+  "traits": [
+    {
+      "name": "Echo: Uprightness",
+      "icon": true,
+      "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>4%</b> (kecuali Echo)."
+    },
+    {
+      "name": "Echo: Determination",
+      "icon": true,
+      "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>6%</b> (kecuali Echo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

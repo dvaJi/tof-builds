@@ -1,0 +1,45 @@
+{
+  "name": "Simple Power Salad",
+  "uri": "simplepowersalad",
+  "imgSrc": "simplepowersalad.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\n**Physical Resistance +10%<br>\nPhysical Resistance +170**<br>\nDuration **900** sec",
+  "recipe": [
+    {
+      "name": "Broccoli",
+      "rarity": "3",
+      "uri": "broccoli",
+      "imgSrc": "broccoli.webp",
+      "amount": 1
+    },
+    {
+      "name": "Thornmato",
+      "rarity": "3",
+      "uri": "thornmato",
+      "imgSrc": "thornmato.webp",
+      "amount": 1
+    },
+    {
+      "name": "Lettuce",
+      "rarity": "3",
+      "uri": "lettuce",
+      "imgSrc": "lettuce.webp",
+      "amount": 1
+    },
+    {
+      "name": "Poultry Egg",
+      "rarity": "3",
+      "uri": "poultryegg",
+      "imgSrc": "poultryegg.webp",
+      "amount": 1
+    },
+    {
+      "name": "Salad Dressing",
+      "rarity": "3",
+      "uri": "saladdressing",
+      "imgSrc": "saladdressing.webp",
+      "amount": 1
+    }
+  ]
+}

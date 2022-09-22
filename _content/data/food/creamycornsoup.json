@@ -1,0 +1,31 @@
+{
+  "name": "Creamy Corn Soup",
+  "uri": "creamycornsoup",
+  "imgSrc": "creamycornsoup.webp",
+  "rarity": "2",
+  "chinaOnly": true,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Corn",
+      "rarity": "2",
+      "uri": "corn",
+      "imgSrc": "corn.webp",
+      "amount": 2
+    },
+    {
+      "name": "Milk",
+      "rarity": "2",
+      "uri": "milk",
+      "imgSrc": "milk.webp",
+      "amount": 1
+    },
+    {
+      "name": "Mushroom",
+      "rarity": "2",
+      "uri": "mushroom",
+      "imgSrc": "mushroom.webp",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Spicy Burger",
+  "uri": "spicyburger",
+  "imgSrc": "spicyburger.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\n**Physical Attack +1%<br>\nPhysical Attack +45**<br>\nDuration **900** sec",
+  "recipe": [
+    {
+      "name": "Homi Grain",
+      "rarity": "3",
+      "uri": "homigrain",
+      "imgSrc": "homigrain.webp",
+      "amount": 3
+    },
+    {
+      "name": "Rear Hock",
+      "rarity": "3",
+      "uri": "rearhock",
+      "imgSrc": "rearhock.webp",
+      "amount": 2
+    },
+    {
+      "name": "Lettuce",
+      "rarity": "3",
+      "uri": "lettuce",
+      "imgSrc": "lettuce.webp",
+      "amount": 1
+    }
+  ]
+}

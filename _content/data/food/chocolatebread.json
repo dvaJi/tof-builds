@@ -1,0 +1,24 @@
+{
+  "name": "Chocolate Bread",
+  "uri": "chocolatebread",
+  "imgSrc": "chocolatebread.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\nRecovers **16% + 34,000** HP",
+  "recipe": [
+    {
+      "name": "Cocoa Beans",
+      "rarity": "3",
+      "uri": "cocoabeans",
+      "imgSrc": "cocoabeans.webp",
+      "amount": 2
+    },
+    {
+      "name": "Brown Rice",
+      "rarity": "3",
+      "uri": "brownrice",
+      "imgSrc": "brownrice.webp",
+      "amount": 2
+    }
+  ]
+}

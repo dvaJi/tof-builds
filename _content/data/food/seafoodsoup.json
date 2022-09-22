@@ -1,0 +1,31 @@
+{
+  "name": "Seafood Soup",
+  "uri": "seafoodsoup",
+  "imgSrc": "seafoodsoup.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\n**Ice Attack +1%<br>\nIce Attack +45**<br>\nDuration **900** sec",
+  "recipe": [
+    {
+      "name": "Conch",
+      "rarity": "3",
+      "uri": "conch",
+      "imgSrc": "conch.webp",
+      "amount": 3
+    },
+    {
+      "name": "Scallop",
+      "rarity": "3",
+      "uri": "scallop",
+      "imgSrc": "scallop.webp",
+      "amount": 2
+    },
+    {
+      "name": "Lettuce",
+      "rarity": "3",
+      "uri": "lettuce",
+      "imgSrc": "lettuce.webp",
+      "amount": 1
+    }
+  ]
+}

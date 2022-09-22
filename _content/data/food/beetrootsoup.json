@@ -1,0 +1,17 @@
+{
+  "name": "Beet Soup",
+  "uri": "beetrootsoup",
+  "imgSrc": "beetrootsoup.webp",
+  "rarity": "2",
+  "chinaOnly": true,
+  "effect": "Recovers **7** satiety\nRecovers **12% + 3,300** HP",
+  "recipe": [
+    {
+      "name": "Beetroot",
+      "rarity": "2",
+      "uri": "beetroot",
+      "imgSrc": "beetroot.webp",
+      "amount": 2
+    }
+  ]
+}

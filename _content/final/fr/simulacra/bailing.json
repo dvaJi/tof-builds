@@ -1,0 +1,162 @@
+{
+  "_id": 1,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "weapon": "Plume de rossignol",
+  "weapon_id": "nightingales_feather",
+  "birthday": "8 mai (taureau)",
+  "birthplace": "Refuge HT201",
+  "gender": "Féminin",
+  "info": "Manque de confiance et s'inquiète trop. Elle accorde plus d'importance à ce que pensent les autres qu'à ses propres idées, ce qui la rend sensible et anxieuse à cause de détails sans importance. D'un autre côté, elle est aussi terre à terre, gentille, polie et méticuleuse.\nElle continue d'apprendre et de grandir. Ayant réalisé ses propres problèmes, elle tente doucement de devenir une personne capable d'assumer des responsabilités.",
+  "description": "En tant que chef actuel du refuge HT201, Bai Ling est responsable des opérations quotidiennes et des unités de combat. Ce n'est que récemment qu'elle en a pris la direction, c'est pourquoi elle semble un peu dépassée et sur les nerfs lorsqu'elle travaille.\nLe décès soudain du précédent responsable a laissé Bai Ling sous le choc, et certains membres du refuge ont ouvertement mis en doute sa capacité à diriger en raison de sa nature inquiète et anxieuse. Elle considère le commandement comme un fardeau et met un point d'honneur à ce que tout se déroule sans encombre.\nMais elle est également attentionnée, responsable, méticuleuse et douée pour la comptabilité. C'est pourquoi HT201 semble pour l'instant être entre de bonnes mains.",
+  "like": "Comptabilité, gestion financière, inventaire",
+  "dislike": "Devoir traiter avec des gens étranges ou méchants",
+  "element": "Physical",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Dégainement",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>33.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>30.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>54.3%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>83.5%</b> de l'ATQ + <b>4</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>77.7%</b> de l'ATQ + <b>4</b> et repoussez la cible sur une courte distance."
+    },
+    {
+      "name": "Flèche chargée",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>60.5%</b> de l'ATQ + <b>3</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi et le renversez (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+    },
+    {
+      "name": "Pluie de flèches",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après une attaque normale, maintenez Attaque normale pour déclencher Pluie de flèches, qui inflige aux cibles jusqu'à <b>198.7%</b> de l'ATQ + <b>10</b> dégâts de zone."
+    },
+    {
+      "name": "Salve aérienne",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour attaquer 4 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>38.8%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>51%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>77.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>117%</b> de l'ATQ + <b>6</b>."
+    },
+    {
+      "name": "Flèche piégée",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque après une esquive pour déclencher Flèche piégée, qui repousse la cible sur une courte distance et inflige des dégâts équivalant à <b>85.5%</b> de l'ATQ + <b>5</b>."
+    },
+    {
+      "name": "Tir perçant",
+      "type": [
+        "Skill"
+      ],
+      "description": "Vous faites un salto arrière et tirez <b>1</b> tir perçant vers l'avant, qui inflige des dégâts équivalant à <b>154.8%</b> de l'ATQ + <b>8</b>, et repousse la cible. <b>12</b> secondes de recharge."
+    },
+    {
+      "name": "Barrage explosif",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et déclenche un Barrage explosif sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>486.6%</b> de l'ATQ + <b>26</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Blessure grave",
+    "description": "Les armes entièrement chargées infligent des dégâts correspondant à <b>100%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
+  },
+  "advancement": [
+    "Restaure 1 tentative d'esquive toutes les cinq attaques normales ou après avoir utilisé <span class=\"text-green\">Tir perforant</span>.",
+    "Augmente de <b>10%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>30%</b> les dégâts de tir à la tête.",
+    "Augmente de <b>20%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Les compétences d'esquive infligent des blessures graves aux cibles pendant <b>7</b> secondes.",
+    "Accroît de <b>30%</b> le taux de crit aux cibles gravement blessées et de <b>50%</b> les dégâts critiques."
+  ],
+  "traits": [
+    {
+      "name": "Bai Ling : Bravoure",
+      "icon": true,
+      "description": "Accroît de <b>8%</b> la vitesse pendant <b>12</b> secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge : <b>60</b> secondes."
+    },
+    {
+      "name": "Bai Ling : Détermination",
+      "icon": true,
+      "description": "Accroît de <b>15%</b> la vitesse pendant <b>12</b> secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge : <b>60</b> secondes."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

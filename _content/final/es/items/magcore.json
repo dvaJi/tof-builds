@@ -1,0 +1,8 @@
+{
+  "_id": 20,
+  "id": "magcore",
+  "name": "Núcleo magnético",
+  "description": "Fragmentos con poder elemental eléctrico que emiten un ligero brillo en la oscuridad.",
+  "usage": "Para aumentar las armas.",
+  "rarity": "N"
+}

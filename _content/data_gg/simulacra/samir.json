@@ -1,0 +1,275 @@
+{
+  "name": "Samir",
+  "weapon": "Dual EM Stars",
+  "element": "Volt",
+  "rarity": "SSR",
+  "id": "samir",
+  "global": false,
+  "tier": 1,
+  "tier_constellation": 0,
+  "pvp": 3,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10.7,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "Safe and reliable aerial damage dealer.",
+      "set1": [
+        "Samir",
+        "Claudia"
+      ],
+      "set2": [
+        "Samir"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Dual Fire",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, tap normal attack to attack 5 times in a row.</p>\n<ul>\n<li>First Attack: Deal a total damage equal to 47.1% of ATK + 2.</li>\n<li>Second Attack: Deal total damage equal to 35.8% of ATK + 2.</li>\n<li>Third Attack: Deal total damage equal to 119.7% of ATK +6.</li>\n<li>Fourth Attack: Deal total damage equal to 113.1% of ATK + 6.</li>\n<li>Fifth Attack: Deal total damage equal to 154% of ATK + 8 and launch the target.</li>\n</ul>"
+    },
+    {
+      "name": "Bullet Rain",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, tap normal attack to fire continuously at the ground, dealing damage equal to 50.6% of ATK + 3, each hit consumes 150 endurance."
+    },
+    {
+      "name": "Energy Burst",
+      "icon": true,
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Hold attack button to maintain constant fire, each hit dealing damage equal to 23% of ATK + 1 base damage."
+    },
+    {
+      "name": "Phantom Kick",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "<p>While ariborne, tap and hold normal attack to trigger Phantom Kick.</p>\n<p>Knock the target down and deal damage equal to 70.5% of ATK + 4.</p>\n<p>Upon landing, deal damage equal to 98.7% of ATK + 5 to nearby targets and launch them.</p>"
+    },
+    {
+      "name": "Rising Lightning Kick",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack after dodging to strongly suspend targets and deal damage equal to 122.6% of ATK + 6."
+    },
+    {
+      "name": "Electro Field",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to 269.8% of ATK + 14, and the last hit strongly suspends targets.</p>\n<p>Cooldown: 45 seconds.</p>"
+    },
+    {
+      "name": "Domain of Thunder",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "When weapon charge is full or Phantasia is triggered, remove all debuffs from the wielder, and create a Domain of Thunder at the target location upon switching to this weapon, strongly suspending targets within the area and dealing a total of 238.3% of ATK + 13 damage over 3 attacks to them while dispelling their buffs. The domain lasts for 3.5 seconds and deals damage equal to 42.4% of ATK + 2 to a target every 0.5 seconds."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "type": "Volt",
+    "description": "When the weapon is fully charged, the next attack will paralyze targets for 1 second and electrify them for 6 seconds, negating all buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds."
+  },
+  "advancement": [
+    "<p>Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to 30% of ATK to the target and nearby enemies.</p>\n<p>Cooldown: 0.2 seconds.</p>",
+    "Increase the current weapon's base ATK growth by 16%.",
+    "Increase crit rate to electrified targets by 40%. Electrical explosions extend the duration of electrified effects by 0.5 seconds, up to a maximum of 5 seconds.",
+    "Increase the current weapon's base ATK growth by 32%.",
+    "Double the duration of Electro Field and pull targets into the center of the attack.",
+    "Triggering an electrical explosion reduces skill cooldowns by 1 second."
+  ],
+  "traits": [
+    {
+      "name": "Trickery",
+      "icon": true,
+      "description": "Grant 1 stack of Concentration for every 4 seconds when Samir receives no damage. Each stack increases damage dealt by 3%, and can stack up to 4 times. After being hit, Samir loses 1 stack of Concentration, up to 1 stack per second."
+    },
+    {
+      "name": "Shadows",
+      "icon": true,
+      "description": "Grant 1 stack of Concentration for every 4 seconds when Samir receives no damage. Each stack increases damage dealt by 4%, and can stack up to 5 times. After being hit, Samir loses 1 stack of Concentration, up to 2 stack per second."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "Heart of Lightning",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

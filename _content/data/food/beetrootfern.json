@@ -1,0 +1,24 @@
+{
+  "name": "Beetroot Fern",
+  "uri": "beetrootfern",
+  "imgSrc": "beetrootfern.webp",
+  "rarity": "3",
+  "chinaOnly": true,
+  "effect": "Recovers **10** satiety\nRecovers **15% + 20,000** HP",
+  "recipe": [
+    {
+      "name": "Fiddlehead",
+      "rarity": "3",
+      "uri": "fiddlehead",
+      "imgSrc": "fiddlehead.webp",
+      "amount": 2
+    },
+    {
+      "name": "Beetroot",
+      "rarity": "3",
+      "uri": "beetroot",
+      "imgSrc": "beetroot.webp",
+      "amount": 2
+    }
+  ]
+}

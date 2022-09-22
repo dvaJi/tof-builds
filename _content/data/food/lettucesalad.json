@@ -1,0 +1,24 @@
+{
+  "name": "Lettuce Salad",
+  "uri": "lettucesalad",
+  "imgSrc": "lettucesalad.webp",
+  "rarity": "1",
+  "chinaOnly": false,
+  "effect": "Recovers **5** satiety\nRecovers **10% + 1,500** HP",
+  "recipe": [
+    {
+      "name": "Lettuce",
+      "rarity": "1",
+      "uri": "lettuce",
+      "imgSrc": "lettuce.webp",
+      "amount": 2
+    },
+    {
+      "name": "Salad Dressing",
+      "rarity": "1",
+      "uri": "saladdressing",
+      "imgSrc": "saladdressing.webp",
+      "amount": 1
+    }
+  ]
+}

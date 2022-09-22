@@ -1,0 +1,38 @@
+{
+  "name": "Spicy Fried Rice",
+  "uri": "spicyfriedrice",
+  "imgSrc": "spicyfriedrice.webp",
+  "rarity": "3",
+  "chinaOnly": true,
+  "effect": "Recovers **10** satiety\n**Flame Attack +1%<br>\nFlame Attack 45**<br>\nDuration **900** sec",
+  "recipe": [
+    {
+      "name": "Pepper",
+      "rarity": "3",
+      "uri": "pepper",
+      "imgSrc": "pepper.webp",
+      "amount": 1
+    },
+    {
+      "name": "Fleshy Tail",
+      "rarity": "3",
+      "uri": "fleshytail",
+      "imgSrc": "fleshytail.webp",
+      "amount": 1
+    },
+    {
+      "name": "Poultry Egg",
+      "rarity": "3",
+      "uri": "poultryegg",
+      "imgSrc": "poultryegg.webp",
+      "amount": 1
+    },
+    {
+      "name": "Rice",
+      "rarity": "3",
+      "uri": "rice",
+      "imgSrc": "rice.webp",
+      "amount": 2
+    }
+  ]
+}

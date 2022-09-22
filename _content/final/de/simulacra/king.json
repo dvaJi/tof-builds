@@ -1,0 +1,294 @@
+{
+  "_id": 9,
+  "id": "king",
+  "name": "KING",
+  "weapon": "Sense der Krähe",
+  "weapon_id": "scythe_of_the_crow",
+  "birthday": "3. November (Skorpion)",
+  "birthplace": "Ravager",
+  "gender": "Männlich",
+  "info": "Der widerspenstige und extravagant gekleidete KING ist unübersehbar. Er lässt lieber seine Fäuste als sein Mundwerk sprechen – jeder, der ihm begegnet, wird sofort eingeschüchtert von seiner Aggression. Seine Laune ist mehr als wankelmütig; um so überraschender ist es, dass man gut mit ihm kommunizieren kann.\nKING ist stets auf der Suche nach neuen Abenteuern und ihm sind irdische Güter wichtig. So weiß er Prägnanz und den Wert von Dingen zu schätzen und hasst Lügner und Angeber.\nOft greift KING auf Gewalt zurück, um Probleme zu lösen und zu bekommen, was er haben will. Komplizierte Strategien (ob nun im Kampf oder im Leben) gefallen ihm nicht.\nWer ein wenig Zeit mit KING verbringt erkennt, dass er ein einfacher, starker Kerl ist. Allerdings sollte man ihm dies nicht unbedingt sagen, auch wenn es nicht böse gemeint ist.",
+  "description": "Von allen, die dumm genug waren, die hohen Zinsen des Banges-Unternehmensverbands aufzunehmen, ist KING der einzigartigste Fall. Normalerweise wird jeder, der eine Zahlung nicht begleichen kann, zur Arbeit in die Minen geschickt – aber nicht er.\nEs ist nicht so, dass der Verband es nicht wollte, aber selbst wenn sie hohe Kopfgelder aussetzten und keine Waffen oder Mühen scheuten, konnten sie ihm nichts anhaben.\nAls Söldner, der für seine Kampffähigkeiten bekannt ist, gilt KING als die Verkörperung von Gewalt. Zu kämpfen ist schon seit seiner Kindheit ein Teil von ihm und er ist ein erfahrener Schläger, der sich auf den Kampf gegen viele spezialisiert hat. Er wird für jeden Auftrag reichlich entlohnt, verspielt es aber angeblich sofort.",
+  "like": "Geld; Geld ausgeben; die einfachen Dinge im Leben",
+  "dislike": "Produkte ohne Preisschild",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 12.5,
+  "charge": 5,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Wenn der Anwender auf dem Boden steht und die Sense schwingt, kann er 5-mal hintereinander angreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>57.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>49.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>106.8%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>109.5%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>104.2%</b> des ANG + <b>5</b>, lässt das Ziel <b>länger schweben</b> und den Wanderer in die Luft steigen."
+    },
+    {
+      "name": "Sensen-Aufschwung",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, greife 5 Mal hintereinander an.\nErster Angriff: verursacht Schaden in Höhe von <b>63.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>68.8%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>190.5%</b> des ANG + <b>10</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>213.6%</b> des ANG + <b>11</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>173.9%</b> des ANG + <b>9</b> und schlägt das Ziel nieder. Je höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+    },
+    {
+      "name": "Zerschlagen",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Zerschlagen“ auszulösen.\nFügt beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>71.9%</b> des ANG + <b>4</b> und löst einen <b>Knockdown</b> aus.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+    },
+    {
+      "name": "Bumerang-Kettenklinge",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums des perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>137.4%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
+    },
+    {
+      "name": "Schleichattacke",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+    },
+    {
+      "name": "Bumerang-Kettenklinge",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums des perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>126.9%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
+    },
+    {
+      "name": "Domäne der Fledermaus",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Beschwöre beim Ausweichen einen „Fledermaus-Sturm“, der das Ziel in die Mitte zieht. Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um die Sense zu schwingen und dem Ziel bis zu <b>114.3%</b> des ANG + <b>6</b> Schaden zuzufügen."
+    },
+    {
+      "name": "Todesspirale",
+      "type": [
+        "Skill"
+      ],
+      "description": "Schwinge die Sense, um Schaden in Höhe von <b>499.9%</b> des ANG + <b>26</b> zu verursachen. Abklingzeit: <b>45</b> Sek."
+    },
+    {
+      "name": "Flammensense",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und eine Flammensense erzeugt. Dies verursacht Schaden in Höhe von <b>398.3%</b> des ANG + <b>21</b> und hält <b>10</b> Sek. an. Außerdem werden alle <b>2</b> Sek. Flammensensen-Gebiet erzeugt. Die Sensen erzeugen Vulkanausbrüche am Boden, die Zielen Schaden in Höhe von <b>66%</b> des ANG + <b>3</b> zufügen und sie schweben lassen."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flamme",
+    "description": "Voll geladene Waffen entzünden das Ziel beim nächsten Angriff für <b>8</b> Sekunden und verursachen kontinuierlich Schaden in Höhe von <b>{3}%</b> des ANG pro Sekunde. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+  },
+  "advancement": [
+    "Erhöht „Zertrümmern“ um <b>15%</b>. Wenn der Schild des Ziels zertrümmert wurde, erleidet das Ziel <b>15</b> Sek. lang pro Sek. Verbrennenschaden in Höhe von <b>120%</b> des ANG.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Erhöht den verursachten Schaden für jeden Gegner innerhalb von <b>6</b> Metern um <b>10%</b> (maximal <b>30%</b>).",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Erhöht den Schaden gegen LP-Schilde oder Gegner mit Schild um <b>100%</b>.",
+    "Erhöht den verursachten Schaden für jeden getöteten Gegner <b>30</b> Sek. lang um <b>10%</b> (kann bis zu <b>3</b>-mal gestapelt werden)."
+  ],
+  "traits": [
+    {
+      "name": "KING: Kaltblütiger Hieb",
+      "icon": true,
+      "description": "Für jede <b>7</b> Gegner, die King besiegt, werden LP in Höhe von <b>8%</b> der max. LP wiederhergestellt."
+    },
+    {
+      "name": "KING – Angstschnitter",
+      "icon": true,
+      "description": "Für jede <b>5</b> Gegner, die King besiegt, werden LP in Höhe von <b>10%</b> der max. LP wiederhergestellt."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Herz aus Lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Säurefeste Glasur II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

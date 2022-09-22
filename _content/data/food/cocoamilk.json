@@ -1,0 +1,31 @@
+{
+  "name": "Cocoa Milk",
+  "uri": "cocoamilk",
+  "imgSrc": "cocoamilk.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\n**Ice Resistance +10%<br>\nIce Resistance +290**<br>\nDuration **900** sec",
+  "recipe": [
+    {
+      "name": "Cocoa Beans",
+      "rarity": "3",
+      "uri": "cocoabeans",
+      "imgSrc": "cocoabeans.webp",
+      "amount": 2
+    },
+    {
+      "name": "Honey",
+      "rarity": "3",
+      "uri": "honey",
+      "imgSrc": "honey.webp",
+      "amount": 2
+    },
+    {
+      "name": "Milk",
+      "rarity": "3",
+      "uri": "milk",
+      "imgSrc": "milk.webp",
+      "amount": 1
+    }
+  ]
+}

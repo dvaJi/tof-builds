@@ -1,0 +1,277 @@
+{
+  "_id": 8,
+  "id": "huma",
+  "name": "Huma",
+  "weapon": "Molten Shield V2",
+  "weapon_id": "molten_shield_v2",
+  "birthday": "12 Januari (Capricorn)",
+  "birthplace": "Hykros",
+  "gender": "Perempuan",
+  "info": "Terkadang terlihat bingung atau linglung karena kehilangan sebagian ingatan dan data identitasnya. Sering mengenakan masker di mulutnya, membuat komunikasi bertambah sulit. Sangat pendiam dan penyendiri.\nDengan sedikit pengalaman di dunia luar, dia lugu seperti anak burung dan memancarkan aura yang dingin.",
+  "description": "Gadis dengan penyakit yang menganugerahinya kekuatan aneh, tengah mendapat perawatan di Hykros.\nUntuk alasan tertentu, Huma kehilangan semua ingatan masa lalunya, juga kepribadiannya dulu. Sejak tersadar, pengetahuan Huma tentang dunia hanya sebatas Hykros. Lainnya hanya akan membuatnya agak takut dan gelisah.\nSaat ini, hubungan pribadi Huma hanya terjalin dengan peneliti medis yang telah dikenalnya selama dia dirawat. Para peneliti ini menyarankan kepada Huma untuk menemani yang lain menjelajahi dunia luar. Harapannya, dia bisa berangsur kembali ke kehidupan normalnya. Namun, Huma membuat keputusan yang mencengangkan — memilih dilatih menjadi Executor Hykros.\nAlasannya sederhana dan lugu — dia merasa aman saat berada di tengah-tengah Executor, dan ingin menggunakan kemampuannya untuk membalas kebaikan Hykros.",
+  "like": "Membaca, damai dan tenang, berkebun",
+  "dislike": "Unknown",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Tank",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan kapak perisai untuk menyerang 4 kali berturut-turut.\nSerangan Pertama dalam Shield Form: Timpakan damage sebanyak <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>56.9%</b> ATK + <b>3</b> pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>62.8%</b> ATK + <b>3</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>184%</b> ATK + <b>10</b> dan buat target terpental.</>.\nSerangan Pertama dalam Axe Form: Timpakan damage sebanyak <b>135.2%</b> ATK + <b>7</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>79.4%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>119.9%</b> ATK + <b>6</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>221.3%</b> ATK + <b>12</b> dan pukul mundur target."
+    },
+    {
+      "name": "Aerial Strike",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>75.9%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimpakan damage sebanyak <b>80.2%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan damage sebanyak <b>103%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimpakan damage sebanyak <b>118.6%</b> ATK + <b>6</b> dan mengakibatkan <b>Knockdown</b>, dan akan membuat musuh terpental setelah mendarat."
+    },
+    {
+      "name": "Anticipation",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Shield Form: Saat di darat, ketuk dan tahan Normal Attack untuk memasuki Shield Form (lepaskan untuk keluar) selama <b>3</b> detik. Selama itu, Wanderer tidak bisa bergerak, dan semua damage yang diterima berkurang sebanyak <b>50%</b>. Saat dalam Shield Form, melepaskan tombol Normal Attack setelah menerima damage atau setelah menahan tombol selama <b>3</b> detik, lepaskan Fire Crash, menimbulkan damage sebanyak <b>167.3%</b> ATK + <b>9</b> dan menimbulkan efek <b>Stun</b> kepada target selama <b>1</b> detik.\nAxe Form: Hancurkan target, menimbulkan damage sebanyak <b>122.2%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target."
+    },
+    {
+      "name": "Valor",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan serangan Air Branch.\nShield Form: Saat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>89.2%</b> ATK + <b>5</b> dan buat target kena Suspend.\nAxe Form: Saat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>128.3%</b> ATK + <b>7</b> dan mengakibatkan Suspend kepada target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+    },
+    {
+      "name": "Erupt",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Dodge Attack.\nShield Form: Lepaskan perisai api untuk menimbulkan damage sebanyak <b>55.8%</b> ATK + <b>3</b> dan memukul mundur target. Selain itu, mengaktifkan ledakan yang menimbulkan damage sebanyak <b>{0}%</b> ATK + <b>{1}</b>, memberikan efek <b>Stun</b> kepada target selama <b>0,5</b> detik, dan mengurangi efek Healing berikutnya kepada target sebanyak <b>30%</b> selama <b>10</b> detik.\nAxe Form: Ayunkan kapak untuk menimbulkan damage sebanyak <b>55.8%</b> ATK + <b>3</b>, dan mengurangi efek Healing berikutnya kepada sebanyak <b>30%</b> selama <b>10</b> detik."
+    },
+    {
+      "name": "Fission",
+      "type": [
+        "Skill"
+      ],
+      "description": "Shield Conversion: Beralih dari Shield Form ke Axe Form dan menghantam tanah sehingga menimbulkan damage sebanyak <b>373.8%</b> ATK + <b>20</b> dan mengakibatkan <b>Suspend Keras</b> kepada target. Meninggalkan zona api besar selama <b>5</b> detik yang akan membakar target, dan menimbulkan damage terus-menerus sebanyak <b>233.6%</b> ATK + <b>12</b>.\nAxe Conversion: Beralih dari bentuk kapak ke bentuk perisai dan menghantamkannya ke tanah, menimbulkan damage sebanyak <b>309.5%</b> ATK + <b>16</b> kepada target dan memukul mereka mundur. Membuat target tidak bisa berganti senjata selama <b>5</b> detik.\nCooldown: <b>25</b> detik untuk Shield Conversion sekaligus Axe Conversion."
+    },
+    {
+      "name": "Seething Rage",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Flame Shockwave setelah beralih ke senjata ini, menimpakan damage sebanyak <b>352%</b> ATK + <b>19</b>. Memberikan Taunt kepada musuh selama <b>5</b> detik, dan selama itu akan mendapatkan <b>15%</b> Damage Reduction. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek bertahan <b>20</b> detik dan selama <b>10</b> detik akan memberikan <b>5%</b> Damage Reduction (bisa ditumpuk), dan memulihkan Dodge sebanyak 1."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>{3}%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+  },
+  "advancement": [
+    "Mendapatkan Strong Shield setelah menggunakan Discharge: Seething Rage. Jika menggunakan Dodge Skill atau Branch Skill selama dalam Shield Form, akan mendapatkan satu tumpuk Strong Shield, yang akan memberikan <b>10%</b> Damage Reduction selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Axe Form, semua tumpukan Strong Shield akan berubah menjadi tumpukan Sharp Axe, yang masing-masing akan meningkatkan damage sebanyak <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Selama dalam wujud perisai, Branch/Dodge Attack akan menimpakan damage tambahan kepada target sebanyak <b>4%</b> dari HP saat ini pengguna.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang sebanyak <b>10%</b> setiap <b>3</b> detik, hingga minimum <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
+    "Meningkatkan Conversion Skill.\nShield Enhancement: Meningkatkan damage yang ditimbulkan sebanyak <b>60%</b> dan memperluas radius zona Flame sebanyak <b>30%</b>.\nAxe Enhancement: Cooldown tidak sama dengan Shield Enhancement. Selama <b>5</b> detik selanjutnya setelah menggunakan skill ini, semua damage yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
+  ],
+  "traits": [
+    {
+      "name": "Huma: Fortitude",
+      "icon": true,
+      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP."
+    },
+    {
+      "name": "Huma: Iron Screen",
+      "icon": true,
+      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,9%</b> HP."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Heart of Lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

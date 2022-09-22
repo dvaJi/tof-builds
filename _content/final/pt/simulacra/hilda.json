@@ -1,0 +1,131 @@
+{
+  "_id": 7,
+  "id": "hilda",
+  "name": "Hilda",
+  "weapon": "Exterminadora",
+  "weapon_id": "the_terminator",
+  "birthday": "11 de abril (Áries)",
+  "birthplace": "Banges",
+  "gender": "Feminino",
+  "info": "Uma jovem fervorosa e sincera. Despreocupada e informal. Popular entre as outras pessoas.\nNão faz discriminação de idade ou gênero e trata todo mundo igual. Se dá bem com qualquer pessoa, independentemente de serem adultos ou crianças. Considera Téo, o filho do diretor da Banges Tech, como um amigo querido.\nÀs vezes pode ser um pouco seca e insensível e frequentemente se esquece das coisas (inclusive suas próprias armas).",
+  "description": "Hilda é a \"estrela\" do Porto de Banges, onde seu nome é conhecido por todos.\nBanges é o seu lar, e sente que deve protegê-lo a qualquer custo.\nHilda não tem carreira estabelecida e prefere perambular pelo porto fazendo um serviço aqui, outro ali para as lojas, ocasionalmente se aventurando em serviços de patrulha e de vigilância. Quando está cansada, ela tira uma folga para comer e recarregar as baterias.",
+  "like": "Frango frito, festas, pechinchar",
+  "dislike": "Planos de vida",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal para acionar o modo de mira. Segure o botão de ataque normal para atirar sem parar, até no máximo <b>40</b> projéteis. Cada tiro causa dano de <b>11.4%</b> do ATQ + <b>1</b>. Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
+    },
+    {
+      "name": "Torreta",
+      "type": [
+        "Skill"
+      ],
+      "description": "Aciona o modo torreta e dispara grandes orbes de energia. Cada um causa dano de <b>213.3%</b> do ATQ + <b>11</b> e lança o alvo no ar. Enquanto instala a torreta, fica imune a interrupção e efeitos incapacitantes. Tempo de recarga: <b>3.5</b> seg."
+    },
+    {
+      "name": "Feixe Gélido",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e dispara um feixe gélido ao trocar para esta arma. Causa dano de <b>329.2%</b> do ATQ + <b>17</b> e inflige um efeito de <b>congelamento</b> durante <b>3</b> segundos. Além disso, reduz a resistência a gelo do alvo em <b>50%</b> durante <b>10</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Casca de Gelo",
+    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>111%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+  },
+  "advancement": [
+    "Cada ataque normal bem-sucedido aumenta o dano em <b>1%</b> durante <b>2</b> segundos (acumula até <b>15</b> vezes). Aumenta a munição para <b>60</b>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>10%</b>.",
+    "Durante <b>10</b> segundos após alternar de arma, aumenta em <b>30%</b> o dano de ataques normais e o despedaçar. Tempo de recarga: <b>25</b> seg. Aumenta a munição para <b>80</b>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>20%</b>.",
+    "Reduz em <b>2</b> segundos a recarga de ataques normais durante o modo torreta.",
+    "Durante <b>10</b> segundos após trocar de arma, aumenta em <b>60%</b> o dano de ataques normais e o despedaçar. Tempo de recarga: <b>25</b> seg."
+  ],
+  "traits": [
+    {
+      "name": "Hilda: Pé na Tábua",
+      "icon": true,
+      "description": "Quando Hilda usa um veículo, aumenta a velocidade em <b>7%</b>."
+    },
+    {
+      "name": "Hilda: Velocidade Máxima",
+      "icon": true,
+      "description": "Quando Hilda usa um veículo, aumenta a velocidade em <b>10%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

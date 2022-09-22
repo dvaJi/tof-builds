@@ -1,0 +1,1950 @@
+[
+  {
+    "_locid": "CH15_Bai Ling",
+    "id": "bailing",
+    "element": "Physical",
+    "weapon": "Nightingale's Feather",
+    "rarity": "SR",
+    "role": "Main DPS",
+    "soon": false,
+    "new": false,
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 10,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "A Main DPS that revolves around dodge attacks with her 5th advancement, becoming a relying source of the grievous debuff.",
+        "set1": ["Samir"],
+        "set2": ["Samir", "Tsubasa"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerBowMeleeNew_R_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerBowMeleeNew_R_Melee_des",
+        "values": [33.7, 2, 30.2, 2, 54.3, 3, 83.5, 4, 77.7, 4]
+      },
+      {
+        "name": "GA_FPlayerBowMeleeNew_R_Power_name",
+        "icon": true,
+        "type": ["Hold: Attack"],
+        "description": "GA_FPlayerBowMeleeNew_R_Power_des",
+        "values": [60.5, 3]
+      },
+      {
+        "name": "GA_FPlayerBowMeleeNew_R_Branch_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_FPlayerBowMeleeNew_R_Branch_des",
+        "values": [198.7, 10]
+      },
+      {
+        "name": "GA_FPlayerBowMeleeNew_R_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerBowMeleeNew_R_AirAttack_des",
+        "values": [38.8, 2, 51, 3, 77.7, 4, 117, 6]
+      },
+      {
+        "name": "GA_FPlayerBowEvadeNew_R_Attack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerBowEvadeNew_R_Attack_des",
+        "values": [85.5, 5]
+      },
+      {
+        "name": "GA_FPlayerBowSkill_R_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerBowSkill_R_des",
+        "values": [154.8, 8, 12]
+      },
+      {
+        "name": "GA_FPlayerBowChangeSkill_R_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerBowChangeSkill_R_Sucess_des",
+        "values": [486.6, 26]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_charge_1_0",
+      "type": "Physical",
+      "description": "ui_weapon_charge_1_desc_0",
+      "values": [0, 100]
+    },
+    "advancement": [
+      "Buff_BowPhy_SR_level1_des",
+      "Weapon_level2_atkup_sr",
+      "Buff_BowPhy_SR_level3_des",
+      "Weapon_level4_atkup_sr",
+      "Buff_BowPhy_SR_level5_des",
+      "Buff_BowPhy_SR_level6_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_bailing_level1_name",
+        "icon": true,
+        "description": "buff_bailing_level1"
+      },
+      {
+        "name": "buff_bailing_level2_name",
+        "icon": true,
+        "description": "buff_bailing_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "250",
+        "mat1": {
+          "name": "rockcore",
+          "rarity": "N",
+          "amount": "1"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "500",
+        "mat1": {
+          "name": "rockcore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "750",
+        "mat1": {
+          "name": "rockcore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1000",
+        "mat1": {
+          "name": "rockcore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "3"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "2"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH07_Cocoritter",
+    "id": "cocoritter",
+    "name": "Cocoritter",
+    "weapon": "Absolute Zero",
+    "element": "Ice",
+    "rarity": "SSR",
+    "global": false,
+    "tier": 2,
+    "tier_constellation": 1,
+    "pvp": 1,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Utility",
+    "soon": false,
+    "new": false,
+    "resonance": "Support",
+    "shatter": 4,
+    "charge": 12.5,
+    "skills": [
+      {
+        "name": "GA_FPlayerStavesMeleeIce_SSR_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerStavesMeleeIce_SSR_des",
+        "values": [54.4, 3, 40.8, 2, 65.6, 3, 89.7, 5, 158.4, 8]
+      },
+      {
+        "name": "GA_FPlayerStavesMeleeIce_SSR_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerStavesMeleeIce_SSR_AirAttack_des",
+        "values": [70.5, 4, 50.8, 3, 55.1, 3, 99.1, 5, 103.2, 5]
+      },
+      {
+        "name": "GA_FPlayerStavesMeleeIce_SSR_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Hold: Attack"],
+        "description": "GA_FPlayerStavesMeleeIce_SSR_JumpAttack_des",
+        "values": [123.8, 7]
+      },
+      {
+        "name": "GA_FPlayerStavesMeleeIce_SSR_Branch_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_FPlayerStavesMeleeIce_SSR_Branch_des",
+        "values": [34.9, 2, 40.4, 2]
+      },
+      {
+        "name": "GA_FPlayerStavesEvadeIce_SSR_FrontAttack_name",
+        "icon": true,
+        "type": ["Perfect Dodge", "Attack"],
+        "description": "GA_FPlayerStavesEvadeIce_SSR_FrontAttack_des",
+        "values": [45.9, 2]
+      },
+      {
+        "name": "GA_FPlayerStavesEvadeIce_SSR_BackAttack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerStavesEvadeIce_SSR_BackAttack_des",
+        "values": [66.4, 3]
+      },
+      {
+        "name": "GA_FPlayerStavesSkillIce_SSR_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerStavesSkillIce_SSR_des",
+        "values": [95, 5]
+      },
+      {
+        "name": "GA_FPlayerStavesChangeSkillIce_SSR_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerStavesChangeSkillIce_SSR_Sucess_des",
+        "values": [0, 0, 118.8, 6]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_element_type_3",
+      "type": "Ice",
+      "description": "ui_weapon_charge_3_desc_0",
+      "values": [0, 151]
+    },
+    "advancement": [
+      "Buff_StavesIce_SSR_Level1_des",
+      "Weapon_level2_hpup_ssr",
+      "Buff_StavesIce_SSR_Level3_des",
+      "Weapon_level4_hpup_ssr",
+      "Buff_StavesIce_SSR_Level5_des",
+      "Buff_StavesIce_SSR_Level6_OS_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_cocoritter_level1_name",
+        "icon": true,
+        "description": "buff_cocoritter_level1"
+      },
+      {
+        "name": "buff_cocoritter_level2_name",
+        "icon": true,
+        "description": "buff_cocoritter_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "400",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "800",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "1200",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1600",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "3"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "5",
+        "level": "50",
+        "cost": "2000",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "4"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "4"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "6",
+        "level": "60",
+        "cost": "2400",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "6"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "6"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "6"
+        }
+      },
+      {
+        "ascension": "7",
+        "level": "70",
+        "cost": "2800",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "8"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "8"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "8"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3200",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "11"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "11"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "11"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3600",
+        "mat1": {
+          "name": "heart_of_winter",
+          "rarity": "R",
+          "amount": "5"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_ii",
+          "rarity": "SR",
+          "amount": "5"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_ii",
+          "rarity": "SSR",
+          "amount": "5"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH11_Karasuma",
+    "name": "Crow",
+    "weapon": "Thunderblades",
+    "element": "Volt",
+    "rarity": "SSR",
+    "id": "crow",
+    "global": false,
+    "tier": 2,
+    "tier_constellation": 3,
+    "pvp": 2,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Main DPS",
+    "soon": false,
+    "new": false,
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 8,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "A high skill ceiling unit that relies on crit and excels at executing targets below 60% HP.",
+        "set1": ["Samir", "Claudia"],
+        "set2": ["Samir"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerDSMeleeThu_SSR_Melee_des",
+        "values": [60.1, 3, 73, 4, 90.9, 5, 96.8, 5, 202.2, 11]
+      },
+      {
+        "name": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerDSMeleeThu_SSR_AirAttack_des",
+        "values": [65.6, 3, 38.4, 2, 92, 5, 138, 7]
+      },
+      {
+        "name": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_FPlayerDSMeleeThu_SSR_Branch_des",
+        "values": [116.8, 6]
+      },
+      {
+        "name": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Hold: Attack"],
+        "description": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_des",
+        "values": [42, 2]
+      },
+      {
+        "name": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
+        "icon": true,
+        "type": ["Croch", "Attack"],
+        "description": "GA_FPlayerSwordMelee_SSR_Sneak_des",
+        "values": [570, 30]
+      },
+      {
+        "name": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
+        "icon": true,
+        "type": ["Perfect Dodge", "Attack"],
+        "description": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_des",
+        "values": [26.4, 1]
+      },
+      {
+        "name": "GA_FPlayerDSSkillThu_SSR_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerDSSkillThu_SSR_des",
+        "values": [52.8, 3]
+      },
+      {
+        "name": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_des",
+        "values": [86.9, 5, 65.2, 3]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_element_type_4",
+      "type": "Volt",
+      "description": "ui_weapon_charge_4_desc_0",
+      "values": [0, 144]
+    },
+    "advancement": [
+      "Buff_DsThu_SSR_Level1_des",
+      "Weapon_level2_atkup_ssr",
+      "Buff_DsThu_SSR_Level3_des",
+      "Weapon_level4_hpup_ssr",
+      "Buff_DsThu_SSR_Level5_des",
+      "Buff_DsThu_SSR_Level6_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_karasuma_level1_name",
+        "icon": true,
+        "description": "buff_karasuma_level1"
+      },
+      {
+        "name": "buff_karasuma_level2_name",
+        "icon": true,
+        "description": "buff_karasuma_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "400",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "800",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "1200",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1600",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "3"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "5",
+        "level": "50",
+        "cost": "2000",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "4"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "4"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "6",
+        "level": "60",
+        "cost": "2400",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "6"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "6"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "6"
+        }
+      },
+      {
+        "ascension": "7",
+        "level": "70",
+        "cost": "2800",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "8"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "8"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "8"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3200",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "11"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "11"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "11"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3600",
+        "mat1": {
+          "name": "heart_of_lightning",
+          "rarity": "R",
+          "amount": "5"
+        },
+        "mat2": {
+          "name": "nano_coating_ii",
+          "rarity": "SR",
+          "amount": "5"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_ii",
+          "rarity": "SSR",
+          "amount": "5"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH13_Manaka",
+    "name": "Echo",
+    "weapon": "Thunderous Halberd",
+    "element": "Volt",
+    "rarity": "SR",
+    "id": "echo",
+    "global": false,
+    "tier": 5,
+    "tier_constellation": 1,
+    "pvp": 3,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Shieldbreaking",
+    "soon": false,
+    "new": false,
+    "resonance": "DPS",
+    "shatter": 11,
+    "charge": 7,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "A solid shieldbreaking unit with the third highest shatter stat currently in the game.",
+        "set1": ["King", "Shiro"],
+        "set2": ["Robarg"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerSpearMeleeThu_SSR_Melee_des",
+        "values": [24.7, 1, 22.6, 1, 47.2, 2, 65.2, 3, 114.95, 6]
+      },
+      {
+        "name": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_des",
+        "values": [27.4, 1, 23.2, 1, 45.8, 2, 110, 6]
+      },
+      {
+        "name": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_des",
+        "values": [8, 1, 48.5, 3]
+      },
+      {
+        "name": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_FPlayerSpearMeleeThu_SSR_Branch_des",
+        "values": [49.2, 3, 98, 5]
+      },
+      {
+        "name": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
+        "icon": true,
+        "type": ["Croch", "Attack"],
+        "description": "GA_FPlayerDSMeleeThu_SSR_Sneak_des",
+        "values": [570, 30]
+      },
+      {
+        "name": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
+        "icon": true,
+        "type": ["Perfect Dodge", "Attack"],
+        "description": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_des",
+        "values": [72, 4]
+      },
+      {
+        "name": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_des",
+        "values": [52.8, 3]
+      },
+      {
+        "name": "GA_FPlayerSpearSkillThu_SSR_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerSpearSkillThu_SSR_des",
+        "values": [127.5, 7]
+      },
+      {
+        "name": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_des",
+        "values": [296.7, 16]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_elemental_type_3",
+      "type": "Volt",
+      "description": "ui_weapon_charge_4_desc_0",
+      "values": [0, 106]
+    },
+    "advancement": [
+      "Buff_SpearThu_SSR_Level1_des",
+      "Weapon_level2_hpup_sr",
+      "Buff_SpearThu_SSR_Level3_des",
+      "Weapon_level4_atkup_sr",
+      "Buff_SpearThu_SSR_Level5_des",
+      "Buff_SpearThu_SSR_Level6_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_manaka_level1_name",
+        "icon": true,
+        "description": "buff_manaka_level1"
+      },
+      {
+        "name": "buff_manaka_level2_name",
+        "icon": true,
+        "description": "buff_manaka_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "250",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "1"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "500",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "750",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1000",
+        "mat1": {
+          "name": "magcore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "2"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "2"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH12_Xi",
+    "name": "Ene",
+    "weapon": "Pummeler",
+    "element": "Ice",
+    "rarity": "SR",
+    "id": "ene",
+    "global": false,
+    "tier": 4,
+    "tier_constellation": 3,
+    "pvp": 4,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Tank",
+    "soon": false,
+    "new": false,
+    "resonance": "Defense",
+    "shatter": 10,
+    "charge": 6,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "A free to play friendly tank with a reliable taunt and a powerful dodge attack when paired with the Huma matrix set.",
+        "set1": ["Huma"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerHammerMelee_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerHammerMelee_Melee_des",
+        "values": [76.3, 4, 62.1, 3, 157.4, 8, 263.8, 14]
+      },
+      {
+        "name": "GA_FPlayerHammerMelee_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerHammerMelee_AirAttack_des",
+        "values": [121.7, 6, 133.9, 7]
+      },
+      {
+        "name": "GA_FPlayerHammerMelee_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Hold: Attack"],
+        "description": "GA_FPlayerHammerMelee_JumpAttack_des",
+        "values": [34.8, 2, 38.3, 2]
+      },
+      {
+        "name": "GA_FPlayerHammerSneak_name",
+        "icon": true,
+        "type": ["Croch", "Attack"],
+        "description": "GA_FPlayerHammerSneak_des",
+        "values": [427.5, 23]
+      },
+      {
+        "name": "GA_FPlayerHammerPower_name",
+        "icon": true,
+        "type": ["Hold: Attack"],
+        "description": "GA_FPlayerHammerPower_des",
+        "values": [110, 6, 276, 15, 518, 27, 501.6, 26]
+      },
+      {
+        "name": "GA_FPlayerHammerEvade_FrontAttack_name",
+        "icon": true,
+        "type": ["Dodge"],
+        "description": "GA_FPlayerHammerEvade_FrontAttack_des",
+        "values": [161.6, 9]
+      },
+      {
+        "name": "GA_FPlayerHammerEvade_BackAttack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerHammerEvade_BackAttack_des",
+        "values": [52.4, 3, 52.4, 3]
+      },
+      {
+        "name": "GA_FPlayerHammerSkill_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerHammerSkill_des",
+        "values": [219, 12, 45]
+      },
+      {
+        "name": "GA_FPlayerHammerIceChangeSkill_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerHammerIceChangeSkill_Sucess_des",
+        "values": [153.3, 8, 153.3, 8]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_element_type_3",
+      "type": "Ice",
+      "description": "ui_weapon_charge_3_desc_0",
+      "values": [0, 111]
+    },
+    "advancement": [
+      "Buff_HammerIce_SR_Level1_des",
+      "Weapon_level2_hpup_sr",
+      "Buff_HammerIce_SR_Level3_des",
+      "Weapon_level4_hpup_sr",
+      "Buff_HammerIce_SR_Level5_des",
+      "Buff_HammerIce_SR_Level6_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_xi_level1_name",
+        "icon": true,
+        "description": "buff_xi_level1"
+      },
+      {
+        "name": "buff_xi_level2_name",
+        "icon": true,
+        "description": "buff_xi_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "250",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "1"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "500",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "750",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1000",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "2"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "2"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH28_Freyja",
+    "id": "frigg",
+    "element": "Ice",
+    "weapon": "Balmung",
+    "rarity": "SSR",
+    "tier": 1,
+    "tier_constellation": 0,
+    "pvp": 1,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Main DPS",
+    "shatter": 8,
+    "charge": 8,
+    "builds": [
+      {
+        "set1": ["frigg"],
+        "set2": ["samir"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_PlayerFriggMelee_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_PlayerFriggMelee_Melee_des",
+        "values": [62.1, 3, 46.2, 2, 91.1, 5, 55.8, 3, 218.4, 11]
+      },
+      {
+        "name": "GA_PlayerFriggMelee_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_PlayerFriggMelee_AirAttack_des",
+        "values": [64.4, 3, 72.6, 4, 76.7, 4, 107.9, 6, 168.3, 9]
+      },
+      {
+        "name": "GA_PlayerFriggMelee_Branch_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_PlayerFriggMelee_Branch_des",
+        "values": [134.3, 7]
+      },
+      {
+        "name": "GA_PlayerFriggMelee_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Hold: Attack"],
+        "description": "GA_PlayerFriggMelee_JumpAttack_des",
+        "values": [19.8, 1, 185.7, 10]
+      },
+      {
+        "name": "GA_FPlayerFriggEvade_BackAttack_name",
+        "icon": true,
+        "type": ["Perfect Dodge", "Attack"],
+        "description": "GA_FPlayerFriggEvade_BackAttack_des",
+        "values": [143.9, 8]
+      },
+      {
+        "name": "GA_FPlayerFriggSkill_Skill_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerFriggSkill_Skill_Overseas_des_OS",
+        "values": [577.5, 30]
+      },
+      {
+        "name": "GA_FPlayerFriggChangeSkill_Success_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerFriggChangeSkill_Success_des",
+        "values": [618.2, 33]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_charge_3_0",
+      "type": "Ice",
+      "description": "ui_weapon_charge_3_desc_0",
+      "values": [0, 111]
+    },
+    "weapon_resonance": {
+      "name": "Buff_Frigg_Ice_Resonance_Overseas_name",
+      "type": "Ice",
+      "description": "Buff_Frigg_Ice_Resonance_Overseas_des",
+      "values": []
+    },
+    "advancement": [
+      "Buff_FriggIce_SSR_Level1_des",
+      "Weapon_level2_hpup_ssr",
+      "Buff_FriggIce_SSR_Level3_des_OS",
+      "Weapon_level4_atkup_ssr",
+      "Buff_FriggIce_SSR_Level5_des",
+      "Buff_FriggIce_SSR_Level6_des"
+    ],
+    "traits": [
+      {
+        "name": "Buff_Frigg_level1_name",
+        "description": "Buff_Frigg_level1"
+      },
+      {
+        "name": "Buff_Frigg_level2_name",
+        "description": "Buff_Frigg_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "400",
+        "mat1": {
+          "id": "icecore",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "800",
+        "mat1": {
+          "id": "icecore",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "1200",
+        "mat1": {
+          "id": "icecore",
+          "amount": "3"
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1600",
+        "mat1": {
+          "id": "icecore",
+          "amount": "3"
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "amount": "3"
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "5",
+        "level": "50",
+        "cost": "2000",
+        "mat1": {
+          "id": "icecore",
+          "amount": "4"
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "amount": "4"
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "6",
+        "level": "60",
+        "cost": "2400",
+        "mat1": {
+          "id": "icecore",
+          "amount": "6"
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "amount": "6"
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "amount": "6"
+        }
+      },
+      {
+        "ascension": "7",
+        "level": "70",
+        "cost": "2800",
+        "mat1": {
+          "id": "icecore",
+          "amount": "8"
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "amount": "8"
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "amount": "8"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3200",
+        "mat1": {
+          "id": "icecore",
+          "amount": "11"
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "amount": "11"
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "amount": "11"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3600",
+        "mat1": {
+          "id": "heart_of_winter",
+          "amount": "5"
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "amount": "5"
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "amount": "5"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH14_Hilda",
+    "name": "Hilda",
+    "weapon": "The Terminator",
+    "element": "Ice",
+    "rarity": "SR",
+    "id": "hilda",
+    "global": false,
+    "tier": 5,
+    "tier_constellation": 6,
+    "pvp": 5,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Main DPS",
+    "soon": false,
+    "new": false,
+    "resonance": "DPS",
+    "shatter": 10,
+    "charge": 10,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "A Main DPS unit that wants to stack normal attack damage via advancements and matrices.",
+        "set1": ["Samir"],
+        "set2": ["Samir", "Tsubasa"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerCannonMelee_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerCannonMelee_Melee_des",
+        "values": [11.4, 1]
+      },
+      {
+        "name": "GA_FPlayerCannonSkill_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerCannonSkill_des",
+        "values": [213.3, 11, 3.5]
+      },
+      {
+        "name": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerCannonChangeSkill_New_Sucess_des",
+        "values": [329.2, 17]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_element_type_3",
+      "type": "Ice",
+      "description": "ui_weapon_charge_3_desc_0",
+      "values": [0, 111]
+    },
+    "advancement": [
+      "Buff_CannonIce_SR_Level1_des",
+      "Weapon_level2_atkup_sr",
+      "Buff_CannonIce_SR_Level3_des",
+      "Weapon_level4_atkup_sr",
+      "Buff_CannonIce_SR_Level5_des",
+      "Buff_CannonIce_SR_Level6_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_hilda_level1_name",
+        "icon": true,
+        "description": "buff_hilda_level1"
+      },
+      {
+        "name": "buff_hilda_level2_name",
+        "icon": true,
+        "description": "buff_hilda_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "250",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "1"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "500",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "750",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1000",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "2"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "2"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH03_Huma",
+    "name": "Huma",
+    "weapon": "Molten Shield V2",
+    "element": "Fire",
+    "rarity": "SSR",
+    "id": "huma",
+    "global": false,
+    "tier": 3,
+    "tier_constellation": 1,
+    "pvp": 2,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Tank",
+    "soon": false,
+    "new": false,
+    "resonance": "Defense",
+    "shatter": 10,
+    "charge": 10,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "A defensive unit that fills the tank role well thanks to her constant CC and damage reduction.",
+        "set1": ["Huma"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerShieldMelee_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerShieldMelee_Melee_des",
+        "values": [
+          77.7, 4, 56.9, 3, 62.8, 3, 184, 10, 135.2, 7, 79.4, 4, 119.9, 6,
+          221.3, 12
+        ]
+      },
+      {
+        "name": "GA_FPlayerBigSwordMelee_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerBigSwordMelee_AirAttack_des",
+        "values": [75.9, 4, 80.2, 4, 103, 5, 118.6, 6, 91.1, 5, 277.9, 15]
+      },
+      {
+        "name": "GA_FPlayerShieldMelee_PowerAttack_name",
+        "icon": true,
+        "type": ["Hold: Attack"],
+        "description": "GA_FPlayerShieldMelee_PowerAttack_des",
+        "values": [167.3, 9, 122.2, 6]
+      },
+      {
+        "name": "GA_FPlayerShieldMelee_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Hold: Attack"],
+        "description": "GA_FPlayerShieldMelee_JumpAttack_des",
+        "values": [12.5, 1, 89.2, 5, 12.5, 1, 128.3, 7]
+      },
+      {
+        "name": "GA_FPlayerShieldEvade_EvadeAttack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerShieldEvade_EvadeAttack_OS_des",
+        "values": [55.8, 3, 55.8, 3, 226.3, 12]
+      },
+      {
+        "name": "GA_FPlayerShieldSkill_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerShieldSkill_Des",
+        "values": [373.8, 20, 233.6, 12, 309.5, 16]
+      },
+      {
+        "name": "GA_FPlayerShieldChangeSkill_Success_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerShieldChangeSkill_Success_des",
+        "values": [352, 19]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_element_type_2",
+      "type": "Fire",
+      "description": "ui_weapon_charge_2_desc_0",
+      "values": [0, 58]
+    },
+    "advancement": [
+      "Buff_ShieldFire_SSR_Level1_des",
+      "Weapon_level2_hpup_ssr",
+      "Buff_ShieldFire_SSR_Level3_des",
+      "Weapon_level4_atkup_ssr",
+      "Buff_ShieldFire_SSR_Level5_des",
+      "Buff_ShieldFire_SSR_Level6_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_huma_level1_name",
+        "icon": true,
+        "description": "buff_huma_level1"
+      },
+      {
+        "name": "buff_huma_level2_name",
+        "icon": true,
+        "description": "buff_huma_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "400",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "800",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "1200",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1600",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "3"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "5",
+        "level": "50",
+        "cost": "2000",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "4"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "4"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "6",
+        "level": "60",
+        "cost": "2400",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "6"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "6"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "6"
+        }
+      },
+      {
+        "ascension": "7",
+        "level": "70",
+        "cost": "2800",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "8"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "8"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "8"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3200",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "11"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "11"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "11"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3600",
+        "mat1": {
+          "name": "Heart of Lava",
+          "rarity": "R",
+          "amount": "5"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_ii",
+          "rarity": "SR",
+          "amount": "5"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_ii",
+          "rarity": "SSR",
+          "amount": "5"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH10_King",
+    "_name": "NItai_King_SSR",
+    "name": "King",
+    "weapon": "Scythe of the Crow",
+    "element": "Fire",
+    "rarity": "SSR",
+    "id": "king",
+    "global": false,
+    "tier": 1,
+    "tier_constellation": 1,
+    "pvp": 4,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Shieldbreaking",
+    "soon": false,
+    "new": false,
+    "resonance": "DPS",
+    "shatter": 12.5,
+    "charge": 5,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "The best shieldbreaking unit with the highest shatter stat currently in the game.",
+        "set1": ["King", "Shiro"],
+        "set2": ["Robarg"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerSickleMelee_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerSickleMelee_Melee_des",
+        "values": [57.1, 3, 49.1, 3, 106.8, 6, 109.5, 6, 104.2, 5]
+      },
+      {
+        "name": "GA_FPlayerSickleMeleeFire_SSR_AirAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerSickleMeleeFire_SSR_AirAttack_des",
+        "values": [63.4, 3, 68.8, 4, 190.5, 10, 213.6, 11, 173.9, 9]
+      },
+      {
+        "name": "GA_FPlayerSickleMeleeFire_SSR_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Hold: Attack"],
+        "description": "GA_FPlayerSickleMeleeFire_SSR_JumpAttack_des",
+        "values": [12.5, 1, 71.9, 4]
+      },
+      {
+        "name": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_des",
+        "values": [137.4, 7]
+      },
+      {
+        "name": "GA_FPlayerSickleSneakFire_SSR_name",
+        "icon": true,
+        "type": ["Croch", "Attack"],
+        "description": "GA_FPlayerSickleSneakFire_SSR_des",
+        "values": [570, 30]
+      },
+      {
+        "name": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
+        "icon": true,
+        "type": ["Perfect Dodge", "Attack"],
+        "description": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_des",
+        "values": [126.9, 7]
+      },
+      {
+        "name": "GA_FPlayerSickleEvadeFire_SSR_BackAttack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerSickleEvadeFire_SSR_BackAttack_des",
+        "values": [114.3, 6]
+      },
+      {
+        "name": "GA_FPlayerSickleSkillFire_SSR_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerSickleSkillFire_SSR_des",
+        "values": [499.9, 26]
+      },
+      {
+        "name": "GA_FPlayerSickleChangeSkillFire_SSR_New_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerSickleChangeSkillFire_SSR_New_Sucess_des",
+        "values": [398.3, 21, 66, 3]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_element_type_2",
+      "type": "Fire",
+      "description": "ui_weapon_charge_2_desc_0",
+      "values": [0, 58]
+    },
+    "advancement": [
+      "Buff_SickleFire_SSR_Level1_des",
+      "Weapon_level2_hpup_ssr",
+      "Buff_SickleFire_SSR_Level3_des",
+      "Weapon_level4_atkup_ssr",
+      "Buff_SickleFire_SSR_Level5_des",
+      "Buff_SickleFire_SSR_Level6_des"
+    ],
+    "traits": [
+      {
+        "name": "buff_king_level1_name",
+        "icon": true,
+        "description": "buff_king_level1"
+      },
+      {
+        "name": "buff_king_level2_name",
+        "icon": true,
+        "description": "buff_king_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "400",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "800",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "1200",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1600",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "3"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "5",
+        "level": "50",
+        "cost": "2000",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "4"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "4"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "6",
+        "level": "60",
+        "cost": "2400",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "6"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "6"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "6"
+        }
+      },
+      {
+        "ascension": "7",
+        "level": "70",
+        "cost": "2800",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "8"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "8"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "8"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3200",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "11"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_i",
+          "rarity": "R",
+          "amount": "11"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_i",
+          "rarity": "SR",
+          "amount": "11"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3600",
+        "mat1": {
+          "name": "Heart of Lava",
+          "rarity": "R",
+          "amount": "5"
+        },
+        "mat2": {
+          "name": "acidproof_glaze_ii",
+          "rarity": "SR",
+          "amount": "5"
+        },
+        "mat3": {
+          "name": "nanofiber_frame_ii",
+          "rarity": "SSR",
+          "amount": "5"
+        }
+      }
+    ]
+  }
+]

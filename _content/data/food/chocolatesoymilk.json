@@ -1,0 +1,31 @@
+{
+  "name": "Chocolate Soymilk",
+  "uri": "chocolatesoymilk",
+  "imgSrc": "chocolatesoymilk.webp",
+  "rarity": "3",
+  "chinaOnly": true,
+  "effect": "Recovers **500** stamina\nRecovers **15% + 20,000** HP",
+  "recipe": [
+    {
+      "name": "Cocoa Beans",
+      "rarity": "3",
+      "uri": "cocoabeans",
+      "imgSrc": "cocoabeans.webp",
+      "amount": 2
+    },
+    {
+      "name": "Soybeans",
+      "rarity": "3",
+      "uri": "soybeans",
+      "imgSrc": "soybeans.webp",
+      "amount": 1
+    },
+    {
+      "name": "Honey",
+      "rarity": "3",
+      "uri": "honey",
+      "imgSrc": "honey.webp",
+      "amount": 1
+    }
+  ]
+}

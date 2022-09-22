@@ -1,0 +1,31 @@
+{
+  "name": "Nut Tea",
+  "uri": "nuttea",
+  "imgSrc": "nuttea.webp",
+  "rarity": "4",
+  "chinaOnly": false,
+  "effect": "Recovers **20** satiety\nRecovers **20% + 60,000** HP",
+  "recipe": [
+    {
+      "name": "Hazelnut",
+      "rarity": "4",
+      "uri": "hazelnut",
+      "imgSrc": "hazelnut.webp",
+      "amount": 1
+    },
+    {
+      "name": "Pinecone",
+      "rarity": "4",
+      "uri": "pinecone",
+      "imgSrc": "pinecone.webp",
+      "amount": 2
+    },
+    {
+      "name": "Honey",
+      "rarity": "4",
+      "uri": "honey",
+      "imgSrc": "honey.webp",
+      "amount": 2
+    }
+  ]
+}

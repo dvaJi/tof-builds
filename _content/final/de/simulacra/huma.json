@@ -1,0 +1,277 @@
+{
+  "_id": 8,
+  "id": "huma",
+  "name": "Huma",
+  "weapon": "Magmaschild V2",
+  "weapon_id": "molten_shield_v2",
+  "birthday": "12. Januar (Steinbock)",
+  "birthplace": "Hykros",
+  "gender": "Weiblich",
+  "info": "Verfällt manchmal in einen Zustand der Verwirrung oder Benommenheit, weil ihr Erinnerungen und Teile ihrer Identität fehlen. Trägt oft eine Maske über dem Mund, was die Kommunikation mit ihr zusätzlich erschwert. Äußerst ruhig und introvertiert.\nDa sie kaum Erfahrungen mit der Außenwelt hat, wirkt sie etwas naiv und distanziert.",
+  "description": "Ein Mädchen, dessen Krankheit ihr seltsame Kräfte verliehen hat. Sie wird derzeit in Hykros behandelt.\nAus irgendeinem Grund hat Huma alle Erinnerungen an ihre Vergangenheit und ihre frühere Persönlichkeit verloren. Seit ihrem Erwachen ist Humas Wissen über die Welt auf Hykros beschränkt. Alles andere ist beängstigend und macht sie nervös.\nIm Moment bestehen Humas persönliche Beziehungen nur zu den medizinischen Forschern, die sie während ihrer Behandlung kennengelernt hat. Diese Forscher haben Huma vorgeschlagen, mit anderen die Außenwelt zu erkunden, in der Hoffnung, dass sie allmählich einen Rückweg in ein normaleres Leben finden kann. Huma hat jedoch eine erstaunliche Entscheidung getroffen: Sie möchte sich zu einer Hykros-Vollstreckerin ausbilden lassen.\nDie Gründe des Mädchens sind einfach und klar: Sie fühlt sich in der Gesellschaft von Vollstreckern sicher und möchte ihre Fähigkeiten nutzen, um sich für die Freundlichkeit von Hykros zu bedanken.",
+  "like": "Lesen; Ruhe und Frieden; Gartenarbeit",
+  "dislike": "Unbekannt",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Tank",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Schwinge die Schildaxt während du auf dem Boden stehst, um 4 Mal hintereinander anzugreifen.\nErster Angriff in Schildform: Verursacht Schaden in Höhe von <b>77.7%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>56.9%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>62.8%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>184%</b> des ANG + <b>10</b> und <b>schleudert das Ziel in die Luft</b>.\nErster Angriff in Axtform: Verursacht Schaden in Höhe von <b>135.2%</b> des ANG + <b>7</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>79.4%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>119.9%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>221.3%</b> des ANG + <b>12</b> und stößt das Ziel zurück."
+    },
+    {
+      "name": "Luftschlag",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tippe in der Luft oder nach einmaligem Springen auf den normalen Angriff, um 4-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>75.9%</b> des ANG + <b>4</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>80.2%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>103%</b> des ANG + <b>5</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>118.6%</b> des ANG + <b>6</b>, löst einen <b>Knockdown</b> aus und schleudert das Ziel bei der Landung in die Höhe."
+    },
+    {
+      "name": "Das Unerwartete",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Schildform: Tippe und halte den normalen Angriff während du auf dem Boden stehst, um die Schildform für <b>3</b> Sek. einzunehmen (Taste loslassen, um sie zu verlassen). Während dieser Zeit kann sich der Wanderer nicht bewegen, und der erlittene Schaden wird um <b>50%</b> verringert. Wenn du in Schildform die normale Angriffstaste loslässt, nachdem du Schaden erlitten hast oder nachdem du die Taste <b>3</b> Sek. lang gehalten hast, entfesselst du einen Feuersturm, der Schaden in Höhe von <b>167.3%</b> des ANG + <b>9</b> verursacht und dem Ziel eine <b>1</b> Sek. andauernden <b>Betäubung</b> zufügt.\nAxtform: Zerschmettert das Ziel, um Schaden in Höhe von <b>122.2%</b> des ANG + <b>6</b> zu verursachen und lässt es schweben."
+    },
+    {
+      "name": "Tapferkeit",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um Variantenangriffe in der Luft auszulösen.\nSchildform: Fügt beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer zu. Fügt bei der Landung Schaden in Höhe von <b>89.2%</b> des ANG + <b>5</b> zu und stößt das Ziel in die Luft.\nAxtform: Fügt beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>128.3%</b> des ANG + <b>7</b> und lässt das Ziel schweben.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+    },
+    {
+      "name": "Ausbruch",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um einen Ausweichangriff auszulösen.\nSchildform: Entfesselt einen flammenden Schild, der Zielen Schaden in Höhe von <b>55.8%</b> des ANG + <b>3</b> zufügt und sie zurückstößt. Außerdem wird eine Explosion ausgelöst, die Zielen Schaden in Höhe von <b>{0}%</b> + <b>{1}</b> zufügt, sie für <b>0,5</b> Sek. <b>betäubt</b> und ihre erhaltene Heilung für <b>10</b> Sek. um <b>30%</b> verringert.\nAxtform: Schwingt eine Axt, um Zielen Schaden in Höhe von <b>55.8%</b> des ANG + <b>3</b> zuzufügen und ihre erhaltene Heilung für <b>10</b> Sek. um <b>30%</b> zu verringern."
+    },
+    {
+      "name": "Spaltung",
+      "type": [
+        "Skill"
+      ],
+      "description": "Schildumwandlung: Wechselt von der Schildform zur Axtform und schmettert auf den Boden. Dies verursacht Schaden in Höhe von <b>373.8%</b> des ANG + <b>20</b> und lässt das Ziel <b>länger schweben</b>. Erzeugt außerdem für <b>5</b> Sek. eine große Flammenzone, die das Ziel verbrennt und kontinuierlich Schaden in Höhe von <b>233.6%</b> des ANG + <b>12</b> verursacht.\nAxtumwandlung: Wechselt von der Axtform in die Schildform und schlägt Gegner zu Boden. Dies verursacht Schaden in Höhe von <b>309.5%</b> des ANG + <b>16</b> am Ziel und stößt es zurück. Außerdem kann das Ziel für <b>5</b> Sek. seine Waffe nicht wechseln.\nAbklingzeit: <b>25</b> Sek. Schildumwandlung und Axtumwandlung haben die gleiche Abklingzeit."
+    },
+    {
+      "name": "Brodelnder Zorn",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und eine Flammenschockwelle auf das Ziel losgelassen. Dies verursacht Schaden in Höhe von <b>352%</b> des ANG + <b>19</b>. Verspottet Gegner <b>5</b> Sek. lang und gewährt währenddessen <b>15%</b> Schaden-Reduktion. Verstreut schildförmige Objekte je nach Anzahl der verspotteten Ziele. Die Objekte halten <b>20</b> Sek. an, schützen <b>10</b> Sek. lang vor <b>5%</b> Schaden-Reduktion (stapelbar) und stellen 1 Ausweichen wieder her."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flamme",
+    "description": "Voll geladene Waffen entzünden das Ziel beim nächsten Angriff für <b>8</b> Sekunden und verursachen kontinuierlich Schaden in Höhe von <b>{3}%</b> des ANG pro Sekunde. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+  },
+  "advancement": [
+    "Erhalte nach Einsatz von Entladung einen Stapel „Starker Schild“: „Brodelnder Zorn“ gewährt einen Stapel „Starker Schild“. In Schildform gewähren Ausweich- und Variantenfähigkeiten einen Stapel „Starker Schild“, der <b>15</b> Sek. lang die Schaden-Reduktion um je <b>10%</b> erhöht und bis zu <b>3</b>-mal stapelbar ist. Beim Wechsel zur Axtform werden alle Stapel von „Starker Schild“ in „Scharfe Axt“ umgewandelt; diese Stapel erhöhen <b>15</b> Sek. lang den verursachten Schaden um jeweils <b>15%</b>. Ein Waffenwechsel beendet den Effekt.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "In Schildform fügen Varianten-/Ausweichangriffe Zielen zusätzlichen Schaden in Höhe von <b>4%</b> der aktuellen LP des Anwenders zu.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Gewährt nach dem Wechsel zur Schildaxt <b>30%</b> Schaden-Reduktion, die alle <b>3</b> Sek. um <b>10%</b> abnimmt (Minimum: <b>10%</b>). Beim Waffenwechsel wird der Effekt beendet. Abklingzeit: <b>30</b> Sek.",
+    "Verbessert Wechselfähigkeiten.\nSchildverbesserung: Erhöht den verursachten Schaden um <b>60%</b> und erweitert den Radius der Flammenzone um <b>30%</b>.\nAxtverbesserung: Verfügt über keine gemeinsame Abklingzeit mit Schildverbesserung. Wandelt nach Einsetzen dieser Fähigkeit <b>5</b> Sek. lang erlittenen Schaden in LP um und zwar bis maximal <b>15%</b> der maximalen LP des Anwenders."
+  ],
+  "traits": [
+    {
+      "name": "Huma: Standhaftigkeit",
+      "icon": true,
+      "description": "Gewährt jedes Mal, wenn Huma Schaden erleidet, <b>1</b> Standhaftigkeitsmarkierung und <b>1</b> weitere, wenn es sich um Flammenschaden handelt, bis zu <b>1</b>-mal pro Sek und <b>12</b> Stapeln insgesamt. Gewährt bei Verwendung einer Waffenfähigkeit für <b>12</b> Sek. einen LP-Schild in Höhe der Markierungen x <b>0,4%</b> der LP, was alle Standhaftigkeitsmarkierungen verbraucht. Gewährt einen LP-Schild in Höhe der Markierungen x <b>0,6%</b> der LP, wenn Standhaftigkeitsmarkierungen verbraucht werden, während der Effekt max. gestapelt ist."
+    },
+    {
+      "name": "Huma: Eiserne Barriere",
+      "icon": true,
+      "description": "Gewährt jedes Mal, wenn Huma Schaden erleidet, <b>1</b> Standhaftigkeitsmarkierung und <b>1</b> weitere, wenn es sich um Flammenschaden handelt, bis zu <b>1</b>-mal pro Sek. und <b>12</b> Stapeln insgesamt. Gewährt bei Verwendung einer Waffenfähigkeit für <b>12</b> Sek. einen LP-Schild in Höhe der Markierungen x <b>0,6%</b> der LP, was alle Standhaftigkeitsmarkierungen verbraucht. Gewährt einen LP-Schild in Höhe der Markierungen x <b>0,9%</b> der LP, wenn Standhaftigkeitsmarkierungen verbraucht werden, während der Effekt max. gestapelt ist."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Herz aus Lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Säurefeste Glasur II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

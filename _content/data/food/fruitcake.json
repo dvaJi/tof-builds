@@ -1,0 +1,38 @@
+{
+  "name": "Fruit Cake",
+  "uri": "fruitcake",
+  "imgSrc": "fruitcake.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\nRecovers **15% + 20,000** HP",
+  "recipe": [
+    {
+      "name": "Strawberry",
+      "rarity": "3",
+      "uri": "strawberry",
+      "imgSrc": "strawberry.webp",
+      "amount": 2
+    },
+    {
+      "name": "Homi Grain",
+      "rarity": "3",
+      "uri": "homigrain",
+      "imgSrc": "homigrain.webp",
+      "amount": 1
+    },
+    {
+      "name": "Fallen Fruit",
+      "rarity": "3",
+      "uri": "fallenfruit",
+      "imgSrc": "fallenfruit.webp",
+      "amount": 1
+    },
+    {
+      "name": "Poultry Egg",
+      "rarity": "3",
+      "uri": "poultryegg",
+      "imgSrc": "poultryegg.webp",
+      "amount": 1
+    }
+  ]
+}

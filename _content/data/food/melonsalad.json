@@ -1,0 +1,24 @@
+{
+  "name": "Melon Salad",
+  "uri": "melonsalad",
+  "imgSrc": "melonsalad.webp",
+  "rarity": "3",
+  "chinaOnly": true,
+  "effect": "Recovers **10** satiety\n**Flame Resistance +10%<br>\nFlame Resistance 170**<br>\nDuration **900** sec",
+  "recipe": [
+    {
+      "name": "Desert Melon",
+      "rarity": "3",
+      "uri": "desertmelon",
+      "imgSrc": "desertmelon.webp",
+      "amount": 2
+    },
+    {
+      "name": "Salad Dressing",
+      "rarity": "3",
+      "uri": "saladdressing",
+      "imgSrc": "saladdressing.webp",
+      "amount": 2
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "_id": 5,
+  "id": "ene",
+  "name": "Ene",
+  "weapon": "Pummeler",
+  "weapon_id": "pummeler",
+  "birthday": "August 17 (Leo)",
+  "birthplace": "Victoria Security",
+  "gender": "Female",
+  "info": "She looks lazy and unmotivated when there's nothing to do, but becomes extremely excited and competitive in battle.\nShe's extremely proud of her robotic body, which is agile, powerful, and does not age. She's also stubborn and pushes herself to the limit, unwilling to go down before those with bodies made of flesh.\nMentally, however, she's still a child and reveals her fragile side when she's with her father.",
+  "description": "During the Old Federation, Victoria, a private military contractor, once planned a series of combat droids, and Ene was the first prototype of the project.\nThe objective was to create a perfect droid with its own identity and the capability to think, feel, and calculate the next action. The owner that gave the green light on this project uploaded his late daughter's backup consciousness to Ene as the droid's \"soul.\"\nEventually, Ene earned the right to be a human as the daughter of the owner.",
+  "like": "Being with her father, humans who are stronger than her",
+  "dislike": "Fully comprehending the frailty of life",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Tank",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing the maul to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>76.3%</b> of ATK + <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>62.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>157.4%</b> of ATK + <b>8</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>263.8%</b> of ATK + <b>14</b> and launch the target.\nWhile Outburst is active, swing the maul to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>{8}%</b> of ATK + <b>{9}</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>{10}%</b> of ATK + <b>{11}</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>{12}%</b> of ATK + <b>{13}</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>{14}%</b> of ATK + <b>{15}</b> and <b>strongly suspend</b> the target."
+    },
+    {
+      "name": "Pummel",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, tap normal attack to trigger Pummel. Deal damage equal to <b>121.7%</b> of ATK + <b>6</b>and suspend the target.\nWhile Outburst is active, deal damage equal to <b>133.9%</b> of ATK + <b>7</b> and <b>strongly suspend</b> the target.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+    },
+    {
+      "name": "Shockwave",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tapping and holding while airborne, double-jumping, short tapping in the air when there are targets nearby, climbing, jumping backward, or attacking while using the Jetpack will trigger a Shockwave. <b>Strongly suspend</b> the target <b>4</b> times, dealing damage equal to <b>34.8%</b> of ATK+ <b>2</b> each time. Cost <b>250</b> endurance.\nWhile Outburst is active, Shockwave <b>strongly suspends</b> the target <b>5</b> times, dealing damage equal to <b>38.3%</b> of *ATK + <b>2</b> each time.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK + <b>23</b>."
+    },
+    {
+      "name": "Focus Smash",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack to trigger Focus Smash (can be charged up to 3 stacks). Grant immunity to all control effects and hyperbody while charging.\nFirst Stack: Deal damage equal to <b>110%</b> of ATK + <b>6</b> and suspend the target.\nSecond Stack: Deal damage equal to <b>276%</b> of ATK + <b>15</b> and <b>strongly suspend</b> the target.\nThird Stack: Deal damage equal to <b>518%</b> of ATK + <b>27</b> and <b>strongly suspend</b> the target.\nWhile Outburst is active, tap and hold normal attack to trigger Furious Strikes, dealing damage equal to <b>501.6%</b> of ATK + <b>26</b> and <b>strongly suspend</b> the target."
+    },
+    {
+      "name": "Jumping Smash",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Use the arrow buttons and the dodge button to trigger Jumping Smash, unleashing a Shockwave that suspends the enemy <b>4</b> times, dealing damage equal to <b>161.6%</b> of ATK + <b>9</b>."
+    },
+    {
+      "name": "Worldsplitter",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short period of time after a dodge to trigger Worldsplitter, unleashing <b>3</b> shockwaves forward, each dealing damage equal to <b>52.4%</b> of ATK + <b>3</b>, and suspending the targets.\nWhile in Outburst mode, fire <b>5</b> shockwaves forward, each dealing damage equal to <b>{0}%</b> of ATK + <b>{1}</b> and suspending the target."
+    },
+    {
+      "name": "Outburst",
+      "type": [
+        "Skill"
+      ],
+      "description": "Switch to activate Outburst, increasing damage dealt for <b>25</b> seconds.\nWhile Outburst is active, skills trigger Windfury, dealing damage equal to <b>219%</b> of ATK + <b>12</b>, <b>strongly suspend</b> the target, and create an air current on the ground. While standing in the current, dodging has no cost. Cooldown: <b>45</b> seconds (Windfury's cooldown: <b>10</b> seconds)."
+    },
+    {
+      "name": "Overwhelming Maul",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and \n <b>strongly suspend</b> nearby targets upon switching to this weapon, dealing damage equal to <b>153.3%</b> of ATK + <b>8</b>. Also summon a maul to fall on nearby targets, dealing damage equal to <b>153.3%</b> of ATK + <b>8</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Fully charged weapons will <b>freeze</b> the target for <b>2</b> seconds and leave it frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>111%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+  },
+  "advancement": [
+    "Taunt nearby targets after switching to this weapon, preventing <b>1</b> instance of damage in the next <b>8</b> seconds and granting hyperbody for the next <b>8</b> seconds. Cooldown: <b>15</b> seconds.",
+    "Increase the current weapon's base HP growth by <b>10%</b>.",
+    "After taking damage, reduce all damage received by <b>50%</b> for the next <b>6</b> seconds. Cooldown: <b>20</b> seconds.",
+    "Increase the current weapon's base HP growth by <b>20%</b>.",
+    "Normal attacks <b>stun</b> targets for <b>2.5</b> seconds. Cooldown: <b>20</b> seconds.",
+    "Discharge skills deal an additional <b>10%</b> damage to targets and increase frost damage by an additional <b>10%</b> for <b>25</b> seconds."
+  ],
+  "traits": [
+    {
+      "name": "Ene: Fast Mode",
+      "icon": true,
+      "description": "When Ene swims, climbs, or glides, reduce endurance consumption by <b>12%</b>."
+    },
+    {
+      "name": "Ene: Beyond Limits Mode",
+      "icon": true,
+      "description": "When Ene swims, climbs, or glides, reduce endurance consumption by <b>20%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Barbecue Platter",
+  "uri": "barbecueplatter",
+  "imgSrc": "barbecueplatter.webp",
+  "rarity": "4",
+  "chinaOnly": true,
+  "effect": "Recovers **20** satiety\n**Flame Resistance +15%**<br>\n**Flame Resistance +675**<br>\nDuration **1200** sec",
+  "recipe": [
+    {
+      "name": "Prime Cut",
+      "rarity": "4",
+      "uri": "primecut",
+      "imgSrc": "primecut.webp",
+      "amount": 1
+    },
+    {
+      "name": "Pepper",
+      "rarity": "4",
+      "uri": "pepper",
+      "imgSrc": "pepper.webp",
+      "amount": 1
+    },
+    {
+      "name": "Fleshy Tail",
+      "rarity": "4",
+      "uri": "fleshytail",
+      "imgSrc": "fleshytail.webp",
+      "amount": 1
+    }
+  ]
+}

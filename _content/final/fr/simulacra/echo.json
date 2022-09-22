@@ -1,0 +1,179 @@
+{
+  "_id": 4,
+  "id": "echo",
+  "name": "Echo",
+  "weapon": "Hallebarde foudroyante",
+  "weapon_id": "thunderous_halberd",
+  "birthday": "14 août (lion)",
+  "birthplace": "Aucun rapport",
+  "gender": "Féminin",
+  "info": "Une fille maladroite et énergique qui aime afficher ouvertement ce qu'elle pense.\nDepuis qu'elle a été secourue par un marchand de passage, elle veut rendre la pareille en faisant de bonnes actions lors de ses voyages.\nElle déteste le mal et accorde autant d'importance aux bonnes actions qu'à la lutte contre le mal. Jeune et inexpérimentée, elle juge souvent les gens en fonction de critères douteux.",
+  "description": "Echo est née à Warren et rêvait de quitter les territoires de neige immaculée pour découvrir le reste du monde.\nÀ neuf ans, son refuge a été détruit par une avalanche soudaine, pendant laquelle ses parents sont décédés en la sauvant. Elle a ensuite été secourue par un marchand de passage et a été envoyée dans un centre de récupération à Banges.\nAprès cinq années passées à Banges, elle a décidé de partir en voyage pour lutter contre le mal et répandre le bien.",
+  "like": "Mamie Hélène, manger du poisson",
+  "dislike": "Conduire des véhicules",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "skills": [
+    {
+      "name": "Percée",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, brandissez la longue lance pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>24.7%</b> de l'ATQ + <b>1</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>22.6%</b> de l'ATQ + <b>1</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts correspondant à <b>47.2%</b> de l'ATQ + <b>2</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>65.2%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nCinquième attaque : vous infligez des dégâts correspondant à <b>114.95%</b> de l'ATQ + <b>6</b>, et repoussez la cible sur une distance importante."
+    },
+    {
+      "name": "Coup sauté",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour attaquer 4 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>27.4%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>23.2%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>45.8%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>110%</b> de l'ATQ + <b>6</b>."
+    },
+    {
+      "name": "Frappe écrasante",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le Jetpack pour déclencher Frappe écrasante.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>8%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts correspondant à <b>48.5%</b> de l'ATQ + <b>3</b>, et renversez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+    },
+    {
+      "name": "Déluge de lances",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la troisième attaque normale, maintenez le bouton d'attaque normale enfoncé pour déclencher Déluge de lances.\nLorsque vous touchez la cible, la <b>suspend longuement</b>, lui infligeant des dégâts équivalant à <b>49.2%</b> de l'ATQ + <b>3</b>. Appuyez à nouveau pour continuer à attaquer la cible suspendue, et lui infliger jusqu'à <b>98%</b> de l'ATQ + <b>5</b> de dégâts."
+    },
+    {
+      "name": "Attaque furtive",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>570%</b> de l'ATQ + <b>30</b>."
+    },
+    {
+      "name": "Coup de pied volant",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur l'attaque normale peu de temps après avoir fait une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Coup de pied volant.\nLorsque vous touchez la cible, vous lui infligez des dégâts équivalant à <b>72%</b> de l'ATQ + <b>4</b>, et repoussez les ennemis sur une grande distance, et vous les étourdissez pendant <b>1</b> seconde ou pendant <b>0,5</b> seconde aux Explorateurs."
+    },
+    {
+      "name": "Frappe en fente",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale immédiatement après avoir esquivé pour déclencher Frappe en fente.\nHeurte le sol avec la lance longue pour infliger aux cibles des dégâts équivalant à <b>52.8%</b> de l'ATQ + <b>3</b> et les <b>suspendre longuement</b>."
+    },
+    {
+      "name": "Chasselune",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Suspend longuement</b> la cible et vous fait décoller du sol, infligeant des dégâts équivalant à <b>127.5%</b> de l'ATQ + <b>7</b>. Temps de recharge : <b>25</b> secondes."
+    },
+    {
+      "name": "Coup de tonnerre",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, qui saute dans les airs et projette une lance d'éclair qui provoque une explosion de zone, infligeant à la cible des dégâts équivalant à <b>296.7%</b> de l'ATQ + <b>16</b> et un effet de <b>paralysie</b> pendant <b>1</b> seconde."
+    }
+  ],
+  "weapon_type": {
+    "name": "Foudre",
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>106%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+  },
+  "advancement": [
+    "Augmente la fracture de <b>15%</b>. Après avoir fracturé le bouclier de la cible, augmente l'ATQ de tous les membres de groupe de <b>15%</b> pendant <b>30</b> secondes. Cet effet ne peut être cumulé.",
+    "Augmente de <b>10%</b> la croissance de PV de base actuelle de l'arme.",
+    "Après avoir touché une cible avec le <span class=\"text-green\">Chasseur de lune</span>, réduit son ATQ de <b>5%</b> et augmente de <b>5%</b> l'ATQ de l'utilisateur pendant <b>15</b> secondes (cet effet peut se cumuler jusqu'à <b>3</b> fois en touchant plusieurs cibles). L'effet est doublé sur les cibles gravement blessées.",
+    "Augmente de <b>20%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "La durée de l’étourdissement est doublée pour les compétences d'esquive.",
+    "Plus la compétence de décharge va loin, plus elle inflige de dégâts, jusqu'à <b>100%</b> de dégâts supplémentaires."
+  ],
+  "traits": [
+    {
+      "name": "Echo : Intégrité",
+      "icon": true,
+      "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>4%</b> (à l'exception d'Echo)."
+    },
+    {
+      "name": "Echo : Détermination",
+      "icon": true,
+      "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>6%</b> (à l'exception d'Echo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Juicy Meat Sandwich",
+  "uri": "juicyblt",
+  "imgSrc": "juicyblt.webp",
+  "rarity": "4",
+  "chinaOnly": false,
+  "effect": "Recovers **20** satiety\n**Flame Resistance +15%<br>\nFlame Resistance +675**<br>\nDuration **1200** sec",
+  "recipe": [
+    {
+      "name": "Fatty Cut",
+      "rarity": "4",
+      "uri": "fattycut",
+      "imgSrc": "fattycut.webp",
+      "amount": 1
+    },
+    {
+      "name": "Brown Rice",
+      "rarity": "4",
+      "uri": "brownrice",
+      "imgSrc": "brownrice.webp",
+      "amount": 2
+    },
+    {
+      "name": "Poultry Egg",
+      "rarity": "4",
+      "uri": "poultryegg",
+      "imgSrc": "poultryegg.webp",
+      "amount": 2
+    }
+  ]
+}

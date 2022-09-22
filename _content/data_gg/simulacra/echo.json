@@ -1,0 +1,194 @@
+{
+  "name": "Echo",
+  "weapon": "Thunderous Halberd",
+  "element": "Volt",
+  "rarity": "SR",
+  "id": "echo",
+  "global": false,
+  "tier": 5,
+  "tier_constellation": 1,
+  "pvp": 3,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Shieldbreaking",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A solid shieldbreaking unit with the third highest shatter stat currently in the game.",
+      "set1": [
+        "King",
+        "Shiro"
+      ],
+      "set2": [
+        "Robarg"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Thrust",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, swing the long spear to attack 5 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 24.7% of ATK + 1 and knock the target back a short distance.</li>\n<li>Second Attack: Deal damage equal to 22.6% of ATK + 1 and knock the target back a short distance.</li>\n<li>Third Attack: Deal damage equal to 47.2% of ATK + 2 and knock the target back a short distance.</li>\n<li>Fourth Attack: Deal damage equal to 65.2% of ATK + 3 and knock the target back a short distance.</li>\n<li>Fifth Attack: Deal damage equal to 114.95% of ATK + 6 and knock the target back a significant distance.</li>\n</ul>"
+    },
+    {
+      "name": "Jumping Strike",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne or after jumping, tap normal attack to attack 4 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 27.4% of ATK + 1.</li>\n<li>Second Attack: Deal damage equal to 23.2% of ATK + 1.</li>\n<li>Third Attack: Deal damage equal to 45.8% of ATK + 2.</li>\n<li>Fourth Attack: Deal damage equal to 110% of ATK + 6.</li>\n</ul>"
+    },
+    {
+      "name": "Crashing Drive",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold the normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Crashing Drive.</p>\n<p>While falling, deal damage equal to 8% of ATK + 1 each hit. Upon landing, deal damage equal to 48.5% of ATK + 3 and knock the target down.</p>\n<p>The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage.</p>"
+    },
+    {
+      "name": "Spear Flurry",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "<p>After the third normal attack, hold the normal attack button to trigger Spear Flurry</p>\n<p>Upon hit, strongly suspend the target, dealing damage equal to 49.2% of ATK + 3. Tap again to continue attacking the suspended target, dealing up to 98% of ATK + 5 damage to a single target.</p>"
+    },
+    {
+      "name": "Sneak Attack",
+      "icon": true,
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to 570% of ATK + 30."
+    },
+    {
+      "name": "Flying Kick",
+      "icon": true,
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Kick.</p>\n<p>Once hit the target, deal damage equal to 72% of ATK + 4, knock the enemies back significantly, and stun enemies for 1 second or 0.5 seconds to Wanderers.</p>"
+    },
+    {
+      "name": "Lunging Smash",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "<p>Tap normal attack during the short period after a dodge to trigger Lunging Smash</p>\n<p>Slam the long spear into the ground, strongly suspending targets, dealing damage equal to 52.8% of ATK + 3.</p>"
+    },
+    {
+      "name": "Moonchaser",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Strongly suspend targets and go airborne, dealing damage equal to 127.5% of ATK + 7.</p>\n<p>Cooldown: 25 seconds.</p>"
+    },
+    {
+      "name": "Thunderclap",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "<p>When weapon charge is full or Phantasia is triggered, switching to this weapon from another weapon removes all debuffs from the wielder, who jumps in the air and throws a lightning spear that causes area explosion to deal 296.7% of ATK + 16 damage plus paralyzing the target for 1 second.</p>"
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "type": "Volt",
+    "description": "When the weapon is fully charged, the next attack will paralyze targets for 1 second and electrify them for 6 seconds, negating all buffs and dealing damage equal to 106% of ATK. Targets can't receive any buffs for the next 6 seconds."
+  },
+  "advancement": [
+    "Increase shatter by 15%. After shattering the target's shield, increase all teammates' ATK by 15% for 30 seconds. This cannot be stacked.",
+    "Increase the current weapon's base HP growth by 10%.",
+    "After hitting a target with Moonchaser, reduce their ATK by 5% and increase the user's ATK by 5% for 15 seconds (effect can be stacked up to 3 times by hitting multiple targets). Effect is doubled to grievous targets.",
+    "Increase the current weapon's base ATK growth by 20%.",
+    "Double stun duration from dodge skills.",
+    "Discharge skill deals more damage the further it travels, up to 100% more damage."
+  ],
+  "traits": [
+    {
+      "name": "Uprightness",
+      "icon": true,
+      "description": "When teamed up with Echo, allies within 10 meters around Echo gain a damage boost of 4% (excluding Echo)."
+    },
+    {
+      "name": "Determination",
+      "icon": true,
+      "description": "When teamed up with Echo, allies within 10 meters around Echo gain a damage boost of 6% (excluding Echo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "250",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "1"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "500",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "750",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1000",
+      "mat1": {
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": "2"
+      },
+      "mat3": {
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": "2"
+      }
+    }
+  ]
+}

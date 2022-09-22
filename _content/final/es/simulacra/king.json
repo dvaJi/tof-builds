@@ -1,0 +1,294 @@
+{
+  "_id": 9,
+  "id": "king",
+  "name": "KING",
+  "weapon": "Guadaña del Cuervo",
+  "weapon_id": "scythe_of_the_crow",
+  "birthday": "3 de noviembre (Escorpión)",
+  "birthplace": "Saqueadores",
+  "gender": "Masculino",
+  "info": "Revoltoso y con una vestimenta extravagante, la poderosa presencia de KING se hace sentir allá donde va. Con una mordacidad mucho mayor que su ladrido, desprende pura intimidación y agresividad cada minuto del día. Aunque su temperamento puede ser problemático, comunicarse con KING no es nada difícil.\nBuscando constantemente estímulos, KING da prioridad a la satisfacción de los deseos materiales; para ello, valora la concisión y el claro valor monetario de todo, y odia a los mentirosos y a los pretenciosos.\nKING recurre a menudo a la violencia para resolver problemas y obtener lo que quiere, y no es especialmente aficionado a las estrategias elaboradas (en el combate, o de otro tipo).\nLos que pasan un poco de tiempo con KING pueden darse cuenta de que no es más que un hombre fuerte y sencillo; harían bien en guardarse esos pensamientos para sí mismos, aunque no tengan ninguna mala intención al decirlo.",
+  "description": "De todos los que son lo suficientemente estúpidos como para cargar con los altos tipos de interés de la Asociación de Negocios Banges, KING es el caso más singular. Normalmente, a quien no puede pagar se le envía a trabajar a las minas, pero él nunca recibió ese trato.\nNo es que la Asociación no quisiera, pero aunque pusieran grandes recompensas y no escatimaran brazos ni esfuerzos, no podrían tocarlo.\nComo mercenario famoso por su destreza en el combate, KING es considerado la personificación de la violencia. Lleva peleando desde la infancia y es un veterano pendenciero especializado en el uno contra muchos. Obtiene una lucrativa paga por cada trabajo, para supuestamente gastarlo todo inmediatamente.",
+  "like": "Dinero, gastar dinero, cosas simples",
+  "dislike": "Objetos invaluables",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 5,
+  "skills": [
+    {
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, blande la guadaña para lanzar 5 ataques consecutivos.\nPrimer ataque: inflige daño equivalente al <b>57.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>49.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>106.8%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>109.5%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>104.2%</b> del ATQ + <b>5</b>, <b>suspende fuertemente</b> al objetivo, y deja al nómada en el aire."
+    },
+    {
+      "name": "Guadaña creciente",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>63.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>68.8%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>190.5%</b> del ATQ + <b>10</b>.\nCuarto ataque: inflige daño equivalente al <b>213.6%</b> del ATQ + <b>11</b>.\nQuinto ataque: inflige daño equivalente al <b>173.9%</b> del ATQ + <b>9</b> y derriba al objetivo. Cuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+    },
+    {
+      "name": "Separación",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o pulsa el ataque normal al trepar, saltar hacia atrás o usar el Propulsor para activar Separación.\nEn el descenso, cada golpe inflige daño equivalente al <b>12.5%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>71.9%</b> del ATQ + <b>4</b> y <b>derriba</b>.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+    },
+    {
+      "name": "Hoja con cadena",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para lanzar Embestida rápida.\nInflige daño equivalente hasta un <b>137.4%</b> del ATQ + <b>7</b> y atrae enemigos cercanos."
+    },
+    {
+      "name": "Ataque sorpresa",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+    },
+    {
+      "name": "Hoja con cadena",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para lanzar Embestida rápida.\nInflige daño equivalente hasta un <b>126.9%</b> del ATQ + <b>7</b> y atrae enemigos cercanos."
+    },
+    {
+      "name": "Dominio del murciélago",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Al esquivar, invoca una bandada de murciélagos que arrastra al objetivo al centro. Pulsa el ataque normal durante el corto periodo luego de esquivar para blandir la guadaña e infligir daño equivalente hasta un <b>114.3%</b> del ATQ + <b>6</b> al objetivo."
+    },
+    {
+      "name": "Espiral mortal",
+      "type": [
+        "Skill"
+      ],
+      "description": "Blande la guadaña e inflige daño equivalente al <b>499.9%</b> del ATQ + <b>26</b>. Enfriamiento: <b>45</b> segundos."
+    },
+    {
+      "name": "Guadaña ardiente",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea una Guadaña Ardiente tras cambiar a esta arma, que inflige daño equivalente al <b>398.3%</b> del ATQ + <b>21</b> y dura <b>10</b> segundos. Además, engendra Dominio de las Guadañas Ardientes cada <b>2</b> segundos. Las guadañas invocan erupciones volcánicas que infligen daño equivalente al <b>66%</b> del ATQ + <b>3</b> a los objetivos y los suspende."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fuego",
+    "description": "Las armas completamente cargadas prenderán fuego al objetivo durante <b>8</b> segundos con el siguiente ataque, lo que inflige un daño continuo del <b>{3}%</b> del ATQ cada segundo. Los objetivos incendiados reciben un <b>50%</b> de eficacia de la curación."
+  },
+  "advancement": [
+    "Aumenta la destrucción un <b>15 %</b>. Luego de destruir el escudo del objetivo, inflige daño de quemadura igual a un <b>120 %</b> del ATQ cada segundo por <b>15</b> segundos.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
+    "Aumenta el daño infligido en un <b>10%</b> por cada enemigo en <b>6</b> metros a la redonda hasta un máximo de <b>30%</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
+    "Aumenta el daño infligido a escudos de PS o enemigos con escudo en un <b>100%</b>.",
+    "Aumenta el daño infligido en un <b>10%</b> por cada objetivo eliminado durante <b>30</b> segundos (hasta <b>3</b> acumulaciones)."
+  ],
+  "traits": [
+    {
+      "name": "KING: Eliminación a Sangre Fría",
+      "icon": true,
+      "description": "Cada <b>7</b> enemigos derrotados por KING restaura PS equivalentes al <b>8%</b> de los PS Máx."
+    },
+    {
+      "name": "KING: Cosechamiedo",
+      "icon": true,
+      "description": "Cada <b>5</b> enemigos derrotados por KING restaura PS equivalentes al <b>10%</b> de los PS Máx."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Corazón de lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Esmaltado antiácido I",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

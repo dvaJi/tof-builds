@@ -1,0 +1,294 @@
+{
+  "_id": 9,
+  "id": "king",
+  "name": "KING",
+  "weapon": "Faux du corbeau",
+  "weapon_id": "scythe_of_the_crow",
+  "birthday": "3 novembre (scorpion)",
+  "birthplace": "Ravageurs",
+  "gender": "Masculin",
+  "info": "Turbulent et habillé avec splendeur, l'incroyable prestance de KING peut être perçue partout où il va. Il est bien pire qu'il n'en a l'air, et affiche un air intimidant et agressif à tout moment. Bien que son tempérament puisse être problématique, il n'est pas difficile de communiquer avec KING.\nCherchant constamment à être stimulé, KING donne la priorité à la satisfaction de ses désirs matériels. Ainsi, il apprécie particulièrement la concision et la valeur monétaire claire des choses. Il déteste les menteurs et les prétentieux.\\\r\\KING a souvent recourt à la violence afin de résoudre ses problèmes et obtenir ce qu'il veut, il n'est pas très friand des stratégies élaborées (au combat ou ailleurs).\nCeux qui passent un peu de temps avec KING peuvent se rendre compte qu'il n'est qu'un homme ordinaire, bien que plus fort que la moyenne. Cela dit, ils feraient mieux de garder cette pensée pour eux, même s'ils ne cherchent pas à le vexer.",
+  "description": "De tous ceux qui ont été assez stupides pour accepter les taux d'intérêt exorbitants de l'Association des entreprises de Banges, KING est un cas vraiment unique. Normalement, quiconque ne peut payer est envoyé au travail dans les mines, mais il n'a jamais écopé d'un tel traitement.\nCe n'est pas que l'Association ne voulait pas, mais même en ayant posté des avis de recherche avec de juteuses récompenses et n'ayant épargné aucun effort, ils ne l'ont pas trouvé.\nMercenaire célèbre pour ses prouesses au combat, KING est vu comme l'incarnation de la violence. Il se bat depuis sa plus tendre enfance et est un bagarreur vétéran spécialisé dans les combats de type seul contre tous. Il reçoit des paies bien lucratives pour chaque mission, mais il dépense tout en un clin d'œil.",
+  "like": "Argent, dépenser de l'argent, choses simples",
+  "dislike": "Articles inestimables",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 5,
+  "skills": [
+    {
+      "name": "Attaque normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, brandissez la faux pour lancer 5 attaques consécutives.\nPremière attaque : inflige des dégâts équivalant à <b>57.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>49.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>106.8%</b> de l'ATQ + <b>6</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>109.5%</b> de l'ATQ + <b>6</b> et repousse la cible sur une courte distance.\nCinquième attaque : inflige des dégâts équivalant à <b>104.2%</b> de l'ATQ + <b>5</b>, <b>suspend longuement la cible</b>, et fait décoller l'Explorateur."
+    },
+    {
+      "name": "Faux ascendante",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après un saut, attaquez 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>63.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>68.8%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>190.5%</b> de l'ATQ + <b>10</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>213.6%</b> de l'ATQ + <b>11</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>173.9%</b> de l'ATQ + <b>9</b>, et vous renversez la cible. Inflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+    },
+    {
+      "name": "Déchirement",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le Jetpack pour déclencher Déchirement.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts correspondant à <b>71.9%</b> de l'ATQ + <b>4</b>, et un <b>renversement</b>.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+    },
+    {
+      "name": "Lame tournoyante",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une flèche avant l'esquive) pour déclencher Fente rapide.\nVous infligez des dégâts jusqu'à <b>137.4%</b> de l'ATQ + <b>7</b>, et attirez les ennemis proches."
+    },
+    {
+      "name": "Attaque furtive",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>570%</b> de l'ATQ + <b>30</b>."
+    },
+    {
+      "name": "Lame tournoyante",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une flèche avant l'esquive) pour déclencher Fente rapide.\nVous infligez des dégâts jusqu'à <b>126.9%</b> de l'ATQ + <b>7</b>, et attirez les ennemis proches."
+    },
+    {
+      "name": "Domaine des chauves-souris",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pendant une esquive, vous invoquez un domaine des chauves-souris qui attire la cible en son centre. Appuyez sur Attaque normale rapidement après l'esquive pour brandir la faux et infliger des dégâts correspondant à <b>114.3%</b> de l'ATQ + <b>6</b>."
+    },
+    {
+      "name": "Cercle mortel",
+      "type": [
+        "Skill"
+      ],
+      "description": "Vous brandissez la faux et infligez des dégâts correspondant à <b>499.9%</b> de l'ATQ + <b>26</b>. Temps de recharge : <b>45</b> secondes."
+    },
+    {
+      "name": "Faux flamboyante",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée une Faux enflammée lorsque vous changez d'arme pour utiliser celle-ci. Inflige des dégâts équivalant à <b>398.3%</b> de l'ATQ + <b>21</b> et dure <b>10</b> secondes. Crée également un domaine de Faux enflammées  toutes les <b>2</b> secondes. Ces faux invoquent des éruptions volcaniques au sol, infligeant aux cibles des dégâts équivalant à <b>66%</b> de l'ATQ + <b>3</b> et les suspendant."
+    }
+  ],
+  "weapon_type": {
+    "name": "Feu",
+    "description": "Les armes entièrement chargées embrasent la cible pendant <b>8</b> secondes lors de l'attaque suivante, infligeant chaque seconde des dégâts continus de <b>{3}%</b> d'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
+  },
+  "advancement": [
+    "Augmente Fracture de <b>15%</b>. Après avoir brisé le bouclier de la cible, inflige des dégâts de brûlure égaux à <b>120%</b> de l'ATQ à la cible chaque seconde pendant <b>15</b> secondes.",
+    "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
+    "Augmente de <b>10%</b> les dégâts infligés pour chaque ennemi à moins de <b>6</b> mètres, jusqu'à un maximum de <b>30%</b>.",
+    "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Augmente de <b>100%</b> les dégâts infligés aux boucliers de PV ou aux ennemis protégés par un bouclier.",
+    "Pour chaque ennemi tué, augmente de <b>10%</b> les dégâts infligés pendant <b>30</b> secondes (se cumule jusqu'à <b>3</b> fois)."
+  ],
+  "traits": [
+    {
+      "name": "King : Coup de sang-froid",
+      "icon": true,
+      "description": "Tous les <b>7</b> ennemis vaincus par KING, régénère un nombre de PV égal à <b>8%</b> des PV max."
+    },
+    {
+      "name": "King : Faucheuse de la peur",
+      "icon": true,
+      "description": "Tous les <b>5</b> ennemis vaincus par KING, régénère un nombre de PV égal à <b>10%</b> des PV max."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "Heart of Lava",
+        "name": "Cœur de lave",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Vernis antiacide II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

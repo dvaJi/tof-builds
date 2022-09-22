@@ -1,0 +1,24 @@
+{
+  "name": "Fiddlehead Soup",
+  "uri": "fiddleheadsoup",
+  "imgSrc": "fiddleheadsoup.webp",
+  "rarity": "3",
+  "chinaOnly": false,
+  "effect": "Recovers **10** satiety\nRecovers **16% + 34,000** HP",
+  "recipe": [
+    {
+      "name": "Fiddlehead",
+      "rarity": "3",
+      "uri": "fiddlehead",
+      "imgSrc": "fiddlehead.webp",
+      "amount": 2
+    },
+    {
+      "name": "Lettuce",
+      "rarity": "3",
+      "uri": "lettuce",
+      "imgSrc": "lettuce.webp",
+      "amount": 4
+    }
+  ]
+}

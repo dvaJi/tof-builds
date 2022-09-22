@@ -1,0 +1,162 @@
+{
+  "_id": 1,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "weapon": "Pena do Rouxinol",
+  "weapon_id": "nightingales_feather",
+  "birthday": "8 de maio (Touro)",
+  "birthplace": "Abrigo HT201",
+  "gender": "Feminino",
+  "info": "Ela não tem autoconfiança e se preocupa demais. Se importa mais com o que as outras pessoas pensam do que com suas próprias ideias, o que faz com que seja muito sensível e fique muito ansiosa com coisas pequenas. Por outro lado, ela tem os pés no chão, é gentil, educada e meticulosa.\nAinda está aprendendo e se desenvolvendo. Após ter percebido os seus problemas, ela está lentamente tentando se tornar alguém capaz de tomar a frente das coisas.",
+  "description": "Como líder atual do Abrigo HT201, Bai Ling é responsável por sua operação diária e pelo comando em combate. Ela assumiu a liderança recentemente, então ainda parece estar um pouco sobrecarregada e aflita na posição.\nO falecimento repentino do líder anterior deixou Bai Ling em choque, e sua personalidade inclinada à preocupação excessiva e à ansiedade também foi questionada por alguns dos membros do abrigo. Ela considera a liderança como um fardo pesado e está sempre preocupada em garantir que tudo funcione corretamente.\nApesar disso, também é atenciosa, responsável, meticulosa e habilidosa na contabilidade, de forma que, no momento, o Abrigo HT201 parece estar em boas mãos.",
+  "like": "Contabilidade, gerenciamento financeiro, contagem de estoque",
+  "dislike": "Ter que lidar com pessoas desconhecidas ou desagradáveis",
+  "element": "Physical",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Saque Ligeiro",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, saca o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>33.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>30.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>54.3%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>83.5%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância."
+    },
+    {
+      "name": "Tiro Concentrado",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal para carregar o disparo. Causa dano base de <b>60.5%</b> do ATQ + <b>3</b>, e mais <b>50%</b> por cada <b>1</b> segundo de concentração (máximo de <b>3</b> segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
+    },
+    {
+      "name": "Chuva de Flechas",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após qualquer ataque normal, segure o botão de ataque normal para desencadear Chuva de Flechas. Causa até <b>198.7%</b> do ATQ + <b>10</b> de dano em área a alvos."
+    },
+    {
+      "name": "Saraivada Aérea",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>38.8%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>51%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>117%</b> do ATQ + <b>6</b>."
+    },
+    {
+      "name": "Flecha Repulsora",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque após se esquivar para usar Flecha Repulsora. Repele o alvo uma curta distância e causa dano de <b>85.5%</b> do ATQ + <b>5</b>."
+    },
+    {
+      "name": "Tiro Perfurante",
+      "type": [
+        "Skill"
+      ],
+      "description": "Dá um mortal para trás e dispara <b>1</b> tiro perfurante para frente. Causa dano de <b>154.8%</b> do ATQ + <b>8</b> e repelindo o alvo. Tempo de recarga: <b>12</b> seg."
+    },
+    {
+      "name": "Salva Explosiva",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e lança uma Salva Explosiva sobre o alvo ao trocar para esta arma. Causa dano de <b>486.6%</b> do ATQ + <b>26</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Lesão",
+    "description": "Armas com carga completa causarão dano de <b>100%</b> do ATQ com o ataque seguinte e infligirão lesão ao alvo durante <b>7</b> segundos, que então sofrerá <b>20%</b> a mais de dano."
+  },
+  "advancement": [
+    "Restaura 1 tentativa de esquiva a cada cinco ataques normais ou após usar <span class=\"text-green\">Tiro Perfurante</span>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>10%</b>.",
+    "Aumenta o dano do tiro na cabeça em <b>30%</b>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>20%</b>.",
+    "Habilidades de esquiva infligem lesão a alvos durante <b>7</b> segundos.",
+    "Aumenta em <b>30%</b> a taxa de crítico contra alvos com lesão e em <b>50%</b> o dano crítico."
+  ],
+  "traits": [
+    {
+      "name": "Bai Ling: Valentia",
+      "icon": true,
+      "description": "Quando Bai Ling guarda o Planador ou a Prancha a Jato, a velocidade aumenta em <b>8%</b> durante <b>12</b> seg. Tempo de recarga: <b>60</b> segundos."
+    },
+    {
+      "name": "Bai Ling: Determinação",
+      "icon": true,
+      "description": "Quando Bai Ling guarda o Planador ou a Prancha a Jato, a velocidade aumenta em <b>15%</b> durante <b>12</b> seg. Tempo de recarga: <b>60</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

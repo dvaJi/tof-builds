@@ -1,0 +1,177 @@
+{
+  "_id": 5,
+  "id": "ene",
+  "name": "Ene",
+  "weapon": "Pilon",
+  "weapon_id": "pummeler",
+  "birthday": "17 août (lion)",
+  "birthplace": "Victoria Security",
+  "gender": "Féminin",
+  "info": "Elle semble paresseuse et non motivée lorsqu'il n'y a rien à faire, mais adopte un esprit très compétitif et enthousiaste au combat.\nElle est extrêmement fière de son corps robotique qui est agile, puissant et qui ne vieillit pas. Elle est également têtue et repousse ses propres limites, refusant de tomber avant les corps qui sont faits de chair.\nMentalement, toutefois, elle est restée une enfant et elle dévoile son côté fragile lorsqu'elle est en compagnie de son père.",
+  "description": "À l'époque de l'Ancienne Fédération, Victoria, une entrepreneuse militaire privée, a autrefois programmé une série de droïdes de combat et Ene a été le premier prototype du projet.\nL'objectif était de créer un droïde parfait avec sa propre identité et la capacité de penser, ressentir et calculer la prochaine action. Le propriétaire qui a donné le feu vert pour ce projet a chargé la sauvegarde de la conscience de sa défunte fille dans Ene en guise \"d'âme\" du droïde.\nFinalement, Ene a gagné le droit d'être une humaine et de devenir la fille du propriétaire.",
+  "like": "Être avec son père, les humains qui sont plus forts qu'elle",
+  "dislike": "Comprendre parfaitement la fragilité de la vie",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Tank",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Attaque normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, brandissez le marteau pour attaquer 4 fois d'affilée.\nPremière attaque : inflige des dégâts équivalant à <b>76.3%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>62.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>157.4%</b> de l'ATQ + <b>8</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>263.8%</b> de l'ATQ + <b>14</b> et projette la cible.\nPendant qu'Explosion de rage est active, brandissez le merlin pour attaquer 4 fois d'affilée.\nPremière attaque : inflige des dégâts équivalant à <b>{8}%</b> de l'ATQ + <b>{9}</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>{10}%</b> de l'ATQ + <b>{11}</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>{12}%</b> de l'ATQ + <b>{13}</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>{14}%</b> de l'ATQ + <b>{15}</b> et <b>suspend longuement</b> la cible."
+    },
+    {
+      "name": "Pilon",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, appuyez sur Attaque normale pour déclencher Pilon. Inflige des dégâts équivalant à <b>121.7%</b> de l'ATQ + <b>6</b> et suspend la cible.\nTant qu'Explosion de rage est active, inflige des dégâts équivalant à <b>133.9%</b> de l'ATQ + <b>7</b> et <b>suspend longuement</b> la cible.\nPlus vous prenez de l'altitude avant de déclencher l'attaque, plus les dégâts infligés sont importants, pour un bonus maximal de <b>600%</b>."
+    },
+    {
+      "name": "Onde de choc",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Les actions suivantes déclencheront Onde de choc : maintenir Attaque lorsque vous êtes en l'air, faire un double saut, appuyer brièvement sur Attaque dans les airs lorsque des cibles sont proches, escalader, sauter en arrière, ou attaquer pendant que vous utilisez le Jetpack. <b>Suspend longuement</b> la cible <b>4</b> fois, lui infligeant à chaque fois des dégâts équivalant à <b>34.8%</b> de l'ATQ + <b>2</b>. Coûte <b>250</b> d'endurance.\nTant que l'effet Explosion de rage est actif, l'onde de choc <b>suspend longuement</b> la cible <b>5</b> fois, lui infligeant à chaque fois des dégâts équivalant à <b>38.3%</b> de l'ATQ + <b>2</b>.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+    },
+    {
+      "name": "Attaque furtive",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>427.5%</b> de l'ATQ + <b>23</b>."
+    },
+    {
+      "name": "Frappe concentrée",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale pour déclencher Frappe concentrée (peut être rechargée jusqu'à 3 cumuls). Pendant la recharge, confère une immunité à tous les effets de contrôle ainsi que l'effet Hypercorps.\nPremier cumul : inflige des dégâts équivalant à <b>110%</b> de l'ATQ + <b>6</b> et suspend la cible.\nDeuxième cumul : inflige des dégâts équivalant à <b>276%</b> de l'ATQ + <b>15</b> et <b>suspend longuement</b> la cible.\nTroisième cumul : inflige des dégâts équivalant à <b>518%</b> de l'ATQ + <b>27</b> et <shuzhi>suspend longuement<shuzhi> la cible.\nTant qu'Explosion de rage est active, maintenez Attaque normale pour déclencher Frappes furieuses. Inflige des dégâts équivalant à <b>501.6%</b> de l'ATQ + <b>26</b> et <b>suspend longuement</b> la cible."
+    },
+    {
+      "name": "Frappe sautée",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Utilisez les flèches et la touche d'esquive pour déclencher Frappe sautée et libérer une onde de choc. L'ennemi est suspendu <b>4</b> fois et subit des dégâts équivalant à <b>161.6%</b> de l'ATQ + <b>9</b>."
+    },
+    {
+      "name": "Pourfendeur",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Pourfendeur et libérer <b>3</b> ondes de choc vers l'avant, chacune infligeant des dégâts équivalant à <b>52.4%</b> de l'ATQ + <b>3</b> et suspendant les cibles.\nEn mode Explosion de rage, envoie <b>5</b> ondes de choc vers l'avant, chacune infligeant des dégâts équivalant à <b>{0}%</b> de l'ATQ + <b>{1}</b>, et suspendant la cible."
+    },
+    {
+      "name": "Explosion de rage",
+      "type": [
+        "Skill"
+      ],
+      "description": "Change d'arme pour activer Explosion de rage, augmentant les dégâts infligés pendant <b>25</b> secondes.\nTant qu'Explosion de rage est active, les compétences déclenchent Fureur du vent, qui inflige des dégâts équivalant à <b>219%</b> de l'ATQ + <b>12</b>, <b>suspend longuement</b> la cible, et crée un courant d'air au sol. Tant que vous vous tenez dans le courant d'air, esquiver n'a aucun coût. Temps de recharge : <b>45</b> secondes (temps de recharge de Fureur du vent : <b>10</b> secondes)."
+    },
+    {
+      "name": "Merlin écrasant",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et <b>suspend longuement</b> les cibles proches au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>153.3%</b> de l'ATQ + <b>8</b>. Invoque aussi un merlin qui tombe sur les cibles proches, infligeant des dégâts équivalant à <b>153.3%</b> de l'ATQ + <b>8</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Coquille de glace",
+    "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>111%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+  },
+  "advancement": [
+    "Provoque les cibles à proximité après avoir pris cette arme, empêchant <b>1</b> instance de dégâts dans les <b>8</b> prochaines secondes et confère Hypercorps pendant les <b>8</b> prochaines secondes. Temps de recharge : <b>15</b> secondes.",
+    "Augmente de <b>10%</b> la croissance de PV de base actuelle de l'arme.",
+    "Après avoir subi des dégâts, réduisez tous les dégâts reçus de <b>50%</b> pendant les <b>6</b> prochaines secondes. Temps de recharge : <b>20</b> secondes.",
+    "Augmente de <b>20%</b> la croissance de PV de base actuelle de l'arme.",
+    "Les attaques normales <b>étourdissent</b> les cibles pendant <b>2,5</b> secondes. Temps de recharge : <b>20</b> secondes.",
+    "Les compétences de décharge infligent <b>10%</b> de dégâts en plus aux cibles et accroissent les dégâts de givre de <b>10%</b> supplémentaires pendant <b>25</b> secondes."
+  ],
+  "traits": [
+    {
+      "name": "Ene : Mode rapide",
+      "icon": true,
+      "description": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de <b>12%</b>."
+    },
+    {
+      "name": "Ene : Mode sans limites",
+      "icon": true,
+      "description": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de <b>20%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "_id": 5,
+  "id": "ene",
+  "name": "Ene",
+  "weapon": "Die Breitseite",
+  "weapon_id": "pummeler",
+  "birthday": "17. August (Löwe)",
+  "birthplace": "Victoria Security",
+  "gender": "Weiblich",
+  "info": "Sie ist zwar faul und träge, wenn es nichts zu tun gibt, aber im Kampf entwickelt sie großen Enthusiasmus und Ehrgeiz.\nSie ist ausgesprochen stolz auf ihren agilen und starken Roboterkörper, der nicht altert. Zudem ist sie sehr stur und geht an ihre Grenzen, um nicht gegen Menschen aus Fleisch und Blut zu verlieren.\nGeistig ist sie jedoch noch immer ein Kind. Wenn sie bei ihrem Vater ist, zeigt sie ihre verletzliche Seite.",
+  "description": "Während der alten Föderation plante die private militärische Vertragsfirma Victoria eine Reihe von Kampfandroiden, und Ene war der erste Prototyp des Projekts.\nZiel dabei war, einen perfekten Androiden mit eigener Identität zu schaffen, der denken, fühlen und folgerichtige Handlungen berechnen konnte. Der Firmeninhaber, der das Projekt bewilligt hatte, übertrug das Backup-Bewusstsein seiner verstorbenen Tochter in Ene, um dem Androiden eine „Seele“ zu geben.\nAls seine Tochter erhielt Ene schließlich den Status als Mensch.",
+  "like": "Zeit mit ihrem Vater verbringen; Menschen, die stärker als sie sind",
+  "dislike": "Sich der Zerbrechlichkeit des Lebens bewusst sein",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Tank",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 10,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Wenn der Anwender auf dem Boden steht und den Vorschlaghammer schwingt, kann er 4-mal hintereinander angreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>76.3%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>62.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>157.4%</b> des ANG + <b>8</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>263.8%</b> des ANG + <b>14</b> und schleudert das Ziel weg.\nWenn der Anwender den Hammer schwingt, während „Rage“ aktiv ist, kann er 4-mal hintereinander angreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>{8}%</b> des ANG + <b>{9}</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>{10}%</b> des ANG + <b>{11}</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>{12}%</b> des ANG + <b>{13}</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>{14}%</b> des ANG + <b>{15}</b> und lässt das Ziel <b>länger schweben</b>."
+    },
+    {
+      "name": "Stampfen",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tippe, während du in der Luft bist, den normalen Angriff, um „Stampfen“ auszulösen. Verursacht Schaden in Höhe von <b>121.7%</b> des ANG + <b>6</b> und lässt das Ziel schweben.\nWährend „Rage“ aktiv ist, verursachst du Schaden in Höhe von <b>133.9%</b> des ANG + <b>7</b> und lässt das Ziel <b>länger schweben</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+    },
+    {
+      "name": "Schockwelle",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Eine Schockwelle wird ausgelöst durch Tippen und Halten in der Luft oder bei einem Doppelsprung, durch kurzes Tippen in der Luft, wenn sich Ziele in der Nähe befinden, beim Klettern oder Rückwärtsspringen oder durch Angriffe mit dem Jetpack. Lässt das Ziel <b>4</b>-mal <b>länger schweben</b> und verursacht jedes Mal Schaden in Höhe von <b>34.8%</b> des ANG + <b>2</b>. Ausdauerkosten <b>250</b>.\nWährend „Rage“ aktiv ist, lässt „Schockwelle“ das Ziel <b>5</b>-mal <b>länger schweben</b> und verursacht jedes Mal Schaden in Höhe von <b>38.3%</b> des *ANG + <b>2</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+    },
+    {
+      "name": "Schleichattacke",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>427.5%</b> des ANG + <b>23</b> zu verursachen."
+    },
+    {
+      "name": "Gezielter Aufprall",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Halte den normalen Angriff gedrückt, um „Gezielter Aufprall“ auszulösen (bis zu 3-mal stapelbar). Gewährt während der Ladung Immunität gegen alle Kontrolleffekte und gegen Hyperkörper.\nErster Stapel: verursacht Schaden in Höhe von <b>110%</b> des ANG + <b>6</b> und lässt das Ziel schweben.\nZweiter Stapel: verursacht Schaden in Höhe von <b>276%</b> des ANG + <b>15</b> und lässt das Ziel <b>länger schweben</b>.\nDritter Stapel: verursacht Schaden in Höhe von <b>518%</b> des ANG + <b>27</b> und lässt das Ziel <b>länger schweben</b>.\nWährend „Rage“ aktiv ist, halte die normale Angriffstaste gedrückt, um „Rasende Schläge“ auszulösen. Dies verursacht Schaden in Höhe von <b>501.6%</b> des ANG + <b>26</b> und lässt das Ziel <b>länger schweben</b>."
+    },
+    {
+      "name": "Springender Aufprall",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Benutze die Pfeiltasten und die Ausweichen-Taste, um Springender Aufprall auszulösen. Dadurch wird eine Schockwelle entfesselt, die den Gegner <b>4</b> Mal in die Luft schleudert, um Schaden in Höhe von <b>161.6%</b> des ANG + <b>9</b> zu verursachen."
+    },
+    {
+      "name": "Weltenspalter",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um Weltenspalter auszulösen. Dadurch werden <b>3</b> Schockwellen nach vorne geschickt, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG + <b>3</b> verursachen und die Ziele schweben lassen.\nWährend du in Rage bist, feuerst du <b>5</b> Schockwellen nach vorne, die jeweils Schaden in Höhe von <b>{0}%</b> des <b>{1}</b> verursachen und das Ziel schweben lassen."
+    },
+    {
+      "name": "Rage",
+      "type": [
+        "Skill"
+      ],
+      "description": "Wechseln, um „Rage“ zu aktivieren und den verursachten Schaden <b>25</b> Sek. lang zu erhöhen.\nWährend „Rage“ aktiv ist, lösen Fähigkeiten „Zorn der Lüfte“ aus. Dies verursacht Schaden in Höhe von <b>219%</b> des ANG + <b>12</b>, lässt das Ziel <b>länger schweben</b> und erzeugt einen Luftstrom auf dem Boden. Solange man im Luftstrom steht, kostet das Ausweichen nichts. Abklingzeit: <b>45</b> Sek. (Abklingzeit von „Zorn der Lüfte“: <b>10</b> Sek)."
+    },
+    {
+      "name": "Zerfleischen",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, lässt der Wechsel zu dieser Waffe Ziele in der Nähe <b>länger schweben</b> und \n<b>entfernt alle Debuffs vom Anwender</b>. Dies verursacht Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b>. Außerdem wird ein Vorschlaghammer beschworen, der auf Ziele in der Nähe fällt und Schaden in Höhe von <b>153.3%</b> des ANG + <b>8</b> verursacht."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eispanzer",
+    "description": "Voll geladene Waffen <b>gefrieren</b> das Ziel für <b>2</b> Sekunden und verursachen für <b>6</b> Sekunden Frostschaden. Das Durchbrechen des Eispanzers verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während Frostschaden ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> reduziert."
+  },
+  "advancement": [
+    "Verspottet Ziele in der Nähe nach dem Wechsel zu dieser Waffe, verhindert innerhalb der nächsten <b>8</b> Sek. <b>1</b>-mal eingehenden Schaden und gewährt Hyperkörper für die nächsten <b>8</b> Sek. Abklingzeit: <b>15</b> Sek.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>10%</b>.",
+    "Reduziert nach erlittenem Schaden für die nächsten <b>6</b> Sek. allen erlittenen Schaden um <b>50%</b>. Abklingzeit: <b>20</b> Sek.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>20%</b>.",
+    "Normale Angriffe <b>betäuben</b> Ziele für <b>2,5</b> Sek. Abklingzeit: <b>20</b> Sek.",
+    "Entladungsfähigkeiten fügen Zielen für <b>25</b> Sek. <b>10%</b> zusätzlichen Schaden zu und erhöhen den Frostschaden zusätzlich um <b>10%</b>."
+  ],
+  "traits": [
+    {
+      "name": "Ene: Schneller Modus",
+      "icon": true,
+      "description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um <b>12%</b>."
+    },
+    {
+      "name": "Ene: Grenzenloser Modus",
+      "icon": true,
+      "description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um <b>20%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Eiskern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}
