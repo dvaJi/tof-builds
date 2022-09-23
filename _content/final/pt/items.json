@@ -150,7 +150,7 @@
     "rarity": "N"
   },
   {
-    "_id": 21,
+    "_id": 24,
     "id": "heart_of_lightning",
     "name": "Coração-de-raio",
     "description": "Um minério com poder elemental de raio. Com boa iluminação, é possível ver clarões dentro dele.",
@@ -167,7 +167,7 @@
   },
   {
     "_id": 23,
-    "id": "Heart of Lava",
+    "id": "heart_of_lava",
     "name": "Coração-de-lava",
     "description": "Um minério raro que contém poder elemental de fogo. A vermelhidão ardente é prova do poder que há dentro dele.",
     "usage": "Serve para aumentar armas.",

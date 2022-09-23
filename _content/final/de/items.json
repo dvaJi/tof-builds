@@ -150,7 +150,7 @@
     "rarity": "N"
   },
   {
-    "_id": 21,
+    "_id": 24,
     "id": "heart_of_lightning",
     "name": "Herz des Blitzes",
     "description": "Seltenes Erz mit Voltelementarkraft. Bei guter Beleuchtung kann man Blitze darin sehen.",
@@ -167,7 +167,7 @@
   },
   {
     "_id": 23,
-    "id": "Heart of Lava",
+    "id": "heart_of_lava",
     "name": "Herz aus Lava",
     "description": "Seltenes Erz mit Feuerelementarkraft. Die feurige Röte ist ein ausreichender Beweis für die darin enthaltene Kraft.",
     "usage": "Für die Verstärkung von Waffen.",

@@ -1,0 +1,289 @@
+{
+  "_id": 11,
+  "id": "nemesis",
+  "name": "Nemesis",
+  "weapon": "Venus",
+  "weapon_id": "venus",
+  "birthday": "23 May (Gemini)",
+  "birthplace": "Angel of Clemency",
+  "gender": "Female",
+  "info": "After the restructure consisting of procedures including brainwashing, memory-erasing, and a second character implant, she has been quite emotionally unstable for a while. \nThe original character of Shirli was forced into suppression. Luckily, things have basically recovered, with slight concern remaining for some potential threat. \nSure enough, she could never return to the Shirli filled with liveliness, but she's mostly recovered like an ordinary girl. \nThe doubt about her own existence is still lingering, which embodies the restlessness and wounds left in her. Well... At least, she could summon the courage in the face of things, which is a sign of a good beginning.",
+  "description": "An Angel of Clemency newly born through restructure of Shirli, a nurse trainee at Astra Shelter, with half the flesh and nerves replaced by mechs and circuits.\n\nAs a human, she once suffered from direct impulse of Omnium Radiation due to damaged suppressor. However, before the complete aberration, she was sent to the Heirs of Aida for experimental treatment, which was miraculously a success. \n\nWith her restructure recently done, she is the most unstable one among all Angels of Clemency, but also the one equipped with the latest technologies of the Heirs of Aida.",
+  "like": "Drawing, jigsaw puzzles, and orange soda",
+  "dislike": "Bugs and startling",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Initiate 5 attacks in a row with Balmung when on the ground.\nThe first attack deals damage equal to <b>50.8%</b> of ATK + <b>3</b> and causes minor knockback.\nThe second attack deals damage equal to <b>36.3%</b> of ATK + <b>2</b> and causes minor knockback.\nThe third attack deals damage equal to <b>98.3%</b> of ATK + <b>5</b> and causes minor knockback.\nThe fourth attack deals damage equal to <b>67.3%</b> of ATK + <b>4</b> and causes minor knockback.\nThe fifth attack deals damage equal to <b>148.3%</b> of ATK + <b>8</b> and knocks down the target."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>62.5%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>62%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>3%</b> of ATK + <b>120</b>.\nFourth Attack: Deal damage equal to <b>6%</b> of ATK + <b>71.2</b>.\nFifth Attack: Deal damage equal to <b>4%</b> of ATK + <b>126</b>."
+    },
+    {
+      "name": "Forward Pursuit",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After the second normal attack, hold the normal attack to trigger Forward Pursuit.\nShoot a laser-guided missile at the target, dealing damage up to <b>107.5%</b> of ATK + <b>6</b>."
+    },
+    {
+      "name": "Dual Focus",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Hold normal attack to charge a shot and release an electrified ball that explodes on hit, dealing damage equal to <b>118.4%</b> of ATK + <b>6</b> to nearby enemies."
+    },
+    {
+      "name": "Twin Spinning Focus",
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect attack window to trigger a slowing magnetic field.\nVenus fires a charged orb that travels forward a set distance and explodes in contact with targets. Deal damage equal to <b>171.6%</b> of ATK + <b>9</b>, and generate a slowing magnetic field for <b>3</b> seconds, which reduces the movement speed and attack speed of all enemies caught within by <b>35%</b>.\nDodging will trigger a healing chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small healing chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of healing chain enhance, which increases the effects of healing chains by <b>25%</b> (stacks up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons will cancel this effect."
+    },
+    {
+      "name": "Parallel Beams",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap a directional key while dodging) to trigger Parallel Beams.\nVenus fires a pair of parallel energy beams, dealing piercing damage equal to <b>171.6%</b> of ATK + <b>9</b>.\nDodging will trigger a healing chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small healing chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of healing chain enhance, which increases the effects of healing chains by <b>25%</b> (stack up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons will cancel this effect."
+    },
+    {
+      "name": "Pulse Lock",
+      "type": [
+        "Skill"
+      ],
+      "description": "Venus fires a guided missile that explodes on contact with enemy targets, dealing damage equal to <b>233.2%</b> of ATK + <b>12</b> and knocking down targets. <b>25</b>-second cooldown."
+    },
+    {
+      "name": "Particle Beam Burst",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon will <b>clear all debuffs from the user</b> and command Venus to fire a cross-shaped ray at the ground, creating an unstable area and reducing targets' movement speed by <b>70%</b> for <b>5</b> seconds. After a brief delay, unleash an electromagnetic burst that deals damage equal to <b>393.9%</b> of ATK + <b>21</b>.\nUsing a discharge attack will spawn <b>1</b> Electrode near the enemy's position that attacks once every <b>1.5</b> seconds, dealing damage equal to <b>39.9%</b> of ATK + <b>2</b>.\nThe Electrode gains <b>100%</b> of the Wanderer's stats, can be attacked or healed, and loses <b>3%</b> of its max HP every second.\nOnly <b>1</b> Electrode can exist at any given time, and summoning a new Electrode will replace the previous one."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+  },
+  "weapon_resonance": {
+    "name": "Volt Resonance",
+    "description": "<b>Volt Resonance</b>: Increase volt ATK by <b>15%</b> and volt resistance by <b>25%</b>. Activate by equipping <b>2</b> or more volt weapons. This set's effects do not work with others."
+  },
+  "advancement": [
+    "After using <b>Pulse Lock</b> or <b>Particle Beam Burst</b>, creates <b>1</b> Electrode that immediately grants the user <b>5</b> stacks of healing chain enhance. In addition, unleash a healing chain that heals nearby allies by <b>135%</b> of the Wanderer's ATK.",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "Every <b>6</b> seconds, the Electrode will unleash <b>Ring Lightning</b>, which deals damage equal to a maximum of <b>205%</b> of ATK in a target area.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "After using <b>Pulse Lock</b>, increase the Wanderer's ATK by (<b>6.5</b> + (Number of Electrodes x<b>6.5</b>))% for <b>25</b> seconds.",
+    "Up to <b>2</b> Electrodes can be active at the same time. Summoning more Electrodes will replace the ones furthest from the user."
+  ],
+  "traits": [
+    {
+      "name": "Nemesis: Metamorphosis",
+      "icon": true,
+      "description": "After summoning an Electrode, deal volt damage equal to <b>60%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>120%</b> of ATK."
+    },
+    {
+      "name": "Nemesis: Sublimation",
+      "icon": true,
+      "description": "After summoning an Electrode, deal volt damage equal to <b>100%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>200%</b> of ATK."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Heart of lightning",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

@@ -150,7 +150,7 @@
     "rarity": "N"
   },
   {
-    "_id": 21,
+    "_id": 24,
     "id": "heart_of_lightning",
     "name": "Corazón de rayo",
     "description": "Un mineral inusual que contiene poder elemental eléctrico. Con buena luz, pueden observarse relámpagos en su interior.",
@@ -167,7 +167,7 @@
   },
   {
     "_id": 23,
-    "id": "Heart of Lava",
+    "id": "heart_of_lava",
     "name": "Corazón de lava",
     "description": "Un mineral inusual que contiene poder elemental de fuego. Su intenso color rojo es prueba suficiente del poder que contiene.",
     "usage": "Para aumentar las armas.",

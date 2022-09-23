@@ -1,0 +1,171 @@
+{
+  "_id": 12,
+  "id": "pepper",
+  "name": "Pepper",
+  "weapon": "Bâton des balafres",
+  "weapon_id": "staff_of_scars",
+  "birthday": "9 juillet (cancer)",
+  "birthplace": "Service médical d'Hykros",
+  "gender": "Féminin",
+  "info": "Une infirmière connue pour sa patience, sa gentillesse et son sourire. Bien qu'elle soit connue pour son éthique au travail à toute épreuve, son corps et sa vigueur n'arrivent pas à suivre. Et avec son perfectionnisme, elle est constamment fatiguée.\nOn lui a diagnostiqué une insomnie sévère, une légère anxiété et de l'obsession, bien qu'aucun des symptômes ne soit évident en raison de sa forte autodiscipline.",
+  "description": "Née au sein d'une famille aisée de Banges, elle a reçu une éducation supérieure à la moyenne et a toujours été sage. Un jour, lors d'une attaque d'aberrants, ses parents ont perdu leurs suppresseurs.\nIls ne sont pas morts, ils sont devenus des aberrants. Alors qu'un Exécutant était sur le point de mettre fin à leurs souffrances, Pepper, qui avait survécu, l'a supplié de les épargner. Ils sont maintenant confinés quelque part et leurs soins sont financés par la fortune de la famille, qui s'épuise peu à peu.\nC'est pourquoi Pepper travaille au sein du service médical de Hykros. Elle a choisi de consacrer le reste de ses jours à la recherche d'un moyen de lutter contre l'aberration…",
+  "like": "Ses parents, travail, progresser dans ses recherches",
+  "dislike": "Couchers",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Attaque normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, brandissez le bâton pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>25.1%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>18.8%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>30.4%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>41.4%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>73.2%</b> de l'ATQ + <b>4</b>."
+    },
+    {
+      "name": "Barrage aérien",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>32.5%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>23.5%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>25.5%</b> de l'ATQ + <b>1</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>45.6%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>47.7%</b> de l'ATQ + <b>3</b>."
+    },
+    {
+      "name": "Tombelune",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Tombelune.\nÀ l'atterrissage, vous infligez des dégâts toutes les <b>0,2</b> seconde, pour un total de dégâts correspondant à <b>57.2%</b> de l'ATQ + <b>3</b>."
+    },
+    {
+      "name": "Attaque concentrée",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher des attaques ramifiées, consommant <b>300</b> points d'endurance.\nPremière attaque : attire les ennemis devant l'utilisateur, les <b>suspendant</b> et leur infligeant des dégâts équivalant à <b>16.1%</b> de l'ATQ + <b>1</b> chaque <b>0,3</b> seconde (jusqu'à <b>4</b> fois).\nDeuxième attaque : inflige des dégâts équivalant à <b>18.6%</b> de l'ATQ + <b>1</b> à l'emplacement ciblé et aux ennemis proches chaque <b>0,3</b> seconde."
+    },
+    {
+      "name": "Déferlement",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Déferlement.\nChaque vague d'énergie inflige aux cibles des dégâts équivalant à <b>22.6%</b> de l'ATQ + <b>1</b>.\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+    },
+    {
+      "name": "Tesseract",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur l'attaque normale immédiatement après avoir esquivé pour déclencher Explosion évasive.\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à <b>32.1%</b> de l'ATQ + <b>2</b> aux cibles sur sa trajectoire chaque <b>0,3</b> seconde (jusqu'à 5 fois).\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+    },
+    {
+      "name": "Sanctuaire",
+      "type": [
+        "Skill"
+      ],
+      "description": "Vous créez un bouclier d'énergie à l'endroit où se trouve l'Explorateur. Ce bouclier applique des soins aux alliés correspondant à <b>81.7%</b> de l'ATQ + <b>4</b> toutes les secondes, et réduit les dégâts reçus de <b>3%</b> pendant <b>10</b> secondes. <b>60</b> secondes de recharge."
+    },
+    {
+      "name": "Délivrance rapide",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de <b>{2}%</b> de l'ATQ + <b>{3}</b> PV pendant <b>7</b> secondes."
+    }
+  ],
+  "weapon_type": {
+    "name": "Foudre",
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>106%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+  },
+  "advancement": [
+    "Après l'utilisation d'une compétence d'esquive, soigne les membres du groupe dans un rayon de <b>10</b> m d'un nombre de PV égal à <b>100%</b> de l'ATQ.",
+    "Augmente de <b>10%</b> la croissance de PV de base actuelle de l'arme.",
+    "Les attaques normales tirent aussi deux missiles, chacun infligeant à la cible des dégâts équivalant à <b>5%</b> de l'ATQ et régénérant <b>5</b> points de recharge d'arme.",
+    "Augmente de <b>20%</b> la croissance de PV de base actuelle de l'arme.",
+    "Augmente de <b>20%</b> la vitesse d'obtention d'une recharge d'arme (ne s'applique pas aux attaques des missiles).",
+    "Confère à tous les membres du groupe à portée une réduction de dégâts de <b>60%</b> lorsqu'une compétence dissipe les effets de contrôle sur la cible."
+  ],
+  "traits": [
+    {
+      "name": "Pepper : Renaissance",
+      "icon": true,
+      "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>100%</b>."
+    },
+    {
+      "name": "Pepper : Source",
+      "icon": true,
+      "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>200%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

@@ -272,7 +272,7 @@
       "level": 80,
       "cost": 3600,
       "mat1": {
-        "id": "Heart of Lava",
+        "id": "heart_of_lava",
         "name": "Heart of Lava",
         "rarity": "R",
         "amount": 5

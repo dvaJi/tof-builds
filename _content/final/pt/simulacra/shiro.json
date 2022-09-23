@@ -1,0 +1,285 @@
+{
+  "_id": 14,
+  "id": "shiro",
+  "name": "Shiro",
+  "weapon": "Chakram dos Mares",
+  "weapon_id": "chakram_of_the_seas",
+  "birthday": "22 de setembro (Virgem)",
+  "birthplace": "Desconhecido",
+  "gender": "Feminino",
+  "info": "Ela é antissocial, não gosta de conversar com pessoas estranhas e fica nervosa quando encontra alguém pela primeira vez.\nEla nem mesmo presta muita atenção nas pessoas ao redor e só se anima quanto o assunto da conversa é algo de seu interesse. Nesses momentos ela fala na velocidade da luz e fica nervosa se o seu interlocutor não consegue acompanhar.\nEla é quase como um gato: fria e distante na maior parte do tempo, mas se irrita quando quer atenção e não há ninguém por perto.",
+  "description": "As pessoas dizem que Shiro, a oceanógrafa, é uma \"solitária maníaca pelo oceano\". Essa garota arredia fica um tanto quanto inflamada e leal quando está olhando para o oceano.\nDepois de crescer, quando começou a mostrar o seu talento para a oceanografia, ela viajou sozinha por muitos anos e mediu a distribuição do oceano em Aida, uma tarefa monumental, que contribuiu significativamente para a compreensão dos humanos acerca de Aida.",
+  "like": "Oceanos, criaturas marinhas novas ou consideradas interessantes",
+  "dislike": "Desconhecido",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "DPS",
+  "shatter": 11.7,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Arremesso Veloz",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda o chakram para executar 5 ataques giratórios.\nPrimeiro ataque: Causa dano de <b>30.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>23.8%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>34%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>30.7%</b> do ATQ + <b>2</b>.\nQuinto ataque: Causa dano de <b>53.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância."
+    },
+    {
+      "name": "Disparo Aéreo",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para executar 3 ataques giratórios seguidos.\nPrimeiro ataque: Causa dano de <b>26.2%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>29.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>37.2%</b> do ATQ + <b>2</b>."
+    },
+    {
+      "name": "Chakrans Repulsores",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após o segundo ataque normal, segure o botão de ataque para ativar Chakrans Repulsores.\nDispara cinco chakrans penetrantes para frente; cada acerto causa <b>43.5%</b> do ATQ + <b>2</b> do dano, com uma leve repulsão."
+    },
+    {
+      "name": "Rodopio Aéreo",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "No ar, segure o botão de ataque normal para usar Rodopio Aéreo.\nDesfere um golpe poderoso que causa dano de <b>191.5%</b> do ATQ + <b>10</b> ao alvo e a alvos próximos e os suspende."
+    },
+    {
+      "name": "Ataque Furtivo",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>427.5%</b> do ATQ + <b>23</b>."
+    },
+    {
+      "name": "Lua Minguante",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal logo após se esquivar para usar Lua Minguante.\nArremessa um chakram giratório para frente que causa dano de <b>132.9%</b> do ATQ + <b>7</b> ao alvo e inflige <b>atordoamento</b> durante <b>0,5</b> segundo. Então, o chakram se divide em <b>3</b> e continua percorrendo seu trajeto, causando dano de <b>24.2%</b> do ATQ + <b>1</b> a alvos no caminho. <span class=\"text-red\">Chakrans divididos ricocheteiam durante Extermínio</span>."
+    },
+    {
+      "name": "Extermínio",
+      "type": [
+        "Skill"
+      ],
+      "description": "Cria uma Área de Chakrans com você no centro durante <b>8</b> segundos. Ao mesmo tempo, os inimigos são sugados e a velocidade deles é reduzida em <b>30%</b> durante <b>8</b> segundos. Lança <b>5</b> chakrans que ricocheteiam entre alvos e causam dano de <b>24.2%</b> do ATQ + <b>1</b> a alvos no caminho, até no máximo <b>5</b> vezes. <span class=\"text-red\">Os chakrans divididos de Lua Minguante também ricocheteiam 5 vezes.</span> Tempo de recarga: <b>45</b> seg."
+    },
+    {
+      "name": "Espírito do Ar",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e arremessa o Chakram dos Mares contra um alvo ao trocar para esta arma. Alvos atingidos causam <b>atordoamento</b> em área durante <b>1</b> segundo, mais <b>1</b> ataque cada contra até <b>3</b> alvos por segundo (cada ataque tem <b>10%</b> de chance de <b>atordoar</b> o alvo durante <b>1,5</b> segundo), causando dano de <b>41.4%</b> do ATQ + <b>2</b> durante <b>10</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Lesão",
+    "description": "Armas com carga completa causarão dano de <b>137%</b> do ATQ com o ataque seguinte e infligirão lesão ao alvo durante <b>7</b> segundos, que então sofrerá <b>20%</b> a mais de dano."
+  },
+  "advancement": [
+    "Aumenta em <b>30%</b> o dano causado e todos os efeitos de despedaçar elemental a alvos dentro do raio de <span class=\"text-green\">Extermínio</span>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Aumenta o despedaçar em <b>15%</b> e zera a recarga de todas as habilidades de arma após despedaçar o escudo do alvo. Só pode ser acionado uma vez a cada <b>30</b> segundos.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
+    "Atacar um alvo com lesão prolonga a duração da lesão em mais <b>7</b> segundos (só surte efeito uma vez para o mesmo efeito).",
+    "Usar <span class=\"text-green\">Extermínio</span> dá 100% de chance de crítico para os <b>8</b> segundos seguintes."
+  ],
+  "traits": [
+    {
+      "name": "Shiro: Alerta de Segurança",
+      "icon": true,
+      "description": "Quando Shiro usa uma habilidade de arma ou de descarga, aumenta em <b>10%</b> todos os tipos de ATQ e o ATQ físico em <b>7%</b> a mais. Dura <b>8</b> segundos. Tempo de recarga: <b>16</b> seg."
+    },
+    {
+      "name": "Shiro: Sinal Vermelho",
+      "icon": true,
+      "description": "Quando Shiro usa uma habilidade de arma ou de descarga, aumenta em <b>16%</b> todos os tipos de ATQ e o ATQ físico em <b>10%</b> a mais. Dura <b>8</b> segundos. Tempo de recarga: <b>16</b> seg."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "Coração-de-montanha",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Revestimento antiácido II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Corpo reforçado II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

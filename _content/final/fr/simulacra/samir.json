@@ -1,0 +1,277 @@
+{
+  "_id": 13,
+  "id": "samir",
+  "name": "Samir",
+  "weapon": "Étoiles EM doubles",
+  "weapon_id": "dual_em_stars",
+  "birthday": "20 mai (taureau)",
+  "birthplace": "Hykros",
+  "gender": "Féminin",
+  "info": "Fainéante et égocentrique, Samir apprécie les blagues et les farces inoffensives.\nMalgré son statut d'Exécutante d'Hykros et son incroyable force, Samir présente une personnalité paresseuse et non fiable qui pose problème. À cause de son habitude à jouer des tours à ses collègues, tous ceux qui travaillent avec elle sont à cran et sa réputation n'est pas totalement positive. Cependant, Samir ne semble pas s'en préoccuper.",
+  "description": "Son passé est parsemé d'interrogations.\nActuellement, on sait qu'elle était une orpheline adoptée par un résident de Banges. À l'âge adulte, elle a rejoint Hykros et elle est devenue Exécutante après une formation.\n\nElle est très douée et fait même partie des Exécutants d'élite. Hykros a déjà envisagé de lui demander de devenir la formatrice pour les nouvelles recrues, mais a fini par y renoncer parce que sa personnalité ne correspondait pas à ce rôle.",
+  "like": "Résoudre des énigmes et des meurtres mystérieux",
+  "dislike": "Inconnu",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10.7,
+  "skills": [
+    {
+      "name": "Double feu",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>47.1%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>35.8%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>119.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>113.1%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>154%</b> de l'ATQ + <b>8</b>, et <b>projetez</b> la cible."
+    },
+    {
+      "name": "Pluie de balles",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale lorsque vous êtes dans les airs pour tirer continuellement au sol, et infliger des dégâts équivalant à <b>50.6%</b> de l'ATQ + <b>3</b>. Chaque frappe consomme <b>150</b> d'endurance."
+    },
+    {
+      "name": "Explosion d'énergie",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Maintenez Attaque pour tirer de façon continue, chaque coup infligeant <b>23%</b> de l'ATQ + <b>1</b> dégâts de base."
+    },
+    {
+      "name": "Coup de pied fantôme",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Lorsque vous êtes en l'air, maintenez l'attaque normale enfoncée pour déclencher Coup de pied fantôme. Renverse la cible et inflige un nombre de dégâts égal à <b>70.5%</b> de l'ATQ + <b>4</b>. Au moment où vous atterrissez, inflige un nombre de dégâts égal à <b>98.7%</b> de l'ATQ + <b>5</b> aux cibles proches et les <b>projette</b>."
+    },
+    {
+      "name": "Coup de pied de foudre ascendant",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Après avoir esquivé, appuyez sur Attaque normale pour <b>suspendre longuement</b> les ennemis et leur infliger des dégâts équivalant à <b>122.6%</b> de l'ATQ + <b>6</b>."
+    },
+    {
+      "name": "Champ électrique",
+      "type": [
+        "Skill"
+      ],
+      "description": "Lance un bouclier d'énergie à l'emplacement ciblé qui reflète les rayons dans la barrière. Inflige des dégâts équivalant à <b>269.8%</b> de l'ATQ + <b>14</b> ; le dernier coup <b>suspend longuement les cibles</b>. Temps de recharge : <b>45</b> secondes."
+    },
+    {
+      "name": "Domaine du tonnerre",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée un Domaine du tonnerre à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, <b>suspendant longuement</b> les cibles dans la zone d'effet et infligeant un total de dégâts égal à <b>238.3%</b> de l'ATQ + <b>13</b> en 3 attaques, tout en dissipant leurs effets bénéfiques. Le domaine dure <b>3,5</b> secondes et inflige des dégâts équivalant à <b>42.4%</b> de l'ATQ + <b>2</b> à une cible chaque <b>0,5</b> seconde."
+    }
+  ],
+  "weapon_type": {
+    "name": "Foudre",
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+  },
+  "advancement": [
+    "Déclenche une explosion électrique sur la cible après avoir porté un coup critique, infligeant des dégâts supplémentaires correspondant à <b>30%</b> de l'ATQ à la cible et aux ennemis proches. Temps de recharge : <b>0,2</b> seconde.",
+    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>40%</b> le taux de critique aux cibles électrifiées. Les explosions électriques prolongent de <b>0,5</b> seconde la durée des effets électrifiés, dans la limite de <b>5</b> secondes.",
+    "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Double la durée de Champ électrique et attire les cibles au centre de l'attaque.",
+    "Le déclenchement d'une explosion électrique réduit de <b>1</b> seconde les temps de recharge des compétences."
+  ],
+  "traits": [
+    {
+      "name": "Samir : Supercherie",
+      "icon": true,
+      "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>3%</b> et le maximum est de <b>4</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>1</b>."
+    },
+    {
+      "name": "Samir : Ombre",
+      "icon": true,
+      "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>4%</b> et le maximum est de <b>5</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>2</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Cœur de foudre",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

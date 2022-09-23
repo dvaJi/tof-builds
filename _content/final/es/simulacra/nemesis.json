@@ -1,0 +1,289 @@
+{
+  "_id": 11,
+  "id": "nemesis",
+  "name": "Némesis",
+  "weapon": "Venus",
+  "weapon_id": "venus",
+  "birthday": "23 de mayo (Géminis)",
+  "birthplace": "Ángel de la clemencia",
+  "gender": "Femenino",
+  "info": "Después de la reestructura, que consiste de lavado de cerebro, borrado de memoria y un implante de una segunda personalidad, ha estado un tanto inestable emocionalmente por un tiempo.\nSe forzó la supresión de la personalidad original de Shirli. Por suerte, básicamente, la situación se estabilizó, con una ligera preocupación que queda por alguna amenaza potencial. \nEs seguro que nunca volverá a ser la Shirli llena de vitalidad, pero ya está más recuperada como una niña normal. \nLa duda sobre su propia existencia sigue ahí, lo que personifica la inquietud y las heridas que quedan en ella. Bueno... al menos reunió el valor de enfrentar sus miedos, lo cual es una señal de un buen inicio.",
+  "description": "Un Ángel de la Clemencia que acaba de nacer mediante la reestructuración de Shirli, una estudiante de enfermería en el Refugio de Astra, con la mitad de la carne y los nervios reemplazados con partes mecánicas y circuitos.\n\nComo humana, sufría del impulso directo de la radiación por Omnio por el supresor de daño. Pero antes de completar la aberración, fue enviada a los Herederos de Aida para un tratamiento experimental, que milagrosamente fue un éxito. \n\nCon su recién formada estructura, es uno de los Ángeles de la Clemencia más inestables, pero también quien tiene el mejor equipo con la tecnología más reciente de los Herederos de Aida.",
+  "like": "Dibujar, rompecabezas y soda de naranja",
+  "dislike": "Errores y sorpresas",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, inicia 5 ataques seguidos con Balmung.\nEl primer ataque inflige daño equivalente al <b>50.8%</b> del ATQ + <b>3</b> y hace retroceder un poco.\nEl segundo ataque inflige daño equivalente al <b>36.3%</b> del ATQ + <b>2</b> y hace retroceder un poco.\nEl tercer ataque inflige daño equivalente al <b>98.3%</b> del ATQ + <b>5</b> y hace retroceder un poco.\nEl cuarto ataque inflige daño equivalente al <b>67.3%</b> del ATQ + <b>4</b> y hace retroceder un poco.\nEl quinto ataque inflige daño equivalente al <b>148.3%</b> del ATQ + <b>8</b> y derriba al objetivo."
+    },
+    {
+      "name": "Descarga aérea",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>62.5%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>62%</b> del ATQ + <b>5</b>.\nTercer ataque: inflige daño equivalente al <b>3%</b> del ATQ + <b>120</b>.\nCuarto ataque: inflige daño equivalente al <b>6%</b> del ATQ + <b>71.2</b>.\nQuinto ataque: inflige daño equivalente al <b>4%</b> del ATQ + <b>126</b>."
+    },
+    {
+      "name": "Persecución hacia adelante",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Después del segundo ataque normal, mantén el ataque normal para activar Persecución hacia adelante.\nDispara un misil guiado por láser hacia el objetivo e inflige daño equivalente a hasta el <b>107.5%</b> del ATQ + <b>6</b>."
+    },
+    {
+      "name": "Enfoque Doble",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal para disparar y liberar una bola eléctrica que explota al impacto, lo que inflige daño equivalente al <b>118.4%</b> del ATQ + <b>6</b> a los enemigos cercanos."
+    },
+    {
+      "name": "Concentración de Giro Gemelo",
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de un ataque perfecto para activar un campo magnético ralentizador.\nVenus dispara un orbe cargado que recorre una distancia establecida y explota al contacto con los objetivos. Inflige daño equivalente al <b>171.6%</b> del ATQ + <b>9</b> y genera un campo magnético ralentizador durante <b>3</b> segundos, lo que reduce la velocidad de movimiento y la velocidad de ataque de todos los enemigos alcanzados en un <b>35%</b>.\nEsquivar activará una cadena de curación que cura a los aliados cercanos en un <b>67.7%</b> del ATQ del nómada; durante los siguientes <b>10</b> segundos, una cadena de curación corta se activará cada <b>2</b> segundos, lo que cura a los aliados cercanos en un <b>22.5%</b> del ATQ del nómada. Esquivar otorga <b>1</b> acumulación de potenciación de cadena de curación, lo que aumenta los efectos de las cadenas de curación en un <b>25%</b> (se acumula hasta <b>5</b> veces) y dura <b>30</b> segundos. Cambiar de arma cancela este efecto."
+    },
+    {
+      "name": "Rayos Paralelos",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante la oportunidad de evasión perfecta (pulsa una tecla de dirección al esquivar) para activar Rayos Paralelos.\nVenus dispara un par de rayos de energía paralelos, que infligen un daño perforante equivalente al <b>171.6%</b> del ATQ + <b>9</b>.\nEsquivar activará una cadena de curación que cura a los aliados cercanos en un <b>67.7%</b> del ATQ del nómada; durante los siguientes <b>10</b> segundos, una cadena de curación corta se activará cada <b>2</b> segundos, lo que cura a los aliados cercanos en un <b>22.5%</b> del ATQ del nómada. Esquivar otorga <b>1</b> acumulación de potenciación de cadena de curación, lo que aumenta los efectos de las cadenas de curación en un <b>25%</b> (se acumula hasta <b>5</b> veces) y dura <b>30</b> segundos. Cambiar de arma cancela este efecto."
+    },
+    {
+      "name": "Bloqueo de Pulso",
+      "type": [
+        "Skill"
+      ],
+      "description": "Venus dispara un misil guiado que explota al contacto con objetivos enemigos e inflige daño equivalente al <b>233.2%</b> del ATQ + <b>12</b> y derriba a los objetivos. <b>25</b> segundos de enfriamiento."
+    },
+    {
+      "name": "Explosión de Rayo de Partículas",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma está llena</span> o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma <b>removerá todas las desventajas del portador</b> y le ordenará a Venus que dispare un rayo en forma de cruz hacia el suelo para crear un área inestable que reduce la velocidad de movimiento de los objetivos en un <b>70%</b> por <b>5</b> segundos. Tras un breve periodo, libera una ráfaga electromagnética que inflige daño equivalente al <b>393.9%</b> del ATQ + <b>21</b>.\nUsar un ataque de descarga genera <b>1</b> Electrodo cerca de la posición del enemigo que atacará una vez cada <b>1.5</b> segundos, lo que inflige daño equivalente al <b>39.9%</b> del ATQ + <b>2</b>.\nEl Electrodo obtiene un <b>100%</b> de las estadísticas del nómada, puede recibir ataques o curación, y pierde un <b>3%</b> de sus PS Máx. cada segundo.\nSolo puede existir <b>1</b> Electrodo en un momento dado e invocar un Electrodo nuevo reemplazará el anterior."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eléctrico",
+    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>144%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+  },
+  "weapon_resonance": {
+    "name": "Resonancia Eléctrica",
+    "description": "<b>Resonancia Eléctrica</b>: aumenta el ATQ Eléctrico en un <b>15%</b> y la resistencia a la electricidad en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas eléctricas. Este efecto de conjunto no funciona con otros."
+  },
+  "advancement": [
+    "Tras usar <b>Bloqueo de Pulso</b> o <b>Explosión de Rayo de Partículas</b>, crea <b>1</b> Electrodo que otorga inmediatamente al usuario <b>5</b> acumulaciones de potenciación de cadena de curación. Además, desata una cadena de curación que cura a los aliados cercanos un <b>135%</b> del ATQ del nómada.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Cada <b>6</b> segundos, el Electrodo desata un <b>Rayo de Anillo</b>, que inflige daño equivalente a un máximo del <b>205%</b> del ATQ en un área objetivo.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
+    "Tras usar <b>Bloqueo de Pulso</b>, aumenta el ATQ del nómada en un (<b>6.5</b> + (número de Electrodos x<b>6.5</b>))% por <b>25</b> segundos.",
+    "Hasta <b>2</b> Electrodos pueden estar activos al mismo tiempo. Al invocar más Electrodos, se sustituyen los más alejados del usuario."
+  ],
+  "traits": [
+    {
+      "name": "Némesis: Metamorfosis",
+      "icon": true,
+      "description": "Tras invocar un Electrodo, inflige un daño eléctrico equivalente al <b>60%</b> de ATQ a todos los enemigos en un radio de <b>30</b> metros del Electrodo y cura a todos los aliados (incluido el usuario) a su alcance en un <b>120%</b> del ATQ."
+    },
+    {
+      "name": "Némesis: Sublimación",
+      "icon": true,
+      "description": "Tras invocar un Electrodo, inflige un daño eléctrico equivalente al <b>100%</b> de ATQ a todos los enemigos en un radio de <b>30</b> metros del Electrodo y cura a todos los aliados (incluido el usuario) a de su alcance en un <b>200%</b> del ATQ."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Corazón de rayo",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

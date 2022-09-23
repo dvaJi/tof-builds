@@ -1,0 +1,285 @@
+{
+  "_id": 14,
+  "id": "shiro",
+  "name": "Shiro",
+  "weapon": "Chakram des mers",
+  "weapon_id": "chakram_of_the_seas",
+  "birthday": "22 septembre (vierge)",
+  "birthplace": "Inconnu",
+  "gender": "Féminin",
+  "info": "Elle est antisociale, n'aime pas les étrangers et devient nerveuse lorsqu'elle rencontre quelqu'un pour la première fois.\nElle accorde même peu d'attention à son partenaire et fait uniquement preuve d'enthousiasme lorsqu'il s'agit d'un sujet qui l'intéresse. Alors, elle parle extrêmement vite et s'énerve quand son partenaire n'arrive pas à suivre.\nElle ressemble beaucoup à un chat : froide et distante la plupart du temps, elle s'énerve lorsqu'elle veut attirer l'attention et que personne n'est là.",
+  "description": "\"Une fille solitaire mordue d'océans\" : c'est ainsi que l'on qualifie Shiro, l'océanographe. Cette fille distante sait se montrer passionnée et loyale lorsqu'elle regarde l'océan.\nAyant manifesté en grandissant un talent certain pour l'océanographie, elle a voyagé seule pendant plusieurs années et a mesuré la répartition des océans sur Aida, une tâche monumentale qui a significativement contribué à la compréhension d'Aida par les humains.",
+  "like": "Océans, roman ou ces créatures marines jugées intéressantes",
+  "dislike": "Inconnu",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "DPS",
+  "shatter": 11.7,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Jet rapide",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, brandissez le chakram pour déclencher 5 attaques tournoyantes.\nPremière attaque : inflige des dégâts équivalant à <b>30.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.8%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>34%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>30.7%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>53.8%</b> de l'ATQ + <b>3</b>, et repousse la cible sur une courte distance."
+    },
+    {
+      "name": "Décharge aérienne",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour envoyer 3 attaques tournoyantes à la suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>26.2%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>29.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>37.2%</b> de l'ATQ + <b>2</b>."
+    },
+    {
+      "name": "Dispersion",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la deuxième attaque normale, maintenez Attaque pour activer Dispersion.\nLance cinq chakrams perforants vers l'avant ; chaque touche inflige des dégâts équivalant à <b>43.5%</b> de l'ATQ + <b>2</b>, avec un effet de recul mineur."
+    },
+    {
+      "name": "Rotation aérienne",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Rotation aérienne.\nEnvoie un coup puissant et inflige des dégâts équivalant à <b>191.5%</b> de l'ATQ + <b>10</b> à la cible et aux ennemis proches, et les suspend."
+    },
+    {
+      "name": "Attaque furtive",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>427.5%</b> de l'ATQ + <b>23</b>."
+    },
+    {
+      "name": "Lune décroissante",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale rapidement après l'esquive pour déclencher Lune décroissante.\nVous envoyez un chakram tournoyant vers l'avant et infligez des dégâts correspondant à <b>132.9%</b> de l'ATQ + <b>7</b> à la cible, ainsi qu'un effet <b>Étourdissement</b> pendant <b>0,5</b> seconde. Le chakram se divise alors en <b>3</b> chakrams, qui continuent à avancer et infligent des dégâts correspondant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage. <span class=\"text-red\">Les chakrams séparés rebondissent pendant Éclosion totale.</span>"
+    },
+    {
+      "name": "Éclosion totale",
+      "type": [
+        "Skill"
+      ],
+      "description": "Crée un Domaine des chakrams qui dure <b>8</b> secondes avec l'Explorateur en son centre. Au même moment, attire les cibles et réduit leur vitesse de <b>30%</b> pendant <b>8</b> secondes. Lance <b>5</b> chakrams qui infligent des dégâts équivalant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage, et rebondissent jusqu'à <b>5</b> fois entre les ennemis. <span class=\"text-red\">Les chakrams séparés déclenchés par Lune décroissante rebondissent aussi jusqu'à 5 fois.</span> Temps de recharge : <b>45</b> secondes."
+    },
+    {
+      "name": "Esprit de l'air",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et lance Chakram des mers sur une cible. La cible touchée cause un <b>étourdissement</b> avec zone d'effet pendant <b>1</b> seconde, plus <b>1</b> attaque chacune sur jusqu'à <b>3</b> unités chaque seconde (chaque attaque a <b>10%</b> de chance d'<b>étourdir</b> la cible pendant <b>1,5</b> seconde), infligeant des dégâts équivalant à <b>41.4%</b> de l'ATQ + <b>2</b> pendant <b>10</b> secondes."
+    }
+  ],
+  "weapon_type": {
+    "name": "Blessure grave",
+    "description": "Les armes entièrement chargées infligent des dégâts correspondant à <b>137%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
+  },
+  "advancement": [
+    "Accroît de <b>30%</b> les dégâts et tous les effets de fracture élémentaire infligés aux cibles se trouvant dans le rayon d'action d'<span class=\"text-green\">Éclosion totale</span>.",
+    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>15%</b> la capacité de fracture et réinitialise tous les temps de recharge des compétences d'arme lorsque le bouclier de la cible est fracturé. Peut uniquement être déclenché une fois toutes les <b>30</b> secondes.",
+    "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Attaquer une cible gravement blessée prolonge la durée de la blessure de <b>7</b> secondes supplémentaires (ne prend effet qu'une fois pour le même effet).",
+    "Après avoir utilisé <span class=\"text-green\">Éclosion totale</span>, confère une possibilité de dégât critique de 100% pendant les <b>8</b> prochaines secondes."
+  ],
+  "traits": [
+    {
+      "name": "Shiro : Alerte de sécurité",
+      "icon": true,
+      "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>10%</b> tous les types d'ATQ et de <b>7%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
+    },
+    {
+      "name": "Shiro : Alerte rouge",
+      "icon": true,
+      "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>16%</b> tous les types d'ATQ et de <b>10%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Pétranoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "Cœur du sommet",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Vernis antiacide II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Cadre d'amplification II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

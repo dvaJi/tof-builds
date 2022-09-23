@@ -1,0 +1,291 @@
+{
+  "_id": 16,
+  "id": "zero",
+  "name": "Zero",
+  "weapon": "Cubo Negador",
+  "weapon_id": "negating_cube",
+  "birthday": "6 de junio (Géminis)",
+  "birthplace": "Desconocido",
+  "gender": "Masculino",
+  "info": "De lengua aguda, multifacético, competitivo y arrogante, sobre todo al toparse con tareas que considera indignas de él. A veces muestra un nivel de madurez y disciplina de alguien más adulto y es excepcionalmente perceptivo, pero casi siempre muestra completo desinterés por lo que otros puedan decir y no se molesta en recordar cosas que no le llaman la atención.",
+  "description": "Un friki, genio de la informática que aparenta unos 15 años, nacido en Banges y apodado \"Cero\". Sin embargo, su nombre real y sus datos personales se han perdido, destruidos deliberadamente por él mismo. Muy hábil en el procesamiento de inteligencia, las comunicaciones electrónicas y la gestión de datos, Cero puede encontrar y extraer enormes cantidades de información mediante el análisis informático y de redes. En una ocasión sorprendió a Hykros al penetrar en su sistema de seguridad en un audaz ciberataque, lo que le llevó a ser designado \"persona de interés\". En la actualidad, Cero está bajo el estricto control y supervisión de Hykros en un lugar no revelado, donde se dedica a operaciones relacionadas con la inteligencia.",
+  "like": "Tecnología, juegos",
+  "dislike": "Salir, cocinar",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 5,
+  "charge": 13,
+  "skills": [
+    {
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, manipula el cubo y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>46.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>38.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>118.5%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>79.6%</b> del ATQ + <b>4</b>.\nQuinto ataque: inflige daño equivalente al <b>80.9%</b> del ATQ + <b>4</b> hasta 3 veces y <b>lanza</b> al objetivo.\n<b>Pasiva: si los ataques normales golpean objetivos 6 veces, obtendrás 1 cubo. Puedes almacenar hasta 5 cubos.</b>"
+    },
+    {
+      "name": "Misil de Omnio",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire, pulsa el ataque normal para activar la energía dentro del cubo y lanzar hasta <b>5</b> misiles, que infligen un daño total equivalente al <b>59.3%</b> del ATQ + <b>3</b>. Consume hasta <b>250</b> de resistencia.\n<b>Pasiva: si el nómada tiene cubos almacenados, se consumirán todos los cubos para disparar misiles de Omnio a los objetivos e infligirles daño.</b>"
+    },
+    {
+      "name": "Sobrecarga de energía",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal para activar Sobrecarga de energía.\nAl tocar el suelo, lanza una onda de choque hacia adelante e inflige hasta el <b>23.4%</b> del ATQ + <b>1</b> de daño a los objetivos en su camino."
+    },
+    {
+      "name": "Impacto de Omnio",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar Impacto de Omnio.\nUn pilar de energía lanza a los objetivos cercanos al aire e inflige daño equivalente al <b>68.4%</b> del ATQ + <b>4</b>. El pilar dura 5 segundos e inflige <b>28.5%</b> del ATQ + <b>2</b> a los objetivos cercanos cada segundo."
+    },
+    {
+      "name": "Centinela energético",
+      "type": [
+        "Passive"
+      ],
+      "description": "Los cubos que orbitan al nómada infligen daño equivalente al <b>9.7%</b> del ATQ + <b>1</b> a los enemigos."
+    },
+    {
+      "name": "Misil de energía",
+      "type": [
+        "Passive"
+      ],
+      "description": "Cuando el nómada utiliza Misil de Omnio y Sobrecarga de energía, también dispara los cubos que le orbitan e inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> al objetivo."
+    },
+    {
+      "name": "Sobrecarga espiritual",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquiva justo antes de recibir un golpe para activar una Fantasía, que reduce la velocidad de los enemigos al alcance y otorga inmunidad al aturdimiento por golpes durante <b>0.5</b> segundos.\nSi el nómada tiene menos de <b>5</b> cubos, cada intento de esquivar exitoso tiene un <b>40%</b> de probabilidad de restaurar 1 intento de esquivar.\nLos intentos de esquivar exitosos no interrumpen los combos de ataque normal.\n<b>Pasiva: se obtiene un cubo por cada intento de esquivar en el aire.</b>"
+    },
+    {
+      "name": "Escudo de Omnio",
+      "type": [
+        "Skill"
+      ],
+      "description": "Crea un escudo que protege a quien lo porta y sus aliados, que bloquea daño por hasta un <b>800%</b> del ATQ durante <b>10</b> segundos, e inflige un <b>124.9%</b> del ATQ + <b>8</b> de daño a los objetivos cercanos y los <b>lanza</b>. Cada cubo que se posea al usar esta habilidad agrega un <b>160%</b> del ATQ a la capacidad máxima del escudo y agota al cubo. Enfriamiento: <b>60</b> segundos."
+    },
+    {
+      "name": "Onda de Omnio",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Fantasía</span>, <b>remueve todas las desventajas del portador</b> y obtiene <b>5</b> cubos tras cambiar a esta arma, después desata los <b>5</b> cubos junto con Onda de choque, la que inflige daño equivalente al <b>171%</b> del ATQ + <b>9</b> a los objetivos cercanos y los <b>lanza</b> al aire. Cada cubo también inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b>. Si hay aliados cerca, estos obtienen inmunidad al daño durante <b>3</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fuego",
+    "description": "Las armas completamente cargadas prenderán fuego al objetivo durante <b>8</b> segundos con el siguiente ataque, lo que inflige un daño continuo del <b>{3}%</b> del ATQ cada segundo. Los objetivos incendiados reciben un <b>50%</b> de eficacia de la curación."
+  },
+  "advancement": [
+    "Inflige daño y produce un orbe de curación que dura <b>20</b> segundos y le restaura PS equivalentes al <b>60%</b> del ATQ al compañero de grupo que lo recoja. Enfriamiento de <b>2</b> segundos.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Reduce el enfriamiento de habilidades de <b>60</b> segundos a <b>30</b> segundos. Restaura PS equivalentes al <b>30%</b> del ATQ cada segundo que el escudo esté activo.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+    "Dañar a un objetivo también produce un orbe de daño, el cual dura <b>20</b> segundos y aumenta el daño y la curación de cualquier aliado que lo recoja en un <b>2%</b> por <b>30</b> segundos (se acumula hasta <b>10</b> veces). El enfriamiento de la habilidad es de <b>2.5</b> segundos.",
+    "Usar una habilidad otorga orbes de daño y curación a los aliados, equivalentes a la cantidad de Cubos de Omnio."
+  ],
+  "traits": [
+    {
+      "name": "Cero: Cálculo Preciso",
+      "icon": true,
+      "description": "Cuando Cero usa una habilidad de arma, reduce el enfriamiento de las reliquias en <b>1.5</b> segundos. Solo se puede activar para la misma arma <b>1</b> vez cada <b>5</b> segundos."
+    },
+    {
+      "name": "Cero: Planificación General",
+      "icon": true,
+      "description": "Cuando Cero usa una habilidad de arma, reduce el enfriamiento de las reliquias en <b>3</b> segundos. Solo se puede activar para la misma arma <b>1</b> vez cada <b>5</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Corazón de lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Esmaltado antiácido I",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

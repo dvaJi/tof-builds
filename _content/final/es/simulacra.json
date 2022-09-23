@@ -1757,7 +1757,7 @@
         "level": 80,
         "cost": 3600,
         "mat1": {
-          "id": "Heart of Lava",
+          "id": "heart_of_lava",
           "name": "Corazón de lava",
           "rarity": "R",
           "amount": 5
@@ -2051,7 +2051,1898 @@
         "level": 80,
         "cost": 3600,
         "mat1": {
-          "id": "Heart of Lava",
+          "id": "heart_of_lava",
+          "name": "Corazón de lava",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Esmaltado antiácido I",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Armazón de nanofibras II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "id": "meryl",
+    "name": "Meryl",
+    "weapon": "Filo Rosado",
+    "weapon_id": "rosy_edge",
+    "birthday": "10 de octubre (Libra)",
+    "birthplace": "Hykros",
+    "gender": "Femenino",
+    "info": "Indiferente, distante y antisocial. Hay muy pocas cosas capaces de provocar una reacción en Meryl. No muestra ningún tipo de emoción, no porque sea insensible, sino porque no está dispuesta a crear lazos cercanos con otras personas.",
+    "description": "Ejecutora de alto rango de Hykros de edad y lugar de nacimiento desconocidos. Según la poca información disponible públicamente, Meryl se distinguió en muchas misiones de grado S de Hykros por su excepcional habilidad con la espada y su destreza en el combate. En pocos años, fue ascendida de administradora ordinaria a ejecutora superior.\nLa actitud fría e inescrutable de Meryl hace que nadie pueda estar seguro de sus verdaderas intenciones. Esta frialdad, junto con su enfoque despiadado a la hora de tratar con los enemigos, hace que todos mantengan distancia con ella.\nLa base de datos de los Ejecutores sí muestra que Meryl tiene un hermano gemelo, con el que mantiene una estrecha relación, pero no hay ningún registro ni información formal sobre él.",
+    "like": "Días de nieve, cristales",
+    "dislike": "Botánica",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Shieldbreaking",
+    "resonance": "DPS",
+    "shatter": 12,
+    "charge": 4,
+    "skills": [
+      {
+        "name": "Embate potente",
+        "type": [
+          "Attack"
+        ],
+        "description": "En el suelo, blande el espadón para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>72.9%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>105.4%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>, <b>suspende fuertemente</b> al objetivo y luego lo lanza al aterrizar."
+      },
+      {
+        "name": "Golpe aéreo",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "En el aire o luego de saltar una vez, pulsa el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>106.5%</b> del ATQ + <b>6</b>.\nSegundo ataque: inflige daño equivalente al <b>87.5%</b> del ATQ + <b>5</b>.\nTercer ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>.\nCuarto ataque: inflige daño equivalente al <b>140.5%</b> del ATQ + <b>7</b> y <b>derriba</b>; lanza al objetivo al aterrizar."
+      },
+      {
+        "name": "Corte ascendente",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar Corte Ascendente.\nAl impactar, <b>suspende fuertemente</b> al objetivo y te eleva, lo que inflige daño equivalente al <b>64.3%</b> del ATQ + <b>3</b>."
+      },
+      {
+        "name": "Corte puesta lunar",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Corte puesta lunar"
+      },
+      {
+        "name": "Ataque sorpresa",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+      },
+      {
+        "name": "Torbellino",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Al permanecer en el lugar o en movimiento, mantén pulsado el ataque normal para activar Torbellino e infligir daño equivalente al <b>132.8%</b> del ATQ + <b>7</b> cada <b>0.5</b> segundos al objetivo. Otorga inmunidad al aturdimiento por golpes al usarlo."
+      },
+      {
+        "name": "Arrasar",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Arrasar.\nCada golpe inflige daño equivalente al <b>65.9%</b> del ATQ + <b>3</b> y <b>lanza</b> a los objetivos."
+      },
+      {
+        "name": "Corte creciente",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar para activar Corte Creciente.\nBlande el espadón para lanzar sus auras hacia adelante. Cada una inflige daño equivalente al <b>49.6%</b> del ATQ + <b>3</b>."
+      },
+      {
+        "name": "Ventisca",
+        "type": [
+          "Skill"
+        ],
+        "description": "Blande el espadón para lanzar sus auras hacia adelante e infligir daño equivalente al <b>141.7%</b> del ATQ + <b>7</b> y aumentar el daño infligido en <b>5%</b> con cada golpe. Mientras está activa, otorga inmunidad a los efectos de control. Enfriamiento: <b>45</b> segundos."
+      },
+      {
+        "name": "Barrera de escarcha",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>remueve todas las desventajas del portador</b> y golpea el suelo para formar una barrera, la que inflige daño equivalente al <b>503.2%</b> del ATQ + <b>26</b> a los enemigos cercanos y los suspende. Esto reduce su velocidad en un <b>50%</b> y les impide evadir o saltar. La barrera dura <b>5</b> segundos y bloquea proyectiles."
+      }
+    ],
+    "weapon_type": {
+      "name": "Caparazón de Hielo",
+      "description": "Las armas completamente cargadas <b>congelarán</b> al objetivo por <b>2</b> segundos y lo dejarán congelado por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga del arma del objetivo se reduce en un <b>50%</b>."
+    },
+    "advancement": [
+      "Aumenta la destrucción en un <b>15%</b> y recupera <b>10%</b> de los PS luego de destruir el escudo del objetivo.",
+      "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
+      "Al cambiar de arma, obtienes un Escudo de Hielo equivalente al <b>10%</b> de los PS Máx. Enfriamiento: <b>20</b> segundos. El Escudo de Hielo dura hasta <b>10</b> segundos.",
+      "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+      "Aumenta el daño y la destrucción en un <b>50%</b> mientras el escudo está activo.",
+      "Al cambiar de arma, obtienes un Escudo de Hielo equivalente al <b>20%</b> de los PS Máx. e inmunidad al control mientras el escudo esté activo. Enfriamiento: <b>20</b> segundos. El Escudo de Hielo dura hasta <b>10</b> segundos."
+    ],
+    "traits": [
+      {
+        "name": "Meryl: Rosa Fría",
+        "icon": true,
+        "description": "Reduce el daño de hielo recibido por Meryl en <b>20%</b>, gana inmunidad a congelamiento y reduce la duración de la congelación en <b>50%</b>."
+      },
+      {
+        "name": "Meryl: Escarchada",
+        "icon": true,
+        "description": "Reduce el daño de hielo recibido por Meryl en <b>25%</b>, gana inmunidad a congelamiento y reduce la duración de la congelación en <b>50%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Corazón de invierno",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanocubierta II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "name": "Armazón reforzado II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "id": "nemesis",
+    "name": "Némesis",
+    "weapon": "Venus",
+    "weapon_id": "venus",
+    "birthday": "23 de mayo (Géminis)",
+    "birthplace": "Ángel de la clemencia",
+    "gender": "Femenino",
+    "info": "Después de la reestructura, que consiste de lavado de cerebro, borrado de memoria y un implante de una segunda personalidad, ha estado un tanto inestable emocionalmente por un tiempo.\nSe forzó la supresión de la personalidad original de Shirli. Por suerte, básicamente, la situación se estabilizó, con una ligera preocupación que queda por alguna amenaza potencial. \nEs seguro que nunca volverá a ser la Shirli llena de vitalidad, pero ya está más recuperada como una niña normal. \nLa duda sobre su propia existencia sigue ahí, lo que personifica la inquietud y las heridas que quedan en ella. Bueno... al menos reunió el valor de enfrentar sus miedos, lo cual es una señal de un buen inicio.",
+    "description": "Un Ángel de la Clemencia que acaba de nacer mediante la reestructuración de Shirli, una estudiante de enfermería en el Refugio de Astra, con la mitad de la carne y los nervios reemplazados con partes mecánicas y circuitos.\n\nComo humana, sufría del impulso directo de la radiación por Omnio por el supresor de daño. Pero antes de completar la aberración, fue enviada a los Herederos de Aida para un tratamiento experimental, que milagrosamente fue un éxito. \n\nCon su recién formada estructura, es uno de los Ángeles de la Clemencia más inestables, pero también quien tiene el mejor equipo con la tecnología más reciente de los Herederos de Aida.",
+    "like": "Dibujar, rompecabezas y soda de naranja",
+    "dislike": "Errores y sorpresas",
+    "element": "Volt",
+    "rarity": "SSR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 8,
+    "skills": [
+      {
+        "name": "Ataque normal",
+        "type": [
+          "Attack"
+        ],
+        "description": "En el suelo, inicia 5 ataques seguidos con Balmung.\nEl primer ataque inflige daño equivalente al <b>50.8%</b> del ATQ + <b>3</b> y hace retroceder un poco.\nEl segundo ataque inflige daño equivalente al <b>36.3%</b> del ATQ + <b>2</b> y hace retroceder un poco.\nEl tercer ataque inflige daño equivalente al <b>98.3%</b> del ATQ + <b>5</b> y hace retroceder un poco.\nEl cuarto ataque inflige daño equivalente al <b>67.3%</b> del ATQ + <b>4</b> y hace retroceder un poco.\nEl quinto ataque inflige daño equivalente al <b>148.3%</b> del ATQ + <b>8</b> y derriba al objetivo."
+      },
+      {
+        "name": "Descarga aérea",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>62.5%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>62%</b> del ATQ + <b>5</b>.\nTercer ataque: inflige daño equivalente al <b>3%</b> del ATQ + <b>120</b>.\nCuarto ataque: inflige daño equivalente al <b>6%</b> del ATQ + <b>71.2</b>.\nQuinto ataque: inflige daño equivalente al <b>4%</b> del ATQ + <b>126</b>."
+      },
+      {
+        "name": "Persecución hacia adelante",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Después del segundo ataque normal, mantén el ataque normal para activar Persecución hacia adelante.\nDispara un misil guiado por láser hacia el objetivo e inflige daño equivalente a hasta el <b>107.5%</b> del ATQ + <b>6</b>."
+      },
+      {
+        "name": "Enfoque Doble",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Mantén pulsado el ataque normal para disparar y liberar una bola eléctrica que explota al impacto, lo que inflige daño equivalente al <b>118.4%</b> del ATQ + <b>6</b> a los enemigos cercanos."
+      },
+      {
+        "name": "Concentración de Giro Gemelo",
+        "type": [
+          "Perfect Attack",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal durante el corto periodo luego de un ataque perfecto para activar un campo magnético ralentizador.\nVenus dispara un orbe cargado que recorre una distancia establecida y explota al contacto con los objetivos. Inflige daño equivalente al <b>171.6%</b> del ATQ + <b>9</b> y genera un campo magnético ralentizador durante <b>3</b> segundos, lo que reduce la velocidad de movimiento y la velocidad de ataque de todos los enemigos alcanzados en un <b>35%</b>.\nEsquivar activará una cadena de curación que cura a los aliados cercanos en un <b>67.7%</b> del ATQ del nómada; durante los siguientes <b>10</b> segundos, una cadena de curación corta se activará cada <b>2</b> segundos, lo que cura a los aliados cercanos en un <b>22.5%</b> del ATQ del nómada. Esquivar otorga <b>1</b> acumulación de potenciación de cadena de curación, lo que aumenta los efectos de las cadenas de curación en un <b>25%</b> (se acumula hasta <b>5</b> veces) y dura <b>30</b> segundos. Cambiar de arma cancela este efecto."
+      },
+      {
+        "name": "Rayos Paralelos",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal durante la oportunidad de evasión perfecta (pulsa una tecla de dirección al esquivar) para activar Rayos Paralelos.\nVenus dispara un par de rayos de energía paralelos, que infligen un daño perforante equivalente al <b>171.6%</b> del ATQ + <b>9</b>.\nEsquivar activará una cadena de curación que cura a los aliados cercanos en un <b>67.7%</b> del ATQ del nómada; durante los siguientes <b>10</b> segundos, una cadena de curación corta se activará cada <b>2</b> segundos, lo que cura a los aliados cercanos en un <b>22.5%</b> del ATQ del nómada. Esquivar otorga <b>1</b> acumulación de potenciación de cadena de curación, lo que aumenta los efectos de las cadenas de curación en un <b>25%</b> (se acumula hasta <b>5</b> veces) y dura <b>30</b> segundos. Cambiar de arma cancela este efecto."
+      },
+      {
+        "name": "Bloqueo de Pulso",
+        "type": [
+          "Skill"
+        ],
+        "description": "Venus dispara un misil guiado que explota al contacto con objetivos enemigos e inflige daño equivalente al <b>233.2%</b> del ATQ + <b>12</b> y derriba a los objetivos. <b>25</b> segundos de enfriamiento."
+      },
+      {
+        "name": "Explosión de Rayo de Partículas",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Cuando la <span class=\"text-red\">carga de arma está llena</span> o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma <b>removerá todas las desventajas del portador</b> y le ordenará a Venus que dispare un rayo en forma de cruz hacia el suelo para crear un área inestable que reduce la velocidad de movimiento de los objetivos en un <b>70%</b> por <b>5</b> segundos. Tras un breve periodo, libera una ráfaga electromagnética que inflige daño equivalente al <b>393.9%</b> del ATQ + <b>21</b>.\nUsar un ataque de descarga genera <b>1</b> Electrodo cerca de la posición del enemigo que atacará una vez cada <b>1.5</b> segundos, lo que inflige daño equivalente al <b>39.9%</b> del ATQ + <b>2</b>.\nEl Electrodo obtiene un <b>100%</b> de las estadísticas del nómada, puede recibir ataques o curación, y pierde un <b>3%</b> de sus PS Máx. cada segundo.\nSolo puede existir <b>1</b> Electrodo en un momento dado e invocar un Electrodo nuevo reemplazará el anterior."
+      }
+    ],
+    "weapon_type": {
+      "name": "Eléctrico",
+      "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>144%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+    },
+    "weapon_resonance": {
+      "name": "Resonancia Eléctrica",
+      "description": "<b>Resonancia Eléctrica</b>: aumenta el ATQ Eléctrico en un <b>15%</b> y la resistencia a la electricidad en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas eléctricas. Este efecto de conjunto no funciona con otros."
+    },
+    "advancement": [
+      "Tras usar <b>Bloqueo de Pulso</b> o <b>Explosión de Rayo de Partículas</b>, crea <b>1</b> Electrodo que otorga inmediatamente al usuario <b>5</b> acumulaciones de potenciación de cadena de curación. Además, desata una cadena de curación que cura a los aliados cercanos un <b>135%</b> del ATQ del nómada.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+      "Cada <b>6</b> segundos, el Electrodo desata un <b>Rayo de Anillo</b>, que inflige daño equivalente a un máximo del <b>205%</b> del ATQ en un área objetivo.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
+      "Tras usar <b>Bloqueo de Pulso</b>, aumenta el ATQ del nómada en un (<b>6.5</b> + (número de Electrodos x<b>6.5</b>))% por <b>25</b> segundos.",
+      "Hasta <b>2</b> Electrodos pueden estar activos al mismo tiempo. Al invocar más Electrodos, se sustituyen los más alejados del usuario."
+    ],
+    "traits": [
+      {
+        "name": "Némesis: Metamorfosis",
+        "icon": true,
+        "description": "Tras invocar un Electrodo, inflige un daño eléctrico equivalente al <b>60%</b> de ATQ a todos los enemigos en un radio de <b>30</b> metros del Electrodo y cura a todos los aliados (incluido el usuario) a su alcance en un <b>120%</b> del ATQ."
+      },
+      {
+        "name": "Némesis: Sublimación",
+        "icon": true,
+        "description": "Tras invocar un Electrodo, inflige un daño eléctrico equivalente al <b>100%</b> de ATQ a todos los enemigos en un radio de <b>30</b> metros del Electrodo y cura a todos los aliados (incluido el usuario) a de su alcance en un <b>200%</b> del ATQ."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lightning",
+          "name": "Corazón de rayo",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanocubierta II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Armazón de nanofibras II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "id": "pepper",
+    "name": "Pepper",
+    "weapon": "Vara de cicatrices",
+    "weapon_id": "staff_of_scars",
+    "birthday": "9 de julio (Cáncer)",
+    "birthplace": "Departamento Médico de Hykros",
+    "gender": "Femenino",
+    "info": "Una popular enfermera conocida por su paciencia, amabilidad y sonrisa. Aunque es conocida por su ética de trabajo eficiente, su cuerpo y su resistencia no pueden seguir el ritmo. Junto con su perfeccionismo, se fatiga constantemente.\nSe le diagnosticó insomnio grave, ansiedad leve y obsesión, aunque ninguno de los síntomas es evidente debido a su fuerte autodisciplina.",
+    "description": "Nacida en una familia acaudalada de Banges, tuvo una educación refinada y siempre se comportó bien. Un día, ella y su familia fueron atacados por aberrantes y sus padres perdieron sus supresores. \nEllos no \"murieron\", se convirtieron en aberrantes. Justo antes de que un Ejecutor acabara con su miseria, Pepper, quien sobrevivió, le rogó que no lo hiciera. Ahora los mantiene en confinamiento en algún lado y agota las riquezas familiares poco a poco para pagar por sus cuidados.\nPor eso Pepper trabaja en el Departamento Médico de Hykros. Eligió pasar el resto de su vida buscando una forma de revertir la aberración...",
+    "like": "Sus padres, el trabajo, avanzar en su investigación",
+    "dislike": "La hora de dormir",
+    "element": "Volt",
+    "rarity": "SR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 4,
+    "charge": 10,
+    "skills": [
+      {
+        "name": "Ataque normal",
+        "type": [
+          "Attack"
+        ],
+        "description": "En el suelo, blande la vara y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>25.1%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>18.8%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>30.4%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>41.4%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>73.2%</b> del ATQ + <b>4</b>."
+      },
+      {
+        "name": "Ráfaga elevada",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>32.5%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.5%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>25.5%</b> del ATQ + <b>1</b>.\nCuarto ataque: inflige daño equivalente al <b>45.6%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>47.7%</b> del ATQ + <b>3</b>."
+      },
+      {
+        "name": "Cascada lunar",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Mantén pulsado el ataque normal en el aire para activar Cascada lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> segundos, por un total de daño equivalente al <b>57.2%</b> del ATQ + <b>3</b>."
+      },
+      {
+        "name": "Asalto enfocado",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar ataques de ráfaga, que consumen <b>300</b> puntos de resistencia.\nPrimer ataque: atrae enemigos ubicados frente al usuario, los <b>suspende</b> e inflige daño equivalente al <b>16.1%</b> del ATQ + <b>1</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: inflige daño equivalente al <b>18.6%</b> del ATQ + <b>1</b> a la ubicación del objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
+      },
+      {
+        "name": "Sobrecarga",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Sobrecarga.\nCada ola de energía inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
+      },
+      {
+        "name": "Teseracto",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal un poco después de esquivar para activar Explosión evasiva.\nDispara un orbe de energía hacia adelante, lo que inflige daño equivalente al <b>32.1%</b> del ATQ + <b>2</b> a los objetivos en el camino cada <b>0.3</b> segundos (hasta 5 veces).\nOtorga <b>75</b> puntos de carga de arma al usarse."
+      },
+      {
+        "name": "Santuario",
+        "type": [
+          "Skill"
+        ],
+        "description": "Crea un escudo de energía en la posición del nómada. Cura a los aliados dentro del escudo el equivalente al <b>81.7%</b> del ATQ + <b>4</b> cada segundo y reduce el daño recibido en un <b>3%</b> durante <b>10</b> segundos. <b>60</b> segundos de enfriamiento."
+      },
+      {
+        "name": "Liberación rápida",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y el bastón continúa removiendo desventajas del nómada y los aliados, y además cura un <b>{2}%</b> del ATQ + <b>{3}</b> de sus PS durante <b>7</b> segundos."
+      }
+    ],
+    "weapon_type": {
+      "name": "Eléctrico",
+      "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>106%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+    },
+    "advancement": [
+      "Cura a todos los compañeros de grupo en un radio de <b>10</b> metros por <b>100%</b> del ATQ luego de utilizar una habilidad para esquivar.",
+      "Aumenta el crecimiento de los PS base del arma actual en un <b>10%</b>.",
+      "Los ataques normales también lanzan dos misiles, cada uno de los cuales inflige daño equivalente al <b>5%</b> del ATQ del objetivo y recuperan <b>5</b> puntos de carga de arma.",
+      "Aumenta el crecimiento de los PS base del arma actual en un <b>20%</b>.",
+      "Aumenta la velocidad de adquisición de carga de arma en un <b>20%</b> (no aplicable a los ataques de misiles).",
+      "Otorga a todos los compañeros de grupo cercanos <b>60%</b> de reducción de daño cada vez que una habilidad remueva efectos de control del objetivo."
+    ],
+    "traits": [
+      {
+        "name": "Pepper: Resurrección",
+        "icon": true,
+        "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>100%</b>."
+      },
+      {
+        "name": "Pepper: Fuente",
+        "icon": true,
+        "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>200%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 250,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 1
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 500,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 750,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 2
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "id": "samir",
+    "name": "Samir",
+    "weapon": "Estrellas Magnéticas Dobles",
+    "weapon_id": "dual_em_stars",
+    "birthday": "20 de mayo (Tauro)",
+    "birthplace": "Hykros",
+    "gender": "Femenino",
+    "info": "Perezosa y autocomplaciente, a Samir le gustan las bromas inocentes.\nAunque técnicamente es una Ejecutora de Hykros, y a pesar de poseer una fuerza extraordinaria, la personalidad vaga y poco confiable de Samir representa un problema. La costumbre de hacerle bromas a sus colegas altera a todos aquellos que trabajan con ella, y su reputación no es del todo favorable. Sin embargo, a Samir no le importa.",
+    "description": "Su pasado está plagado de interrogantes. Hasta ahora se sabe que fue una huérfana adoptada por un residente de Banges. Cuando alcanzó la edad adulta, se unió a Hykros y se convirtió en Ejecutora después del entrenamiento correspondiente. Es una integrante destacada, incluso entre los Ejecutores de élite. Hykros alguna vez consideró nombrarla instructora de los reclutas nuevos, pero desistió de la idea porque su personalidad no era apta para la tarea.",
+    "like": "Resolver rompecabezas y asesinatos misteriosos",
+    "dislike": "Desconocido",
+    "element": "Volt",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 10.7,
+    "skills": [
+      {
+        "name": "Fuego doble",
+        "type": [
+          "Attack"
+        ],
+        "description": "En el suelo, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño total equivalente al <b>47.1%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño total equivalente al <b>35.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño total equivalente al <b>119.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño total equivalente al <b>113.1%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño total equivalente al <b>154%</b> del ATQ + <b>8</b> y <b>lanza</b> al objetivo."
+      },
+      {
+        "name": "Lluvia de balas",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "En el aire, pulsa el ataque normal para disparar de forma continua hacia el suelo e infligir daño equivalente al <b>50.6%</b> del ATQ + <b>3</b> de daño; cada golpe consume <b>150</b> de resistencia."
+      },
+      {
+        "name": "Explosión de energía",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Mantén el botón de ataque para disparar de forma continua, y cada golpe inflige un <b>23%</b> del ATQ + <b>1</b> de daño base."
+      },
+      {
+        "name": "Patada fantasma",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "En el aire, mantén pulsado el ataque normal para activar Patada fantasma. Derriba al objetivo e inflige daño equivalente al <b>70.5%</b> del ATQ + <b>4</b>. Al aterrizar, inflige daño equivalente al <b>98.7%</b> del ATQ + <b>5</b> a los objetivos cercanos y los <b>lanza</b>."
+      },
+      {
+        "name": "Patada relámpago ascendente",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal tras evadir para <b>suspender fuertemente</b> a los objetivos cercanos e infligir daño equivalente al <b>122.6%</b> del ATQ + <b>6</b>."
+      },
+      {
+        "name": "Campo eléctrico",
+        "type": [
+          "Skill"
+        ],
+        "description": "Lanza un escudo de energía a la ubicación objetivo y refleja los rayos dentro de la barrera. Inflige daño equivalente al <b>269.8%</b> del ATQ + <b>14</b>, y el último golpe <b>suspende fuertemente</b> a los objetivos. Enfriamiento: <b>45</b> segundos."
+      },
+      {
+        "name": "Dominio del trueno",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea un Dominio del Trueno en la ubicación objetivo tras cambiar a esta arma, lo que <b>suspende fuertemente</b> a los objetivos dentro del área e inflige un <b>238.3%</b> del ATQ + <b>13</b> de daño total a lo largo de 3 ataques mientras elimina sus mejoras. El dominio dura <b>3.5</b> segundos e inflige daño equivalente al <b>42.4%</b> del ATQ + <b>2</b> a un objetivo cada <b>0.5</b> segundos."
+      }
+    ],
+    "weapon_type": {
+      "name": "Eléctrico",
+      "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>144%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+    },
+    "advancement": [
+      "Activa una explosión eléctrica en el objetivo después de asestar un golpe crítico, lo que inflige daño adicional equivalente al <b>30%</b> del ATQ al objetivo y a los enemigos cercanos. Enfriamiento: <b>0.2</b> segundos.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+      "Aumenta la tasa de críticos a objetivos electrificados en un <b>40%</b>. Las explosiones eléctricas extienden la duración de los efectos de electrificación en <b>0.5</b> segundos, hasta un máximo de <b>5</b> segundos.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
+      "Duplica la duración de Campo eléctrico y atrae a los objetivos al centro del ataque.",
+      "Activar una explosión eléctrica reduce en <b>1</b> segundo los enfriamientos de las habilidades."
+    ],
+    "traits": [
+      {
+        "name": "Samir: Artimañas",
+        "icon": true,
+        "description": "Otorga <b>1</b> acumulación de Concentración cada <b>4</b> segundos cuando Samir no recibe daño. Cada acumulación aumenta el daño infligido en un <b>3%</b>, y puede acumularse hasta <b>4</b> veces. Tras ser golpeada, Samir pierde <b>1</b> acumulación de Concentración, hasta <b>1</b> acumulación por <b>1</b> segundo."
+      },
+      {
+        "name": "Samir: Sombra",
+        "icon": true,
+        "description": "Otorga <b>1</b> acumulación de Concentración cada <b>4</b> segundos cuando Samir no recibe daño. Cada acumulación aumenta el daño infligido en un <b>4%</b>, y puede acumularse hasta <b>5</b> veces. Tras ser golpeada, Samir pierde <b>1</b> acumulación de Concentración, hasta <b>1</b> acumulación por <b>2</b> segundos."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Núcleo magnético",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lightning",
+          "name": "Corazón de rayo",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanocubierta II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Armazón de nanofibras II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "id": "shiro",
+    "name": "Shiro",
+    "weapon": "Chakram de los Mares",
+    "weapon_id": "chakram_of_the_seas",
+    "birthday": "22 de septiembre (Virgo)",
+    "birthplace": "Desconocido",
+    "gender": "Femenino",
+    "info": "Es antisocial, no le gustan los extraños y se pone nerviosa cuando conoce a alguien por primera vez.\nNo le presta mucha atención a quien la acompañe y solo se emociona cuando el tema de conversación le resulta interesante. En ese momento, habla hasta por los codos y se molesta si su interlocutor no sigue el hilo de la conversación.\nCasi todo el tiempo es distante y de una frialdad felina, pero se enoja cuando quiere que alguien le haga caso y no hay nadie a la mano.",
+    "description": "\"Una solitaria maníaca del océano\" es como las personas suelen referirse a Shiro, la oceanógrafa. Esta chica distante se convierte en una persona apasionada y leal cuando contempla el océano.\nCuando alcanzó la mayoría de edad y demostró su afición por la oceanografía, viajó sola durante varios años y midió la distribución oceánica de Aida, una tarea monumental que contribuyó considerablemente al conocimiento humano del planeta.",
+    "like": "Océanos, novelas y esas interesantes criaturas marinas",
+    "dislike": "Desconocido",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "DPS",
+    "shatter": 11.7,
+    "charge": 6,
+    "skills": [
+      {
+        "name": "Tiro rápido",
+        "type": [
+          "Attack"
+        ],
+        "description": "En el suelo, lanza un chakram para asestar 5 ataques giratorios.\nPrimer ataque: inflige daño equivalente al <b>30.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.8%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>34%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>30.7%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>53.8%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo."
+      },
+      {
+        "name": "Descarga aérea",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y lanza 3 ataques giratorios seguidos.\nPrimer ataque: inflige daño equivalente al <b>26.2%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>29.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>37.2%</b> del ATQ + <b>2</b>."
+      },
+      {
+        "name": "Dispersión",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Luego del segundo ataque normal, mantén el botón de ataque para activar Dispersión.\nDispara cinco chakrams penetrantes hacia adelante, y cada golpe inflige <b>43.5%</b> del ATQ + <b>2</b> de daño, y hace retroceder levemente."
+      },
+      {
+        "name": "Giro aéreo",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Mantén pulsado el ataque normal en el aire para activar Giro Aéreo.\nDesata un poderoso golpe e inflige daño equivalente al <b>191.5%</b> del ATQ + <b>10</b> al objetivo y a los enemigos cercanos, suspendiéndolos."
+      },
+      {
+        "name": "Ataque sorpresa",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>427.5%</b> del ATQ + <b>23</b>."
+      },
+      {
+        "name": "Luna menguante",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar para activar Luna menguante.\nLanza un chakram giratorio e inflige daño equivalente al <b>132.9%</b> del ATQ + <b>7</b> al objetivo y causa <b>aturdimiento</b> durante <b>0.5</b> segundos. El chakram se divide en <b>3</b> y continúa avanzando, lo que inflige daño equivalente al <b>24.2%</b> del ATQ + <b>1</b> a los objetivos en su camino. <span class=\"text-red\">Los chakrams rebotan durante Floración</span>."
+      },
+      {
+        "name": "Floración",
+        "type": [
+          "Skill"
+        ],
+        "description": "Crea un Dominio de Chakram con el nómada en su centro por <b>8</b> segundos. Al mismo tiempo, atrae enemigos y reduce su velocidad en un <b>30%</b> por <b>8</b> segundos. Dispara <b>5</b> chakrams que rebotan entre los enemigos e infligen daño equivalente al <b>24.2%</b> del ATQ + <b>1</b> a los objetivos en su trayectoria y rebotan hasta <b>5</b> veces. <span class=\"text-red\">Los chakrams divididos lanzados por Luna Menguante también rebotarán hasta 5 veces.</span> Enfriamiento: <b>45</b> segundos."
+      },
+      {
+        "name": "Espíritu del aire",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y lanza Chakram de los Mares a un objetivo. Al alcanzar el objetivo, se genera un área de efecto de <b>aturdimiento</b> por <b>1</b> segundo, además de <b>1</b> ataque contra hasta <b>3</b> unidades cada segundo (cada ataque tiene un <b>10%</b> de probabilidad de <b>aturdir</b> al objetivo por <b>1.5</b> segundos), lo que inflige daño equivalente al <b>41.4%</b> del ATQ + <b>2</b> por <b>10</b> segundos."
+      }
+    ],
+    "weapon_type": {
+      "name": "Grave",
+      "description": "Las armas completamente cargadas infligirán daño equivalente al <b>137%</b> del ATQ con el siguiente ataque, y causarán el estado grave en el objetivo por <b>7</b> segundos, por lo que recibirá un <b>20%</b> de daño adicional."
+    },
+    "advancement": [
+      "Aumenta todos los efectos de destrucción elementales y el daño infligido a los objetivos dentro del alcance de <span class=\"text-green\">Floración</span> en un <b>30%</b>.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+      "Aumenta la destrucción en un <b>15%</b> y reinicia todos los enfriamientos de habilidades de armas al destruir el escudo del objetivo. Solo se puede activar una vez cada <b>30</b> segundos.",
+      "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+      "Atacar a un objetivo grave extiende la duración de grave durante <b>7</b> segundos adicionales (solo se activa una vez para el mismo efecto).",
+      "Tras usar <span class=\"text-green\">Floración</span>, otorga una probabilidad de crítico de 100% durante los próximos <b>8</b> segundos."
+    ],
+    "traits": [
+      {
+        "name": "Shiro: Alerta de Seguridad",
+        "icon": true,
+        "description": "Cuando Shiro utiliza una habilidad de armas o una habilidad de descarga, aumenta todos los tipos de ATQ en un <b>10%</b> y el ATQ físico en un <b>7%</b> adicional durante <b>8</b> segundos. Enfriamiento: <b>16</b> segundos."
+      },
+      {
+        "name": "Shiro: Alerta Roja",
+        "icon": true,
+        "description": "Cuando Shiro utiliza una habilidad de armas o una habilidad de descarga, aumenta todos los tipos de ATQ en un <b>16%</b> y el ATQ físico en un <b>10%</b> adicional durante <b>8</b> segundos. Enfriamiento: <b>16</b> segundos."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo de roca",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Armazón reforzado I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Corazón de cima",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Esmaltado antiácido I",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "name": "Armazón reforzado II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "id": "tsubasa",
+    "name": "Tsubasa",
+    "weapon": "Flecha Helada",
+    "weapon_id": "icewind_arrow",
+    "birthday": "24 de marzo (Aries)",
+    "birthplace": "Herederos de Aida",
+    "gender": "Femenino",
+    "info": "La oportunista por excelencia. Hiperactiva, habladora, le encanta formar parte de una multitud.\nDemasiado sociable. No se enfada ni siquiera cuando le insultan o le gritan. Tolerante con todos los puntos de vista y capaz de hacer amigos a la primera de cambio.\nSin embargo, la fiabilidad de este espíritu libre es prácticamente inexistente.",
+    "description": "El currículum de Tsubasa indica que una vez fue residente del Refugio de Astra, una delegada de las Hienas y una trabajadora de Hykros, que es el registro que usamos para su Simulacrum.\nDespués, optó por traicionar a Hykros y desertó a los Herederos de Aida.\nEso solo podría describirse como un movimiento alarmante. Su estatus actual es desconocido, pero seguramente no es una lacaya de poca monta dentro de los Herederos, dadas sus habilidades.\nNunca se basa en la filosofía, la moral, los objetivos o las reglas para decidir con qué bando se alineará, como si nunca le importara nada de eso. Ha estado en muchas organizaciones, pero nunca ha pertenecido realmente a ninguna de ellas.",
+    "like": "Viento, gravedad, libertad, goma de mascar",
+    "dislike": "Inercia, estabilidad",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 4,
+    "charge": 11.5,
+    "skills": [
+      {
+        "name": "Reflejos rápidos",
+        "type": [
+          "Attack"
+        ],
+        "description": "En el suelo, lanza con el arco reiteradamente y ataca 5 veces.\nPrimer ataque: inflige daño equivalente al <b>48.8%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>43.7%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>78.6%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>121.2%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño equivalente al <b>112.5%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo."
+      },
+      {
+        "name": "Flecha cargada",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Mantén pulsado el ataque normal para cargar. Inflige daño básico equivalente al <b>87.8%</b> del ATQ + <b>5</b>, y un <b>50%</b> adicional por cada <b>1</b> segundo utilizado para cargar, hasta <b>3</b> segundos. Inflige daño doble al acertar a la cabeza o a los puntos débiles del objetivo y lo derriba (los disparos a la cabeza no son efectivos contra nómadas)."
+      },
+      {
+        "name": "Lluvia de flechas",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Después de cualquier ataque normal, mantén pulsado el ataque normal para desatar Lluvia de flechas que inflige hasta el <b>287.2%</b> del ATQ + <b>15</b> de daño de área a los objetivos."
+      },
+      {
+        "name": "Descarga aérea",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "En el aire, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>56.3%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>74%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>112.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>169.8%</b> del ATQ + <b>9</b>."
+      },
+      {
+        "name": "Flecha equipada",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Pulsa el ataque tras esquivar para activar una Flecha equipada, que hace <b>retroceder al objetivo</b> e inflige daño equivalente al <b>124%</b> del ATQ + <b>7</b>."
+      },
+      {
+        "name": "Disparo perforante",
+        "type": [
+          "Skill"
+        ],
+        "description": "Retrocede en una voltereta y realiza <b>3</b> disparos perforantes. El disparo principal inflige daño equivalente al <b>258.3%</b> del ATQ + <b>14</b>, y los otros dos disparos infligen un 60% de daño. Además, <b>hace retroceder al objetivo</b> y lo aturde durante <b>5</b> segundos si impacta contra un obstáculo. Enfriamiento: <b>12</b> segundos."
+      },
+      {
+        "name": "Ráfaga explosiva",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea una ventisca en la ubicación objetivo tras cambiar a esta arma, la que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>. La ventisca tiene una probabilidad del <b>10%</b> de causar un <b>efecto de congelación</b> durante <b>2</b> segundos. Obtienes frente frío y la velocidad aumenta en un <b>45%</b> durante <b>7</b> segundos."
+      }
+    ],
+    "weapon_type": {
+      "name": "Caparazón de hielo",
+      "description": "Las armas completamente cargadas <b>congelarán</b> al objetivo por <b>2</b> segundos y lo dejarán congelado por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga del arma del objetivo se reduce en un <b>50%</b>."
+    },
+    "advancement": [
+      "Otorga una acumulación de Flecha Aguda cada vez que una flecha disparada durante un ataque al esquivar golpea a un enemigo. Cada acumulación aumenta el daño en un <b>5%</b> por <b>15</b> segundos. Se acumula hasta <b>3</b> veces.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+      "Iniciar un ataque al esquivar lanza <b>3</b> flechas cargadas.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
+      "Duplica la duración de Lluvia de flechas y ralentiza a los objetivos un <b>25%</b>.",
+      "Flecha Aguda se acumula hasta <b>5</b> veces. Golpear a un objetivo con una Flecha Cargada inmediatamente otorga <b>3</b> acumulaciones, y los tiros en la cabeza otorgan <b>5</b> acumulaciones."
+    ],
+    "traits": [
+      {
+        "name": "Tsubasa: Tormenta",
+        "icon": true,
+        "description": "Cada vez que Tsubasa inflige daño, obtiene <b>1</b> acumulación de Golpe feroz, con un máximo de <b>1</b> acumulación por cada <b>1</b> segundo. Cada acumulación agrega un <b>0.5%</b> de ATQ, con un límite de <b>15</b> acumulaciones. Reinicia la duración del efecto al recuperarlo. El efecto dura <b>30</b> segundos."
+      },
+      {
+        "name": "Tsubasa: Mar Embravecido",
+        "icon": true,
+        "description": "Cada vez que Tsubasa inflige daño, obtiene <b>1</b> acumulación de Golpe feroz, con un máximo de <b>1</b> acumulación por cada <b>1</b> segundo. Cada acumulación agrega un <b>0.6%</b> de ATQ, con un límite de <b>30</b> acumulaciones. Reinicia la duración del efecto al recuperarlo. El efecto dura <b>30</b> segundos."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Núcleo de hielo",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanocubierta I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Corazón de invierno",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanocubierta II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Armazón de nanofibras II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "id": "zero",
+    "name": "Zero",
+    "weapon": "Cubo Negador",
+    "weapon_id": "negating_cube",
+    "birthday": "6 de junio (Géminis)",
+    "birthplace": "Desconocido",
+    "gender": "Masculino",
+    "info": "De lengua aguda, multifacético, competitivo y arrogante, sobre todo al toparse con tareas que considera indignas de él. A veces muestra un nivel de madurez y disciplina de alguien más adulto y es excepcionalmente perceptivo, pero casi siempre muestra completo desinterés por lo que otros puedan decir y no se molesta en recordar cosas que no le llaman la atención.",
+    "description": "Un friki, genio de la informática que aparenta unos 15 años, nacido en Banges y apodado \"Cero\". Sin embargo, su nombre real y sus datos personales se han perdido, destruidos deliberadamente por él mismo. Muy hábil en el procesamiento de inteligencia, las comunicaciones electrónicas y la gestión de datos, Cero puede encontrar y extraer enormes cantidades de información mediante el análisis informático y de redes. En una ocasión sorprendió a Hykros al penetrar en su sistema de seguridad en un audaz ciberataque, lo que le llevó a ser designado \"persona de interés\". En la actualidad, Cero está bajo el estricto control y supervisión de Hykros en un lugar no revelado, donde se dedica a operaciones relacionadas con la inteligencia.",
+    "like": "Tecnología, juegos",
+    "dislike": "Salir, cocinar",
+    "element": "Fire",
+    "rarity": "SSR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 5,
+    "charge": 13,
+    "skills": [
+      {
+        "name": "Ataque normal",
+        "type": [
+          "Attack"
+        ],
+        "description": "En el suelo, manipula el cubo y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>46.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>38.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>118.5%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>79.6%</b> del ATQ + <b>4</b>.\nQuinto ataque: inflige daño equivalente al <b>80.9%</b> del ATQ + <b>4</b> hasta 3 veces y <b>lanza</b> al objetivo.\n<b>Pasiva: si los ataques normales golpean objetivos 6 veces, obtendrás 1 cubo. Puedes almacenar hasta 5 cubos.</b>"
+      },
+      {
+        "name": "Misil de Omnio",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "En el aire, pulsa el ataque normal para activar la energía dentro del cubo y lanzar hasta <b>5</b> misiles, que infligen un daño total equivalente al <b>59.3%</b> del ATQ + <b>3</b>. Consume hasta <b>250</b> de resistencia.\n<b>Pasiva: si el nómada tiene cubos almacenados, se consumirán todos los cubos para disparar misiles de Omnio a los objetivos e infligirles daño.</b>"
+      },
+      {
+        "name": "Sobrecarga de energía",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "En el aire o luego de saltar una vez, pulsa el ataque normal para activar Sobrecarga de energía.\nAl tocar el suelo, lanza una onda de choque hacia adelante e inflige hasta el <b>23.4%</b> del ATQ + <b>1</b> de daño a los objetivos en su camino."
+      },
+      {
+        "name": "Impacto de Omnio",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar Impacto de Omnio.\nUn pilar de energía lanza a los objetivos cercanos al aire e inflige daño equivalente al <b>68.4%</b> del ATQ + <b>4</b>. El pilar dura 5 segundos e inflige <b>28.5%</b> del ATQ + <b>2</b> a los objetivos cercanos cada segundo."
+      },
+      {
+        "name": "Centinela energético",
+        "type": [
+          "Passive"
+        ],
+        "description": "Los cubos que orbitan al nómada infligen daño equivalente al <b>9.7%</b> del ATQ + <b>1</b> a los enemigos."
+      },
+      {
+        "name": "Misil de energía",
+        "type": [
+          "Passive"
+        ],
+        "description": "Cuando el nómada utiliza Misil de Omnio y Sobrecarga de energía, también dispara los cubos que le orbitan e inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> al objetivo."
+      },
+      {
+        "name": "Sobrecarga espiritual",
+        "type": [
+          "Dodge"
+        ],
+        "description": "Esquiva justo antes de recibir un golpe para activar una Fantasía, que reduce la velocidad de los enemigos al alcance y otorga inmunidad al aturdimiento por golpes durante <b>0.5</b> segundos.\nSi el nómada tiene menos de <b>5</b> cubos, cada intento de esquivar exitoso tiene un <b>40%</b> de probabilidad de restaurar 1 intento de esquivar.\nLos intentos de esquivar exitosos no interrumpen los combos de ataque normal.\n<b>Pasiva: se obtiene un cubo por cada intento de esquivar en el aire.</b>"
+      },
+      {
+        "name": "Escudo de Omnio",
+        "type": [
+          "Skill"
+        ],
+        "description": "Crea un escudo que protege a quien lo porta y sus aliados, que bloquea daño por hasta un <b>800%</b> del ATQ durante <b>10</b> segundos, e inflige un <b>124.9%</b> del ATQ + <b>8</b> de daño a los objetivos cercanos y los <b>lanza</b>. Cada cubo que se posea al usar esta habilidad agrega un <b>160%</b> del ATQ a la capacidad máxima del escudo y agota al cubo. Enfriamiento: <b>60</b> segundos."
+      },
+      {
+        "name": "Onda de Omnio",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Fantasía</span>, <b>remueve todas las desventajas del portador</b> y obtiene <b>5</b> cubos tras cambiar a esta arma, después desata los <b>5</b> cubos junto con Onda de choque, la que inflige daño equivalente al <b>171%</b> del ATQ + <b>9</b> a los objetivos cercanos y los <b>lanza</b> al aire. Cada cubo también inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b>. Si hay aliados cerca, estos obtienen inmunidad al daño durante <b>3</b> segundos."
+      }
+    ],
+    "weapon_type": {
+      "name": "Fuego",
+      "description": "Las armas completamente cargadas prenderán fuego al objetivo durante <b>8</b> segundos con el siguiente ataque, lo que inflige un daño continuo del <b>{3}%</b> del ATQ cada segundo. Los objetivos incendiados reciben un <b>50%</b> de eficacia de la curación."
+    },
+    "advancement": [
+      "Inflige daño y produce un orbe de curación que dura <b>20</b> segundos y le restaura PS equivalentes al <b>60%</b> del ATQ al compañero de grupo que lo recoja. Enfriamiento de <b>2</b> segundos.",
+      "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+      "Reduce el enfriamiento de habilidades de <b>60</b> segundos a <b>30</b> segundos. Restaura PS equivalentes al <b>30%</b> del ATQ cada segundo que el escudo esté activo.",
+      "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+      "Dañar a un objetivo también produce un orbe de daño, el cual dura <b>20</b> segundos y aumenta el daño y la curación de cualquier aliado que lo recoja en un <b>2%</b> por <b>30</b> segundos (se acumula hasta <b>10</b> veces). El enfriamiento de la habilidad es de <b>2.5</b> segundos.",
+      "Usar una habilidad otorga orbes de daño y curación a los aliados, equivalentes a la cantidad de Cubos de Omnio."
+    ],
+    "traits": [
+      {
+        "name": "Cero: Cálculo Preciso",
+        "icon": true,
+        "description": "Cuando Cero usa una habilidad de arma, reduce el enfriamiento de las reliquias en <b>1.5</b> segundos. Solo se puede activar para la misma arma <b>1</b> vez cada <b>5</b> segundos."
+      },
+      {
+        "name": "Cero: Planificación General",
+        "icon": true,
+        "description": "Cuando Cero usa una habilidad de arma, reduce el enfriamiento de las reliquias en <b>3</b> segundos. Solo se puede activar para la misma arma <b>1</b> vez cada <b>5</b> segundos."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Núcleo de fuego",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Esmaltado antiácido I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Armazón de nanofibras I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lava",
           "name": "Corazón de lava",
           "rarity": "R",
           "amount": 5

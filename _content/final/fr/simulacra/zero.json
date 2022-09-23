@@ -1,0 +1,291 @@
+{
+  "_id": 16,
+  "id": "zero",
+  "name": "Zero",
+  "weapon": "Cube du néant",
+  "weapon_id": "negating_cube",
+  "birthday": "6 juin (gémeaux)",
+  "birthplace": "Inconnu",
+  "gender": "Masculin",
+  "info": "Acerbe, hypocrite, doté d'un esprit de compétition et arrogant, surtout lorsqu'il fait face à des tâches qu'il considère comme inférieures à son niveau. Il peut parfois se montrer très mature et discipliné pour son âge et il est incroyablement perspicace. Cependant, la plupart du temps, il fait preuve d'une totale indifférence envers les paroles des autres et il ne cherche pas à se souvenir de choses qui ne lui sont pas utiles.",
+  "description": "Un génie informatique qui semble avoir environ 15 ans, né à Banges et surnommé Zero. Cependant, son vrai nom et ses détails personnels ont été perdus, délibérément détruits par ses soins.\nGrand adepte du traitement des renseignements, des communications électroniques et de la gestion des données, Zero peut trouver et extraire d'énormes quantités d'informations en analysant ordinateur et réseau. Il a une fois choqué Hykros en pénétrant leur système de sécurité au cours d'une audacieuse cyberattaque, ce qui a mené à l'étiqueter comme personne d'intérêt. À présent, Zero est sous strict contrôle et surveillance d'Hykros dans un endroit tenu secret, où il est impliqué dans des opérations de renseignement.",
+  "like": "Technologie, jeux",
+  "dislike": "Sortir, cuisiner",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 5,
+  "charge": 13,
+  "skills": [
+    {
+      "name": "Attaque normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, manipulez le cube pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>46.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>38.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>118.5%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>79.6%</b> de l'ATQ + <b>4</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>80.9%</b> de l'ATQ + <b>4</b> jusqu'à 3 fois et vous <b>projetez</b> la cible.\n<b>Compétence passive : si les attaques normales touchent 6 fois la cible, vous obtenez 1 cube. Vous pouvez garder 5 cubes max.</b>"
+    },
+    {
+      "name": "Missile d'omnium",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale lorsque vous êtes dans les airs pour activer l'énergie contenue dans le cube et tirer jusqu'à <b>5</b> missiles infligeant des dégâts équivalant à <b>59.3%</b> de l'ATQ + <b>3</b>. Consomme jusqu'à <b>250</b> endurance.\n<b>Effet passif : si l'Explorateur a des cubes en stock, consomme tous les cubes pour tirer des missiles à omnium sur les cibles et leur infliger des dégâts.</b>"
+    },
+    {
+      "name": "Débordement d'énergie",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour déclencher Débordement d'énergie.\nÀ l'atterrissage, vous envoyez une onde de choc qui fonce vers l'avant et inflige des dégâts jusqu'à <b>23.4%</b> de l'ATQ + <b>1</b> aux cibles qui se trouvent sur sa route."
+    },
+    {
+      "name": "Choc d'omnium",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "À la troisième attaque normale, maintenez Attaque normale pour déclencher Choc d'omnium.\nUn pilier d'énergie projette les cibles proches dans les airs et inflige des dégâts correspondant à <b>68.4%</b> de l'ATQ + <b>4</b>. Le pilier dure 5 secondes et inflige des dégâts correspondant à <b>28.5%</b> de l'ATQ + <b>2</b> toutes les secondes aux cibles proches."
+    },
+    {
+      "name": "Sentinelle d'énergie",
+      "type": [
+        "Passive"
+      ],
+      "description": "Les cubes qui orbitent autour de l'Explorateur infligent des dégâts correspondant à <b>9.7%</b> de l'ATQ + <b>1</b> aux ennemis."
+    },
+    {
+      "name": "Missile d'énergie",
+      "type": [
+        "Passive"
+      ],
+      "description": "Lorsque l'Explorateur lance Missile d'omnium et Débordement d'énergie, les cubes qui orbitent autour de lui sont également lancés et infligent des dégâts correspondant à <b>48.5%</b> de l'ATQ + <b>3</b> à la cible."
+    },
+    {
+      "name": "Élan d'âme",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquivez juste avant de vous faire toucher pour déclencher Fantaisie, qui réduit la vitesse des ennemis à portée et confère une immunité à l'hébétement pendant <b>0,5</b> seconde.\nSi l'Explorateur a moins de <b>5</b> cubes, chaque esquive réussie a <b>40%</b> de chance de vous faire regagner 1 tentative d'esquive.\nLes esquives réussies n'interrompent pas les combos d'attaques normales.\n<b>Effet passif : gagnez un cube pour chaque esquive aérienne réussie.</b>"
+    },
+    {
+      "name": "Bouclier à omnium",
+      "type": [
+        "Skill"
+      ],
+      "description": "Crée un bouclier pour vous-même et pour les alliés proches qui bloque des dégâts allant jusqu'à <b>800%</b> x ATQ pendant <b>10</b> secondes, inflige <b>124.9%</b> x ATQ + <b>8</b> dégâts aux cibles proches et les <b>projette</b>. Chaque cube en votre possession au moment où cette compétence est utilisée ajoute <b>160%</b> de l'ATQ à la protection et à la durée maximales du cube. Temps de recharge : <b>60</b> secondes."
+    },
+    {
+      "name": "Vague d'omnium",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et gagne <b>5</b> cubes au moment où vous changez d'arme pour utiliser celle-ci, ainsi qu'une Onde de choc. Cette Onde de choc inflige aux cibles proches un nombre de dégâts égal à <b>171%</b> de l'ATQ + <b>9</b> et les <b>projette</b> dans les airs. De plus, chaque cube inflige un nombre de dégâts égal à <b>48.5%</b> de l'ATQ + <b>3</b>. Les alliés proches gagnent une immunité aux dégâts pendant <b>3</b> secondes."
+    }
+  ],
+  "weapon_type": {
+    "name": "Feu",
+    "description": "Les armes entièrement chargées embrasent la cible pendant <b>8</b> secondes lors de l'attaque suivante, infligeant chaque seconde des dégâts continus de <b>{3}%</b> d'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
+  },
+  "advancement": [
+    "Inflige des dégâts et produit un orbe de guérison, qui dure <b>20</b> secondes et régénère les PV de tout membre du groupe qui le ramasse à hauteur de <b>60%</b> de l'ATQ. Temps de recharge : <b>2</b> secondes.",
+    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Réduit le temps de recharge des compétences de <b>60</b> à <b>30</b> secondes. Régénère un nombre de PV égal à <b>30%</b> de l'ATQ toutes les secondes lorsque le bouclier est actif.",
+    "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Infliger des dégâts à la cible produit un orbe de dégâts, qui dure <b>20</b> secondes et augmente tous les dégâts et les soins de tout membre du groupe qui le ramasse de <b>2%</b> pendant <b>30</b> secondes. Cumulable jusqu'à <b>10</b> fois. Temps de recharge : <b>2,5</b> secondes.",
+    "Utiliser une compétence confère aux alliés des orbes de guérison et des orbes de dégâts en nombre égal à celui des cubes à omnium."
+  ],
+  "traits": [
+    {
+      "name": "Zero : Calcul précis",
+      "icon": true,
+      "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>1,5</b> seconde. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
+    },
+    {
+      "name": "Zero : Planification globale",
+      "icon": true,
+      "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>3</b> secondes. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Cœur de lave",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Vernis antiacide II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

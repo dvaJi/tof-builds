@@ -1,0 +1,284 @@
+{
+  "_id": 14,
+  "id": "shiro",
+  "name": "シロ",
+  "weapon": "海の戦輪",
+  "weapon_id": "chakram_of_the_seas",
+  "birthday": "9月22日（おとめ座）",
+  "birthplace": "記録なし",
+  "info": "社交性がなく、見知らぬ人と接することを嫌い、人との交流に拒絶や緊張を示す\n天邪鬼な性格で同僚ともあまり馴れ合わない。興味のある物事や話題にはテンションが上がり、相手が話についてきているかどうか関係なく、ひたすら話し続ける。同僚の反応が良くないと分かると怒ってそっぽを向いてしまう\n普段は人付き合いを好まないが、構ってほしいときに欲求が満たされないと怒ってしまうところはペットの猫のようだ",
+  "description": "「海洋に魅入られた孤独の人」これが海洋学者シロへの評価だ。人との交流を望まない少女は、大海原を前にすると別の一面を見せる。それは愛情と一途さだ\n成長すると、彼女はますます海洋科学の研究に才能を発揮するようになった。1人で数年旅をして、アイダ星表面の海洋分布を測定するという快挙を成し遂げ、人類のアイダ星への認識に貢献した",
+  "like": "海、初めて見る海洋生物、面白い海洋生物",
+  "dislike": "記録なし",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "[ダメージ]",
+  "shatter": 11.7,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "戦輪通常攻撃",
+      "type": [
+        "Attack"
+      ],
+      "description": "地上にいる時、戦輪を使うと5回連続で回転攻撃できる。回旋は毎回同じダメージを与える\n1回目の攻撃では、ターゲットに攻撃力x<b>30.7%</b>+<b>2</b>Ptのダメージを与える\n2回目の攻撃では、ターゲットに攻撃力x<b>23.8%</b>+<b>1</b>Ptのダメージを与える\n3回目の攻撃では、ターゲットに攻撃力x<b>34%</b>+<b>2</b>Ptのダメージを与える\n4回目の攻撃では、ターゲットに攻撃力x<b>30.7%</b>+<b>2</b>Ptのダメージを与える\n5回目の攻撃では、ターゲットに攻撃力x<b>53.8%</b>+<b>3</b>Ptのダメージを与え、ターゲットを少しノックバックする"
+    },
+    {
+      "name": "空中攻撃",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "探索者の滞空時または1段ジャンプ使用後、通常攻撃をタップすると空中で3回連続して回転攻撃できる\n1回目の攻撃では、ターゲットに攻撃力x<b>26.2%</b>+<b>1</b>Ptのダメージを与える\n2回目の攻撃では、ターゲットに攻撃力x<b>29.2%</b>+<b>2</b>Ptのダメージを与える\n3回目の攻撃では、ターゲットに攻撃力x<b>37.2%</b>+<b>2</b>Ptのダメージを与える"
+    },
+    {
+      "name": "散華",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "2回目の通常攻撃の後、通常攻撃を長押しすると散華を発動できる\n貫通力が高い戦輪を前方に5個放つ。1個命中するごとに攻撃力x<b>43.5%</b>+<b>2</b>Ptのダメージを与え、ターゲットを少しノックバックする"
+    },
+    {
+      "name": "",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空時に通常攻撃を長押しすると、空旋を発動する\nターゲットに強力な一撃を放ち、ターゲットおよび周囲の敵に攻撃力x<b>191.5%</b>+<b>10</b>Ptのダメージを与え、浮遊させる"
+    },
+    {
+      "name": "奇襲",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "しゃがんだ状態で敵の背後に近づき、通常攻撃をタップすると、奇襲を発動できます。ターゲットに攻撃力x<b>427.5%</b>+<b>23</b>Ptのダメージを与えます"
+    },
+    {
+      "name": "",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "回避後すぐに通常攻撃をタップすると、残月を発動できる\n回転戦輪を前方に投げ、ターゲットに攻撃力x<b>132.9%</b>+<b>7</b>Ptのダメージを与え、<b>0.5</b>秒間<b>強制目眩</b>状態にする。さらに戦輪を<b>3</b>個に分裂させて前に飛ばし続け、途中のターゲットに攻撃力x<b>24.2%</b>+<b>1</b>Ptのダメージを与える。<span class=\"text-red\">分裂後の戦輪は無上の空でバウンドできる</span>"
+    },
+    {
+      "name": "無上の空",
+      "type": [
+        "Skill"
+      ],
+      "description": "自身を中心とする円形の範囲に戦輪領域を作り出す。持続時間<b>8</b>秒。発動時に敵を引き寄せ、<b>8</b>秒間<b>30%</b>の減速を付与する。<b>5</b>個の戦輪を放ち、バウンド攻撃する。戦輪のバウンド時にルート上にいるターゲットに攻撃力x<b>24.2%</b>+<b>1</b>Ptのダメージを与える。戦輪1個につき最大<b>5</b>回バウンドする。<span class=\"text-red\">残月の発動で分裂した戦輪もバウンドに使用でき、最大5回バウンドする</span>。CD<b>45</b>秒"
+    },
+    {
+      "name": "融通無碍",
+      "type": [
+        "Discharge"
+      ],
+      "description": "<span class=\"text-red\">武器のエナジー注入がMAX</span>の時または<span class=\"text-red\">幻想タイム</span>発動時、他の武器からこの武器に変更すると、<b>自身のステータス異常を解消</b>し、ターゲットに海の戦輪を放って命中したターゲットを<b>1</b>秒間の<b>強制目眩</b>にする。さらに毎秒最大<b>3</b>体の敵を<b>1</b>回攻撃し(攻撃では<b>10%</b>の確率で敵を<b>1.5</b>秒間の<b>強制目眩</b>にする)、攻撃力x<b>41.4%</b>+<b>2</b>Ptのダメージを与える。<b>10</b>秒持続"
+    }
+  ],
+  "weapon_type": {
+    "name": "重傷",
+    "description": "武器エナジー値がMAXになると、次の攻撃で敵を<b>7</b>秒間重傷状態にし、被ダメージ+<b>20%</b>にする。さらに攻撃力x<b>137%</b>のダメージを与える"
+  },
+  "advancement": [
+    "スキル<span class=\"text-green\">無上の空</span>の範囲内にいるターゲットが受けるダメージと全元素のシールドブレイク効果+<b>30%</b>",
+    "現在の武器の攻撃力基本成長率+<b>16%</b>",
+    "シールドブレイク率+<b>15%</b>。ターゲットのシールドブレイク後、すべての武器スキルのCDをクリア。発動間隔<b>30</b>秒",
+    "現在の武器のHP基本成長率+<b>32%</b>",
+    "重傷状態のターゲットに攻撃が命中すると、重傷状態の持続時間+<b>7</b>秒追加。この効果は状態中1回のみ発生",
+    "スキル<span class=\"text-green\">無上の空</span>の発動後の<b>8</b>秒間は必ず会心が発生する"
+  ],
+  "traits": [
+    {
+      "name": "シロ・セキュリティ警告",
+      "icon": true,
+      "description": "シロの武器スキル/連携スキル発動時、全攻撃力+<b>10%</b>、さらに物理攻撃は+<b>7%</b>。<b>8</b>秒持続、CD<b>16</b>秒"
+    },
+    {
+      "name": "シロ・レッドアラート",
+      "icon": true,
+      "description": "シロの武器スキル/連携スキル発動時、全攻撃力+<b>16%</b>、さらに物理攻撃は+<b>10%</b>。<b>8</b>秒持続、CD<b>16</b>秒"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "耐蝕フィルムⅠ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "耐蝕フィルムⅠ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金強化フレームⅠ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "耐蝕フィルムⅠ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金強化フレームⅠ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "耐蝕フィルムⅠ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金強化フレームⅠ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "耐蝕フィルムⅠ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金強化フレームⅠ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石のコア",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "耐蝕フィルムⅠ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金強化フレームⅠ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "山岳の心",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "耐蝕フィルムⅡ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "合金強化フレームⅡ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

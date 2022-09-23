@@ -1,0 +1,289 @@
+{
+  "_id": 11,
+  "id": "nemesis",
+  "name": "Nêmesis",
+  "weapon": "Vênus",
+  "weapon_id": "venus",
+  "birthday": "23 de maio (Gêmeos)",
+  "birthplace": "Anjo da Clemência",
+  "gender": "Feminino",
+  "info": "Após a reestruturação que compreendeu procedimentos de lavagem cerebral, apagamento de memória, implantação de uma segunda personalidade, entre outros, ela passou um tempo emocionalmente instável. \nA personalidade verdadeira de Shirli foi reprimida. Felizmente, algumas coisas voltaram aos eixos e uma ameaça potencial já quase não preocupa. \nClaro, ela nunca poderia voltar a ser aquela Shirli cheia de vida, mas já é quase uma garota normal de novo. \nA dúvida a respeito da própria existência ainda está lá, a qual dá forma à angústia e ao sofrimento dentro dela. Bom... Pelo menos ela teve coragem frente a tudo isso, o que já é um bom começo.",
+  "description": "Uma Anjo da Clemência recém-criada a partir de Shirli, uma enfermeira aprendiz no Abrigo de Astra, cuja metade da carne e dos nervos foi substituída por componentes e circuitos.\n\nEnquanto humana, ela foi acometida pela radiação de Omnium devido ao supressor danificado. Contudo, antes de o processo de anomalização chegar ao fim, Shirli foi enviada aos herdeiros de Aida para um tratamento experimental, que, por um milagre, foi bem-sucedido. \n\nPor ter sido reestruturada há pouco tempo, é a mais instável de todas as Anjos da Clemência, mas também é a que tem as tecnologias mais avançadas dos herdeiros de Aida.",
+  "like": "Desenhos, quebra-cabeças e refrigerante de laranja",
+  "dislike": "Insetos e sustos",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, executa 5 ataques consecutivos com Balmung.\nO primeiro ataque causa dano de <b>50.8%</b> do ATQ + <b>3</b> e leve repulsão.\nO segundo ataque causa dano de <b>36.3%</b> do ATQ + <b>2</b> e repulsão.\nO terceiro ataque causa dano de <b>98.3%</b> do ATQ + <b>5</b> e leve repulsão.\nO quarto ataque causa dano de <b>67.3%</b> do ATQ + <b>4</b> e leve repulsão.\nO quinto ataque causa dano de <b>148.3%</b> do ATQ + <b>8</b> e derruba o alvo."
+    },
+    {
+      "name": "Disparo Aéreo",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>62.5%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>62%</b> do ATQ + <b>5</b>.\nTerceiro ataque: Causa dano de <b>3%</b> do ATQ + <b>120</b>.\nQuarto ataque: Causa dano de <b>6%</b> do ATQ + <b>71.2</b>.\nQuinto ataque: Causa dano de <b>4%</b> do ATQ + <b>126</b>."
+    },
+    {
+      "name": "Perseguição Adiante",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após o segundo ataque normal, mantenha o botão pressionado para desencadear Perseguição Adiante.\nDispara um míssil guiado por laser contra o alvo. Causa dano de até <b>107.5%</b> do ATQ + <b>6</b>."
+    },
+    {
+      "name": "Foco Duplo",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal para carregar um tiro e disparar uma esfera eletrificada que explode ao atingir o alvo. Causa dano de <b>118.4%</b> do ATQ + <b>6</b> a inimigos próximos."
+    },
+    {
+      "name": "Foco Gêmeo Giratório",
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal durante o tempo de esquiva perfeita para ativar um campo magnético que causa lentidão.\nVênus dispara um orbe carregado que avança determinada distância e explode quando entra em contato com os alvos. Causa dano de <b>171.6%</b> do ATQ + <b>9</b> e gera um campo magnético que causa lentidão durante <b>3</b> segundos, que reduz a velocidade de movimento e de ataque de todos os inimigos dentro dele em <b>35%</b>.\nEsquivar desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67.7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22.5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de melhoria da corrente de cura, aumentando o efeito das correntes de cura em <b>25%</b> (acumula até <b>5</b> vezes). Dura <b>30</b> segundos. Trocar de arma irá cancelar o efeito."
+    },
+    {
+      "name": "Raios Paralelos",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Raios Paralelos.\nVênus dispara um par de raios paralelos que causa dano perfurante de <b>171.6%</b> do ATQ + <b>9</b>.\nEsquivar-se desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de melhoria da corrente de cura, aumentando o efeito das correntes de cura em <b>25%</b> (acumula até <b>5</b> vezes). Dura <b>30</b> segundos. Trocar de arma irá cancelar o efeito."
+    },
+    {
+      "name": "Pulso Travado",
+      "type": [
+        "Skill"
+      ],
+      "description": "Vênus dispara um míssil guiado que explode em contato com os alvos. Causa dano de <b>233.2%</b> do ATQ + <b>12</b> e derruba os alvos. Tempo de recarga: <b>25</b> seg."
+    },
+    {
+      "name": "Explosão de Raios de Partícula",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga de arma está completa</span> ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de quem a usa</b> e ordena a Vênus para disparar um raio em forma de cruz no chão ao trocar para esta arma, criando uma área instável e reduzindo a velocidade de movimento em <b>70%</b> durante <b>5</b> segundos. Após um pequeno atraso, libera uma explosão eletromagnética que causa dano de <b>393.9%</b> do ATQ + <b>21</b>.\nUsar um ataque de descarga irá gerar <b>1</b> eletrodo próximo ao inimigo, que ataca uma vez a cada <b>1,5</b> segundo. Causa dano de <b>39.9%</b> do ATQ + <b>2</b>.\nO eletrodo ganha <b>100%</b> dos atributos do Errante, não pode ser atacado e nem curado e perde <b>3%</b> da vida máxima a cada segundo.\nApenas <b>1</b> eletrodo pode existir por vez e materializar um novo eletrodo substituirá o anterior."
+    }
+  ],
+  "weapon_type": {
+    "name": "Raio",
+    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+  },
+  "weapon_resonance": {
+    "name": "Ressonância Elétrica",
+    "description": "<b>Ressonância elétrica</b>: Aumenta o ATQ elétrico em <b>15%</b> e a resistência elétrica em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas elétricas. O efeito deste conjunto NÃO funciona com outros."
+  },
+  "advancement": [
+    "Cria <b>1</b> Eletrodo que confere <b>5</b> acúmulos de corrente de cura aprimorada imediatamente após usar <b>Trava de Pulso</b> ou <b>Disparo de Feixe de Partículas</b>. E ainda desencadeia uma corrente de cura que cura os aliados próximos em <b>135%</b> do ATQ do Errante.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "O Eletrodo desencadeia um <b>Raio Circular</b> que causa, no máximo, <b>205%</b> do ATQ na área-alvo a cada <b>6</b> segundos.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Aumenta o ATQ do Errante em (<b>6,5</b> + (quantidade de Eletrodos x <b>6,5</b>))% durante <b>25</b> segundos após usar <b>Pulso Travado</b>.",
+    "Até <b>2</b> Eletrodos podem estar ativos ao mesmo tempo. Invocar mais Eletrodos substitui os mais distantes do usuário."
+  ],
+  "traits": [
+    {
+      "name": "Nêmesis: Metamorfose",
+      "icon": true,
+      "description": "Após invocar um Eletrodo, causa <b>60%</b> do ATQ de dano elétrico a todos os inimigos em um raio de <b>30</b> metros do Eletrodo e confere <b>120%</b> do ATQ em cura a todos os aliados (inclusive a si) ao seu alcance."
+    },
+    {
+      "name": "Nêmesis: Sublimação",
+      "icon": true,
+      "description": "Após invocar um Eletrodo, causa <b>100%</b> do ATQ de dano elétrico a todos os inimigos em um raio de <b>30</b> metros do Eletrodo e confere <b>200%</b> do ATQ em cura a todos os aliados (inclusive a si) ao seu alcance."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Coração-de-raio",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

@@ -9,7 +9,7 @@ const S3_KEY = "3BNAB5VUNFESPIMIKK6D";
 const S3_SECRET = "RgBEoZsJ19pSkHjbYk+oaI9b17E+r8IQEN5MDifgluc";
 const ROOT_FOLDER = "./images";
 
-const EXT_IGNORE = [".zip", ".webp"];
+const EXT_IGNORE = [".zip"];
 const PUBLIC_ACL = "public-read";
 
 const UPLOADED_PATH = path.join(__dirname, "_content", "uploaded_images.json");

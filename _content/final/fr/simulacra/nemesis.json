@@ -1,0 +1,289 @@
+{
+  "_id": 11,
+  "id": "nemesis",
+  "name": "Nemesis",
+  "weapon": "Venus",
+  "weapon_id": "venus",
+  "birthday": "23 mai (Gémeaux)",
+  "birthplace": "Ange de la clémence",
+  "gender": "Féminin",
+  "info": "Après la restructuration impliquant diverses opérations telles que le lavage de cerveau, l'effacement de la mémoire et l'implantation d'un second être, elle est demeurée émotionnellement instable pendant longtemps. \nLa personnalité originale de Shirli a dû être supprimée. Heureusement, tout est rentré dans l'ordre, malgré quelques inquiétudes par rapport à une possible menace. \nBien sûr, elle ne sera jamais plus la Shirli pleine de vie qu'elle était autrefois, mais elle est presque redevenue une jeune fille ordinaire. \nElle continue de douter de sa propre existence, ce qui reflète son anxiété et ses blessures. Au moins, elle a su trouver le courage de faire face, ce qui est quand même un bon départ.",
+  "description": "Un Ange de la clémence récemment né suite à la restructuration de Shirli, apprentie infirmière au refuge d'Astra, dont la moitié de la chair et des nerfs ont été remplacés par des composants mécaniques et des circuits.\n\nEn tant qu'humaine, elle a déjà souffert de l'impact direct des radiations d'omnium à cause d'un suppresseur défectueux. Cependant, avant l'aberration totale, elle a été envoyée aux Héritiers d'Aida pour recevoir un traitement expérimental qui a miraculeusement réussi.\n\nAvec sa récente restructuration, elle est la plus instable de tous les Anges de la clémence, mais aussi celle qui est équipée des dernières technologies des Héritiers d'Aida.",
+  "like": "Dessin, puzzles, et soda à l'orange",
+  "dislike": "Insectes et surprise",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Attaque normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nLa première attaque inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b> et repousse légèrement la cible.\nLa deuxième attaque inflige des dégâts équivalant à <b>36.3%</b> de l'ATQ + <b>2</b> et repousse légèrement la cible.\nLa troisième attaque inflige des dégâts équivalant à <b>98.3%</b> de l'ATQ + <b>5</b> et repousse légèrement la cible.\nLa quatrième attaque inflige des dégâts équivalant à <b>67.3%</b> de l'ATQ + <b>4</b> et repousse légèrement la cible.\nLa cinquième attaque inflige des dégâts équivalant à <b>148.3%</b> de l'ATQ + <b>8</b> et renverse la cible."
+    },
+    {
+      "name": "Décharge aérienne",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>62.5%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>62%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>3%</b> de l'ATQ + <b>120</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>6%</b> de l'ATQ + <b>71.2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>4%</b> de l'ATQ + <b>126</b>."
+    },
+    {
+      "name": "Poursuite audacieuse",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la seconde attaque normale, maintenez Attaque normale pour déclencher Poursuite audacieuse.\nVous tirez un missile guidé par laser sur la cible, infligeant des dégâts jusqu'à <b>107.5%</b> de l'ATK + <b>6</b>."
+    },
+    {
+      "name": "Double concentration",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Maintenez Attaque normale pour charger un tir et libérer une boule électrifiée qui explose à l'impact, infligeant des dégâts équivalents à <b>118.4%</b> de l'ATK + <b>6</b> aux ennemis proches."
+    },
+    {
+      "name": "Concentration tournoyante",
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'attaque pour déclencher un champ magnétique ralentissant.\nVenus tire un orbe chargé qui se déplace sur une distance définie et explose au contact des cibles. Inflige des dégâts équivalents à <b>171.6%</b> de l'ATQ + <b>9</b>, et génère un champ magnétique ralentissant pendant <b>3</b> secondes qui réduit la vitesse de déplacement et d'attaque de tous les ennemis pris dedans de <b>35%</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
+    },
+    {
+      "name": "Rayons parallèles",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une touche directionnelle pendant l'esquive) pour déclencher Rayons parallèles.\nVenus tire deux rayons parallèles, infligeant des dégâts perforants équivalents à <b>171.6%</b> de l'ATQ + <b>9</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
+    },
+    {
+      "name": "Verrouillage d'impulsion",
+      "type": [
+        "Skill"
+      ],
+      "description": "Venus tire un missile guidé qui explose au contact des cibles ennemies, infligeant des dégâts équivalant à <b>233.2%</b> de l'ATQ + <b>12</b> et repousse les cibles. Temps de recharge : <b>25</b> secondes."
+    },
+    {
+      "name": "Tir de rayon à particules",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d’arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et donne l'ordre à Venus de tirer un rayon en forme de croix au sol, créant une zone instable et réduisant la vitesse de déplacement des cibles de <b>70%</b> pendant <b>5</b> secondes. Après un court moment, libère une impulsion électromagnétique qui inflige des dégâts équivalant à <b>393.9%</b> de l'ATQ + <b>21</b>.\nUtiliser une attaque de décharge fera apparaitre <b>1</b> électrode à proximité de la position ennemie qui attaque toutes les <b>1,5</b> seconde, infligeant des dégâts équivalant à <b>39.9%</b> de l'ATQ + <b>2</b>.\nL'électrode gagne <b>100%</b> des stats de l'Explorateur, peut être attaquée ou soignée, et perd <b>3%</b> de ses PV max chaque seconde.\n <b>1</b> seule électrode peut être invoquée. Si une nouvelle électrode est invoquée, elle remplacera la précédente."
+    }
+  ],
+  "weapon_type": {
+    "name": "Foudre",
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+  },
+  "weapon_resonance": {
+    "name": "Résonance de foudre",
+    "description": "<b>Résonance de foudre</b> : augmente l'ATQ de foudre de <b>15%</b> et la résistance à la foudre de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de foudre. Les effets de ce kit ne se cumulent pas aux autres."
+  },
+  "advancement": [
+    "Après avoir utilisé <b>Verrouillage d'impulsion</b> ou <b>Tir de rayon à particules</b>, crée <b>1</b> Électrode qui confère immédiatement à l'utilisateur <b>5</b> cumuls de Soin en chaîne amélioré. Lance également un Soin en chaîne qui soigne les alliés à hauteur de <b>135%</b> de l'ATQ de l'Explorateur.",
+    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Toutes les <b>6</b> secondes, l'Électrode lance un <b>Cercle de foudre</b> qui inflige des dégâts équivalant au maximum à <b>205%</b> de l'ATQ dans la zone ciblée.",
+    "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Après avoir utilisé <b>Verrouillage d'impulsion</b>, l'ATQ de l'Explorateur augmente de (<b>6,5</b> + (nombre d'Électrodes x<b>6,5</b>))% pendant <b>25</b> secondes.",
+    "Jusqu'à <b>2</b> Électrodes peuvent être actives simultanément. Au-delà de cette limite, toute Électrode invoquée remplacera celle qui se trouve le plus loin de l'utilisateur."
+  ],
+  "traits": [
+    {
+      "name": "Nemesis : Métamorphose",
+      "icon": true,
+      "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>60%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>120%</b> de l'ATQ (y compris l'utilisateur)."
+    },
+    {
+      "name": "Nemesis : Sublimation",
+      "icon": true,
+      "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>100%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>200%</b> de l'ATQ (y compris l'utilisateur)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magnoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Cœur de foudre",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

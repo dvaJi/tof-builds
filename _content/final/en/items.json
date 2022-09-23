@@ -150,7 +150,7 @@
     "rarity": "N"
   },
   {
-    "_id": 21,
+    "_id": 24,
     "id": "heart_of_lightning",
     "name": "Heart of lightning",
     "description": "Rare ore with volt elemental power. Flashes can be seen inside it in good lighting.",
@@ -167,7 +167,7 @@
   },
   {
     "_id": 23,
-    "id": "Heart of Lava",
+    "id": "heart_of_lava",
     "name": "Heart of lava",
     "description": "Rare ore containing fire elemental power. The fiery redness is a sufficient proof of the power within.",
     "usage": "For augmenting weapons.",

@@ -1,0 +1,291 @@
+{
+  "_id": 16,
+  "id": "zero",
+  "name": "Zero",
+  "weapon": "Cubo da Anulação",
+  "weapon_id": "negating_cube",
+  "birthday": "6 de junho (Gêmeos)",
+  "birthplace": "Desconhecido",
+  "gender": "Masculino",
+  "info": "De língua afiada, duas caras, competitivo e arrogante, especialmente quando se vê diante de tarefas que considera abaixo do seu nível. Por vezes pode mostrar um grau de maturidade e disciplina incompatível com a sua idade, além de ser excepcionalmente perspicaz. Mas, na maior parte do tempo, ele não poderia estar menos interessado no que as outras pessoas dizem, e nem sequer tenta se lembrar de coisas que considera desinteressantes.",
+  "description": "Um gênio nerd da computação que parece ter cerca de 15 anos, nascido em Banges e apelidado \"Zero\". Entretanto, o nome verdadeiro e os detalhes pessoais foram destruídos de propósito por ele próprio.\nExtremamente habilidoso em processamento de inteligência, comunicações eletrônicas e gerenciamento de dados, Zero é capaz de localizar e extrair volumes imensos de informações através do computador e de análise de rede. Uma vez, ele surpreendeu a Hykros ao invadir seu sistema de segurança em um ataque cibernético arrojado, e por isso se tornou uma \"pessoa de interesse\". No momento, Zero está sob controle e supervisão rígidos da Hykros em um local confidencial, onde ele realiza operações relacionadas à inteligência.",
+  "like": "Tecnologia, jogos",
+  "dislike": "Sair, cozinhar",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 5,
+  "charge": 13,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, manipula o cubo para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>46.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>38.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>118.5%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>79.6%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>80.9%</b> do ATQ + <b>4</b> até 3 vezes e <b>lança</b> o alvo no ar.\n<b>Passiva: Se o ataque normal atingir alvos 6 vezes, ganha 1 cubo. É possível juntar até 5 cubos.</b>"
+    },
+    {
+      "name": "Míssil de Omnium",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, toque no botão de ataque normal para ativar a energia dentro do cubo e disparar até <b>5</b> mísseis. Causa dano total de <b>59.3%</b> do ATQ + <b>3</b>. Consome até <b>250</b> de vigor.\n<b>Passiva: Se você tiver juntado cubos, todos eles serão consumidos quando disparar Mísseis de Omnium em inimigos.</b>"
+    },
+    {
+      "name": "Sobrecarga Energética",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para usar Sobrecarga Energética.\nAo aterrissar, gera uma onda sísmica que percorre o caminho à frente e causa dano de até <b>23.4%</b> do ATQ + <b>1</b> aos alvos no caminho."
+    },
+    {
+      "name": "Choque de Omnium",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "No terceiro ataque normal, mantenha o botão pressionado para usar Choque de Omnium.\nUm pilar energético lança alvos próximos no ar e causa dano de <b>68.4%</b> do ATQ + <b>4</b>. O pilar dura 5 segundos e causa dano de <b>28.5%</b> do ATQ + <b>2</b> por segundo a alvos próximos."
+    },
+    {
+      "name": "Sentinela Energética",
+      "type": [
+        "Passive"
+      ],
+      "description": "Cubos giram em volta do Errante e causam dano de <b>9.7%</b> do ATQ + <b>1</b> a inimigos."
+    },
+    {
+      "name": "Míssil Energético",
+      "type": [
+        "Passive"
+      ],
+      "description": "Quando o Errante usar Mísseis de Omnium e Sobrecarga Energética, os cubos que giram ao seu redor também serão disparados. Causa dano de <b>48.5%</b> do ATQ + <b>3</b> ao alvo."
+    },
+    {
+      "name": "Força da Alma",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro do alcance e dando imunidade a interrupção durante <b>0,5</b> segundo.\nSe o Errante tiver menos de <b>5</b> cubos, há <b>40%</b> de chance de recuperar 1 esquiva a cada esquiva bem-sucedida.\nEsquivas bem-sucedidas não interrompem combos de ataque normal.\n<b>Passivo: Ganha um cubo a cada esquiva bem-sucedida no ar.</b>"
+    },
+    {
+      "name": "Escudo de Omnium",
+      "type": [
+        "Skill"
+      ],
+      "description": "Cria um escudo para si mesmo e aliados próximos para bloquear até <b>800%</b> do ATQ de dano durante <b>10</b> segundos e causar dano de <b>124.9%</b> do ATQ + <b>8</b> a alvos próximos e os <b>lançar no ar</b>. Cada cubo que você tiver quando esta habilidade for usada adiciona <b>160%</b> do ATQ para maximizar o escudo e consumir todo o cubo. Tempo de recarga: <b>60</b> seg."
+    },
+    {
+      "name": "Onda de Omnium",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e ganha <b>5</b> cubos ao trocar para esta arma; então, solta os <b>5</b> cubos com um Abalo Sísmico. Este Abalo Sísmico causa dano de <b>171%</b> do ATQ + <b>9</b> a alvos próximos, e os <b>lança no ar</b>. Cada cubo também causa dano de <b>48.5%</b> do ATQ + <b>3</b>. Se houver aliados por perto, eles ficam imunes a dano durante <b>3</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fogo",
+    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>{3}%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+  },
+  "advancement": [
+    "Causa dano e gera um orbe de cura que dura <b>20</b> segundos e restaura vida equivalente a <b>60%</b> do ATQ do colega de equipe que o pegar. Tempo de recarga: <b>2</b> seg.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Reduz a recarga da habilidade de <b>60</b> segundos para <b>30</b> segundos. Restaura vida equivalente a <b>30%</b> do ATQ a cada segundo durante o efeito do escudo.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
+    "Causar dano a um inimigo também gera um orbe de dano que dura <b>20</b> segundos e aumenta em <b>2%</b> todo o dano e a cura do colega de equipe que o pegar. Dura <b>30</b> segundos. Acumula até <b>10</b> vezes. Tempo de recarga da habilidade: <b>2,5</b> seg.",
+    "Usar uma habilidade gera orbes de cura e orbes de dano para aliados equivalentes ao número de Cubos de Omnium."
+  ],
+  "traits": [
+    {
+      "name": "Zero: Cálculos Exatos",
+      "icon": true,
+      "description": "Reduz o tempo de recarga de relíquias em recarga em <b>1,5</b> segundo quando Zero usa uma habilidade de arma. O efeito só pode ser ativado por uma mesma arma <b>1</b> vez a cada <b>5</b> segundos."
+    },
+    {
+      "name": "Zero: Planejamento Geral",
+      "icon": true,
+      "description": "Reduz o tempo de recarga de Relíquias em recarga em <b>3</b> segundos quando Zero usa uma habilidade de arma. O efeito só pode ser ativado por uma mesma arma <b>1</b> vez a cada <b>5</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo-ígneo",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Coração-de-lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Revestimento antiácido II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

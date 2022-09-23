@@ -1,0 +1,277 @@
+{
+  "_id": 15,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "weapon": "Flèche de vent glacé",
+  "weapon_id": "icewind_arrow",
+  "birthday": "24 mars (bélier)",
+  "birthplace": "Héritiers d'Aida",
+  "gender": "Féminin",
+  "info": "L'incarnation ultime de l'opportunisme. Pipelette hyperactive qui aime être dans la foule.\nExtrêmement grégaire. Ne s'énerve pas, même quand on l'insulte ou lui crie dessus. Fait preuve de tolérance envers tous les points de vue et peut facilement se faire des amis.\nCependant, on ne peut pas vraiment compter sur cet électron libre.",
+  "description": "Le CV de Tsubasa indique qu'elle était autrefois résidente du refuge d'Astra, cadre Hyène et employée d'Hykros, ce qui correspond au dossier que nous utilisons pour son simulacre.\nElle a ensuite choisi de trahir Hykros et est partie rejoindre les Héritiers d'Aida.\nCette décision ne peut qu'être qualifiée d'alarmante. Son statut actuel est inconnu, mais il est certain qu'elle n'est pas un laquais de bas étage chez les Héritiers, étant donné ses capacités.\nElle ne se repose jamais sur la philosophie, la morale, les objectifs ou les règles pour décider quel camp rejoindre, car ces choses lui importent peu. Elle a fait partie de nombreuses organisations, sans jamais vraiment appartenir à aucune.",
+  "like": "Vent, gravité, liberté, chewing-gum",
+  "dislike": "Inertie, stabilité",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 11.5,
+  "skills": [
+    {
+      "name": "Dégainement",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>48.8%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>43.7%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>78.6%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>121.2%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>112.5%</b> de l'ATQ + <b>6</b> et repoussez la cible sur une courte distance."
+    },
+    {
+      "name": "Flèche chargée",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>87.8%</b> de l'ATQ + <b>5</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi et le renversez (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+    },
+    {
+      "name": "Pluie de flèches",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après une attaque normale, maintenez Attaque normale pour déclencher Pluie de flèches, qui inflige aux cibles jusqu'à <b>287.2%</b> de l'ATQ + <b>15</b> dégâts de zone."
+    },
+    {
+      "name": "Salve aérienne",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour attaquer 4 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>56.3%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>74%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>112.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>169.8%</b> de l'ATQ + <b>9</b>."
+    },
+    {
+      "name": "Flèche piégée",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque après une esquive pour déclencher Flèche piégée, qui <b>repousse la cible</b> et lui inflige des dégâts équivalant à <b>124%</b> de l'ATQ + <b>7</b>."
+    },
+    {
+      "name": "Tir perçant",
+      "type": [
+        "Skill"
+      ],
+      "description": "Fait un salto arrière et tire <b>3</b> tirs perforants. Le tir principal inflige des dégâts équivalant à <b>258.3%</b> de l'ATQ + <b>14</b>, les deux autres infligent 60% de dégâts. <b>Repoussent également les cibles</b>, et les assomme pendant <b>5</b> secondes si elles heurtent un obstacle. Temps de recharge : <b>12</b> secondes."
+    },
+    {
+      "name": "Barrage explosif",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et crée une tempête de grêle sur l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>. La tempête a <b>10%</b> de chance d'infliger un <b>effet de congélation</b> durant <b>2</b> secondes. Gagnez Front froid, qui augmente votre vitesse de <b>45%</b> pendant <b>7</b> secondes."
+    }
+  ],
+  "weapon_type": {
+    "name": "Coquille de glace",
+    "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>151%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+  },
+  "advancement": [
+    "Confère un nouveau cumul de Flèche acérée chaque fois que la flèche tirée par une attaque d'esquive touche une cible. Chaque cumul accroît de <b>5%</b> les dégâts pendant <b>15</b> secondes. Cet effet peut se cumuler jusqu'à <b>3</b> fois.",
+    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Lancer une attaque d'esquive tire <b>3</b> Flèches chargées.",
+    "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Double la durée de Pluie de flèches et ralentit les cibles de <b>25%</b>.",
+    "Pluie de flèches peut se cumuler jusqu'à <b>5</b> fois. Toucher une cible avec une Flèche chargée confère immédiatement <b>3</b> nouveaux cumuls, tandis que les tirs à la tête en confèrent <b>5</b>."
+  ],
+  "traits": [
+    {
+      "name": "Tsubasa : Pluie torrentielle",
+      "icon": true,
+      "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,5%</b> d'ATQ, jusqu'à <b>15</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
+    },
+    {
+      "name": "Tsubasa : Vagues déchaînées",
+      "icon": true,
+      "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,6%</b> d'ATQ, jusqu'à <b>30</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Cœur de l'hiver",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

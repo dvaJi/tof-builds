@@ -1,0 +1,171 @@
+{
+  "_id": 12,
+  "id": "pepper",
+  "name": "Pepper ",
+  "weapon": "Stab der Narben",
+  "weapon_id": "staff_of_scars",
+  "birthday": "9. Juli (Krebs)",
+  "birthplace": "Hykros’ Medizinische Abteilung",
+  "gender": "Weiblich",
+  "info": "Eine beliebte Krankenschwester mit einem warmen, geduldigen Lächeln, die für ihre gute Arbeitsethik bekannt ist. Ihre gesundheitliche Verfassung und ihre Ausdauer können jedoch nicht mithalten. Ihr Perfektionismus führt dazu, dass sie oft übermüdet ist.\nSie leidet unter starken Schlafstörungen, leichten Angstzuständen und Zwangshandlungen, was sie jedoch mit eiserner Selbstdisziplin verbirgt.",
+  "description": "Als Tochter einer wohlhabenden Familie in Banges genoss sie eine überdurchschnittlich gute Ausbildung und legte immer ein vorbildliches Verhalten an den Tag. Eines Tages wurden sie und ihre Familie von Aberranten angegriffen, und ihre Eltern verloren ihre Suppressoren.\nSie sind nicht „gestorben“, sondern wurden zu Aberranten. Als ein Vollstrecker sie von ihrem Elend erlösen wollte, flehte Pepper, die verschont worden war, den Vollstrecker an, es nicht zu tun. Jetzt sind sie an einem unbekannten Ort eingesperrt, während ihre Unterbringung langsam das Familienvermögen aufzehrt.\nAus diesem Grund arbeitet Pepper in der medizinischen Abteilung in Hykros, wo sie den Rest ihres Lebens damit verbringen, eine Möglichkeit zu suchen, die Mutation rückgängig zu machen …",
+  "like": "Ihre Eltern; Arbeit; mit ihren Forschungen vorankommen",
+  "dislike": "Schlafenszeiten",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Utility",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 4,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Schwinge den Stab während du auf dem Boden stehst, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>25.1%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>18.8%</b> des ANG + <b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>30.4%</b> des ANG + <b>2</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>41.4%</b> des ANG + <b>2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>73.2%</b> des ANG + <b>4</b>."
+    },
+    {
+      "name": "Steigendes Sperrfeuer",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, tippe auf normaler Angriff, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>32.5%</b> des ANG + <b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>23.5%</b> des ANG + <b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>25.5%</b> des ANG + <b>1</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>45.6%</b> des ANG + <b>2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>47.7%</b> des ANG + <b>3</b>."
+    },
+    {
+      "name": "Mondfall",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um Mondfall auszulösen.\nVerursacht bei der Landung einmal alle <b>0,2</b> Sekunden Schaden, der insgesamt <b>57.2%</b> des ANG + <b>3</b> Schaden verursacht."
+    },
+    {
+      "name": "Eisschlitz",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: zieht Gegner vor dem Anwender heran, lässt <b>sie schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>16.1%</b> des ANG + <b>1</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>18.6%</b> des ANG + <b>1</b> am Zielort und an Gegnern in der Nähe."
+    },
+    {
+      "name": "Volt-Welle",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums des perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Volt-Welle“ auszulösen.\nJede Energiewelle verursacht Schaden in Höhe von <b>22.6%</b> des ANG + <b>1</b> an Zielen.\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+    },
+    {
+      "name": "Tesserakt",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Ausweichende Explosion“ auszulösen.\nDies schießt eine Energiekugel nach vorne und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>32.1%</b> des ANG + <b>2</b> an Zielen im Weg (bis zu 5-mal).\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+    },
+    {
+      "name": "Heiligtum",
+      "type": [
+        "Skill"
+      ],
+      "description": "Erschafft einen Energieschild am Standort des Wanderers. Heilt Verbündete innerhalb des Schildes für <b>81.7%</b> des ANG + <b>4</b> pro Sekunde und verringert ihren erlittenen Schaden um <b>3%</b> für <b>10</b> Sekunden. <b>60</b> Sekunden Abklingzeit."
+    },
+    {
+      "name": "Hauch von Ruhe",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>{2}%</b> des ANG + <b>{3}</b> LP."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+  },
+  "advancement": [
+    "Heilt alle Teammitglieder innerhalb von <b>10</b> Metern nach Einsetzen einer Ausweichfähigkeit um <b>100%</b> des ANG.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>10%</b>.",
+    "Normale Angriffe feuern zusätzlich zwei Raketen ab, die dem Ziel Schaden in Höhe von <b>5%</b> des ANG zufügen und <b>5</b> Waffenladungspunkte wiederherstellen.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>20%</b>.",
+    "Erhöht die Auffüllgeschwindigkeit der Waffenladung um <b>20%</b> (gilt nicht für Raketenangriffe).",
+    "Gewährt allen Teammitgliedern in Reichweite <b>60%</b> Schadensreduktion, wenn eine Fähigkeit Kontrolleffekte vom Ziel entfernt."
+  ],
+  "traits": [
+    {
+      "name": "Pepper: Wiederbelebung",
+      "icon": true,
+      "description": "Wenn Pepper mit Sättigung LP wiederherstellt, wird die Heilung um <b>100%</b> erhöht."
+    },
+    {
+      "name": "Pepper: Quelle",
+      "icon": true,
+      "description": "Wenn Pepper mit Sättigung LP wiederherstellt, wird die Heilung um <b>200%</b> erhöht."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

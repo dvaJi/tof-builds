@@ -1,0 +1,277 @@
+{
+  "_id": 13,
+  "id": "samir",
+  "name": "Samir",
+  "weapon": "Doppel-EM-Sterne",
+  "weapon_id": "dual_em_stars",
+  "birthday": "20. Mai (Stier)",
+  "birthplace": "Hykros",
+  "gender": "Weiblich",
+  "info": "Die faule und selbstverliebte Samira mag harmlose Witze und Streiche.\nObwohl sie eine Hykros-Vollstreckerin ist und über außergewöhnliche Kraft verfügt, machen Samiras Faulheit und Unzuverlässigkeit immer wieder Probleme. Ihre Angewohnheit, sich über Kollegen lustig zu machen, sorgt für Spannungen, und ihr Ruf ist nicht der Beste. Samira selbst scheint das jedoch nicht zu kümmern.",
+  "description": "Samiras Vergangenheit ist voller Rätsel.\nEs ist bekannt, dass sie als Waisenkind von jemandem in Banges adoptiert wurde. Als sie erwachsen war, schloss sie sich Hykros an und wurde zu einer Vollstreckerin ausgebildet.\n\nSelbst unter Elite-Vollstreckern zählt sie zu den besten Schützen. Hykros zog in Erwägung, sie als Ausbilderin für neue Rekruten einzusetzen, verwarf die Idee aber wieder, weil es einfach nicht ihrer Persönlichkeit entsprach.",
+  "like": "Rätsel lösen, Krimis",
+  "dislike": "Unbekannt",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 6,
+  "charge": 10.7,
+  "skills": [
+    {
+      "name": "Doppelfeuer",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe auf normaler Angriff während du auf dem Boden bist, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Gesamtschaden in Höhe von <b>47.1%</b> des ANG + <b>2</b>.\nZweiter Angriff: Verursacht Gesamtschaden in Höhe von <b>35.8%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Gesamtschaden in Höhe von <b>119.7%</b> des ANG + <b>6</b>.\nVierter Angriff: Verursacht Gesamtschaden in Höhe von <b>113.1%</b> des ANG + <b>6</b>.\nFünfter Angriff: Fügt dem Ziel einen Gesamtschaden in Höhe von <b>154%</b> des ANG + <b>8</b> zu und <b>schleudert</b> es in die Luft."
+    },
+    {
+      "name": "Kugelhagel",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tippe in der Luft auf den normalen Angriff, um kontinuierlich auf den Boden zu feuern. Dies verursacht pro Treffer Schaden in Höhe von <b>50.6%</b> des ANG + <b>3</b>. Jeder Treffer verbraucht <b>150</b> Ausdauer."
+    },
+    {
+      "name": "Energieschub",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Halte die Angriffstaste gedrückt, um kontinuierlich zu schießen. Jeder Treffer verursacht Grundschaden in Höhe von <b>23%</b> des ANG +<b>1</b>."
+    },
+    {
+      "name": "Phantomkick",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Drücke und halte in der Luft den normalen Angriff, um „Phantomkick“ auszulösen. Dies schlägt das Ziel nieder und verursacht Schaden in Höhe von <b>70.5%</b> des ANG + <b>4</b>. Nach der Landung erleiden Ziele in der Nähe Schaden in Höhe von <b>98.7%</b> des ANG + <b>5</b> und sie werden <b>weggeschleudert</b>."
+    },
+    {
+      "name": "Blitztritt",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe nach dem Ausweichen auf den normalen Angriff, um <b>Ziele länger in der Luft schweben zu lassen</b> und Schaden in Höhe von <b>122.6%</b> des ANG + <b>6</b> zu verursachen."
+    },
+    {
+      "name": "Volt-Schild",
+      "type": [
+        "Skill"
+      ],
+      "description": "Feuert einen Energieschild auf den Zielort, der die Strahlen innerhalb der Barriere reflektiert. Verursacht Schaden in Höhe von <b>269.8%</b> des ANG + <b>14</b>. Der letzte Treffer lässt Ziele <b>länger schweben</b>. Abklingzeit: <b>45</b> Sek."
+    },
+    {
+      "name": "Donnerwetter",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und ein Donnerwetter am Zielort erzeugt. Dies lässt Ziele innerhalb des Bereichs <b>länger schweben</b> und verursacht über 3 Angriffe hinweg einen Gesamtschaden in Höhe von <b>238.3%</b> des ANG + <b>13</b>, während es gleichzeitig ihre Buffs aufhebt. Der Sturm hält <b>3,5</b> Sek. an und verursacht alle <b>0,5</b> Sek. Schaden in Höhe von <b>42.4%</b> des ANG + <b>2</b> an einem Ziel."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+  },
+  "advancement": [
+    "Löst eine elektrische Explosion auf dem Ziel aus, wenn es kritisch getroffen wird, die dem Ziel und Gegnern in der Nähe zusätzlichen Schaden in Höhe von <b>30%</b> des ANG zufügt. Abklingzeit: <b>0,2</b> Sek.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Erhöht die kritische Trefferrate gegen elektrisierte Ziele um <b>40%</b>. Elektrische Explosionen verlängern die Dauer der Elektrisierung um <b>0,5</b> Sek., bis max. <b>5</b> Sek.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "„Volt-Schild“ hält doppelt so lang an und zieht Ziele in die Mitte des Angriffs.",
+    "Das Auslösen einer elektrischen Explosion verringert die Abklingzeiten von Fähigkeiten um <b>1</b> Sek."
+  ],
+  "traits": [
+    {
+      "name": "Samira: Trickreich",
+      "icon": true,
+      "description": "Gewährt alle <b>4</b> Sek. <b>1</b> Stapel „Konzentration“, solange Samira keinen Schaden erleidet. Jeder Stapel erhöht den verursachten Schaden um <b>3%</b> (bis zu <b>4</b>-mal stapelbar). Wenn Samira getroffen wird, verliert sie <b>1</b> Stapel „Konzentration“, bis zu <b>1</b> Stapel alle <b>1</b> Sek."
+    },
+    {
+      "name": "Samira: Schatten",
+      "icon": true,
+      "description": "Gewährt alle <b>4</b> Sek. <b>1</b> Stapel „Konzentration“, solange Samira keinen Schaden erleidet. Jeder Stapel erhöht den verursachten Schaden um <b>4%</b> (bis zu <b>5</b>-mal stapelbar). Wenn Samira getroffen wird, verliert sie <b>1</b> Stapel „Konzentration“, bis zu <b>1</b> Stapel alle <b>2</b> Sek."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Herz des Blitzes",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

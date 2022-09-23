@@ -150,7 +150,7 @@
     "rarity": "N"
   },
   {
-    "_id": 21,
+    "_id": 24,
     "id": "heart_of_lightning",
     "name": "稲妻の心",
     "description": "雷元素エナジーを含有する貴重な鉱石。明るい場所でも内部を貫く稲妻が見える",
@@ -167,7 +167,7 @@
   },
   {
     "_id": 23,
-    "id": "Heart of Lava",
+    "id": "heart_of_lava",
     "name": "溶岩の心",
     "description": "炎元素エナジーを内包する希少な鉱石。炎のような紅色は、大量の元素を蓄えている証",
     "usage": "武器突破素材",

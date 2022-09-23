@@ -1,0 +1,277 @@
+{
+  "_id": 15,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "weapon": "Icewind Arrow",
+  "weapon_id": "icewind_arrow",
+  "birthday": "24 Maret (Aries)",
+  "birthplace": "Heirs of Aida",
+  "gender": "Perempuan",
+  "info": "Oportunis sejati. Hiperaktif, ceriwis, senang berada di tengah kerumunan.\nPribadinya terlampau sosial. Tidak pernah marah meski disumpahi atau dikata-katai. Toleran terhadap segala sudut pandang dan supel.\nNamun, terlepas dari kebebasan berpikirnya, dia tak bisa diandalkan.",
+  "description": "Resume Tsubasa menunjukkan bahwa dia dulu penghuni Astra Shelter, kader Hyena, pekerja bagi Hykros—data ini yang kami gunakan untuk Simulacrumnya.\nSetelah itu, dia memilih mengkhianati Hykros dan membelot ke Heirs of Aida.\nTindakannya itu menggemparkan. Statusnya saat ini tak diketahui, tapi dengan kemampuannya, jelas bahwa dia bukan sekadar antek rendahan Heirs.\nJangan mengandalkan filosofi, moral, tujuan, atau aturan untuk menentukan sisi yang ingin diambilnya. Tak sedikit pun dia peduli soal itu semua. Meski pernah bergabung dengan banyak organisasi, tak satu pun yang diseriusinya.",
+  "like": "Angin, gravitasi, kebebasan, permen karet",
+  "dislike": "Inersia, stabilitas",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 11.5,
+  "skills": [
+    {
+      "name": "Quickdraw",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\nSerangan Pertama: Timpakan damage sebanyak <b>48.8%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>43.7%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>78.6%</b> ATK + <b>4</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>121.2%</b> ATK + <b>6</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>112.5%</b> ATK + <b>6</b> dan pukul mundur target dalam jarak dekat."
+    },
+    {
+      "name": "Charged Arrow",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack untuk mengisi. Timpakan damage dasar sebanyak <b>87.8%</b> ATK + <b>5</b>, dan <b>50%</b> lebih banyak untuk setiap <b>1</b> detik pengisian, hingga <b>3</b> detik. Menimpakan Double Damage saat melakukan Headshot atau saat mengenai titik lemah musuh hingga memukul jatuh mereka (Headshot tidak efektif pada Wanderer)."
+    },
+    {
+      "name": "Arrow Rain",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack, tahan tombol Normal Attack untuk melepaskan Arrow Rain, yang akan menimpakan damage hingga <b>287.2%</b> ATK + <b>15</b> Area Damage kepada target."
+    },
+    {
+      "name": "Air Volley",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>56.3%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>74%</b> ATK + <b>4</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>112.7%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>169.8%</b> ATK + <b>9</b>."
+    },
+    {
+      "name": "Loaded Arrow",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Serang setelah menghindar untuk mengaktifkan Loaded Arrow, yang akan <b>memukul mundur target</b> dan menimpakan damage sebanyak <b>124%</b> ATK + <b>7</b>."
+    },
+    {
+      "name": "Piercing Shot",
+      "type": [
+        "Skill"
+      ],
+      "description": "Lakukan jungkir balik dan tembakkan <b>3</b> Piercing Shot. Tembakan utama akan menimpakan damage sebanyak <b>258.3%</b> ATK + <b>14</b>, dan dua tembakan lainnya akan menimpakan 60% damage. Selain itu, <b>dan memukul mundur target</b> dan memberikan efek Stun selama <b>5</b> detik jika mereka menabrak rintangan. Cooldown: <b>12</b> detik."
+    },
+    {
+      "name": "Explosive Barrage",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b>, dan menghasilkan Hailstorm di lokasi target setelah beralih ke senjata ini, dan akan menimpakan damage setara dengan <b>570%</b> ATK + <b>30</b>. Badai punya peluang <b>10%</b> untuk menimpakan <b>efek Freeze</b> selama <b>2</b> detik. Mendapatkan Cold Front, dan meningkatkan kecepatan sebesar <b>45%</b> selama <b>7</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>151%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+  },
+  "advancement": [
+    "Memberikan satu tumpuk Sharp Arrow setiap kali anak panah yang ditembakkan oleh Dodge Attack mengenai target. Setiap tumpuk akan meningkatkan damage sebanyak <b>5%</b> selama <b>15</b> detik. Bisa ditumpuk maks <b>3</b> kali.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Dengan melancarkan Dodge Attack, <b>3</b> Charged Arrow akan ditembakkan.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Menggandakan durasi Arrow Rain dan memperlambat target sebanyak <b>25%</b>.",
+    "Sharp Arrow bisa ditumpuk hingga <b>5</b> kali. Jika mengenai target dengan Charged Arrow, akan langsung memberikan <b>3</b> tumpuk, sedangkan Headshot akan memberikan <b>5</b> tumpuk."
+  ],
+  "traits": [
+    {
+      "name": "Tsubasa: Rainstorm",
+      "icon": true,
+      "description": "Setiap kali Tsubasa menimpakan damage, mendapatkan <b>1</b> tumpuk Strike, maks <b>1</b> tumpuk per <b>1</b> detik. Setiap tumpuk akan menambahkan <b>0,5%</b> ATK, maks <b>15</b> tumpuk. Durasi efek akan disegarkan setelah mendapatkan efek itu lagi. Efek ini bertahan <b>30</b> detik."
+    },
+    {
+      "name": "Tsubasa: Raging Waves",
+      "icon": true,
+      "description": "Setiap kali Tsubasa menimpakan damage, mendapatkan <b>1</b> tumpuk Strike, maks <b>1</b> tumpuk per <b>1</b> detik. Setiap tumpuk akan menambahkan <b>0,6%</b> ATK, maks <b>30</b> tumpuk. Durasi efek akan disegarkan setelah mendapatkan efek itu lagi. Efek ini bertahan <b>30</b> detik."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Heart of Winter",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

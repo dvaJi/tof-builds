@@ -1757,7 +1757,7 @@
         "level": 80,
         "cost": 3600,
         "mat1": {
-          "id": "Heart of Lava",
+          "id": "heart_of_lava",
           "name": "Cœur de lave",
           "rarity": "R",
           "amount": 5
@@ -2051,7 +2051,1898 @@
         "level": 80,
         "cost": 3600,
         "mat1": {
-          "id": "Heart of Lava",
+          "id": "heart_of_lava",
+          "name": "Cœur de lave",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Vernis antiacide II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Cadre en nanofibres II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "id": "meryl",
+    "name": "Meryl",
+    "weapon": "Lame de la rose",
+    "weapon_id": "rosy_edge",
+    "birthday": "10 octobre (balance)",
+    "birthplace": "Hykros",
+    "gender": "Féminin",
+    "info": "Détachée, à l'écart et asociale. Il y a très peu de choses qui provoqueront une réaction chez Meryl. Elle n'affiche aucune émotion, non pas parce qu'elle est insensible, mais parce qu'elle refuse d'être proche de qui que ce soit.",
+    "description": "Exécutante d'Hykros de haut rang, mais d'âge et d'origine inconnus. D'après le peu d'informations disponibles pour le grand public, Meryl s'est distinguée dans de nombreuses missions de grade S pour Hykros en raison de ses talents exceptionnels à l'épée et de ses prouesses au combat. En seulement quelques années, elle a été promue, passant de simple administratrice à Exécutante senior.\nL'attitude froide et impénétrable de Meryl fait que personne n'est jamais sûr de ses véritables intentions. Cette froideur, ainsi que son approche sans pitié quand il s'agit de faire face aux ennemis, assurent que tout le monde garde ses distances avec elle.\nLa base de données des Exécutants montre bien que Meryl a un frère jumeau duquel elle est très proche, mais il n'y a aucune information ni aucuns renseignements formels à son sujet.",
+    "like": "Journées enneigées, cristaux",
+    "dislike": "La botanique",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Shieldbreaking",
+    "resonance": "DPS",
+    "shatter": 12,
+    "charge": 4,
+    "skills": [
+      {
+        "name": "Frappe lourde",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, attaquez 4 fois de suite avec une grande épée.\nPremière attaque : inflige des dégâts équivalant à <b>72.9%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>60.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>105.4%</b> de l'ATQ + <b>6</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>, <b>suspend longuement</b> la cible, puis la repousse après l'atterrissage."
+      },
+      {
+        "name": "Frappe aérienne",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes en l'air ou après avoir sauté une fois, appuyez sur Attaque normale pour attaquer 4 fois d'affilée.\nPremière attaque : inflige des dégâts équivalant à <b>106.5%</b> de l'ATQ + <b>6</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>87.5%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>140.5%</b> de l'ATQ + <b>7</b> et <b>renverse</b> la cible avant de la projeter dans les airs au moment de toucher le sol."
+      },
+      {
+        "name": "Taillade ascendante",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Taillade ascendante.\nAu contact, <b>suspend longuement</b> la cible et vous fait décoller du sol, infligeant des dégâts équivalant à <b>64.3%</b>de l'ATQ + <b>3</b>."
+      },
+      {
+        "name": "Taillade crépusclunaire",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Taillade crépusclunaire"
+      },
+      {
+        "name": "Attaque furtive",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>570%</b> de l'ATQ + <b>30</b>."
+      },
+      {
+        "name": "Tourbillon",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Lorsque vous êtes debout ou lorsque vous vous déplacez, maintenez Attaque normale pour déclencher Tourbillon. Inflige à la cible des dégâts équivalant à <b>132.8%</b> de l'ATQ + <b>7</b> chaque <b>0,5</b> seconde. Confère une immunité à l'hébétement pendant que vous l'utilisez."
+      },
+      {
+        "name": "Dévastation",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une flèche avant l'esquive) pour déclencher Dévastation.\nVous infligez des dégâts correspondant à <b>65.9%</b> de l'ATQ + <b>3</b> à chaque coup et <b>vous projetez</b> les cibles."
+      },
+      {
+        "name": "Taillade en croissant",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale rapidement après l'esquive pour déclencher Taillade en croissant.\nVous brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à <b>49.6%</b> de l'ATQ + <b>3</b>."
+      },
+      {
+        "name": "Blizzard",
+        "type": [
+          "Skill"
+        ],
+        "description": "Brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à <b>141.7%</b> de l'ATQ + <b>7</b>, et augmentant les dégâts infligés de <b>5%</b> à chaque touche. L'attaque vous immunise contre les effets de contrôle. Temps de recharge : <b>45</b> secondes."
+      },
+      {
+        "name": "Barrière de givre",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, au moment où vous changez d'arme, <b>élimine toutes les altérations sur le porteur</b>, et frappe le sol pour former une barrière. Inflige des dégâts équivalant à <b>503.2%</b> de l'ATQ + <b>26</b> aux ennemis proches, et suspend les cibles. Ceci réduit leur vitesse de <b>50%</b> et les empêchant d'esquiver ou de sauter. La barrière dure <b>5</b> secondes et bloque les projectiles."
+      }
+    ],
+    "weapon_type": {
+      "name": "Coquille de glace",
+      "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>151%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+    },
+    "advancement": [
+      "Accroît de <b>15%</b> la capacité de fracture et régénère <b>10%</b> de PV après avoir fracturé le bouclier de la cible.",
+      "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
+      "Le passage à cette arme confère un bouclier de glace d'une valeur équivalant à <b>10%</b> des PV max. Temps de recharge : <b>20</b> secondes. Le bouclier dure jusqu'à <b>10</b> secondes.",
+      "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+      "Accroît de <b>50%</b> les dégâts et la capacité de fracture lorsque le bouclier est actif.",
+      "Le passage à cette arme confère un bouclier de glace d'une valeur équivalant à <b>20%</b> des PV max qui vous immunise également contre les effets de contrôle tant que le bouclier est activé. Temps de recharge : <b>20</b> secondes. Le bouclier dure jusqu'à <b>10</b> secondes."
+    ],
+    "traits": [
+      {
+        "name": "Meryl : Rose fraîche",
+        "icon": true,
+        "description": "Réduit de <b>20%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
+      },
+      {
+        "name": "Meryl : Glacé",
+        "icon": true,
+        "description": "Réduit de <b>25%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Cœur de l'hiver",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanorevêtement II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "name": "Cadre d'amplification II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "id": "nemesis",
+    "name": "Nemesis",
+    "weapon": "Venus",
+    "weapon_id": "venus",
+    "birthday": "23 mai (Gémeaux)",
+    "birthplace": "Ange de la clémence",
+    "gender": "Féminin",
+    "info": "Après la restructuration impliquant diverses opérations telles que le lavage de cerveau, l'effacement de la mémoire et l'implantation d'un second être, elle est demeurée émotionnellement instable pendant longtemps. \nLa personnalité originale de Shirli a dû être supprimée. Heureusement, tout est rentré dans l'ordre, malgré quelques inquiétudes par rapport à une possible menace. \nBien sûr, elle ne sera jamais plus la Shirli pleine de vie qu'elle était autrefois, mais elle est presque redevenue une jeune fille ordinaire. \nElle continue de douter de sa propre existence, ce qui reflète son anxiété et ses blessures. Au moins, elle a su trouver le courage de faire face, ce qui est quand même un bon départ.",
+    "description": "Un Ange de la clémence récemment né suite à la restructuration de Shirli, apprentie infirmière au refuge d'Astra, dont la moitié de la chair et des nerfs ont été remplacés par des composants mécaniques et des circuits.\n\nEn tant qu'humaine, elle a déjà souffert de l'impact direct des radiations d'omnium à cause d'un suppresseur défectueux. Cependant, avant l'aberration totale, elle a été envoyée aux Héritiers d'Aida pour recevoir un traitement expérimental qui a miraculeusement réussi.\n\nAvec sa récente restructuration, elle est la plus instable de tous les Anges de la clémence, mais aussi celle qui est équipée des dernières technologies des Héritiers d'Aida.",
+    "like": "Dessin, puzzles, et soda à l'orange",
+    "dislike": "Insectes et surprise",
+    "element": "Volt",
+    "rarity": "SSR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 8,
+    "skills": [
+      {
+        "name": "Attaque normale",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nLa première attaque inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b> et repousse légèrement la cible.\nLa deuxième attaque inflige des dégâts équivalant à <b>36.3%</b> de l'ATQ + <b>2</b> et repousse légèrement la cible.\nLa troisième attaque inflige des dégâts équivalant à <b>98.3%</b> de l'ATQ + <b>5</b> et repousse légèrement la cible.\nLa quatrième attaque inflige des dégâts équivalant à <b>67.3%</b> de l'ATQ + <b>4</b> et repousse légèrement la cible.\nLa cinquième attaque inflige des dégâts équivalant à <b>148.3%</b> de l'ATQ + <b>8</b> et renverse la cible."
+      },
+      {
+        "name": "Décharge aérienne",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>62.5%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>62%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>3%</b> de l'ATQ + <b>120</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>6%</b> de l'ATQ + <b>71.2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>4%</b> de l'ATQ + <b>126</b>."
+      },
+      {
+        "name": "Poursuite audacieuse",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Après la seconde attaque normale, maintenez Attaque normale pour déclencher Poursuite audacieuse.\nVous tirez un missile guidé par laser sur la cible, infligeant des dégâts jusqu'à <b>107.5%</b> de l'ATK + <b>6</b>."
+      },
+      {
+        "name": "Double concentration",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Maintenez Attaque normale pour charger un tir et libérer une boule électrifiée qui explose à l'impact, infligeant des dégâts équivalents à <b>118.4%</b> de l'ATK + <b>6</b> aux ennemis proches."
+      },
+      {
+        "name": "Concentration tournoyante",
+        "type": [
+          "Perfect Attack",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'attaque pour déclencher un champ magnétique ralentissant.\nVenus tire un orbe chargé qui se déplace sur une distance définie et explose au contact des cibles. Inflige des dégâts équivalents à <b>171.6%</b> de l'ATQ + <b>9</b>, et génère un champ magnétique ralentissant pendant <b>3</b> secondes qui réduit la vitesse de déplacement et d'attaque de tous les ennemis pris dedans de <b>35%</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
+      },
+      {
+        "name": "Rayons parallèles",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une touche directionnelle pendant l'esquive) pour déclencher Rayons parallèles.\nVenus tire deux rayons parallèles, infligeant des dégâts perforants équivalents à <b>171.6%</b> de l'ATQ + <b>9</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
+      },
+      {
+        "name": "Verrouillage d'impulsion",
+        "type": [
+          "Skill"
+        ],
+        "description": "Venus tire un missile guidé qui explose au contact des cibles ennemies, infligeant des dégâts équivalant à <b>233.2%</b> de l'ATQ + <b>12</b> et repousse les cibles. Temps de recharge : <b>25</b> secondes."
+      },
+      {
+        "name": "Tir de rayon à particules",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge d’arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et donne l'ordre à Venus de tirer un rayon en forme de croix au sol, créant une zone instable et réduisant la vitesse de déplacement des cibles de <b>70%</b> pendant <b>5</b> secondes. Après un court moment, libère une impulsion électromagnétique qui inflige des dégâts équivalant à <b>393.9%</b> de l'ATQ + <b>21</b>.\nUtiliser une attaque de décharge fera apparaitre <b>1</b> électrode à proximité de la position ennemie qui attaque toutes les <b>1,5</b> seconde, infligeant des dégâts équivalant à <b>39.9%</b> de l'ATQ + <b>2</b>.\nL'électrode gagne <b>100%</b> des stats de l'Explorateur, peut être attaquée ou soignée, et perd <b>3%</b> de ses PV max chaque seconde.\n <b>1</b> seule électrode peut être invoquée. Si une nouvelle électrode est invoquée, elle remplacera la précédente."
+      }
+    ],
+    "weapon_type": {
+      "name": "Foudre",
+      "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+    },
+    "weapon_resonance": {
+      "name": "Résonance de foudre",
+      "description": "<b>Résonance de foudre</b> : augmente l'ATQ de foudre de <b>15%</b> et la résistance à la foudre de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de foudre. Les effets de ce kit ne se cumulent pas aux autres."
+    },
+    "advancement": [
+      "Après avoir utilisé <b>Verrouillage d'impulsion</b> ou <b>Tir de rayon à particules</b>, crée <b>1</b> Électrode qui confère immédiatement à l'utilisateur <b>5</b> cumuls de Soin en chaîne amélioré. Lance également un Soin en chaîne qui soigne les alliés à hauteur de <b>135%</b> de l'ATQ de l'Explorateur.",
+      "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Toutes les <b>6</b> secondes, l'Électrode lance un <b>Cercle de foudre</b> qui inflige des dégâts équivalant au maximum à <b>205%</b> de l'ATQ dans la zone ciblée.",
+      "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Après avoir utilisé <b>Verrouillage d'impulsion</b>, l'ATQ de l'Explorateur augmente de (<b>6,5</b> + (nombre d'Électrodes x<b>6,5</b>))% pendant <b>25</b> secondes.",
+      "Jusqu'à <b>2</b> Électrodes peuvent être actives simultanément. Au-delà de cette limite, toute Électrode invoquée remplacera celle qui se trouve le plus loin de l'utilisateur."
+    ],
+    "traits": [
+      {
+        "name": "Nemesis : Métamorphose",
+        "icon": true,
+        "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>60%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>120%</b> de l'ATQ (y compris l'utilisateur)."
+      },
+      {
+        "name": "Nemesis : Sublimation",
+        "icon": true,
+        "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>100%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>200%</b> de l'ATQ (y compris l'utilisateur)."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lightning",
+          "name": "Cœur de foudre",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanorevêtement II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Cadre en nanofibres II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "id": "pepper",
+    "name": "Pepper",
+    "weapon": "Bâton des balafres",
+    "weapon_id": "staff_of_scars",
+    "birthday": "9 juillet (cancer)",
+    "birthplace": "Service médical d'Hykros",
+    "gender": "Féminin",
+    "info": "Une infirmière connue pour sa patience, sa gentillesse et son sourire. Bien qu'elle soit connue pour son éthique au travail à toute épreuve, son corps et sa vigueur n'arrivent pas à suivre. Et avec son perfectionnisme, elle est constamment fatiguée.\nOn lui a diagnostiqué une insomnie sévère, une légère anxiété et de l'obsession, bien qu'aucun des symptômes ne soit évident en raison de sa forte autodiscipline.",
+    "description": "Née au sein d'une famille aisée de Banges, elle a reçu une éducation supérieure à la moyenne et a toujours été sage. Un jour, lors d'une attaque d'aberrants, ses parents ont perdu leurs suppresseurs.\nIls ne sont pas morts, ils sont devenus des aberrants. Alors qu'un Exécutant était sur le point de mettre fin à leurs souffrances, Pepper, qui avait survécu, l'a supplié de les épargner. Ils sont maintenant confinés quelque part et leurs soins sont financés par la fortune de la famille, qui s'épuise peu à peu.\nC'est pourquoi Pepper travaille au sein du service médical de Hykros. Elle a choisi de consacrer le reste de ses jours à la recherche d'un moyen de lutter contre l'aberration…",
+    "like": "Ses parents, travail, progresser dans ses recherches",
+    "dislike": "Couchers",
+    "element": "Volt",
+    "rarity": "SR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 4,
+    "charge": 10,
+    "skills": [
+      {
+        "name": "Attaque normale",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, brandissez le bâton pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>25.1%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>18.8%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>30.4%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>41.4%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>73.2%</b> de l'ATQ + <b>4</b>."
+      },
+      {
+        "name": "Barrage aérien",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>32.5%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>23.5%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>25.5%</b> de l'ATQ + <b>1</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>45.6%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>47.7%</b> de l'ATQ + <b>3</b>."
+      },
+      {
+        "name": "Tombelune",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Tombelune.\nÀ l'atterrissage, vous infligez des dégâts toutes les <b>0,2</b> seconde, pour un total de dégâts correspondant à <b>57.2%</b> de l'ATQ + <b>3</b>."
+      },
+      {
+        "name": "Attaque concentrée",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher des attaques ramifiées, consommant <b>300</b> points d'endurance.\nPremière attaque : attire les ennemis devant l'utilisateur, les <b>suspendant</b> et leur infligeant des dégâts équivalant à <b>16.1%</b> de l'ATQ + <b>1</b> chaque <b>0,3</b> seconde (jusqu'à <b>4</b> fois).\nDeuxième attaque : inflige des dégâts équivalant à <b>18.6%</b> de l'ATQ + <b>1</b> à l'emplacement ciblé et aux ennemis proches chaque <b>0,3</b> seconde."
+      },
+      {
+        "name": "Déferlement",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Déferlement.\nChaque vague d'énergie inflige aux cibles des dégâts équivalant à <b>22.6%</b> de l'ATQ + <b>1</b>.\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+      },
+      {
+        "name": "Tesseract",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur l'attaque normale immédiatement après avoir esquivé pour déclencher Explosion évasive.\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à <b>32.1%</b> de l'ATQ + <b>2</b> aux cibles sur sa trajectoire chaque <b>0,3</b> seconde (jusqu'à 5 fois).\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+      },
+      {
+        "name": "Sanctuaire",
+        "type": [
+          "Skill"
+        ],
+        "description": "Vous créez un bouclier d'énergie à l'endroit où se trouve l'Explorateur. Ce bouclier applique des soins aux alliés correspondant à <b>81.7%</b> de l'ATQ + <b>4</b> toutes les secondes, et réduit les dégâts reçus de <b>3%</b> pendant <b>10</b> secondes. <b>60</b> secondes de recharge."
+      },
+      {
+        "name": "Délivrance rapide",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de <b>{2}%</b> de l'ATQ + <b>{3}</b> PV pendant <b>7</b> secondes."
+      }
+    ],
+    "weapon_type": {
+      "name": "Foudre",
+      "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>106%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+    },
+    "advancement": [
+      "Après l'utilisation d'une compétence d'esquive, soigne les membres du groupe dans un rayon de <b>10</b> m d'un nombre de PV égal à <b>100%</b> de l'ATQ.",
+      "Augmente de <b>10%</b> la croissance de PV de base actuelle de l'arme.",
+      "Les attaques normales tirent aussi deux missiles, chacun infligeant à la cible des dégâts équivalant à <b>5%</b> de l'ATQ et régénérant <b>5</b> points de recharge d'arme.",
+      "Augmente de <b>20%</b> la croissance de PV de base actuelle de l'arme.",
+      "Augmente de <b>20%</b> la vitesse d'obtention d'une recharge d'arme (ne s'applique pas aux attaques des missiles).",
+      "Confère à tous les membres du groupe à portée une réduction de dégâts de <b>60%</b> lorsqu'une compétence dissipe les effets de contrôle sur la cible."
+    ],
+    "traits": [
+      {
+        "name": "Pepper : Renaissance",
+        "icon": true,
+        "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>100%</b>."
+      },
+      {
+        "name": "Pepper : Source",
+        "icon": true,
+        "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>200%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 250,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 1
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 500,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 750,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 2
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "id": "samir",
+    "name": "Samir",
+    "weapon": "Étoiles EM doubles",
+    "weapon_id": "dual_em_stars",
+    "birthday": "20 mai (taureau)",
+    "birthplace": "Hykros",
+    "gender": "Féminin",
+    "info": "Fainéante et égocentrique, Samir apprécie les blagues et les farces inoffensives.\nMalgré son statut d'Exécutante d'Hykros et son incroyable force, Samir présente une personnalité paresseuse et non fiable qui pose problème. À cause de son habitude à jouer des tours à ses collègues, tous ceux qui travaillent avec elle sont à cran et sa réputation n'est pas totalement positive. Cependant, Samir ne semble pas s'en préoccuper.",
+    "description": "Son passé est parsemé d'interrogations.\nActuellement, on sait qu'elle était une orpheline adoptée par un résident de Banges. À l'âge adulte, elle a rejoint Hykros et elle est devenue Exécutante après une formation.\n\nElle est très douée et fait même partie des Exécutants d'élite. Hykros a déjà envisagé de lui demander de devenir la formatrice pour les nouvelles recrues, mais a fini par y renoncer parce que sa personnalité ne correspondait pas à ce rôle.",
+    "like": "Résoudre des énigmes et des meurtres mystérieux",
+    "dislike": "Inconnu",
+    "element": "Volt",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 10.7,
+    "skills": [
+      {
+        "name": "Double feu",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>47.1%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>35.8%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>119.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>113.1%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>154%</b> de l'ATQ + <b>8</b>, et <b>projetez</b> la cible."
+      },
+      {
+        "name": "Pluie de balles",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale lorsque vous êtes dans les airs pour tirer continuellement au sol, et infliger des dégâts équivalant à <b>50.6%</b> de l'ATQ + <b>3</b>. Chaque frappe consomme <b>150</b> d'endurance."
+      },
+      {
+        "name": "Explosion d'énergie",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Maintenez Attaque pour tirer de façon continue, chaque coup infligeant <b>23%</b> de l'ATQ + <b>1</b> dégâts de base."
+      },
+      {
+        "name": "Coup de pied fantôme",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Lorsque vous êtes en l'air, maintenez l'attaque normale enfoncée pour déclencher Coup de pied fantôme. Renverse la cible et inflige un nombre de dégâts égal à <b>70.5%</b> de l'ATQ + <b>4</b>. Au moment où vous atterrissez, inflige un nombre de dégâts égal à <b>98.7%</b> de l'ATQ + <b>5</b> aux cibles proches et les <b>projette</b>."
+      },
+      {
+        "name": "Coup de pied de foudre ascendant",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Après avoir esquivé, appuyez sur Attaque normale pour <b>suspendre longuement</b> les ennemis et leur infliger des dégâts équivalant à <b>122.6%</b> de l'ATQ + <b>6</b>."
+      },
+      {
+        "name": "Champ électrique",
+        "type": [
+          "Skill"
+        ],
+        "description": "Lance un bouclier d'énergie à l'emplacement ciblé qui reflète les rayons dans la barrière. Inflige des dégâts équivalant à <b>269.8%</b> de l'ATQ + <b>14</b> ; le dernier coup <b>suspend longuement les cibles</b>. Temps de recharge : <b>45</b> secondes."
+      },
+      {
+        "name": "Domaine du tonnerre",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée un Domaine du tonnerre à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, <b>suspendant longuement</b> les cibles dans la zone d'effet et infligeant un total de dégâts égal à <b>238.3%</b> de l'ATQ + <b>13</b> en 3 attaques, tout en dissipant leurs effets bénéfiques. Le domaine dure <b>3,5</b> secondes et inflige des dégâts équivalant à <b>42.4%</b> de l'ATQ + <b>2</b> à une cible chaque <b>0,5</b> seconde."
+      }
+    ],
+    "weapon_type": {
+      "name": "Foudre",
+      "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+    },
+    "advancement": [
+      "Déclenche une explosion électrique sur la cible après avoir porté un coup critique, infligeant des dégâts supplémentaires correspondant à <b>30%</b> de l'ATQ à la cible et aux ennemis proches. Temps de recharge : <b>0,2</b> seconde.",
+      "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Accroît de <b>40%</b> le taux de critique aux cibles électrifiées. Les explosions électriques prolongent de <b>0,5</b> seconde la durée des effets électrifiés, dans la limite de <b>5</b> secondes.",
+      "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Double la durée de Champ électrique et attire les cibles au centre de l'attaque.",
+      "Le déclenchement d'une explosion électrique réduit de <b>1</b> seconde les temps de recharge des compétences."
+    ],
+    "traits": [
+      {
+        "name": "Samir : Supercherie",
+        "icon": true,
+        "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>3%</b> et le maximum est de <b>4</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>1</b>."
+      },
+      {
+        "name": "Samir : Ombre",
+        "icon": true,
+        "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>4%</b> et le maximum est de <b>5</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>2</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magnoyau",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lightning",
+          "name": "Cœur de foudre",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanorevêtement II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Cadre en nanofibres II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "id": "shiro",
+    "name": "Shiro",
+    "weapon": "Chakram des mers",
+    "weapon_id": "chakram_of_the_seas",
+    "birthday": "22 septembre (vierge)",
+    "birthplace": "Inconnu",
+    "gender": "Féminin",
+    "info": "Elle est antisociale, n'aime pas les étrangers et devient nerveuse lorsqu'elle rencontre quelqu'un pour la première fois.\nElle accorde même peu d'attention à son partenaire et fait uniquement preuve d'enthousiasme lorsqu'il s'agit d'un sujet qui l'intéresse. Alors, elle parle extrêmement vite et s'énerve quand son partenaire n'arrive pas à suivre.\nElle ressemble beaucoup à un chat : froide et distante la plupart du temps, elle s'énerve lorsqu'elle veut attirer l'attention et que personne n'est là.",
+    "description": "\"Une fille solitaire mordue d'océans\" : c'est ainsi que l'on qualifie Shiro, l'océanographe. Cette fille distante sait se montrer passionnée et loyale lorsqu'elle regarde l'océan.\nAyant manifesté en grandissant un talent certain pour l'océanographie, elle a voyagé seule pendant plusieurs années et a mesuré la répartition des océans sur Aida, une tâche monumentale qui a significativement contribué à la compréhension d'Aida par les humains.",
+    "like": "Océans, roman ou ces créatures marines jugées intéressantes",
+    "dislike": "Inconnu",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "DPS",
+    "shatter": 11.7,
+    "charge": 6,
+    "skills": [
+      {
+        "name": "Jet rapide",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, brandissez le chakram pour déclencher 5 attaques tournoyantes.\nPremière attaque : inflige des dégâts équivalant à <b>30.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.8%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>34%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>30.7%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>53.8%</b> de l'ATQ + <b>3</b>, et repousse la cible sur une courte distance."
+      },
+      {
+        "name": "Décharge aérienne",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour envoyer 3 attaques tournoyantes à la suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>26.2%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>29.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>37.2%</b> de l'ATQ + <b>2</b>."
+      },
+      {
+        "name": "Dispersion",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Après la deuxième attaque normale, maintenez Attaque pour activer Dispersion.\nLance cinq chakrams perforants vers l'avant ; chaque touche inflige des dégâts équivalant à <b>43.5%</b> de l'ATQ + <b>2</b>, avec un effet de recul mineur."
+      },
+      {
+        "name": "Rotation aérienne",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Rotation aérienne.\nEnvoie un coup puissant et inflige des dégâts équivalant à <b>191.5%</b> de l'ATQ + <b>10</b> à la cible et aux ennemis proches, et les suspend."
+      },
+      {
+        "name": "Attaque furtive",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>427.5%</b> de l'ATQ + <b>23</b>."
+      },
+      {
+        "name": "Lune décroissante",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale rapidement après l'esquive pour déclencher Lune décroissante.\nVous envoyez un chakram tournoyant vers l'avant et infligez des dégâts correspondant à <b>132.9%</b> de l'ATQ + <b>7</b> à la cible, ainsi qu'un effet <b>Étourdissement</b> pendant <b>0,5</b> seconde. Le chakram se divise alors en <b>3</b> chakrams, qui continuent à avancer et infligent des dégâts correspondant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage. <span class=\"text-red\">Les chakrams séparés rebondissent pendant Éclosion totale.</span>"
+      },
+      {
+        "name": "Éclosion totale",
+        "type": [
+          "Skill"
+        ],
+        "description": "Crée un Domaine des chakrams qui dure <b>8</b> secondes avec l'Explorateur en son centre. Au même moment, attire les cibles et réduit leur vitesse de <b>30%</b> pendant <b>8</b> secondes. Lance <b>5</b> chakrams qui infligent des dégâts équivalant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage, et rebondissent jusqu'à <b>5</b> fois entre les ennemis. <span class=\"text-red\">Les chakrams séparés déclenchés par Lune décroissante rebondissent aussi jusqu'à 5 fois.</span> Temps de recharge : <b>45</b> secondes."
+      },
+      {
+        "name": "Esprit de l'air",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et lance Chakram des mers sur une cible. La cible touchée cause un <b>étourdissement</b> avec zone d'effet pendant <b>1</b> seconde, plus <b>1</b> attaque chacune sur jusqu'à <b>3</b> unités chaque seconde (chaque attaque a <b>10%</b> de chance d'<b>étourdir</b> la cible pendant <b>1,5</b> seconde), infligeant des dégâts équivalant à <b>41.4%</b> de l'ATQ + <b>2</b> pendant <b>10</b> secondes."
+      }
+    ],
+    "weapon_type": {
+      "name": "Blessure grave",
+      "description": "Les armes entièrement chargées infligent des dégâts correspondant à <b>137%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
+    },
+    "advancement": [
+      "Accroît de <b>30%</b> les dégâts et tous les effets de fracture élémentaire infligés aux cibles se trouvant dans le rayon d'action d'<span class=\"text-green\">Éclosion totale</span>.",
+      "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Accroît de <b>15%</b> la capacité de fracture et réinitialise tous les temps de recharge des compétences d'arme lorsque le bouclier de la cible est fracturé. Peut uniquement être déclenché une fois toutes les <b>30</b> secondes.",
+      "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+      "Attaquer une cible gravement blessée prolonge la durée de la blessure de <b>7</b> secondes supplémentaires (ne prend effet qu'une fois pour le même effet).",
+      "Après avoir utilisé <span class=\"text-green\">Éclosion totale</span>, confère une possibilité de dégât critique de 100% pendant les <b>8</b> prochaines secondes."
+    ],
+    "traits": [
+      {
+        "name": "Shiro : Alerte de sécurité",
+        "icon": true,
+        "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>10%</b> tous les types d'ATQ et de <b>7%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
+      },
+      {
+        "name": "Shiro : Alerte rouge",
+        "icon": true,
+        "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>16%</b> tous les types d'ATQ et de <b>10%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Cœur du sommet",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Vernis antiacide II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "name": "Cadre d'amplification II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "id": "tsubasa",
+    "name": "Tsubasa",
+    "weapon": "Flèche de vent glacé",
+    "weapon_id": "icewind_arrow",
+    "birthday": "24 mars (bélier)",
+    "birthplace": "Héritiers d'Aida",
+    "gender": "Féminin",
+    "info": "L'incarnation ultime de l'opportunisme. Pipelette hyperactive qui aime être dans la foule.\nExtrêmement grégaire. Ne s'énerve pas, même quand on l'insulte ou lui crie dessus. Fait preuve de tolérance envers tous les points de vue et peut facilement se faire des amis.\nCependant, on ne peut pas vraiment compter sur cet électron libre.",
+    "description": "Le CV de Tsubasa indique qu'elle était autrefois résidente du refuge d'Astra, cadre Hyène et employée d'Hykros, ce qui correspond au dossier que nous utilisons pour son simulacre.\nElle a ensuite choisi de trahir Hykros et est partie rejoindre les Héritiers d'Aida.\nCette décision ne peut qu'être qualifiée d'alarmante. Son statut actuel est inconnu, mais il est certain qu'elle n'est pas un laquais de bas étage chez les Héritiers, étant donné ses capacités.\nElle ne se repose jamais sur la philosophie, la morale, les objectifs ou les règles pour décider quel camp rejoindre, car ces choses lui importent peu. Elle a fait partie de nombreuses organisations, sans jamais vraiment appartenir à aucune.",
+    "like": "Vent, gravité, liberté, chewing-gum",
+    "dislike": "Inertie, stabilité",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 4,
+    "charge": 11.5,
+    "skills": [
+      {
+        "name": "Dégainement",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>48.8%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>43.7%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>78.6%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>121.2%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>112.5%</b> de l'ATQ + <b>6</b> et repoussez la cible sur une courte distance."
+      },
+      {
+        "name": "Flèche chargée",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>87.8%</b> de l'ATQ + <b>5</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi et le renversez (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+      },
+      {
+        "name": "Pluie de flèches",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Après une attaque normale, maintenez Attaque normale pour déclencher Pluie de flèches, qui inflige aux cibles jusqu'à <b>287.2%</b> de l'ATQ + <b>15</b> dégâts de zone."
+      },
+      {
+        "name": "Salve aérienne",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour attaquer 4 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>56.3%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>74%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>112.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>169.8%</b> de l'ATQ + <b>9</b>."
+      },
+      {
+        "name": "Flèche piégée",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque après une esquive pour déclencher Flèche piégée, qui <b>repousse la cible</b> et lui inflige des dégâts équivalant à <b>124%</b> de l'ATQ + <b>7</b>."
+      },
+      {
+        "name": "Tir perçant",
+        "type": [
+          "Skill"
+        ],
+        "description": "Fait un salto arrière et tire <b>3</b> tirs perforants. Le tir principal inflige des dégâts équivalant à <b>258.3%</b> de l'ATQ + <b>14</b>, les deux autres infligent 60% de dégâts. <b>Repoussent également les cibles</b>, et les assomme pendant <b>5</b> secondes si elles heurtent un obstacle. Temps de recharge : <b>12</b> secondes."
+      },
+      {
+        "name": "Barrage explosif",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et crée une tempête de grêle sur l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>. La tempête a <b>10%</b> de chance d'infliger un <b>effet de congélation</b> durant <b>2</b> secondes. Gagnez Front froid, qui augmente votre vitesse de <b>45%</b> pendant <b>7</b> secondes."
+      }
+    ],
+    "weapon_type": {
+      "name": "Coquille de glace",
+      "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>151%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+    },
+    "advancement": [
+      "Confère un nouveau cumul de Flèche acérée chaque fois que la flèche tirée par une attaque d'esquive touche une cible. Chaque cumul accroît de <b>5%</b> les dégâts pendant <b>15</b> secondes. Cet effet peut se cumuler jusqu'à <b>3</b> fois.",
+      "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Lancer une attaque d'esquive tire <b>3</b> Flèches chargées.",
+      "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Double la durée de Pluie de flèches et ralentit les cibles de <b>25%</b>.",
+      "Pluie de flèches peut se cumuler jusqu'à <b>5</b> fois. Toucher une cible avec une Flèche chargée confère immédiatement <b>3</b> nouveaux cumuls, tandis que les tirs à la tête en confèrent <b>5</b>."
+    ],
+    "traits": [
+      {
+        "name": "Tsubasa : Pluie torrentielle",
+        "icon": true,
+        "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,5%</b> d'ATQ, jusqu'à <b>15</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
+      },
+      {
+        "name": "Tsubasa : Vagues déchaînées",
+        "icon": true,
+        "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,6%</b> d'ATQ, jusqu'à <b>30</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Cryonoyau",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Cœur de l'hiver",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanorevêtement II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Cadre en nanofibres II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "id": "zero",
+    "name": "Zero",
+    "weapon": "Cube du néant",
+    "weapon_id": "negating_cube",
+    "birthday": "6 juin (gémeaux)",
+    "birthplace": "Inconnu",
+    "gender": "Masculin",
+    "info": "Acerbe, hypocrite, doté d'un esprit de compétition et arrogant, surtout lorsqu'il fait face à des tâches qu'il considère comme inférieures à son niveau. Il peut parfois se montrer très mature et discipliné pour son âge et il est incroyablement perspicace. Cependant, la plupart du temps, il fait preuve d'une totale indifférence envers les paroles des autres et il ne cherche pas à se souvenir de choses qui ne lui sont pas utiles.",
+    "description": "Un génie informatique qui semble avoir environ 15 ans, né à Banges et surnommé Zero. Cependant, son vrai nom et ses détails personnels ont été perdus, délibérément détruits par ses soins.\nGrand adepte du traitement des renseignements, des communications électroniques et de la gestion des données, Zero peut trouver et extraire d'énormes quantités d'informations en analysant ordinateur et réseau. Il a une fois choqué Hykros en pénétrant leur système de sécurité au cours d'une audacieuse cyberattaque, ce qui a mené à l'étiqueter comme personne d'intérêt. À présent, Zero est sous strict contrôle et surveillance d'Hykros dans un endroit tenu secret, où il est impliqué dans des opérations de renseignement.",
+    "like": "Technologie, jeux",
+    "dislike": "Sortir, cuisiner",
+    "element": "Fire",
+    "rarity": "SSR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 5,
+    "charge": 13,
+    "skills": [
+      {
+        "name": "Attaque normale",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, manipulez le cube pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>46.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>38.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>118.5%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>79.6%</b> de l'ATQ + <b>4</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>80.9%</b> de l'ATQ + <b>4</b> jusqu'à 3 fois et vous <b>projetez</b> la cible.\n<b>Compétence passive : si les attaques normales touchent 6 fois la cible, vous obtenez 1 cube. Vous pouvez garder 5 cubes max.</b>"
+      },
+      {
+        "name": "Missile d'omnium",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale lorsque vous êtes dans les airs pour activer l'énergie contenue dans le cube et tirer jusqu'à <b>5</b> missiles infligeant des dégâts équivalant à <b>59.3%</b> de l'ATQ + <b>3</b>. Consomme jusqu'à <b>250</b> endurance.\n<b>Effet passif : si l'Explorateur a des cubes en stock, consomme tous les cubes pour tirer des missiles à omnium sur les cibles et leur infliger des dégâts.</b>"
+      },
+      {
+        "name": "Débordement d'énergie",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour déclencher Débordement d'énergie.\nÀ l'atterrissage, vous envoyez une onde de choc qui fonce vers l'avant et inflige des dégâts jusqu'à <b>23.4%</b> de l'ATQ + <b>1</b> aux cibles qui se trouvent sur sa route."
+      },
+      {
+        "name": "Choc d'omnium",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "À la troisième attaque normale, maintenez Attaque normale pour déclencher Choc d'omnium.\nUn pilier d'énergie projette les cibles proches dans les airs et inflige des dégâts correspondant à <b>68.4%</b> de l'ATQ + <b>4</b>. Le pilier dure 5 secondes et inflige des dégâts correspondant à <b>28.5%</b> de l'ATQ + <b>2</b> toutes les secondes aux cibles proches."
+      },
+      {
+        "name": "Sentinelle d'énergie",
+        "type": [
+          "Passive"
+        ],
+        "description": "Les cubes qui orbitent autour de l'Explorateur infligent des dégâts correspondant à <b>9.7%</b> de l'ATQ + <b>1</b> aux ennemis."
+      },
+      {
+        "name": "Missile d'énergie",
+        "type": [
+          "Passive"
+        ],
+        "description": "Lorsque l'Explorateur lance Missile d'omnium et Débordement d'énergie, les cubes qui orbitent autour de lui sont également lancés et infligent des dégâts correspondant à <b>48.5%</b> de l'ATQ + <b>3</b> à la cible."
+      },
+      {
+        "name": "Élan d'âme",
+        "type": [
+          "Dodge"
+        ],
+        "description": "Esquivez juste avant de vous faire toucher pour déclencher Fantaisie, qui réduit la vitesse des ennemis à portée et confère une immunité à l'hébétement pendant <b>0,5</b> seconde.\nSi l'Explorateur a moins de <b>5</b> cubes, chaque esquive réussie a <b>40%</b> de chance de vous faire regagner 1 tentative d'esquive.\nLes esquives réussies n'interrompent pas les combos d'attaques normales.\n<b>Effet passif : gagnez un cube pour chaque esquive aérienne réussie.</b>"
+      },
+      {
+        "name": "Bouclier à omnium",
+        "type": [
+          "Skill"
+        ],
+        "description": "Crée un bouclier pour vous-même et pour les alliés proches qui bloque des dégâts allant jusqu'à <b>800%</b> x ATQ pendant <b>10</b> secondes, inflige <b>124.9%</b> x ATQ + <b>8</b> dégâts aux cibles proches et les <b>projette</b>. Chaque cube en votre possession au moment où cette compétence est utilisée ajoute <b>160%</b> de l'ATQ à la protection et à la durée maximales du cube. Temps de recharge : <b>60</b> secondes."
+      },
+      {
+        "name": "Vague d'omnium",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et gagne <b>5</b> cubes au moment où vous changez d'arme pour utiliser celle-ci, ainsi qu'une Onde de choc. Cette Onde de choc inflige aux cibles proches un nombre de dégâts égal à <b>171%</b> de l'ATQ + <b>9</b> et les <b>projette</b> dans les airs. De plus, chaque cube inflige un nombre de dégâts égal à <b>48.5%</b> de l'ATQ + <b>3</b>. Les alliés proches gagnent une immunité aux dégâts pendant <b>3</b> secondes."
+      }
+    ],
+    "weapon_type": {
+      "name": "Feu",
+      "description": "Les armes entièrement chargées embrasent la cible pendant <b>8</b> secondes lors de l'attaque suivante, infligeant chaque seconde des dégâts continus de <b>{3}%</b> d'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
+    },
+    "advancement": [
+      "Inflige des dégâts et produit un orbe de guérison, qui dure <b>20</b> secondes et régénère les PV de tout membre du groupe qui le ramasse à hauteur de <b>60%</b> de l'ATQ. Temps de recharge : <b>2</b> secondes.",
+      "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Réduit le temps de recharge des compétences de <b>60</b> à <b>30</b> secondes. Régénère un nombre de PV égal à <b>30%</b> de l'ATQ toutes les secondes lorsque le bouclier est actif.",
+      "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+      "Infliger des dégâts à la cible produit un orbe de dégâts, qui dure <b>20</b> secondes et augmente tous les dégâts et les soins de tout membre du groupe qui le ramasse de <b>2%</b> pendant <b>30</b> secondes. Cumulable jusqu'à <b>10</b> fois. Temps de recharge : <b>2,5</b> secondes.",
+      "Utiliser une compétence confère aux alliés des orbes de guérison et des orbes de dégâts en nombre égal à celui des cubes à omnium."
+    ],
+    "traits": [
+      {
+        "name": "Zero : Calcul précis",
+        "icon": true,
+        "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>1,5</b> seconde. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
+      },
+      {
+        "name": "Zero : Planification globale",
+        "icon": true,
+        "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>3</b> secondes. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Pyronoyau",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Vernis antiacide I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lava",
           "name": "Cœur de lave",
           "rarity": "R",
           "amount": 5

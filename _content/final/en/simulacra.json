@@ -1757,7 +1757,7 @@
         "level": 80,
         "cost": 3600,
         "mat1": {
-          "id": "Heart of Lava",
+          "id": "heart_of_lava",
           "name": "Heart of lava",
           "rarity": "R",
           "amount": 5
@@ -2051,7 +2051,1898 @@
         "level": 80,
         "cost": 3600,
         "mat1": {
-          "id": "Heart of Lava",
+          "id": "heart_of_lava",
+          "name": "Heart of lava",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Acidproof glaze II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "id": "meryl",
+    "name": "Meryl",
+    "weapon": "Rosy Edge",
+    "weapon_id": "rosy_edge",
+    "birthday": "October 10 (Libra)",
+    "birthplace": "Hykros",
+    "gender": "Female",
+    "info": "Detached, aloof, and asocial. There are very few things that will elicit a reaction from Meryl. She displays no emotion, not because she is unfeeling, but because she is unwilling to get close to any other person.",
+    "description": "A high-ranking Hykros Executor of unknown age or place of birth. According to the little publicly-available information, Meryl distinguished herself in many Hykros S Grade missions due to her exceptional sword skills and combat prowess. In just a few short years, she was promoted from ordinary administrator to senior Executor.\nMeryl's cold and inscrutable attitude means that no one can ever be sure of her true intentions. This frostiness, along with her merciless approach to dealing with enemies, ensures that everyone maintains their distance from her.\nThe Executor database does show that Meryl has a twin brother, with whom she has a close relationship, but there is no formal record or information about him.",
+    "like": "Snowy days, crystals",
+    "dislike": "Botany",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Shieldbreaking",
+    "resonance": "DPS",
+    "shatter": 12,
+    "charge": 4,
+    "skills": [
+      {
+        "name": "Heavy Cleave",
+        "type": [
+          "Attack"
+        ],
+        "description": "While on the ground, swing a greatsword to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>72.9%</b> of ATK + <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>60.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>105.4%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>, <b>strongly suspend</b> the target, then launch them upon landing."
+      },
+      {
+        "name": "Aerial Strike",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne or after jumping once, tap normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>106.5%</b> of ATK + <b>6</b>.\nSecond Attack: Deal damage equal to <b>87.5%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>.\nFourth Attack: Deal damage equal to <b>140.5%</b> of ATK + <b>7</b> and deliver a <b>knockdown</b>, launch the target upon landing."
+      },
+      {
+        "name": "Rising Slash",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "After the third normal attack, hold normal attack to trigger Rising Slash.\nUpon hit, <b>strongly suspend</b> the target and go airborne, dealing damage equal to <b>64.3%</b>of ATK + <b>3</b>."
+      },
+      {
+        "name": "Moonset Slash",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Moonset Slash"
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+      },
+      {
+        "name": "Whirlwind",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to <b>132.8%</b> of ATK + <b>7</b> every <b>0.5</b> seconds to the target. Grant hitstun immunity while in use."
+      },
+      {
+        "name": "Devastate",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate.\nDeal damage equal to <b>65.9%</b> of ATK + <b>3</b> each hit and <b>launch</b> targets."
+      },
+      {
+        "name": "Crescent Slash",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short period after dodging to trigger Crescent Slash.\nSwing the greatsword to unleash sword auras forward, each dealing damage equal to <b>49.6%</b> of ATK + <b>3</b>."
+      },
+      {
+        "name": "Blizzard",
+        "type": [
+          "Skill"
+        ],
+        "description": "Swing the greatsword to launch sword auras forward, each dealing damage equal to <b>141.7%</b> of ATK + <b>7</b> and increasing damage dealt by <b>5%</b> with each hit. While active, immune to control effects. Cooldown: <b>45</b> seconds."
+      },
+      {
+        "name": "Frost Barrier",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and smash the ground to form a barrier, dealing damage equal to <b>503.2%</b> of ATK + <b>26</b> to nearby enemies, suspending the targets. This reduces their speed by <b>50%</b> and stops them from dodge or jump. The barrier lasts <b>5</b> seconds and blocks projectiles."
+      }
+    ],
+    "weapon_type": {
+      "name": "Ice Shell",
+      "description": "Fully charged weapons will <b>freeze</b> the target for <b>2</b> seconds and leave it frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+    },
+    "advancement": [
+      "Increase shatter by <b>15%</b> and restore <b>10%</b> of HP after shattering the target's shield.",
+      "Increase the current weapon's base HP growth by <b>16%</b>.",
+      "Upon switching to the weapon, gain an Ice Shield equal to <b>10%</b> of Max HP. Cooldown: <b>20</b> seconds. The Ice Shield lasts up to <b>10</b> seconds.",
+      "Increase the current weapon's base HP growth by <b>32%</b>.",
+      "Increase damage and shatter by <b>50%</b> while the shield is active.",
+      "Upon switching to the weapon, gain an Ice Shield equal to <b>20%</b> of Max HP and immune to controls when shield is active. Cooldown: <b>20</b> seconds. The Ice Shield lasts up to <b>10</b> seconds."
+    ],
+    "traits": [
+      {
+        "name": "Meryl: Cool Rose",
+        "icon": true,
+        "description": "Reduce frost damage received by Meryl by <b>20%</b>, gain immunity to the frostbitten effect, and reduce duration of being frozen by <b>50%</b>."
+      },
+      {
+        "name": "Meryl: Frosted",
+        "icon": true,
+        "description": "Reduce frost damage received by Meryl by <b>25%</b>, gain immunity to the frostbitten effect, and reduce duration of being frozen by <b>50%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Heart of winter",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano coating II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "name": "Booster frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "id": "nemesis",
+    "name": "Nemesis",
+    "weapon": "Venus",
+    "weapon_id": "venus",
+    "birthday": "23 May (Gemini)",
+    "birthplace": "Angel of Clemency",
+    "gender": "Female",
+    "info": "After the restructure consisting of procedures including brainwashing, memory-erasing, and a second character implant, she has been quite emotionally unstable for a while. \nThe original character of Shirli was forced into suppression. Luckily, things have basically recovered, with slight concern remaining for some potential threat. \nSure enough, she could never return to the Shirli filled with liveliness, but she's mostly recovered like an ordinary girl. \nThe doubt about her own existence is still lingering, which embodies the restlessness and wounds left in her. Well... At least, she could summon the courage in the face of things, which is a sign of a good beginning.",
+    "description": "An Angel of Clemency newly born through restructure of Shirli, a nurse trainee at Astra Shelter, with half the flesh and nerves replaced by mechs and circuits.\n\nAs a human, she once suffered from direct impulse of Omnium Radiation due to damaged suppressor. However, before the complete aberration, she was sent to the Heirs of Aida for experimental treatment, which was miraculously a success. \n\nWith her restructure recently done, she is the most unstable one among all Angels of Clemency, but also the one equipped with the latest technologies of the Heirs of Aida.",
+    "like": "Drawing, jigsaw puzzles, and orange soda",
+    "dislike": "Bugs and startling",
+    "element": "Volt",
+    "rarity": "SSR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 8,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "Initiate 5 attacks in a row with Balmung when on the ground.\nThe first attack deals damage equal to <b>50.8%</b> of ATK + <b>3</b> and causes minor knockback.\nThe second attack deals damage equal to <b>36.3%</b> of ATK + <b>2</b> and causes minor knockback.\nThe third attack deals damage equal to <b>98.3%</b> of ATK + <b>5</b> and causes minor knockback.\nThe fourth attack deals damage equal to <b>67.3%</b> of ATK + <b>4</b> and causes minor knockback.\nThe fifth attack deals damage equal to <b>148.3%</b> of ATK + <b>8</b> and knocks down the target."
+      },
+      {
+        "name": "Aerial Discharge",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne or after jumping once, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>62.5%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>62%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>3%</b> of ATK + <b>120</b>.\nFourth Attack: Deal damage equal to <b>6%</b> of ATK + <b>71.2</b>.\nFifth Attack: Deal damage equal to <b>4%</b> of ATK + <b>126</b>."
+      },
+      {
+        "name": "Forward Pursuit",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "After the second normal attack, hold the normal attack to trigger Forward Pursuit.\nShoot a laser-guided missile at the target, dealing damage up to <b>107.5%</b> of ATK + <b>6</b>."
+      },
+      {
+        "name": "Dual Focus",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Hold normal attack to charge a shot and release an electrified ball that explodes on hit, dealing damage equal to <b>118.4%</b> of ATK + <b>6</b> to nearby enemies."
+      },
+      {
+        "name": "Twin Spinning Focus",
+        "type": [
+          "Perfect Attack",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short perfect attack window to trigger a slowing magnetic field.\nVenus fires a charged orb that travels forward a set distance and explodes in contact with targets. Deal damage equal to <b>171.6%</b> of ATK + <b>9</b>, and generate a slowing magnetic field for <b>3</b> seconds, which reduces the movement speed and attack speed of all enemies caught within by <b>35%</b>.\nDodging will trigger a healing chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small healing chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of healing chain enhance, which increases the effects of healing chains by <b>25%</b> (stacks up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons will cancel this effect."
+      },
+      {
+        "name": "Parallel Beams",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short perfect dodge window (tap a directional key while dodging) to trigger Parallel Beams.\nVenus fires a pair of parallel energy beams, dealing piercing damage equal to <b>171.6%</b> of ATK + <b>9</b>.\nDodging will trigger a healing chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small healing chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of healing chain enhance, which increases the effects of healing chains by <b>25%</b> (stack up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons will cancel this effect."
+      },
+      {
+        "name": "Pulse Lock",
+        "type": [
+          "Skill"
+        ],
+        "description": "Venus fires a guided missile that explodes on contact with enemy targets, dealing damage equal to <b>233.2%</b> of ATK + <b>12</b> and knocking down targets. <b>25</b>-second cooldown."
+      },
+      {
+        "name": "Particle Beam Burst",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon will <b>clear all debuffs from the user</b> and command Venus to fire a cross-shaped ray at the ground, creating an unstable area and reducing targets' movement speed by <b>70%</b> for <b>5</b> seconds. After a brief delay, unleash an electromagnetic burst that deals damage equal to <b>393.9%</b> of ATK + <b>21</b>.\nUsing a discharge attack will spawn <b>1</b> Electrode near the enemy's position that attacks once every <b>1.5</b> seconds, dealing damage equal to <b>39.9%</b> of ATK + <b>2</b>.\nThe Electrode gains <b>100%</b> of the Wanderer's stats, can be attacked or healed, and loses <b>3%</b> of its max HP every second.\nOnly <b>1</b> Electrode can exist at any given time, and summoning a new Electrode will replace the previous one."
+      }
+    ],
+    "weapon_type": {
+      "name": "Volt",
+      "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    },
+    "weapon_resonance": {
+      "name": "Volt Resonance",
+      "description": "<b>Volt Resonance</b>: Increase volt ATK by <b>15%</b> and volt resistance by <b>25%</b>. Activate by equipping <b>2</b> or more volt weapons. This set's effects do not work with others."
+    },
+    "advancement": [
+      "After using <b>Pulse Lock</b> or <b>Particle Beam Burst</b>, creates <b>1</b> Electrode that immediately grants the user <b>5</b> stacks of healing chain enhance. In addition, unleash a healing chain that heals nearby allies by <b>135%</b> of the Wanderer's ATK.",
+      "Increase the current weapon's base ATK growth by <b>16%</b>.",
+      "Every <b>6</b> seconds, the Electrode will unleash <b>Ring Lightning</b>, which deals damage equal to a maximum of <b>205%</b> of ATK in a target area.",
+      "Increase the current weapon's base ATK growth by <b>32%</b>.",
+      "After using <b>Pulse Lock</b>, increase the Wanderer's ATK by (<b>6.5</b> + (Number of Electrodes x<b>6.5</b>))% for <b>25</b> seconds.",
+      "Up to <b>2</b> Electrodes can be active at the same time. Summoning more Electrodes will replace the ones furthest from the user."
+    ],
+    "traits": [
+      {
+        "name": "Nemesis: Metamorphosis",
+        "icon": true,
+        "description": "After summoning an Electrode, deal volt damage equal to <b>60%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>120%</b> of ATK."
+      },
+      {
+        "name": "Nemesis: Sublimation",
+        "icon": true,
+        "description": "After summoning an Electrode, deal volt damage equal to <b>100%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>200%</b> of ATK."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lightning",
+          "name": "Heart of lightning",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano coating II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "id": "pepper",
+    "name": "Pepper",
+    "weapon": "Staff of Scars",
+    "weapon_id": "staff_of_scars",
+    "birthday": "9 July (Cancer)",
+    "birthplace": "Hykros Medical Department",
+    "gender": "Female",
+    "info": "A popular nurse known for her patience, kindness, and smile. While known for her efficient work ethic, her body and stamina can't quite keep up. Combined with her perfectionism, she is constantly fatigued.\nShe was diagnosed with severe insomnia, light anxiety, and obsession, though none of the symptoms are obvious due to her strong self-discipline.",
+    "description": "Born into a wealthy Banges family, she had an above-average education and was always well-behaved. She and her family were assaulted by aberrants one day, and her parents lost their suppressors. \nThey didn't \"die,\" but became aberrants instead. Just as an Executor was about to put them out of their misery, Pepper, who survived, begged the Executor not to do it. Now they are confined somewhere, and the family wealth is being slowly depleted to pay for their care.\nThat's why Pepper works in the medical department at Hykros. She chose to spend the rest of her life finding a way to reverse the aberration...",
+    "like": "Her parents, work, making progress in her research",
+    "dislike": "Bedtimes",
+    "element": "Volt",
+    "rarity": "SR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 4,
+    "charge": 10,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "While on the ground, swing the staff to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>25.1%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>18.8%</b> of ATK + <b>1</b>.\nThird Attack: Deal damage equal to <b>30.4%</b> of ATK + <b>2</b>.\nFourth Attack: Deal damage equal to <b>41.4%</b> of ATK + <b>2</b>.\nFifth Attack: Deal damage equal to <b>73.2%</b> of ATK + <b>4</b>."
+      },
+      {
+        "name": "Soaring Barrage",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne or after jumping once, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>32.5%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>23.5%</b> of ATK + <b>1</b>.\nThird Attack: Deal damage equal to <b>25.5%</b> of ATK + <b>1</b>.\nFourth Attack: Deal damage equal to <b>45.6%</b> of ATK + <b>2</b>.\nFifth Attack: Deal damage equal to <b>47.7%</b> of ATK + <b>3</b>."
+      },
+      {
+        "name": "Moonfall",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Tap and hold normal attack while airborne to trigger Moonfall.\nUpon landing, deal damage once every <b>0.2</b> seconds, for a total of <b>57.2%</b> of ATK + <b>3</b> damage."
+      },
+      {
+        "name": "Focused Assault",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "After the third normal attack, hold the normal attack button to trigger branch attacks, consuming<b>300</b>points of endurance.\nFirst Attack: Pull in enemies in front of the user, <b>suspending them</b> and dealing damage equal to <b>16.1%</b> of ATK + <b>1</b> every <b>0.3</b> seconds (up to <b>4</b> times).\nSecond Attack: Deal damage equal to <b>18.6%</b> of ATK + <b>1</b> at the target location and to nearby enemies every <b>0.3</b> seconds."
+      },
+      {
+        "name": "Surge",
+        "type": [
+          "Perfect Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Surge.\nEach wave of energy deals damage equal to <b>22.6%</b> of ATK + <b>1</b> to targets.\nGrant <b>75</b> weapon charge points upon use."
+      },
+      {
+        "name": "Tesseract",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short period after dodging to trigger Evasive Blast.\nFire an energy orb forward, dealing damage equal to <b>32.1%</b> of ATK + <b>2</b> to targets in its path every <b>0.3</b> seconds (up to 5 times).\nGrant <b>75</b> weapon charge points upon use."
+      },
+      {
+        "name": "Sanctuary",
+        "type": [
+          "Skill"
+        ],
+        "description": "Create an energy shield at the Wanderer's location. Heal allies within the shield for <b>81.7%</b> of ATK + <b>4</b> every second and reduce their damage taken by <b>3%</b> for <b>10</b> seconds. <b>60</b>-second cooldown."
+      },
+      {
+        "name": "Swift Deliverance",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, and the staff continues to remove debuffs from the Wanderer and allies, plus healing nearby Wanderers and allies for <b>{2}%</b> of ATK + <b>{3}</b> HP for <b>7</b> seconds."
+      }
+    ],
+    "weapon_type": {
+      "name": "Volt",
+      "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>106%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    },
+    "advancement": [
+      "Heal all teammates within <b>10</b> meters for <b>100%</b> of ATK after using a Dodge skill.",
+      "Increase the current weapon's base HP growth by <b>10%</b>.",
+      "Normal attacks also fire two missiles, each dealing damage equal to <b>5%</b> of ATK to the target and restoring <b>5</b> weapon charge points.",
+      "Increase the current weapon's base HP growth by <b>20%</b>.",
+      "Increase speed of obtaining weapon charge by <b>20%</b> (not applicable to missile attacks).",
+      "Grant all teammates within range <b>60%</b> damage reduction whenever a skill dispels control effects from the target."
+    ],
+    "traits": [
+      {
+        "name": "Pepper: Revival",
+        "icon": true,
+        "description": "When Pepper spends satiety to restore HP, increase restoration effect by <b>100%</b>."
+      },
+      {
+        "name": "Pepper: Source",
+        "icon": true,
+        "description": "When Pepper spends satiety to restore HP, increase restoration effect by <b>200%</b>."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 250,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 1
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 500,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 750,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 2
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "id": "samir",
+    "name": "Samir",
+    "weapon": "Dual EM Stars",
+    "weapon_id": "dual_em_stars",
+    "birthday": "20 May (Taurus)",
+    "birthplace": "Hykros",
+    "gender": "Female",
+    "info": "Lazy and self-indulgent, Samir enjoys harmless jokes and pranks.\nWhile technically a Hykros Executor, and even though she possesses extraordinary strength, Samir's lazy and unreliable personality is an issue. Her habit of playing jokes on colleagues leaves everyone who works with her on edge, and her reputation is not wholly positive. Samir herself, however, doesn't seem to care.",
+    "description": "Her past is riddled with questions.\nCurrently, it is known that she was an orphan adopted by a Banges resident. She joined Hykros after reaching adulthood, and became an Executor after training.\n\nShe's a great shot, even among the elite Executors. Hykros once considered asking her to become the instructor for new recruits, but gave up on the idea because her personality just didn't match.",
+    "like": "Solving puzzles and murder mysteries",
+    "dislike": "Unknown",
+    "element": "Volt",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 6,
+    "charge": 10.7,
+    "skills": [
+      {
+        "name": "Dual Fire",
+        "type": [
+          "Attack"
+        ],
+        "description": "While on the ground, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal total damage equal to <b>47.1%</b> of ATK + <b>2</b>.\nSecond Attack: Deal total damage equal to <b>35.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal total damage equal to <b>119.7%</b> of ATK + <b>6</b>.\nFourth attack: Deal total damage equal to <b>113.1%</b> of ATK + <b>6</b>.\nFifth Attack: Deal total damage equal to <b>154%</b> of ATK + <b>8</b> and <b>launch</b> the target."
+      },
+      {
+        "name": "Bullet Rain",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne, tap normal attack to fire continuously at the ground, dealing damage equal to <b>50.6%</b> of ATK + <b>3</b> damage, each hit consumes <b>150</b> endurance."
+      },
+      {
+        "name": "Energy Burst",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Hold attack button to maintain constant fire, each hit dealing <b>23%</b> of ATK + <b>1</b> base damage."
+      },
+      {
+        "name": "Phantom Kick",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to <b>70.5%</b> of ATK + <b>4</b>. Upon landing, deal damage equal to <b>98.7%</b> of ATK + <b>5</b> to nearby targets and <b>launch</b> them."
+      },
+      {
+        "name": "Rising Lightning Kick",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack after dodging to <b>strongly suspend</b> targets and deal damage equal to <b>122.6%</b> of ATK + <b>6</b>."
+      },
+      {
+        "name": "Electro Field",
+        "type": [
+          "Skill"
+        ],
+        "description": "Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to <b>269.8%</b> of ATK + <b>14</b>, and the last hit <b>strongly suspends</b> targets. Cooldown: <b>45</b>-seconds."
+      },
+      {
+        "name": "Domain of Thunder",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and create a Domain of Thunder at the target location upon switching to this weapon, <b>strongly suspending</b> targets within the area and dealing a total of <b>238.3%</b> of ATK + <b>13</b> damage over 3 attacks to them while dispelling their buffs. The domain lasts for <b>3.5</b> seconds and deals damage equal to <b>42.4%</b> of ATK + <b>2</b> to a target every <b>0.5</b> seconds."
+      }
+    ],
+    "weapon_type": {
+      "name": "Volt",
+      "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    },
+    "advancement": [
+      "Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <b>30%</b> of ATK to the target and nearby enemies. Cooldown: <b>0.2</b> seconds.",
+      "Increase the current weapon's base ATK growth by <b>16%</b>.",
+      "Increase crit rate to electrified targets by <b>40%</b>. Electrical explosions extend the duration of electrified effects by <b>0.5</b> seconds, up to a maximum of <b>5</b> seconds.",
+      "Increase the current weapon's base ATK growth by <b>32%</b>.",
+      "Double the duration of Electro Field and pull targets into the center of the attack.",
+      "Triggering an electrical explosion reduces skill cooldowns by <b>1</b> second."
+    ],
+    "traits": [
+      {
+        "name": "Samir: Trickery",
+        "icon": true,
+        "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>3%</b>, and can stack up to <b>4</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>1</b> second."
+      },
+      {
+        "name": "Samir: Shadow",
+        "icon": true,
+        "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>4%</b>, and can stack up to <b>5</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>2</b> second."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "magcore",
+          "name": "Magcore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lightning",
+          "name": "Heart of lightning",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano coating II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "id": "shiro",
+    "name": "Shiro",
+    "weapon": "Chakram of the Seas",
+    "weapon_id": "chakram_of_the_seas",
+    "birthday": "September 22 (Virgo)",
+    "birthplace": "Unknown",
+    "gender": "Female",
+    "info": "She's antisocial, dislikes strangers, and gets nervous when meeting someone for the first time.\nShe doesn't even pay much attention to her partner, and only gets excited when the topic is something she is interested in. But then she talks a mile a minute, and gets angry when her partner can't keep up.\nShe's almost like a cat—cold and aloof most of the time, but gets angry when she wants attention and no one is around.",
+    "description": "\"A lone-wolf ocean maniac\" is what people say about Shiro, the oceanographer. This aloof girl becomes someone passionate and loyal when she's looking at the ocean.\nWhen she came of age and showed her knack for oceanography, she traveled alone for several years and measured the ocean distribution of Aida, a monumental task that contributed significantly to humankind's understanding of Aida.",
+    "like": "Oceans, novel or those deemed interesting marine creatures",
+    "dislike": "Unknown",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "DPS",
+    "shatter": 11.7,
+    "charge": 6,
+    "skills": [
+      {
+        "name": "Rapid Throw",
+        "type": [
+          "Attack"
+        ],
+        "description": "While on the ground, brandish the chakram to unleash 5 spinning attacks.\nFirst Attack: Deal damage equal to <b>30.7%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>23.8%</b> of ATK + <b>1</b>.\nThird Attack: Deal damage equal to <b>34%</b> of ATK + <b>2</b>.\nFourth Attack: Deal damage equal to <b>30.7%</b> of ATK + <b>2</b>.\nFifth Attack: Deal damage equal to <b>53.8%</b> of ATK + <b>3</b> and knock the target back a short distance."
+      },
+      {
+        "name": "Aerial Discharge",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne or after jumping once, tap normal attack to unleash 3 spinning attacks in a row.\nFirst Attack: Deal damage equal to <b>26.2%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>29.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>37.2%</b> of ATK + <b>2</b>."
+      },
+      {
+        "name": "Scatter",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "After the second normal attack, hold attack button to activate Scatter.\nFire five penetrating chakrams forward, each hit dealing <b>43.5%</b> of ATK + <b>2</b> damage, with minor knockback."
+      },
+      {
+        "name": "Air Spin",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Tap and hold normal attack while airborne to trigger Air Spin.\nUnleash a powerful strike, dealing damage equal to <b>191.5%</b> of ATK + <b>10</b> to the target and nearby enemies, and suspend them."
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK + <b>23</b>."
+      },
+      {
+        "name": "Waning Moon",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short period after dodging to trigger Waning Moon.\nToss a spinning chakram forward, dealing damage equal to <b>132.9%</b> of ATK + <b>7</b> to the target and inflicting a <b>stun</b> effect for <b>0.5</b> seconds. The chakram then splits into <b>3</b> and keeps traveling, dealing damage equal to <b>24.2%</b> of ATK + <b>1</b> to targets along their path. <span class=\"text-red\">Split chakrams will bounce during Full Bloom</span>."
+      },
+      {
+        "name": "Full Bloom",
+        "type": [
+          "Skill"
+        ],
+        "description": "Create a Chakram Domain with the Wanderer at the center for <b>8</b> seconds. At the same time, enemies are pulled in, and their speed is reduced by <b>30%</b> for <b>8</b> seconds. Fire <b>5</b> chakrams that bounce between enemies, dealing damage equal to <b>24.2%</b> of ATK + <b>1</b> to targets along their paths, bouncing up to <b>5</b> times. <span class=\"text-red\">The split chakrams triggered by Waning Moon will also bounce up to 5 times.</span> Cooldown: <b>45</b> seconds."
+      },
+      {
+        "name": "Spirit of the Air",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b> and unleashes Chakram of the Seas at a target. Struck target causes AOE <b>stun</b> for <b>1</b> second, plus <b>1</b> attack each against up to <b>3</b> units every second (each attack has <b>10%</b> chance of <b>stunning</b> the target for <b>1.5</b> seconds), dealing <b>41.4%</b> x ATK + <b>2</b> damage for <b>10</b> seconds."
+      }
+    ],
+    "weapon_type": {
+      "name": "Grievous",
+      "description": "Fully charged weapons will inflict damage equal to <b>137%</b> of ATK with the next attack, and make the target grievous for <b>7</b> seconds, taking <b>20%</b> extra damage."
+    },
+    "advancement": [
+      "Increase damage dealt to and all elemental shattering effects on targets within <span class=\"text-green\">Full Bloom</span>'s range by <b>30%</b>.",
+      "Increase the current weapon's base ATK growth by <b>16%</b>.",
+      "Increase shatter by <b>15%</b> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <b>30</b> seconds.",
+      "Increase the current weapon's base HP growth by <b>32%</b>.",
+      "Attacking a grievous target extends the duration of grievous by an additional <b>7</b> seconds (only take effect once for the same effect).",
+      "After using <span class=\"text-green\">Full Bloom</span>, grant a 100% crit chance for the next <b>8</b> seconds."
+    ],
+    "traits": [
+      {
+        "name": "Shiro: Security Alert",
+        "icon": true,
+        "description": "When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by <b>10%</b> and physical ATK by an additional <b>7%</b> for <b>8</b> seconds. Cooldown: <b>16</b> seconds."
+      },
+      {
+        "name": "Shiro: Red Alarm",
+        "icon": true,
+        "description": "When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by <b>16%</b> and physical ATK by an additional <b>10%</b> for <b>8</b> seconds. Cooldown: <b>16</b> seconds."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Heart of summit",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "acidproof_glaze_ii",
+          "name": "Acidproof glaze II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "booster_frame_ii",
+          "name": "Booster frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "id": "tsubasa",
+    "name": "Tsubasa",
+    "weapon": "Icewind Arrow",
+    "weapon_id": "icewind_arrow",
+    "birthday": "24 March (Aries)",
+    "birthplace": "Heirs of Aida",
+    "gender": "Female",
+    "info": "The ultimate opportunist. Hyperactive, talkative, loves being part of a crowd.\nOverly gregarious. Does not get angry even when cursed or yelled at. Tolerant of all viewpoints and able to make friends at the drop of a hat.\nHowever, reliability from this free spirit is virtually nonexistent.",
+    "description": "Tsubasa's resume indicates she was once a resident of the Astra Shelter, a Hyena cadre, a worker for Hykros—which is the record we use for her Simulacrum.\nAfterward, she chose to betray Hykros and defected to the Heirs of Aida.\nThat could only be described as an alarming move. Her current status is unknown, but it is certain she is not a lowly lackey within the Heirs, given her abilities.\nNever relies on philosophy, morals, goals, or rules to decide which side she will align with, as if she never cares for any of that. She's been with many organizations, yet never truly belonged to any of them.",
+    "like": "Wind, gravity, freedom, bubble gum",
+    "dislike": "Inertia, stability",
+    "element": "Ice",
+    "rarity": "SSR",
+    "role": "Main DPS",
+    "resonance": "DPS",
+    "shatter": 4,
+    "charge": 11.5,
+    "skills": [
+      {
+        "name": "Quickdraw",
+        "type": [
+          "Attack"
+        ],
+        "description": "While on the ground, draw the bow repeatedly to attack 5 times.\nFirst Attack: Deal damage equal to <b>48.8%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>43.7%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>78.6%</b> of ATK + <b>4</b>.\nFourth Attack: Deal damage equal to <b>121.2%</b> of ATK + <b>6</b>.\nFifth Attack: Deal damage equal to <b>112.5%</b> of ATK + <b>6</b> and knock the target back a short distance."
+      },
+      {
+        "name": "Charged Arrow",
+        "type": [
+          "Hold: Attack"
+        ],
+        "description": "Tap and hold normal attack to charge. Deal basic damage equal to <b>87.8%</b> of ATK + <b>5</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers)."
+      },
+      {
+        "name": "Arrow Rain",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to <b>287.2%</b> of ATK + <b>15</b> area damage to targets."
+      },
+      {
+        "name": "Air Volley",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne, tap normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>56.3%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>74%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>112.7%</b> of ATK + <b>6</b>.\nFourth Attack: Deal damage equal to <b>169.8%</b> of ATK + <b>9</b>."
+      },
+      {
+        "name": "Loaded Arrow",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Tap attack after dodging to trigger a Loaded Arrow, which <b>knocking the target back</b> and dealing damage equal to <b>124%</b> of ATK + <b>7</b>."
+      },
+      {
+        "name": "Piercing Shot",
+        "type": [
+          "Skill"
+        ],
+        "description": "Perform a backflip and fire <b>3</b> piercing shots, with the main shot deals damage equal to <b>258.3%</b> of ATK + <b>14</b>, and the other two shots deal 60% damage. In addition, <b>knock targets back</b> and stun them for <b>5</b> seconds if they collide with an obstacle. Cooldown: <b>12</b> seconds."
+      },
+      {
+        "name": "Explosive Barrage",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and create a hailstorm at the target location upon switching to this weapon, dealing damage equal to <b>570%</b> of ATK + <b>30</b>. The storm has a <b>10%</b> chance to inflict a <b>2</b> seconds <b>freeze effect</b>. Gain cold front, and increase speed by <b>45%</b> for <b>7</b> seconds."
+      }
+    ],
+    "weapon_type": {
+      "name": "Ice Shell",
+      "description": "Fully charged weapons will <b>freeze</b> the target for <b>2</b> seconds and leave it frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+    },
+    "advancement": [
+      "Grant a stack of Sharp Arrow each time the arrow fired by a Dodge attack hits a target. Each stack increases damage by <b>5%</b> for <b>15</b> seconds. Stack up to <b>3</b> times.",
+      "Increase the current weapon's base ATK growth by <b>16%</b>.",
+      "Launching a Dodge attack fires <b>3</b> Charged Arrows.",
+      "Increase the current weapon's base ATK growth by <b>32%</b>.",
+      "Double duration of Arrow Rain and slow targets by <b>25%</b>.",
+      "Sharp Arrow stacks up to <b>5</b> times. Hitting a target with a Charged Arrow immediately grants <b>3</b> stacks, headshots grant <b>5</b> stacks."
+    ],
+    "traits": [
+      {
+        "name": "Tsubasa: Rainstorm",
+        "icon": true,
+        "description": "Each time Tsubasa deals damage, gain <b>1</b> stack of Fierce Strike, up to <b>1</b> stack per <b>1</b> second. Each stack adds <b>0.5%</b> ATK, up to <b>15</b> stacks. Refreshes effect duration upon gaining the effect again. The effect lasts for <b>30</b> seconds."
+      },
+      {
+        "name": "Tsubasa: Raging Waves",
+        "icon": true,
+        "description": "Each time Tsubasa deals damage, gain <b>1</b> stack of Fierce Strike, up to <b>1</b> stack per <b>1</b> second. Each stack adds <b>0.6%</b> ATK, up to <b>30</b> stacks. Refreshes effect duration upon gaining the effect again. The effect lasts for <b>30</b> seconds."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "icecore",
+          "name": "Icecore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_winter",
+          "name": "Heart of winter",
+          "rarity": "R",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano coating II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "id": "zero",
+    "name": "Zero",
+    "weapon": "Negating Cube",
+    "weapon_id": "negating_cube",
+    "birthday": "June 6 (Gemini)",
+    "birthplace": "Unknown",
+    "gender": "Male",
+    "info": "Sharp-tongued, two-faced, competitive, and arrogant, especially when encountering tasks he deems beneath him. At times, he can show a level of maturity and discipline beyond his age, and he is exceptionally perceptive. But most of the time, he can't be any less interested in other peoples' words, and doesn't bother remembering things that serve him no interest.",
+    "description": "A geeky, computer genius who looks around 15 years old, born in Banges and nicknamed \"Zero\". However, his real name and personal details have been lost, deliberately destroyed by himself.\nHighly adept at intelligence processing, electronic communications, and data management, Zero can find and extract huge amounts of information through the computer and network analysis. He once shocked Hykros by penetrating their security system in an audacious cyberattack, which led to him being designated a \"person of interest\". At present, Zero is under Hykros' strict control and oversight in an undisclosed location, where he engages in intelligence-related operations.",
+    "like": "Technology, games",
+    "dislike": "Going out, cooking",
+    "element": "Fire",
+    "rarity": "SSR",
+    "role": "Utility",
+    "resonance": "DPS",
+    "shatter": 5,
+    "charge": 13,
+    "skills": [
+      {
+        "name": "Normal Attack",
+        "type": [
+          "Attack"
+        ],
+        "description": "While on the ground, manipulate the cube to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.7%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>38.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>118.5%</b> of ATK + <b>6</b>.\nFourth Attack: Deal damage equal to <b>79.6%</b> of ATK + <b>4</b>.\nFifth Attack: Deal damage equal to <b>80.9%</b> of ATK + <b>4</b> up to 3 times and <b>launch</b> the target.\n<b>Passive: If normal attacks hit targets 6 times, gain 1 cube. Up to 5 cubes can be stored.</b>"
+      },
+      {
+        "name": "Omnium Missile",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne, tap normal attack to activate the energy within the cube, firing up to <b>5</b> missiles and dealing total damage equal to <b>59.3%</b> of ATK + <b>3</b>. Consume up to <b>250</b> endurance.\n<b>Passive: If the Wanderer has any stored cubes, consume all cubes to fire Omnium Missiles at targets to deal damage.</b>"
+      },
+      {
+        "name": "Energy Overflow",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "While airborne or after jumping once, tap normal attack to trigger Energy Overflow.\nUpon landing, fire a shockwave that travels forward, dealing up to <b>23.4%</b> of ATK + <b>1</b> damage to targets in its path."
+      },
+      {
+        "name": "Omnium Shock",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "On the third normal attack, hold the normal attack button to trigger Omnium Shock.\nA pillar of energy launches nearby targets into the air, dealing damage equal to <b>68.4%</b> of ATK + <b>4</b>. The pillar lasts 5 seconds and deals damage equal to <b>28.5%</b> of ATK + <b>2</b> to nearby targets every second."
+      },
+      {
+        "name": "Energy Sentinel",
+        "type": [
+          "Passive"
+        ],
+        "description": "Cubes orbiting the Wanderer deal damage equal to <b>9.7%</b> of ATK + <b>1</b> to enemies."
+      },
+      {
+        "name": "Energy Missile",
+        "type": [
+          "Passive"
+        ],
+        "description": "When the Wanderer casts Omnium Missiles and Energy Overflow, their orbiting cubes are fired as well, dealing damage equal to <b>48.5%</b> of ATK + <b>3</b> to the target."
+      },
+      {
+        "name": "Soul Surge",
+        "type": [
+          "Dodge"
+        ],
+        "description": "Dodge right before getting hit to trigger a Phantasia, which reduces speed of enemies within range and grants hitstun immunity for <b>0.5</b> seconds.\nIf the Wanderer has less than <b>5</b> cubes, each successful dodge has a <b>40%</b> chance to restore 1 dodge attempt.\nSuccessful dodges do not interrupt normal attack combos.\n<b>Passive: Gain a cube for every successful aerial dodge.</b>"
+      },
+      {
+        "name": "Omnium Shield",
+        "type": [
+          "Skill"
+        ],
+        "description": "Create shielding for self and nearby allies to block up to <b>800%</b> of ATK in damage for <b>10</b> seconds, and deal <b>124.9%</b> of ATK + <b>8</b> damage to nearby targets and <b>launch</b> them. Each cube in possession when this skill is used adds <b>160%</b> of ATK to max shielding and exhaust the cube. Cooldown: <b>60</b> seconds."
+      },
+      {
+        "name": "Omnium Wave",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and gain <b>5</b> cubes upon switching to this weapon, then unleash the <b>5</b> cubes along with a Shockwave. This Shockwave deals damage equal to <b>171%</b> of ATK + <b>9</b> to nearby targets, and <b>launches</b> them into the air. Each cube also deals damage equal to <b>48.5%</b> of ATK + <b>3</b>. If allies are in the vicinity, they gain damage immunity for <b>3</b> seconds."
+      }
+    ],
+    "weapon_type": {
+      "name": "Flame",
+      "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>{3}%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+    },
+    "advancement": [
+      "Deal damage and produce a healing orb, which lasts for <b>20</b> seconds and restore HP of any teammate who picks it up equal to <b>60%</b> of ATK. <b>2</b>-second cooldown.",
+      "Increase the current weapon's base ATK growth by <b>16%</b>.",
+      "Reduce skill cooldown from <b>60</b> seconds to <b>30</b> seconds. Restore HP equal to <b>30%</b> of ATK every second while the shield is active.",
+      "Increase the current weapon's base HP growth by <b>32%</b>.",
+      "Damaging a target also produces a damage orb, which lasts for <b>20</b> seconds and increases all damage and healing of any teammate who picks it up by <b>2%</b> for <b>30</b> seconds. Stack up to <b>10</b> times. Skill cooldown is <b>2.5</b> seconds.",
+      "Using a Skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes."
+    ],
+    "traits": [
+      {
+        "name": "Zero: Accurate Calculation",
+        "icon": true,
+        "description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by <b>1.5</b> seconds. Can only activate for the same weapon <b>1</b> time every <b>5</b> seconds."
+      },
+      {
+        "name": "Zero: Overall Planning",
+        "icon": true,
+        "description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by <b>3</b> seconds. Can only activate for the same weapon <b>1</b> time every <b>5</b> seconds."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "firecore",
+          "name": "Firecore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "acidproof_glaze_i",
+          "name": "Acidproof glaze I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_lava",
           "name": "Heart of lava",
           "rarity": "R",
           "amount": 5

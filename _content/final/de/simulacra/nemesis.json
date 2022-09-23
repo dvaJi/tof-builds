@@ -1,0 +1,289 @@
+{
+  "_id": 11,
+  "id": "nemesis",
+  "name": "Nemesis",
+  "weapon": "Venus",
+  "weapon_id": "venus",
+  "birthday": "23. Mai (Zwillinge)",
+  "birthplace": "Engel der Gnade",
+  "gender": "Weiblich",
+  "info": "Nach der Restrukturierung, die auch Gehirnwäsche, Gedächtnislöschung und ein zweites Charakterimplantat mit sich brachte, war sie zunächst emotional ziemlich instabil.\nDer eigentliche Charakter von Shirli wurde unterdrückt. Glücklicherweise hat sie sich davon erholt, auch wenn eine gewisse Unsicherheit bleibt.\nSelbstverständlich kann sie nie wieder die Shirli voller Lebensfreude werden, die sie einst war, aber sie ist größtenteils wieder ein normales Mädchen.\nDie Zweifel, die sich aus ihrer eigenen Existenz ergeben, belasten sie noch immer, was zu Ruhelosigkeit und tiefen Narben in ihrer Psyche führt. Immerhin hat sie jedoch den Mut aufgebracht, den Tatsachen ins Auge zu sehen, was ein vielversprechender Anfang ist.",
+  "description": "Ein neugeborener Engel der Gnade, der kürzlich durch die Restrukturierung von Shirli geboren wurde: Eine Krankenschwesterschülerin aus der Astra-Zuflucht, der die Hälfte der Nerven und des Fleischs durch Schaltkreise und Metallteile ersetzt wurde.\n\nAls Mensch war sie direkt von der Freisetzung von Omnium-Strahlung betroffen, weil ihr Suppressor beschädigt war. Bevor sie jedoch vollständig zu einer Aberrantin wurde, schickte man sie zu den Erben von Aida, um sie einer experimentellen Behandlung zu unterziehen, die wundersamerweise Erfolg zeigte.\n\nDa ihre Restrukturierung erst kürzlich erfolgt ist, ist sie die instabilste der Engel der Gnade, aber auch diejenige, die sich auf die modernste Technologie der Erben von Aida stützen kann.",
+  "like": "Zeichnen, Puzzlen und Orangenlimonade",
+  "dislike": "Käfer und Überraschungen",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Wenn der Anwender auf dem Boden ist, kann er Balmung benutzen, um 5-mal hintereinander anzugreifen.\nDer erste Angriff verursacht Schaden in Höhe von <b>50.8%</b> des ANG + <b>3</b> und leichten Rückstoß.\nDer zweite Angriff verursacht Schaden in Höhe von <b>36.3%</b> des ANG + <b>2</b> und leichten Rückstoß.\nDer dritte Angriff verursacht Schaden in Höhe von <b>98.3%</b> des ANG + <b>5</b> und leichten Rückstoß.\nDer vierte Angriff verursacht Schaden in Höhe von <b>67.3%</b> des ANG + <b>4</b> und leichten Rückstoß.\nDer fünfte Angriff verursacht Schaden in Höhe von <b>148.3%</b> des ANG + <b>8</b> und schleudert das Ziel zu Boden."
+    },
+    {
+      "name": "Luftsprengung",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, tippe auf normaler Angriff, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>62.5%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>62%</b> des ANG + <b>5</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>3%</b> des ANG + <b>120</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>6%</b> des ANG + <b>71.2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>4%</b> des ANG + <b>126</b>."
+    },
+    {
+      "name": "Vorwärtsverfolgung",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem zweiten normalen Angriff den normalen Angriff gedrückt, um „Vorwärtsverfolgung“ auszulösen.\nFeuert eine lasergesteuerte Rakete auf das Ziel, die Schaden in Höhe von <b>107.5%</b> des ANG + <b>6</b> verursacht."
+    },
+    {
+      "name": "Doppelfokus",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Halte den normalen Angriff gedrückt, um eine Elektrokugel aufzuladen, die beim Aufprall explodiert und Gegnern in der Nähe Schaden in Höhe von <b>118.4%</b> des ANG + <b>6</b> zufügt."
+    },
+    {
+      "name": "Doppelwirbelfokus",
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Angriff erzeugt ein verlangsamendes Magnetfeld aus.\nVenus feuert eine aufgeladene Kugel ab, die eine bestimmte Strecke zurücklegt und beim Kontakt mit Zielen explodiert. Verursacht Schaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> und erzeugt für <b>3</b> Sek. ein verlangsamendes Magnetfeld, das die Bewegungs- und Angriffsgeschwindigkeit von Gegnern darin um <b>35%</b> verringert.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (bis zu <b>5</b>-mal stapelbar). Beim Waffenwechsel geht der Effekt verloren."
+    },
+    {
+      "name": "Parallelstrahlen",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (während des Ausweichens auf eine Richtungstaste tippen), um „Parallelstrahlen“ auszulösen.\nVenus feuert zwei parallele Energiestrahlen ab, die Durchschlagschaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> verursachen.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (bis zu <b>5</b>-mal stapelbar). Beim Waffenwechsel geht der Effekt verloren."
+    },
+    {
+      "name": "Impulsverschluss",
+      "type": [
+        "Skill"
+      ],
+      "description": "Venus feuert eine Lenkrakete ab, die beim Kontakt mit gegnerischen Zielen explodiert, ihnen Schaden in Höhe von <b>233.2%</b> des ANG + <b>12</b> zufügt und sie zu Boden wirft. Abklingzeit: <b>25</b> Sek."
+    },
+    {
+      "name": "Teilchenstrahl-Explosion",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Venus feuert einen kreuzförmigen Strahl auf den Boden und erzeugt dort ein instabiles Feld, das Ziele für <b>5</b> Sek. um <b>70%</b> verlangsamt. Kurz darauf verursacht eine elektromagnetische Explosion Schaden in Höhe von <b>393.9%</b> des ANG + <b>21</b>.\nDer Einsatz eines Entladungsangriffs erzeugt in der Nähe des Gegner <b>1</b> Elektrode, die einmal alle <b>1,5</b> Sek. angreift und Schaden in Höhe von <b>39.9%</b> des ANG + <b>2</b> verursacht.\nDie Elektrode erhält <b>100%</b> der Werte des Wanderers, kann angegriffen und geheilt werden und verliert pro Sekunde <b>3%</b> ihrer max. LP.\nEs kann immer nur jeweils <b>1</b> Elektrode aktiv sein und das Herbeirufen einer neuer Elektrode ersetzt die vorherige."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+  },
+  "weapon_resonance": {
+    "name": "Voltresonanz",
+    "description": "<b>Voltresonanz</b>: Erhöht Volt-ANG um <b>15%</b> und Voltwiderstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Voltwaffen aktiviert. Dieser Set-Effekt kann nicht mit anderen Set-Effekten gestapelt werden."
+  },
+  "advancement": [
+    "<b>Impulsverschluss</b> und <b>Teilchenstrahl-Explosion</b> erzeugen <b>1</b> Elektrode, die dem Anwender sofort <b>5</b> Stapel „Heilketten-Verbesserung“ gewährt. Außerdem wird eine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>135%</b> des ANG des Wanderers heilt.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Alle <b>6</b> Sek. entfesselt die Elektrode einen <b>Blitzring</b>, der im Zielbereich Schaden in Höhe von bis zu <b>205%</b> des ANG verursacht.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Nach dem Einsatz von <b>Impulsverschluss</b> werden der ANG des Wanderers <b>25</b> Sek. lang um (<b>6,5</b> + (Anzahl der Elektroden x <b>6,5</b>))% erhöht.",
+    "Es können bis zu <b>2</b> Elektrode gleichzeitig aktiv sein. Das Herbeirufen neuer Elektroden ersetzt die am weitesten entfernte."
+  ],
+  "traits": [
+    {
+      "name": "Nemesis: Metamorphose",
+      "icon": true,
+      "description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von <b>30</b> Metern um die Elektrode Voltschaden in Höhe von <b>60%</b> des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um <b>120%</b> des ANG."
+    },
+    {
+      "name": "Nemesis: Sublimierung",
+      "icon": true,
+      "description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von <b>30</b> Metern um die Elektrode Voltschaden in Höhe von <b>100%</b> des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um <b>200%</b> des ANG."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magkern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Herz des Blitzes",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

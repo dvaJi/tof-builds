@@ -1,0 +1,277 @@
+{
+  "_id": 13,
+  "id": "samir",
+  "name": "Samir",
+  "weapon": "Dual EM Stars",
+  "weapon_id": "dual_em_stars",
+  "birthday": "20 Mei (Taurus)",
+  "birthplace": "Hykros",
+  "gender": "Perempuan",
+  "info": "Malas dan jahil, Samir suka bercanda dan mengerjai orang dengan cara yang tidak berbahaya.\nWalau sebenarnya seorang Executor di Hykros, dan meski dia punya kekuatan luar biasa, kepribadian Samir yang pemalas dan tidak bisa dipercaya menjadi masalah. Kesenangannya mengerjai rekan membuat setiap orang yang bekerja dengannya jengkel, dan reputasinya tidak sepenuhnya positif. Namun, Samir sendiri sepertinya tidak peduli.",
+  "description": "Masa lalunya dipenuhi misteri.\nSaat ini, diketahui bahwa dia adalah seorang anak yatim piatu yang diadopsi oleh penduduk Banges. Dia bergabung dengan Hykros setelah dewasa dan menjadi Executor setelah menjalani latihan.\n\nDia mahir menembak, bahkan di antara Executor elite. Hykros pernah mempertimbangkan untuk memintanya menjadi instruktur bagi anggota baru, tetapi menyerah karena kepribadiannya tidak cocok untuk tugas itu.",
+  "like": "Memecahkan teka-teki dan misteri pembunuhan",
+  "dislike": "Unknown",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10.7,
+  "skills": [
+    {
+      "name": "Dual Fire",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage total sebanyak <b>47.1%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage total sebanyak <b>35.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage total sebanyak <b>119.7%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage total sebanyak <b>113.1%</b> ATK + <b>6</b>.\nSerangan Kelima: Timpakan damage total sebanyak <b>154%</b> ATK + <b>8</b> dan buat target <b>terpental</b>."
+    },
+    {
+      "name": "Bullet Rain",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat Airborne, ketuk Normal Attack untuk terus menembak ke tanah, menimpakan damage sebanyak <b>50.6%</b> ATK + <b>3</b>, setiap serangan yang kena akan menghabiskan <b>150</b> Endurance."
+    },
+    {
+      "name": "Energy Burst",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tahan tombol Serang untuk terus menembak secara konstan, setiap serangan yang kena akan menimbulkan <b>23%</b> ATK + <b>1</b> Base Damage."
+    },
+    {
+      "name": "Phantom Kick",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Saat mengudara, ketuk dan tahan Normal Attack untuk mengaktifkan Phantom Kick. Memukul target sampai jatuh dan menimpakan damage sebanyak <b>70.5%</b> ATK + <b>4</b>. Saat mendarat, menimpakan damage sebanyak <b>98.7%</b> ATK + <b>5</b> kepada target di sekitar dan membuat mereka <b>terpental</b>."
+    },
+    {
+      "name": "Rising Lightning Kick",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack setelah menghindar untuk mengakibatkan <b>Suspend Keras</b> kepada target dan menimbulkan damage sebanyak <b>122.6%</b> ATK + <b>6</b>."
+    },
+    {
+      "name": "Electro Field",
+      "type": [
+        "Skill"
+      ],
+      "description": "Menembakkan Energy Shield ke lokasi target, memantulkan sinar dalam Barrier. Menimbulkan damage sebanyak <b>269.8%</b> ATK + <b>14</b>, dan serangan terakhir akan mengakibatkan <b>Suspend Keras</b> kepada target. Cooldown: <b>45</b> detik."
+    },
+    {
+      "name": "Domain of Thunder",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghapus semua debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target setelah beralih ke senjata ini, mengakibatkan <b>Suspend Keras</b> kepada target dalam area dan menimbulkan total <b>238.3%</b> ATK + <b>13</b> damage setelah 3 kali menyerang target sambil menangkal buff mereka. Domain bertahan selama <b>3,5</b> detik dan menimbulkan damage sebanyak <b>42.4%</b> ATK + <b>2</b> kepada target setiap <b>0,5</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+  },
+  "advancement": [
+    "Mengaktifkan ledakan listrik pada target setelah mendaratkan Critical Hit sehingga menimbulkan damage tambahan sebanyak <b>30%</b> ATK kepada target dan musuh di dekatnya. Cooldown: <b>0,2</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Meningkatkan Crit Rate sebanyak <b>40%</b> kepada target yang terkena Electrify. Ledakan elektrik akan memperpanjang durasi efek Electrify selama <b>0,5</b> detik, maks <b>5</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Menggandakan durasi Electro Field dan menarik target ke tengah serangan.",
+    "Mengaktifkan ledakan elektrik akan mengurangi skill cooldown sebanyak <b>1</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "Samir: Trickery",
+      "icon": true,
+      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>3%</b>, dan bisa ditumpuk hingga <b>4</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>1</b> detik."
+    },
+    {
+      "name": "Samir: Shadow",
+      "icon": true,
+      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>4%</b>, dan bisa ditumpuk hingga <b>5</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>2</b> detik."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Heart of Lightning",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

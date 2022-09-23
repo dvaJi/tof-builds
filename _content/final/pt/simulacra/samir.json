@@ -1,0 +1,277 @@
+{
+  "_id": 13,
+  "id": "samir",
+  "name": "Samir",
+  "weapon": "Estrelas Eletromagnéticas",
+  "weapon_id": "dual_em_stars",
+  "birthday": "20 de maio (Touro)",
+  "birthplace": "Hykros",
+  "gender": "Feminino",
+  "info": "Preguiçosa e autoindulgente, Samir gosta de brincadeiras e de pregar peças inofensivas.\nEmbora tecnicamente seja uma Executora da Hykros, a personalidade preguiçosa e não confiável é um problema. O hábito dela de pregar peças nos colegas deixa qualquer pessoa que trabalhe com ela aflita, e sua reputação não é completamente positiva. A própria Samir, no entanto, não parece se importar com isso.",
+  "description": "Seu passado está repleto de perguntas.\nAtualmente, sabe-se que Samir foi uma órfã adotada por uma residente de Banges. Ela ingressou na Hykros depois de chegar à idade adulta e se tornou uma Executora após o treinamento.\n\nEla é brilhante, mesmo entre os Executores de elite. A Hykros já considerou convidá-la para a posição de instrutora de novos recrutas, mas desistiu da ideia por causa de sua personalidade, que não combina com o cargo.",
+  "like": "Resolver quebra-cabeças e mistérios de assassinatos",
+  "dislike": "Desconhecido",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10.7,
+  "skills": [
+    {
+      "name": "Tiro Duplo",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano total de <b>47.1%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano total de <b>35.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano total de <b>119.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano total de <b>113.1%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano total de <b>154%</b> do ATQ + <b>8</b> e <b>lança</b> o alvo no ar."
+    },
+    {
+      "name": "Chuva de Balas",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, toque no botão de ataque normal para atirar sem parar no chão. Cada disparo causa dano de <b>50.6%</b>% do ATQ + <b>3</b>. Custa <b>150</b> de vigor."
+    },
+    {
+      "name": "Rajada de Energia",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque para continuar atirando. Cada acerto causa dano mínimo de <b>23%</b> do ATQ + <b>1</b>."
+    },
+    {
+      "name": "Chute Fantasma",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "No ar, segure o botão de ataque normal para usar Chute Fantasma. Derruba o alvo e causa dano de <b>70.5%</b> do ATQ + <b>4</b>. Ao aterrissar, causa dano de <b>98.7%</b> do ATQ + <b>5</b> a alvos próximos e os <b>lança no ar</b>."
+    },
+    {
+      "name": "Esquiva Desacelerante",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal após se esquivar para <b>suspender muito</b> os alvos e causar dano de <b>122.6%</b> do ATQ + <b>6</b>."
+    },
+    {
+      "name": "Campo Elétrico",
+      "type": [
+        "Skill"
+      ],
+      "description": "Gera um escudo energético na posição do alvo que emite feixes dentro da barreira. Causa dano de <b>269.8%</b> do ATQ + <b>14</b>. O último golpe <b>suspende muito</b> os alvos. Tempo de recarga: <b>45</b> seg."
+    },
+    {
+      "name": "Área Relampejante",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos dentro da área, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
+    }
+  ],
+  "weapon_type": {
+    "name": "Raio",
+    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+  },
+  "advancement": [
+    "Provoca uma explosão elétrica no alvo após desferir um golpe crítico, causando dano adicional de <b>30%</b> do ATQ ao alvo e inimigos próximos. Tempo de recarga: <b>0,2</b> seg.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Aumenta a taxa de crítico contra alvos eletrocutados em <b>40%</b>. Explosões elétricas prolongam a duração de efeitos de eletrocussão em <b>0,5</b> segundo, até no máximo <b>5</b> segundos.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Dobra a duração do Campo Elétrico e puxa alvos para o centro do ataque.",
+    "Desencadear uma explosão elétrica reduz em <b>1</b> segundo a recarga de habilidades."
+  ],
+  "traits": [
+    {
+      "name": "Samir: Travessura",
+      "icon": true,
+      "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>3%</b> (acumula até <b>4</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>1</b> segundo)."
+    },
+    {
+      "name": "Samir: Sombra",
+      "icon": true,
+      "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>4%</b> (acumula até <b>5</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>2</b> segundo)."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Coração-de-raio",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

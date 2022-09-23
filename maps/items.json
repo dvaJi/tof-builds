@@ -123,7 +123,12 @@
   },
   {
     "_locid": "Item_Mine_fire02_",
-    "id": "Heart of Lava",
+    "id": "heart_of_lava",
+    "rarity": "R"
+  },
+  {
+    "_locid": "Item_Mine_thunder02_",
+    "id": "heart_of_lightning",
     "rarity": "R"
   }
 ]

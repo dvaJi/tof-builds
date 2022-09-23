@@ -1,0 +1,277 @@
+{
+  "_id": 15,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "weapon": "Flecha Helada",
+  "weapon_id": "icewind_arrow",
+  "birthday": "24 de marzo (Aries)",
+  "birthplace": "Herederos de Aida",
+  "gender": "Femenino",
+  "info": "La oportunista por excelencia. Hiperactiva, habladora, le encanta formar parte de una multitud.\nDemasiado sociable. No se enfada ni siquiera cuando le insultan o le gritan. Tolerante con todos los puntos de vista y capaz de hacer amigos a la primera de cambio.\nSin embargo, la fiabilidad de este espíritu libre es prácticamente inexistente.",
+  "description": "El currículum de Tsubasa indica que una vez fue residente del Refugio de Astra, una delegada de las Hienas y una trabajadora de Hykros, que es el registro que usamos para su Simulacrum.\nDespués, optó por traicionar a Hykros y desertó a los Herederos de Aida.\nEso solo podría describirse como un movimiento alarmante. Su estatus actual es desconocido, pero seguramente no es una lacaya de poca monta dentro de los Herederos, dadas sus habilidades.\nNunca se basa en la filosofía, la moral, los objetivos o las reglas para decidir con qué bando se alineará, como si nunca le importara nada de eso. Ha estado en muchas organizaciones, pero nunca ha pertenecido realmente a ninguna de ellas.",
+  "like": "Viento, gravedad, libertad, goma de mascar",
+  "dislike": "Inercia, estabilidad",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 11.5,
+  "skills": [
+    {
+      "name": "Reflejos rápidos",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, lanza con el arco reiteradamente y ataca 5 veces.\nPrimer ataque: inflige daño equivalente al <b>48.8%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>43.7%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>78.6%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>121.2%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño equivalente al <b>112.5%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo."
+    },
+    {
+      "name": "Flecha cargada",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal para cargar. Inflige daño básico equivalente al <b>87.8%</b> del ATQ + <b>5</b>, y un <b>50%</b> adicional por cada <b>1</b> segundo utilizado para cargar, hasta <b>3</b> segundos. Inflige daño doble al acertar a la cabeza o a los puntos débiles del objetivo y lo derriba (los disparos a la cabeza no son efectivos contra nómadas)."
+    },
+    {
+      "name": "Lluvia de flechas",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Después de cualquier ataque normal, mantén pulsado el ataque normal para desatar Lluvia de flechas que inflige hasta el <b>287.2%</b> del ATQ + <b>15</b> de daño de área a los objetivos."
+    },
+    {
+      "name": "Descarga aérea",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>56.3%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>74%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>112.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>169.8%</b> del ATQ + <b>9</b>."
+    },
+    {
+      "name": "Flecha equipada",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque tras esquivar para activar una Flecha equipada, que hace <b>retroceder al objetivo</b> e inflige daño equivalente al <b>124%</b> del ATQ + <b>7</b>."
+    },
+    {
+      "name": "Disparo perforante",
+      "type": [
+        "Skill"
+      ],
+      "description": "Retrocede en una voltereta y realiza <b>3</b> disparos perforantes. El disparo principal inflige daño equivalente al <b>258.3%</b> del ATQ + <b>14</b>, y los otros dos disparos infligen un 60% de daño. Además, <b>hace retroceder al objetivo</b> y lo aturde durante <b>5</b> segundos si impacta contra un obstáculo. Enfriamiento: <b>12</b> segundos."
+    },
+    {
+      "name": "Ráfaga explosiva",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea una ventisca en la ubicación objetivo tras cambiar a esta arma, la que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>. La ventisca tiene una probabilidad del <b>10%</b> de causar un <b>efecto de congelación</b> durante <b>2</b> segundos. Obtienes frente frío y la velocidad aumenta en un <b>45%</b> durante <b>7</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Caparazón de hielo",
+    "description": "Las armas completamente cargadas <b>congelarán</b> al objetivo por <b>2</b> segundos y lo dejarán congelado por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga del arma del objetivo se reduce en un <b>50%</b>."
+  },
+  "advancement": [
+    "Otorga una acumulación de Flecha Aguda cada vez que una flecha disparada durante un ataque al esquivar golpea a un enemigo. Cada acumulación aumenta el daño en un <b>5%</b> por <b>15</b> segundos. Se acumula hasta <b>3</b> veces.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Iniciar un ataque al esquivar lanza <b>3</b> flechas cargadas.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
+    "Duplica la duración de Lluvia de flechas y ralentiza a los objetivos un <b>25%</b>.",
+    "Flecha Aguda se acumula hasta <b>5</b> veces. Golpear a un objetivo con una Flecha Cargada inmediatamente otorga <b>3</b> acumulaciones, y los tiros en la cabeza otorgan <b>5</b> acumulaciones."
+  ],
+  "traits": [
+    {
+      "name": "Tsubasa: Tormenta",
+      "icon": true,
+      "description": "Cada vez que Tsubasa inflige daño, obtiene <b>1</b> acumulación de Golpe feroz, con un máximo de <b>1</b> acumulación por cada <b>1</b> segundo. Cada acumulación agrega un <b>0.5%</b> de ATQ, con un límite de <b>15</b> acumulaciones. Reinicia la duración del efecto al recuperarlo. El efecto dura <b>30</b> segundos."
+    },
+    {
+      "name": "Tsubasa: Mar Embravecido",
+      "icon": true,
+      "description": "Cada vez que Tsubasa inflige daño, obtiene <b>1</b> acumulación de Golpe feroz, con un máximo de <b>1</b> acumulación por cada <b>1</b> segundo. Cada acumulación agrega un <b>0.6%</b> de ATQ, con un límite de <b>30</b> acumulaciones. Reinicia la duración del efecto al recuperarlo. El efecto dura <b>30</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de hielo",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Armazón de nanofibras I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Corazón de invierno",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

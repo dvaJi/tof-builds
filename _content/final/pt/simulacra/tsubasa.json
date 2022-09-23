@@ -1,0 +1,277 @@
+{
+  "_id": 15,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "weapon": "Arco Zero Grau",
+  "weapon_id": "icewind_arrow",
+  "birthday": "24 de março (Áries)",
+  "birthplace": "Herdeiros de Aida",
+  "gender": "Feminino",
+  "info": "O epítome de oportunista. Hiperativa, comunicativa, adora fazer parte de uma galera.\nExtremamente sociável. Não se abala mesmo se a xingarem ou gritarem com ela. Tolerante a todos os pontos de vista e capaz de fazer amizade num estalar de dedos.\nContudo, confiabilidade advinda deste espírito livre praticamente não existe.",
+  "description": "O currículo de Tsubasa mostra que ela já morou no Abrigo de Astra, foi uma oficial Hiena e trabalhou na Hykros, informações em que se baseiam os dados de seu Simulacro.\nDepois disso, ela decidiu trair a Hykros e se juntar aos herdeiros de Aida.\nIsso só poderia ser descrito como um ato alarmante. Sua situação atual é desconhecida, mas podemos ter certeza de que, considerando suas habilidades, ela não é só mais uma capanga nos herdeiros.\nTsubasa nunca se baseia em filosofia, princípios, objetivos ou regras para decidir a quem vai se aliar, como se não desse a mínima para nada disso. Assim sendo, ela já esteve com muitas organizações, mas nunca de fato pertenceu a alguma.",
+  "like": "Vento, gravidade, liberdade, chicletes",
+  "dislike": "Inércia, estabilidade",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 11.5,
+  "skills": [
+    {
+      "name": "Saque Ligeiro",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, saca o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>48.8%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>43.7%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>78.6%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>121.2%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano de <b>112.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância."
+    },
+    {
+      "name": "Tiro Concentrado",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal para carregar o disparo. Causa dano base de <b>87.8%</b> do ATQ + <b>5</b>, e mais <b>50%</b> por cada <b>1</b> segundo de concentração (máximo de <b>3</b> segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
+    },
+    {
+      "name": "Chuva de Flechas",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após qualquer ataque normal, segure o botão de ataque normal para desencadear Chuva de Flechas. Causa até <b>287.2%</b> do ATQ + <b>15</b> de dano em área a alvos."
+    },
+    {
+      "name": "Saraivada Aérea",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>56.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>74%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>112.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>169.8%</b> do ATQ + <b>9</b>."
+    },
+    {
+      "name": "Flecha Repulsora",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque após se esquivar para usar Flecha Repulsora. <b>Repele o alvo</b> e causa dano de <b>124%</b> do ATQ + <b>7</b>."
+    },
+    {
+      "name": "Tiro Perfurante",
+      "type": [
+        "Skill"
+      ],
+      "description": "Dá um mortal para trás e dispara <b>3</b> tiros perfurantes, onde o disparo principal causa dano de <b>258.3%</b> do ATQ + <b>14</b>, e os outros dois causam 60% de dano. Além disso, <b>repele os alvos</b> e os atordoa durante <b>5</b> segundos caso colidam com um obstáculo. Tempo de recarga: <b>12</b> segundos."
+    },
+    {
+      "name": "Salva Explosiva",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga de arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e cria uma chuva de granizo na área alvo ao trocar para esta arma. Causa dano de <b>570%</b> do ATQ + <b>30</b>. A chuva tem <b>10%</b> de chance de infligir <b>congelamento</b> durante <b>2</b> segundos. Ganha frente fria e aumenta a velocidade em <b>45%</b> durante <b>7</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Casca de Gelo",
+    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+  },
+  "advancement": [
+    "Dá um acúmulo de flecha cortante cada vez que a flecha disparada por um ataque esquivado acerta um alvo. Cada acúmulo aumenta o dano em <b>5%</b> durante <b>15</b> segundos. Acumula até <b>3</b> vezes.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Realizar um ataque esquivado dispara <b>3</b> Tiros Concentrados.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Dobra a duração da Chuva de Flechas e desacelera alvos em <b>25%</b>.",
+    "Flecha cortante acumula até <b>5</b> vezes. Acertar um alvo com Tiro Concentrado concede <b>3</b> acúmulos imediatamente. Tiros na cabeça conferem <b>5</b> acúmulos."
+  ],
+  "traits": [
+    {
+      "name": "Tsubasa: Temporal",
+      "icon": true,
+      "description": "Cada vez que Tsubasa causa dano, recebe <b>1</b> acúmulo de Golpe Feroz, até <b>1</b> acúmulo por <b>1</b> segundo. Cada acúmulo adiciona <b>0,5%</b> de ATQ, até <b>15</b> acúmulos. Atualiza a duração do efeito ao receber o efeito de novo. Esse efeito dura <b>30</b> segundos."
+    },
+    {
+      "name": "Tsubasa: Ondas Impetuosas",
+      "icon": true,
+      "description": "Cada vez que Tsubasa causa dano, recebe <b>1</b> acúmulo de Golpe Feroz, até <b>1</b> acúmulo por <b>1</b> segundo. Cada acúmulo adiciona <b>0,6%</b> de ATQ, até <b>30</b> acúmulos. Atualiza a duração do efeito ao receber o efeito de novo. Esse efeito dura <b>30</b> segundos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo-gélido",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Coração-de-inverno",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

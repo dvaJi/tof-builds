@@ -1,0 +1,171 @@
+{
+  "_id": 12,
+  "id": "pepper",
+  "name": "Merica",
+  "weapon": "Staff of Scars",
+  "weapon_id": "staff_of_scars",
+  "birthday": "9 Juli (Cancer)",
+  "birthplace": "Hykros Medical Department",
+  "gender": "Perempuan",
+  "info": "Suster populer yang terkenal akan kesabaran, kebaikan, dan senyumnya. Meski ternama akan etika kerjanya yang efisien, fisik dan staminanya kurang mendukung. Digabung dengan sikap perfeksionismenya, dia selalu merasa kelelahan.\nDia didiagnosis menderita insomnia berat, sedikit gangguan kecemasan, dan perilaku obsesif. Meski begitu, gejala gangguan itu tak tampak berkat disiplin dirinya yang kuat.",
+  "description": "Lahir dalam keluarga Banges yang makmur, dia mendapat pendidikan di atas rata-rata dan selalu berperilaku baik. Suatu hari, dia dan keluarganya diserang oleh Aberrant, dan orang tuanya kehilangan Suppressor mereka. \nMereka tidak \"mati\", tetapi menjadi Aberrant. Saat seorang Executor akan membebaskan mereka dari kesengsaraannya, Pepper yang selamat memohon pada Executor itu agar tidak melakukannya. Mereka kini dikurung di suatu tempat, dan kekayaan keluarga itu perlahan habis untuk membayar biaya perawatan mereka.\nKarena itulah Pepper bekerja di departemen medis Hykros. Dia memilih untuk menghabiskan sisa hidupnya untuk mencari cara membalikkan Aberration...",
+  "like": "Orang tuanya, pekerjaan, membuat kemajuan dalam risetnya",
+  "dislike": "Waktu tidur",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan tongkat untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>25.1%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>18.8%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>30.4%</b> ATK + <b>2</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>41.4%</b> ATK + <b>2</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>73.2%</b> ATK + <b>4</b>."
+    },
+    {
+      "name": "Soaring Barrage",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>32.5%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>23.5%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>25.5%</b> ATK + <b>1</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>45.6%</b> ATK + <b>2</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>47.7%</b> ATK + <b>3</b>."
+    },
+    {
+      "name": "Moonfall",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat mengudara untuk mengaktifkan Moonfall.\nSaat mendarat, timpakan damage satu kali setiap <b>0,2</b> detik, dengan total <b>57.2%</b> ATK + <b>3</b> damage."
+    },
+    {
+      "name": "Focused Assault",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Branch Attack, yang akan menghabiskan <b>300</b> poin Endurance.\nSerangan Pertama: Menarik musuh ke depan pengguna dan mengakibatkan <b>Suspend</b> kepada mereka dan menimbulkan damage sebanyak <b>16.1%</b> ATK + <b>1</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimbulkan damage sebanyak <b>18.6%</b> ATK + <b>1</b> di lokasi target dan kepada musuh di sekitar setiap <b>0,3</b> detik."
+    },
+    {
+      "name": "Surge",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk tombol Normal Attack dalam Perfect Dodge Window singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap gelombang energi akan menimpakan damage sebanyak <b>22.6%</b> ATK + <b>1</b> kepada target.\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+    },
+    {
+      "name": "Tesseract",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk tombol Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebanyak <b>32.1%</b> ATK + <b>2</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+    },
+    {
+      "name": "Sanctuary",
+      "type": [
+        "Skill"
+      ],
+      "description": "Buat perisai energi di lokasi Pengembara. Sembuhkan teman dalam perisai dengan <b>81.7%</b> ATK + <b>4</b> setiap detik dan kurangi damage yang mereka terima sebesar <b>3%</b> selama <b>10</b> detik. Cooldown <b>60</b> detik."
+    },
+    {
+      "name": "Swift Deliverance",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebanyak <b>{2}%</b> ATK + <b>{3}</b> HP selama <b>7</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>106%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+  },
+  "advancement": [
+    "Menyembuhkan semua rekan tim dalam radius <b>10</b> sebanyak <b>100%</b> ATK setelah menggunakan Dodge Skill.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>10%</b>.",
+    "Normal Attack juga akan menembakkan dua misil, masing-masing menimpakan damage sebanyak <b>5%</b> ATK kepada target, dan memulihkan <b>5</b> poin Weapon Charge.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+    "Meningkatkan kecepatan untuk memperoleh Weapon Charge sebanyak <b>20%</b> (tidak berlaku untuk serangan misil).",
+    "Memberikan <b>60%</b> Damage Reduction kepada semua rekan tim setiap kali ada skill yang menangkal Control Effect dari target."
+  ],
+  "traits": [
+    {
+      "name": "Pepper: Revival",
+      "icon": true,
+      "description": "Saat Pepper memakai Satiety untuk memulihkan HP, meningkatkan efek pemulihan sebanyak <b>100%</b>."
+    },
+    {
+      "name": "Pepper: Source",
+      "icon": true,
+      "description": "Saat Pepper memakai Satiety untuk memulihkan HP, meningkatkan efek pemulihan sebanyak <b>200%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

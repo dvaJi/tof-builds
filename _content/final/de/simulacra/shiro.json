@@ -1,0 +1,285 @@
+{
+  "_id": 14,
+  "id": "shiro",
+  "name": "Shiro",
+  "weapon": "Chakram der Meere",
+  "weapon_id": "chakram_of_the_seas",
+  "birthday": "22. September (Jungfrau)",
+  "birthplace": "Unbekannt",
+  "gender": "Weiblich",
+  "info": "Sie ist ungesellig, mag keine Fremden und wird nervös, wenn sie jemanden zum ersten Mal trifft.\nSelbst ihrem Partner schenkt sie kaum Aufmerksamkeit, und sie ist nur dann begeistert bei der Sache, wenn ein Thema sie interessiert. Dann aber redet sie wie ein Wasserfall und wird sauer, wenn ihr Partner ihr nicht folgen kann.\nSie ist fast wie eine Katze – die meiste Zeit kalt und reserviert, aber wenn sie Aufmerksamkeit will und sie nicht bekommt, wird sie böse.",
+  "description": "„Einzelgängerin und Meeresenthusiastin“ – das sagen die Leute über die Meeresforscherin Shiro. Der Anblick des Meeres weckt in dem zurückhaltenden Mädchen Leidenschaft und Loyalität.\nAls sie volljährig wurde und sich ihre Begabung für die Ozeangraphie zeigte, reiste sie jahrelang allein umher, um den Ozean von Aida zu vermessen – eine gewaltige Leistung, die wesentlich zum Verständnis der Menschheit von Aida beigetragen hat.",
+  "like": "Ozeane; neue oder interessante Meereslebewesen",
+  "dislike": "Unbekannt",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 11.7,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Schnellwurf",
+      "type": [
+        "Attack"
+      ],
+      "description": "Schwinge das Chakram während du auf dem Boden stehst, um 5 Wirbelangriffe hintereinander zu entfesseln.\nErster Angriff: verursacht Schaden in Höhe von <b>30.7%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>23.8%</b> des ANG + <b>1</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>34%</b> des ANG + <b>2</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>30.7%</b> des ANG + <b>2</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>53.8%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück."
+    },
+    {
+      "name": "Luftsprengung",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, tippe auf normaler Angriff, um 3 Wirbelangriffe hintereinander zu entfesseln.\nErster Angriff: Verursacht Schaden in Höhe von <b>26.2%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>29.2%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>37.2%</b> des ANG + <b>2</b>."
+    },
+    {
+      "name": "Verstreuen",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem zweiten normalen Angriff die Angriffstaste gedrückt, um „Verstreuen“ zu aktivieren.\nDies feuert fünf durchdringende Chakrams nach vorne, die jeweils Schaden in Höhe von <b>43.5%</b> des ANG +<b>2</b> und einen leichten Rückstoß verursachen."
+    },
+    {
+      "name": "Luftwirbel",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um Luftwirbel auszulösen.\nEntfessle einen mächtigen Schlag, der beim Ziel und nahen Gegnern Schaden in Höhe von <b>191.5%</b> des ANG + <b>10</b> verursacht und sie schweben lässt."
+    },
+    {
+      "name": "Schleichattacke",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>427.5%</b> des ANG + <b>23</b> zu verursachen."
+    },
+    {
+      "name": "Abnehmender Mond",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um Abnehmender Mond auszulösen.\nWirf ein sich drehendes Chakram nach vorne, das dem Ziel Schaden in Höhe von <b>132.9%</b> des ANG + <b>7</b> zufügt und für <b>0,5</b> Sekunden einen <b>Lähmungseffekt</b> verursacht. Das Chakram teilt sich dann in <b>3</b> Teile, die weiter nach vorne fliegen und an Zielen entlang ihres Weges Schaden in Höhe von <b>24.2%</b> des ANG + <b>1</b> verursachen. <span class=\"text-red\">Gespaltene Chakrams prallen während der vollen Blüte ab</span>."
+    },
+    {
+      "name": "Der blühende Tot",
+      "type": [
+        "Skill"
+      ],
+      "description": "Erzeugt für <b>8</b> Sek. einen Chakramsturm um den Wanderer. Gleichzeitig werden Gegner angezogen und ihre Geschwindigkeit für <b>8</b> Sek. um <b>30%</b> verringert. Feuert <b>5</b> Chakrams ab, die zwischen Gegnern hin- und herspringen und an Zielen im Weg Schaden in Höhe von <b>24.2%</b> des ANG +<b>1</b> verursachen, wobei sie bis zu <b>5</b>-mal an Gegnern abprallen. <span class=\"text-red\">Die durch „Abnehmender Mond“ ausgelösten gespaltenen Chakrams prallen ebenfalls bis zu 5-mal ab.</span> Abklingzeit: <b>45</b> Sek."
+    },
+    {
+      "name": "Geist der Lüfte",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und „Chakram der Meere“ auf das Ziel losgelassen. Das getroffene Ziel verursacht für <b>1</b> Sek. einen <b>Betäuben</b>-Effekt über eine Fläche. Zusätzlich erfolgt pro Sek. jeweils <b>1</b> Angriff gegen bis zu <b>3</b> Einheiten (jeder Angriff hat eine Chance von <b>10%</b>, das Ziel für <b>1,5</b> Sek. zu <b>betäuben</b>). Dies verursacht für <b>10</b> Sek. einen Schaden in Höhe von <b>41.4%</b> x ANG + <b>2</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Verwunden",
+    "description": "Voll geladene Waffen verursachen beim nächsten Angriff Schaden in Höhe von <b>137%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
+  },
+  "advancement": [
+    "Erhöht den verursachten Schaden und alle elementaren Zertrümmern-Effekte auf Zielen innerhalb der Reichweite von <span class=\"text-green\">Der blühende Tod</span> um <b>30%</b>.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Erhöht „Zertrümmern“ um <b>15%</b> und setzt alle Waffenfähigkeit-Abklingzeiten zurück, wenn der Schild des Ziels zertrümmert wird. Kann nur einmal pro <b>30</b> Sek. ausgelöst werden.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Der Angriff auf ein Ziel mit „Verwunden“ verlängert dessen Dauer um zusätzliche <b>7</b> Sek. Dieser Effekt kann nur einmal ausgelöst werden.",
+    "Gewährt nach der Verwendung von <span class=\"text-green\">Der blühende Tod</span> für die nächsten <b>8</b> Sek. eine kritische Trefferchance von 100%."
+  ],
+  "traits": [
+    {
+      "name": "Shiro: Sicherheitsalarm",
+      "icon": true,
+      "description": "Erhöht für <b>8</b> Sek. jeglichen ANG um <b>10%</b> und den physischen ANG zusätzlich um <b>7%</b>, wenn Shiro eine Waffenfähigkeit/Entladungsfähigkeit einsetzt. Abklingzeit: <b>16</b> Sek."
+    },
+    {
+      "name": "Shiro: Alarmstufe Rot",
+      "icon": true,
+      "description": "Erhöht für <b>8</b> Sek. jeglichen ANG um <b>16%</b> und den physischen ANG zusätzlich um <b>10%</b>, wenn Shiro eine Waffenfähigkeit/Entladungsfähigkeit einsetzt. Abklingzeit: <b>16</b> Sek."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "Herz des Gipfels",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Säurefeste Glasur II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

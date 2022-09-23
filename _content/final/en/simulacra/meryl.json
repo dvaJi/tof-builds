@@ -1,0 +1,301 @@
+{
+  "_id": 10,
+  "id": "meryl",
+  "name": "Meryl",
+  "weapon": "Rosy Edge",
+  "weapon_id": "rosy_edge",
+  "birthday": "October 10 (Libra)",
+  "birthplace": "Hykros",
+  "gender": "Female",
+  "info": "Detached, aloof, and asocial. There are very few things that will elicit a reaction from Meryl. She displays no emotion, not because she is unfeeling, but because she is unwilling to get close to any other person.",
+  "description": "A high-ranking Hykros Executor of unknown age or place of birth. According to the little publicly-available information, Meryl distinguished herself in many Hykros S Grade missions due to her exceptional sword skills and combat prowess. In just a few short years, she was promoted from ordinary administrator to senior Executor.\nMeryl's cold and inscrutable attitude means that no one can ever be sure of her true intentions. This frostiness, along with her merciless approach to dealing with enemies, ensures that everyone maintains their distance from her.\nThe Executor database does show that Meryl has a twin brother, with whom she has a close relationship, but there is no formal record or information about him.",
+  "like": "Snowy days, crystals",
+  "dislike": "Botany",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 12,
+  "charge": 4,
+  "skills": [
+    {
+      "name": "Heavy Cleave",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing a greatsword to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>72.9%</b> of ATK + <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>60.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>105.4%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>, <b>strongly suspend</b> the target, then launch them upon landing."
+    },
+    {
+      "name": "Aerial Strike",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, tap normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>106.5%</b> of ATK + <b>6</b>.\nSecond Attack: Deal damage equal to <b>87.5%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>.\nFourth Attack: Deal damage equal to <b>140.5%</b> of ATK + <b>7</b> and deliver a <b>knockdown</b>, launch the target upon landing."
+    },
+    {
+      "name": "Rising Slash",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After the third normal attack, hold normal attack to trigger Rising Slash.\nUpon hit, <b>strongly suspend</b> the target and go airborne, dealing damage equal to <b>64.3%</b>of ATK + <b>3</b>."
+    },
+    {
+      "name": "Moonset Slash",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Moonset Slash"
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+    },
+    {
+      "name": "Whirlwind",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to <b>132.8%</b> of ATK + <b>7</b> every <b>0.5</b> seconds to the target. Grant hitstun immunity while in use."
+    },
+    {
+      "name": "Devastate",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate.\nDeal damage equal to <b>65.9%</b> of ATK + <b>3</b> each hit and <b>launch</b> targets."
+    },
+    {
+      "name": "Crescent Slash",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short period after dodging to trigger Crescent Slash.\nSwing the greatsword to unleash sword auras forward, each dealing damage equal to <b>49.6%</b> of ATK + <b>3</b>."
+    },
+    {
+      "name": "Blizzard",
+      "type": [
+        "Skill"
+      ],
+      "description": "Swing the greatsword to launch sword auras forward, each dealing damage equal to <b>141.7%</b> of ATK + <b>7</b> and increasing damage dealt by <b>5%</b> with each hit. While active, immune to control effects. Cooldown: <b>45</b> seconds."
+    },
+    {
+      "name": "Frost Barrier",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and smash the ground to form a barrier, dealing damage equal to <b>503.2%</b> of ATK + <b>26</b> to nearby enemies, suspending the targets. This reduces their speed by <b>50%</b> and stops them from dodge or jump. The barrier lasts <b>5</b> seconds and blocks projectiles."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Fully charged weapons will <b>freeze</b> the target for <b>2</b> seconds and leave it frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+  },
+  "advancement": [
+    "Increase shatter by <b>15%</b> and restore <b>10%</b> of HP after shattering the target's shield.",
+    "Increase the current weapon's base HP growth by <b>16%</b>.",
+    "Upon switching to the weapon, gain an Ice Shield equal to <b>10%</b> of Max HP. Cooldown: <b>20</b> seconds. The Ice Shield lasts up to <b>10</b> seconds.",
+    "Increase the current weapon's base HP growth by <b>32%</b>.",
+    "Increase damage and shatter by <b>50%</b> while the shield is active.",
+    "Upon switching to the weapon, gain an Ice Shield equal to <b>20%</b> of Max HP and immune to controls when shield is active. Cooldown: <b>20</b> seconds. The Ice Shield lasts up to <b>10</b> seconds."
+  ],
+  "traits": [
+    {
+      "name": "Meryl: Cool Rose",
+      "icon": true,
+      "description": "Reduce frost damage received by Meryl by <b>20%</b>, gain immunity to the frostbitten effect, and reduce duration of being frozen by <b>50%</b>."
+    },
+    {
+      "name": "Meryl: Frosted",
+      "icon": true,
+      "description": "Reduce frost damage received by Meryl by <b>25%</b>, gain immunity to the frostbitten effect, and reduce duration of being frozen by <b>50%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Icecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Heart of winter",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

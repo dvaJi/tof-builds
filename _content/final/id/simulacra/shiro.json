@@ -1,0 +1,285 @@
+{
+  "_id": 14,
+  "id": "shiro",
+  "name": "Shiro",
+  "weapon": "Chakram of the Seas",
+  "weapon_id": "chakram_of_the_seas",
+  "birthday": "22 September (Virgo)",
+  "birthplace": "Unknown",
+  "gender": "Perempuan",
+  "info": "Dia antisosial, tidak suka orang asing, dan cemas saat bertemu dengan seseorang untuk pertama kali.\nDia bahkan tidak cukup memperhatikan partnernya, dan cuma bersemangat kalau topik yang dibicarakan sesuai dengan minatnya. Namun, dia bicara cepat sekali dan marah kalau partnernya tidak bisa mengikuti.\nDia mirip kucing—seringnya dingin dan penyendiri, tapi marah kalau dia mau diperhatikan dan tidak ada orang di sekitarnya.",
+  "description": "\"Maniak lautan penyendiri\" adalah sebutan orang untuk Shiro, si ahli kelautan. Gadis penyendiri ini menjadi seseorang yang penuh semangat dan setia saat sedang menatap lautan.\nSaat menginjak usia dewasa dan menunjukkan bakat dalam ilmu kelautan, dia bepergian sendirian selama beberapa tahun dan mengukur pembagian laut Aida, tugas luar biasa dengan kontribusi sangat besar pada pemahaman manusia akan Aida.",
+  "like": "Laut, novel, atau makhluk laut yang dianggap menarik",
+  "dislike": "Unknown",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "DPS",
+  "shatter": 11.7,
+  "charge": 6,
+  "skills": [
+    {
+      "name": "Rapid Throw",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, acungkan Chakram untuk melepaskan 5 Spinning Attack.\nSerangan Pertama: Menimbulkan damage sebanyak <b>30.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan damage sebanyak <b>23.8%</b> ATK + <b>1</b>.\nSerangan Ketiga: Menimbulkan damage sebanyak <b>34%</b> ATK + <b>2</b>.\nSerangan Keempat: Menimbulkan damage sebanyak <b>30.7%</b> ATK + <b>2</b>.\nSerangan Kelima: Menimbulkan damage sebanyak <b>53.8%</b> ATK + <b>3</b> memukul mundur lawan dalam jarak dekat."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk melepaskan 3 Spinning Attack berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>26.2%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>29.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>37.2%</b> ATK + <b>2</b>."
+    },
+    {
+      "name": "Scatter",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack kedua, tahan tombol Serang untuk mengaktifkan Scatter.\nMenembakkan lima Chakram penembus ke depan, masing-masing serangan yang kena akan menimbulkan <b>43.5%</b> ATK + <b>2</b> damage, dengan sedikit Knockback."
+    },
+    {
+      "name": "Air Spin",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat Airborne untuk mengaktifkan Air Spin.\nMelepaskan serangan dahsyat, menimbulkan damage sebanyak <b>191.5%</b> ATK + <b>10</b> kepada target dan musuh di sekitar, dan mengakibatkan Suspend kepada mereka."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>427.5%</b> ATK + <b>23</b>."
+    },
+    {
+      "name": "Waning Moon",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack selama periode singkat setelah menghindar untuk mengaktifkan Waning Moon.\nLemparkan Chakram yang berputar ke depan, ini menimpakan damage sebanyak <b>132.9%</b> ATK + <b>7</b> pada target dan menimpakan efek <b>Stun</b> selama <b>0,5</b> detik. Chakram kemudian terbelah menjadi <b>3</b> dan terus bergerak, ini menimpakan damage sebanyak <b>24.2%</b> ATK + <b>1</b> pada target di sepanjang jalurnya. <span class=\"text-red\">Chakram terbelah akan memantul selama Full Bloom</span>."
+    },
+    {
+      "name": "Full Bloom",
+      "type": [
+        "Skill"
+      ],
+      "description": "Membuat Chakram Domain dengan Wanderer di pusatnya selama <b>8</b> detik. Pada waktu bersamaan, musuh akan ditarik, dan kecepatan mereka berkurang sebanyak <b>30%</b> selama <b>8</b> detik. Menembakkan <b>5</b> Chakram yang memantul di antara musuh, menimbulkan damage sebanyak <b>24.2%</b> ATK + <b>1</b> kepada target di jalurnya, memantul maks <b>5</b> kali. <span class=\"text-red\">Cakram terbelah yang diaktifkan oleh Waning Moon juga memantul maks 5 kali.</span> Cooldown: <b>45</b> detik."
+    },
+    {
+      "name": "Spirit of the Air",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b> dan akan melepaskan Chakram of the Seas kepada target. Target yang kena akan mengalami AOE <b>Stun</b> selama <b>1</b> detik, dan masing-masing <b>1</b> serangan kepadanya, maks <b>3</b> unit per detik (setiap serangan punya peluang <b>10%</b> untuk mengakibatkan <b>Stun</b> kepada target selama <b>1,5</b> detik), dan menimbulkan <b>41.4%</b> ATK + <b>2</b> damage selama <b>10</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Grievous",
+    "description": "Senjata yang terisi penuh akan menimpakan damage sebanyak <b>137%</b> ATK dengan serangan berikutnya, dan membuat target Grievous selama <b>7</b> detik, menerima <b>20%</b> damage ekstra."
+  },
+  "advancement": [
+    "Meningkatkan damage yang ditimpakan dan semua efek Shatter elemental yang dihasilkan kepada target dalam jarak <span class=\"text-green\">Full Bloom</span> sebanyak <b>30%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Meningkatkan Shatter sebanyak <b>15%</b> dan mereset cooldown untuk semua Weapon Skill setelah menghancurkan Shield musuh. Hanya bisa diaktifkan sekali setiap <b>30</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Menyerang target yang terkena Grievous akan memperpanjang durasi Grievous selama <b>7</b> detik lagi (hanya menerima efek satu kali untuk efek yang sama).",
+    "Setelah menggunakan <span class=\"text-green\">Full Bloom</span>, memberikan 100% peluang Crit untuk <b>8</b> detik berikutnya."
+  ],
+  "traits": [
+    {
+      "name": "Shiro: Security Alert",
+      "icon": true,
+      "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>10%</b> dan Physical ATK sebanyak <b>7%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
+    },
+    {
+      "name": "Shiro: Red Alarm",
+      "icon": true,
+      "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>16%</b> dan Physical ATK sebanyak <b>10%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "Heart of Summit",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "_id": 10,
+  "id": "meryl",
+  "name": "Meryl",
+  "weapon": "Lame de la rose",
+  "weapon_id": "rosy_edge",
+  "birthday": "10 octobre (balance)",
+  "birthplace": "Hykros",
+  "gender": "Féminin",
+  "info": "Détachée, à l'écart et asociale. Il y a très peu de choses qui provoqueront une réaction chez Meryl. Elle n'affiche aucune émotion, non pas parce qu'elle est insensible, mais parce qu'elle refuse d'être proche de qui que ce soit.",
+  "description": "Exécutante d'Hykros de haut rang, mais d'âge et d'origine inconnus. D'après le peu d'informations disponibles pour le grand public, Meryl s'est distinguée dans de nombreuses missions de grade S pour Hykros en raison de ses talents exceptionnels à l'épée et de ses prouesses au combat. En seulement quelques années, elle a été promue, passant de simple administratrice à Exécutante senior.\nL'attitude froide et impénétrable de Meryl fait que personne n'est jamais sûr de ses véritables intentions. Cette froideur, ainsi que son approche sans pitié quand il s'agit de faire face aux ennemis, assurent que tout le monde garde ses distances avec elle.\nLa base de données des Exécutants montre bien que Meryl a un frère jumeau duquel elle est très proche, mais il n'y a aucune information ni aucuns renseignements formels à son sujet.",
+  "like": "Journées enneigées, cristaux",
+  "dislike": "La botanique",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 12,
+  "charge": 4,
+  "skills": [
+    {
+      "name": "Frappe lourde",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, attaquez 4 fois de suite avec une grande épée.\nPremière attaque : inflige des dégâts équivalant à <b>72.9%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>60.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>105.4%</b> de l'ATQ + <b>6</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>, <b>suspend longuement</b> la cible, puis la repousse après l'atterrissage."
+    },
+    {
+      "name": "Frappe aérienne",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes en l'air ou après avoir sauté une fois, appuyez sur Attaque normale pour attaquer 4 fois d'affilée.\nPremière attaque : inflige des dégâts équivalant à <b>106.5%</b> de l'ATQ + <b>6</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>87.5%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>140.5%</b> de l'ATQ + <b>7</b> et <b>renverse</b> la cible avant de la projeter dans les airs au moment de toucher le sol."
+    },
+    {
+      "name": "Taillade ascendante",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Taillade ascendante.\nAu contact, <b>suspend longuement</b> la cible et vous fait décoller du sol, infligeant des dégâts équivalant à <b>64.3%</b>de l'ATQ + <b>3</b>."
+    },
+    {
+      "name": "Taillade crépusclunaire",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Taillade crépusclunaire"
+    },
+    {
+      "name": "Attaque furtive",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>570%</b> de l'ATQ + <b>30</b>."
+    },
+    {
+      "name": "Tourbillon",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Lorsque vous êtes debout ou lorsque vous vous déplacez, maintenez Attaque normale pour déclencher Tourbillon. Inflige à la cible des dégâts équivalant à <b>132.8%</b> de l'ATQ + <b>7</b> chaque <b>0,5</b> seconde. Confère une immunité à l'hébétement pendant que vous l'utilisez."
+    },
+    {
+      "name": "Dévastation",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une flèche avant l'esquive) pour déclencher Dévastation.\nVous infligez des dégâts correspondant à <b>65.9%</b> de l'ATQ + <b>3</b> à chaque coup et <b>vous projetez</b> les cibles."
+    },
+    {
+      "name": "Taillade en croissant",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale rapidement après l'esquive pour déclencher Taillade en croissant.\nVous brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à <b>49.6%</b> de l'ATQ + <b>3</b>."
+    },
+    {
+      "name": "Blizzard",
+      "type": [
+        "Skill"
+      ],
+      "description": "Brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à <b>141.7%</b> de l'ATQ + <b>7</b>, et augmentant les dégâts infligés de <b>5%</b> à chaque touche. L'attaque vous immunise contre les effets de contrôle. Temps de recharge : <b>45</b> secondes."
+    },
+    {
+      "name": "Barrière de givre",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, au moment où vous changez d'arme, <b>élimine toutes les altérations sur le porteur</b>, et frappe le sol pour former une barrière. Inflige des dégâts équivalant à <b>503.2%</b> de l'ATQ + <b>26</b> aux ennemis proches, et suspend les cibles. Ceci réduit leur vitesse de <b>50%</b> et les empêchant d'esquiver ou de sauter. La barrière dure <b>5</b> secondes et bloque les projectiles."
+    }
+  ],
+  "weapon_type": {
+    "name": "Coquille de glace",
+    "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>151%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+  },
+  "advancement": [
+    "Accroît de <b>15%</b> la capacité de fracture et régénère <b>10%</b> de PV après avoir fracturé le bouclier de la cible.",
+    "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
+    "Le passage à cette arme confère un bouclier de glace d'une valeur équivalant à <b>10%</b> des PV max. Temps de recharge : <b>20</b> secondes. Le bouclier dure jusqu'à <b>10</b> secondes.",
+    "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Accroît de <b>50%</b> les dégâts et la capacité de fracture lorsque le bouclier est actif.",
+    "Le passage à cette arme confère un bouclier de glace d'une valeur équivalant à <b>20%</b> des PV max qui vous immunise également contre les effets de contrôle tant que le bouclier est activé. Temps de recharge : <b>20</b> secondes. Le bouclier dure jusqu'à <b>10</b> secondes."
+  ],
+  "traits": [
+    {
+      "name": "Meryl : Rose fraîche",
+      "icon": true,
+      "description": "Réduit de <b>20%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
+    },
+    {
+      "name": "Meryl : Glacé",
+      "icon": true,
+      "description": "Réduit de <b>25%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Cœur de l'hiver",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Cadre d'amplification II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

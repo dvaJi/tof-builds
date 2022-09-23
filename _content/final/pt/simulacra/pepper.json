@@ -1,0 +1,171 @@
+{
+  "_id": 12,
+  "id": "pepper",
+  "name": "Pepper",
+  "weapon": "Cajado das Cicatrizes",
+  "weapon_id": "staff_of_scars",
+  "birthday": "9 de julho (Câncer)",
+  "birthplace": "Departamento Médico da Hykros",
+  "gender": "Feminino",
+  "info": "Uma enfermeira popular conhecida pela paciência, a bondade e o sorriso. Ainda que seja conhecida pela ética eficiente de trabalho, o corpo e a energia dela não conseguem acompanhar o ritmo. Junto ao perfeccionismo vem um cansaço constante.\nEla foi diagnosticada com insônia severa, ansiedade leve e obsessão. Porém, nenhum desses sintomas é óbvio, pois Pepper é muito disciplinada.",
+  "description": "Filha de uma família rica de Banges, ela recebeu uma educação acima da média e sempre foi obediente. Certo dia, ela e a família foram atacadas por anômalos enquanto saíam, e seus pais perderam os supressores. \nEles não \"morreram\": tornaram-se anômalos. Justo quando um executor ia dar fim no sofrimento deles, Pepper, que sobrevivera, implorou que não fizesse aquilo. Agora eles estão confinados em algum lugar, e a riqueza da família vai se esgotando aos poucos para arcar com os cuidados.\nÉ por isso que Pepper trabalha no departamento médico da Hykros. Ela escolheu passar o resto da vida buscando por uma forma de reverter a anomalização...",
+  "like": "Sua família, trabalho, avançar em sua pesquisa",
+  "dislike": "Hora de dormir",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda o cajado para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>25.1%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>18.8%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>30.4%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>41.4%</b> do ATQ + <b>2</b>.\nQuinto ataque: Causa dano de <b>73.2%</b> do ATQ + <b>4</b>."
+    },
+    {
+      "name": "Cajadada Elevada",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>32.5%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>23.5%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>25.5%</b> do ATQ + <b>1</b>.\nQuarto ataque: Causa dano de <b>45.6%</b> do ATQ + <b>2</b>.\nQuinto ataque: Causa dano de <b>47.7%</b> do ATQ + <b>3</b>."
+    },
+    {
+      "name": "Lua Cadente",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\nAo aterrissar, causa dano a cada <b>0,2</b> segundo até um total de <b>57.2%</b> do ATQ + <b>3</b>."
+    },
+    {
+      "name": "Ataque Determinado",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome <b>300</b> de vigor.\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os <b>suspende</b> e causa dano de <b>16.1%</b> do ATQ + <b>1</b> a cada <b>0,3</b> segundo (no máximo <b>4</b> vezes).\nSegundo ataque: A cada <b>0,3</b> segundo, causa dano de <b>18.6%</b> do ATQ + <b>1</b> ao alvo e a alvos próximos."
+    },
+    {
+      "name": "Ondulação",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Ondulação.\nCada onda de energia causa dano de <b>22.6%</b> do ATQ + <b>1</b> a alvos.\nRecupera <b>75</b> pontos de carga de arma ao usar."
+    },
+    {
+      "name": "Tesserato",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal logo após se esquivar para usar Explosão Evasiva.\nDispara um orbe de energia para frente. A cada <b>0,3</b> segundo, causa dano de <b>32.1%</b> do ATQ + <b>2</b> a alvos no caminho (no máximo 5 vezes).\nRecupera <b>75</b> pontos de carga de arma ao usar."
+    },
+    {
+      "name": "Santuário",
+      "type": [
+        "Skill"
+      ],
+      "description": "Cria um escudo energético na posição do Errante. Cura inimigos dentro do escudo em <b>81.7%</b> do ATQ + <b>4</b> por segundo e reduz o dano sofrido por eles em <b>3%</b> durante <b>10</b> segundos. Tempo de recarga: <b>60</b> seg."
+    },
+    {
+      "name": "Livramento",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>{2}%</b> do ATQ + <b>{3}</b> durante <b>7</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Raio",
+    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+  },
+  "advancement": [
+    "Cura todos os colegas em um raio de <b>10</b> metros em <b>100%</b> do ATQ após usar uma habilidade de esquiva.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>10%</b>.",
+    "Ataques normais também disparam dois mísseis. Cada um causa dano de <b>5%</b> do ATQ ao alvo e restaura <b>5</b> pontos de carga de arma.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>20%</b>.",
+    "Aumenta a velocidade de obtenção de carga de arma em <b>20%</b> (não conta para ataques de mísseis).",
+    "Quando uma habilidade anular efeitos incapacitantes do alvo, confere <b>60%</b> de redução de dano a todos os colegas dentro do raio."
+  ],
+  "traits": [
+    {
+      "name": "Pepper: Reanimação",
+      "icon": true,
+      "description": "Quando Pepper consome saciedade para restaurar vida, aumenta em <b>100%</b> o efeito de restauração."
+    },
+    {
+      "name": "Pepper: Origem",
+      "icon": true,
+      "description": "Quando Pepper consome saciedade para restaurar vida, aumenta em <b>200%</b> o efeito de restauração."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo-elétrico",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

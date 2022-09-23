@@ -1,0 +1,171 @@
+{
+  "_id": 12,
+  "id": "pepper",
+  "name": "Pepper",
+  "weapon": "Vara de cicatrices",
+  "weapon_id": "staff_of_scars",
+  "birthday": "9 de julio (Cáncer)",
+  "birthplace": "Departamento Médico de Hykros",
+  "gender": "Femenino",
+  "info": "Una popular enfermera conocida por su paciencia, amabilidad y sonrisa. Aunque es conocida por su ética de trabajo eficiente, su cuerpo y su resistencia no pueden seguir el ritmo. Junto con su perfeccionismo, se fatiga constantemente.\nSe le diagnosticó insomnio grave, ansiedad leve y obsesión, aunque ninguno de los síntomas es evidente debido a su fuerte autodisciplina.",
+  "description": "Nacida en una familia acaudalada de Banges, tuvo una educación refinada y siempre se comportó bien. Un día, ella y su familia fueron atacados por aberrantes y sus padres perdieron sus supresores. \nEllos no \"murieron\", se convirtieron en aberrantes. Justo antes de que un Ejecutor acabara con su miseria, Pepper, quien sobrevivió, le rogó que no lo hiciera. Ahora los mantiene en confinamiento en algún lado y agota las riquezas familiares poco a poco para pagar por sus cuidados.\nPor eso Pepper trabaja en el Departamento Médico de Hykros. Eligió pasar el resto de su vida buscando una forma de revertir la aberración...",
+  "like": "Sus padres, el trabajo, avanzar en su investigación",
+  "dislike": "La hora de dormir",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, blande la vara y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>25.1%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>18.8%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>30.4%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>41.4%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>73.2%</b> del ATQ + <b>4</b>."
+    },
+    {
+      "name": "Ráfaga elevada",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>32.5%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.5%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>25.5%</b> del ATQ + <b>1</b>.\nCuarto ataque: inflige daño equivalente al <b>45.6%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>47.7%</b> del ATQ + <b>3</b>."
+    },
+    {
+      "name": "Cascada lunar",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal en el aire para activar Cascada lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> segundos, por un total de daño equivalente al <b>57.2%</b> del ATQ + <b>3</b>."
+    },
+    {
+      "name": "Asalto enfocado",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar ataques de ráfaga, que consumen <b>300</b> puntos de resistencia.\nPrimer ataque: atrae enemigos ubicados frente al usuario, los <b>suspende</b> e inflige daño equivalente al <b>16.1%</b> del ATQ + <b>1</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: inflige daño equivalente al <b>18.6%</b> del ATQ + <b>1</b> a la ubicación del objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
+    },
+    {
+      "name": "Sobrecarga",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Sobrecarga.\nCada ola de energía inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
+    },
+    {
+      "name": "Teseracto",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal un poco después de esquivar para activar Explosión evasiva.\nDispara un orbe de energía hacia adelante, lo que inflige daño equivalente al <b>32.1%</b> del ATQ + <b>2</b> a los objetivos en el camino cada <b>0.3</b> segundos (hasta 5 veces).\nOtorga <b>75</b> puntos de carga de arma al usarse."
+    },
+    {
+      "name": "Santuario",
+      "type": [
+        "Skill"
+      ],
+      "description": "Crea un escudo de energía en la posición del nómada. Cura a los aliados dentro del escudo el equivalente al <b>81.7%</b> del ATQ + <b>4</b> cada segundo y reduce el daño recibido en un <b>3%</b> durante <b>10</b> segundos. <b>60</b> segundos de enfriamiento."
+    },
+    {
+      "name": "Liberación rápida",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y el bastón continúa removiendo desventajas del nómada y los aliados, y además cura un <b>{2}%</b> del ATQ + <b>{3}</b> de sus PS durante <b>7</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eléctrico",
+    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>106%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+  },
+  "advancement": [
+    "Cura a todos los compañeros de grupo en un radio de <b>10</b> metros por <b>100%</b> del ATQ luego de utilizar una habilidad para esquivar.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>10%</b>.",
+    "Los ataques normales también lanzan dos misiles, cada uno de los cuales inflige daño equivalente al <b>5%</b> del ATQ del objetivo y recuperan <b>5</b> puntos de carga de arma.",
+    "Aumenta el crecimiento de los PS base del arma actual en un <b>20%</b>.",
+    "Aumenta la velocidad de adquisición de carga de arma en un <b>20%</b> (no aplicable a los ataques de misiles).",
+    "Otorga a todos los compañeros de grupo cercanos <b>60%</b> de reducción de daño cada vez que una habilidad remueva efectos de control del objetivo."
+  ],
+  "traits": [
+    {
+      "name": "Pepper: Resurrección",
+      "icon": true,
+      "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>100%</b>."
+    },
+    {
+      "name": "Pepper: Fuente",
+      "icon": true,
+      "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>200%</b>."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Núcleo magnético",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón reforzado I",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

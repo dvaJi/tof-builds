@@ -1,0 +1,277 @@
+{
+  "_id": 13,
+  "id": "samir",
+  "name": "Samir",
+  "weapon": "Dual EM Stars",
+  "weapon_id": "dual_em_stars",
+  "birthday": "20 May (Taurus)",
+  "birthplace": "Hykros",
+  "gender": "Female",
+  "info": "Lazy and self-indulgent, Samir enjoys harmless jokes and pranks.\nWhile technically a Hykros Executor, and even though she possesses extraordinary strength, Samir's lazy and unreliable personality is an issue. Her habit of playing jokes on colleagues leaves everyone who works with her on edge, and her reputation is not wholly positive. Samir herself, however, doesn't seem to care.",
+  "description": "Her past is riddled with questions.\nCurrently, it is known that she was an orphan adopted by a Banges resident. She joined Hykros after reaching adulthood, and became an Executor after training.\n\nShe's a great shot, even among the elite Executors. Hykros once considered asking her to become the instructor for new recruits, but gave up on the idea because her personality just didn't match.",
+  "like": "Solving puzzles and murder mysteries",
+  "dislike": "Unknown",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10.7,
+  "skills": [
+    {
+      "name": "Dual Fire",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal total damage equal to <b>47.1%</b> of ATK + <b>2</b>.\nSecond Attack: Deal total damage equal to <b>35.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal total damage equal to <b>119.7%</b> of ATK + <b>6</b>.\nFourth attack: Deal total damage equal to <b>113.1%</b> of ATK + <b>6</b>.\nFifth Attack: Deal total damage equal to <b>154%</b> of ATK + <b>8</b> and <b>launch</b> the target."
+    },
+    {
+      "name": "Bullet Rain",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, tap normal attack to fire continuously at the ground, dealing damage equal to <b>50.6%</b> of ATK + <b>3</b> damage, each hit consumes <b>150</b> endurance."
+    },
+    {
+      "name": "Energy Burst",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Hold attack button to maintain constant fire, each hit dealing <b>23%</b> of ATK + <b>1</b> base damage."
+    },
+    {
+      "name": "Phantom Kick",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to <b>70.5%</b> of ATK + <b>4</b>. Upon landing, deal damage equal to <b>98.7%</b> of ATK + <b>5</b> to nearby targets and <b>launch</b> them."
+    },
+    {
+      "name": "Rising Lightning Kick",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack after dodging to <b>strongly suspend</b> targets and deal damage equal to <b>122.6%</b> of ATK + <b>6</b>."
+    },
+    {
+      "name": "Electro Field",
+      "type": [
+        "Skill"
+      ],
+      "description": "Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to <b>269.8%</b> of ATK + <b>14</b>, and the last hit <b>strongly suspends</b> targets. Cooldown: <b>45</b>-seconds."
+    },
+    {
+      "name": "Domain of Thunder",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and create a Domain of Thunder at the target location upon switching to this weapon, <b>strongly suspending</b> targets within the area and dealing a total of <b>238.3%</b> of ATK + <b>13</b> damage over 3 attacks to them while dispelling their buffs. The domain lasts for <b>3.5</b> seconds and deals damage equal to <b>42.4%</b> of ATK + <b>2</b> to a target every <b>0.5</b> seconds."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+  },
+  "advancement": [
+    "Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <b>30%</b> of ATK to the target and nearby enemies. Cooldown: <b>0.2</b> seconds.",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "Increase crit rate to electrified targets by <b>40%</b>. Electrical explosions extend the duration of electrified effects by <b>0.5</b> seconds, up to a maximum of <b>5</b> seconds.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "Double the duration of Electro Field and pull targets into the center of the attack.",
+    "Triggering an electrical explosion reduces skill cooldowns by <b>1</b> second."
+  ],
+  "traits": [
+    {
+      "name": "Samir: Trickery",
+      "icon": true,
+      "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>3%</b>, and can stack up to <b>4</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>1</b> second."
+    },
+    {
+      "name": "Samir: Shadow",
+      "icon": true,
+      "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>4%</b>, and can stack up to <b>5</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>2</b> second."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Heart of lightning",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

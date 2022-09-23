@@ -1,0 +1,289 @@
+{
+  "_id": 11,
+  "id": "nemesis",
+  "name": "Nemesis",
+  "weapon": "Venus",
+  "weapon_id": "venus",
+  "birthday": "23 Mei (Gemini)",
+  "birthplace": "Angel of Clemency",
+  "gender": "Perempuan",
+  "info": "Setelah restrukturisasi yang meliputi prosedur seperti cuci otak, penghapusan ingatan, dan implan karakter kedua, emosinya jadi cukup labil selama beberapa saat. \nKarakter orisinal Shirli ditekan paksa. Untungnya, segalanya akhirnya pulih, dengan sedikit sisa kekhawatiran akan potensi ancaman. \nYang jelas, dia tak bisa lagi kembali menjadi Shirli yang penuh semangat, tapi dia bisa pulih menjadi seorang gadis biasa. \nKeraguan akan keberadaannya masih melekat, yang menjadi wujud kegelisahan dan luka yang tersisa pada dirinya. Yah... setidaknya dia bisa mengumpulkan keberanian saat menghadapi berbagai hal, yang merupakan pertanda awal yang baik.",
+  "description": "Seorang Angel of Clemency yang baru terlahir dari restrukturisasi Shirli, seorang perawat magang di Astra Shelter, yang separuh daging dan sarafnya diganti dengan mekanisme dan sirkuit.\n\nSebagai manusia, dia pernah menderita impuls langsung dari Omnium Radiation karena Suppressor yang rusak. Tapi, sebelum sepenuhnya mengalami Aberration, dia dikirim ke Heirs of Aida untuk menjalani pengobatan eksperimental yang secara ajaib sukses. \n\nKarena restrukturisasinya belum lama selesai, dia adalah yang paling tidak stabil dari semua Angel of Clemency, tapi juga yang mempunyai teknologi terbaru Heirs of Aida.",
+  "like": "Menggambar, teka-teki gambar, dan soda jeruk",
+  "dislike": "Serangga dan mengejutkan",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Memulai 5 serangan berturut-turut dengan Balmung saat di darat.\nSerangan yang pertama menimpakan damage sebanyak <b>50.8%</b> ATK + <b>3</b> dan memberikan Knockback kecil.\nSerangan yang kedua menimpakan damage sebanyak <b>36.3%</b> ATK + <b>2</b> dan memberikan Knockback kecil.\nSerangan yang ketiga menimpakan damage sebanyak <b>98.3%</b> ATK + <b>5</b> dan memberikan Knockback kecil.\nSerangan yang keempat menimpakan damage sebanyak <b>67.3%</b> ATK + <b>4</b> dan memberikan Knockback kecil.\nSerangan yang kelima menimpakan damage sebanyak <b>148.3%</b> ATK + <b>8</b> dan menjatuhkan target."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>62.5%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>62%</b> ATK + <b>5</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>3%</b> ATK + <b>120</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>6%</b> ATK + <b>71.2</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>4%</b> ATK + <b>126</b>."
+    },
+    {
+      "name": "Forward Pursuit",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack kedua, tahan Normal Attack untuk mengaktifkan Forward Pursuit.\nTembakkan peluru kendali laser ke arah target, menimpakan damage sebanyak <b>107.5%</b> ATK + <b>6</b>."
+    },
+    {
+      "name": "Dual Focus",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tahan Normal Attack untuk mengisi tembakan dan melepaskan bola listrik yang meledak saat mengenai target, dan menimpakan damage sebanyak <b>118.4%</b> ATK + <b>6</b> kepada musuh di sekitar."
+    },
+    {
+      "name": "Twin Spinning Focus",
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack dalam jangka waktu Perfect Attack yang singkat untuk mengaktifkan medan magnet lambat.\nVenus menembakkan Orb yang maju sejauh jarak tertentu dan meledak saat menyentuh target. Menimpakan damage sebanyak <b>171.6%</b> ATK + <b>9</b>, dan menghasilkan medan magnet lambat selama <b>3</b> detik, yang mengurangi kecepatan gerak dan kecepatan serang semua musuh yang terjebak di dalamnya sebanyak <b>35%</b>.\nJika menghindar, Healing Chain yang menyembuhkan teman di sekitar sebanyak <b>67,7%</b> ATK Wanderer akan diaktifkan; pada <b>10</b> detik berikutnya, Healing Chain kecil akan diaktifkan setiap <b>2</b> detik, yang akan menyembuhkan teman di sekitar sebanyak <b>22,5%</b> ATK Wanderer. Jika menghindar, <b>1</b> tumpuk Enhance Healing Chain akan diberikan, yang meningkatkan efek Healing Chain sebanyak <b>25%</b> (bisa ditumpuk maks. <b>5</b> kali) dan bertahan selama <b>30</b> detik. Jika beralih senjata, efek ini akan dibatalkan."
+    },
+    {
+      "name": "Parallel Beam",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk Normal Attack dalam jangka waktu Perfect Dodge yang singkat (ketuk tombol arah sambil menghindar) untuk mengaktifkan Parallel Beam.\nVenus menembakkan sepasang sinar energi paralel, yang menimpakan damage tusuk sebanyak <b>171.6%</b> ATK + <b>9</b>.\nJika menghindar, Healing Chain yang menyembuhkan teman di sekitar sebanyak <b>67,7%</b> ATK Wanderer akan diaktifkan; pada <b>10</b> detik berikutnya, Healing Chain kecil akan diaktifkan setiap <b>2</b> detik, yang akan menyembuhkan teman di sekitar sebanyak <b>22,5%</b> ATK Wanderer. Jika menghindar, <b>1</b> tumpuk Enhance Healing Chain akan diberikan, yang meningkatkan efek Healing Chain sebanyak <b>25%</b> (bisa ditumpuk maks. <b>5</b> kali) dan bertahan selama <b>30</b> detik. Jika beralih senjata, efek ini akan dibatalkan."
+    },
+    {
+      "name": "Pulse Lock",
+      "type": [
+        "Skill"
+      ],
+      "description": "Venus menembakkan peluru kendali yang meledak saat menyentuh target musuh, menimpakan damage sebanyak <b>233.2%</b> ATK + <b>12</b> dan menjatuhkan target. Cooldown <b>25</b> detik."
+    },
+    {
+      "name": "Particle Beam Burst",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, dengan beralih ke senjata ini, <b>semua debuff dari pengguna akan dihilangkan</b> dan memerintah Venus untuk menembakkan sinar berbentuk silang ke tanah, membentuk area yang tidak stabil dan mengurangi kecepatan gerak target sebanyak <b>70%</b> selama <b>5</b> detik. Setelah penundaan singkat, melepaskan Electromagnetic Burst yang menimpakan damage sebanyak <b>393.9%</b> ATK + <b>21</b>.\nJika menggunakan Discharge Attack, <b>1</b> Electrode di dekat posisi musuh akan muncul dan menyerang satu kali setiap <b>1,5</b> detik, menimpakan damage sebanyak <b>39.9%</b> ATK + <b>2</b>.\nElectrode mendapat <b>100%</b> stat Wanderer, bisa diserang atau disembuhkan, dan kehilangan <b>3%</b> Max HP setiap detik.\nHanya boleh ada <b>1</b> Electrode dalam satu waktu, dan jika memanggil Electrode baru, yang sebelumnya akan digantikan olehnya."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+  },
+  "weapon_resonance": {
+    "name": "Volt Resonance",
+    "description": "<b>Volt Resonance</b>: Meningkatkan Volt ATK sebesar <b>15%</b> dan Volt Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Volt Weapon atau lebih. Efek set ini tidak bisa digunakan dengan yang lain."
+  },
+  "advancement": [
+    "Setelah menggunakan <b>Pulse Lock</b> atau <b>Particle Beam Burst</b>, menciptakan <b>1</b> Electrode yang seketika memberi pengguna <b>5</b> tumpuk Healing Chain Enhance. Sebagai tambahan, melepaskan Healing Chain yang menyembuhkan teman di sekitar sebanyak <b>135%</b> ATK Wanderer.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Setiap <b>6</b> detik, Electrode akan melepaskan <b>Ring Lightning</b>, yang menimbulkan damage hingga <b>205%</b> ATK di area target.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Setelah menggunakan <b>Pulse Lock</b>, meningkatkan ATK Wanderer sebesar (<b>6,5</b> + (Jumlah Electrode x<b>6,5</b>))% selama <b>25</b> detik.",
+    "Maksimum <b>2</b> Electrode bisa aktif bersamaan. Memanggil lebih banyak Electrode akan menggantikan Electrode yang jaraknya terjauh dari pengguna."
+  ],
+  "traits": [
+    {
+      "name": "Nemesis: Metamorphosis",
+      "icon": true,
+      "description": "Setelah memanggil Electrode, menimpakan Volt Damage sebanyak <b>60%</b> ATK pada semua musuh dalam radius <b>30</b> meter dari Electrode dan menyembuhkan semua teman (termasuk pengguna) dalam jangkauannya sebanyak <b>120%</b> ATK."
+    },
+    {
+      "name": "Nemesis: Sublimation",
+      "icon": true,
+      "description": "Setelah memanggil Electrode, menimpakan Volt Damage sebanyak <b>100%</b> ATK pada semua musuh dalam radius <b>30</b> meter dari Electrode dan menyembuhkan semua teman (termasuk pengguna) dalam jangkauannya sebanyak <b>200%</b> ATK."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "Magcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "Heart of Lightning",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

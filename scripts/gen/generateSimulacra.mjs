@@ -19,6 +19,7 @@ const MapsDATA_PATH = path.join(__dirname, "..", "..", "maps");
 const locales = ["en", "es", "de", "fr", "id", "ja", "pt", "th"];
 
 export async function main() {
+  const allCharacterByLocale = {};
   for (const locale of locales) {
     const allCharacters = [];
     const textMap = JSON.parse(
@@ -58,7 +59,7 @@ export async function main() {
         shatter: simulacra.shatter,
         charge: simulacra.charge,
         skills: simulacra.skills.map((skill) => ({
-          name: formatDescription(textMap[""][skill.name]),
+          name: formatDescription(textMap[""][skill.name] ? textMap[""][skill.name] : ''), // FIXME: THIS SHOULD FALLBACK TO ENGLISH
           type: skill.type,
           description: formatDescription(
             textMap[""][skill.description],
@@ -141,7 +142,14 @@ export async function main() {
       path.join(DATA_PATH, locale, "simulacra.json"),
       JSON.stringify(allCharacters, undefined, 2)
     );
+
+    allCharacterByLocale[locale] = allCharacters;
   }
+
+  fs.writeFileSync(
+    path.join(DATA_PATH, "simulacra_final.json"),
+    JSON.stringify(allCharacterByLocale)
+  );
 }
 
 /**
