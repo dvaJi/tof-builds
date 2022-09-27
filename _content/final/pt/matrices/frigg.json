@@ -1,0 +1,33 @@
+{
+  "_id": 28,
+  "id": "frigg",
+  "name": "Frigg",
+  "suitName": "Coração de Ferro, Alma de Ferro",
+  "hash": "SSR15",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4,
+      "value": "Ao desencadear uma Área Gélida com a arma Balmung, inimigos dentro dela sofrem dano gélido de 55%/65%/75%/85% do ATQ a cada segundo."
+    }
+  ],
+  "mind": {
+    "name": "Lâmina-Anímica",
+    "desc": "Eu vou cortar sua ganância pelas coisas proibidas."
+  },
+  "memory": {
+    "name": "Pós-Cataclismo",
+    "desc": "Minha família... meus amigos... Agora só resta eu..."
+  },
+  "belief": {
+    "name": "Perspectiva",
+    "desc": "Você tem sua definição, então o que eu considero justiça?"
+  },
+  "emotion": {
+    "name": "Dúvida",
+    "desc": "Quem está por trás disso tudo? Alguém sabe me dizer?"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "huma",
+  "name": "Huma",
+  "suitName": "Slightly Awakened",
+  "hash": "SSR10",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Menyerang target dengan Dodge Skill mengakibatkan pendarahan, menimpakan damage sebesar 15%/19%/22,5%/26% ATK setiap detik selama 5 detik."
+    },
+    {
+      "count": 4,
+      "value": "Mengurangi ATK semua target dalam radius 8 meter yang menerima Damage over Time sebesar 10%/12%/13%/15%. Jika didapatkan berulang kali, yang akan berlaku cuma yang levelnya paling tinggi."
+    }
+  ],
+  "mind": {
+    "name": "Disoriented",
+    "desc": "Bayi burung keluar dari cangkangnya karena dorongan insting untuk melihat cahaya."
+  },
+  "memory": {
+    "name": "Blank Slate",
+    "desc": "Mulai menulis program untuk kepribadian yang benar-benar baru sekarang."
+  },
+  "belief": {
+    "name": "Easy Does It",
+    "desc": "Mengalami amnesia seperti dirimu, dan selalu mencoba untuk melakukan apa pun yang bisa dikerjakan lebih dulu."
+  },
+  "emotion": {
+    "name": "Innocent",
+    "desc": "Ekspresi kaku adalah bagian dari wujudnya."
+  }
+}

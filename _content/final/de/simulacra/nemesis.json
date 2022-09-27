@@ -97,12 +97,12 @@
   ],
   "traits": [
     {
-      "name": "Nemesis: Metamorphose",
+      "name": "Metamorphose",
       "icon": true,
       "description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von <b>30</b> Metern um die Elektrode Voltschaden in Höhe von <b>60%</b> des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um <b>120%</b> des ANG."
     },
     {
-      "name": "Nemesis: Sublimierung",
+      "name": "Sublimierung",
       "icon": true,
       "description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von <b>30</b> Metern um die Elektrode Voltschaden in Höhe von <b>100%</b> des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um <b>200%</b> des ANG."
     }

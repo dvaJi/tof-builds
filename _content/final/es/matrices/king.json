@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "king",
+  "name": "KING",
+  "suitName": "Defensor de la violencia",
+  "hash": "SSR4",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Cuando un objetivo es destruido, otorga un 8%/10%/12%/14% de refuerzo de daño por 25 segundos. Solo se aplica el mayor nivel cuando se obtiene el mismo efecto repetidas veces."
+    },
+    {
+      "count": 4,
+      "value": "Cuando hay 2 o más enemigos, los golpes restauran PS iguales al 14%/18%/22%/26% del daño infligido al atacar. Los PS máximos restaurados cada 0.5 segundos no pueden exceder un 36%/42%/48%/54% del ATQ."
+    }
+  ],
+  "mind": {
+    "name": "líder del submundo",
+    "desc": "Una buena reputación no cambia el hecho de tener los bolsillos vacíos, así que llenémoslos primero y preguntemos después."
+  },
+  "memory": {
+    "name": "vivir para luchar",
+    "desc": "Los mineros trabajan como zombis. Te convertirás en uno de ellos si no te escapas a tiempo."
+  },
+  "belief": {
+    "name": "buscaemociones",
+    "desc": "Busca las emociones y el placer desmesurado... y eso no incluye aspiraciones profesionales."
+  },
+  "emotion": {
+    "name": "hombre ejército",
+    "desc": "Luchar solo con los puños tiene su límite, y eso es algo que aprendió a temprana edad."
+  }
+}

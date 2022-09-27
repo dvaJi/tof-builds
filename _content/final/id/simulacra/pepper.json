@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Pepper: Revival",
+      "name": "Revival",
       "icon": true,
       "description": "Saat Pepper memakai Satiety untuk memulihkan HP, meningkatkan efek pemulihan sebanyak <b>100%</b>."
     },
     {
-      "name": "Pepper: Source",
+      "name": "Source",
       "icon": true,
       "description": "Saat Pepper memakai Satiety untuk memulihkan HP, meningkatkan efek pemulihan sebanyak <b>200%</b>."
     }

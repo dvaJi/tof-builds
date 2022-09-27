@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Tsubasa: Temporal",
+      "name": "Temporal",
       "icon": true,
       "description": "Cada vez que Tsubasa causa dano, recebe <b>1</b> acúmulo de Golpe Feroz, até <b>1</b> acúmulo por <b>1</b> segundo. Cada acúmulo adiciona <b>0,5%</b> de ATQ, até <b>15</b> acúmulos. Atualiza a duração do efeito ao receber o efeito de novo. Esse efeito dura <b>30</b> segundos."
     },
     {
-      "name": "Tsubasa: Ondas Impetuosas",
+      "name": "Ondas Impetuosas",
       "icon": true,
       "description": "Cada vez que Tsubasa causa dano, recebe <b>1</b> acúmulo de Golpe Feroz, até <b>1</b> acúmulo por <b>1</b> segundo. Cada acúmulo adiciona <b>0,6%</b> de ATQ, até <b>30</b> acúmulos. Atualiza a duração do efeito ao receber o efeito de novo. Esse efeito dura <b>30</b> segundos."
     }

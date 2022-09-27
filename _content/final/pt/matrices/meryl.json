@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "meryl",
+  "name": "Meryl",
+  "suitName": "Guardião Alvíssimo",
+  "hash": "SSR1",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Se a vida ficar abaixo de 30% após sofrer um ataque, ganha um escudo equivalente a 20%/26%/32%/40% da vida máxima durante 10 segundos. Tempo de recarga: 90 seg."
+    },
+    {
+      "count": 4,
+      "value": "Aumenta o dano do Redemoinho em 36%/45%/54%/63% e restaura vida equivalente a 30%/38%/44%/50% do dano causado enquanto Redemoinho estiver ativo. O máximo de vida restaurada a cada 0,5 segundo não deve exceder 60%/72%/81%/90% do ATQ."
+    }
+  ],
+  "mind": {
+    "name": "Simulação de Luta de Espadas",
+    "desc": "Uma simulação complexa de luta de espadas que parece ser utilizada para calibragem. Enfim, não é algo para pessoas comuns."
+  },
+  "memory": {
+    "name": "Chamado do Despertar",
+    "desc": "Fragmentos de memória encadeados utilizados para introduzir consciência. Não vem com manual de instruções."
+  },
+  "belief": {
+    "name": "Autoridade Absoluta",
+    "desc": "Claramente representa a autoaprovação e o reconhecimento externo do poder de um Executor."
+  },
+  "emotion": {
+    "name": "Desapego",
+    "desc": "Barreiras mentais de comunicação criadas por rejeitar toda e qualquer socialização."
+  }
+}

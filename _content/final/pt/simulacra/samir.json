@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Samir: Travessura",
+      "name": "Travessura",
       "icon": true,
       "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>3%</b> (acumula até <b>4</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>1</b> segundo)."
     },
     {
-      "name": "Samir: Sombra",
+      "name": "Sombra",
       "icon": true,
       "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>4%</b> (acumula até <b>5</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>2</b> segundo)."
     }

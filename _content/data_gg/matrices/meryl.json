@@ -1,0 +1,15 @@
+{
+  "name": "Meryl",
+  "id": "meryl",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "If HP is less than 30% after being attacked, gain a shield equal to <b>20%/26%/32%/40%</b> of Max HP for 10 seconds. Cooldown: 90 seconds."
+    },
+    {
+      "count": 4,
+      "value": "During the effect of the shield, restore HP equal to <b>60%/75%/90%/105%</b> of the damage dealt. The max HP restored every 0.5 seconds should not exceed <b>105%/127.5%/150%/172.5%</b> of ATK."
+    }
+  ]
+}

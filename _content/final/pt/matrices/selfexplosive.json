@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "selfexplosive",
+  "name": "Autoexplosivo",
+  "suitName": "Autoexplosivo",
+  "hash": "R1",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta em 6% o dano causado por armas de fogo."
+    }
+  ],
+  "mind": {
+    "name": "Núcleo Explosivo",
+    "desc": "O núcleo de Omnium brilha forte lá dentro."
+  },
+  "memory": {
+    "name": "Fio Atador",
+    "desc": "Claro, não é o fio de verdade. O criador só queria provocar medo."
+  },
+  "belief": {
+    "name": "Teia do Terror",
+    "desc": "As pessoas geralmente têm mais medo de ver uma aranha do que do mal que ela pode causar."
+  },
+  "emotion": {
+    "name": "Apinhado",
+    "desc": "Seria um pesadelo ter que lidar com grupos delas."
+  }
+}

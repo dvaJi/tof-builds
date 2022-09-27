@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "samir",
+  "name": "Samir",
+  "suitName": "Rationale Befreiung",
+  "hash": "SSR9",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht den Schaden um 1%, wenn ein Ziel getroffen wird. Bis zu 10/13/16/20-mal stapelbar. Hält 1,5 Sek. an."
+    },
+    {
+      "count": 4,
+      "value": "Erhöht den Schaden der elektrischen Explosion von Doppel-EM-Sterne um 16%/22%/30%/40% des ANG."
+    }
+  ],
+  "mind": {
+    "name": "Kleiner Scherz",
+    "desc": "Wenn du ihre Witze als kitschig bezeichnet würdest, würde sie antworten: „Warum denn so ernst?“"
+  },
+  "memory": {
+    "name": "Liebe Verstorbene",
+    "desc": "Jemand, der in der Vergangenheit lebt, ist unerreichbar und kann nicht loslassen."
+  },
+  "belief": {
+    "name": "Silberkugel",
+    "desc": "Sie besitzt eine Silberkugel. Jagt sie Vampire?"
+  },
+  "emotion": {
+    "name": "Zukunftsfokus",
+    "desc": "Sie ist sich ihres Schicksals immer sicher."
+  }
+}

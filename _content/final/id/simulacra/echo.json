@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "Echo: Uprightness",
+      "name": "Uprightness",
       "icon": true,
       "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>4%</b> (kecuali Echo)."
     },
     {
-      "name": "Echo: Determination",
+      "name": "Determination",
       "icon": true,
       "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>6%</b> (kecuali Echo)."
     }

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "selfexplosive",
+  "name": "Self-explosive",
+  "suitName": "Self-explosive",
+  "hash": "R1",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan damage yang ditimpakan oleh Flame Weapon sebesar 6%."
+    }
+  ],
+  "mind": {
+    "name": "Explosive Core",
+    "desc": "Inti Omnium menyala terang di dalamnya."
+  },
+  "memory": {
+    "name": "Binding Thread",
+    "desc": "Bukan benang sungguhan, tentu saja. Pembuatnya hanya ingin menakuti-nakuti."
+  },
+  "belief": {
+    "name": "Web of Dread",
+    "desc": "Tatapan laba-laba sering kali lebih menakutkan ketimbang bahaya yang ditimbulkannya."
+  },
+  "emotion": {
+    "name": "Overwhelm",
+    "desc": "Mereka akan jadi mimpi buruk jika harus ditangani dalam kelompok."
+  }
+}

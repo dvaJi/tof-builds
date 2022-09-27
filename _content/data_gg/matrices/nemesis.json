@@ -1,0 +1,15 @@
+{
+  "name": "Nemesis",
+  "id": "nemesis",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When a target is being healed, their volt ATK is increased by <b>8%/10%/12%/15%</b> for 20 seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly."
+    },
+    {
+      "count": 4,
+      "value": "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning\". The next attack within 30 seconds will cast lightning upon the target, dealing volt damage equal to <b>240%/300%/360%/420%</b> of volt ATK, and damage caused by Electrodes is reduced by 50%. Cannot be triggered more than once in 10 seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "sobek",
+  "name": "Sobek",
+  "suitName": "Sombra do Pântano",
+  "hash": "SR4",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta o dano causado em 6%/7,5%/9% para cada inimigo próximo. Acumula até 3 vezes."
+    }
+  ],
+  "mind": {
+    "name": "Esquema",
+    "desc": "Cuidado para não cair no lamaçal em que ele está."
+  },
+  "memory": {
+    "name": "Oportunidade",
+    "desc": "Aguarda sempre com muita paciência até que um desafortunado pise nele."
+  },
+  "belief": {
+    "name": "Confusão",
+    "desc": "Não está se mexendo. Será que está dormindo ou só poupando energia?"
+  },
+  "emotion": {
+    "name": "Inquietação",
+    "desc": "Ele também fica entediado, e, quando chega ao limite, quem acaba pagando o pato é uma pessoa inocente."
+  }
+}

@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Cocoritter: Assistência",
+      "name": "Assistência",
       "icon": true,
       "description": "Quando Cocoritter usa uma arma de suporte, os efeitos de cura que ela inflige e recebe aumentam em <b>20%</b>."
     },
     {
-      "name": "Cocoritter: Confiança",
+      "name": "Confiança",
       "icon": true,
       "description": "Aumenta a cura realizada e a cura recebida em <b>20%</b> quando Cocoritter usa uma armas de suporte. Aumenta o ATQ de aliados próximos em <b>15%</b> por <b>5</b> segundos quando Cocoritter usa a habilidade de descarga ou a habilidade de arma de uma arma de suporte."
     }

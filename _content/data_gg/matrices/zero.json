@@ -1,0 +1,15 @@
+{
+  "name": "Zero",
+  "id": "zero",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to <b>120%/150%/180%/210%</b> of ATK for 4 seconds."
+    },
+    {
+      "count": 4,
+      "value": "While the shield is active, you and your teammates deal <b>16%/20%/24%/28%</b> more damage."
+    }
+  ]
+}

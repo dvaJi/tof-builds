@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "zero",
+  "name": "Zero",
+  "suitName": "Unglaubliche Verbindung",
+  "hash": "SSR8",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Bei der Verwendung der Entladungsfähigkeit, um zur aktuellen Waffe zu wechseln, erhält der Anwender für 6 Sek. einen Schild in Höhe von 150%/200%/250%/300% des ANG."
+    },
+    {
+      "count": 4,
+      "value": "Während der Schild aktiviert ist, verursachen der Anwender und seine Teammitglieder um 16%/20%/24%/28% erhöhten Schaden."
+    }
+  ],
+  "mind": {
+    "name": "Paranormale Berechnung",
+    "desc": "Überwinde die Logik, untergrabe die Realität und verzichte vollständig auf Formeln, die auf Erfahrung basieren, um zum endgültigen Ergebnis zu gelangen."
+  },
+  "memory": {
+    "name": "Endprotokoll",
+    "desc": "Erinnerungen sind lediglich eine Sache der Prägung. Ob sie echt oder falsch sind, musst du selbst entscheiden."
+  },
+  "belief": {
+    "name": "Info-Sortierung",
+    "desc": "Durch das Sortieren ungeordneter Informationen und Daten erhält man aussagekräftige Ergebnisse."
+  },
+  "emotion": {
+    "name": "Der Stärkste überlebt",
+    "desc": "Das Überleben des Stärksten ist das Gesetz der Natur und die Manifestation der Überlegenheit des Einzelnen."
+  }
+}

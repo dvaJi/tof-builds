@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "functional_dash",
+  "name": "Functional Dash",
+  "suitName": "Functional Dash",
+  "hash": "R2",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan damage yang ditimpakan oleh Frost Weapon sebesar 6%."
+    }
+  ],
+  "mind": {
+    "name": "Hauler",
+    "desc": "Ia hilir-mudik maju-mundur antara tambang dan trek."
+  },
+  "memory": {
+    "name": "Restart",
+    "desc": "Kendaraan bisa menyerang jika menerima perintah baru."
+  },
+  "belief": {
+    "name": "Mind of Machine",
+    "desc": "Modifikasi siber tanpa kehendak bebas apa pun akan menjalankan perintah seperti layaknya mesin."
+  },
+  "emotion": {
+    "name": "Bullseye",
+    "desc": "Keunggulan terbesar dalam modifikasi adalah serangan presisi yang tidak terhalang oleh emosi atau kepekaan."
+  }
+}

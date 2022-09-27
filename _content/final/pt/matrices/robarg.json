@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "robarg",
+  "name": "Robarg",
+  "suitName": "Devorador",
+  "hash": "SR1",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Quando um alvo é despedaçado, envenena o alvo e causa dano de 45%/56%/67,5% do ATQ a cada segundo durante 10 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Ganância",
+    "desc": "Enraizado na avareza e sempre querendo mais."
+  },
+  "memory": {
+    "name": "Instinto",
+    "desc": "Seu instinto está sempre em ação."
+  },
+  "belief": {
+    "name": "Exaustão",
+    "desc": "Devora tudo, desde corpo e energia até a sua vontade de viver."
+  },
+  "emotion": {
+    "name": "Até o Fim",
+    "desc": "Não vê a hora de acabar."
+  }
+}

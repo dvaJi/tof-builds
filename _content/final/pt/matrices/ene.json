@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "ene",
+  "name": "Ene",
+  "suitName": "Sobrecarga",
+  "hash": "SR8",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Quando causa dano maior do que 100% do ATQ, causa dano adicional igual a 60%/75%/90% do ATQ. Tempo de recarga: 3 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Competitiva",
+    "desc": "O resultado acelerado quando houver aumento de poder também irá se refletir em leves tremores na arma."
+  },
+  "memory": {
+    "name": "Sem Limites",
+    "desc": "O Laboratório de Supressores da Hykros ainda não se esqueceu de como ela resistiu."
+  },
+  "belief": {
+    "name": "Segunda Vida",
+    "desc": "Um corpo sem dor irá funcionar até o último resquício de energia se não for completamente destruído."
+  },
+  "emotion": {
+    "name": "Foto de Família",
+    "desc": "Só foi tirada depois de o pai dela insistir muito."
+  }
+}

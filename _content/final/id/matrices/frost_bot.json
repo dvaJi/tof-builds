@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "frost_bot",
+  "name": "Frost Bot",
+  "suitName": "Extreme Zero",
+  "hash": "SR3",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Saat HP kurang dari 40%, jika menggunakan Discharge Skill untuk beralih ke senjata saat ini, HP akan dipulihkan sebesar 160%/200%/240% ATK."
+    }
+  ],
+  "mind": {
+    "name": "Do Not Underestimate",
+    "desc": "Meskipun ia tampak seperti makanan, kita tetap harus waspada."
+  },
+  "memory": {
+    "name": "Swift End",
+    "desc": "Sistem tempur armor ini hanya punya satu tujuan: Selesaikan pertarungan secepat mungkin."
+  },
+  "belief": {
+    "name": "Quick Freeze",
+    "desc": "Bekukan sekitar dengan balok-balok es."
+  },
+  "emotion": {
+    "name": "Ruthless",
+    "desc": "Sebaiknya jangan dilawan."
+  }
+}

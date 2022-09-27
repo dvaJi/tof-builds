@@ -86,12 +86,12 @@
     ],
     "traits": [
       {
-        "name": "Bai Ling: Tapferkeit",
+        "name": "Tapferkeit",
         "icon": true,
         "description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für <b>12</b> Sek. um <b>8%</b>. Abklingzeit: <b>60</b> Sek."
       },
       {
-        "name": "Bai Ling: Entschlossenheit",
+        "name": "Entschlossenheit",
         "icon": true,
         "description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für <b>12</b> Sek. um <b>15%</b>. Abklingzeit: <b>60</b> Sek."
       }
@@ -257,12 +257,12 @@
     ],
     "traits": [
       {
-        "name": "Cocolita: Unterstützung",
+        "name": "Unterstützung",
         "icon": true,
         "description": "Wenn Cocolita eine Unterstützungswaffe verwendet, werden die von ihr gewirkten Heilungseffekte auf andere und umgekehrt um <b>20%</b> erhöht."
       },
       {
-        "name": "Cocolita: Vertrauen",
+        "name": "Vertrauen",
         "icon": true,
         "description": "Wenn Cocolita eine Unterstützungswaffe einsetzt, wird die verursachte und erhaltene Heilung um <b>20%</b> erhöht. Wenn Cocolita die Waffen- oder Entladungsfähigkeit einer Unterstützungswaffe einsetzt, wird der ANG von Verbündeten in der Nähe für <b>5</b> Sek. um <b>15%</b> erhöht."
       }
@@ -543,12 +543,12 @@
     ],
     "traits": [
       {
-        "name": "Crow: Einzelgänger",
+        "name": "Einzelgänger",
         "icon": true,
         "description": "Erhöht den verursachten Schaden um <b>6%</b> und verringert den erlittenen Schaden um <b>4%</b>, wenn Crow in keinem Team ist."
       },
       {
-        "name": "Crow: Stille Nacht",
+        "name": "Stille Nacht",
         "icon": true,
         "description": "Erhöht den verursachten Schaden um <b>10%</b> und verringert den erlittenen Schaden um <b>6%</b>, wenn Crow in keinem Team ist. Wenn Crow einen Kampf beginnt, wird der Schaden, den er verursacht, für <b>12</b> Sek. um <b>12%</b> erhöht."
       }
@@ -837,12 +837,12 @@
     ],
     "traits": [
       {
-        "name": "Echo: Aufrichtigkeit",
+        "name": "Aufrichtigkeit",
         "icon": true,
         "description": "Wenn das Ziel mit Echo in einem Team ist, erhalten Verbündete im Umkreis von <b>10</b> Metern um Echo einen Schadensbonus von <b>4%</b> (außer Echo)."
       },
       {
-        "name": "Echo: Entschlossenheit",
+        "name": "Entschlossenheit",
         "icon": true,
         "description": "Wenn das Ziel mit Echo in einem Team ist, erhalten Verbündete im Umkreis von <b>10</b> Metern um Echo einen Schadensbonus von <b>6%</b> (außer Echo)."
       }
@@ -1014,12 +1014,12 @@
     ],
     "traits": [
       {
-        "name": "Ene: Schneller Modus",
+        "name": "Schneller Modus",
         "icon": true,
         "description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um <b>12%</b>."
       },
       {
-        "name": "Ene: Grenzenloser Modus",
+        "name": "Grenzenloser Modus",
         "icon": true,
         "description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um <b>20%</b>."
       }
@@ -1425,12 +1425,12 @@
     ],
     "traits": [
       {
-        "name": "Hilda: Bleifuß",
+        "name": "Bleifuß",
         "icon": true,
         "description": "Erhöht die Geschwindigkeit um <b>7%</b>, wenn Hilda ein Fahrzeug verwendet."
       },
       {
-        "name": "Hilda: Volltempo-Driften",
+        "name": "Volltempo-Driften",
         "icon": true,
         "description": "Erhöht die Geschwindigkeit um <b>10%</b>, wenn Hilda ein Fahrzeug verwendet."
       }
@@ -1587,12 +1587,12 @@
     ],
     "traits": [
       {
-        "name": "Huma: Standhaftigkeit",
+        "name": "Standhaftigkeit",
         "icon": true,
         "description": "Gewährt jedes Mal, wenn Huma Schaden erleidet, <b>1</b> Standhaftigkeitsmarkierung und <b>1</b> weitere, wenn es sich um Flammenschaden handelt, bis zu <b>1</b>-mal pro Sek und <b>12</b> Stapeln insgesamt. Gewährt bei Verwendung einer Waffenfähigkeit für <b>12</b> Sek. einen LP-Schild in Höhe der Markierungen x <b>0,4%</b> der LP, was alle Standhaftigkeitsmarkierungen verbraucht. Gewährt einen LP-Schild in Höhe der Markierungen x <b>0,6%</b> der LP, wenn Standhaftigkeitsmarkierungen verbraucht werden, während der Effekt max. gestapelt ist."
       },
       {
-        "name": "Huma: Eiserne Barriere",
+        "name": "Eiserne Barriere",
         "icon": true,
         "description": "Gewährt jedes Mal, wenn Huma Schaden erleidet, <b>1</b> Standhaftigkeitsmarkierung und <b>1</b> weitere, wenn es sich um Flammenschaden handelt, bis zu <b>1</b>-mal pro Sek. und <b>12</b> Stapeln insgesamt. Gewährt bei Verwendung einer Waffenfähigkeit für <b>12</b> Sek. einen LP-Schild in Höhe der Markierungen x <b>0,6%</b> der LP, was alle Standhaftigkeitsmarkierungen verbraucht. Gewährt einen LP-Schild in Höhe der Markierungen x <b>0,9%</b> der LP, wenn Standhaftigkeitsmarkierungen verbraucht werden, während der Effekt max. gestapelt ist."
       }
@@ -1881,7 +1881,7 @@
     ],
     "traits": [
       {
-        "name": "KING: Kaltblütiger Hieb",
+        "name": "Kaltblütiger Hieb",
         "icon": true,
         "description": "Für jede <b>7</b> Gegner, die King besiegt, werden LP in Höhe von <b>8%</b> der max. LP wiederhergestellt."
       },
@@ -2182,12 +2182,12 @@
     ],
     "traits": [
       {
-        "name": "Meryl: Kühle Rose",
+        "name": "Kühle Rose",
         "icon": true,
         "description": "Verringert den von Meryl erlittenen Frostschaden um <b>20%</b>, gewährt Immunität gegen Erfrieren und verringert die Dauer von Erstarren um <b>50%</b>."
       },
       {
-        "name": "Meryl: Frostig",
+        "name": "Frostig",
         "icon": true,
         "description": "Verringert den von Meryl erlittenen Frostschaden um <b>25%</b>, gewährt Immunität gegen Erfrieren und verringert die Dauer von Erstarren um <b>50%</b>."
       }
@@ -2471,12 +2471,12 @@
     ],
     "traits": [
       {
-        "name": "Nemesis: Metamorphose",
+        "name": "Metamorphose",
         "icon": true,
         "description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von <b>30</b> Metern um die Elektrode Voltschaden in Höhe von <b>60%</b> des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um <b>120%</b> des ANG."
       },
       {
-        "name": "Nemesis: Sublimierung",
+        "name": "Sublimierung",
         "icon": true,
         "description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von <b>30</b> Metern um die Elektrode Voltschaden in Höhe von <b>100%</b> des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um <b>200%</b> des ANG."
       }
@@ -2757,12 +2757,12 @@
     ],
     "traits": [
       {
-        "name": "Pepper: Wiederbelebung",
+        "name": "Wiederbelebung",
         "icon": true,
         "description": "Wenn Pepper mit Sättigung LP wiederherstellt, wird die Heilung um <b>100%</b> erhöht."
       },
       {
-        "name": "Pepper: Quelle",
+        "name": "Quelle",
         "icon": true,
         "description": "Wenn Pepper mit Sättigung LP wiederherstellt, wird die Heilung um <b>200%</b> erhöht."
       }
@@ -2919,12 +2919,12 @@
     ],
     "traits": [
       {
-        "name": "Samira: Trickreich",
+        "name": "Trickreich",
         "icon": true,
         "description": "Gewährt alle <b>4</b> Sek. <b>1</b> Stapel „Konzentration“, solange Samira keinen Schaden erleidet. Jeder Stapel erhöht den verursachten Schaden um <b>3%</b> (bis zu <b>4</b>-mal stapelbar). Wenn Samira getroffen wird, verliert sie <b>1</b> Stapel „Konzentration“, bis zu <b>1</b> Stapel alle <b>1</b> Sek."
       },
       {
-        "name": "Samira: Schatten",
+        "name": "Schatten",
         "icon": true,
         "description": "Gewährt alle <b>4</b> Sek. <b>1</b> Stapel „Konzentration“, solange Samira keinen Schaden erleidet. Jeder Stapel erhöht den verursachten Schaden um <b>4%</b> (bis zu <b>5</b>-mal stapelbar). Wenn Samira getroffen wird, verliert sie <b>1</b> Stapel „Konzentration“, bis zu <b>1</b> Stapel alle <b>2</b> Sek."
       }
@@ -3205,12 +3205,12 @@
     ],
     "traits": [
       {
-        "name": "Shiro: Sicherheitsalarm",
+        "name": "Sicherheitsalarm",
         "icon": true,
         "description": "Erhöht für <b>8</b> Sek. jeglichen ANG um <b>10%</b> und den physischen ANG zusätzlich um <b>7%</b>, wenn Shiro eine Waffenfähigkeit/Entladungsfähigkeit einsetzt. Abklingzeit: <b>16</b> Sek."
       },
       {
-        "name": "Shiro: Alarmstufe Rot",
+        "name": "Alarmstufe Rot",
         "icon": true,
         "description": "Erhöht für <b>8</b> Sek. jeglichen ANG um <b>16%</b> und den physischen ANG zusätzlich um <b>10%</b>, wenn Shiro eine Waffenfähigkeit/Entladungsfähigkeit einsetzt. Abklingzeit: <b>16</b> Sek."
       }
@@ -3481,12 +3481,12 @@
     ],
     "traits": [
       {
-        "name": "Tsubasa: Regensturm",
+        "name": "Regensturm",
         "icon": true,
         "description": "Gewährt jedes Mal, wenn Tsubasa Schaden verursacht, <b>1</b> Stapel „Heftiger Schlag“, bis zu <b>1</b> Stapel pro Sek. Jeder Stapel fügt <b>0,5%</b> ANG hinzu, bis zu <b>15</b> Stapel. Wird der Effekt erneut erhalten, wird die Effektdauer zurückgesetzt. Der Effekt hält <b>30</b> Sek. an."
       },
       {
-        "name": "Tsubasa: Wogende Wellen",
+        "name": "Wogende Wellen",
         "icon": true,
         "description": "Gewährt jedes Mal, wenn Tsubasa Schaden verursacht, <b>1</b> Stapel „Heftiger Schlag“, bis zu <b>1</b> Stapel pro Sek. Jeder Stapel fügt <b>0,6%</b> ANG hinzu, bis zu <b>30</b> Stapel. Wird der Effekt erneut erhalten, wird die Effektdauer zurückgesetzt. Der Effekt hält <b>30</b> Sek. an."
       }
@@ -3772,12 +3772,12 @@
     ],
     "traits": [
       {
-        "name": "Zero: Präzise Berechnungen",
+        "name": "Präzise Berechnungen",
         "icon": true,
         "description": "Wenn Zero eine Waffenfähigkeit einsetzt, wird die Abklingzeit für Relikte um <b>1,5</b> Sek. verringert. Wird pro Waffe nur <b>1</b>-mal alle <b>5</b> Sek. ausgelöst."
       },
       {
-        "name": "Zero: Tadellose Planung",
+        "name": "Tadellose Planung",
         "icon": true,
         "description": "Wenn Zero eine Waffenfähigkeit einsetzt, wird die Abklingzeit für Relikte um <b>3</b> Sek. verringert. Wird pro Waffe nur <b>1</b>-mal alle <b>5</b> Sek. ausgelöst."
       }
@@ -3950,6 +3950,295 @@
         "mat2": {
           "id": "acidproof_glaze_ii",
           "name": "Säurefeste Glasur II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofaser-Rahmen II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "claudia",
+    "name": "Claudia",
+    "weapon": "Guren-Klinge",
+    "weapon_id": "guren_blade",
+    "birthday": "16. Januar (Steinbock)",
+    "birthplace": "Hykros",
+    "gender": "Weiblich",
+    "info": "Zuverlässig, zäh und unglaublich enthusiastisch, wenn es ums Kämpfen geht. Wirkt distanziert, ist aber freundlich und leidenschaftlich, wenn man sie besser kennenlernt. Claudia hat einen ausgeprägten Sinn für Gerechtigkeit und ist stets bereit, anderen zu helfen und gegen Ungerechtigkeit einzustehen.",
+    "description": "Eine große Hykros-Vollstreckerin mit einem leicht militärischen Auftreten.\nDa sie herausragend mit Einhandschwertern umgehen und außerordentlich agil ist, war Claudia an schwierigen Einsätzen an vorderster Front beteiligt, kam aber in eine medizinische Einrichtung, nachdem sie in der Operation „Dunkle Apokalypse“ schwer verletzt wurde.",
+    "like": "Herzhaftes Essen, extravagante Hüte",
+    "dislike": "Katzen",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "Schaden pro Sek.",
+    "shatter": 7.5,
+    "charge": 12,
+    "skills": [
+      {
+        "name": "Schneller Schnitt",
+        "type": [
+          "Attack"
+        ],
+        "description": "Während du auf dem Boden stehst, schwinge die Klinge, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>46.8%</b> des ANG + <b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>59.3%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>104.1%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>177.8%</b> des ANG + <b>9</b> und <b>schleudert</b> das Ziel in die Luft."
+      },
+      {
+        "name": "Sprungschlag",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Während du in der Luft bist, tippe auf normaler Angriff, um 4 Mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>27.9%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>48.4%</b> des ANG + <b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>114.6%</b> des ANG + <b>6</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>139%</b> des ANG + <b>7</b>."
+      },
+      {
+        "name": "Zyklon",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben und fügt Schaden in Höhe von <b>47.8%</b> des ANG + <b>3</b> zu."
+      },
+      {
+        "name": "Fallender Schwung",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nFügt beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> und schlägst das Ziel zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+      },
+      {
+        "name": "Schleichattacke",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+      },
+      {
+        "name": "Sprungangriff",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Sprungangriff“ auszulösen.\nDer Wanderer schwingt die Klinge und fügt dem Ziel Schaden in Höhe von <b>37.9%</b> des ANG + <b>2</b> zu, lässt das Ziel <b>länger schweben</b> und springt selbst in die Luft, um zusätzlich Schaden in Höhe von <b>56.8%</b> des ANG + <b>3</b> zu verursachen."
+      },
+      {
+        "name": "Durchstreifen",
+        "type": [
+          "Skill"
+        ],
+        "description": "Der Anwender tanzt zwischen den Gegnern hindurch und verursacht an bis zu <b>5</b> Zielen insgesamt Schaden in Höhe von <b>418%</b> des ANG + <b>22</b> (Angriffe auf dasselbe Ziel verursachen <b>20%</b> weniger Schaden). Am Ende der Fähigkeit fügt der Anwender Gegnern im Bereich vor sich mit einem Hieb Schaden in Höhe von <b>264%</b> des ANG + <b>14</b> zu und lässt sie schweben. Macht immun gegen Massenkontrolleffekte und verringert erlittenen Schaden um <b>50%</b>. Abklingzeit: <b>15</b> Sek."
+      },
+      {
+        "name": "Unbändiger Ansturm",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und er greift ein Ziel an, lässt es <b>länger schweben</b> und verursacht Schaden in Höhe von <b>523.3%</b> des ANG + <b>28</b>. Dabei wird ein Klingensturm hinterlassen, der dem Ziel Schaden in Höhe von <b>209.6%</b> des ANG + <b>11</b> zufügt. Gewährt außerdem <b>5</b> Sek. lang Immunität gegen „Verwunden“/„Einfrieren“/„Verbrennen“/„Elektrisieren“."
+      }
+    ],
+    "weapon_type": {
+      "name": "Verwunden",
+      "description": "Voll geladene Waffen verursachen beim nächsten Angriff Schaden in Höhe von <b>137%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
+    },
+    "weapon_resonance": {
+      "name": "Physische Resonanz",
+      "description": "<b>Physische Resonanz</b>: Erhöht physischen ANG um <b>15%</b> und physischen Widerstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Physischer-Schaden-Waffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Dieser Effekt kann nicht gestapelt werden."
+    },
+    "advancement": [
+      "Bei einem Treffer mit Fähigkeiten oder Entladungsfähigkeiten wird jeweils ein Stapel Schadensbonus gewährt, der <b>25</b> Sek. lang den verursachten Schaden um <b>8%</b> erhöht. Bis zu <b>3</b>-mal stapelbar. Pro Treffer wird nur ein Stapel gewährt.",
+      "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+      "Treffer mit Fähigkeiten und Entladungsfähigkeiten fügen dem Ziel einen Stapel „Kriegswunde“ zu, der durch physische und Elementarwaffen erlittenen Schaden und erlittene „Zertrümmern“-Effekte für <b>15</b> Sek. um <b>10%</b> erhöht. Bis zu <b>1</b>-mal stapelbar.",
+      "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>32%</b>.",
+      "Werden Ziele mit Fähigkeiten oder Entladungsfähigkeiten getroffen, gewährt dies einen Schadensbonus, der allen Schaden <b>25</b> Sek. lang um <b>20%</b> erhöht. (Effekt kann nicht gestapelt werden.)",
+      "Treffer gegen dasselbe Ziel verringern nicht mehr den verursachten Schaden. Der Einsatz von Guren-Klinge oder einer Entladungsfähigkeit fügt allen Zielen mit Kriegswunden im Umkreis von 8 Metern <b>1</b> weiteren Stapel Kriegswunde zu."
+    ],
+    "traits": [
+      {
+        "name": "Blinzeln",
+        "icon": true,
+        "description": "Anwender ist nach „Ausweichen“ für <b>1</b> Sek. unsichtbar."
+      },
+      {
+        "name": "Schatten",
+        "icon": true,
+        "description": "Anwender ist nach „Ausweichen“ für <b>1,5</b> Sek. unsichtbar."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano-Beschichtung I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano-Beschichtung I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster-Rahmen I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano-Beschichtung I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofaser-Rahmen I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano-Beschichtung I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofaser-Rahmen I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano-Beschichtung I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofaser-Rahmen I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Steinkern",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano-Beschichtung I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofaser-Rahmen I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Herz des Gipfels",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano-Beschichtung II",
           "rarity": "SR",
           "amount": 5
         },

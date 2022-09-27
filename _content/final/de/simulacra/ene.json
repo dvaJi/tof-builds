@@ -100,12 +100,12 @@
   ],
   "traits": [
     {
-      "name": "Ene: Schneller Modus",
+      "name": "Schneller Modus",
       "icon": true,
       "description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um <b>12%</b>."
     },
     {
-      "name": "Ene: Grenzenloser Modus",
+      "name": "Grenzenloser Modus",
       "icon": true,
       "description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um <b>20%</b>."
     }

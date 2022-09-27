@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "suitName": "Ojo del viento",
+  "hash": "SSR2",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta el daño infligido en un 14%/16%/18%/20% cuando no hay enemigos en 4 metros a la redonda."
+    },
+    {
+      "count": 4,
+      "value": "Con un tiro en la cabeza o al usar Flecha Helada: Disparo Perforante, aumenta el ATQ en un 15%/18%/21%/25% durante 8 segundos."
+    }
+  ],
+  "mind": {
+    "name": "veleta",
+    "desc": "\"El viento sopla\". Eso resume las razones por las que abandonar todo y empezar de nuevo."
+  },
+  "memory": {
+    "name": "gravitatoria",
+    "desc": "Siempre se mueve de un lado a otro y solo permanece en lugares que haya explorado cuidadosamente."
+  },
+  "belief": {
+    "name": "vagabunda",
+    "desc": "¿Cómo saber cuál creencia es la indicada? Respuesta: la que al final emerge victoriosa."
+  },
+  "emotion": {
+    "name": "frialdad",
+    "desc": "Evalúa racionalmente sus relaciones."
+  }
+}

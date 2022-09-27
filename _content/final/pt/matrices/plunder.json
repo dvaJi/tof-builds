@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "plunder",
+  "name": "Pilhagem",
+  "suitName": "Pilhagem",
+  "hash": "R4",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta em 6% o dano causado por armas físicas."
+    }
+  ],
+  "mind": {
+    "name": "Provocador",
+    "desc": "Devastadores que tocam o terror em todo lugar só porque podem."
+  },
+  "memory": {
+    "name": "Anarquista",
+    "desc": "Não seguem ordens. É caos que eles querem."
+  },
+  "belief": {
+    "name": "Abatedor",
+    "desc": "Ninguém quer lutar contra eles de novo."
+  },
+  "emotion": {
+    "name": "Instaurador do Caos",
+    "desc": "Algumas coisas são caóticas por natureza e não se incomodam se ficarem mais caóticas."
+  }
+}

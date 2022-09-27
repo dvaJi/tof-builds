@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "claudia",
+  "name": "Cláudia",
+  "suitName": "Golpe Multidirecional",
+  "hash": "SSR6",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta o dano em 13%/17%/20%/23% quando atingir um alvo no ar ou iniciar um ataque aéreo. Restaura o salto duplo ao atingir um alvo no ar."
+    },
+    {
+      "count": 4,
+      "value": "Atingir um inimigo com uma habilidade reduz a recarga de todas as habilidades de armas em 1,5/2/2,5/3 segundos e aumenta o dano de habilidades de descarga em 36%/45%/54%/63% durante 15 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Análise Racional",
+    "desc": "Primeiro, aprenda a aceitar opiniões populares, só depois faça julgamentos sobre o problema em questão."
+  },
+  "memory": {
+    "name": "Verdadeiro Eu",
+    "desc": "Seja honesto consigo mesmo para se libertar do passado e abraçar o futuro."
+  },
+  "belief": {
+    "name": "Retidão",
+    "desc": "Todos os esforços dedicados a defender a justiça provaram-se válidos."
+  },
+  "emotion": {
+    "name": "Aura de Determinação",
+    "desc": "Põe os valores em ação e até os dissemina sem sequer perceber."
+  }
+}

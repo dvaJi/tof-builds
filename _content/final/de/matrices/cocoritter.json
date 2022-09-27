@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cocoritter",
+  "name": "Cocolita",
+  "suitName": "Vertrauensbeweis",
+  "hash": "SSR3",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht die Heilungsstärke und die erhaltene Heilung um 10%/12%/14%/16%."
+    },
+    {
+      "count": 4,
+      "value": "Erhöht den ANG 6 Sek. lang um 12,5%/15%/17,5%/20%, wenn der Anwender oder Teammitglieder geheilt werden. Es gilt immer nur der Effekt mit der höchsten Stufe."
+    }
+  ],
+  "mind": {
+    "name": "Künstlerischer Instinkt",
+    "desc": "Die Gedanken, die man sich für die Schaffung einer handwerklichen Arbeit macht, sind auch auf dem Schlachtfeld relevant."
+  },
+  "memory": {
+    "name": "Identitätsüberschneidung",
+    "desc": "Ihre Silhouette überschneidet sich mit dem Beschützer, an den sie sich erinnerte."
+  },
+  "belief": {
+    "name": "Betreuerin",
+    "desc": "Sie hat einfache Erwartungen – sie will nur deinen Schmerz lindern."
+  },
+  "emotion": {
+    "name": "Helferin",
+    "desc": "Vertraue mir, überlasse die Unterstützung mir."
+  }
+}

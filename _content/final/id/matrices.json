@@ -1,0 +1,859 @@
+[
+  {
+    "_id": 28,
+    "id": "apophis",
+    "name": "Apophis",
+    "suitName": "Internal Struggle",
+    "hash": "SR2",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Menimpakan damage lebih tinggi di HP lebih rendah. Menimpakan damage maksimum saat HP 20%. Damage dapat ditingkatkan hingga sebesar 20%/25%/30%."
+      }
+    ],
+    "mind": {
+      "name": "Giant Body",
+      "desc": "Berukuran raksasa, dan setiap gerakannya menyebabkan perubahan besar."
+    },
+    "memory": {
+      "name": "Confrontation",
+      "desc": "Apa yang aku lawan? Takdir atau diriku sendiri?"
+    },
+    "belief": {
+      "name": "Titik Lemah",
+      "desc": "Kelemahannya adalah konfigurasi keamanan yang ditanam di dalam chip tersebut, yang tidak dapat diakali atau dilawan."
+    },
+    "emotion": {
+      "name": "Hatred",
+      "desc": "Mengapa ini dibuat, dan mengapa ini dimodifikasi?"
+    }
+  },
+  {
+    "_id": 28,
+    "id": "bailing",
+    "name": "Bai Ling",
+    "suitName": "Deadly Lock",
+    "hash": "SR9",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan damage yang ditimpakan pada target yang mengalami Grievous sebesar 12%/15%/18%."
+      }
+    ],
+    "mind": {
+      "name": "Diverse",
+      "desc": "Apa yang harus dilakukan saat yang kamu pikirkan justru menyebar?"
+    },
+    "memory": {
+      "name": "Dissipation",
+      "desc": "Dari tidak tertib menjadi teratur? Mungkin kita perlu gangguan dari luar. Mungkin."
+    },
+    "belief": {
+      "name": "Fair Trade",
+      "desc": "Barang harus diperdagangkan sesuai dengan nilainya sendiri. Tapi, bagaimana caranya memberi harga pada sesuatu yang tak terukur?"
+    },
+    "emotion": {
+      "name": "Nth Power",
+      "desc": "Andai saja pengalaman yang diperoleh dan ROI bekerja secara eksponensial..."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "barbarossa",
+    "name": "Barbarossa",
+    "suitName": "Double Nightmare",
+    "hash": "SR5",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Setelah beralih ke senjata ini, memperoleh 50%/62,5%/75% Damage Reflection selama 3 detik. Cooldown: 30 detik. Setelah beralih ke senjata lain, memperoleh 20%/25%/30% Damage Boost selama 5 detik. Cooldown: 30 detik."
+      }
+    ],
+    "mind": {
+      "name": "Power Play",
+      "desc": "Dua kepala biasanya memperebutkan siapa yang akan membunuh mangsanya. Dengan sedikit hasutan, pertarungan itu akan berubah jadi pertarungan fisik."
+    },
+    "memory": {
+      "name": "Divided Land",
+      "desc": "Dari mana asalnya? Mungkin ia masih sedikit tahu."
+    },
+    "belief": {
+      "name": "Natural Aggression",
+      "desc": "Tak pernah bosan menggigit dan menggiling, selalu bersemangat menunggu korban berikutnya."
+    },
+    "emotion": {
+      "name": "Intimidating Roar",
+      "desc": "Dimulai dengan raungan—yang juga merupakan lonceng kematian bagi para korban yang tidak bersalah."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "claudia",
+    "name": "Claudia",
+    "suitName": "Multi-directional Strike",
+    "hash": "SSR6",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Meningkatkan damage sebesar 13%/17%/20%/23% saat mengenai target di udara atau memulai serangan udara. Mereset double jump setelah mengenai target di udara."
+      },
+      {
+        "count": 4,
+        "value": "Mengenai musuh dengan skill mengurangi cooldown semua Weapon Skill selama 1,5/2/2,5/3 detik dan meningkatkan damage Discharge Skill sebesar 36%/45%/54%/63% selama 15 detik."
+      }
+    ],
+    "mind": {
+      "name": "Rational Analysis",
+      "desc": "Pertama, belajarlah menerima pendapat umum, lalu buat penilaian tentang masalah yang dihadapi."
+    },
+    "memory": {
+      "name": "True Self",
+      "desc": "Jujurlah pada diri sendiri sehingga kamu tak lagi terikat oleh masa lalu dan akan memegang masa depan."
+    },
+    "belief": {
+      "name": "Righteous",
+      "desc": "Semua upaya yang dilakukan untuk menegakkan keadilan akan terbukti bermanfaat."
+    },
+    "emotion": {
+      "name": "Aura of Determination",
+      "desc": "Menjunjung nilai-nilai dalam tindakan, bahkan menyebarkannya tanpa sadar."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "cocoritter",
+    "name": "Cocoritter",
+    "suitName": "Proof of Trust",
+    "hash": "SSR3",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Meningkatkan kemampuan Heal dan Healing yang diterima sebanyak 10%/12%/14%/16%."
+      },
+      {
+        "count": 4,
+        "value": "Saat kamu atau rekan timmu menerima Healing, ATK akan meningkat sebesar 12,5%/15%/17,5%/20% selama 6 detik. Jika didapatkan berulang kali, yang akan berlaku cuma yang levelnya paling tinggi."
+      }
+    ],
+    "mind": {
+      "name": "Artistic Instinct",
+      "desc": "Pemikiran di balik penciptaan karya juga dapat diterapkan di medan tempur."
+    },
+    "memory": {
+      "name": "Identity Overlap",
+      "desc": "Siluetnya tumpang tindih dengan pelindung yang dia ingat."
+    },
+    "belief": {
+      "name": "Caregiver",
+      "desc": "Harapannya sederhana—hanya mengurangi rasa sakitmu."
+    },
+    "emotion": {
+      "name": "Helper",
+      "desc": "Percayalah, biar aku yang membantu."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "crow",
+    "name": "Crow",
+    "suitName": "Fanatical Pursuit",
+    "hash": "SR11",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Meningkatkan Crit Damage pada target dengan HP kurang dari 60% sebesar 33%/42%/50%/58%."
+      },
+      {
+        "count": 4,
+        "value": "Crit menimpakan Damage over Time tambahan setiap detik sebanyak 12%/15%/18%/21% ATK selama 5 detik. Efek tidak dapat ditumpuk."
+      }
+    ],
+    "mind": {
+      "name": "Eleventh Dimension",
+      "desc": "Beberapa hal memang tidak berwujud, tetapi benar-benar ada."
+    },
+    "memory": {
+      "name": "Formitized",
+      "desc": "Masa lalu biarlah berlalu. Saat inilah yang dibutuhkan."
+    },
+    "belief": {
+      "name": "Dire Survivor",
+      "desc": "Jangan pernah menyerah meski peluangnya sangat kecil."
+    },
+    "emotion": {
+      "name": "Rendition",
+      "desc": "Pertunjukan badut yang aneh, terkadang sangat sulit dipahami."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "echo",
+    "name": "Echo",
+    "suitName": "Uproot",
+    "hash": "SR12",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Menggunakan Discharge Skill untuk beralih ke senjata saat ini menghasilkan 80/100/120 Weapon Charge."
+      }
+    ],
+    "mind": {
+      "name": "Until the End",
+      "desc": "Garis pemikiran yang lurus untuk menyelesaikan tujuan saat ini."
+    },
+    "memory": {
+      "name": "Post Crisis",
+      "desc": "Ingatan akan padang bersalju di truk setelah selamat dari krisis."
+    },
+    "belief": {
+      "name": "Black or White",
+      "desc": "Terlalu sulit baginya untuk memahami sesuatu yang rumit."
+    },
+    "emotion": {
+      "name": "Homesick",
+      "desc": "Dua rumah, dua tempat berteduh, keduanya nyaman. Bagaimanapun, ini adalah kepulangan."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "ene",
+    "name": "Ene",
+    "suitName": "Overload",
+    "hash": "SR8",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Saat menimpakan damage lebih besar dari 100% ATK, menimpakan damage tambahan sebesar 60%/75%/90% ATK. Cooldown: 3 detik."
+      }
+    ],
+    "mind": {
+      "name": "Competitive",
+      "desc": "Output yang dipercepat saat daya ditingkatkan juga akan dikirimkan dalam getaran samar ke senjata."
+    },
+    "memory": {
+      "name": "Loose Cannon",
+      "desc": "Hykros Suppressor Lab tak pernah melupakan perlawanan yang dilakukannya."
+    },
+    "belief": {
+      "name": "Second Life",
+      "desc": "Tubuh tanpa rasa sakit akan berfungsi hingga energi terakhir sampai kehancuran total."
+    },
+    "emotion": {
+      "name": "Family Photo",
+      "desc": "Ini hanya karena ayahnya memohon-mohon padanya."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "frigg",
+    "name": "Frigg",
+    "suitName": "Iron Mind and Body",
+    "hash": "SSR15",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2
+      },
+      {
+        "count": 4,
+        "value": "Saat melepaskan Frost Domain dengan senjata \"Balmung\", musuh yang ada di dalam Frost Domain akan menerima Frost Damage setara dengan 55%/65%/75%/85% ATK setiap detik."
+      }
+    ],
+    "mind": {
+      "name": "Soulblade",
+      "desc": "Akan kuhilangkan keserakahanmu akan segala larangan."
+    },
+    "memory": {
+      "name": "Post-Cataclysm",
+      "desc": "Keluargaku... para sahabat... Kini tinggal aku sendirian..."
+    },
+    "belief": {
+      "name": "Stance",
+      "desc": "Kau pasti sudah tahu, jadi apa arti keadilan bagiku?"
+    },
+    "emotion": {
+      "name": "Doubt",
+      "desc": "Siapa di balik semua ini? Ada yang tahu?"
+    }
+  },
+  {
+    "_id": 28,
+    "id": "frost_bot",
+    "name": "Frost Bot",
+    "suitName": "Extreme Zero",
+    "hash": "SR3",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Saat HP kurang dari 40%, jika menggunakan Discharge Skill untuk beralih ke senjata saat ini, HP akan dipulihkan sebesar 160%/200%/240% ATK."
+      }
+    ],
+    "mind": {
+      "name": "Do Not Underestimate",
+      "desc": "Meskipun ia tampak seperti makanan, kita tetap harus waspada."
+    },
+    "memory": {
+      "name": "Swift End",
+      "desc": "Sistem tempur armor ini hanya punya satu tujuan: Selesaikan pertarungan secepat mungkin."
+    },
+    "belief": {
+      "name": "Quick Freeze",
+      "desc": "Bekukan sekitar dengan balok-balok es."
+    },
+    "emotion": {
+      "name": "Ruthless",
+      "desc": "Sebaiknya jangan dilawan."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "functional_dash",
+    "name": "Functional Dash",
+    "suitName": "Functional Dash",
+    "hash": "R2",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan damage yang ditimpakan oleh Frost Weapon sebesar 6%."
+      }
+    ],
+    "mind": {
+      "name": "Hauler",
+      "desc": "Ia hilir-mudik maju-mundur antara tambang dan trek."
+    },
+    "memory": {
+      "name": "Restart",
+      "desc": "Kendaraan bisa menyerang jika menerima perintah baru."
+    },
+    "belief": {
+      "name": "Mind of Machine",
+      "desc": "Modifikasi siber tanpa kehendak bebas apa pun akan menjalankan perintah seperti layaknya mesin."
+    },
+    "emotion": {
+      "name": "Bullseye",
+      "desc": "Keunggulan terbesar dalam modifikasi adalah serangan presisi yang tidak terhalang oleh emosi atau kepekaan."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "hilda",
+    "name": "Hilda",
+    "suitName": "Parabola",
+    "hash": "SR7",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan ATK sebesar 15%/19%/22,5% saat tidak ada musuh dalam jarak 6 meter."
+      }
+    ],
+    "mind": {
+      "name": "Acumen",
+      "desc": "Penuh kecerdasan bisnis."
+    },
+    "memory": {
+      "name": "Dockbred",
+      "desc": "Lubang hidung ini sudah terlalu lama mencium aroma asin laut. Rasanya tidak nyaman kalau aromanya hilang."
+    },
+    "belief": {
+      "name": "Haggler",
+      "desc": "Jangan pernah beli barang dengan harga aslinya. Tawar terus hingga titik darah penghabisan!"
+    },
+    "emotion": {
+      "name": "Smash Ball",
+      "desc": "Tak banyak rekreasi yang bisa kita lakukan dengan teman-teman yang cacat fisik."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "huma",
+    "name": "Huma",
+    "suitName": "Slightly Awakened",
+    "hash": "SSR10",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Menyerang target dengan Dodge Skill mengakibatkan pendarahan, menimpakan damage sebesar 15%/19%/22,5%/26% ATK setiap detik selama 5 detik."
+      },
+      {
+        "count": 4,
+        "value": "Mengurangi ATK semua target dalam radius 8 meter yang menerima Damage over Time sebesar 10%/12%/13%/15%. Jika didapatkan berulang kali, yang akan berlaku cuma yang levelnya paling tinggi."
+      }
+    ],
+    "mind": {
+      "name": "Disoriented",
+      "desc": "Bayi burung keluar dari cangkangnya karena dorongan insting untuk melihat cahaya."
+    },
+    "memory": {
+      "name": "Blank Slate",
+      "desc": "Mulai menulis program untuk kepribadian yang benar-benar baru sekarang."
+    },
+    "belief": {
+      "name": "Easy Does It",
+      "desc": "Mengalami amnesia seperti dirimu, dan selalu mencoba untuk melakukan apa pun yang bisa dikerjakan lebih dulu."
+    },
+    "emotion": {
+      "name": "Innocent",
+      "desc": "Ekspresi kaku adalah bagian dari wujudnya."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "king",
+    "name": "KING",
+    "suitName": "Advocate of Violence",
+    "hash": "SSR4",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Saat target hancur, memberikan 8%/10%/12%/14% Damage Boost selama 25 detik. Cuma level tertinggi yang berlaku saat efek diperoleh secara berulang."
+      },
+      {
+        "count": 4,
+        "value": "Saat ada lebih dari 2 musuh di sekitar, serangan memulihkan HP sebesar 14%/18%/22%/26% damage yang ditimpakan setelah penyerangan. Maksimum HP yang dipulihkan setiap 0,5 detik tidak dapat melampaui 36%/42%/48%/54%."
+      }
+    ],
+    "mind": {
+      "name": "Underground Ruler",
+      "desc": "Reputasi yang baik tetap tidak akan mengubah ketidakmampuan untuk bertahan dengan dompet kosong, jadi mari kita isi dulu. Bertanyanya nanti saja."
+    },
+    "memory": {
+      "name": "Live to Fight",
+      "desc": "Para pekerja tambang ini bekerja tanpa berpikir seperti zombi. Kalau tidak melarikan diri, kamu akan jadi seperti mereka."
+    },
+    "belief": {
+      "name": "Thrillseeker",
+      "desc": "Menginginkan kegembiraan dan sukacita yang tampaknya berlebihan... yang tidak termasuk aspirasi karier."
+    },
+    "emotion": {
+      "name": "One Man Army",
+      "desc": "Tetap saja, bertarung hanya dengan tinju ada batasannya, yang dia pelajari di usia yang sangat muda."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "meryl",
+    "name": "Meryl",
+    "suitName": "Pure White Guardian",
+    "hash": "SSR1",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Jika HP kurang dari 30% setelah diserang, memperoleh perisai sebanyak 20%/26%/32%/40% Max HP selama 10 detik. Cooldown: 90 detik."
+      },
+      {
+        "count": 4,
+        "value": "Meningkatkan damage Whirlwind sebanyak 36%/45%/54%/63% dan memulihkan HP sebanyak 30%/38%/44%/50% damage yang ditimpakan saat Whirlwind aktif. Maksimum HP yang dipulihkan setiap 0,5 detik tidak boleh melebihi 60%/72%/81%/90% ATK."
+      }
+    ],
+    "mind": {
+      "name": "Swordfight Simulation",
+      "desc": "Simulasi pertarungan pedang yang rumit tampaknya digunakan untuk kalibrasi. Lagi pula, bukan sesuatu untuk rata-rata orang."
+    },
+    "memory": {
+      "name": "Wake-Up Call",
+      "desc": "Rangkaian Memory Shard yang digunakan untuk menanamkan Consciousness. Catat, ini tidak disertai dengan buku petunjuk."
+    },
+    "belief": {
+      "name": "Absolute Authority",
+      "desc": "Ini, tentu saja, mewakili persetujuan diri dan pengakuan dari luar atas kekuatan Executor."
+    },
+    "emotion": {
+      "name": "Detached",
+      "desc": "Hambatan komunikasi mental dibentuk dengan menolak segala sosialisasi."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "nemesis",
+    "name": "Nemesis",
+    "suitName": "Life Bridging",
+    "hash": "SSR14",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Saat target menerima Healing, Volt ATK mereka meningkat sebesar 15%/18%/21%/25% selama 20 detik. Tidak bisa ditumpuk, dan yang berlaku cuma efek yang levelnya paling tinggi jika didapatkan berulang kali."
+      },
+      {
+        "count": 4,
+        "value": "Saat menyembuhkan dirimu sendiri atau Electrode milikmu, target Healing akan mendapatkan satu Charge \"Lightning\". Serangan berikutnya dalam waktu 30 detik akan mengandung \"Lightning\", yang menimpakan Volt Damage sebanyak 300%/375%/450%/525% Volt ATK (damage yang ditimpakan oleh Electrode berkurang sebesar 50%). Tidak bisa diaktifkan lebih dari satu kali dalam 10 detik. Charge untuk \"Lightning\" tidak bisa ditumpuk. Jika didapatkan berulang kali, yang akan berlaku cuma yang levelnya paling tinggi."
+      }
+    ],
+    "mind": {
+      "name": "Alloy Cells",
+      "desc": "Lebih dari separuh bagian lambung telah diganti. Aku penasaran, adakah cara untuk mengukur bagian jiwa?"
+    },
+    "memory": {
+      "name": "Teddy Bear",
+      "desc": "Aku kehilangan dua tempat yang kuanggap rumah, beruntung sejumlah barang masih tetap ada di sampingku sejauh ini."
+    },
+    "belief": {
+      "name": "Refreshed",
+      "desc": "Keluguan memudar, dan keberanian makin mencuat dan matang."
+    },
+    "emotion": {
+      "name": "Inner Drive",
+      "desc": "Memori dan kebaikan hati bisa jadi sandungan atau justru semangat."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "pepper",
+    "name": "Merica",
+    "suitName": "Nonstop",
+    "hash": "SR6",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan kecepatan untuk memperoleh Weapon Charge sebesar 10%/12,5%/15%."
+      }
+    ],
+    "mind": {
+      "name": "Assembly Line",
+      "desc": "Siapa yang bisa menjelaskan padanya bahwa kini dia telah bekerja keras untuk waktu yang lama?"
+    },
+    "memory": {
+      "name": "Surgical Scar",
+      "desc": "Aberration tidak dapat dibalikkan. Sama seperti bekas luka setelah operasi, kamu tak akan bisa menghilangkannya."
+    },
+    "belief": {
+      "name": "Armband",
+      "desc": "Dokter tidak boleh berpaling, berpuas diri, atau tak berdaya."
+    },
+    "emotion": {
+      "name": "Sleeping Pill",
+      "desc": "Dia menderita insomnia gara-gara tak mau menghadapi kematian dalam mimpinya."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "plunder",
+    "name": "Plunder",
+    "suitName": "Plunder",
+    "hash": "R4",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan damage yang ditimpakan oleh Physical Weapon sebesar 6%."
+      }
+    ],
+    "mind": {
+      "name": "Provocateurs",
+      "desc": "Ravager yang menimbulkan petaka di mana pun hanya karena mereka punya kekuatan untuk melakukannya."
+    },
+    "memory": {
+      "name": "Anarchists",
+      "desc": "Mereka tidak kenal aturan. Kekacauanlah yang mereka inginkan."
+    },
+    "belief": {
+      "name": "Melee Killer",
+      "desc": "Tak ada yang mau bertarung lagi dengan mereka."
+    },
+    "emotion": {
+      "name": "Chaosbringer",
+      "desc": "Beberapa hal memang bersifat kacau dan tak akan keberatan menjadi lebih kacau."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "robarg",
+    "name": "Robarg",
+    "suitName": "Devourer",
+    "hash": "SR1",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Saat target mengalami Shatter, meracuni target dan menimpakan damage sebesar 45%/56%/67,5% ATK setiap detik selama 10 detik."
+      }
+    ],
+    "mind": {
+      "name": "Greed",
+      "desc": "Terbentuk dalam keserakahan dan tak akan ada habisnya."
+    },
+    "memory": {
+      "name": "Instinct",
+      "desc": "Instingnya selalu mendahului."
+    },
+    "belief": {
+      "name": "Exhaustion",
+      "desc": "Hancurkan segalanya, dari tubuh dan energi hingga keinginanmu untuk bertahan hidup."
+    },
+    "emotion": {
+      "name": "The End",
+      "desc": "Sudah lama ia ingin mengakhirnya."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "samir",
+    "name": "Samir",
+    "suitName": "Rational Liberation",
+    "hash": "SSR9",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Meningkatkan damage secara bertahap sebanyak 1% setelah mengenai target. Bisa ditumpuk hingga 10/13/16/20 kali. Bertahan selama 1,5 detik."
+      },
+      {
+        "count": 4,
+        "value": "Meningkatkan damage ledakan listrik Dual EM Stars sebanyak 16%/22%/30%/40% ATK."
+      }
+    ],
+    "mind": {
+      "name": "Just Kidding",
+      "desc": "Jika kamu bilang leluconnya garing, dia akan menjawab, \"Kenapa sih serius amat?\""
+    },
+    "memory": {
+      "name": "Dearly Departed",
+      "desc": "Orang yang hidup dalam masa lalu memang tak bisa dijangkau dan dilepaskan."
+    },
+    "belief": {
+      "name": "Silver Bullet",
+      "desc": "Dia punya peluru perak. Apa dia memburu vampir?"
+    },
+    "emotion": {
+      "name": "Future Focus",
+      "desc": "Dia selalu yakin pada takdirnya."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "selfexplosive",
+    "name": "Self-explosive",
+    "suitName": "Self-explosive",
+    "hash": "R1",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan damage yang ditimpakan oleh Flame Weapon sebesar 6%."
+      }
+    ],
+    "mind": {
+      "name": "Explosive Core",
+      "desc": "Inti Omnium menyala terang di dalamnya."
+    },
+    "memory": {
+      "name": "Binding Thread",
+      "desc": "Bukan benang sungguhan, tentu saja. Pembuatnya hanya ingin menakuti-nakuti."
+    },
+    "belief": {
+      "name": "Web of Dread",
+      "desc": "Tatapan laba-laba sering kali lebih menakutkan ketimbang bahaya yang ditimbulkannya."
+    },
+    "emotion": {
+      "name": "Overwhelm",
+      "desc": "Mereka akan jadi mimpi buruk jika harus ditangani dalam kelompok."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "shiro",
+    "name": "Shiro",
+    "suitName": "Poem of Departure",
+    "hash": "SSR7",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Meningkatkan damage dan Shatter pada target dengan lebih dari 50% HP sebesar 15%/19%/22,5%/26%."
+      },
+      {
+        "count": 4,
+        "value": "Setelah masuk ke pertempuran, memperoleh 20%/25%/30%/35% Damage Boost selama 35 detik. Direset 5 detik setelah keluar dari pertempuran."
+      }
+    ],
+    "mind": {
+      "name": "Isolated",
+      "desc": "Layaknya kucing liar, ia takut pada orang, tetapi terkadang duduk di tepi kolam dan bermain air, bertanya-tanya kenapa begitu kesepian."
+    },
+    "memory": {
+      "name": "Longing for Sea",
+      "desc": "Sebagian besar keindahan laut berasal dari fakta bahwa itu tidak akan pernah bisa dipahami sepenuhnya."
+    },
+    "belief": {
+      "name": "Great Singer",
+      "desc": "Bukti suara nyanyiannya yang luar biasa, dari seorang peneliti yang mempertaruhkan nyawa untuk menyelundupkan rekaman itu."
+    },
+    "emotion": {
+      "name": "Cat-like",
+      "desc": "Setiap sentuhan diwaspadai, setiap tatapan dengan cekatan dihindari... Itulah cara sederhananya untuk mendapatkan kebahagiaan."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "sobek",
+    "name": "Sobek",
+    "suitName": "Swamp Shadow",
+    "hash": "SR4",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan damage yang ditimpakan sebesar 6%/7,5%/9% bagi setiap musuh di sekitar. Hingga 3 tumpuk."
+      }
+    ],
+    "mind": {
+      "name": "Scheme",
+      "desc": "Hati-hati, jangan sampai terseret ke lumpur di dalamnya."
+    },
+    "memory": {
+      "name": "Opportunity",
+      "desc": "Karena selalu sabar, pada akhirnya ada orang bodoh nan malang yang menginjaknya."
+    },
+    "belief": {
+      "name": "Confusion",
+      "desc": "Ia tidak bergerak. Ia tidur atau hanya menghemat energi?"
+    },
+    "emotion": {
+      "name": "Restlessness",
+      "desc": "Ia juga bisa bosan. Kalau ia merasa gelisah, orang lewat yang tak bersalah bisa kena getahnya."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "standard_operation",
+    "name": "Standard Operation",
+    "suitName": "Standard Operation",
+    "hash": "R3",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan damage yang ditimpakan oleh Volt Weapon sebesar 6%."
+      }
+    ],
+    "mind": {
+      "name": "Standard Guard",
+      "desc": "Menjadi penjaga bersenjata yang baik berarti melindungi hal yang kita jaga."
+    },
+    "memory": {
+      "name": "Terminator Guard",
+      "desc": "Tak kenal ampun pada siapa pun yang berusaha menghancurkan apa yang ia lindungi."
+    },
+    "belief": {
+      "name": "Unyielding Guard",
+      "desc": "Tak peduli seberapa kuat musuh, ia tak akan menyerah sampai benar-benar hancur."
+    },
+    "emotion": {
+      "name": "Tenet Guard",
+      "desc": "Ciptaan industri tak memiliki kehendak bebas, tetapi aturan yang mereka ikuti mungkin bisa disebut prinsip."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "tsubasa",
+    "name": "Tsubasa",
+    "suitName": "Eye of Wind",
+    "hash": "SSR2",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Meningkatkan damage yang ditimpakan sebesar 14%/16%/18%/20% saat tidak ada musuh dalam radius 4 meter."
+      },
+      {
+        "count": 4,
+        "value": "Setelah melancarkan Headshot atau menggunakan Icewind Arrow: Piercing Shot, meningkatkan ATK sebanyak 15%/18%/21%/25% selama 8 detik."
+      }
+    ],
+    "mind": {
+      "name": "Weather Vane",
+      "desc": "\"Angin berembus.\" Itu meringkas setiap alasan untuk pergi dan berangkat lagi."
+    },
+    "memory": {
+      "name": "Gravitator",
+      "desc": "Dia selalu berpindah dan hanya diam di tempat yang telah ditelusuri dengan saksama."
+    },
+    "belief": {
+      "name": "Drifter",
+      "desc": "Bagaimana cara membedakan keyakinan mana yang benar? Jawaban: Yang pada akhirnya muncul sebagai pemenang."
+    },
+    "emotion": {
+      "name": "Stone Cold",
+      "desc": "Sebuah penilaian rasional mengenai hubungan."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "wandering_aberrant",
+    "name": "Wandering Aberrant",
+    "suitName": "Savage Bloodline",
+    "hash": "N1",
+    "rarity": "N",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Meningkatkan damage yang ditimpakan sebesar 4%."
+      }
+    ],
+    "mind": {
+      "name": "Wandering Aberrant",
+      "desc": "Sudah mengembara sejak kabur dari lab. Apa penyimpangan itu karena eksperimen atau radiasi Omnium? Tak ada yang tahu."
+    },
+    "memory": {
+      "name": "Feral Nature",
+      "desc": "Sifat yang tertekan oleh domestikasi perlahan-lahan kembali menyesuaikan diri dengan alam liar."
+    },
+    "belief": {
+      "name": "Brute Force",
+      "desc": "Sepertinya ia tahu ia bisa menghancurkan sangkar dengan paksa dan melepaskan diri dari ikatan."
+    },
+    "emotion": {
+      "name": "Homeseeker",
+      "desc": "Meskipun sudah melintasi seluruh Asperia, ia tetap tidak bisa menemukan rumahnya... Karena ia terlahir di lab."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "zero",
+    "name": "Zero",
+    "suitName": "Incredible Connection",
+    "hash": "SSR8",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Setelah menggunakan Discharge Skill untuk beralih ke senjata saat ini, memperoleh shield sebanyak 150%/200%/250%/300% ATK selama 6 detik."
+      },
+      {
+        "count": 4,
+        "value": "Saat shield ini aktif, kamu dan rekanmu satu tim menimpakan damage 16%/20%/24%/28% lebih besar."
+      }
+    ],
+    "mind": {
+      "name": "Paranormal Calculation",
+      "desc": "Menerobos logika, menumbangkan realitas, sepenuhnya meninggalkan formula berdasarkan pengalaman untuk mencapai hasil akhir."
+    },
+    "memory": {
+      "name": "Terminal Protocol",
+      "desc": "Kenangan cuma masalah jejak. Apakah itu nyata atau tidak, kamulah yang harus memutuskannya sendiri."
+    },
+    "belief": {
+      "name": "Info Sort",
+      "desc": "Informasi yang didapat dengan memilah-milah kabar dan data yang belum terbukti kebenarannya."
+    },
+    "emotion": {
+      "name": "Survival of Fittest",
+      "desc": "Sintasan yang paling layak merupakan hukum alam dan perwujudan kesuperioran seseorang."
+    }
+  }
+]

@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Bai Ling: Valentia",
+      "name": "Valentia",
       "icon": true,
       "description": "Quando Bai Ling guarda o Planador ou a Prancha a Jato, a velocidade aumenta em <b>8%</b> durante <b>12</b> seg. Tempo de recarga: <b>60</b> segundos."
     },
     {
-      "name": "Bai Ling: Determinação",
+      "name": "Determinação",
       "icon": true,
       "description": "Quando Bai Ling guarda o Planador ou a Prancha a Jato, a velocidade aumenta em <b>15%</b> durante <b>12</b> seg. Tempo de recarga: <b>60</b> segundos."
     }

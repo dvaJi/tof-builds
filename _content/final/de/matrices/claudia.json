@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "claudia",
+  "name": "Claudia",
+  "suitName": "Mehrrichtungsangriff",
+  "hash": "SSR6",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht Schaden um 13%/17%/20%/23%, wenn ein Ziel in der Luft getroffen oder ein Luftangriff ausgeführt wird. Setzt den Doppelsprung zurück, wenn ein Ziel in der Luft getroffen wird."
+    },
+    {
+      "count": 4,
+      "value": "Wenn ein Gegner mit einer Fähigkeit getroffen wird, werden die Abklingzeiten aller Waffenfähigkeiten um 1,5/2/2,5/3 Sek. verringert und der Schaden von Entladungsfähigkeiten wird für 15 Sek. um 36%/45%/54%/63% erhöht."
+    }
+  ],
+  "mind": {
+    "name": "Rationale Analyse",
+    "desc": "Lerne zunächst, landläufige Meinungen zu akzeptieren, und urteile dann über das vorliegende Problem."
+  },
+  "memory": {
+    "name": "Wahres Selbst",
+    "desc": "Sei dir selbst treu, damit du nicht länger an die Vergangenheit gebunden bist und dir die Zukunft gehört."
+  },
+  "belief": {
+    "name": "Gerecht",
+    "desc": "Alle Anstrengungen, die unternommen werden, um für Gerechtigkeit zu sorgen, werden sich als lohnend erweisen."
+  },
+  "emotion": {
+    "name": "Aura der Entschlossenheit",
+    "desc": "Setze Werte in die Tat um. Verbreite sie sogar, ohne dir dessen bewusst zu sein."
+  }
+}

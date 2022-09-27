@@ -1,0 +1,859 @@
+[
+  {
+    "_id": 28,
+    "id": "apophis",
+    "name": "Apophis",
+    "suitName": "Conflit interne",
+    "hash": "SR2",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Inflige plus de dégâts quand les PV sont bas. Inflige des dégâts maximaux lorsque les PV sont à 20%. Les dégâts peuvent être accrus de 20%/25%/30%."
+      }
+    ],
+    "mind": {
+      "name": "Géant",
+      "desc": "De taille énorme, chacun de ses mouvements est un bouleversement."
+    },
+    "memory": {
+      "name": "Confrontation",
+      "desc": "Contre quoi est-ce que je me bats ? Le destin ou moi-même ?"
+    },
+    "belief": {
+      "name": "Point faible",
+      "desc": "La faiblesse fait partie des configurations de sécurité intégrées à la puce ; on ne peut ni la surmonter ni y échapper."
+    },
+    "emotion": {
+      "name": "Haine",
+      "desc": "Pourquoi l'avoir fabriqué, et pourquoi l'avoir modifié ?"
+    }
+  },
+  {
+    "_id": 28,
+    "id": "bailing",
+    "name": "Bai Ling",
+    "suitName": "Verrou mortel",
+    "hash": "SR9",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 12%/15%/18% les dégâts infligés aux cibles gravement blessées."
+      }
+    ],
+    "mind": {
+      "name": "Diversité",
+      "desc": "Que faire quand on y pense et que ça se propage ?"
+    },
+    "memory": {
+      "name": "Dissipation",
+      "desc": "Du désordre à l'ordre ? Une intervention extérieure est probablement nécessaire. Probablement."
+    },
+    "belief": {
+      "name": "Commerce équitable",
+      "desc": "Les biens doivent être échangés selon leur valeur propre. Mais comment donner une valeur à quelque chose d'incommensurable ?"
+    },
+    "emotion": {
+      "name": "Énième puissance",
+      "desc": "Si seulement l'expérience acquise et le retour sur investissement fonctionnaient de manière exponentielle…"
+    }
+  },
+  {
+    "_id": 28,
+    "id": "barbarossa",
+    "name": "Barberousse",
+    "suitName": "Double cauchemar",
+    "hash": "SR5",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "En prenant cette arme, vous gagnez 50%/62,5%/75% de renvoi des dégâts pendant 3 secondes. Temps de recharge : 30 secondes. En passant à une autre arme, vous gagnez 20%/25%/30% de bonus de dégâts pendant 5 secondes. Temps de recharge : 30 secondes."
+      }
+    ],
+    "mind": {
+      "name": "Jeu de pouvoir",
+      "desc": "Les deux têtes ont tendance à se battre pour savoir qui va tuer la proie. Un peu de provocation et le combat devient très physique."
+    },
+    "memory": {
+      "name": "Terre divisée",
+      "desc": "D'où vient-t-il ? Peut-être en a-t-il encore une petite idée."
+    },
+    "belief": {
+      "name": "Agression naturelle",
+      "desc": "Il ne se lasse jamais de mordre et de broyer, et attend toujours avec impatience sa prochaine victime."
+    },
+    "emotion": {
+      "name": "Rugissement intimidant",
+      "desc": "Un rugissement qui sonne le glas des victimes innocentes."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "claudia",
+    "name": "Claudia",
+    "suitName": "Frappe multidirectionnelle",
+    "hash": "SSR6",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Accroît de 13%/17%/20%/23% les dégâts lorsque vous touchez une cible en l'air ou lorsque vous lancez une attaque aérienne. Réinitialise le double saut lorsque vous touchez une cible en l'air."
+      },
+      {
+        "count": 4,
+        "value": "Toucher un ennemi avec une compétence réduit de 1,5/2/2,5/3 seconde(s) le temps de recharge de toutes les compétences d’arme et accroît de 36%/45%/54%/63% les dégâts des compétences de décharge pendant 15 secondes."
+      }
+    ],
+    "mind": {
+      "name": "Analyse rationnelle",
+      "desc": "Apprenez d'abord à accepter les opinions des autres, ensuite émettez un jugement sur le sujet concerné."
+    },
+    "memory": {
+      "name": "Fidèle à soi-même",
+      "desc": "Soyez fidèle à vous-même afin de maîtriser l'avenir sans vous laisser freiner par le passé."
+    },
+    "belief": {
+      "name": "Vertu",
+      "desc": "Tous les efforts déployés pour faire régner la justice seront récompensés."
+    },
+    "emotion": {
+      "name": "Aura de détermination",
+      "desc": "Mettez vos valeurs en action, prenez même le réflexe de les diffuser autour de vous."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "cocoritter",
+    "name": "Cocoritter",
+    "suitName": "Preuve de confiance",
+    "hash": "SSR3",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Augmente de 10%/12%/14%/16% les capacités de soin et les soins reçus."
+      },
+      {
+        "count": 4,
+        "value": "Lorsque vous ou les membres du groupe bénéficiez de soins, votre ATQ augmente de 12,5%/15%/17,5%/20% pendant 6 secondes. Si ce bonus est obtenu plusieurs fois, seul le niveau le plus élevé s'appliquera."
+      }
+    ],
+    "mind": {
+      "name": "Fibre artistique",
+      "desc": "Les idées propres à la création artisanale peuvent également s'appliquer sur le champ de bataille."
+    },
+    "memory": {
+      "name": "Identités",
+      "desc": "Sa silhouette se superpose au protecteur dont elle s'est souvenue."
+    },
+    "belief": {
+      "name": "Garde-malade",
+      "desc": "Son objectif est simple : soulager votre douleur."
+    },
+    "emotion": {
+      "name": "Auxiliaire",
+      "desc": "Faites-moi confiance et laissez-moi vous soutenir."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "crow",
+    "name": "Crow",
+    "suitName": "Poursuite avide",
+    "hash": "SR11",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Accroît de 33%/42%/50%/58% les dégâts critiques pour les cibles à moins de 60% de PV."
+      },
+      {
+        "count": 4,
+        "value": "Les dégâts critiques infligent chaque seconde des dégâts dans le temps supplémentaires équivalant à 12%/15%/18%/21% de l'ATQ pendant 5 secondes. Cet effet ne peut être cumulé."
+      }
+    ],
+    "mind": {
+      "name": "Onzième dimension",
+      "desc": "Certaines choses sont intangibles, pourtant elles existent."
+    },
+    "memory": {
+      "name": "Formatage",
+      "desc": "Le passé, c'est le passé. Il faut vivre dans l'instant présent."
+    },
+    "belief": {
+      "name": "Survie désespérée",
+      "desc": "Ne jamais abandonner, même si c'est plus que risqué."
+    },
+    "emotion": {
+      "name": "Interprétation",
+      "desc": "Un étrange spectacle de clown, parfois très difficile à comprendre."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "echo",
+    "name": "Echo",
+    "suitName": "Déracinement",
+    "hash": "SR12",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "L'utilisation d'une compétence de décharge pour passer à l'arme actuelle confère 80/100/120 points de recharge à l'arme."
+      }
+    ],
+    "mind": {
+      "name": "Jusqu'au bout",
+      "desc": "La dernière ligne droite pour atteindre l'objectif actuel."
+    },
+    "memory": {
+      "name": "Après la crise",
+      "desc": "Souvenir du champ enneigé sur un camion après avoir survécu à une crise."
+    },
+    "belief": {
+      "name": "Noir ou blanc",
+      "desc": "C'est trop difficile pour elle de comprendre tout ce qui est compliqué."
+    },
+    "emotion": {
+      "name": "Mal du pays",
+      "desc": "Deux maisons, deux foyers, tous les deux douillets. Dans tous les cas, c'est le retour au pays."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "ene",
+    "name": "Ene",
+    "suitName": "Surcharge",
+    "hash": "SR8",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Lorsque vous infligez des dégâts supérieurs à 100% de l'ATQ, des dégâts supplémentaires équivalant à 60%/75%/90% de l'ATQ sont infligés. Temps de recharge : 3 secondes."
+      }
+    ],
+    "mind": {
+      "name": "Compétition",
+      "desc": "L'accélération de la production lorsque la puissance augmente sera également transmise à l'arme sous forme de faibles secousses."
+    },
+    "memory": {
+      "name": "Électron libre",
+      "desc": "Le laboratoire de suppresseur d'Hykros n'oubliera jamais le combat qu'elle a mené."
+    },
+    "belief": {
+      "name": "Seconde vie",
+      "desc": "Un corps sans douleur fonctionnera jusqu'à la dernière once d'énergie avant sa destruction complète."
+    },
+    "emotion": {
+      "name": "Photo de famille",
+      "desc": "Elle a été prise uniquement parce que son père a insisté."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "frigg",
+    "name": "Frigg",
+    "suitName": "Corps et mental d'acier",
+    "hash": "SSR15",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2
+      },
+      {
+        "count": 4,
+        "value": "Lorsque vous créez un domaine de gel avec l'arme \"Balmung\", les ennemis se trouvant dans ce domaine subissent des dégâts de givre équivalant à 55%/65%/75%/85% de l'ATQ toutes les secondes."
+      }
+    ],
+    "mind": {
+      "name": "Lame spirituelle",
+      "desc": "Je vais mettre un terme à votre envie de choses interdites."
+    },
+    "memory": {
+      "name": "Post-cataclysme",
+      "desc": "Ma famille… Mes amis… Il ne reste plus que moi à présent…"
+    },
+    "belief": {
+      "name": "Posture",
+      "desc": "Vous avez votre définition, mais qu'est-ce que la justice pour moi ?"
+    },
+    "emotion": {
+      "name": "Doute",
+      "desc": "Qui est derrière tout cela ? Quelqu'un peut-il me le dire ?"
+    }
+  },
+  {
+    "_id": 28,
+    "id": "frost_bot",
+    "name": "Cryobot",
+    "suitName": "Zéro extrême",
+    "hash": "SR3",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Lorsque les PV sont inférieurs à 40%, l'utilisation d'une compétence de décharge pour passer à l'arme actuelle régénère des PV à hauteur de 160%/200%/240% de l'ATQ."
+      }
+    ],
+    "mind": {
+      "name": "Ne pas sous-estimer",
+      "desc": "Ça ressemble peut-être à de la nourriture, mais il faut quand même être prudent."
+    },
+    "memory": {
+      "name": "Fin rapide",
+      "desc": "Le système de combat des armures n'a qu'un seul objectif : en finir le plus rapidement possible."
+    },
+    "belief": {
+      "name": "Gel rapide",
+      "desc": "Gèle les alentours en formant des blocs de glace."
+    },
+    "emotion": {
+      "name": "Impitoyable",
+      "desc": "Qui s'y frotte, s'y pique."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "functional_dash",
+    "name": "Ruée fonctionnelle",
+    "suitName": "Ruée fonctionnelle",
+    "hash": "R2",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 6% les dégâts infligés par les armes de givre."
+      }
+    ],
+    "mind": {
+      "name": "Transporteur",
+      "desc": "Il fait la navette entre les mines et la piste."
+    },
+    "memory": {
+      "name": "Redémarrage",
+      "desc": "Les véhicules peuvent attaquer s'ils reçoivent un nouvel ordre."
+    },
+    "belief": {
+      "name": "Esprit de machine",
+      "desc": "Une modification cybernétique sans aucun libre arbitre, exécutant ainsi les ordres comme une machine."
+    },
+    "emotion": {
+      "name": "Centre de cible",
+      "desc": "L'avantage le plus important dans une modification est de pouvoir attaquer de façon précise sans être gêné par les émotions ou la sensibilité."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "hilda",
+    "name": "Hilda",
+    "suitName": "Parabole",
+    "hash": "SR7",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 15%/19%/22,5% l'ATQ lorsqu'il n'y a aucun ennemi dans un rayon de 6 mètres."
+      }
+    ],
+    "mind": {
+      "name": "Perspicacité",
+      "desc": "Un sens aigu des affaires."
+    },
+    "memory": {
+      "name": "Docker",
+      "desc": "Ses narines ont été bien trop habituées à l'odeur salée de la mer, elles se sentent rapidement en manque."
+    },
+    "belief": {
+      "name": "Marchandage",
+      "desc": "Ne jamais acheter quoi que ce soit au prix fort, toujours marchander jusqu'au bout !"
+    },
+    "emotion": {
+      "name": "Smash ball",
+      "desc": "Il y a peu de loisirs que l'on peut pratiquer avec des amis qui ont un handicap."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "huma",
+    "name": "Huma",
+    "suitName": "À peine éveillé",
+    "hash": "SSR10",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Toucher les cibles avec des attaques d'esquive cause une hémorragie qui inflige des dégâts équivalant à 15%/19%/22,5%/26% de l'ATQ chaque seconde pendant 5 secondes."
+      },
+      {
+        "count": 4,
+        "value": "Réduit de 10%/12%/13%/15% l'ATQ de toutes les cibles dans un rayon de 8 mètres qui subissent des dégâts dans le temps. Si ce bonus est obtenu plusieurs fois, seul le niveau le plus élevé s'appliquera."
+      }
+    ],
+    "mind": {
+      "name": "Désorientation",
+      "desc": "C'est l'instinct qui a fait sortir les oisillons de leur coquille pour voir la lumière."
+    },
+    "memory": {
+      "name": "Page blanche",
+      "desc": "Commencez dès maintenant à écrire le programme d'une toute nouvelle personnalité."
+    },
+    "belief": {
+      "name": "Doucement, mais sûrement",
+      "desc": "Un amnésique comme vous, qui s'efforce toujours de faire une chose après l'autre."
+    },
+    "emotion": {
+      "name": "Innocent",
+      "desc": "L'expression crispée va avec le reste."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "king",
+    "name": "KING",
+    "suitName": "Partisan de la violence",
+    "hash": "SSR4",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Lorsqu'une cible est fracturée, confère un bonus de dégâts de 8%/10%/12%/14% pendant 25 secondes. Si ce bonus est obtenu plusieurs fois, seul le niveau le plus élevé s'appliquera."
+      },
+      {
+        "count": 4,
+        "value": "S'il y a 2 ennemis ou plus à proximité, l'attaque régénère un nombre de PV égal à 14%/18%/22%/26% des dégâts infligés. Le nombre maximal de PV régénéré toutes les 0,5 secondes ne doit pas dépasser 36%/42%/48%/54% de l’ATQ."
+      }
+    ],
+    "mind": {
+      "name": "Règles alternatives",
+      "desc": "Une bonne réputation n'aidera jamais personne à s'en sortir avec un portefeuille vide, alors on commence par le remplir, ensuite on pose les questions."
+    },
+    "memory": {
+      "name": "Vivre pour se battre",
+      "desc": "Ces mineurs travaillent machinalement comme des zombies. Si on ne s'échappe pas, on finira comme eux."
+    },
+    "belief": {
+      "name": "Casse-cou",
+      "desc": "À la recherche de sensations fortes et de joie plus qu'il n'en faut… ce qui n'inclut pas les projets professionnels."
+    },
+    "emotion": {
+      "name": "Armée à lui tout seul",
+      "desc": "Se battre avec ses seuls poings présente quand même des limites. Il l'a appris dès le plus jeune âge."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "meryl",
+    "name": "Meryl",
+    "suitName": "Gardien blanc pur",
+    "hash": "SSR1",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Si, après avoir subi une attaque, vos PV sont inférieurs à 30%, vous gagnez un bouclier équivalant à 20%/26%/32%/40% de vos PV max pendant 10 secondes. Temps de recharge : 90 secondes."
+      },
+      {
+        "count": 4,
+        "value": "Accroît les dégâts de Tourbillon de 36%/45%/54%/63% et régénère des PV équivalant à 30%/38%/44%/50% des dégâts infligés lorsque Tourbillon est actif. Le nombre maximal de PV régénérés toutes les 0,5 seconde ne peut dépasser 60%/72%/81%/90% de l'ATQ."
+      }
+    ],
+    "mind": {
+      "name": "Simulation de combat à l'épée",
+      "desc": "Une simulation complexe de combat à l'épée utilisée manifestement pour le calibrage. Bref, ça ne concerne pas la plupart des gens."
+    },
+    "memory": {
+      "name": "Réveil",
+      "desc": "Des éclats de mémoire en chaîne utilisés pour implanter une conscience. Notez qu'il n'y a pas de mode d'emploi."
+    },
+    "belief": {
+      "name": "Autorité absolue",
+      "desc": "Elle représente évidemment l'autoapprobation et la reconnaissance extérieure du pouvoir d'un Exécutant."
+    },
+    "emotion": {
+      "name": "Détachement",
+      "desc": "Barrières mentales de communication mises en place par rejet de toute socialisation."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "nemesis",
+    "name": "Nemesis",
+    "suitName": "Passerelle de vie",
+    "hash": "SSR14",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Lorsqu'une cible est soignée, son ATQ de foudre augmente de 15%/18%/21%/25% pendant 20 secondes. Non cumulable, et seul celui dont le niveau est le plus élevé fonctionne si obtenu à plusieurs reprises."
+      },
+      {
+        "count": 4,
+        "value": "Lorsque vous vous soignez ou soignez votre Électrode, la cible des soins obtient une charge de \"Foudre\". La prochaine attaque dans un délai de 30 secondes est imprégnée de \"Foudre\", infligeant des dégâts de foudre correspondant à 300%/375%/450%/525% de l'ATQ de foudre (les dégâts causés par les Électrodes sont réduits de 50%). Ne peut être déclenché plus d'une fois en 10 secondes. Les charges de \"Foudre\" ne se cumulent pas. Seul le niveau le plus élevé est appliqué si obtenu à plusieurs reprises."
+      }
+    ],
+    "mind": {
+      "name": "Cellules d'alliage",
+      "desc": "Plus de la moitié de la coque a été remplacée. Je me demande s'il est possible de mesurer la proportion des âmes ?"
+    },
+    "memory": {
+      "name": "Ours en peluche",
+      "desc": "J'ai perdu deux endroits que je pouvais appeler chez moi, mais heureusement, certaines de mes possessions sont restées avec moi pendant tout ce temps."
+    },
+    "belief": {
+      "name": "Actualisation",
+      "desc": "L'innocence s'émousse et le courage a l'air plus mûr, plus affûté."
+    },
+    "emotion": {
+      "name": "Pulsion intérieure",
+      "desc": "Le souvenir et le cœur de l'humanité peuvent être soit un obstacle, soit une force motrice."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "pepper",
+    "name": "Pepper",
+    "suitName": "Incessant",
+    "hash": "SR6",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 10%/12,5%/15% la vitesse d'obtention d’une recharge d'arme."
+      }
+    ],
+    "mind": {
+      "name": "Chaîne de montage",
+      "desc": "Qui peut lui expliquer qu'elle se tue à la tâche depuis… beaucoup trop longtemps ?"
+    },
+    "memory": {
+      "name": "Cicatrice chirurgicale",
+      "desc": "Les aberrations sont irréversibles, tout comme les cicatrices postopératoires."
+    },
+    "belief": {
+      "name": "Brassard",
+      "desc": "Un médecin ne peut ni se détourner, ni être complaisant, ni être impuissant."
+    },
+    "emotion": {
+      "name": "Somnifère",
+      "desc": "Elle souffre d'insomnies car elle refuse de faire face à la mort dans ses rêves."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "plunder",
+    "name": "Pillage",
+    "suitName": "Pillage",
+    "hash": "R4",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 6% les dégâts infligés par les armes physiques."
+      }
+    ],
+    "mind": {
+      "name": "Provocateurs",
+      "desc": "Des Ravageurs qui sèment le chaos partout juste parce qu'ils le peuvent."
+    },
+    "memory": {
+      "name": "Anarchistes",
+      "desc": "Ils ne suivent aucun ordre. Ils ne jurent que par le chaos."
+    },
+    "belief": {
+      "name": "Tueur en mêlée",
+      "desc": "Plus personne ne veut combattre de tels adversaires."
+    },
+    "emotion": {
+      "name": "Porteur de chaos",
+      "desc": "Certaines choses chaotiques par nature ne diraient pas non à devenir encore plus chaotiques."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "robarg",
+    "name": "Robarg",
+    "suitName": "Dévoreur",
+    "hash": "SR1",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Lorsqu'une cible est fracturée, elle est empoisonnée et subit des dégâts équivalant à 45%/56%/67,5% de son ATQ chaque seconde pendant 10 secondes."
+      }
+    ],
+    "mind": {
+      "name": "Cupidité",
+      "desc": "Enraciné dans l'avidité sans fin."
+    },
+    "memory": {
+      "name": "Instinct",
+      "desc": "Son instinct lui permet toujours d'aller de l'avant."
+    },
+    "belief": {
+      "name": "Épuisement",
+      "desc": "Dévore tout, du corps et de l'énergie jusqu'à votre volonté de survivre."
+    },
+    "emotion": {
+      "name": "Fin",
+      "desc": "Attend la fin avec impatience."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "samir",
+    "name": "Samir",
+    "suitName": "Libération rationnelle",
+    "hash": "SSR9",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Accroît progressivement les dégâts de 1% lorsque vous touchez une cible. Dure 1,5 seconde. Cumulable jusqu'à 10/13/16/20 fois."
+      },
+      {
+        "count": 4,
+        "value": "Accroît de 16%/22%/30%/40% de l'ATQ les dégâts de l'explosion électrique des Étoiles EM doubles."
+      }
+    ],
+    "mind": {
+      "name": "Sens de l'humour",
+      "desc": "Si vous lui dites que ses blagues sont ringardes, elle vous répondra : \"Pourquoi tant de sérieux ?\""
+    },
+    "memory": {
+      "name": "Chers disparus",
+      "desc": "Celui qui vit dans le passé est insaisissable et ne peut pas lâcher prise."
+    },
+    "belief": {
+      "name": "Balle en argent",
+      "desc": "Elle possède une balle en argent. Est-ce une chasseuse de vampires ?"
+    },
+    "emotion": {
+      "name": "Cap sur l'avenir",
+      "desc": "Elle est toujours certaine de sa destinée."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "selfexplosive",
+    "name": "Auto-explosif",
+    "suitName": "Auto-explosif",
+    "hash": "R1",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 6% les dégâts infligés par les armes de feu."
+      }
+    ],
+    "mind": {
+      "name": "Noyau explosif",
+      "desc": "Le noyau omnifère brille fort à l'intérieur."
+    },
+    "memory": {
+      "name": "Liens d'attache",
+      "desc": "Ce ne sont pas de vrais liens, le fabricant voulait juste inspirer la peur."
+    },
+    "belief": {
+      "name": "Toile d'épouvante",
+      "desc": "L'araignée fait souvent plus peur par son apparence que par les dégâts qu'elle peut causer."
+    },
+    "emotion": {
+      "name": "Débordement",
+      "desc": "Sans doute un cauchemar à gérer en groupe."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "shiro",
+    "name": "Shiro",
+    "suitName": "Poème de départ",
+    "hash": "SSR7",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Accroît de 15%/19%/22,5%/26% les dégâts et la fracture pour les cibles à plus de 50% de leurs PV."
+      },
+      {
+        "count": 4,
+        "value": "Lorsque vous rejoignez un combat, vos dégâts augmentent de 20%/25%/30%/35% pendant 35 secondes. Se réinitialise 5 secondes après la fin du combat."
+      }
+    ],
+    "mind": {
+      "name": "Isolement",
+      "desc": "Capricieux comme un chat sauvage, et pourtant on le retrouve parfois assis au bord de l'eau à se demander pourquoi il est si seul."
+    },
+    "memory": {
+      "name": "Mal de terre",
+      "desc": "Une grande partie de la beauté de l'océan provient du fait qu'il ne pourra jamais être entièrement compris."
+    },
+    "belief": {
+      "name": "Chanteuse hors pair",
+      "desc": "Preuve de son impressionnante qualité de chant, trouvée par un chercheur qui a défié la mort pour se procurer l'enregistrement."
+    },
+    "emotion": {
+      "name": "Comme un chat",
+      "desc": "Chaque contact est prudent, chaque regard est habilement évité… C'est sa modeste façon d'aspirer au bonheur."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "sobek",
+    "name": "Sobek",
+    "suitName": "Ombre marécageuse",
+    "hash": "SR4",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 6%/7,5%/9% les dégâts infligés pour chaque ennemi à proximité. Effet cumulable jusqu'à 3 fois."
+      }
+    ],
+    "mind": {
+      "name": "Plan",
+      "desc": "Attention de ne pas vous laisser entraîner dans son mirage."
+    },
+    "memory": {
+      "name": "Opportunité",
+      "desc": "Une patience qui suffit toujours à ce que les malchanceux finissent par marcher dessus."
+    },
+    "belief": {
+      "name": "Confusion",
+      "desc": "Il ne bouge pas. Est-ce qu'il dort ou il économise juste son énergie ?"
+    },
+    "emotion": {
+      "name": "Agitation",
+      "desc": "Il lui arrive de s'ennuyer, mais lorsqu'il s'agite, mieux vaut ne pas être dans les parages."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "standard_operation",
+    "name": "Opération standard",
+    "suitName": "Opération standard",
+    "hash": "R3",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 6% les dégâts infligés par les armes de foudre."
+      }
+    ],
+    "mind": {
+      "name": "Garde standard",
+      "desc": "Être un bon garde armé, c'est avant tout protéger la chose que l'on garde."
+    },
+    "memory": {
+      "name": "Garde exterminateur",
+      "desc": "Sans pitié envers tout ce qui pourrait menacer la chose qu'il garde."
+    },
+    "belief": {
+      "name": "Garde inflexible",
+      "desc": "Peu importe la puissance de son ennemi, il ne tombera pas tant qu'il n'aura pas été complètement détruit."
+    },
+    "emotion": {
+      "name": "Garde dogmatique",
+      "desc": "Les créations industrielles n'ont pas de libre arbitre, mais les règles qu'elles suivent peuvent être considérées comme leurs principes."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "tsubasa",
+    "name": "Tsubasa",
+    "suitName": "Œil du vent",
+    "hash": "SSR2",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Augmente de 14%/16%/18%/20% les dégâts infligés lorsqu'il n'y a aucun ennemi dans un rayon de 4 mètres."
+      },
+      {
+        "count": 4,
+        "value": "En cas de tir à la tête ou avec la Flèche de vent glacé : Tir perçant, accroît de 15%/18%/21%/25% l'ATQ pendant 8 secondes."
+      }
+    ],
+    "mind": {
+      "name": "Girouette",
+      "desc": "\"Le vent souffle.\" Voilà qui résume toutes les raisons de se remettre en route pour partir."
+    },
+    "memory": {
+      "name": "Gravitateur",
+      "desc": "Elle est toujours en mouvement et ne reste qu'aux endroits qu'elle a bien repérés avant."
+    },
+    "belief": {
+      "name": "Dériveur",
+      "desc": "Comment savoir quelle foi est la bonne ? Réponse : Celle qui finit par remporter la victoire."
+    },
+    "emotion": {
+      "name": "Froid glacial",
+      "desc": "Une évaluation rationnelle des relations."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "wandering_aberrant",
+    "name": "Aberrant errant",
+    "suitName": "Lignée de sang sauvage",
+    "hash": "N1",
+    "rarity": "N",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Accroît de 4% les dégâts infligés."
+      }
+    ],
+    "mind": {
+      "name": "Aberrant errant",
+      "desc": "Elle erre depuis qu'elle s'est échappée du laboratoire. Cette aberration est-elle due aux expérimentations ou aux émanations d'omnium ? Personne ne le sait."
+    },
+    "memory": {
+      "name": "Nature sauvage",
+      "desc": "La nature opprimée par la domestication reprend doucement ses droits."
+    },
+    "belief": {
+      "name": "Force brute",
+      "desc": "Il savait probablement qu'il pouvait briser ses chaînes et s'échapper par la force."
+    },
+    "emotion": {
+      "name": "Sans domicile fixe",
+      "desc": "Malgré ses empreintes dans tout Aesperia, toujours pas de foyer en vue… C'est ça d'être né dans un laboratoire."
+    }
+  },
+  {
+    "_id": 28,
+    "id": "zero",
+    "name": "Zero",
+    "suitName": "Incroyable connexion",
+    "hash": "SSR8",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Lorsque vous utilisez une compétence de décharge pour passer à l'arme actuelle, vous gagnez un bouclier équivalant à 150%/200%/250%/300% de l'ATQ pendant 6 secondes."
+      },
+      {
+        "count": 4,
+        "value": "Tant que le bouclier est actif, vous et vos coéquipiers infligez 16%/20%/24%/28% plus de dégâts."
+      }
+    ],
+    "mind": {
+      "name": "Calcul paranormal",
+      "desc": "Briser la logique, subvertir la réalité, et abandonner complètement les formules fondées sur l'expérience pour arriver au résultat final."
+    },
+    "memory": {
+      "name": "Protocole final",
+      "desc": "Les souvenirs ne sont qu'une question d'empreintes. Quant à savoir s'ils sont vrais ou faux, c'est à chacun d'en décider."
+    },
+    "belief": {
+      "name": "Tri des informations",
+      "desc": "Les informations sont créées en triant toutes sortes de données en vrac."
+    },
+    "emotion": {
+      "name": "La loi du plus fort",
+      "desc": "Une loi de la nature et la manifestation de la supériorité individuelle."
+    }
+  }
+]

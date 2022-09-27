@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "functional_dash",
+  "name": "Arremetida Funcional",
+  "suitName": "Arremetida Funcional",
+  "hash": "R2",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta em 6% o dano causado por armas de gelo."
+    }
+  ],
+  "mind": {
+    "name": "Transportador",
+    "desc": "Vai e volta, se desloca entre as minas e o trilho."
+  },
+  "memory": {
+    "name": "Redefinição",
+    "desc": "Veículos podem atacar se receberem um novo comando."
+  },
+  "belief": {
+    "name": "Mente de Máquina",
+    "desc": "Uma cibermodificação desprovida de qualquer livre arbítrio, portanto, executa ordens como uma máquina."
+  },
+  "emotion": {
+    "name": "Na Mosca",
+    "desc": "A maior vantagem de uma modificação é o ataque certeiro livre de emoções e sensibilidade."
+  }
+}

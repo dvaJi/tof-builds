@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Samir: Artimañas",
+      "name": "Artimañas",
       "icon": true,
       "description": "Otorga <b>1</b> acumulación de Concentración cada <b>4</b> segundos cuando Samir no recibe daño. Cada acumulación aumenta el daño infligido en un <b>3%</b>, y puede acumularse hasta <b>4</b> veces. Tras ser golpeada, Samir pierde <b>1</b> acumulación de Concentración, hasta <b>1</b> acumulación por <b>1</b> segundo."
     },
     {
-      "name": "Samir: Sombra",
+      "name": "Sombra",
       "icon": true,
       "description": "Otorga <b>1</b> acumulación de Concentración cada <b>4</b> segundos cuando Samir no recibe daño. Cada acumulación aumenta el daño infligido en un <b>4%</b>, y puede acumularse hasta <b>5</b> veces. Tras ser golpeada, Samir pierde <b>1</b> acumulación de Concentración, hasta <b>1</b> acumulación por <b>2</b> segundos."
     }

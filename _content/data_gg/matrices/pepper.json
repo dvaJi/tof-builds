@@ -1,0 +1,11 @@
+{
+  "name": "Pepper",
+  "id": "pepper",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase speed of obtaining weapon charge by <b>10%/12.5%/15%</b>."
+    }
+  ]
+}

@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "King : Coup de sang-froid",
+      "name": "Coup de sang-froid",
       "icon": true,
       "description": "Tous les <b>7</b> ennemis vaincus par KING, régénère un nombre de PV égal à <b>8%</b> des PV max."
     },
     {
-      "name": "King : Faucheuse de la peur",
+      "name": "Faucheuse de la peur",
       "icon": true,
       "description": "Tous les <b>5</b> ennemis vaincus par KING, régénère un nombre de PV égal à <b>10%</b> des PV max."
     }

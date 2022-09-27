@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cocoritter",
+  "name": "Cocoritter",
+  "suitName": "Preuve de confiance",
+  "hash": "SSR3",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Augmente de 10%/12%/14%/16% les capacités de soin et les soins reçus."
+    },
+    {
+      "count": 4,
+      "value": "Lorsque vous ou les membres du groupe bénéficiez de soins, votre ATQ augmente de 12,5%/15%/17,5%/20% pendant 6 secondes. Si ce bonus est obtenu plusieurs fois, seul le niveau le plus élevé s'appliquera."
+    }
+  ],
+  "mind": {
+    "name": "Fibre artistique",
+    "desc": "Les idées propres à la création artisanale peuvent également s'appliquer sur le champ de bataille."
+  },
+  "memory": {
+    "name": "Identités",
+    "desc": "Sa silhouette se superpose au protecteur dont elle s'est souvenue."
+  },
+  "belief": {
+    "name": "Garde-malade",
+    "desc": "Son objectif est simple : soulager votre douleur."
+  },
+  "emotion": {
+    "name": "Auxiliaire",
+    "desc": "Faites-moi confiance et laissez-moi vous soutenir."
+  }
+}

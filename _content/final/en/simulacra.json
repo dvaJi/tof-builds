@@ -86,12 +86,12 @@
     ],
     "traits": [
       {
-        "name": "Bai Ling: Valor",
+        "name": "Valor",
         "icon": true,
         "description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by <b>8%</b> for <b>12</b> seconds. Cooldown: <b>60</b> seconds."
       },
       {
-        "name": "Bai Ling: Resoluteness",
+        "name": "Resoluteness",
         "icon": true,
         "description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by <b>15%</b> for <b>12</b> seconds. Cooldown: <b>60</b> seconds."
       }
@@ -257,12 +257,12 @@
     ],
     "traits": [
       {
-        "name": "Cocoritter: Assistance",
+        "name": "Assistance",
         "icon": true,
         "description": "When Cocoritter uses a support weapon, increase healing effects she inflicts on others and receives by <b>20%</b>."
       },
       {
-        "name": "Cocoritter: Trust",
+        "name": "Trust",
         "icon": true,
         "description": "When Cocoritter uses a support weapon, increase healing and healing received by <b>20%</b>. And when Cocoritter uses a support-type weapon's discharge skill or weapon skill, increase nearby allies' ATK by <b>15%</b> for <b>5</b> seconds."
       }
@@ -543,12 +543,12 @@
     ],
     "traits": [
       {
-        "name": "Crow: Loner",
+        "name": "Loner",
         "icon": true,
         "description": "When Crow is not in a team, increase damage dealt by <b>6%</b> and reduce damage received by <b>4%</b>."
       },
       {
-        "name": "Crow: Silent Night",
+        "name": "Silent Night",
         "icon": true,
         "description": "When Crow is not in a team, increase damage dealt by <b>10%</b> and reduce damage received by <b>6%</b>. When Crow enters combat, increase damage dealt by <b>12%</b> for <b>12</b> seconds."
       }
@@ -837,12 +837,12 @@
     ],
     "traits": [
       {
-        "name": "Echo: Uprightness",
+        "name": "Uprightness",
         "icon": true,
         "description": "When teamed up with Echo, allies within <b>10</b> meters around Echo gain a damage boost of <b>4%</b> (excluding Echo)."
       },
       {
-        "name": "Echo: Determination",
+        "name": "Determination",
         "icon": true,
         "description": "When teamed up with Echo, allies  within <b>10</b> meters around Echo gain a damage boost of <b>6%</b> (excluding Echo)."
       }
@@ -1014,12 +1014,12 @@
     ],
     "traits": [
       {
-        "name": "Ene: Fast Mode",
+        "name": "Fast Mode",
         "icon": true,
         "description": "When Ene swims, climbs, or glides, reduce endurance consumption by <b>12%</b>."
       },
       {
-        "name": "Ene: Beyond Limits Mode",
+        "name": "Beyond Limits Mode",
         "icon": true,
         "description": "When Ene swims, climbs, or glides, reduce endurance consumption by <b>20%</b>."
       }
@@ -1425,12 +1425,12 @@
     ],
     "traits": [
       {
-        "name": "Hilda: Pedal to the Metal",
+        "name": "Pedal to the Metal",
         "icon": true,
         "description": "When Hilda uses a vehicle, increase speed by <b>7%</b>."
       },
       {
-        "name": "Hilda: Full-speed Drifting",
+        "name": "Full-speed Drifting",
         "icon": true,
         "description": "When Hilda uses a vehicle, increase speed by <b>10%</b>."
       }
@@ -1587,12 +1587,12 @@
     ],
     "traits": [
       {
-        "name": "Huma: Fortitude",
+        "name": "Fortitude",
         "icon": true,
         "description": "Each time Huma receives damage, gain <b>1</b> Fortitude mark and gain <b>1</b> more Fortitude mark if it is flame damage, up to <b>1</b> time per <b>1</b> second and <b>12</b> stacks in total. Upon using a weapon skill, use all Fortitude marks and gain an HP shield equal to the number of marks x<b>0.4%</b> HP for <b>12</b> seconds. If Fortitude marks are used when the effect is stacked up to the maximum, then gain an HP shield equal to the number of marks x<b>0.6%</b> HP."
       },
       {
-        "name": "Huma: Iron Screen",
+        "name": "Iron Screen",
         "icon": true,
         "description": "Each time Huma receives damage, gain <b>1</b> Fortitude mark and gain <b>1</b> more Fortitude mark if it is flame damage, up to <b>1</b> time per <b>1</b> second and <b>12</b> stacks in total. Upon using a weapon skill, use all Fortitude marks and gain an HP shield equal to the number of marks x<b>0.6%</b> HP for <b>12</b> seconds. If Fortitude marks are used when the effect is stacked up to the maximum, then gain an HP shield equal to the number of marks x<b>0.9%</b> HP."
       }
@@ -1881,12 +1881,12 @@
     ],
     "traits": [
       {
-        "name": "KING: Coldblooded Swipe",
+        "name": "Coldblooded Swipe",
         "icon": true,
         "description": "Every <b>7</b> enemies defeated by KING restore HP equal to <b>8%</b> of Max HP."
       },
       {
-        "name": "KING: Fear Reaper",
+        "name": "Fear Reaper",
         "icon": true,
         "description": "Every <b>5</b> enemies defeated by KING restore HP equal to <b>10%</b> of Max HP."
       }
@@ -2182,12 +2182,12 @@
     ],
     "traits": [
       {
-        "name": "Meryl: Cool Rose",
+        "name": "Cool Rose",
         "icon": true,
         "description": "Reduce frost damage received by Meryl by <b>20%</b>, gain immunity to the frostbitten effect, and reduce duration of being frozen by <b>50%</b>."
       },
       {
-        "name": "Meryl: Frosted",
+        "name": "Frosted",
         "icon": true,
         "description": "Reduce frost damage received by Meryl by <b>25%</b>, gain immunity to the frostbitten effect, and reduce duration of being frozen by <b>50%</b>."
       }
@@ -2471,12 +2471,12 @@
     ],
     "traits": [
       {
-        "name": "Nemesis: Metamorphosis",
+        "name": "Metamorphosis",
         "icon": true,
         "description": "After summoning an Electrode, deal volt damage equal to <b>60%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>120%</b> of ATK."
       },
       {
-        "name": "Nemesis: Sublimation",
+        "name": "Sublimation",
         "icon": true,
         "description": "After summoning an Electrode, deal volt damage equal to <b>100%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>200%</b> of ATK."
       }
@@ -2757,12 +2757,12 @@
     ],
     "traits": [
       {
-        "name": "Pepper: Revival",
+        "name": "Revival",
         "icon": true,
         "description": "When Pepper spends satiety to restore HP, increase restoration effect by <b>100%</b>."
       },
       {
-        "name": "Pepper: Source",
+        "name": "Source",
         "icon": true,
         "description": "When Pepper spends satiety to restore HP, increase restoration effect by <b>200%</b>."
       }
@@ -2919,12 +2919,12 @@
     ],
     "traits": [
       {
-        "name": "Samir: Trickery",
+        "name": "Trickery",
         "icon": true,
         "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>3%</b>, and can stack up to <b>4</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>1</b> second."
       },
       {
-        "name": "Samir: Shadow",
+        "name": "Shadow",
         "icon": true,
         "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>4%</b>, and can stack up to <b>5</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>2</b> second."
       }
@@ -3205,12 +3205,12 @@
     ],
     "traits": [
       {
-        "name": "Shiro: Security Alert",
+        "name": "Security Alert",
         "icon": true,
         "description": "When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by <b>10%</b> and physical ATK by an additional <b>7%</b> for <b>8</b> seconds. Cooldown: <b>16</b> seconds."
       },
       {
-        "name": "Shiro: Red Alarm",
+        "name": "Red Alarm",
         "icon": true,
         "description": "When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by <b>16%</b> and physical ATK by an additional <b>10%</b> for <b>8</b> seconds. Cooldown: <b>16</b> seconds."
       }
@@ -3481,12 +3481,12 @@
     ],
     "traits": [
       {
-        "name": "Tsubasa: Rainstorm",
+        "name": "Rainstorm",
         "icon": true,
         "description": "Each time Tsubasa deals damage, gain <b>1</b> stack of Fierce Strike, up to <b>1</b> stack per <b>1</b> second. Each stack adds <b>0.5%</b> ATK, up to <b>15</b> stacks. Refreshes effect duration upon gaining the effect again. The effect lasts for <b>30</b> seconds."
       },
       {
-        "name": "Tsubasa: Raging Waves",
+        "name": "Raging Waves",
         "icon": true,
         "description": "Each time Tsubasa deals damage, gain <b>1</b> stack of Fierce Strike, up to <b>1</b> stack per <b>1</b> second. Each stack adds <b>0.6%</b> ATK, up to <b>30</b> stacks. Refreshes effect duration upon gaining the effect again. The effect lasts for <b>30</b> seconds."
       }
@@ -3772,12 +3772,12 @@
     ],
     "traits": [
       {
-        "name": "Zero: Accurate Calculation",
+        "name": "Accurate Calculation",
         "icon": true,
         "description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by <b>1.5</b> seconds. Can only activate for the same weapon <b>1</b> time every <b>5</b> seconds."
       },
       {
-        "name": "Zero: Overall Planning",
+        "name": "Overall Planning",
         "icon": true,
         "description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by <b>3</b> seconds. Can only activate for the same weapon <b>1</b> time every <b>5</b> seconds."
       }
@@ -3950,6 +3950,295 @@
         "mat2": {
           "id": "acidproof_glaze_ii",
           "name": "Acidproof glaze II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "claudia",
+    "name": "Claudia",
+    "weapon": "Guren Blade",
+    "weapon_id": "guren_blade",
+    "birthday": "16 January (Capricorn)",
+    "birthplace": "Hykros",
+    "gender": "Female",
+    "info": "Dependable, tenacious, and overwhelmingly excited when it comes to battle. Comes across as aloof, but is kind and passionate once people get to know her. Claudia has a burning sense of justice, standing always ready to help others and fight injustice wherever she finds it.",
+    "description": "A tall Hykros Executor with a bit of a military demeanor.\nHer mastery over one-handed swords and mobility saw her on the front lines of difficult operations, but Claudia was sent to a medical facility after being severely injured in Operation Dark Apocalypse.",
+    "like": "Savory foods, hats with personality",
+    "dislike": "Felines",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "DPS",
+    "shatter": 7.5,
+    "charge": 12,
+    "skills": [
+      {
+        "name": "Quick Slash",
+        "type": [
+          "Attack"
+        ],
+        "description": "While on the ground, swing the blade to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.8%</b> of ATK + <b>2</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>59.3%</b> of ATK + <b>3</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>104.1%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>177.8%</b> of ATK + <b>9</b> and <b>launch</b> the target."
+      },
+      {
+        "name": "Jumping Strike",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "While airborne, tap normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.9%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>48.4%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>114.6%</b> of ATK + <b>6</b>.\nFourth Attack: Deal damage equal to <b>139%</b> of ATK + <b>7</b>."
+      },
+      {
+        "name": "Cyclone",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target and deal <b>47.8%</b> of ATK + <b>3</b> to a single target."
+      },
+      {
+        "name": "Diving Edge",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Tap and hold normal attack while airborne, or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\nWhile falling, deal damage equal to <b>10%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>76.4%</b> of ATK + <b>4</b> and knock the target back.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage"
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+      },
+      {
+        "name": "Leap Attack",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Tap normal attack during the short period after dodging to trigger Leap Attack.\nThe Wanderer swings their blade and deals damage equal to <b>37.9%</b> of ATK + <b>2</b> to the target, <b>strongly suspending</b> them and becoming airborne, then dealing additional damage equal to <b>56.8%</b> of ATK + <b>3</b>."
+      },
+      {
+        "name": "Roam",
+        "type": [
+          "Skill"
+        ],
+        "description": "Dance through targets while swinging the blade, dealing damage equal to <b>418%</b> of ATK + <b>22</b> in total to up to <b>5</b> targets (attack on the same target deal <b>20%</b> less damage). At the end of the Skill, slash the space in front, dealing damage equal to <b>264%</b> of ATK + <b>14</b> to targets, and suspend them. Immune to crowd-control effects while ability is in use, and all damage taken is reduced by <b>50%</b>. Cooldown: <b>15</b> seconds."
+      },
+      {
+        "name": "Unbridled Flurry",
+        "type": [
+          "Discharge"
+        ],
+        "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, who charges and <b>strongly suspends</b> a target, dealing <b>523.3%</b> of ATK + <b>28</b> damage, leaving behind a Bladestorm that deals <b>209.6%</b> of ATK + <b>11</b> damage to the target, while gaining immunity to grievous/freeze/burn/electrify effects for <b>5</b> seconds."
+      }
+    ],
+    "weapon_type": {
+      "name": "Grievous",
+      "description": "Fully charged weapons will inflict damage equal to <b>137%</b> of ATK with the next attack, and make the target grievous for <b>7</b> seconds, taking <b>20%</b> extra damage."
+    },
+    "weapon_resonance": {
+      "name": "Physical Resonance",
+      "description": "<b>Physical Resonance</b>: Increase physical ATK by <b>15%</b> and physical resistance by <b>25%</b>. Activate by equipping <b>2</b> or more physical-damage weapons. This set effect also works with weapons in the off-hand slot. This effect does not stack."
+    },
+    "advancement": [
+      "Each time when a skill or discharge skill hits a target, a stack of damage boost is granted, which increases damage dealt by <b>8%</b> for <b>25</b> seconds (stacks up to <b>3</b> times; each successful skill or discharge use can only grant one stack).",
+      "Increase the current weapon's base ATK growth by <b>16%</b>.",
+      "Hitting a target with a skill or discharge skill applies a stack of War Wounds to the target, increasing incoming physical damage and shatter effects from physical and elemental weapons taken by the target by <b>10%</b> for <b>15</b> seconds. Stack up to <b>1</b> time.",
+      "Increase the current weapon's base HP growth by <b>32%</b>.",
+      "Hitting targets with skills or discharge skills grants damage boost, which increases all damage by <b>20%</b> for <b>25</b> seconds. This effect does not stack.",
+      "Hitting the same target no longer reduces the damage dealt. After using Guren Blade or a discharge skill, all targets with War Wounds within 8 meters gain another <b>1</b> stack of War Wounds."
+    ],
+    "traits": [
+      {
+        "name": "Blink",
+        "icon": true,
+        "description": "Go invisible for <b>1</b> seconds upon dodging."
+      },
+      {
+        "name": "Shadow",
+        "icon": true,
+        "description": "Go invisible for <b>1.5</b> seconds upon dodging."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano coating I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Heart of summit",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano coating II",
           "rarity": "SR",
           "amount": 5
         },

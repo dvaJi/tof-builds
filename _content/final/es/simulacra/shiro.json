@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Shiro: Alerta de Seguridad",
+      "name": "Alerta de Seguridad",
       "icon": true,
       "description": "Cuando Shiro utiliza una habilidad de armas o una habilidad de descarga, aumenta todos los tipos de ATQ en un <b>10%</b> y el ATQ físico en un <b>7%</b> adicional durante <b>8</b> segundos. Enfriamiento: <b>16</b> segundos."
     },
     {
-      "name": "Shiro: Alerta Roja",
+      "name": "Alerta Roja",
       "icon": true,
       "description": "Cuando Shiro utiliza una habilidad de armas o una habilidad de descarga, aumenta todos los tipos de ATQ en un <b>16%</b> y el ATQ físico en un <b>10%</b> adicional durante <b>8</b> segundos. Enfriamiento: <b>16</b> segundos."
     }

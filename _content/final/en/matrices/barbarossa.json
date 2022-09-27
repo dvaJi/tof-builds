@@ -1,0 +1,30 @@
+{
+  "_id": 3,
+  "id": "barbarossa",
+  "name": "Barbarossa",
+  "suitName": "Double Nightmares",
+  "hash": "SR5",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Upon switching to the weapon, gain 50%/62.5%/75% damage reflection for 3 seconds. Cooldown: 30 seconds. Upon switching to another weapon, gain a 20%/25%/30% damage boost for 5 seconds. Cooldown: 30 seconds."
+    }
+  ],
+  "mind": {
+    "name": "Power Play",
+    "desc": "The two heads usually fight over who gets to kill the prey. A little instigation and the fight turns physical."
+  },
+  "memory": {
+    "name": "Divided Land",
+    "desc": "Where was it from? Maybe it still somewhat knows."
+  },
+  "belief": {
+    "name": "Natural Aggression",
+    "desc": "It never gets tired of the eternal biting and grinding, always eagerly awaits the next victim."
+  },
+  "emotion": {
+    "name": "Intimidating Roar",
+    "desc": "It starts with a roar—that is also the death knell for the innocent victims."
+  }
+}

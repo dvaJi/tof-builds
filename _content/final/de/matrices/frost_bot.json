@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "frost_bot",
+  "name": "Frost-Bot",
+  "suitName": "Zero Extrem",
+  "hash": "SR3",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Bei LP unter 40% der max. LP, stellt die Anwendung einer Entladungsfähigkeit, um zur aktuellen Waffe zu wechseln, LP in Höhe von 160%/200%/240% des ANG wieder her."
+    }
+  ],
+  "mind": {
+    "name": "Nicht unterschätzen",
+    "desc": "Sieht tatsächlich wie etwas zu essen aus, aber man sollte trotzdem vorsichtig sein."
+  },
+  "memory": {
+    "name": "Schnelles Ende",
+    "desc": "Das Kampfsystem des Mecha kennt nur ein Ziel: den Kampf so schnell wie möglich zu beenden."
+  },
+  "belief": {
+    "name": "Schnelles Einfrieren",
+    "desc": "Friere die Umgebung in Eisblöcke ein."
+  },
+  "emotion": {
+    "name": "Rücksichtslos",
+    "desc": "Es ist nicht ratsam, dagegen zu kämpfen."
+  }
+}

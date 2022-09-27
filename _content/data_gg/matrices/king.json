@@ -1,0 +1,15 @@
+{
+  "name": "King",
+  "id": "king",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "For every 10% shatter applied to a target, increase damage dealt by <b>4%/5%/6%/7%</b> for 25 seconds, up to 3 stacks."
+    },
+    {
+      "count": 4,
+      "value": "When there are 3 or more enemies around, restore HP equal to <b>10%/12%/13%/14%</b> of damage dealt. The maximum HP restored per 0.5 seconds can not exceed <b>30%/33%/34.5%/36%</b> of ATK."
+    }
+  ]
+}

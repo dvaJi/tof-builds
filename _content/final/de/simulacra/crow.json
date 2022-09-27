@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Crow: Einzelgänger",
+      "name": "Einzelgänger",
       "icon": true,
       "description": "Erhöht den verursachten Schaden um <b>6%</b> und verringert den erlittenen Schaden um <b>4%</b>, wenn Crow in keinem Team ist."
     },
     {
-      "name": "Crow: Stille Nacht",
+      "name": "Stille Nacht",
       "icon": true,
       "description": "Erhöht den verursachten Schaden um <b>10%</b> und verringert den erlittenen Schaden um <b>6%</b>, wenn Crow in keinem Team ist. Wenn Crow einen Kampf beginnt, wird der Schaden, den er verursacht, für <b>12</b> Sek. um <b>12%</b> erhöht."
     }

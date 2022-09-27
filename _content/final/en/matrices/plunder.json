@@ -1,0 +1,30 @@
+{
+  "_id": 18,
+  "id": "plunder",
+  "name": "Plunder",
+  "suitName": "Plunder",
+  "hash": "R4",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt by physical weapons by 6%."
+    }
+  ],
+  "mind": {
+    "name": "Provocateurs",
+    "desc": "Ravagers that raise hell everywhere just because they have the might to do so."
+  },
+  "memory": {
+    "name": "Anarchists",
+    "desc": "They follow no orders. Chaos is what they want."
+  },
+  "belief": {
+    "name": "Melee Killer",
+    "desc": "No one wants to fight them again."
+  },
+  "emotion": {
+    "name": "Chaosbringer",
+    "desc": "Some things are chaotic in nature and wouldn't mind getting more chaotic."
+  }
+}

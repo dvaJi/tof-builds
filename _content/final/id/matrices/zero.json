@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "zero",
+  "name": "Zero",
+  "suitName": "Incredible Connection",
+  "hash": "SSR8",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Setelah menggunakan Discharge Skill untuk beralih ke senjata saat ini, memperoleh shield sebanyak 150%/200%/250%/300% ATK selama 6 detik."
+    },
+    {
+      "count": 4,
+      "value": "Saat shield ini aktif, kamu dan rekanmu satu tim menimpakan damage 16%/20%/24%/28% lebih besar."
+    }
+  ],
+  "mind": {
+    "name": "Paranormal Calculation",
+    "desc": "Menerobos logika, menumbangkan realitas, sepenuhnya meninggalkan formula berdasarkan pengalaman untuk mencapai hasil akhir."
+  },
+  "memory": {
+    "name": "Terminal Protocol",
+    "desc": "Kenangan cuma masalah jejak. Apakah itu nyata atau tidak, kamulah yang harus memutuskannya sendiri."
+  },
+  "belief": {
+    "name": "Info Sort",
+    "desc": "Informasi yang didapat dengan memilah-milah kabar dan data yang belum terbukti kebenarannya."
+  },
+  "emotion": {
+    "name": "Survival of Fittest",
+    "desc": "Sintasan yang paling layak merupakan hukum alam dan perwujudan kesuperioran seseorang."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "suitName": "Verrou mortel",
+  "hash": "SR9",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 12%/15%/18% les dégâts infligés aux cibles gravement blessées."
+    }
+  ],
+  "mind": {
+    "name": "Diversité",
+    "desc": "Que faire quand on y pense et que ça se propage ?"
+  },
+  "memory": {
+    "name": "Dissipation",
+    "desc": "Du désordre à l'ordre ? Une intervention extérieure est probablement nécessaire. Probablement."
+  },
+  "belief": {
+    "name": "Commerce équitable",
+    "desc": "Les biens doivent être échangés selon leur valeur propre. Mais comment donner une valeur à quelque chose d'incommensurable ?"
+  },
+  "emotion": {
+    "name": "Énième puissance",
+    "desc": "Si seulement l'expérience acquise et le retour sur investissement fonctionnaient de manière exponentielle…"
+  }
+}

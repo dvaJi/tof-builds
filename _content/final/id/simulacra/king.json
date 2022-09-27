@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "KING: Coldblooded Swipe",
+      "name": "Coldblooded Swipe",
       "icon": true,
       "description": "Setiap <b>7</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>8%</b> Max HP."
     },
     {
-      "name": "KING: Fear Reaper",
+      "name": "Fear Reaper",
       "icon": true,
       "description": "Setiap <b>5</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>10%</b> Max HP."
     }

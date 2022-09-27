@@ -100,12 +100,12 @@
   ],
   "traits": [
     {
-      "name": "Ene: Modo Rápido",
+      "name": "Modo Rápido",
       "icon": true,
       "description": "Cuando Ene nada, trepa o se desliza, reduce el consumo de resistencia un <b>12%</b>."
     },
     {
-      "name": "Ene: Modo Más Allá de los Límites",
+      "name": "Modo Más Allá de los Límites",
       "icon": true,
       "description": "Cuando Ene nada, trepa o se desliza, reduce el consumo de resistencia un <b>20%</b>."
     }

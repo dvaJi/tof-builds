@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "apophis",
+  "name": "Apophis",
+  "suitName": "Internal Struggle",
+  "hash": "SR2",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Menimpakan damage lebih tinggi di HP lebih rendah. Menimpakan damage maksimum saat HP 20%. Damage dapat ditingkatkan hingga sebesar 20%/25%/30%."
+    }
+  ],
+  "mind": {
+    "name": "Giant Body",
+    "desc": "Berukuran raksasa, dan setiap gerakannya menyebabkan perubahan besar."
+  },
+  "memory": {
+    "name": "Confrontation",
+    "desc": "Apa yang aku lawan? Takdir atau diriku sendiri?"
+  },
+  "belief": {
+    "name": "Titik Lemah",
+    "desc": "Kelemahannya adalah konfigurasi keamanan yang ditanam di dalam chip tersebut, yang tidak dapat diakali atau dilawan."
+  },
+  "emotion": {
+    "name": "Hatred",
+    "desc": "Mengapa ini dibuat, dan mengapa ini dimodifikasi?"
+  }
+}

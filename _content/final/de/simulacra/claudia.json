@@ -1,0 +1,289 @@
+{
+  "_id": 17,
+  "id": "claudia",
+  "name": "Claudia",
+  "weapon": "Guren-Klinge",
+  "weapon_id": "guren_blade",
+  "birthday": "16. Januar (Steinbock)",
+  "birthplace": "Hykros",
+  "gender": "Weiblich",
+  "info": "Zuverlässig, zäh und unglaublich enthusiastisch, wenn es ums Kämpfen geht. Wirkt distanziert, ist aber freundlich und leidenschaftlich, wenn man sie besser kennenlernt. Claudia hat einen ausgeprägten Sinn für Gerechtigkeit und ist stets bereit, anderen zu helfen und gegen Ungerechtigkeit einzustehen.",
+  "description": "Eine große Hykros-Vollstreckerin mit einem leicht militärischen Auftreten.\nDa sie herausragend mit Einhandschwertern umgehen und außerordentlich agil ist, war Claudia an schwierigen Einsätzen an vorderster Front beteiligt, kam aber in eine medizinische Einrichtung, nachdem sie in der Operation „Dunkle Apokalypse“ schwer verletzt wurde.",
+  "like": "Herzhaftes Essen, extravagante Hüte",
+  "dislike": "Katzen",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "Schaden pro Sek.",
+  "shatter": 7.5,
+  "charge": 12,
+  "skills": [
+    {
+      "name": "Schneller Schnitt",
+      "type": [
+        "Attack"
+      ],
+      "description": "Während du auf dem Boden stehst, schwinge die Klinge, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>46.8%</b> des ANG + <b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>59.3%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>104.1%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>177.8%</b> des ANG + <b>9</b> und <b>schleudert</b> das Ziel in die Luft."
+    },
+    {
+      "name": "Sprungschlag",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Während du in der Luft bist, tippe auf normaler Angriff, um 4 Mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>27.9%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>48.4%</b> des ANG + <b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>114.6%</b> des ANG + <b>6</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>139%</b> des ANG + <b>7</b>."
+    },
+    {
+      "name": "Zyklon",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben und fügt Schaden in Höhe von <b>47.8%</b> des ANG + <b>3</b> zu."
+    },
+    {
+      "name": "Fallender Schwung",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nFügt beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> und schlägst das Ziel zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+    },
+    {
+      "name": "Schleichattacke",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+    },
+    {
+      "name": "Sprungangriff",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Sprungangriff“ auszulösen.\nDer Wanderer schwingt die Klinge und fügt dem Ziel Schaden in Höhe von <b>37.9%</b> des ANG + <b>2</b> zu, lässt das Ziel <b>länger schweben</b> und springt selbst in die Luft, um zusätzlich Schaden in Höhe von <b>56.8%</b> des ANG + <b>3</b> zu verursachen."
+    },
+    {
+      "name": "Durchstreifen",
+      "type": [
+        "Skill"
+      ],
+      "description": "Der Anwender tanzt zwischen den Gegnern hindurch und verursacht an bis zu <b>5</b> Zielen insgesamt Schaden in Höhe von <b>418%</b> des ANG + <b>22</b> (Angriffe auf dasselbe Ziel verursachen <b>20%</b> weniger Schaden). Am Ende der Fähigkeit fügt der Anwender Gegnern im Bereich vor sich mit einem Hieb Schaden in Höhe von <b>264%</b> des ANG + <b>14</b> zu und lässt sie schweben. Macht immun gegen Massenkontrolleffekte und verringert erlittenen Schaden um <b>50%</b>. Abklingzeit: <b>15</b> Sek."
+    },
+    {
+      "name": "Unbändiger Ansturm",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und er greift ein Ziel an, lässt es <b>länger schweben</b> und verursacht Schaden in Höhe von <b>523.3%</b> des ANG + <b>28</b>. Dabei wird ein Klingensturm hinterlassen, der dem Ziel Schaden in Höhe von <b>209.6%</b> des ANG + <b>11</b> zufügt. Gewährt außerdem <b>5</b> Sek. lang Immunität gegen „Verwunden“/„Einfrieren“/„Verbrennen“/„Elektrisieren“."
+    }
+  ],
+  "weapon_type": {
+    "name": "Verwunden",
+    "description": "Voll geladene Waffen verursachen beim nächsten Angriff Schaden in Höhe von <b>137%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
+  },
+  "weapon_resonance": {
+    "name": "Physische Resonanz",
+    "description": "<b>Physische Resonanz</b>: Erhöht physischen ANG um <b>15%</b> und physischen Widerstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Physischer-Schaden-Waffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Dieser Effekt kann nicht gestapelt werden."
+  },
+  "advancement": [
+    "Bei einem Treffer mit Fähigkeiten oder Entladungsfähigkeiten wird jeweils ein Stapel Schadensbonus gewährt, der <b>25</b> Sek. lang den verursachten Schaden um <b>8%</b> erhöht. Bis zu <b>3</b>-mal stapelbar. Pro Treffer wird nur ein Stapel gewährt.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Treffer mit Fähigkeiten und Entladungsfähigkeiten fügen dem Ziel einen Stapel „Kriegswunde“ zu, der durch physische und Elementarwaffen erlittenen Schaden und erlittene „Zertrümmern“-Effekte für <b>15</b> Sek. um <b>10%</b> erhöht. Bis zu <b>1</b>-mal stapelbar.",
+    "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Werden Ziele mit Fähigkeiten oder Entladungsfähigkeiten getroffen, gewährt dies einen Schadensbonus, der allen Schaden <b>25</b> Sek. lang um <b>20%</b> erhöht. (Effekt kann nicht gestapelt werden.)",
+    "Treffer gegen dasselbe Ziel verringern nicht mehr den verursachten Schaden. Der Einsatz von Guren-Klinge oder einer Entladungsfähigkeit fügt allen Zielen mit Kriegswunden im Umkreis von 8 Metern <b>1</b> weiteren Stapel Kriegswunde zu."
+  ],
+  "traits": [
+    {
+      "name": "Blinzeln",
+      "icon": true,
+      "description": "Anwender ist nach „Ausweichen“ für <b>1</b> Sek. unsichtbar."
+    },
+    {
+      "name": "Schatten",
+      "icon": true,
+      "description": "Anwender ist nach „Ausweichen“ für <b>1,5</b> Sek. unsichtbar."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Steinkern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofaser-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "Herz des Gipfels",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

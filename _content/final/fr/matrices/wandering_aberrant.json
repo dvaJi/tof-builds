@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "wandering_aberrant",
+  "name": "Aberrant errant",
+  "suitName": "Lignée de sang sauvage",
+  "hash": "N1",
+  "rarity": "N",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 4% les dégâts infligés."
+    }
+  ],
+  "mind": {
+    "name": "Aberrant errant",
+    "desc": "Elle erre depuis qu'elle s'est échappée du laboratoire. Cette aberration est-elle due aux expérimentations ou aux émanations d'omnium ? Personne ne le sait."
+  },
+  "memory": {
+    "name": "Nature sauvage",
+    "desc": "La nature opprimée par la domestication reprend doucement ses droits."
+  },
+  "belief": {
+    "name": "Force brute",
+    "desc": "Il savait probablement qu'il pouvait briser ses chaînes et s'échapper par la force."
+  },
+  "emotion": {
+    "name": "Sans domicile fixe",
+    "desc": "Malgré ses empreintes dans tout Aesperia, toujours pas de foyer en vue… C'est ça d'être né dans un laboratoire."
+  }
+}

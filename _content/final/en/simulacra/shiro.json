@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Shiro: Security Alert",
+      "name": "Security Alert",
       "icon": true,
       "description": "When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by <b>10%</b> and physical ATK by an additional <b>7%</b> for <b>8</b> seconds. Cooldown: <b>16</b> seconds."
     },
     {
-      "name": "Shiro: Red Alarm",
+      "name": "Red Alarm",
       "icon": true,
       "description": "When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by <b>16%</b> and physical ATK by an additional <b>10%</b> for <b>8</b> seconds. Cooldown: <b>16</b> seconds."
     }

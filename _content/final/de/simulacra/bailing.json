@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Bai Ling: Tapferkeit",
+      "name": "Tapferkeit",
       "icon": true,
       "description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für <b>12</b> Sek. um <b>8%</b>. Abklingzeit: <b>60</b> Sek."
     },
     {
-      "name": "Bai Ling: Entschlossenheit",
+      "name": "Entschlossenheit",
       "icon": true,
       "description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für <b>12</b> Sek. um <b>15%</b>. Abklingzeit: <b>60</b> Sek."
     }

@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "king",
+  "name": "KING",
+  "suitName": "Partisan de la violence",
+  "hash": "SSR4",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Lorsqu'une cible est fracturée, confère un bonus de dégâts de 8%/10%/12%/14% pendant 25 secondes. Si ce bonus est obtenu plusieurs fois, seul le niveau le plus élevé s'appliquera."
+    },
+    {
+      "count": 4,
+      "value": "S'il y a 2 ennemis ou plus à proximité, l'attaque régénère un nombre de PV égal à 14%/18%/22%/26% des dégâts infligés. Le nombre maximal de PV régénéré toutes les 0,5 secondes ne doit pas dépasser 36%/42%/48%/54% de l’ATQ."
+    }
+  ],
+  "mind": {
+    "name": "Règles alternatives",
+    "desc": "Une bonne réputation n'aidera jamais personne à s'en sortir avec un portefeuille vide, alors on commence par le remplir, ensuite on pose les questions."
+  },
+  "memory": {
+    "name": "Vivre pour se battre",
+    "desc": "Ces mineurs travaillent machinalement comme des zombies. Si on ne s'échappe pas, on finira comme eux."
+  },
+  "belief": {
+    "name": "Casse-cou",
+    "desc": "À la recherche de sensations fortes et de joie plus qu'il n'en faut… ce qui n'inclut pas les projets professionnels."
+  },
+  "emotion": {
+    "name": "Armée à lui tout seul",
+    "desc": "Se battre avec ses seuls poings présente quand même des limites. Il l'a appris dès le plus jeune âge."
+  }
+}

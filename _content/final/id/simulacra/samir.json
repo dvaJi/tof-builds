@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Samir: Trickery",
+      "name": "Trickery",
       "icon": true,
       "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>3%</b>, dan bisa ditumpuk hingga <b>4</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>1</b> detik."
     },
     {
-      "name": "Samir: Shadow",
+      "name": "Shadow",
       "icon": true,
       "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>4%</b>, dan bisa ditumpuk hingga <b>5</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>2</b> detik."
     }

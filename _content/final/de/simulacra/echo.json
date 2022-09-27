@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "Echo: Aufrichtigkeit",
+      "name": "Aufrichtigkeit",
       "icon": true,
       "description": "Wenn das Ziel mit Echo in einem Team ist, erhalten Verbündete im Umkreis von <b>10</b> Metern um Echo einen Schadensbonus von <b>4%</b> (außer Echo)."
     },
     {
-      "name": "Echo: Entschlossenheit",
+      "name": "Entschlossenheit",
       "icon": true,
       "description": "Wenn das Ziel mit Echo in einem Team ist, erhalten Verbündete im Umkreis von <b>10</b> Metern um Echo einen Schadensbonus von <b>6%</b> (außer Echo)."
     }

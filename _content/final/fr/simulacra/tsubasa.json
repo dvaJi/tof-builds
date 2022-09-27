@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Tsubasa : Pluie torrentielle",
+      "name": "Pluie torrentielle",
       "icon": true,
       "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,5%</b> d'ATQ, jusqu'à <b>15</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
     },
     {
-      "name": "Tsubasa : Vagues déchaînées",
+      "name": "Vagues déchaînées",
       "icon": true,
       "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,6%</b> d'ATQ, jusqu'à <b>30</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
     }

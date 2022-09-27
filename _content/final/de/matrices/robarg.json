@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "robarg",
+  "name": "Robarg",
+  "suitName": "Vertilger",
+  "hash": "SR1",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Vergiftet ein Ziel, das von „Zertrümmern“ betroffen ist und fügt ihm für 10 Sek. jede Sek. Schaden in Höhe von 45%/56%/67,5% des ANG zu."
+    }
+  ],
+  "mind": {
+    "name": "Habgier",
+    "desc": "Ist auf den Geiz zurückzuführen und kennt anscheinend kein Ende."
+  },
+  "memory": {
+    "name": "Instinkt",
+    "desc": "Der Instinkt hat immer das Sagen."
+  },
+  "belief": {
+    "name": "Erschöpfung",
+    "desc": "Verschlingt alles – Körper, Energie und sogar den Überlebenswillen."
+  },
+  "emotion": {
+    "name": "Das Ende",
+    "desc": "Sehnt sich nach dem Ende."
+  }
+}

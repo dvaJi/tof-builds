@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "samir",
+  "name": "Samir",
+  "suitName": "Liberación racional",
+  "hash": "SSR9",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta el daño progresivamente en un 1% al golpear a un objetivo. Se puede acumular hasta 10/13/16/20 veces. Dura 1.5 segundos."
+    },
+    {
+      "count": 4,
+      "value": "Aumenta el daño por explosión eléctrica de las Estrellas Magnéticas Dobles un 16%/22%/30%/40% del ATQ."
+    }
+  ],
+  "mind": {
+    "name": "solo bromeaba",
+    "desc": "Si piensas que sus bromas son cursis, ella te responderá: \"¿Por qué esa cara seria?\"."
+  },
+  "memory": {
+    "name": "la que se marchó",
+    "desc": "Quien vive en el pasado es inalcanzable y no se puede soltar."
+  },
+  "belief": {
+    "name": "bala de plata",
+    "desc": "Ella tiene una bala de plata. ¿Está cazando vampiros?"
+  },
+  "emotion": {
+    "name": "enfoque de futuro",
+    "desc": "Siempre está segura de su destino."
+  }
+}

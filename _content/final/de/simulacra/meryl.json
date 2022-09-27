@@ -109,12 +109,12 @@
   ],
   "traits": [
     {
-      "name": "Meryl: Kühle Rose",
+      "name": "Kühle Rose",
       "icon": true,
       "description": "Verringert den von Meryl erlittenen Frostschaden um <b>20%</b>, gewährt Immunität gegen Erfrieren und verringert die Dauer von Erstarren um <b>50%</b>."
     },
     {
-      "name": "Meryl: Frostig",
+      "name": "Frostig",
       "icon": true,
       "description": "Verringert den von Meryl erlittenen Frostschaden um <b>25%</b>, gewährt Immunität gegen Erfrieren und verringert die Dauer von Erstarren um <b>50%</b>."
     }

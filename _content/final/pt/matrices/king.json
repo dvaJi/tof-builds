@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "king",
+  "name": "KING",
+  "suitName": "Defensor da Violência",
+  "hash": "SSR4",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Ganha 8%/10%/12%/14% de reforço de dano durante 25 segundos quando um alvo é despedaçado. Somente o nível mais alto é aplicado quando o efeito é obtido repetidamente."
+    },
+    {
+      "count": 4,
+      "value": "O acerto restaura vida igual a 14%/18%/22%/26% do dano causado ao atacar quando houver mais do que 2 inimigos por perto. O máximo de vida restaurada a cada 0,5 segundo não deve exceder 36%/42%/48%/54% do ATQ."
+    }
+  ],
+  "mind": {
+    "name": "Líder do Submundo",
+    "desc": "Uma boa reputação não põe comida na mesa, então primeiro vamos encher a carteira e depois fazemos perguntas."
+  },
+  "memory": {
+    "name": "Viver para Lutar",
+    "desc": "Estes mineiros trabalham feito zumbis. Você vai ficar igual se não sair de perto."
+  },
+  "belief": {
+    "name": "Caçador de Emoções",
+    "desc": "É louco por viver emoções e alegrias espalhafatosas... o que não inclui aspirações profissionais."
+  },
+  "emotion": {
+    "name": "Exército de Um Homem Só",
+    "desc": "Mesmo assim, lutar só na mão tem seus limites, coisa que ele aprendeu muito jovem."
+  }
+}

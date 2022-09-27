@@ -99,12 +99,12 @@
   ],
   "traits": [
     {
-      "name": "Zero: Accurate Calculation",
+      "name": "Accurate Calculation",
       "icon": true,
       "description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by <b>1.5</b> seconds. Can only activate for the same weapon <b>1</b> time every <b>5</b> seconds."
     },
     {
-      "name": "Zero: Overall Planning",
+      "name": "Overall Planning",
       "icon": true,
       "description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by <b>3</b> seconds. Can only activate for the same weapon <b>1</b> time every <b>5</b> seconds."
     }

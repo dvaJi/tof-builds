@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "echo",
+  "name": "Echo",
+  "suitName": "Extirpar",
+  "hash": "SR12",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Usar uma habilidade de descarga para trocar para a arma atual concede 80/100/120 cargas de arma."
+    }
+  ],
+  "mind": {
+    "name": "Até o Fim",
+    "desc": "Um raciocínio linear para alcançar o objetivo atual."
+  },
+  "memory": {
+    "name": "Pós-Crise",
+    "desc": "Lembrança do campo nevado sobre um caminhão após sobreviver a uma crise."
+  },
+  "belief": {
+    "name": "Preto ou Branco",
+    "desc": "Ela tem muita dificuldade em compreender qualquer coisa complicada."
+  },
+  "emotion": {
+    "name": "Saudade de Casa",
+    "desc": "Dois lares, dois abrigos, ambos acolhedores. Para onde for, é uma volta ao lar."
+  }
+}

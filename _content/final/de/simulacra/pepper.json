@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Pepper: Wiederbelebung",
+      "name": "Wiederbelebung",
       "icon": true,
       "description": "Wenn Pepper mit Sättigung LP wiederherstellt, wird die Heilung um <b>100%</b> erhöht."
     },
     {
-      "name": "Pepper: Quelle",
+      "name": "Quelle",
       "icon": true,
       "description": "Wenn Pepper mit Sättigung LP wiederherstellt, wird die Heilung um <b>200%</b> erhöht."
     }

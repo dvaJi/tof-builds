@@ -1,0 +1,860 @@
+[
+  {
+    "_id": 1,
+    "id": "apophis",
+    "name": "Apophis",
+    "suitName": "Internal Struggle",
+    "hash": "SR2",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Deal higher damage at lower HP. Deal maximum damage when HP is 20%. The damage can be increased by up to 20%/25%/30%."
+      }
+    ],
+    "mind": {
+      "name": "Giant Body",
+      "desc": "Huge in size, with every move causing great changes."
+    },
+    "memory": {
+      "name": "Confrontation",
+      "desc": "What am I fighting against? Fate or myself?"
+    },
+    "belief": {
+      "name": "Weak Point",
+      "desc": "The weakness is the security configurations embedded in the chip, which cannot be overcome or resisted."
+    },
+    "emotion": {
+      "name": "Hatred",
+      "desc": "Why was it made, and why was it modified?"
+    }
+  },
+  {
+    "_id": 2,
+    "id": "bailing",
+    "name": "Bai Ling",
+    "suitName": "Deadly Lock",
+    "hash": "SR9",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase damage dealt to grievous targets by 12%/15%/18%."
+      }
+    ],
+    "mind": {
+      "name": "Diverse",
+      "desc": "What to do when you think about it and it spreads?"
+    },
+    "memory": {
+      "name": "Dissipation",
+      "desc": "From disorderly to orderly? Outside interference is probably needed. Probably, I said."
+    },
+    "belief": {
+      "name": "Fair Trade",
+      "desc": "Goods should be traded according to their own value. But how do you put a value on something that's immeasurable?"
+    },
+    "emotion": {
+      "name": "Nth Power",
+      "desc": "If only experience gained and ROI worked exponentially..."
+    }
+  },
+  {
+    "_id": 3,
+    "id": "barbarossa",
+    "name": "Barbarossa",
+    "suitName": "Double Nightmares",
+    "hash": "SR5",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Upon switching to the weapon, gain 50%/62.5%/75% damage reflection for 3 seconds. Cooldown: 30 seconds. Upon switching to another weapon, gain a 20%/25%/30% damage boost for 5 seconds. Cooldown: 30 seconds."
+      }
+    ],
+    "mind": {
+      "name": "Power Play",
+      "desc": "The two heads usually fight over who gets to kill the prey. A little instigation and the fight turns physical."
+    },
+    "memory": {
+      "name": "Divided Land",
+      "desc": "Where was it from? Maybe it still somewhat knows."
+    },
+    "belief": {
+      "name": "Natural Aggression",
+      "desc": "It never gets tired of the eternal biting and grinding, always eagerly awaits the next victim."
+    },
+    "emotion": {
+      "name": "Intimidating Roar",
+      "desc": "It starts with a roar—that is also the death knell for the innocent victims."
+    }
+  },
+  {
+    "_id": 4,
+    "id": "claudia",
+    "name": "Claudia",
+    "suitName": "Multi-directional Strike",
+    "hash": "SSR6",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Increase damage by 13%/17%/20%/23% when hitting a target in mid-air or initiating an aerial attack. Reset double jump upon hitting the target in mid-air."
+      },
+      {
+        "count": 4,
+        "value": "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/2/2.5/3 seconds and increases the damage of discharge skills by 36%/45%/54%/63% for 15 seconds."
+      }
+    ],
+    "mind": {
+      "name": "Rational Analysis",
+      "desc": "First, learn to accept popular opinions, then make judgments about the issue at hand."
+    },
+    "memory": {
+      "name": "True Self",
+      "desc": "Be true to yourself so you're no longer bound by the past and will hold the future."
+    },
+    "belief": {
+      "name": "Righteous",
+      "desc": "All efforts made to uphold justice will be proven worthwhile."
+    },
+    "emotion": {
+      "name": "Aura of Determination",
+      "desc": "Bring values into action, even spread them around without being aware."
+    }
+  },
+  {
+    "_id": 5,
+    "id": "cocoritter",
+    "name": "Cocoritter",
+    "suitName": "Proof of Trust",
+    "hash": "SSR3",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Increase healing capability and healing received by 10%/12%/14%/16%."
+      },
+      {
+        "count": 4,
+        "value": "When you or your teammates are healed, increase ATK by 12.5%/15%/17.5%/20% for 6 seconds. Only the highest level's effect is applied when obtained repeatedly."
+      }
+    ],
+    "mind": {
+      "name": "Artistic Instinct",
+      "desc": "The thoughts behind the creation of craft can also be applied on the battlefield."
+    },
+    "memory": {
+      "name": "Identity Overlap",
+      "desc": "Her silhouette is overlapping with the protector she remembered."
+    },
+    "belief": {
+      "name": "Caregiver",
+      "desc": "Her expectation is simple—just easing your pain."
+    },
+    "emotion": {
+      "name": "Helper",
+      "desc": "Trust me, leave the support to me."
+    }
+  },
+  {
+    "_id": 6,
+    "id": "crow",
+    "name": "Crow",
+    "suitName": "Fanatical Pursuit",
+    "hash": "SR11",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Increase crit damage to targets with less than 60% HP by 33%/42%/50%/58%."
+      },
+      {
+        "count": 4,
+        "value": "Crits deal additional damage over time every second equal to 12%/15%/18%/21% of ATK for 5 seconds. This effect does not stack."
+      }
+    ],
+    "mind": {
+      "name": "Eleventh Dimension",
+      "desc": "Some things are intangible but do truly exist."
+    },
+    "memory": {
+      "name": "Formitized",
+      "desc": "The past is in the past. The present is what you need to seize."
+    },
+    "belief": {
+      "name": "Dire Survivor",
+      "desc": "Never give up, even though it's more than a long shot."
+    },
+    "emotion": {
+      "name": "Rendition",
+      "desc": "A bizarre clown show, sometimes very hard to fathom."
+    }
+  },
+  {
+    "_id": 7,
+    "id": "echo",
+    "name": "Echo",
+    "suitName": "Uproot",
+    "hash": "SR12",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Using a discharge skill to switch to the current weapon grants 80/100/120 weapon charge."
+      }
+    ],
+    "mind": {
+      "name": "Until the End",
+      "desc": "A straight line of thought to completing the current goal."
+    },
+    "memory": {
+      "name": "Post Crisis",
+      "desc": "Memory of the snowfield on a truck after surviving a crisis."
+    },
+    "belief": {
+      "name": "Black or White",
+      "desc": "It's too hard for her to comprehend anything complicated."
+    },
+    "emotion": {
+      "name": "Homesick",
+      "desc": "Two homes, two shelters, both cozy. Either way, it's the homecoming."
+    }
+  },
+  {
+    "_id": 8,
+    "id": "ene",
+    "name": "Ene",
+    "suitName": "Overload",
+    "hash": "SR8",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "When dealing damage greater than 100% of ATK, deal additional damage equal to 60%/75%/90% of ATK. Cooldown: 3 seconds."
+      }
+    ],
+    "mind": {
+      "name": "Competitive",
+      "desc": "The accelerated output when power is increased will also be delivered in faint tremors to the weapon."
+    },
+    "memory": {
+      "name": "Loose Cannon",
+      "desc": "The Hykros Suppressor Lab never forgets the fight she put up."
+    },
+    "belief": {
+      "name": "Second Life",
+      "desc": "A body without pain will function to the last ounce of energy until complete destruction."
+    },
+    "emotion": {
+      "name": "Family Photo",
+      "desc": "It was taken only because her father begged her to."
+    }
+  },
+  {
+    "_id": 9,
+    "id": "frigg",
+    "name": "Frigg",
+    "suitName": "Iron Mind and Body",
+    "hash": "SSR15",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Increase frost ATK by 8%/10%/12%/15% for 10 seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect."
+      },
+      {
+        "count": 4,
+        "value": "When unleashing a frost domain with the weapon \"Balmung,\" enemies within the frost domain receive frost damage equal to 55%/65%/75%/85% of ATK every second."
+      }
+    ],
+    "mind": {
+      "name": "Soulblade",
+      "desc": "I will cut off your greed for the forbidden things."
+    },
+    "memory": {
+      "name": "Post-Cataclysm",
+      "desc": "My family... friends... I'm the only one left now..."
+    },
+    "belief": {
+      "name": "Stance",
+      "desc": "You have your definition, so what is justice to me?"
+    },
+    "emotion": {
+      "name": "Doubt",
+      "desc": "Who's behind all this? Can anybody tell me?"
+    }
+  },
+  {
+    "_id": 10,
+    "id": "frost_bot",
+    "name": "Frost Bot",
+    "suitName": "Extreme Zero",
+    "hash": "SR3",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "When HP is below 40%, using a discharge skill to switch to the current weapon restores HP equal to 160%/200%/240% of ATK."
+      }
+    ],
+    "mind": {
+      "name": "Do Not Underestimate",
+      "desc": "It looks like food, indeed, but that doesn't mean you shouldn't be cautious."
+    },
+    "memory": {
+      "name": "Swift End",
+      "desc": "The combat system of armor has only one goal: End the fight as swiftly as possible."
+    },
+    "belief": {
+      "name": "Quick Freeze",
+      "desc": "Freeze the surrounding in blocks of ice."
+    },
+    "emotion": {
+      "name": "Ruthless",
+      "desc": "Not wise to fight it."
+    }
+  },
+  {
+    "_id": 11,
+    "id": "functional_dash",
+    "name": "Functional Dash",
+    "suitName": "Functional Dash",
+    "hash": "R2",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase damage dealt by frost weapons by 6%."
+      }
+    ],
+    "mind": {
+      "name": "Hauler",
+      "desc": "Back and forth, it shuttles between the mines and the track."
+    },
+    "memory": {
+      "name": "Restart",
+      "desc": "Vehicles can attack if they receive a new command."
+    },
+    "belief": {
+      "name": "Mind of Machine",
+      "desc": "A cyber modification without any free will, thus carrying out orders like a machine."
+    },
+    "emotion": {
+      "name": "Bullseye",
+      "desc": "The biggest edge in a modification is the precision attack unhindered by emotions or sensibility."
+    }
+  },
+  {
+    "_id": 12,
+    "id": "hilda",
+    "name": "Hilda",
+    "suitName": "Parabola",
+    "hash": "SR7",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase ATK by 15%/19%/22.5% when there are no enemies within 6 meters."
+      }
+    ],
+    "mind": {
+      "name": "Acumen",
+      "desc": "Full of business acumen."
+    },
+    "memory": {
+      "name": "Dockbred",
+      "desc": "The nostrils have been smelling the salty scent of the sea for far too long, they're uncomfortable when it's missing."
+    },
+    "belief": {
+      "name": "Haggler",
+      "desc": "Never buy things at full price, always haggle till your last breath!"
+    },
+    "emotion": {
+      "name": "Smash Ball",
+      "desc": "There are not many recreations you can do with physically handicapped friends."
+    }
+  },
+  {
+    "_id": 13,
+    "id": "huma",
+    "name": "Huma",
+    "suitName": "Slightly Awakened",
+    "hash": "SSR10",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Hitting targets with dodge skills inflicts bleed, dealing damage equal to 15%/19%/22.5%/26% of ATK every second for 5 seconds."
+      },
+      {
+        "count": 4,
+        "value": "Reduce ATK of all targets within 8 meters that are taking damage over time by 10%/12%/13%/15%. Only the highest level's effect is applied when obtained repeatedly."
+      }
+    ],
+    "mind": {
+      "name": "Disoriented",
+      "desc": "It was the instinct to see the light that led the baby birds out of their shells."
+    },
+    "memory": {
+      "name": "Blank Slate",
+      "desc": "Start writing the program for a completely new personality right now."
+    },
+    "belief": {
+      "name": "Easy Does It",
+      "desc": "An amnesiac like you, and always tries to do whatever can be done first."
+    },
+    "emotion": {
+      "name": "Innocent",
+      "desc": "The stiff expression is a part of the package."
+    }
+  },
+  {
+    "_id": 14,
+    "id": "king",
+    "name": "KING",
+    "suitName": "Advocate of Violence",
+    "hash": "SSR4",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "When a target is shattered, grant 8%/10%/12%/14% damage boost for 25 seconds. Only the highest level's effect is applied when obtained repeatedly."
+      },
+      {
+        "count": 4,
+        "value": "When there are more than 2 enemies around, hit restore HP equal to 14%/18%/22%/26% of damage dealt upon attacking. The maximum HP restored every 0.5 seconds must not exceed 36%/42%/48%/54% of ATK."
+      }
+    ],
+    "mind": {
+      "name": "Underground Ruler",
+      "desc": "A good reputation still won't change the inability to get by with an empty wallet, so let's fill it up first and ask questions later."
+    },
+    "memory": {
+      "name": "Live to Fight",
+      "desc": "These miners work mindlessly like zombies. You'll become one of them if you don't get away."
+    },
+    "belief": {
+      "name": "Thrillseeker",
+      "desc": "Craves excitement and seemingly over-the-top joy... which does not include career aspirations."
+    },
+    "emotion": {
+      "name": "One Man Army",
+      "desc": "Still, there's a limit to fighting with just fists, which he learned at a very young age."
+    }
+  },
+  {
+    "_id": 15,
+    "id": "meryl",
+    "name": "Meryl",
+    "suitName": "Pure White Guardian",
+    "hash": "SSR1",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "If HP is less than 30% after being attacked, gain a shield equal to 20%/26%/32%/40% of Max HP for 10 seconds. Cooldown: 90 seconds."
+      },
+      {
+        "count": 4,
+        "value": "Increase Whirlwind's damage by 36%/45%/54%/63% and restore HP equal to 30%/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every 0.5 seconds cannot exceed 60%/72%/81%/90% of ATK."
+      }
+    ],
+    "mind": {
+      "name": "Swordfight Simulation",
+      "desc": "Complex swordfight simulation seemingly used for calibration. Anyway, not something for the average person."
+    },
+    "memory": {
+      "name": "Wake-Up Call",
+      "desc": "Chained memory shards used to implant consciousness. Note that it doesn't come with an instruction manual."
+    },
+    "belief": {
+      "name": "Absolute Authority",
+      "desc": "It, of course, represents the self-approval and outside recognition of an Executor's power."
+    },
+    "emotion": {
+      "name": "Detached",
+      "desc": "Mental communication barriers set up by rejecting all socialization."
+    }
+  },
+  {
+    "_id": 16,
+    "id": "nemesis",
+    "name": "Nemesis",
+    "suitName": "Life Bridging",
+    "hash": "SSR14",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "When a target is being healed, their volt ATK is increased by 15%/18%/21%/25% for 20 seconds. This effect does not stack, and only the highest level's effect is applied when the effect is obtained repeatedly."
+      },
+      {
+        "count": 4,
+        "value": "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within 30 seconds is imbued with \"Lightning,\" dealing volt damage equal to 300%/375%/450%/525% of volt ATK (damage caused by Electrodes is reduced by 50%). Cannot be triggered more than once in 10 seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly."
+      }
+    ],
+    "mind": {
+      "name": "Alloy Cells",
+      "desc": "More than half of the hull has been replaced. I wonder if there is a way to measure the proportion of souls?"
+    },
+    "memory": {
+      "name": "Teddy Bear",
+      "desc": "I have lost two places to call home, but fortunately some belongings stayed with me throughout the time."
+    },
+    "belief": {
+      "name": "Refreshed",
+      "desc": "The innocence wears away, and the courage looks more mature and polished."
+    },
+    "emotion": {
+      "name": "Inner Drive",
+      "desc": "The memory and heart of humanity can be a stumbling block or a driving force."
+    }
+  },
+  {
+    "_id": 17,
+    "id": "pepper",
+    "name": "Pepper",
+    "suitName": "Nonstop",
+    "hash": "SR6",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase speed of obtaining weapon charge by 10%/12.5%/15%."
+      }
+    ],
+    "mind": {
+      "name": "Assembly Line",
+      "desc": "Who can explain to her that she has been toiling away for a long time now?"
+    },
+    "memory": {
+      "name": "Surgical Scar",
+      "desc": "Aberrations cannot be reversed. Just like post-surgery scars, you don't get a chance."
+    },
+    "belief": {
+      "name": "Armband",
+      "desc": "As a doctor, you cannot turn away, cannot be complacent, cannot be helpless."
+    },
+    "emotion": {
+      "name": "Sleeping Pill",
+      "desc": "She has insomnia from not wanting to face the dead in her dreams."
+    }
+  },
+  {
+    "_id": 18,
+    "id": "plunder",
+    "name": "Plunder",
+    "suitName": "Plunder",
+    "hash": "R4",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase damage dealt by physical weapons by 6%."
+      }
+    ],
+    "mind": {
+      "name": "Provocateurs",
+      "desc": "Ravagers that raise hell everywhere just because they have the might to do so."
+    },
+    "memory": {
+      "name": "Anarchists",
+      "desc": "They follow no orders. Chaos is what they want."
+    },
+    "belief": {
+      "name": "Melee Killer",
+      "desc": "No one wants to fight them again."
+    },
+    "emotion": {
+      "name": "Chaosbringer",
+      "desc": "Some things are chaotic in nature and wouldn't mind getting more chaotic."
+    }
+  },
+  {
+    "_id": 19,
+    "id": "robarg",
+    "name": "Robarg",
+    "suitName": "Devourer",
+    "hash": "SR1",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "When a target is shattered, poison the target and deal damage equal to 45%/56%/67.5% of ATK every second for 10 seconds."
+      }
+    ],
+    "mind": {
+      "name": "Greed",
+      "desc": "Rooted in avarice and without an end in sight."
+    },
+    "memory": {
+      "name": "Instinct",
+      "desc": "Its instinct is always surging ahead."
+    },
+    "belief": {
+      "name": "Exhaustion",
+      "desc": "Devours everything, from body and energy to your will to survive."
+    },
+    "emotion": {
+      "name": "The End",
+      "desc": "It has been looking forward to the end."
+    }
+  },
+  {
+    "_id": 20,
+    "id": "samir",
+    "name": "Samir",
+    "suitName": "Rational Liberation",
+    "hash": "SSR9",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Increase damage progressively by 1% upon hitting a target. Stack up to 10/13/16/20 times. Last for 1.5 seconds."
+      },
+      {
+        "count": 4,
+        "value": "Increase Dual EM Stars' electrical explosion damage by 16%/22%/30%/40% of ATK."
+      }
+    ],
+    "mind": {
+      "name": "Just Kidding",
+      "desc": "If you said her jokes are corny, she would reply, \"Why so serious?\""
+    },
+    "memory": {
+      "name": "Dearly Departed",
+      "desc": "One who lives in the past is unreachable and can't let go."
+    },
+    "belief": {
+      "name": "Silver Bullet",
+      "desc": "She owns a silver bullet. Is she hunting vampires?"
+    },
+    "emotion": {
+      "name": "Future Focus",
+      "desc": "She's always certain of her destiny."
+    }
+  },
+  {
+    "_id": 21,
+    "id": "selfexplosive",
+    "name": "Self-explosive",
+    "suitName": "Self-explosive",
+    "hash": "R1",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase damage dealt by flame weapons by 6%."
+      }
+    ],
+    "mind": {
+      "name": "Explosive Core",
+      "desc": "The Omnium core burns bright within."
+    },
+    "memory": {
+      "name": "Binding Thread",
+      "desc": "Not the actual thread, of course. The creator just wanted to inspire fear."
+    },
+    "belief": {
+      "name": "Web of Dread",
+      "desc": "A spider's look often scares people more than the damage it can deal."
+    },
+    "emotion": {
+      "name": "Overwhelm",
+      "desc": "They would be a nightmare to deal with in groups."
+    }
+  },
+  {
+    "_id": 22,
+    "id": "shiro",
+    "name": "Shiro",
+    "suitName": "Poem of Departure",
+    "hash": "SSR7",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Increase both damage and shatter to targets with more than 50% HP by 15%/19%/22.5%/26%."
+      },
+      {
+        "count": 4,
+        "value": "Upon entering battle, gain a 20%/25%/30%/35% damage boost for 35 seconds. Reset 5 seconds after exiting battle."
+      }
+    ],
+    "mind": {
+      "name": "Isolated",
+      "desc": "Skittish about everyone like a wild cat, yet sometimes sit by a pool and play with the water, wondering why so lonely."
+    },
+    "memory": {
+      "name": "Longing for Sea",
+      "desc": "A big part of the ocean's beauty stems from the fact that it could never be fully understood."
+    },
+    "belief": {
+      "name": "Great Singer",
+      "desc": "Proof of her awesome singing voice, from a researcher who defied death to smuggle the recording out."
+    },
+    "emotion": {
+      "name": "Cat-like",
+      "desc": "Every touch is cautious, every gaze deftly avoided... That's her humble way to pursue happiness."
+    }
+  },
+  {
+    "_id": 23,
+    "id": "sobek",
+    "name": "Sobek",
+    "suitName": "Swamp Shadow",
+    "hash": "SR4",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase damage dealt by 6%/7.5%/9% for each enemy nearby. Up to 3 stacks."
+      }
+    ],
+    "mind": {
+      "name": "Scheme",
+      "desc": "Be careful not to get dragged into the mire it's in."
+    },
+    "memory": {
+      "name": "Opportunity",
+      "desc": "It's always patient, enough for some unlucky sap to step on it eventually."
+    },
+    "belief": {
+      "name": "Confusion",
+      "desc": "It's not moving. Is it asleep or just conserving energy?"
+    },
+    "emotion": {
+      "name": "Restlessness",
+      "desc": "It gets bored too, and when it feels restless, it's some innocent passersby who might suffer."
+    }
+  },
+  {
+    "_id": 24,
+    "id": "standard_operation",
+    "name": "Standard Operation",
+    "suitName": "Standard Operation",
+    "hash": "R3",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase damage dealt by volt weapons by 6%."
+      }
+    ],
+    "mind": {
+      "name": "Standard Guard",
+      "desc": "Being a good armed guard means protecting the thing you're guarding."
+    },
+    "memory": {
+      "name": "Terminator Guard",
+      "desc": "Merciless to anyone attempting to destroy what it's guarding."
+    },
+    "belief": {
+      "name": "Unyielding Guard",
+      "desc": "No matter how powerful the enemy, it will not fall until it's utterly destroyed."
+    },
+    "emotion": {
+      "name": "Tenet Guard",
+      "desc": "Industrial creations have no free will, but the rules they follow could probably be called their tenets."
+    }
+  },
+  {
+    "_id": 25,
+    "id": "tsubasa",
+    "name": "Tsubasa",
+    "suitName": "Eye of Wind",
+    "hash": "SSR2",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Increase damage dealt by 14%/16%/18%/20% when there are no enemies within 4 meters."
+      },
+      {
+        "count": 4,
+        "value": "Upon a headshot or using Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/21%/25% for 8 seconds."
+      }
+    ],
+    "mind": {
+      "name": "Weather Vane",
+      "desc": "\"The wind blows.\" That sums up every cause for leaving and setting off again."
+    },
+    "memory": {
+      "name": "Gravitator",
+      "desc": "She's always moving about and only stays in the spot she had thoroughly scouted."
+    },
+    "belief": {
+      "name": "Drifter",
+      "desc": "How can you tell which faith is the right one? Answer: The one that ultimately emerges victorious."
+    },
+    "emotion": {
+      "name": "Stone Cold",
+      "desc": "A rational assessment of relationships."
+    }
+  },
+  {
+    "_id": 26,
+    "id": "wandering_aberrant",
+    "name": "Wandering Aberrant",
+    "suitName": "Savage Bloodline",
+    "hash": "N1",
+    "rarity": "N",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "Increase damage dealt by 4%."
+      }
+    ],
+    "mind": {
+      "name": "Wandering Aberrant",
+      "desc": "It's been wandering since it escaped from the lab. Is the aberration due to experiments or Omnium radiation? No one knows."
+    },
+    "memory": {
+      "name": "Feral Nature",
+      "desc": "The nature suppressed by domestication slowly returns as it acclimates to the wild."
+    },
+    "belief": {
+      "name": "Brute Force",
+      "desc": "Seems like it knew it could break the cage by force and escape the bondage."
+    },
+    "emotion": {
+      "name": "Homeseeker",
+      "desc": "Despite footprints all over Aesperia, still couldn't find its home... For it was born in a lab."
+    }
+  },
+  {
+    "_id": 27,
+    "id": "zero",
+    "name": "Zero",
+    "suitName": "Incredible Connection",
+    "hash": "SSR8",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/250%/300% of ATK for 6 seconds."
+      },
+      {
+        "count": 4,
+        "value": "While the shield is active, you and your teammates deal 16%/20%/24%/28% more damage."
+      }
+    ],
+    "mind": {
+      "name": "Paranormal Calculation",
+      "desc": "Break through logic, subvert reality, completely abandon formulas based on experience to arrive at the final result."
+    },
+    "memory": {
+      "name": "Terminal Protocol",
+      "desc": "Memories are just matters of imprints. As for whether they're real or false, you must decide for yourself."
+    },
+    "belief": {
+      "name": "Info Sort",
+      "desc": "Intel is generated through sorting loose info and data."
+    },
+    "emotion": {
+      "name": "Survival of Fittest",
+      "desc": "Survival of the fittest is the law of nature and the manifestation of individual superiority."
+    }
+  }
+]

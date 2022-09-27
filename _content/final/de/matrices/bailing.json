@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "suitName": "Tödliche Falle",
+  "hash": "SR9",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Erhöht den Schaden an verwundeten Zielen um 12%/15%/18%."
+    }
+  ],
+  "mind": {
+    "name": "Vielfältig",
+    "desc": "Was tun, wenn du daran denkst und es sich ausbreitet?"
+  },
+  "memory": {
+    "name": "Zerstreuung",
+    "desc": "Ein Wandel von undiszipliniert zu diszipliniert? Dafür muss wahrscheinlich von außen eingegriffen werden. „Wahrscheinlich“, habe ich gesagt."
+  },
+  "belief": {
+    "name": "Fairer Handel",
+    "desc": "Waren sollten gemäß ihrem tatsächlichen Wert gehandelt werden. Aber wie misst man etwas, das unschätzbar ist, einen Wert bei?"
+  },
+  "emotion": {
+    "name": "Die n-te Potenz",
+    "desc": "Wenn gesammelte Erfahrungen und Kapitalrenditen doch bloß exponentiell zueinander stehen würden …"
+  }
+}

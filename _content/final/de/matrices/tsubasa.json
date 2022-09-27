@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "suitName": "Auge des Sturms",
+  "hash": "SSR2",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht den verursachten Schaden um 14%/16%/18%/20%, wenn sich im Umkreis von 4 Metern keine Gegner befinden."
+    },
+    {
+      "count": 4,
+      "value": "Nach einem Kopfschuss oder Verwendung von Eiswind-Pfeil: Durchdringender Schuss erhöht sich der ANG für 8 Sek. um 15%/18%/21%/25%."
+    }
+  ],
+  "mind": {
+    "name": "Wetterfahne",
+    "desc": "„Der Wind weht.“ Das sind so ziemlich alle Gründe, um wieder aufzubrechen."
+  },
+  "memory": {
+    "name": "Graviator",
+    "desc": "Sie ist immer in Bewegung und bleibt nur an der Stelle, die sie gründlich erkundet hat."
+  },
+  "belief": {
+    "name": "Herumtreiberin",
+    "desc": "Woran erkennst du, welcher Glaube der richtige ist? Antwort: Es ist der, der letztendlich siegreich ist."
+  },
+  "emotion": {
+    "name": "Eiskalt",
+    "desc": "Eine rationale Bewertung von Beziehungen."
+  }
+}

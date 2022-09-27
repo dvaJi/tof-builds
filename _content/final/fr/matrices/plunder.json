@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "plunder",
+  "name": "Pillage",
+  "suitName": "Pillage",
+  "hash": "R4",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 6% les dégâts infligés par les armes physiques."
+    }
+  ],
+  "mind": {
+    "name": "Provocateurs",
+    "desc": "Des Ravageurs qui sèment le chaos partout juste parce qu'ils le peuvent."
+  },
+  "memory": {
+    "name": "Anarchistes",
+    "desc": "Ils ne suivent aucun ordre. Ils ne jurent que par le chaos."
+  },
+  "belief": {
+    "name": "Tueur en mêlée",
+    "desc": "Plus personne ne veut combattre de tels adversaires."
+  },
+  "emotion": {
+    "name": "Porteur de chaos",
+    "desc": "Certaines choses chaotiques par nature ne diraient pas non à devenir encore plus chaotiques."
+  }
+}

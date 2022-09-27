@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "Echo: Uprightness",
+      "name": "Uprightness",
       "icon": true,
       "description": "When teamed up with Echo, allies within <b>10</b> meters around Echo gain a damage boost of <b>4%</b> (excluding Echo)."
     },
     {
-      "name": "Echo: Determination",
+      "name": "Determination",
       "icon": true,
       "description": "When teamed up with Echo, allies  within <b>10</b> meters around Echo gain a damage boost of <b>6%</b> (excluding Echo)."
     }

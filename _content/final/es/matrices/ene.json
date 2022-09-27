@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "ene",
+  "name": "Ene",
+  "suitName": "Sobrecarga",
+  "hash": "SR8",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Al infligir daño superior al 100% del ATQ, inflige daño adicional equivalente al 60%/75%/90% del ATQ. Enfriamiento: 3 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Competitiva",
+    "desc": "Cuando el poder aumenta, su potencia acelerada se traslada al arma con un leve estremecimiento."
+  },
+  "memory": {
+    "name": "Bala Perdida",
+    "desc": "El Laboratorio Supresor de Hykros nunca olvida la lucha que prestó."
+  },
+  "belief": {
+    "name": "Segunda Vida",
+    "desc": "Un cuerpo sin dolor funciona mientras le quede un último ápice de energía y hasta su completa destrucción."
+  },
+  "emotion": {
+    "name": "Foto Familiar",
+    "desc": "La llevó consigo solo porque su padre se lo rogó."
+  }
+}

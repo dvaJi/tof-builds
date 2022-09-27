@@ -1,0 +1,30 @@
+{
+  "_id": 2,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "suitName": "Deadly Lock",
+  "hash": "SR9",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt to grievous targets by 12%/15%/18%."
+    }
+  ],
+  "mind": {
+    "name": "Diverse",
+    "desc": "What to do when you think about it and it spreads?"
+  },
+  "memory": {
+    "name": "Dissipation",
+    "desc": "From disorderly to orderly? Outside interference is probably needed. Probably, I said."
+  },
+  "belief": {
+    "name": "Fair Trade",
+    "desc": "Goods should be traded according to their own value. But how do you put a value on something that's immeasurable?"
+  },
+  "emotion": {
+    "name": "Nth Power",
+    "desc": "If only experience gained and ROI worked exponentially..."
+  }
+}

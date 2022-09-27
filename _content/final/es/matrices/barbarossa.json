@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "barbarossa",
+  "name": "Barbarossa",
+  "suitName": "Pesadilla doble",
+  "hash": "SR5",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Al cambiar a esta arma, obtiene un 50%/62.5%/75% de reflexión de daño por 3 segundos. Enfriamiento: 30 segundos. Al cambiar a otra arma, obtiene un 20%/25%/30% de refuerzo de daño por 5 segundos. Enfriamiento: 30 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Juego de Poder",
+    "desc": "Las dos cabezas suelen pelearse por a quién le toca matar a la presa. Con un poco de instigación, la pelea se vuelve física."
+  },
+  "memory": {
+    "name": "Tierra Dividida",
+    "desc": "¿De dónde vino? Tal vez todavía lo sabe, de algún modo."
+  },
+  "belief": {
+    "name": "Agresividad Natural",
+    "desc": "Nunca se cansa de morder y machacar, y siempre espera con ansias que aparezca su próxima víctima."
+  },
+  "emotion": {
+    "name": "Rugido Intimidante",
+    "desc": "Todo comienza con un rugido... que también es la sentencia de muerte de sus víctimas inocentes."
+  }
+}

@@ -54,12 +54,12 @@
   ],
   "traits": [
     {
-      "name": "Hilda: Bleifuß",
+      "name": "Bleifuß",
       "icon": true,
       "description": "Erhöht die Geschwindigkeit um <b>7%</b>, wenn Hilda ein Fahrzeug verwendet."
     },
     {
-      "name": "Hilda: Volltempo-Driften",
+      "name": "Volltempo-Driften",
       "icon": true,
       "description": "Erhöht die Geschwindigkeit um <b>10%</b>, wenn Hilda ein Fahrzeug verwendet."
     }

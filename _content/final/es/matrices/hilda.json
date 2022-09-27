@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "hilda",
+  "name": "Hilda",
+  "suitName": "Parábola",
+  "hash": "SR7",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el ATQ en un 15%/19%/22.5% cuando no hay enemigos en 6 metros a la redonda."
+    }
+  ],
+  "mind": {
+    "name": "perspicacia",
+    "desc": "Está llena de perspicacia para los negocios."
+  },
+  "memory": {
+    "name": "criada en el puerto",
+    "desc": "Sus orificios nasales han olido el aroma salado del mar por demasiado tiempo y lo echan de menos cuando no lo sienten."
+  },
+  "belief": {
+    "name": "regateadora",
+    "desc": "Nunca compres objetos a su precio total, ¡siempre regatea hasta el final!"
+  },
+  "emotion": {
+    "name": "bola imparable",
+    "desc": "No hay muchas cosas para jugar con amigos físicamente torpes."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "hilda",
+  "name": "Hilda",
+  "suitName": "Parábola",
+  "hash": "SR7",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta o ATQ em 15%/19%/22,5% quando não houver inimigos em um raio de 6 metros."
+    }
+  ],
+  "mind": {
+    "name": "Sagacidade",
+    "desc": "Cheia de sagacidade para negócios."
+  },
+  "memory": {
+    "name": "Filha do Mar",
+    "desc": "Depois de tanto tempo sentindo o cheiro salgado da maresia, bate até um desconforto ficar sem."
+  },
+  "belief": {
+    "name": "Pechincheira",
+    "desc": "Jamais compre as coisas pelo preço cheio: pechinche até seu último suspiro!"
+  },
+  "emotion": {
+    "name": "Quebra-Bola",
+    "desc": "Não dá para jogar muitas coisas com seus amigos quando eles estão lesionados."
+  }
+}

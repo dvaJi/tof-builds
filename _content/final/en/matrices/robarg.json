@@ -1,0 +1,30 @@
+{
+  "_id": 19,
+  "id": "robarg",
+  "name": "Robarg",
+  "suitName": "Devourer",
+  "hash": "SR1",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "When a target is shattered, poison the target and deal damage equal to 45%/56%/67.5% of ATK every second for 10 seconds."
+    }
+  ],
+  "mind": {
+    "name": "Greed",
+    "desc": "Rooted in avarice and without an end in sight."
+  },
+  "memory": {
+    "name": "Instinct",
+    "desc": "Its instinct is always surging ahead."
+  },
+  "belief": {
+    "name": "Exhaustion",
+    "desc": "Devours everything, from body and energy to your will to survive."
+  },
+  "emotion": {
+    "name": "The End",
+    "desc": "It has been looking forward to the end."
+  }
+}

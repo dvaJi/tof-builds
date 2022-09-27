@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "suitName": "Olho do Vento",
+  "hash": "SSR2",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta o dano causado em 14%/16%/18%/20% quando não houver inimigos em um raio de 4 metros."
+    },
+    {
+      "count": 4,
+      "value": "Ao acertar um tiro na cabeça ou atingir um alvo com o Arco Zero Grau: Tiro Perfurante, aumenta o ATQ em 15%/18%/21%/25% durante 8 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Cata-Vento",
+    "desc": "\"O vento sopra.\" Isso resume toda razão para partir de novo."
+  },
+  "memory": {
+    "name": "Gravitacional",
+    "desc": "Ela está sempre em movimento e só fica em lugares que analisou por completo."
+  },
+  "belief": {
+    "name": "Sem Rumo",
+    "desc": "Como dizer qual destino é o certo? Resposta: aquele que termina em vitória."
+  },
+  "emotion": {
+    "name": "Coração de Pedra",
+    "desc": "Uma avaliação racional de relacionamentos."
+  }
+}

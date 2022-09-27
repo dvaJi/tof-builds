@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "shiro",
+  "name": "Shiro",
+  "suitName": "Gedicht der Abreise",
+  "hash": "SSR7",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht sowohl Schaden als auch den Effekt von „Zertrümmern“ an Zielen mit mehr als 50% LP um 15%/19%/22,5%/26%."
+    },
+    {
+      "count": 4,
+      "value": "Der Anwender erhält bei Kampfbeginn für 35 Sek. 20%/25%/30%/35% Schadensbonus. Wird 5 Sek. nach Verlassen des Kampfes wieder verfügbar."
+    }
+  ],
+  "mind": {
+    "name": "Isoliert",
+    "desc": "Verhält sich anderen gegenüber launisch wie eine wilde Katze. Sitzt aber manchmal an einem Pool und spielt mit dem Wasser und fragt sich, warum sie so einsam ist."
+  },
+  "memory": {
+    "name": "Sehnsucht nach dem Meer",
+    "desc": "Ein großer Teil der Schönheit des Ozeans rührt daher, dass er nie so richtig verstanden werden kann."
+  },
+  "belief": {
+    "name": "Großartige Sängerin",
+    "desc": "Beweis ihrer großartigen Singstimme. Ein Forscher entkam geradeso dem Tod, als er die Aufnahme herausschmuggelte."
+  },
+  "emotion": {
+    "name": "Wie eine Katze",
+    "desc": "Jede Berührung ist vorsichtig, jeder Blick wird gekonnt vermieden … Das ist ihre bescheidene Art, nach Glück zu streben."
+  }
+}

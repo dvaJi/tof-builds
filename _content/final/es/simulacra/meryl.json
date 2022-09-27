@@ -109,12 +109,12 @@
   ],
   "traits": [
     {
-      "name": "Meryl: Rosa Fría",
+      "name": "Rosa Fría",
       "icon": true,
       "description": "Reduce el daño de hielo recibido por Meryl en <b>20%</b>, gana inmunidad a congelamiento y reduce la duración de la congelación en <b>50%</b>."
     },
     {
-      "name": "Meryl: Escarchada",
+      "name": "Escarchada",
       "icon": true,
       "description": "Reduce el daño de hielo recibido por Meryl en <b>25%</b>, gana inmunidad a congelamiento y reduce la duración de la congelación en <b>50%</b>."
     }

@@ -1,0 +1,34 @@
+{
+  "_id": 20,
+  "id": "samir",
+  "name": "Samir",
+  "suitName": "Rational Liberation",
+  "hash": "SSR9",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage progressively by 1% upon hitting a target. Stack up to 10/13/16/20 times. Last for 1.5 seconds."
+    },
+    {
+      "count": 4,
+      "value": "Increase Dual EM Stars' electrical explosion damage by 16%/22%/30%/40% of ATK."
+    }
+  ],
+  "mind": {
+    "name": "Just Kidding",
+    "desc": "If you said her jokes are corny, she would reply, \"Why so serious?\""
+  },
+  "memory": {
+    "name": "Dearly Departed",
+    "desc": "One who lives in the past is unreachable and can't let go."
+  },
+  "belief": {
+    "name": "Silver Bullet",
+    "desc": "She owns a silver bullet. Is she hunting vampires?"
+  },
+  "emotion": {
+    "name": "Future Focus",
+    "desc": "She's always certain of her destiny."
+  }
+}

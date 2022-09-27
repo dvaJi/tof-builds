@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Tsubasa: Regensturm",
+      "name": "Regensturm",
       "icon": true,
       "description": "Gewährt jedes Mal, wenn Tsubasa Schaden verursacht, <b>1</b> Stapel „Heftiger Schlag“, bis zu <b>1</b> Stapel pro Sek. Jeder Stapel fügt <b>0,5%</b> ANG hinzu, bis zu <b>15</b> Stapel. Wird der Effekt erneut erhalten, wird die Effektdauer zurückgesetzt. Der Effekt hält <b>30</b> Sek. an."
     },
     {
-      "name": "Tsubasa: Wogende Wellen",
+      "name": "Wogende Wellen",
       "icon": true,
       "description": "Gewährt jedes Mal, wenn Tsubasa Schaden verursacht, <b>1</b> Stapel „Heftiger Schlag“, bis zu <b>1</b> Stapel pro Sek. Jeder Stapel fügt <b>0,6%</b> ANG hinzu, bis zu <b>30</b> Stapel. Wird der Effekt erneut erhalten, wird die Effektdauer zurückgesetzt. Der Effekt hält <b>30</b> Sek. an."
     }

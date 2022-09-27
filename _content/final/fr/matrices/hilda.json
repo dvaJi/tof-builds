@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "hilda",
+  "name": "Hilda",
+  "suitName": "Parabole",
+  "hash": "SR7",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 15%/19%/22,5% l'ATQ lorsqu'il n'y a aucun ennemi dans un rayon de 6 mètres."
+    }
+  ],
+  "mind": {
+    "name": "Perspicacité",
+    "desc": "Un sens aigu des affaires."
+  },
+  "memory": {
+    "name": "Docker",
+    "desc": "Ses narines ont été bien trop habituées à l'odeur salée de la mer, elles se sentent rapidement en manque."
+  },
+  "belief": {
+    "name": "Marchandage",
+    "desc": "Ne jamais acheter quoi que ce soit au prix fort, toujours marchander jusqu'au bout !"
+  },
+  "emotion": {
+    "name": "Smash ball",
+    "desc": "Il y a peu de loisirs que l'on peut pratiquer avec des amis qui ont un handicap."
+  }
+}

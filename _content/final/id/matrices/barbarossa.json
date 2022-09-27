@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "barbarossa",
+  "name": "Barbarossa",
+  "suitName": "Double Nightmare",
+  "hash": "SR5",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Setelah beralih ke senjata ini, memperoleh 50%/62,5%/75% Damage Reflection selama 3 detik. Cooldown: 30 detik. Setelah beralih ke senjata lain, memperoleh 20%/25%/30% Damage Boost selama 5 detik. Cooldown: 30 detik."
+    }
+  ],
+  "mind": {
+    "name": "Power Play",
+    "desc": "Dua kepala biasanya memperebutkan siapa yang akan membunuh mangsanya. Dengan sedikit hasutan, pertarungan itu akan berubah jadi pertarungan fisik."
+  },
+  "memory": {
+    "name": "Divided Land",
+    "desc": "Dari mana asalnya? Mungkin ia masih sedikit tahu."
+  },
+  "belief": {
+    "name": "Natural Aggression",
+    "desc": "Tak pernah bosan menggigit dan menggiling, selalu bersemangat menunggu korban berikutnya."
+  },
+  "emotion": {
+    "name": "Intimidating Roar",
+    "desc": "Dimulai dengan raungan—yang juga merupakan lonceng kematian bagi para korban yang tidak bersalah."
+  }
+}

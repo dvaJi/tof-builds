@@ -1,0 +1,289 @@
+{
+  "_id": 17,
+  "id": "claudia",
+  "name": "Claudia",
+  "weapon": "Guren Blade",
+  "weapon_id": "guren_blade",
+  "birthday": "16 Januari (Capricorn)",
+  "birthplace": "Hykros",
+  "gender": "Perempuan",
+  "info": "Bisa diandalkan, bertenaga besar, dan sangat bersemangat untuk bertempur. Terkesan dingin, tapi sebenarnya baik hati dan penuh kasih sayang. Claudia menjunjung tinggi keadilan, selalu siap membantu orang lain dan melawan ketidakadilan di mana pun dia menemukannya.",
+  "description": "Seorang Executor Hykros bertubuh tinggi dengan tingkah laku militer.\nKemahirannya memakai pedang satu tangan dan caranya bergerak membuat dia ditempatkan di garis depan dalam operasi-operasi sulit, tapi Claudia dikirim ke fasilitas medis setelah terluka parah dalam Operation Dark Apocalypse.",
+  "like": "Makanan gurih, topi yang berkarakter",
+  "dislike": "Kucing",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "DPS",
+  "shatter": 7.5,
+  "charge": 12,
+  "skills": [
+    {
+      "name": "Quick Slash",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan pedang untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>46.8%</b> ATK + <b>2</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>65.6%</b> ATK + <b>3</b> pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>59.3%</b> ATK + <b>3</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>104.1%</b> ATK + <b>5</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebanyak <b>177.8%</b> ATK + <b>9</b> dan buat target <b>terpental</b>."
+    },
+    {
+      "name": "Jumping Strike",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>27.9%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>48.4%</b> ATK + <b>3</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>114.6%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>139%</b> ATK + <b>7</b>."
+    },
+    {
+      "name": "Cyclone",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tahan tombol Normal Attack setelah Normal Attack untuk mengaktifkan Cyclone.\nSetelah kena, mengakibatkan Suspend kepada target dan menimbulkan <b>47.8%</b> ATK + <b>3</b> kepada target tunggal."
+    },
+    {
+      "name": "Diving Edge",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan Normal Attack saat Airborne, atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Diving Edge.\nSaat turun, menimbulkan damage sebanyak <b>10%</b> ATK + <b>1</b> setiap kali mengenai target. Saat mendarat, menimbulkan damage sebanyak <b>76.4%</b> ATK + <b>4</b> dan membuat target terpukul mundur.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+    },
+    {
+      "name": "Sneak Attack",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+    },
+    {
+      "name": "Leap Attack",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Ketuk tombol Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Leap Attack.\nWanderer mengayunkan pedang dan menimbulkan damage sebanyak <b>37.9%</b> ATK + <b>2</b> kepada target, mengakibatkan <b>Suspend Keras</b> kepada mereka dan mengalami Airborne, lalu menimbulkan damage tambahan sebanyak <b>56.8%</b> ATK + <b>3</b>."
+    },
+    {
+      "name": "Roam",
+      "type": [
+        "Skill"
+      ],
+      "description": "Menari melewati target sambil mengayunkan pedang, dan menimbulkan damage sebanyak <b>418%</b> ATK + <b>22</b> total kepada maks <b>5</b> target (serangan kepada target yang sama akan menimbulkan damage <b>20%</b> lebih kecil). Pada akhir Skill, menebas ke depan, dan menimbulkan damage sebanyak <b>264%</b> ATK + <b>14</b> kepada target dan mengakibatkan Suspend kepada mereka. Kebal terhadap Crowd Control Effect selama Ability ini digunakan, dan semua damage yang diterima dikurangi sebanyak <b>50%</b>. Cooldown: <b>15</b> detik."
+    },
+    {
+      "name": "Unbridled Flurry",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, yang akan menyerang dan mengakibatkan <b>Suspend Keras</b> kepada target untuk menimbulkan <b>523.3%</b> ATK + <b>28</b> damage, meninggalkan Bladestorm yang akan menimbulkan <b>209.6%</b> ATK + <b>11</b> damage kepada target, serta membuat diri sendiri kebal terhadap efek Grievous/Freeze/Burn/Electrify selama <b>5</b> detik."
+    }
+  ],
+  "weapon_type": {
+    "name": "Grievous",
+    "description": "Senjata yang terisi penuh akan menimpakan damage sebanyak <b>137%</b> ATK dengan serangan berikutnya, dan membuat target Grievous selama <b>7</b> detik, menerima <b>20%</b> damage ekstra."
+  },
+  "weapon_resonance": {
+    "name": "Physical Resonance",
+    "description": "<b>Physical Resonance</b>: Meningkatkan Physical ATK sebesar <b>15%</b> dan Physical Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Physical Damage Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata yang ada di slot tangan non-dominan. Efek tidak dapat ditumpuk."
+  },
+  "advancement": [
+    "Setiap kali skill atau Discharge Skill mengenai target, satu tumpuk Damage Boost akan diberikan, yang akan meningkatkan damage yang ditimbulkan sebanyak <b>8%</b> selama <b>25</b> detik (bisa ditumpuk maks <b>3</b> kali; setiap penggunaan skill atau Discharge Skill yang berhasil hanya akan memberikan satu tumpuk).",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Jika berhasil mengenai target dengan Skill atau Discharge Skill, menerapkan satu tumpuk War Wound pada target, meningkatkan Physical Damage dan efek Shatter dari Physical dan Elemental Weapon yang diterima target sebanyak <b>10%</b> selama <b>15</b> detik. Bisa ditumpuk hingga <b>1</b> kali.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Jika mengenai target dengan skill atau Discharge Skill, akan memberikan Damage Boost, yang akan meningkatkan semua Damage sebesar <b>20%</b> selama <b>25</b> detik. Efek tidak dapat ditumpuk.",
+    "Jika mengenai target yang sama, damage yang ditimbulkan tidak akan berkurang lagi. Setelah menggunakan Guren Blade atau Discharge Skill, semua target yang punya War Wounds dalam radius 8 meter akan mendapatkan <b>1</b> tumpuk War Wounds lagi."
+  ],
+  "traits": [
+    {
+      "name": "Blink",
+      "icon": true,
+      "description": "Menjadi tidak terlihat selama <b>1</b> detik setelah menghindar."
+    },
+    {
+      "name": "Shadow",
+      "icon": true,
+      "description": "Menjadi tidak terlihat selama <b>1,5</b> detik setelah menghindar."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Rockcore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "Heart of Summit",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

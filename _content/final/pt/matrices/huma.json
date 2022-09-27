@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "huma",
+  "name": "Huma",
+  "suitName": "Ligeiramente Desperto",
+  "hash": "SSR10",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Atingir alvos com habilidades de esquiva causa hemorragia e dano de 15%/19%/22,5%/26% do ATQ a cada segundo durante 5 segundos."
+    },
+    {
+      "count": 4,
+      "value": "Reduz em 10%/12%/13%/15% o ATQ de todos os alvos em um raio de 8 metros que estiverem sofrendo dano prolongado. Somente o nível mais alto é aplicado quando o efeito é obtido repetidamente."
+    }
+  ],
+  "mind": {
+    "name": "Desorientação",
+    "desc": "É o instinto de ver a luz que faz os filhotes de pássaro saírem do ovo."
+  },
+  "memory": {
+    "name": "Tábula Rasa",
+    "desc": "Comece já a programar uma personalidade completamente nova."
+  },
+  "belief": {
+    "name": "Vá com Calma",
+    "desc": "Sofre de amnésia, assim como você, e sempre tenta resolver os problemas logo."
+  },
+  "emotion": {
+    "name": "Inocente",
+    "desc": "A feição severa faz parte do pacote."
+  }
+}

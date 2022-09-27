@@ -23,6 +23,20 @@ function main() {
       )
     );
   }
+
+
+  const matrices = asd["webpackJsonpgenshin-react"][0][1]["48"]();
+
+  for (const matrix of matrices) {
+    fs.writeFileSync(
+      path.join(DATA_PATH, "matrices", slugify(matrix.name) + ".json"),
+      JSON.stringify(
+        { ...matrix, id: slugify(matrix.name) },
+        undefined,
+        2
+      )
+    );
+  }
 }
 
 function slugify(value) {

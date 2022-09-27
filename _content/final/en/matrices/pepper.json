@@ -1,0 +1,30 @@
+{
+  "_id": 17,
+  "id": "pepper",
+  "name": "Pepper",
+  "suitName": "Nonstop",
+  "hash": "SR6",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase speed of obtaining weapon charge by 10%/12.5%/15%."
+    }
+  ],
+  "mind": {
+    "name": "Assembly Line",
+    "desc": "Who can explain to her that she has been toiling away for a long time now?"
+  },
+  "memory": {
+    "name": "Surgical Scar",
+    "desc": "Aberrations cannot be reversed. Just like post-surgery scars, you don't get a chance."
+  },
+  "belief": {
+    "name": "Armband",
+    "desc": "As a doctor, you cannot turn away, cannot be complacent, cannot be helpless."
+  },
+  "emotion": {
+    "name": "Sleeping Pill",
+    "desc": "She has insomnia from not wanting to face the dead in her dreams."
+  }
+}

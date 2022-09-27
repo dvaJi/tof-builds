@@ -100,12 +100,12 @@
   ],
   "traits": [
     {
-      "name": "Ene : Mode rapide",
+      "name": "Mode rapide",
       "icon": true,
       "description": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de <b>12%</b>."
     },
     {
-      "name": "Ene : Mode sans limites",
+      "name": "Mode sans limites",
       "icon": true,
       "description": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de <b>20%</b>."
     }

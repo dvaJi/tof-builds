@@ -1,0 +1,33 @@
+{
+  "_id": 28,
+  "id": "frigg",
+  "name": "Frigg",
+  "suitName": "Corps et mental d'acier",
+  "hash": "SSR15",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4,
+      "value": "Lorsque vous créez un domaine de gel avec l'arme \"Balmung\", les ennemis se trouvant dans ce domaine subissent des dégâts de givre équivalant à 55%/65%/75%/85% de l'ATQ toutes les secondes."
+    }
+  ],
+  "mind": {
+    "name": "Lame spirituelle",
+    "desc": "Je vais mettre un terme à votre envie de choses interdites."
+  },
+  "memory": {
+    "name": "Post-cataclysme",
+    "desc": "Ma famille… Mes amis… Il ne reste plus que moi à présent…"
+  },
+  "belief": {
+    "name": "Posture",
+    "desc": "Vous avez votre définition, mais qu'est-ce que la justice pour moi ?"
+  },
+  "emotion": {
+    "name": "Doute",
+    "desc": "Qui est derrière tout cela ? Quelqu'un peut-il me le dire ?"
+  }
+}

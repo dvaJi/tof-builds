@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Crow: Solidão",
+      "name": "Solidão",
       "icon": true,
       "description": "Quando Crow não está em equipe, aumenta o dano causado em <b>6%</b> e reduz o dano sofrido em <b>4%</b>."
     },
     {
-      "name": "Crow: Noite Silenciosa",
+      "name": "Noite Silenciosa",
       "icon": true,
       "description": "Quando Crow não está em equipe, aumenta o dano causado em <b>10%</b> e reduz o dano sofrido em <b>6%</b>. Quando Crow entra em combate, aumenta o dano causado em <b>12%</b> durante <b>12</b> segundos."
     }

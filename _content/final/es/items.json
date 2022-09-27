@@ -1,6 +1,6 @@
 [
   {
-    "_id": 1,
+    "_id": 24,
     "id": "icecore",
     "name": "Núcleo de hielo",
     "description": "Fragmentos con poder elemental de hielo, transparentes como un cristal.",
@@ -8,7 +8,7 @@
     "rarity": "N"
   },
   {
-    "_id": 2,
+    "_id": 24,
     "id": "heart_of_winter",
     "name": "Corazón de invierno",
     "description": "Un mineral inusual que contiene poder elemental de hielo. La alta pureza del elemento de hielo en su interior le otorga una apariencia azul vívida.",
@@ -16,7 +16,7 @@
     "rarity": "R"
   },
   {
-    "_id": 3,
+    "_id": 24,
     "id": "nano_coating_i",
     "name": "Nanocubierta I",
     "description": "Cubierta desarrollada con nueva tecnología que mejora levemente el rendimiento de las armas.",
@@ -24,7 +24,7 @@
     "rarity": "R"
   },
   {
-    "_id": 4,
+    "_id": 24,
     "id": "nano_coating_ii",
     "name": "Nanocubierta II",
     "description": "Cubierta rediseñada luego de investigar cómo mejorar más el rendimiento de las armas.",
@@ -32,20 +32,20 @@
     "rarity": "SR"
   },
   {
-    "_id": 5,
+    "_id": 24,
     "id": "nano_coating_iii",
     "name": "Nanocubierta III",
     "description": "Cubierta diseñada con tecnología exclusiva de Hykros para aumentar enormemente el rendimiento de las armas.",
     "usage": "Para aumentar las armas."
   },
   {
-    "_id": 6,
+    "_id": 24,
     "id": "nano_coating_iv",
     "name": "Nanocubierta IV",
     "usage": "Para aumentar las armas."
   },
   {
-    "_id": 7,
+    "_id": 24,
     "id": "booster_frame_i",
     "name": "Armazón reforzado I",
     "description": "Armazón fortificado desarrollado con nueva tecnología que mejora levemente el rendimiento de las armas.",
@@ -53,7 +53,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 8,
+    "_id": 24,
     "id": "booster_frame_ii",
     "name": "Armazón reforzado II",
     "description": "Armazón rediseñado luego de investigar cómo mejorar más el rendimiento de las armas.",
@@ -61,20 +61,20 @@
     "rarity": "SSR"
   },
   {
-    "_id": 9,
+    "_id": 24,
     "id": "booster_frame_iii",
     "name": "Armazón reforzado III",
     "description": "Armazón fortificado diseñado con tecnología exclusiva de Hykros para aumentar enormemente el rendimiento de las armas.",
     "usage": "Para aumentar las armas."
   },
   {
-    "_id": 10,
+    "_id": 24,
     "id": "booster_frame_iv",
     "name": "Armazón reforzado IV",
     "usage": "Para aumentar las armas."
   },
   {
-    "_id": 11,
+    "_id": 24,
     "id": "rockcore",
     "name": "Núcleo de roca",
     "description": "Fragmentos extremadamente duros formados bajo la influencia del Omnio, con una apariencia un tanto monótona.",
@@ -82,21 +82,21 @@
     "rarity": "N"
   },
   {
-    "_id": 12,
+    "_id": 24,
     "id": "heart_of_summit",
     "name": "Corazón de cima",
     "description": "Mineral raro y extremadamente duro que requiere una tecnología especial de Omnio para su forja.",
     "usage": "Para aumentar las armas."
   },
   {
-    "_id": 13,
+    "_id": 24,
     "id": "landsource",
     "name": "Fuente de tierra",
     "description": "Un duro e inusual mineral puro. El cristal transparente a veces emite una pulsación misteriosa, como un latido.",
     "usage": "Para aumentar las armas."
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_i",
     "name": "Esmaltado antiácido I",
     "description": "Un material antiácido desarrollado con nueva tecnología que mejora levemente el rendimiento de las armas.",
@@ -104,7 +104,7 @@
     "rarity": "R"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_ii",
     "name": "Esmaltado antiácido I",
     "description": "Esmaltado rediseñado luego de investigar cómo mejorar más el rendimiento de las armas.",
@@ -112,7 +112,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_iii",
     "name": "Esmaltado antiácido III",
     "description": "Esmaltado diseñado con tecnología exclusiva de Hykros para aumentar enormemente el rendimiento de las armas.",
@@ -120,13 +120,13 @@
     "rarity": "SSR"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_iv",
     "name": "Esmaltado antiácido IV",
     "usage": "Para aumentar las armas."
   },
   {
-    "_id": 18,
+    "_id": 24,
     "id": "nanofiber_frame_i",
     "name": "Armazón de nanofibras I",
     "description": "Un armazón de primera desarrollado con nueva tecnología que mejora levemente el rendimiento de las armas.",
@@ -134,7 +134,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 19,
+    "_id": 24,
     "id": "nanofiber_frame_ii",
     "name": "Armazón de nanofibras II",
     "description": "Un armazón de primera rediseñado luego de investigar cómo mejorar más el rendimiento de las armas.",
@@ -142,7 +142,7 @@
     "rarity": "SSR"
   },
   {
-    "_id": 20,
+    "_id": 24,
     "id": "magcore",
     "name": "Núcleo magnético",
     "description": "Fragmentos con poder elemental eléctrico que emiten un ligero brillo en la oscuridad.",
@@ -158,7 +158,7 @@
     "rarity": "R"
   },
   {
-    "_id": 22,
+    "_id": 24,
     "id": "firecore",
     "name": "Núcleo de fuego",
     "description": "Fragmentos con poder elemental de fuego que emiten un leve calor al fundirse.",
@@ -166,7 +166,7 @@
     "rarity": "N"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "heart_of_lava",
     "name": "Corazón de lava",
     "description": "Un mineral inusual que contiene poder elemental de fuego. Su intenso color rojo es prueba suficiente del poder que contiene.",

@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "nemesis",
+  "name": "Nemesis",
+  "suitName": "Passerelle de vie",
+  "hash": "SSR14",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Lorsqu'une cible est soignée, son ATQ de foudre augmente de 15%/18%/21%/25% pendant 20 secondes. Non cumulable, et seul celui dont le niveau est le plus élevé fonctionne si obtenu à plusieurs reprises."
+    },
+    {
+      "count": 4,
+      "value": "Lorsque vous vous soignez ou soignez votre Électrode, la cible des soins obtient une charge de \"Foudre\". La prochaine attaque dans un délai de 30 secondes est imprégnée de \"Foudre\", infligeant des dégâts de foudre correspondant à 300%/375%/450%/525% de l'ATQ de foudre (les dégâts causés par les Électrodes sont réduits de 50%). Ne peut être déclenché plus d'une fois en 10 secondes. Les charges de \"Foudre\" ne se cumulent pas. Seul le niveau le plus élevé est appliqué si obtenu à plusieurs reprises."
+    }
+  ],
+  "mind": {
+    "name": "Cellules d'alliage",
+    "desc": "Plus de la moitié de la coque a été remplacée. Je me demande s'il est possible de mesurer la proportion des âmes ?"
+  },
+  "memory": {
+    "name": "Ours en peluche",
+    "desc": "J'ai perdu deux endroits que je pouvais appeler chez moi, mais heureusement, certaines de mes possessions sont restées avec moi pendant tout ce temps."
+  },
+  "belief": {
+    "name": "Actualisation",
+    "desc": "L'innocence s'émousse et le courage a l'air plus mûr, plus affûté."
+  },
+  "emotion": {
+    "name": "Pulsion intérieure",
+    "desc": "Le souvenir et le cœur de l'humanité peuvent être soit un obstacle, soit une force motrice."
+  }
+}

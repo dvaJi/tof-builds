@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Tsubasa: Tormenta",
+      "name": "Tormenta",
       "icon": true,
       "description": "Cada vez que Tsubasa inflige daño, obtiene <b>1</b> acumulación de Golpe feroz, con un máximo de <b>1</b> acumulación por cada <b>1</b> segundo. Cada acumulación agrega un <b>0.5%</b> de ATQ, con un límite de <b>15</b> acumulaciones. Reinicia la duración del efecto al recuperarlo. El efecto dura <b>30</b> segundos."
     },
     {
-      "name": "Tsubasa: Mar Embravecido",
+      "name": "Mar Embravecido",
       "icon": true,
       "description": "Cada vez que Tsubasa inflige daño, obtiene <b>1</b> acumulación de Golpe feroz, con un máximo de <b>1</b> acumulación por cada <b>1</b> segundo. Cada acumulación agrega un <b>0.6%</b> de ATQ, con un límite de <b>30</b> acumulaciones. Reinicia la duración del efecto al recuperarlo. El efecto dura <b>30</b> segundos."
     }

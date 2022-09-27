@@ -1,0 +1,34 @@
+{
+  "_id": 27,
+  "id": "zero",
+  "name": "Zero",
+  "suitName": "Incredible Connection",
+  "hash": "SSR8",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/250%/300% of ATK for 6 seconds."
+    },
+    {
+      "count": 4,
+      "value": "While the shield is active, you and your teammates deal 16%/20%/24%/28% more damage."
+    }
+  ],
+  "mind": {
+    "name": "Paranormal Calculation",
+    "desc": "Break through logic, subvert reality, completely abandon formulas based on experience to arrive at the final result."
+  },
+  "memory": {
+    "name": "Terminal Protocol",
+    "desc": "Memories are just matters of imprints. As for whether they're real or false, you must decide for yourself."
+  },
+  "belief": {
+    "name": "Info Sort",
+    "desc": "Intel is generated through sorting loose info and data."
+  },
+  "emotion": {
+    "name": "Survival of Fittest",
+    "desc": "Survival of the fittest is the law of nature and the manifestation of individual superiority."
+  }
+}

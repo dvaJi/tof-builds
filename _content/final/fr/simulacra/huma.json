@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Huma : Fortitude",
+      "name": "Fortitude",
       "icon": true,
       "description": "Chaque fois qu'Huma reçoit des dégâts, obtenez <b>1</b> marque de fortitude et <b>1</b> marque de fortitude en plus en cas de dégâts de feu, dans la limite de <b>1</b> fois par <b>1</b> seconde et de <b>12</b> cumuls au total. Lorsque vous appliquez une compétence d'arme, utilisez toutes les marques de fortitude et gagnez un bouclier de PV égal au nombre de marques x<b>0,4%</b> de PV pendant <b>12</b> secondes. Si des marques de fortitude sont utilisées lorsque l'effet est cumulé au maximum, gagnez un bouclier de PV égal au nombre de marques x<b>0,6%</b> de PV."
     },
     {
-      "name": "Huma : Écran de fer",
+      "name": "Écran de fer",
       "icon": true,
       "description": "Chaque fois qu'Huma reçoit des dégâts, obtenez <b>1</b> marque de fortitude et <b>1</b> marque de fortitude en plus en cas de dégâts de feu, dans la limite de <b>1</b> fois par <b>1</b> seconde et de <b>12</b> cumuls au total. Lorsque vous appliquez une compétence d'arme, utilisez toutes les marques de fortitude et gagnez un bouclier de PV égal au nombre de marques x<b>0,6%</b> de PV pendant <b>12</b> secondes. Si des marques de fortitude sont utilisées lorsque l'effet est cumulé au maximum, gagnez un bouclier de PV égal au nombre de marques x<b>0,9%</b> de PV."
     }

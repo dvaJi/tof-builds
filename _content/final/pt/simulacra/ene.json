@@ -100,12 +100,12 @@
   ],
   "traits": [
     {
-      "name": "Ene: Modo Rápido",
+      "name": "Modo Rápido",
       "icon": true,
       "description": "Quando Ene nada, escala ou plana, reduz o consumo de vigor em <b>12%</b>."
     },
     {
-      "name": "Ene: Modo Além do Limite",
+      "name": "Modo Além do Limite",
       "icon": true,
       "description": "Quando Ene nada, escala ou plana, reduz o consumo de vigor em <b>20%</b>."
     }

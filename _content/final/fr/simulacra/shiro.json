@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Shiro : Alerte de sécurité",
+      "name": "Alerte de sécurité",
       "icon": true,
       "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>10%</b> tous les types d'ATQ et de <b>7%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
     },
     {
-      "name": "Shiro : Alerte rouge",
+      "name": "Alerte rouge",
       "icon": true,
       "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>16%</b> tous les types d'ATQ et de <b>10%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
     }

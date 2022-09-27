@@ -1,0 +1,30 @@
+{
+  "_id": 12,
+  "id": "hilda",
+  "name": "Hilda",
+  "suitName": "Parabola",
+  "hash": "SR7",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase ATK by 15%/19%/22.5% when there are no enemies within 6 meters."
+    }
+  ],
+  "mind": {
+    "name": "Acumen",
+    "desc": "Full of business acumen."
+  },
+  "memory": {
+    "name": "Dockbred",
+    "desc": "The nostrils have been smelling the salty scent of the sea for far too long, they're uncomfortable when it's missing."
+  },
+  "belief": {
+    "name": "Haggler",
+    "desc": "Never buy things at full price, always haggle till your last breath!"
+  },
+  "emotion": {
+    "name": "Smash Ball",
+    "desc": "There are not many recreations you can do with physically handicapped friends."
+  }
+}

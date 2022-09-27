@@ -1,0 +1,30 @@
+{
+  "_id": 23,
+  "id": "sobek",
+  "name": "Sobek",
+  "suitName": "Swamp Shadow",
+  "hash": "SR4",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt by 6%/7.5%/9% for each enemy nearby. Up to 3 stacks."
+    }
+  ],
+  "mind": {
+    "name": "Scheme",
+    "desc": "Be careful not to get dragged into the mire it's in."
+  },
+  "memory": {
+    "name": "Opportunity",
+    "desc": "It's always patient, enough for some unlucky sap to step on it eventually."
+  },
+  "belief": {
+    "name": "Confusion",
+    "desc": "It's not moving. Is it asleep or just conserving energy?"
+  },
+  "emotion": {
+    "name": "Restlessness",
+    "desc": "It gets bored too, and when it feels restless, it's some innocent passersby who might suffer."
+  }
+}

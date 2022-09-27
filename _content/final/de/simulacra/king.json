@@ -102,7 +102,7 @@
   ],
   "traits": [
     {
-      "name": "KING: Kaltblütiger Hieb",
+      "name": "Kaltblütiger Hieb",
       "icon": true,
       "description": "Für jede <b>7</b> Gegner, die King besiegt, werden LP in Höhe von <b>8%</b> der max. LP wiederhergestellt."
     },

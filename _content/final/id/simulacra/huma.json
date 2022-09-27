@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Huma: Fortitude",
+      "name": "Fortitude",
       "icon": true,
       "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP."
     },
     {
-      "name": "Huma: Iron Screen",
+      "name": "Iron Screen",
       "icon": true,
       "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,9%</b> HP."
     }

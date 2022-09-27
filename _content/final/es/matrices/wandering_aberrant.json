@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "wandering_aberrant",
+  "name": "Aberrante errante",
+  "suitName": "Linaje salvaje",
+  "hash": "N1",
+  "rarity": "N",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el daño infligido en un 4%."
+    }
+  ],
+  "mind": {
+    "name": "Aberrante errante",
+    "desc": "Ha estado merodeando desde que escapó del laboratorio. ¿Esta abominación es producto de experimentos o de la radiación de Omnio? Nadie lo sabe."
+  },
+  "memory": {
+    "name": "Naturaleza salvaje",
+    "desc": "La naturaleza, sometida por la domesticación, lentamente se vuelve a aclimatar a la vida silvestre."
+  },
+  "belief": {
+    "name": "Toro en la cristalería",
+    "desc": "Parece como si estuviera a punto de romper su jaula a la fuerza y escapar de su cautiverio."
+  },
+  "emotion": {
+    "name": "Buscahogares",
+    "desc": "A pesar de las huellas que se encuentran por toda Aesperia, todavía no pudo encontrar su hogar... porque nació en un laboratorio."
+  }
+}

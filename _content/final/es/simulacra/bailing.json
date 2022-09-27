@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Bai Ling: Valor",
+      "name": "Valor",
       "icon": true,
       "description": "Después de que Bai Ling guarde el Planeador o el Deslizador, aumenta la velocidad un <b>8%</b> por <b>12</b> segundos. Enfriamiento: <b>60</b> segundos."
     },
     {
-      "name": "Bai Ling: Resolución",
+      "name": "Resolución",
       "icon": true,
       "description": "Después de que Bai Ling guarde el Planeador o el Deslizador, aumenta la velocidad un <b>15%</b> por <b>12</b> segundos. Enfriamiento: <b>60</b> segundos."
     }

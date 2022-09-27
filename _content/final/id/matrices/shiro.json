@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "shiro",
+  "name": "Shiro",
+  "suitName": "Poem of Departure",
+  "hash": "SSR7",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan damage dan Shatter pada target dengan lebih dari 50% HP sebesar 15%/19%/22,5%/26%."
+    },
+    {
+      "count": 4,
+      "value": "Setelah masuk ke pertempuran, memperoleh 20%/25%/30%/35% Damage Boost selama 35 detik. Direset 5 detik setelah keluar dari pertempuran."
+    }
+  ],
+  "mind": {
+    "name": "Isolated",
+    "desc": "Layaknya kucing liar, ia takut pada orang, tetapi terkadang duduk di tepi kolam dan bermain air, bertanya-tanya kenapa begitu kesepian."
+  },
+  "memory": {
+    "name": "Longing for Sea",
+    "desc": "Sebagian besar keindahan laut berasal dari fakta bahwa itu tidak akan pernah bisa dipahami sepenuhnya."
+  },
+  "belief": {
+    "name": "Great Singer",
+    "desc": "Bukti suara nyanyiannya yang luar biasa, dari seorang peneliti yang mempertaruhkan nyawa untuk menyelundupkan rekaman itu."
+  },
+  "emotion": {
+    "name": "Cat-like",
+    "desc": "Setiap sentuhan diwaspadai, setiap tatapan dengan cekatan dihindari... Itulah cara sederhananya untuk mendapatkan kebahagiaan."
+  }
+}

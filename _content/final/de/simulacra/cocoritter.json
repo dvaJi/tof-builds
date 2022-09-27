@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Cocolita: Unterstützung",
+      "name": "Unterstützung",
       "icon": true,
       "description": "Wenn Cocolita eine Unterstützungswaffe verwendet, werden die von ihr gewirkten Heilungseffekte auf andere und umgekehrt um <b>20%</b> erhöht."
     },
     {
-      "name": "Cocolita: Vertrauen",
+      "name": "Vertrauen",
       "icon": true,
       "description": "Wenn Cocolita eine Unterstützungswaffe einsetzt, wird die verursachte und erhaltene Heilung um <b>20%</b> erhöht. Wenn Cocolita die Waffen- oder Entladungsfähigkeit einer Unterstützungswaffe einsetzt, wird der ANG von Verbündeten in der Nähe für <b>5</b> Sek. um <b>15%</b> erhöht."
     }

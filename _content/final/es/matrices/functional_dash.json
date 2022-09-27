@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "functional_dash",
+  "name": "Carrera funcional",
+  "suitName": "Carrera funcional",
+  "hash": "R2",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el daño infligido por armas de hielo en un 6%."
+    }
+  ],
+  "mind": {
+    "name": "Camión",
+    "desc": "Va y viene entre las minas y el camino."
+  },
+  "memory": {
+    "name": "Reinicio",
+    "desc": "Los vehículos pueden atacar si reciben un nuevo comando."
+  },
+  "belief": {
+    "name": "Mente de máquina",
+    "desc": "Una modificación cibernética sin libre albedrío que cumple órdenes como si fuera una máquina."
+  },
+  "emotion": {
+    "name": "Blanco",
+    "desc": "La mayor ventaja de una modificación es la precisión de su ataque, que no se ve afectado por las emociones o la sensibilidad."
+  }
+}

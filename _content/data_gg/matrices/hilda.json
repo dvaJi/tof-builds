@@ -1,0 +1,11 @@
+{
+  "name": "Hilda",
+  "id": "hilda",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase ATK by <b>15%/19%/22.5%</b> when there are no enemies within 6 meters."
+    }
+  ]
+}

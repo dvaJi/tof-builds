@@ -100,12 +100,12 @@
   ],
   "traits": [
     {
-      "name": "Ene: Fast Mode",
+      "name": "Fast Mode",
       "icon": true,
       "description": "When Ene swims, climbs, or glides, reduce endurance consumption by <b>12%</b>."
     },
     {
-      "name": "Ene: Beyond Limits Mode",
+      "name": "Beyond Limits Mode",
       "icon": true,
       "description": "When Ene swims, climbs, or glides, reduce endurance consumption by <b>20%</b>."
     }

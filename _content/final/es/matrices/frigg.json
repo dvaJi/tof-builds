@@ -1,0 +1,33 @@
+{
+  "_id": 28,
+  "id": "frigg",
+  "name": "Frigg",
+  "suitName": "Mente y Cuerpo de Hierro",
+  "hash": "SSR15",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4,
+      "value": "Al desatar un Dominio de Hielo con el arma \"Balmung\", los enemigos dentro del Dominio de Hielo reciben daño de hielo equivalente al 55%/65%/75%/85% del ATQ cada segundo."
+    }
+  ],
+  "mind": {
+    "name": "Hoja del Alma",
+    "desc": "Rebanaré tu codicia por lo prohibido."
+  },
+  "memory": {
+    "name": "Postcataclismo",
+    "desc": "Mi familia... mis amigos... Ahora solo quedo yo..."
+  },
+  "belief": {
+    "name": "Postura",
+    "desc": "Ya tienes tu definición, ¿y qué es la justicia para mí?"
+  },
+  "emotion": {
+    "name": "Duda",
+    "desc": "¿Quién está detrás de todo esto? ¿Alguien puede decirme?"
+  }
+}

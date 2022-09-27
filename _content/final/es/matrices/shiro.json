@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "shiro",
+  "name": "Shiro",
+  "suitName": "Poema de partida",
+  "hash": "SSR7",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta el daño y la destrucción de los objetivos con más de 50% de PS en un 15%/19%/22.5%/26%."
+    },
+    {
+      "count": 4,
+      "value": "Al entrar a una batalla, otorga un 20%/25%/30%/35% de refuerzo de daño por 35 segundos. Se reinicia a los 5 segundos después de salir de la batalla."
+    }
+  ],
+  "mind": {
+    "name": "aislada",
+    "desc": "Desconfía de todo el mundo como un gato salvaje, aunque a veces se sienta junto a una piscina y juega con el agua, preguntándose por qué está sola."
+  },
+  "memory": {
+    "name": "nostalgia del mar",
+    "desc": "Buena parte de la belleza del océano proviene del hecho de que nunca podrá comprenderse del todo."
+  },
+  "belief": {
+    "name": "gran cantante",
+    "desc": "La prueba de su increíble voz, gracias a un investigador que desafió a la muerte para grabarla."
+  },
+  "emotion": {
+    "name": "Como una Gatita",
+    "desc": "Movimientos precavidos y evitar todas las miradas... Ese es su humilde camino a la felicidad."
+  }
+}

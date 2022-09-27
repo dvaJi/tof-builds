@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "standard_operation",
+  "name": "Operación estándar",
+  "suitName": "Operación estándar",
+  "hash": "R3",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el daño infligido por armas eléctricas en un 6%."
+    }
+  ],
+  "mind": {
+    "name": "Guardia normal",
+    "desc": "Ser un buen guardia significa proteger lo que sea que estés cuidando."
+  },
+  "memory": {
+    "name": "Guardia exterminador",
+    "desc": "Ataca sin piedad a quien intente destruir lo que sea que esté cuidando."
+  },
+  "belief": {
+    "name": "Guardia inflexible",
+    "desc": "No importa qué tan poderoso sea el enemigo, no se rendirá hasta destruirlo por completo."
+  },
+  "emotion": {
+    "name": "Guardia con principios",
+    "desc": "Las creaciones industriales no tienen libre albedrío, pero las reglas que siguen pueden ser consideradas sus principios."
+  }
+}

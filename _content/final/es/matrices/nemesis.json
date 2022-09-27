@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "nemesis",
+  "name": "Némesis",
+  "suitName": "Puente de Vida",
+  "hash": "SSR14",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Cuando un objetivo está siendo curado, su ATQ eléctrico aumenta un 15%/18%/21%/25% por 20 segundos. No se acumula y solo aquel cuyo nivel es el más alto funciona cuando se obtiene repetidamente."
+    },
+    {
+      "count": 4,
+      "value": "Al curarte o curar a tu Electrodo, el objetivo de la curación obtiene una carga de \"rayo\". El siguiente ataque realizado en 30 segundos recibe \"rayo\" e inflige daño eléctrico equivalente al 300%/375%/450%/525% del ATQ eléctrico (el daño causado por Electrodos se reduce en un 50%). No se puede activar más de una vez en 10 segundos. Las cargas de \"rayo\" no se acumulan. Solo el nivel más alto se aplica al obtenerse repetidamente."
+    }
+  ],
+  "mind": {
+    "name": "Células de Aleación",
+    "desc": "Se reemplazó más de la mitad del casco. ¿Habrá modo de medir la proporción de almas?"
+  },
+  "memory": {
+    "name": "Oso de Peluche",
+    "desc": "Perdí dos hogares en la vida, pero al menos algunos objetos permanecieron conmigo en el tiempo."
+  },
+  "belief": {
+    "name": "Actualización",
+    "desc": "La inocencia se pierde y el valor se vuelve más maduro y refinado."
+  },
+  "emotion": {
+    "name": "Impulso Interno",
+    "desc": "Los recuerdos y el corazón de la humanidad pueden ser un obstáculo o una fuerza impulsora."
+  }
+}

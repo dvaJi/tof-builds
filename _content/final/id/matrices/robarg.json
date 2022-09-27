@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "robarg",
+  "name": "Robarg",
+  "suitName": "Devourer",
+  "hash": "SR1",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Saat target mengalami Shatter, meracuni target dan menimpakan damage sebesar 45%/56%/67,5% ATK setiap detik selama 10 detik."
+    }
+  ],
+  "mind": {
+    "name": "Greed",
+    "desc": "Terbentuk dalam keserakahan dan tak akan ada habisnya."
+  },
+  "memory": {
+    "name": "Instinct",
+    "desc": "Instingnya selalu mendahului."
+  },
+  "belief": {
+    "name": "Exhaustion",
+    "desc": "Hancurkan segalanya, dari tubuh dan energi hingga keinginanmu untuk bertahan hidup."
+  },
+  "emotion": {
+    "name": "The End",
+    "desc": "Sudah lama ia ingin mengakhirnya."
+  }
+}

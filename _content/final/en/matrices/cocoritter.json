@@ -1,0 +1,34 @@
+{
+  "_id": 5,
+  "id": "cocoritter",
+  "name": "Cocoritter",
+  "suitName": "Proof of Trust",
+  "hash": "SSR3",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase healing capability and healing received by 10%/12%/14%/16%."
+    },
+    {
+      "count": 4,
+      "value": "When you or your teammates are healed, increase ATK by 12.5%/15%/17.5%/20% for 6 seconds. Only the highest level's effect is applied when obtained repeatedly."
+    }
+  ],
+  "mind": {
+    "name": "Artistic Instinct",
+    "desc": "The thoughts behind the creation of craft can also be applied on the battlefield."
+  },
+  "memory": {
+    "name": "Identity Overlap",
+    "desc": "Her silhouette is overlapping with the protector she remembered."
+  },
+  "belief": {
+    "name": "Caregiver",
+    "desc": "Her expectation is simple—just easing your pain."
+  },
+  "emotion": {
+    "name": "Helper",
+    "desc": "Trust me, leave the support to me."
+  }
+}

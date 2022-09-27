@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "barbarossa",
+  "name": "Barbarossa",
+  "suitName": "Pesadelos Duplos",
+  "hash": "SR5",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Ganha 50%/62,5%/75% de reflexão de dano por 3 segundos ao trocar para a arma. Tempo de recarga: 30 segundos. Ganha 20%/25%/30% de reforço de dano por 5 segundos ao trocar para outra arma. Tempo de recarga: 30 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Briga de Poder",
+    "desc": "As duas cabeças costumam discutir para decidir quem vai abater a presa. Um pouquinho de lenha na fogueira e a briga vira física."
+  },
+  "memory": {
+    "name": "Terra Dividida",
+    "desc": "De onde vem? Talvez, em parte, ainda saiba."
+  },
+  "belief": {
+    "name": "Agressão Natural",
+    "desc": "Nunca se cansa de morder e mastigar, está sempre ansioso pela próxima vítima."
+  },
+  "emotion": {
+    "name": "Rugido Intimidador",
+    "desc": "Começa com um rugido (que acaba sendo a badalada da morte para as vítimas inocentes)."
+  }
+}

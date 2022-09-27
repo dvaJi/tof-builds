@@ -1,0 +1,34 @@
+{
+  "_id": 14,
+  "id": "king",
+  "name": "KING",
+  "suitName": "Advocate of Violence",
+  "hash": "SSR4",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When a target is shattered, grant 8%/10%/12%/14% damage boost for 25 seconds. Only the highest level's effect is applied when obtained repeatedly."
+    },
+    {
+      "count": 4,
+      "value": "When there are more than 2 enemies around, hit restore HP equal to 14%/18%/22%/26% of damage dealt upon attacking. The maximum HP restored every 0.5 seconds must not exceed 36%/42%/48%/54% of ATK."
+    }
+  ],
+  "mind": {
+    "name": "Underground Ruler",
+    "desc": "A good reputation still won't change the inability to get by with an empty wallet, so let's fill it up first and ask questions later."
+  },
+  "memory": {
+    "name": "Live to Fight",
+    "desc": "These miners work mindlessly like zombies. You'll become one of them if you don't get away."
+  },
+  "belief": {
+    "name": "Thrillseeker",
+    "desc": "Craves excitement and seemingly over-the-top joy... which does not include career aspirations."
+  },
+  "emotion": {
+    "name": "One Man Army",
+    "desc": "Still, there's a limit to fighting with just fists, which he learned at a very young age."
+  }
+}

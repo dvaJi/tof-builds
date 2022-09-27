@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Cocoritter: Assistance",
+      "name": "Assistance",
       "icon": true,
       "description": "When Cocoritter uses a support weapon, increase healing effects she inflicts on others and receives by <b>20%</b>."
     },
     {
-      "name": "Cocoritter: Trust",
+      "name": "Trust",
       "icon": true,
       "description": "When Cocoritter uses a support weapon, increase healing and healing received by <b>20%</b>. And when Cocoritter uses a support-type weapon's discharge skill or weapon skill, increase nearby allies' ATK by <b>15%</b> for <b>5</b> seconds."
     }

@@ -1,0 +1,11 @@
+{
+  "name": "Robarg",
+  "id": "robarg",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "When a target is shattered, poison the target and deal damage equal to <b>45%/56%/67.5%</b> of ATK every second for 10 seconds."
+    }
+  ]
+}

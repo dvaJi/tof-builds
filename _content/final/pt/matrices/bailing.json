@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "suitName": "Trava Fatal",
+  "hash": "SR9",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta em 12%/15%/18% o dano causado a alvos perigosos."
+    }
+  ],
+  "mind": {
+    "name": "Diversificada",
+    "desc": "O que fazer quando você pensa sobre uma coisa e ela se espalha?"
+  },
+  "memory": {
+    "name": "Dissipação",
+    "desc": "De bagunçado para organizado? Provavelmente precisa de interferência externa. Eu disse \"provavelmente\", hein."
+  },
+  "belief": {
+    "name": "Comércio Justo",
+    "desc": "Os produtos deveriam ser comercializados de acordo com seus próprios valores. Mas como se coloca preço em uma coisa que é incomensurável?"
+  },
+  "emotion": {
+    "name": "Enésimo Poder",
+    "desc": "Quem dera experiência ganha e taxa de lucro fossem exponenciais..."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 1,
+  "id": "apophis",
+  "name": "Apophis",
+  "suitName": "Internal Struggle",
+  "hash": "SR2",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Deal higher damage at lower HP. Deal maximum damage when HP is 20%. The damage can be increased by up to 20%/25%/30%."
+    }
+  ],
+  "mind": {
+    "name": "Giant Body",
+    "desc": "Huge in size, with every move causing great changes."
+  },
+  "memory": {
+    "name": "Confrontation",
+    "desc": "What am I fighting against? Fate or myself?"
+  },
+  "belief": {
+    "name": "Weak Point",
+    "desc": "The weakness is the security configurations embedded in the chip, which cannot be overcome or resisted."
+  },
+  "emotion": {
+    "name": "Hatred",
+    "desc": "Why was it made, and why was it modified?"
+  }
+}

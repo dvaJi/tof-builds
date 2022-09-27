@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "pepper",
+  "name": "Pepper ",
+  "suitName": "Nonstop",
+  "hash": "SR6",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Die Geschwindigkeit, mit der Waffenladungspunkte erlangt werden, erhöht sich um 10%/12,5%/15%."
+    }
+  ],
+  "mind": {
+    "name": "Fließband",
+    "desc": "Wer kann ihr erklären, dass sie sich schon lange abrackert?"
+  },
+  "memory": {
+    "name": "Operationsnarbe",
+    "desc": "Mutationen können nicht rückgängig gemacht werden. Das ist genau so unmöglich wie bei Narben, die von einer Operation zurückbleiben."
+  },
+  "belief": {
+    "name": "Armbinde",
+    "desc": "Als Arzt darf man sich nie abwenden und weder selbstzufrieden noch hilflos sein."
+  },
+  "emotion": {
+    "name": "Schlaftablette",
+    "desc": "Sie leidet an Schlaflosigkeit, weil sie den Toten in ihren Träumen nicht begegnen will."
+  }
+}

@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "KING: Coldblooded Swipe",
+      "name": "Coldblooded Swipe",
       "icon": true,
       "description": "Every <b>7</b> enemies defeated by KING restore HP equal to <b>8%</b> of Max HP."
     },
     {
-      "name": "KING: Fear Reaper",
+      "name": "Fear Reaper",
       "icon": true,
       "description": "Every <b>5</b> enemies defeated by KING restore HP equal to <b>10%</b> of Max HP."
     }

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "standard_operation",
+  "name": "Standard Operation",
+  "suitName": "Standard Operation",
+  "hash": "R3",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan damage yang ditimpakan oleh Volt Weapon sebesar 6%."
+    }
+  ],
+  "mind": {
+    "name": "Standard Guard",
+    "desc": "Menjadi penjaga bersenjata yang baik berarti melindungi hal yang kita jaga."
+  },
+  "memory": {
+    "name": "Terminator Guard",
+    "desc": "Tak kenal ampun pada siapa pun yang berusaha menghancurkan apa yang ia lindungi."
+  },
+  "belief": {
+    "name": "Unyielding Guard",
+    "desc": "Tak peduli seberapa kuat musuh, ia tak akan menyerah sampai benar-benar hancur."
+  },
+  "emotion": {
+    "name": "Tenet Guard",
+    "desc": "Ciptaan industri tak memiliki kehendak bebas, tetapi aturan yang mereka ikuti mungkin bisa disebut prinsip."
+  }
+}

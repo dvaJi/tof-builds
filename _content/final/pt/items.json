@@ -1,6 +1,6 @@
 [
   {
-    "_id": 1,
+    "_id": 24,
     "id": "icecore",
     "name": "Núcleo-gélido",
     "description": "Fragmentos com poder elemental de gelo, translúcidos como cristal.",
@@ -8,7 +8,7 @@
     "rarity": "N"
   },
   {
-    "_id": 2,
+    "_id": 24,
     "id": "heart_of_winter",
     "name": "Coração-de-inverno",
     "description": "Um minério com poder elemental de gelo. A alta pureza do elemento de gelo dentro dele lhe dá uma aparência azul sofisticada.",
@@ -16,7 +16,7 @@
     "rarity": "R"
   },
   {
-    "_id": 3,
+    "_id": 24,
     "id": "nano_coating_i",
     "name": "Nanorrevestimento I",
     "description": "Revestimento desenvolvido a partir de novas tecnologias. Melhora ligeiramente o desempenho da arma.",
@@ -24,7 +24,7 @@
     "rarity": "R"
   },
   {
-    "_id": 4,
+    "_id": 24,
     "id": "nano_coating_ii",
     "name": "Nanorrevestimento II",
     "description": "Revestimento redesenvolvido após mais pesquisas. Melhora o desempenho da arma.",
@@ -32,20 +32,20 @@
     "rarity": "SR"
   },
   {
-    "_id": 5,
+    "_id": 24,
     "id": "nano_coating_iii",
     "name": "Nanorrevestimento III",
     "description": "Revestimento desenvolvido a partir de tecnologias exclusivas da Hykros. Melhora muito o desempenho da arma.",
     "usage": "Serve para aumentar armas."
   },
   {
-    "_id": 6,
+    "_id": 24,
     "id": "nano_coating_iv",
     "name": "Nanorrevestimento IV",
     "usage": "Serve para aumentar armas."
   },
   {
-    "_id": 7,
+    "_id": 24,
     "id": "booster_frame_i",
     "name": "Corpo reforçado I",
     "description": "Estrutura reforçada desenvolvida a partir de novas tecnologias. Melhora ligeiramente o desempenho da arma.",
@@ -53,7 +53,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 8,
+    "_id": 24,
     "id": "booster_frame_ii",
     "name": "Corpo reforçado II",
     "description": "Estrutura redesenvolvida após mais pesquisas. Melhora o desempenho da arma.",
@@ -61,20 +61,20 @@
     "rarity": "SSR"
   },
   {
-    "_id": 9,
+    "_id": 24,
     "id": "booster_frame_iii",
     "name": "Corpo reforçado III",
     "description": "Estrutura fortificada desenvolvida a partir de tecnologias exclusivas da Hykros. Melhora muito o desempenho da arma.",
     "usage": "Serve para aumentar armas."
   },
   {
-    "_id": 10,
+    "_id": 24,
     "id": "booster_frame_iv",
     "name": "Corpo reforçado IV",
     "usage": "Serve para aumentar armas."
   },
   {
-    "_id": 11,
+    "_id": 24,
     "id": "rockcore",
     "name": "Núcleo-rochoso",
     "description": "Fragmentos duríssimos formados por influência de Omnium, com uma aparência monótona.",
@@ -82,21 +82,21 @@
     "rarity": "N"
   },
   {
-    "_id": 12,
+    "_id": 24,
     "id": "heart_of_summit",
     "name": "Coração-de-montanha",
     "description": "Um minério raro e extremamente duro que requer tecnologia Omnium especial para ser forjado.",
     "usage": "Serve para aumentar armas."
   },
   {
-    "_id": 13,
+    "_id": 24,
     "id": "landsource",
     "name": "Fonte-da-terra",
     "description": "Um minério raro, inteiro e duro. O cristal translúcido, às vezes, emite um pulsozinho estranho, como se fosse a batida de um coração.",
     "usage": "Serve para aumentar armas."
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_i",
     "name": "Revestimento antiácido I",
     "description": "Material antiácido desenvolvido a partir de novas tecnologias. Melhora ligeiramente o desempenho da arma.",
@@ -104,7 +104,7 @@
     "rarity": "R"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_ii",
     "name": "Revestimento antiácido II",
     "description": "Revestimento redesenvolvido após mais pesquisas. Melhora o desempenho da arma.",
@@ -112,7 +112,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_iii",
     "name": "Revestimento antiácido III",
     "description": "Revestimento desenvolvido a partir de tecnologias exclusivas da Hykros. Melhora muito o desempenho da arma.",
@@ -120,13 +120,13 @@
     "rarity": "SSR"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "acidproof_glaze_iv",
     "name": "Revestimento antiácido IV",
     "usage": "Serve para aumentar armas."
   },
   {
-    "_id": 18,
+    "_id": 24,
     "id": "nanofiber_frame_i",
     "name": "Corpo de nanofibra I",
     "description": "Estrutura premium desenvolvida a partir de novas tecnologias. Melhora ligeiramente o desempenho da arma.",
@@ -134,7 +134,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 19,
+    "_id": 24,
     "id": "nanofiber_frame_ii",
     "name": "Corpo de nanofibra II",
     "description": "Estrutura premium redesenvolvida após mais pesquisas. Melhora o desempenho da arma.",
@@ -142,7 +142,7 @@
     "rarity": "SSR"
   },
   {
-    "_id": 20,
+    "_id": 24,
     "id": "magcore",
     "name": "Núcleo-elétrico",
     "description": "Fragmentos com poder elemental de raio que brilham debilmente no escuro.",
@@ -158,7 +158,7 @@
     "rarity": "R"
   },
   {
-    "_id": 22,
+    "_id": 24,
     "id": "firecore",
     "name": "Núcleo-ígneo",
     "description": "Fragmentos com poder elemental de fogo. Emitem um calor brando quando derretidos.",
@@ -166,7 +166,7 @@
     "rarity": "N"
   },
   {
-    "_id": 23,
+    "_id": 24,
     "id": "heart_of_lava",
     "name": "Coração-de-lava",
     "description": "Um minério raro que contém poder elemental de fogo. A vermelhidão ardente é prova do poder que há dentro dele.",

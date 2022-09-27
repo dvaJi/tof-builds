@@ -109,12 +109,12 @@
   ],
   "traits": [
     {
-      "name": "Meryl: Cool Rose",
+      "name": "Cool Rose",
       "icon": true,
       "description": "Mengurangi Frost Damage yang diterima oleh Meryl sebanyak <b>20%</b>, memperoleh kekebalan terhadap efek Frostbite, dan mengurangi durasi terkena Freeze sebanyak <b>50%</b>."
     },
     {
-      "name": "Meryl: Frosted",
+      "name": "Frosted",
       "icon": true,
       "description": "Mengurangi Frost Damage yang diterima oleh Meryl sebanyak <b>25%</b>, memperoleh kekebalan terhadap efek Frostbite, dan mengurangi durasi terkena Freeze sebanyak <b>50%</b>."
     }

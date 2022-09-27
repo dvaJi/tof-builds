@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "plunder",
+  "name": "Saqueo",
+  "suitName": "Saqueo",
+  "hash": "R4",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el daño infligido por armas físicas en un 6%."
+    }
+  ],
+  "mind": {
+    "name": "Agitadores",
+    "desc": "Saqueadores que generan el caos por donde vayan, simplemente porque tienen el poder de hacerlo."
+  },
+  "memory": {
+    "name": "Anarquistas",
+    "desc": "No siguen ninguna orden. El caos es lo que buscan."
+  },
+  "belief": {
+    "name": "Asesino cuerpo a cuerpo",
+    "desc": "Nadie querrá luchar con ellos de nuevo."
+  },
+  "emotion": {
+    "name": "Portador del caos",
+    "desc": "Algunas cosas son caóticas por naturaleza y no les importaría volverse más caóticas."
+  }
+}

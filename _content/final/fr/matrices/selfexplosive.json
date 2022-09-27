@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "selfexplosive",
+  "name": "Auto-explosif",
+  "suitName": "Auto-explosif",
+  "hash": "R1",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 6% les dégâts infligés par les armes de feu."
+    }
+  ],
+  "mind": {
+    "name": "Noyau explosif",
+    "desc": "Le noyau omnifère brille fort à l'intérieur."
+  },
+  "memory": {
+    "name": "Liens d'attache",
+    "desc": "Ce ne sont pas de vrais liens, le fabricant voulait juste inspirer la peur."
+  },
+  "belief": {
+    "name": "Toile d'épouvante",
+    "desc": "L'araignée fait souvent plus peur par son apparence que par les dégâts qu'elle peut causer."
+  },
+  "emotion": {
+    "name": "Débordement",
+    "desc": "Sans doute un cauchemar à gérer en groupe."
+  }
+}

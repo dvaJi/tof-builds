@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "zero",
+  "name": "Zero",
+  "suitName": "Incroyable connexion",
+  "hash": "SSR8",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Lorsque vous utilisez une compétence de décharge pour passer à l'arme actuelle, vous gagnez un bouclier équivalant à 150%/200%/250%/300% de l'ATQ pendant 6 secondes."
+    },
+    {
+      "count": 4,
+      "value": "Tant que le bouclier est actif, vous et vos coéquipiers infligez 16%/20%/24%/28% plus de dégâts."
+    }
+  ],
+  "mind": {
+    "name": "Calcul paranormal",
+    "desc": "Briser la logique, subvertir la réalité, et abandonner complètement les formules fondées sur l'expérience pour arriver au résultat final."
+  },
+  "memory": {
+    "name": "Protocole final",
+    "desc": "Les souvenirs ne sont qu'une question d'empreintes. Quant à savoir s'ils sont vrais ou faux, c'est à chacun d'en décider."
+  },
+  "belief": {
+    "name": "Tri des informations",
+    "desc": "Les informations sont créées en triant toutes sortes de données en vrac."
+  },
+  "emotion": {
+    "name": "La loi du plus fort",
+    "desc": "Une loi de la nature et la manifestation de la supériorité individuelle."
+  }
+}

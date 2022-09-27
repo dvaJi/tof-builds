@@ -99,12 +99,12 @@
   ],
   "traits": [
     {
-      "name": "Cero: Cálculo Preciso",
+      "name": "Cálculo Preciso",
       "icon": true,
       "description": "Cuando Cero usa una habilidad de arma, reduce el enfriamiento de las reliquias en <b>1.5</b> segundos. Solo se puede activar para la misma arma <b>1</b> vez cada <b>5</b> segundos."
     },
     {
-      "name": "Cero: Planificación General",
+      "name": "Planificación General",
       "icon": true,
       "description": "Cuando Cero usa una habilidad de arma, reduce el enfriamiento de las reliquias en <b>3</b> segundos. Solo se puede activar para la misma arma <b>1</b> vez cada <b>5</b> segundos."
     }

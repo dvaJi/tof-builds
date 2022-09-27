@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "functional_dash",
+  "name": "Ruée fonctionnelle",
+  "suitName": "Ruée fonctionnelle",
+  "hash": "R2",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 6% les dégâts infligés par les armes de givre."
+    }
+  ],
+  "mind": {
+    "name": "Transporteur",
+    "desc": "Il fait la navette entre les mines et la piste."
+  },
+  "memory": {
+    "name": "Redémarrage",
+    "desc": "Les véhicules peuvent attaquer s'ils reçoivent un nouvel ordre."
+  },
+  "belief": {
+    "name": "Esprit de machine",
+    "desc": "Une modification cybernétique sans aucun libre arbitre, exécutant ainsi les ordres comme une machine."
+  },
+  "emotion": {
+    "name": "Centre de cible",
+    "desc": "L'avantage le plus important dans une modification est de pouvoir attaquer de façon précise sans être gêné par les émotions ou la sensibilité."
+  }
+}

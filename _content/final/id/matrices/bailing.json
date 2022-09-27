@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "suitName": "Deadly Lock",
+  "hash": "SR9",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan damage yang ditimpakan pada target yang mengalami Grievous sebesar 12%/15%/18%."
+    }
+  ],
+  "mind": {
+    "name": "Diverse",
+    "desc": "Apa yang harus dilakukan saat yang kamu pikirkan justru menyebar?"
+  },
+  "memory": {
+    "name": "Dissipation",
+    "desc": "Dari tidak tertib menjadi teratur? Mungkin kita perlu gangguan dari luar. Mungkin."
+  },
+  "belief": {
+    "name": "Fair Trade",
+    "desc": "Barang harus diperdagangkan sesuai dengan nilainya sendiri. Tapi, bagaimana caranya memberi harga pada sesuatu yang tak terukur?"
+  },
+  "emotion": {
+    "name": "Nth Power",
+    "desc": "Andai saja pengalaman yang diperoleh dan ROI bekerja secara eksponensial..."
+  }
+}

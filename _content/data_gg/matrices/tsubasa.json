@@ -1,0 +1,15 @@
+{
+  "name": "Tsubasa",
+  "id": "tsubasa",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage dealt by <b>12.5%/15%/17.5%/20%</b> when there are no enemies within 4 meters."
+    },
+    {
+      "count": 4,
+      "value": "Upon a headshot or using Icewind Arrow: Piercing Shot, increase ATK by <b>15%/18%/21%/25%</b> for 8 seconds."
+    }
+  ]
+}

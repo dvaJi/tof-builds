@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "shiro",
+  "name": "Shiro",
+  "suitName": "Poema de Partida",
+  "hash": "SSR7",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta em 15%/19%/22,5%/26% o dano e o efeito de despedaçar causados a alvos com mais de 50% da vida."
+    },
+    {
+      "count": 4,
+      "value": "Ganha 20%/25%/30%/35% de reforço de dano durante 35 segundos ao entrar na batalha. É redefinido 5 segundos após sair da batalha."
+    }
+  ],
+  "mind": {
+    "name": "Isolamento",
+    "desc": "Arisca em relação a todo mundo como se fosse um gato selvagem, mas às vezes se senta à beira d'água e fica pensando no porquê de se sentir tão só."
+  },
+  "memory": {
+    "name": "Saudades do Mar",
+    "desc": "Uma grande parte da beleza do oceano se deve ao fato de ele nunca ter sido compreendido por completo."
+  },
+  "belief": {
+    "name": "Grande Cantora",
+    "desc": "Uma prova da bela voz de canto dela, de um pesquisador que desafiou a morte para conseguir a gravação."
+  },
+  "emotion": {
+    "name": "Como um Gato",
+    "desc": "Cada toque é cuidadoso, cada olhar é logo evitado... Essa é a maneira modesta dela de buscar felicidade."
+  }
+}

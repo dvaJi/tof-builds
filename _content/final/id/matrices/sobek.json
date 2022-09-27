@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "sobek",
+  "name": "Sobek",
+  "suitName": "Swamp Shadow",
+  "hash": "SR4",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan damage yang ditimpakan sebesar 6%/7,5%/9% bagi setiap musuh di sekitar. Hingga 3 tumpuk."
+    }
+  ],
+  "mind": {
+    "name": "Scheme",
+    "desc": "Hati-hati, jangan sampai terseret ke lumpur di dalamnya."
+  },
+  "memory": {
+    "name": "Opportunity",
+    "desc": "Karena selalu sabar, pada akhirnya ada orang bodoh nan malang yang menginjaknya."
+  },
+  "belief": {
+    "name": "Confusion",
+    "desc": "Ia tidak bergerak. Ia tidur atau hanya menghemat energi?"
+  },
+  "emotion": {
+    "name": "Restlessness",
+    "desc": "Ia juga bisa bosan. Kalau ia merasa gelisah, orang lewat yang tak bersalah bisa kena getahnya."
+  }
+}

@@ -54,12 +54,12 @@
   ],
   "traits": [
     {
-      "name": "Hilda : Pied au plancher",
+      "name": "Pied au plancher",
       "icon": true,
       "description": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de <b>7%</b>."
     },
     {
-      "name": "Hilda : Dérapage à pleine vitesse",
+      "name": "Dérapage à pleine vitesse",
       "icon": true,
       "description": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de <b>10%</b>."
     }

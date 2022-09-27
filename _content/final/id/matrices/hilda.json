@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "hilda",
+  "name": "Hilda",
+  "suitName": "Parabola",
+  "hash": "SR7",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan ATK sebesar 15%/19%/22,5% saat tidak ada musuh dalam jarak 6 meter."
+    }
+  ],
+  "mind": {
+    "name": "Acumen",
+    "desc": "Penuh kecerdasan bisnis."
+  },
+  "memory": {
+    "name": "Dockbred",
+    "desc": "Lubang hidung ini sudah terlalu lama mencium aroma asin laut. Rasanya tidak nyaman kalau aromanya hilang."
+  },
+  "belief": {
+    "name": "Haggler",
+    "desc": "Jangan pernah beli barang dengan harga aslinya. Tawar terus hingga titik darah penghabisan!"
+  },
+  "emotion": {
+    "name": "Smash Ball",
+    "desc": "Tak banyak rekreasi yang bisa kita lakukan dengan teman-teman yang cacat fisik."
+  }
+}

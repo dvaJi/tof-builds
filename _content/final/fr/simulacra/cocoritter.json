@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Cocoritter : Assistance",
+      "name": "Assistance",
       "icon": true,
       "description": "Lorsque Cocoritter utilise une arme d'assistance, accroît de <b>20%</b> les effets de guérison qu'elle reçoit et prodigue aux autres."
     },
     {
-      "name": "Cocoritter : Confiance",
+      "name": "Confiance",
       "icon": true,
       "description": "Lorsque Cocoritter utilise une arme de soutien, les soins prodigués et reçus augmentent de <b>20%</b>. Et lorsque Cocoritter utilise la compétence de décharge d'arme ou la compétence d'arme standard d'une arme d'assistance, l'ATQ des alliés à proximité augmente de <b>15%</b> pendant <b>5</b> secondes."
     }

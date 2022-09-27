@@ -1,0 +1,30 @@
+{
+  "_id": 21,
+  "id": "selfexplosive",
+  "name": "Self-explosive",
+  "suitName": "Self-explosive",
+  "hash": "R1",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt by flame weapons by 6%."
+    }
+  ],
+  "mind": {
+    "name": "Explosive Core",
+    "desc": "The Omnium core burns bright within."
+  },
+  "memory": {
+    "name": "Binding Thread",
+    "desc": "Not the actual thread, of course. The creator just wanted to inspire fear."
+  },
+  "belief": {
+    "name": "Web of Dread",
+    "desc": "A spider's look often scares people more than the damage it can deal."
+  },
+  "emotion": {
+    "name": "Overwhelm",
+    "desc": "They would be a nightmare to deal with in groups."
+  }
+}

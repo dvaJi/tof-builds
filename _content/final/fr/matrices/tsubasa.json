@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "suitName": "Œil du vent",
+  "hash": "SSR2",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Augmente de 14%/16%/18%/20% les dégâts infligés lorsqu'il n'y a aucun ennemi dans un rayon de 4 mètres."
+    },
+    {
+      "count": 4,
+      "value": "En cas de tir à la tête ou avec la Flèche de vent glacé : Tir perçant, accroît de 15%/18%/21%/25% l'ATQ pendant 8 secondes."
+    }
+  ],
+  "mind": {
+    "name": "Girouette",
+    "desc": "\"Le vent souffle.\" Voilà qui résume toutes les raisons de se remettre en route pour partir."
+  },
+  "memory": {
+    "name": "Gravitateur",
+    "desc": "Elle est toujours en mouvement et ne reste qu'aux endroits qu'elle a bien repérés avant."
+  },
+  "belief": {
+    "name": "Dériveur",
+    "desc": "Comment savoir quelle foi est la bonne ? Réponse : Celle qui finit par remporter la victoire."
+  },
+  "emotion": {
+    "name": "Froid glacial",
+    "desc": "Une évaluation rationnelle des relations."
+  }
+}

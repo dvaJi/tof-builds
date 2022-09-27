@@ -1,0 +1,34 @@
+{
+  "_id": 13,
+  "id": "huma",
+  "name": "Huma",
+  "suitName": "Slightly Awakened",
+  "hash": "SSR10",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Hitting targets with dodge skills inflicts bleed, dealing damage equal to 15%/19%/22.5%/26% of ATK every second for 5 seconds."
+    },
+    {
+      "count": 4,
+      "value": "Reduce ATK of all targets within 8 meters that are taking damage over time by 10%/12%/13%/15%. Only the highest level's effect is applied when obtained repeatedly."
+    }
+  ],
+  "mind": {
+    "name": "Disoriented",
+    "desc": "It was the instinct to see the light that led the baby birds out of their shells."
+  },
+  "memory": {
+    "name": "Blank Slate",
+    "desc": "Start writing the program for a completely new personality right now."
+  },
+  "belief": {
+    "name": "Easy Does It",
+    "desc": "An amnesiac like you, and always tries to do whatever can be done first."
+  },
+  "emotion": {
+    "name": "Innocent",
+    "desc": "The stiff expression is a part of the package."
+  }
+}

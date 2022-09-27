@@ -1,0 +1,15 @@
+{
+  "name": "Claudia",
+  "id": "claudia",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage by <b>13%/17%/20%/23%</b> when hitting a target in mid-air or initiating an aerial attack. Reset double jump upon hitting the target in mid-air."
+    },
+    {
+      "count": 4,
+      "value": "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by <b>1.5/2/2.5/3</b> seconds and increases the damage of discharge skills by <b>36%/45%/54%/63%</b> for 15 seconds."
+    }
+  ]
+}

@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Crow: Loner",
+      "name": "Loner",
       "icon": true,
       "description": "When Crow is not in a team, increase damage dealt by <b>6%</b> and reduce damage received by <b>4%</b>."
     },
     {
-      "name": "Crow: Silent Night",
+      "name": "Silent Night",
       "icon": true,
       "description": "When Crow is not in a team, increase damage dealt by <b>10%</b> and reduce damage received by <b>6%</b>. When Crow enters combat, increase damage dealt by <b>12%</b> for <b>12</b> seconds."
     }

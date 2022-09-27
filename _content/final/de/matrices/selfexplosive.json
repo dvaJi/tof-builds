@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "selfexplosive",
+  "name": "Hochexplosiv!",
+  "suitName": "Hochexplosiv!",
+  "hash": "R1",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Erhöht den durch Flammenwaffen verursachten Schaden um 6%."
+    }
+  ],
+  "mind": {
+    "name": "Explosiver Kern",
+    "desc": "Der Omnium-Kern brennt heiß im Inneren."
+  },
+  "memory": {
+    "name": "Binde-Gewinde",
+    "desc": "Natürlich kein echtes Gewinde. Der Hersteller wollte nur Angst verbreiten."
+  },
+  "belief": {
+    "name": "Netz der Angst",
+    "desc": "Der Anblick einer Spinne erschreckt die Leute oft mehr als der Schaden, den sie tatsächlich verursachen können."
+  },
+  "emotion": {
+    "name": "Überwältigen",
+    "desc": "In Gruppen sind sie der wahre Albtraum."
+  }
+}

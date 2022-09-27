@@ -97,12 +97,12 @@
   ],
   "traits": [
     {
-      "name": "Nemesis : Métamorphose",
+      "name": "Métamorphose",
       "icon": true,
       "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>60%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>120%</b> de l'ATQ (y compris l'utilisateur)."
     },
     {
-      "name": "Nemesis : Sublimation",
+      "name": "Sublimation",
       "icon": true,
       "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>100%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>200%</b> de l'ATQ (y compris l'utilisateur)."
     }

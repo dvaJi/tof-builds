@@ -1,0 +1,15 @@
+{
+  "name": "Frigg",
+  "id": "frigg",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When switching from a frost weapon to another frost weapon, Frost ATK is increased by <b>15%/18%/21%/25%</b> for 10 seconds. Only the highest level's effect is applied when obtained repeatedly."
+    },
+    {
+      "count": 4,
+      "value": "When using Frozen Domain, enemies within the domain take <b>60%/75%/90%/105%</b> of Frost ATK every second."
+    }
+  ]
+}

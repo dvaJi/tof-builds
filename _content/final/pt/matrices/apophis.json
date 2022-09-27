@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "apophis",
+  "name": "Apófis",
+  "suitName": "Conflito Interno",
+  "hash": "SR2",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta o dano causado quando a vida estiver baixa. Causa dano máximo quando a vida está em 20%. O dano pode ser aumentado em até 20%/25%/30%."
+    }
+  ],
+  "mind": {
+    "name": "Crescimento",
+    "desc": "Enorme em tamanho, cada movimento provoca grandes mudanças."
+  },
+  "memory": {
+    "name": "Confronto",
+    "desc": "Contra o que eu estou lutando? Será contra o destino ou contra meu eu?"
+  },
+  "belief": {
+    "name": "Fraqueza",
+    "desc": "A fraqueza nas configurações de segurança está implantada no chip; é impossível superá-la ou resistir a ela."
+  },
+  "emotion": {
+    "name": "Ódio",
+    "desc": "Por que foi feito? E por que foi modificado?"
+  }
+}

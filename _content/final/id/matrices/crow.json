@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "crow",
+  "name": "Crow",
+  "suitName": "Fanatical Pursuit",
+  "hash": "SR11",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan Crit Damage pada target dengan HP kurang dari 60% sebesar 33%/42%/50%/58%."
+    },
+    {
+      "count": 4,
+      "value": "Crit menimpakan Damage over Time tambahan setiap detik sebanyak 12%/15%/18%/21% ATK selama 5 detik. Efek tidak dapat ditumpuk."
+    }
+  ],
+  "mind": {
+    "name": "Eleventh Dimension",
+    "desc": "Beberapa hal memang tidak berwujud, tetapi benar-benar ada."
+  },
+  "memory": {
+    "name": "Formitized",
+    "desc": "Masa lalu biarlah berlalu. Saat inilah yang dibutuhkan."
+  },
+  "belief": {
+    "name": "Dire Survivor",
+    "desc": "Jangan pernah menyerah meski peluangnya sangat kecil."
+  },
+  "emotion": {
+    "name": "Rendition",
+    "desc": "Pertunjukan badut yang aneh, terkadang sangat sulit dipahami."
+  }
+}

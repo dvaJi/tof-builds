@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Tsubasa: Rainstorm",
+      "name": "Rainstorm",
       "icon": true,
       "description": "Each time Tsubasa deals damage, gain <b>1</b> stack of Fierce Strike, up to <b>1</b> stack per <b>1</b> second. Each stack adds <b>0.5%</b> ATK, up to <b>15</b> stacks. Refreshes effect duration upon gaining the effect again. The effect lasts for <b>30</b> seconds."
     },
     {
-      "name": "Tsubasa: Raging Waves",
+      "name": "Raging Waves",
       "icon": true,
       "description": "Each time Tsubasa deals damage, gain <b>1</b> stack of Fierce Strike, up to <b>1</b> stack per <b>1</b> second. Each stack adds <b>0.6%</b> ATK, up to <b>30</b> stacks. Refreshes effect duration upon gaining the effect again. The effect lasts for <b>30</b> seconds."
     }

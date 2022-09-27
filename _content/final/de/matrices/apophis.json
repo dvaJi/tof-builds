@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "apophis",
+  "name": "Apophis",
+  "suitName": "Innerer Konflikt",
+  "hash": "SR2",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Je niedriger die LP des Anwenders, desto stärker wird der durch ihn verursachte Schaden erhöht. Der Schaden kann maximal um 20%/25%/30% erhöht werden und der maximale Schadensbonus wird bei 20% der LP erreicht."
+    }
+  ],
+  "mind": {
+    "name": "Riesenkörper",
+    "desc": "Riesengroß und jede Bewegung erzeugt große Veränderungen."
+  },
+  "memory": {
+    "name": "Konfrontation",
+    "desc": "Wogegen kämpfe ich? Gegen das Schicksal oder gegen mich selbst?"
+  },
+  "belief": {
+    "name": "Schwachstelle",
+    "desc": "Die Schwäche liegt in den Sicherheitseinstellungen des Chips, denn diese können nicht ausgeschaltet oder umgangen werden."
+  },
+  "emotion": {
+    "name": "Hass",
+    "desc": "Warum wurde es erschaffen und warum später modifiziert?"
+  }
+}

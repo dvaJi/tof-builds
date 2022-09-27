@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "samir",
+  "name": "Samir",
+  "suitName": "Rational Liberation",
+  "hash": "SSR9",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan damage secara bertahap sebanyak 1% setelah mengenai target. Bisa ditumpuk hingga 10/13/16/20 kali. Bertahan selama 1,5 detik."
+    },
+    {
+      "count": 4,
+      "value": "Meningkatkan damage ledakan listrik Dual EM Stars sebanyak 16%/22%/30%/40% ATK."
+    }
+  ],
+  "mind": {
+    "name": "Just Kidding",
+    "desc": "Jika kamu bilang leluconnya garing, dia akan menjawab, \"Kenapa sih serius amat?\""
+  },
+  "memory": {
+    "name": "Dearly Departed",
+    "desc": "Orang yang hidup dalam masa lalu memang tak bisa dijangkau dan dilepaskan."
+  },
+  "belief": {
+    "name": "Silver Bullet",
+    "desc": "Dia punya peluru perak. Apa dia memburu vampir?"
+  },
+  "emotion": {
+    "name": "Future Focus",
+    "desc": "Dia selalu yakin pada takdirnya."
+  }
+}

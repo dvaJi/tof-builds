@@ -1,0 +1,30 @@
+{
+  "_id": 8,
+  "id": "ene",
+  "name": "Ene",
+  "suitName": "Overload",
+  "hash": "SR8",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "When dealing damage greater than 100% of ATK, deal additional damage equal to 60%/75%/90% of ATK. Cooldown: 3 seconds."
+    }
+  ],
+  "mind": {
+    "name": "Competitive",
+    "desc": "The accelerated output when power is increased will also be delivered in faint tremors to the weapon."
+  },
+  "memory": {
+    "name": "Loose Cannon",
+    "desc": "The Hykros Suppressor Lab never forgets the fight she put up."
+  },
+  "belief": {
+    "name": "Second Life",
+    "desc": "A body without pain will function to the last ounce of energy until complete destruction."
+  },
+  "emotion": {
+    "name": "Family Photo",
+    "desc": "It was taken only because her father begged her to."
+  }
+}

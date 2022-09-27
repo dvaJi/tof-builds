@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "samir",
+  "name": "Samir",
+  "suitName": "Libération rationnelle",
+  "hash": "SSR9",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Accroît progressivement les dégâts de 1% lorsque vous touchez une cible. Dure 1,5 seconde. Cumulable jusqu'à 10/13/16/20 fois."
+    },
+    {
+      "count": 4,
+      "value": "Accroît de 16%/22%/30%/40% de l'ATQ les dégâts de l'explosion électrique des Étoiles EM doubles."
+    }
+  ],
+  "mind": {
+    "name": "Sens de l'humour",
+    "desc": "Si vous lui dites que ses blagues sont ringardes, elle vous répondra : \"Pourquoi tant de sérieux ?\""
+  },
+  "memory": {
+    "name": "Chers disparus",
+    "desc": "Celui qui vit dans le passé est insaisissable et ne peut pas lâcher prise."
+  },
+  "belief": {
+    "name": "Balle en argent",
+    "desc": "Elle possède une balle en argent. Est-ce une chasseuse de vampires ?"
+  },
+  "emotion": {
+    "name": "Cap sur l'avenir",
+    "desc": "Elle est toujours certaine de sa destinée."
+  }
+}

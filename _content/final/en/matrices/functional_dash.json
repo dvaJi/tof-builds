@@ -1,0 +1,30 @@
+{
+  "_id": 11,
+  "id": "functional_dash",
+  "name": "Functional Dash",
+  "suitName": "Functional Dash",
+  "hash": "R2",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt by frost weapons by 6%."
+    }
+  ],
+  "mind": {
+    "name": "Hauler",
+    "desc": "Back and forth, it shuttles between the mines and the track."
+  },
+  "memory": {
+    "name": "Restart",
+    "desc": "Vehicles can attack if they receive a new command."
+  },
+  "belief": {
+    "name": "Mind of Machine",
+    "desc": "A cyber modification without any free will, thus carrying out orders like a machine."
+  },
+  "emotion": {
+    "name": "Bullseye",
+    "desc": "The biggest edge in a modification is the precision attack unhindered by emotions or sensibility."
+  }
+}

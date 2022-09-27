@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "hilda",
+  "name": "Hilda",
+  "suitName": "Parabel",
+  "hash": "SR7",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Erhöht ANG um 15%/19%/22,5%, wenn sich innerhalb von 6 Metern keine Gegner befinden."
+    }
+  ],
+  "mind": {
+    "name": "Scharfsinn",
+    "desc": "Voller Geschäftssinn."
+  },
+  "memory": {
+    "name": "Kind der Docks",
+    "desc": "Die Nase hat sich bereits so sehr an den salzigen Duft des Meeres gewöhnt, dass es sich fast schon unangenehm anfühlt, wenn er fehlt."
+  },
+  "belief": {
+    "name": "Feilscherin",
+    "desc": "Kaufe niemals etwas zum vollen Preis, sondern feilsche immer bis zum letzten Atemzug!"
+  },
+  "emotion": {
+    "name": "Schmetterball",
+    "desc": "Es gibt nicht viele Freizeitaktivitäten, die man mit Freunden mit körperlicher Behinderung ausüben kann."
+  }
+}

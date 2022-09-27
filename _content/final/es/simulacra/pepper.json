@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Pepper: Resurrección",
+      "name": "Resurrección",
       "icon": true,
       "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>100%</b>."
     },
     {
-      "name": "Pepper: Fuente",
+      "name": "Fuente",
       "icon": true,
       "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>200%</b>."
     }

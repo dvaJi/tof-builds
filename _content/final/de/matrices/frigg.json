@@ -1,0 +1,33 @@
+{
+  "_id": 28,
+  "id": "frigg",
+  "name": "Frigg",
+  "suitName": "Eiserner Geist, eiserner Körper",
+  "hash": "SSR15",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4,
+      "value": "Wenn mit der Waffe Balmung ein Froststurm erzeugt wird, erleiden Gegner darin jede Sek. Frostschaden in Höhe von 55%/65%/75%/85% des ANG."
+    }
+  ],
+  "mind": {
+    "name": "Seelenklinge",
+    "desc": "Ich werde deine Gier nach dem Verbotenen abtrennen."
+  },
+  "memory": {
+    "name": "Nach der Katastrophe",
+    "desc": "Meine Familie … Freunde … Nur ich bin jetzt noch übrig …"
+  },
+  "belief": {
+    "name": "Fester Stand",
+    "desc": "Du hast deine Definition. Aber was bedeutet „Gerechtigkeit“ für mich?"
+  },
+  "emotion": {
+    "name": "Zweifel",
+    "desc": "Wer steckt dahinter? Kann mir das irgendjemand sagen?"
+  }
+}

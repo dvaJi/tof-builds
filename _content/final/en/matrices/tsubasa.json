@@ -1,0 +1,34 @@
+{
+  "_id": 25,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "suitName": "Eye of Wind",
+  "hash": "SSR2",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage dealt by 14%/16%/18%/20% when there are no enemies within 4 meters."
+    },
+    {
+      "count": 4,
+      "value": "Upon a headshot or using Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/21%/25% for 8 seconds."
+    }
+  ],
+  "mind": {
+    "name": "Weather Vane",
+    "desc": "\"The wind blows.\" That sums up every cause for leaving and setting off again."
+  },
+  "memory": {
+    "name": "Gravitator",
+    "desc": "She's always moving about and only stays in the spot she had thoroughly scouted."
+  },
+  "belief": {
+    "name": "Drifter",
+    "desc": "How can you tell which faith is the right one? Answer: The one that ultimately emerges victorious."
+  },
+  "emotion": {
+    "name": "Stone Cold",
+    "desc": "A rational assessment of relationships."
+  }
+}

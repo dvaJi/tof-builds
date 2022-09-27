@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Samira: Trickreich",
+      "name": "Trickreich",
       "icon": true,
       "description": "Gewährt alle <b>4</b> Sek. <b>1</b> Stapel „Konzentration“, solange Samira keinen Schaden erleidet. Jeder Stapel erhöht den verursachten Schaden um <b>3%</b> (bis zu <b>4</b>-mal stapelbar). Wenn Samira getroffen wird, verliert sie <b>1</b> Stapel „Konzentration“, bis zu <b>1</b> Stapel alle <b>1</b> Sek."
     },
     {
-      "name": "Samira: Schatten",
+      "name": "Schatten",
       "icon": true,
       "description": "Gewährt alle <b>4</b> Sek. <b>1</b> Stapel „Konzentration“, solange Samira keinen Schaden erleidet. Jeder Stapel erhöht den verursachten Schaden um <b>4%</b> (bis zu <b>5</b>-mal stapelbar). Wenn Samira getroffen wird, verliert sie <b>1</b> Stapel „Konzentration“, bis zu <b>1</b> Stapel alle <b>2</b> Sek."
     }

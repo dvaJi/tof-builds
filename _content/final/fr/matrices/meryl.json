@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "meryl",
+  "name": "Meryl",
+  "suitName": "Gardien blanc pur",
+  "hash": "SSR1",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Si, après avoir subi une attaque, vos PV sont inférieurs à 30%, vous gagnez un bouclier équivalant à 20%/26%/32%/40% de vos PV max pendant 10 secondes. Temps de recharge : 90 secondes."
+    },
+    {
+      "count": 4,
+      "value": "Accroît les dégâts de Tourbillon de 36%/45%/54%/63% et régénère des PV équivalant à 30%/38%/44%/50% des dégâts infligés lorsque Tourbillon est actif. Le nombre maximal de PV régénérés toutes les 0,5 seconde ne peut dépasser 60%/72%/81%/90% de l'ATQ."
+    }
+  ],
+  "mind": {
+    "name": "Simulation de combat à l'épée",
+    "desc": "Une simulation complexe de combat à l'épée utilisée manifestement pour le calibrage. Bref, ça ne concerne pas la plupart des gens."
+  },
+  "memory": {
+    "name": "Réveil",
+    "desc": "Des éclats de mémoire en chaîne utilisés pour implanter une conscience. Notez qu'il n'y a pas de mode d'emploi."
+  },
+  "belief": {
+    "name": "Autorité absolue",
+    "desc": "Elle représente évidemment l'autoapprobation et la reconnaissance extérieure du pouvoir d'un Exécutant."
+  },
+  "emotion": {
+    "name": "Détachement",
+    "desc": "Barrières mentales de communication mises en place par rejet de toute socialisation."
+  }
+}

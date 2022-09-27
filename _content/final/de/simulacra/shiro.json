@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Shiro: Sicherheitsalarm",
+      "name": "Sicherheitsalarm",
       "icon": true,
       "description": "Erhöht für <b>8</b> Sek. jeglichen ANG um <b>10%</b> und den physischen ANG zusätzlich um <b>7%</b>, wenn Shiro eine Waffenfähigkeit/Entladungsfähigkeit einsetzt. Abklingzeit: <b>16</b> Sek."
     },
     {
-      "name": "Shiro: Alarmstufe Rot",
+      "name": "Alarmstufe Rot",
       "icon": true,
       "description": "Erhöht für <b>8</b> Sek. jeglichen ANG um <b>16%</b> und den physischen ANG zusätzlich um <b>10%</b>, wenn Shiro eine Waffenfähigkeit/Entladungsfähigkeit einsetzt. Abklingzeit: <b>16</b> Sek."
     }

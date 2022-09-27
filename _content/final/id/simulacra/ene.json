@@ -100,12 +100,12 @@
   ],
   "traits": [
     {
-      "name": "Ene: Fast Mode",
+      "name": "Fast Mode",
       "icon": true,
       "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>12%</b>."
     },
     {
-      "name": "Ene: Beyond Limits Mode",
+      "name": "Beyond Limits Mode",
       "icon": true,
       "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>20%</b>."
     }

@@ -1,0 +1,11 @@
+{
+  "name": "Bai Ling",
+  "id": "bai_ling",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt to grievous targets by <b>12%/15%/18%</b>."
+    }
+  ]
+}

@@ -86,12 +86,12 @@
     ],
     "traits": [
       {
-        "name": "Bai Ling : Bravoure",
+        "name": "Bravoure",
         "icon": true,
         "description": "Accroît de <b>8%</b> la vitesse pendant <b>12</b> secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge : <b>60</b> secondes."
       },
       {
-        "name": "Bai Ling : Détermination",
+        "name": "Détermination",
         "icon": true,
         "description": "Accroît de <b>15%</b> la vitesse pendant <b>12</b> secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge : <b>60</b> secondes."
       }
@@ -257,12 +257,12 @@
     ],
     "traits": [
       {
-        "name": "Cocoritter : Assistance",
+        "name": "Assistance",
         "icon": true,
         "description": "Lorsque Cocoritter utilise une arme d'assistance, accroît de <b>20%</b> les effets de guérison qu'elle reçoit et prodigue aux autres."
       },
       {
-        "name": "Cocoritter : Confiance",
+        "name": "Confiance",
         "icon": true,
         "description": "Lorsque Cocoritter utilise une arme de soutien, les soins prodigués et reçus augmentent de <b>20%</b>. Et lorsque Cocoritter utilise la compétence de décharge d'arme ou la compétence d'arme standard d'une arme d'assistance, l'ATQ des alliés à proximité augmente de <b>15%</b> pendant <b>5</b> secondes."
       }
@@ -543,12 +543,12 @@
     ],
     "traits": [
       {
-        "name": "Crow : Solitaire",
+        "name": "Solitaire",
         "icon": true,
         "description": "Lorsque Crow ne fait pas partie d'un groupe, accroît de <b>6%</b> les dégâts infligés et réduit de <b>4%</b> les dégâts reçus."
       },
       {
-        "name": "Crow : Douce nuit",
+        "name": "Douce nuit",
         "icon": true,
         "description": "Lorsque Crow ne fait pas partie d'un groupe, accroît de <b>10%</b> les dégâts infligés et réduit de <b>6%</b> les dégâts reçus. Lorsque Crow entre en combat, accroît les dégâts infligés de <b>12%</b> pendant <b>12</b> secondes."
       }
@@ -837,12 +837,12 @@
     ],
     "traits": [
       {
-        "name": "Echo : Intégrité",
+        "name": "Intégrité",
         "icon": true,
         "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>4%</b> (à l'exception d'Echo)."
       },
       {
-        "name": "Echo : Détermination",
+        "name": "Détermination",
         "icon": true,
         "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>6%</b> (à l'exception d'Echo)."
       }
@@ -1014,12 +1014,12 @@
     ],
     "traits": [
       {
-        "name": "Ene : Mode rapide",
+        "name": "Mode rapide",
         "icon": true,
         "description": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de <b>12%</b>."
       },
       {
-        "name": "Ene : Mode sans limites",
+        "name": "Mode sans limites",
         "icon": true,
         "description": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de <b>20%</b>."
       }
@@ -1425,12 +1425,12 @@
     ],
     "traits": [
       {
-        "name": "Hilda : Pied au plancher",
+        "name": "Pied au plancher",
         "icon": true,
         "description": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de <b>7%</b>."
       },
       {
-        "name": "Hilda : Dérapage à pleine vitesse",
+        "name": "Dérapage à pleine vitesse",
         "icon": true,
         "description": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de <b>10%</b>."
       }
@@ -1587,12 +1587,12 @@
     ],
     "traits": [
       {
-        "name": "Huma : Fortitude",
+        "name": "Fortitude",
         "icon": true,
         "description": "Chaque fois qu'Huma reçoit des dégâts, obtenez <b>1</b> marque de fortitude et <b>1</b> marque de fortitude en plus en cas de dégâts de feu, dans la limite de <b>1</b> fois par <b>1</b> seconde et de <b>12</b> cumuls au total. Lorsque vous appliquez une compétence d'arme, utilisez toutes les marques de fortitude et gagnez un bouclier de PV égal au nombre de marques x<b>0,4%</b> de PV pendant <b>12</b> secondes. Si des marques de fortitude sont utilisées lorsque l'effet est cumulé au maximum, gagnez un bouclier de PV égal au nombre de marques x<b>0,6%</b> de PV."
       },
       {
-        "name": "Huma : Écran de fer",
+        "name": "Écran de fer",
         "icon": true,
         "description": "Chaque fois qu'Huma reçoit des dégâts, obtenez <b>1</b> marque de fortitude et <b>1</b> marque de fortitude en plus en cas de dégâts de feu, dans la limite de <b>1</b> fois par <b>1</b> seconde et de <b>12</b> cumuls au total. Lorsque vous appliquez une compétence d'arme, utilisez toutes les marques de fortitude et gagnez un bouclier de PV égal au nombre de marques x<b>0,6%</b> de PV pendant <b>12</b> secondes. Si des marques de fortitude sont utilisées lorsque l'effet est cumulé au maximum, gagnez un bouclier de PV égal au nombre de marques x<b>0,9%</b> de PV."
       }
@@ -1881,12 +1881,12 @@
     ],
     "traits": [
       {
-        "name": "King : Coup de sang-froid",
+        "name": "Coup de sang-froid",
         "icon": true,
         "description": "Tous les <b>7</b> ennemis vaincus par KING, régénère un nombre de PV égal à <b>8%</b> des PV max."
       },
       {
-        "name": "King : Faucheuse de la peur",
+        "name": "Faucheuse de la peur",
         "icon": true,
         "description": "Tous les <b>5</b> ennemis vaincus par KING, régénère un nombre de PV égal à <b>10%</b> des PV max."
       }
@@ -2182,12 +2182,12 @@
     ],
     "traits": [
       {
-        "name": "Meryl : Rose fraîche",
+        "name": "Rose fraîche",
         "icon": true,
         "description": "Réduit de <b>20%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
       },
       {
-        "name": "Meryl : Glacé",
+        "name": "Glacé",
         "icon": true,
         "description": "Réduit de <b>25%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
       }
@@ -2471,12 +2471,12 @@
     ],
     "traits": [
       {
-        "name": "Nemesis : Métamorphose",
+        "name": "Métamorphose",
         "icon": true,
         "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>60%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>120%</b> de l'ATQ (y compris l'utilisateur)."
       },
       {
-        "name": "Nemesis : Sublimation",
+        "name": "Sublimation",
         "icon": true,
         "description": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à <b>100%</b> de l'ATQ à tous les ennemis dans un rayon de <b>30</b> mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de <b>200%</b> de l'ATQ (y compris l'utilisateur)."
       }
@@ -2757,12 +2757,12 @@
     ],
     "traits": [
       {
-        "name": "Pepper : Renaissance",
+        "name": "Renaissance",
         "icon": true,
         "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>100%</b>."
       },
       {
-        "name": "Pepper : Source",
+        "name": "Source",
         "icon": true,
         "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>200%</b>."
       }
@@ -2919,12 +2919,12 @@
     ],
     "traits": [
       {
-        "name": "Samir : Supercherie",
+        "name": "Supercherie",
         "icon": true,
         "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>3%</b> et le maximum est de <b>4</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>1</b>."
       },
       {
-        "name": "Samir : Ombre",
+        "name": "Ombre",
         "icon": true,
         "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>4%</b> et le maximum est de <b>5</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>2</b>."
       }
@@ -3205,12 +3205,12 @@
     ],
     "traits": [
       {
-        "name": "Shiro : Alerte de sécurité",
+        "name": "Alerte de sécurité",
         "icon": true,
         "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>10%</b> tous les types d'ATQ et de <b>7%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
       },
       {
-        "name": "Shiro : Alerte rouge",
+        "name": "Alerte rouge",
         "icon": true,
         "description": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de <b>16%</b> tous les types d'ATQ et de <b>10%</b> l'ATQ physique pendant <b>8</b> secondes. Temps de recharge : <b>16</b> secondes."
       }
@@ -3481,12 +3481,12 @@
     ],
     "traits": [
       {
-        "name": "Tsubasa : Pluie torrentielle",
+        "name": "Pluie torrentielle",
         "icon": true,
         "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,5%</b> d'ATQ, jusqu'à <b>15</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
       },
       {
-        "name": "Tsubasa : Vagues déchaînées",
+        "name": "Vagues déchaînées",
         "icon": true,
         "description": "Chaque fois que Tsubasa inflige des dégâts, obtenez <b>1</b> cumul de Frappe féroce, dans la limite de <b>1</b> cumul toutes les <b>1</b> seconde. Chaque cumul ajoute <b>0,6%</b> d'ATQ, jusqu'à <b>30</b> fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure <b>30</b> secondes."
       }
@@ -3772,12 +3772,12 @@
     ],
     "traits": [
       {
-        "name": "Zero : Calcul précis",
+        "name": "Calcul précis",
         "icon": true,
         "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>1,5</b> seconde. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
       },
       {
-        "name": "Zero : Planification globale",
+        "name": "Planification globale",
         "icon": true,
         "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>3</b> secondes. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
       }
@@ -3950,6 +3950,295 @@
         "mat2": {
           "id": "acidproof_glaze_ii",
           "name": "Vernis antiacide II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Cadre en nanofibres II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "claudia",
+    "name": "Claudia",
+    "weapon": "Lame Guren",
+    "weapon_id": "guren_blade",
+    "birthday": "16 janvier (capricorne)",
+    "birthplace": "Hykros",
+    "gender": "Féminin",
+    "info": "Fiable, tenace et extrêmement enthousiaste quand il s'agit de combat. Perçue comme distante, mais se montre gentille et passionnée lorsque les gens apprennent à la connaître. Dotée d'un fort sentiment de justice, Claudia est toujours prête à aider les autres et à lutter contre l'injustice dès qu'elle en est témoin.",
+    "description": "Une grande exécutante d'Hykros avec un léger comportement militaire.\nSa maîtrise des épées à une main et sa mobilité l'ont propulsée en première ligne d'opérations difficiles, mais Claudia a été envoyée dans un établissement médical après avoir été gravement blessée lors de l'Opération apocalypse sombre.",
+    "like": "Aliments savoureux, chapeaux avec personnalité",
+    "dislike": "Félins",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "DPS",
+    "shatter": 7.5,
+    "charge": 12,
+    "skills": [
+      {
+        "name": "Taillade rapide",
+        "type": [
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec la lame.\nPremière attaque : vous infligez des dégâts correspondant à <b>46.8%</b> de l'ATQ + <b>2</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>65.6%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts correspondant à <b>59.3%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>104.1%</b> de l'ATQ + <b>5</b>, et repoussez la cible sur une courte distance.\nCinquième attaque : vous infligez des dégâts correspondant à <b>177.8%</b> de l'ATQ + <b>9</b>, et <b>projetez</b> la cible."
+      },
+      {
+        "name": "Coup sauté",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour attaquer 4 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>27.9%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>48.4%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>114.6%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>139%</b> de l'ATQ + <b>7</b>."
+      },
+      {
+        "name": "Cyclone",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Maintenez la touche Attaque normale après des attaques normales pour déclencher Cyclone.\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts correspondant à <b>47.8%</b> de l'ATQ + <b>3</b> à une seule cible."
+      },
+      {
+        "name": "Lame plongeante",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le Jetpack pour déclencher Lame plongeante.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>10%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts correspondant à <b>76.4%</b> de l'ATQ + <b>4</b>, et repoussez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+      },
+      {
+        "name": "Attaque furtive",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>570%</b> de l'ATQ + <b>30</b>."
+      },
+      {
+        "name": "Attaque bondissante",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Attaque bondissante.\nL'Explorateur brandit sa lame et inflige des dégâts équivalant à <b>37.9%</b> de l'ATQ + <b>2</b> à la cible. <b>Suspend longuement</b> la cible et s'envole pour lui infliger des dégâts supplémentaires équivalant à <b>56.8%</b> de l'ATQ + <b>3</b>."
+      },
+      {
+        "name": "Itinérance",
+        "type": [
+          "Skill"
+        ],
+        "description": "Vous dansez à travers les cibles en brandissant la lame, infligeant des dégâts équivalant à <b>418%</b> de l'ATQ + <b>22</b> au total jusqu'à <b>5</b> cibles (les attaques sur la même cible infligent <b>20%</b> de dégâts en moins). Lorsque la compétence prend fin, vous tailladez l'espace face à vous, infligeant des dégâts équivalant à <b>264%</b> de l'ATQ + <b>14</b> aux cibles et les suspendant. Immunisé aux effets de contrôle des foules tant que la compétence est en cours d'utilisation, et tous les dégâts subis sont réduits de <b>50%</b>. Temps de recharge : <b>15</b> secondes."
+      },
+      {
+        "name": "Déluge effréné",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, qui charge une cible et la <b>suspend longuement</b>. Inflige <b>523.3%</b> de l'ATQ + <b>28</b> de dégâts, crée une tempête de lames qui inflige des dégâts équivalant à <b>209.6%</b> de l'ATQ + <b>11</b> à la cible, et vous obtenez une immunité contre les effets de blessures graves, de brûlure, de gel et d'électrocution pendant <b>5</b> secondes."
+      }
+    ],
+    "weapon_type": {
+      "name": "Blessure grave",
+      "description": "Les armes entièrement chargées infligent des dégâts correspondant à <b>137%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
+    },
+    "weapon_resonance": {
+      "name": "Résonance physique",
+      "description": "<b>Résonance physique</b> : augmente l'ATQ physique de <b>15%</b> et la résistance physique de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de dégâts physiques. Les effets de ce kit fonctionnent également avec les armes dans l'emplacement main libre. Ils ne peuvent être cumulés."
+    },
+    "advancement": [
+      "Chaque fois qu'une compétence standard ou de décharge touche une cible, obtenez un cumul de bonus de dégâts qui augmente de <b>8%</b> les dégâts infligés pendant <b>25</b> secondes (cumulable jusqu'à <b>3</b> fois. Chaque compétence standard ou de décharge utilisée ne peut conférer qu'un seul cumul).",
+      "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+      "Toucher une cible avec une compétence standard ou de décharge lui inflige un cumul de Blessures de guerre, ce qui accroît de <b>10%</b> les dégâts physiques et les effets de fracture qui lui sont infligés avec les armes physiques et élémentaires pendant <b>15</b> secondes. Cumulable jusqu'à <b>1</b> fois.",
+      "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+      "Toucher des cibles avec une compétence standard ou une compétence de décharge confère un bonus de dégât, ce qui accroît tous les dégâts de <b>20%</b> pendant <b>25</b> secondes. Cet effet ne peut être cumulé.",
+      "Toucher plusieurs fois la même cible ne réduit plus les dégâts infligés. Après avoir utilisé Lame Guren ou une compétence de décharge, applique <b>1</b> cumul de Blessures de guerre à toutes les cibles dans un rayon de 8 mètres."
+    ],
+    "traits": [
+      {
+        "name": "Téléportation",
+        "icon": true,
+        "description": "Vous devenez invisible pendant <b>1</b> seconde après une esquive."
+      },
+      {
+        "name": "Ombre",
+        "icon": true,
+        "description": "Vous devenez invisible pendant <b>1,5</b> seconde après une esquive."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Cadre d'amplification I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Pétranoyau",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorevêtement I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Cadre en nanofibres I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Cœur du sommet",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanorevêtement II",
           "rarity": "SR",
           "amount": 5
         },

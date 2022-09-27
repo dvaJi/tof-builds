@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "huma",
+  "name": "Huma",
+  "suitName": "Etwas seltsam",
+  "hash": "SSR10",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Fügt „Blutung“ zu und verursacht 5 Sek. lang jede Sek. Schaden in Höhe von 15%/19%/22,5%/26% des ANG, wenn Gegner mit Ausweichfähigkeiten getroffen werden."
+    },
+    {
+      "count": 4,
+      "value": "Verringert den ANG von Zielen mit DoTs innerhalb von 8 Metern um 10%/12%/13%/15%. Es gilt immer nur der Effekt mit der höchsten Stufe."
+    }
+  ],
+  "mind": {
+    "name": "Orientierungslos",
+    "desc": "Es war der Instinkt, das Licht zu sehen, der die Vogelküken ihre Eierschalen verlassen ließ."
+  },
+  "memory": {
+    "name": "Unbeschriebenes Blatt",
+    "desc": "Beginne jetzt damit, das Programm für eine völlig neue Persönlichkeit zu schreiben."
+  },
+  "belief": {
+    "name": "Immer sachte",
+    "desc": "Leidet auch unter Amnesie und versucht stets, das zu tun, was zuerst getan werden kann."
+  },
+  "emotion": {
+    "name": "Unschuldig",
+    "desc": "Der starre Ausdruck gehört einfach dazu."
+  }
+}

@@ -99,12 +99,12 @@
   ],
   "traits": [
     {
-      "name": "Zero: Präzise Berechnungen",
+      "name": "Präzise Berechnungen",
       "icon": true,
       "description": "Wenn Zero eine Waffenfähigkeit einsetzt, wird die Abklingzeit für Relikte um <b>1,5</b> Sek. verringert. Wird pro Waffe nur <b>1</b>-mal alle <b>5</b> Sek. ausgelöst."
     },
     {
-      "name": "Zero: Tadellose Planung",
+      "name": "Tadellose Planung",
       "icon": true,
       "description": "Wenn Zero eine Waffenfähigkeit einsetzt, wird die Abklingzeit für Relikte um <b>3</b> Sek. verringert. Wird pro Waffe nur <b>1</b>-mal alle <b>5</b> Sek. ausgelöst."
     }

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "suitName": "Bloqueo mortal",
+  "hash": "SR9",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el daño infligido a objetivos graves en un 12%/15%/18%."
+    }
+  ],
+  "mind": {
+    "name": "distinta",
+    "desc": "¿Qué hacer si se expande cuando piensas en ello?"
+  },
+  "memory": {
+    "name": "disipación",
+    "desc": "¿Del caos al orden? Probablemente se requiera intervención externa. Dije probablemente."
+  },
+  "belief": {
+    "name": "comercio justo",
+    "desc": "Los bienes deben intercambiarse de acuerdo a su valor real. ¿Pero qué valor tiene algo que es invaluable?"
+  },
+  "emotion": {
+    "name": "Enésima Potencia",
+    "desc": "Si tan solo la experiencia ganada y el ROI funcionaran exponencialmente..."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "nemesis",
+  "name": "Nemesis",
+  "suitName": "Lebensbrücke",
+  "hash": "SSR14",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Wenn ein Ziel geheilt wird, wird sein Volt-ANG für 20 Sek. um 15%/18%/21%/25% erhöht. Nicht stapelbar. Es gilt immer nur der Effekt mit der höchsten Stufe."
+    },
+    {
+      "count": 4,
+      "value": "Wenn der Anwender sich oder die eigene Elektrode heilt, erhält das Ziel eine Ladung „Blitz“. Dadurch wird der nächste Angriff innerhalb von 30 Sek. mit „Blitz“ verstärkt und verursacht so Voltschaden in Höhe von 300%/375%/450%/525% des Volt-ANG (Schaden der Elektrode wird um 50% verringert). Kann nur einmal alle 10 Sek. ausgelöst werden. „Blitz“-Ladungen sind nicht stapelbar. Es gilt immer nur der Effekt mit der höchsten Stufe."
+    }
+  ],
+  "mind": {
+    "name": "Legierungszellen",
+    "desc": "Mehr als die Hälfte der Hülle wurde ersetzt. Ich frage mich, ob es einen Weg gibt, das Mengenverhältnis von Seelen zu messen."
+  },
+  "memory": {
+    "name": "Teddybär",
+    "desc": "Ich habe zwei Orte verloren, die ich mein Zuhause nannte, aber glücklicherweise sind mir einige Habseligkeiten geblieben."
+  },
+  "belief": {
+    "name": "Aktualisiert",
+    "desc": "Die Unschuld verblasst und der Mut wirkt erwachsener und ausgereifter."
+  },
+  "emotion": {
+    "name": "Innerer Antrieb",
+    "desc": "Die Erinnerungen und das Herz der Menschheit können Hindernis aber auch Antrieb sein."
+  }
+}

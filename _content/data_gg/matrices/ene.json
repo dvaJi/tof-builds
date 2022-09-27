@@ -1,0 +1,11 @@
+{
+  "name": "Ene",
+  "id": "ene",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "When dealing damage greater than 100% of ATK, deal additional damage equal to <b>60%</b> of ATK. Cooldown: 3 seconds."
+    }
+  ]
+}

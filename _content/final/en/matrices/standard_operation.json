@@ -1,0 +1,30 @@
+{
+  "_id": 24,
+  "id": "standard_operation",
+  "name": "Standard Operation",
+  "suitName": "Standard Operation",
+  "hash": "R3",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt by volt weapons by 6%."
+    }
+  ],
+  "mind": {
+    "name": "Standard Guard",
+    "desc": "Being a good armed guard means protecting the thing you're guarding."
+  },
+  "memory": {
+    "name": "Terminator Guard",
+    "desc": "Merciless to anyone attempting to destroy what it's guarding."
+  },
+  "belief": {
+    "name": "Unyielding Guard",
+    "desc": "No matter how powerful the enemy, it will not fall until it's utterly destroyed."
+  },
+  "emotion": {
+    "name": "Tenet Guard",
+    "desc": "Industrial creations have no free will, but the rules they follow could probably be called their tenets."
+  }
+}

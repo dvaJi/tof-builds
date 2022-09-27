@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "ene",
+  "name": "Ene",
+  "suitName": "Überladung",
+  "hash": "SR8",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Wird Schaden verursacht, der höher als 100% des ANG ist, wird Bonusschaden in Höhe von 60%/75%/90% des ANG ausgelöst. Abklingzeit: 3 Sek."
+    }
+  ],
+  "mind": {
+    "name": "Ehrgeiz",
+    "desc": "Wenn die Kraft erhöht wird, wird die verstärkte Leistung auch in Form eines leichten Zitterns an die Waffe weitergeleitet."
+  },
+  "memory": {
+    "name": "Gemeingefährlich",
+    "desc": "Das Hykros-Suppressorlabor vergisst nie, wie sie sich zur Wehr gesetzt hat."
+  },
+  "belief": {
+    "name": "Zweites Leben",
+    "desc": "Ein Körper, der keinerlei Schmerzen empfindet, kämpft bis zum letzten Atemzug."
+  },
+  "emotion": {
+    "name": "Familienfoto",
+    "desc": "Dieses Foto wurde nur aufgenommen, weil ihr Vater sie darum gebeten hat."
+  }
+}

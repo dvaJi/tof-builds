@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "huma",
+  "name": "Huma",
+  "suitName": "Un poco ascendido",
+  "hash": "SSR10",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Golpear objetivos con las habilidades de esquivar los hacen sangrar, lo que inflige daño equivalente al 15%/19%/22.5%/26% del ATQ cada segundo durante 5 segundos."
+    },
+    {
+      "count": 4,
+      "value": "Reduce el ATQ de todos los objetivos en un radio de 8 metros que estén recibiendo daño prolongado en un 10%/12%/13%/15%. Solo se aplica el mayor nivel cuando se obtiene el mismo efecto repetidas veces."
+    }
+  ],
+  "mind": {
+    "name": "Confusión",
+    "desc": "El instinto por ver la luz guio a los pichones fuera de sus cascarones."
+  },
+  "memory": {
+    "name": "Hoja en Blanco",
+    "desc": "Comienza a escribir el código de programación para una personalidad completamente nueva de inmediato."
+  },
+  "belief": {
+    "name": "Sin Complicaciones",
+    "desc": "Alguien con amnesia como tú. Siempre trata de hacer lo más sencillo primero."
+  },
+  "emotion": {
+    "name": "Inocente",
+    "desc": "La expresión seria es parte del paquete."
+  }
+}

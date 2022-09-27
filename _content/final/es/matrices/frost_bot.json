@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "frost_bot",
+  "name": "Robot de Hielo",
+  "suitName": "Cero extremo",
+  "hash": "SR3",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Cuando los PS están debajo del 40%, usar una habilidad de descarga para cambiar el arma actual restaura los PS equivalentes al 160%/200%/240% del ATQ."
+    }
+  ],
+  "mind": {
+    "name": "No Subestimes",
+    "desc": "Parece ser comida, cierto, pero de todos modos deberías tener cuidado."
+  },
+  "memory": {
+    "name": "Final Veloz",
+    "desc": "El sistema de combate de una armadura tiene un único objetivo: terminar con el combate lo más rápido posible."
+  },
+  "belief": {
+    "name": "Congelación Rápida",
+    "desc": "Transforma todo a su alrededor en bloques de hielo."
+  },
+  "emotion": {
+    "name": "Implacable",
+    "desc": "No es buena idea combatirlo."
+  }
+}

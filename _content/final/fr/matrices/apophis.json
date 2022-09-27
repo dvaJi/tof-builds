@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "apophis",
+  "name": "Apophis",
+  "suitName": "Conflit interne",
+  "hash": "SR2",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Inflige plus de dégâts quand les PV sont bas. Inflige des dégâts maximaux lorsque les PV sont à 20%. Les dégâts peuvent être accrus de 20%/25%/30%."
+    }
+  ],
+  "mind": {
+    "name": "Géant",
+    "desc": "De taille énorme, chacun de ses mouvements est un bouleversement."
+  },
+  "memory": {
+    "name": "Confrontation",
+    "desc": "Contre quoi est-ce que je me bats ? Le destin ou moi-même ?"
+  },
+  "belief": {
+    "name": "Point faible",
+    "desc": "La faiblesse fait partie des configurations de sécurité intégrées à la puce ; on ne peut ni la surmonter ni y échapper."
+  },
+  "emotion": {
+    "name": "Haine",
+    "desc": "Pourquoi l'avoir fabriqué, et pourquoi l'avoir modifié ?"
+  }
+}

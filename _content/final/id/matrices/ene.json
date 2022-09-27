@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "ene",
+  "name": "Ene",
+  "suitName": "Overload",
+  "hash": "SR8",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Saat menimpakan damage lebih besar dari 100% ATK, menimpakan damage tambahan sebesar 60%/75%/90% ATK. Cooldown: 3 detik."
+    }
+  ],
+  "mind": {
+    "name": "Competitive",
+    "desc": "Output yang dipercepat saat daya ditingkatkan juga akan dikirimkan dalam getaran samar ke senjata."
+  },
+  "memory": {
+    "name": "Loose Cannon",
+    "desc": "Hykros Suppressor Lab tak pernah melupakan perlawanan yang dilakukannya."
+  },
+  "belief": {
+    "name": "Second Life",
+    "desc": "Tubuh tanpa rasa sakit akan berfungsi hingga energi terakhir sampai kehancuran total."
+  },
+  "emotion": {
+    "name": "Family Photo",
+    "desc": "Ini hanya karena ayahnya memohon-mohon padanya."
+  }
+}

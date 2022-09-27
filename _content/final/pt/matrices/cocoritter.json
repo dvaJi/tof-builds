@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cocoritter",
+  "name": "Cocoritter",
+  "suitName": "Prova de Confiança",
+  "hash": "SSR3",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta a capacidade de cura e a cura recebida em 10%/12%/14%/16%."
+    },
+    {
+      "count": 4,
+      "value": "Aumenta o ATQ em 12,5%/15%/17,5%/20% durante 6 segundos quando você ou colegas forem curados. Somente o nível mais alto é aplicado quando o efeito é obtido repetidamente."
+    }
+  ],
+  "mind": {
+    "name": "Instinto Artístico",
+    "desc": "Os raciocínios que sustentam a criação de obras também podem ser aplicados ao campo de batalha."
+  },
+  "memory": {
+    "name": "Sobreposição Identitária",
+    "desc": "A silhueta dela se sobrepõe ao protetor de quem se lembrou."
+  },
+  "belief": {
+    "name": "Cuidadora",
+    "desc": "As expectativas dela são simples: amenizar a sua dor."
+  },
+  "emotion": {
+    "name": "Socorrista",
+    "desc": "Pode confiar, deixe o suporte comigo."
+  }
+}

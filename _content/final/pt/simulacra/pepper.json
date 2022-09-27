@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Pepper: Reanimação",
+      "name": "Reanimação",
       "icon": true,
       "description": "Quando Pepper consome saciedade para restaurar vida, aumenta em <b>100%</b> o efeito de restauração."
     },
     {
-      "name": "Pepper: Origem",
+      "name": "Origem",
       "icon": true,
       "description": "Quando Pepper consome saciedade para restaurar vida, aumenta em <b>200%</b> o efeito de restauração."
     }

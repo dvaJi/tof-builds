@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "crow",
+  "name": "Crow",
+  "suitName": "Perseguição Fanática",
+  "hash": "SR11",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta em 33%/42%/50%/58% o dano crítico causado a alvos com menos de 60% da vida."
+    },
+    {
+      "count": 4,
+      "value": "Críticos causam dano prolongado adicional de 12%/15%/18%/21% do ATQ a cada segundo durante 5 segundos. Não acumula."
+    }
+  ],
+  "mind": {
+    "name": "Décima Primeira Dimensão",
+    "desc": "Algumas coisas são intangíveis, mas realmente existem."
+  },
+  "memory": {
+    "name": "Formatação",
+    "desc": "O passado ficou para trás. O que você precisa agarrar é o presente."
+  },
+  "belief": {
+    "name": "Sobrevivência",
+    "desc": "Nunca desista, mesmo se for totalmente improvável."
+  },
+  "emotion": {
+    "name": "Interpretação",
+    "desc": "Um show de palhaços bizarro, às vezes muito complicado de entender."
+  }
+}

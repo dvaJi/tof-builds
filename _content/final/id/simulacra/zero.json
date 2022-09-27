@@ -99,12 +99,12 @@
   ],
   "traits": [
     {
-      "name": "Zero: Accurate Calculation",
+      "name": "Accurate Calculation",
       "icon": true,
       "description": "Saat Zero menggunakan Weapon Skill, mengurangi waktu cooldown Relic yang sedang cooldown sebanyak <b>1,5</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
     },
     {
-      "name": "Zero: Overall Planning",
+      "name": "Overall Planning",
       "icon": true,
       "description": "Saat Zero menggunakan Weapon Skill, mengurangi waktu cooldown Relic yang sedang cooldown sebanyak <b>3</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
     }

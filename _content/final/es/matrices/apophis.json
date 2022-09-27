@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "apophis",
+  "name": "Apophis",
+  "suitName": "Pelea Interna",
+  "hash": "SR2",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Inflige más daño cuando los PS están más bajos. Inflige daño máximo cuando los PS están en 20%. Se puede aumentar el daño hasta un 20%/25%/30%."
+    }
+  ],
+  "mind": {
+    "name": "Gigante",
+    "desc": "De tamaño gigante, cada uno de sus movimientos produce grandes cambios."
+  },
+  "memory": {
+    "name": "Confrontación",
+    "desc": "¿Contra qué estoy peleando? ¿Contra el destino o contra mí?"
+  },
+  "belief": {
+    "name": "Punto Débil",
+    "desc": "La debilidad son las configuraciones de seguridad implantadas en el chip y son imposibles de superar o resistir."
+  },
+  "emotion": {
+    "name": "Odio",
+    "desc": "¿Por qué lo hicieron y modificaron?"
+  }
+}

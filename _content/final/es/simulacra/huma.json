@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Huma: Fortaleza",
+      "name": "Fortaleza",
       "icon": true,
       "description": "Cada vez que Huma recibe daño, obtiene <b>1</b> marca de Fortaleza y obtiene <b>1</b> marca de Fortaleza adicional si es daño de fuego, con un límite de <b>1</b> vez por cada <b>1</b> segundo y hasta <b>12</b> acumulaciones en total. Tras usar una habilidad de arma, gasta todas las marcas de Fortaleza y obtiene un escudo de PS igual al número de marcas x<b>0.4%</b> de los PS durante <b>12</b> segundos. Si las marcas de Fortaleza se usan cuando el efecto está acumulado al máximo, obtiene un escudo de PS igual al número de marcas x<b>0.6%</b> de los PS."
     },
     {
-      "name": "Huma: Cortina de Hierro",
+      "name": "Cortina de Hierro",
       "icon": true,
       "description": "Cada vez que Huma recibe daño, obtiene <b>1</b> marca de Fortaleza y obtiene <b>1</b> marca de Fortaleza adicional si es daño de fuego, con un límite de <b>1</b> vez por cada <b>1</b> segundo y hasta <b>12</b> acumulaciones en total. Tras usar una habilidad de arma, gasta todas las marcas de Fortaleza y obtiene un escudo de PS igual al número de marcas x<b>0.6%</b> de los PS durante <b>12</b> segundos. Si las marcas de Fortaleza se usan cuando el efecto está acumulado al máximo, obtiene un escudo de PS igual al número de marcas x<b>0.9%</b> de los PS."
     }

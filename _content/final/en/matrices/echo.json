@@ -1,0 +1,30 @@
+{
+  "_id": 7,
+  "id": "echo",
+  "name": "Echo",
+  "suitName": "Uproot",
+  "hash": "SR12",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Using a discharge skill to switch to the current weapon grants 80/100/120 weapon charge."
+    }
+  ],
+  "mind": {
+    "name": "Until the End",
+    "desc": "A straight line of thought to completing the current goal."
+  },
+  "memory": {
+    "name": "Post Crisis",
+    "desc": "Memory of the snowfield on a truck after surviving a crisis."
+  },
+  "belief": {
+    "name": "Black or White",
+    "desc": "It's too hard for her to comprehend anything complicated."
+  },
+  "emotion": {
+    "name": "Homesick",
+    "desc": "Two homes, two shelters, both cozy. Either way, it's the homecoming."
+  }
+}

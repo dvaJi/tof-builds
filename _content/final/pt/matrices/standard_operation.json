@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "standard_operation",
+  "name": "Operação Padrão",
+  "suitName": "Operação Padrão",
+  "hash": "R3",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta em 6% o dano causado por armas de raio."
+    }
+  ],
+  "mind": {
+    "name": "Guarda Padrão",
+    "desc": "Um guarda bem equipado pode preservar aquilo que está protegendo."
+  },
+  "memory": {
+    "name": "Guarda Exterminador",
+    "desc": "Impiedoso com qualquer pessoa que tente destruir o que está protegendo."
+  },
+  "belief": {
+    "name": "Guarda Obstinado",
+    "desc": "Não importa o quão poderoso seja o inimigo, ele só vai parar quando estiver completamente destruído."
+  },
+  "emotion": {
+    "name": "Guarda Doutrinado",
+    "desc": "Criações industriais não possuem livre arbítrio, mas dá para dizer que as regras que seguem são dogmas."
+  }
+}

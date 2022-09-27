@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Tsubasa: Rainstorm",
+      "name": "Rainstorm",
       "icon": true,
       "description": "Setiap kali Tsubasa menimpakan damage, mendapatkan <b>1</b> tumpuk Strike, maks <b>1</b> tumpuk per <b>1</b> detik. Setiap tumpuk akan menambahkan <b>0,5%</b> ATK, maks <b>15</b> tumpuk. Durasi efek akan disegarkan setelah mendapatkan efek itu lagi. Efek ini bertahan <b>30</b> detik."
     },
     {
-      "name": "Tsubasa: Raging Waves",
+      "name": "Raging Waves",
       "icon": true,
       "description": "Setiap kali Tsubasa menimpakan damage, mendapatkan <b>1</b> tumpuk Strike, maks <b>1</b> tumpuk per <b>1</b> detik. Setiap tumpuk akan menambahkan <b>0,6%</b> ATK, maks <b>30</b> tumpuk. Durasi efek akan disegarkan setelah mendapatkan efek itu lagi. Efek ini bertahan <b>30</b> detik."
     }

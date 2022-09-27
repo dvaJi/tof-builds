@@ -1,0 +1,34 @@
+{
+  "_id": 22,
+  "id": "shiro",
+  "name": "Shiro",
+  "suitName": "Poem of Departure",
+  "hash": "SSR7",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase both damage and shatter to targets with more than 50% HP by 15%/19%/22.5%/26%."
+    },
+    {
+      "count": 4,
+      "value": "Upon entering battle, gain a 20%/25%/30%/35% damage boost for 35 seconds. Reset 5 seconds after exiting battle."
+    }
+  ],
+  "mind": {
+    "name": "Isolated",
+    "desc": "Skittish about everyone like a wild cat, yet sometimes sit by a pool and play with the water, wondering why so lonely."
+  },
+  "memory": {
+    "name": "Longing for Sea",
+    "desc": "A big part of the ocean's beauty stems from the fact that it could never be fully understood."
+  },
+  "belief": {
+    "name": "Great Singer",
+    "desc": "Proof of her awesome singing voice, from a researcher who defied death to smuggle the recording out."
+  },
+  "emotion": {
+    "name": "Cat-like",
+    "desc": "Every touch is cautious, every gaze deftly avoided... That's her humble way to pursue happiness."
+  }
+}

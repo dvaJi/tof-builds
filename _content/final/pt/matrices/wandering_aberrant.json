@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "wandering_aberrant",
+  "name": "Anômalo Errante",
+  "suitName": "Linhagem Sanguínea Selvagem",
+  "hash": "N1",
+  "rarity": "N",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta o dano causado em 4%."
+    }
+  ],
+  "mind": {
+    "name": "Anômalo Errante",
+    "desc": "Está à solta desde que fugiu do laboratório. Será que a aberração se deve a experimentos ou à radiação de Omnium? Isso ninguém sabe."
+  },
+  "memory": {
+    "name": "Natureza Selvagem",
+    "desc": "À medida que se acostuma com a selva, a natureza reprimida pela domesticação volta aos poucos."
+  },
+  "belief": {
+    "name": "Força Bruta",
+    "desc": "Parece que sabia que podia sair da jaula à força e fugir."
+  },
+  "emotion": {
+    "name": "Rumo ao Lar",
+    "desc": "Apesar das pegadas por toda Aesperia, não conseguiu achar seu lar... porque nasceu em cativeiro."
+  }
+}

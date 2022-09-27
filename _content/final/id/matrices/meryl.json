@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "meryl",
+  "name": "Meryl",
+  "suitName": "Pure White Guardian",
+  "hash": "SSR1",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Jika HP kurang dari 30% setelah diserang, memperoleh perisai sebanyak 20%/26%/32%/40% Max HP selama 10 detik. Cooldown: 90 detik."
+    },
+    {
+      "count": 4,
+      "value": "Meningkatkan damage Whirlwind sebanyak 36%/45%/54%/63% dan memulihkan HP sebanyak 30%/38%/44%/50% damage yang ditimpakan saat Whirlwind aktif. Maksimum HP yang dipulihkan setiap 0,5 detik tidak boleh melebihi 60%/72%/81%/90% ATK."
+    }
+  ],
+  "mind": {
+    "name": "Swordfight Simulation",
+    "desc": "Simulasi pertarungan pedang yang rumit tampaknya digunakan untuk kalibrasi. Lagi pula, bukan sesuatu untuk rata-rata orang."
+  },
+  "memory": {
+    "name": "Wake-Up Call",
+    "desc": "Rangkaian Memory Shard yang digunakan untuk menanamkan Consciousness. Catat, ini tidak disertai dengan buku petunjuk."
+  },
+  "belief": {
+    "name": "Absolute Authority",
+    "desc": "Ini, tentu saja, mewakili persetujuan diri dan pengakuan dari luar atas kekuatan Executor."
+  },
+  "emotion": {
+    "name": "Detached",
+    "desc": "Hambatan komunikasi mental dibentuk dengan menolak segala sosialisasi."
+  }
+}

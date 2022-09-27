@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "echo",
+  "name": "Echo",
+  "suitName": "Desarraigo",
+  "hash": "SR12",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Usar una habilidad de descarga para cambiar al arma actual otorga 80/100/120 de carga de arma."
+    }
+  ],
+  "mind": {
+    "name": "hasta el final",
+    "desc": "Una línea directa de pensamiento para completar el objetivo actual."
+  },
+  "memory": {
+    "name": "Poscrisis",
+    "desc": "El recuerdo de un campo de nieve y un camión luego de sobrevivir a una crisis."
+  },
+  "belief": {
+    "name": "blanco o negro",
+    "desc": "Para ella, las cosas complicadas son muy difíciles de entender."
+  },
+  "emotion": {
+    "name": "nostalgia",
+    "desc": "Dos hogares, dos refugios, ambos acogedores. En cualquier caso, es el regreso a casa."
+  }
+}

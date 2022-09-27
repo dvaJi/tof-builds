@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "sobek",
+  "name": "Sobek",
+  "suitName": "Ombre marécageuse",
+  "hash": "SR4",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 6%/7,5%/9% les dégâts infligés pour chaque ennemi à proximité. Effet cumulable jusqu'à 3 fois."
+    }
+  ],
+  "mind": {
+    "name": "Plan",
+    "desc": "Attention de ne pas vous laisser entraîner dans son mirage."
+  },
+  "memory": {
+    "name": "Opportunité",
+    "desc": "Une patience qui suffit toujours à ce que les malchanceux finissent par marcher dessus."
+  },
+  "belief": {
+    "name": "Confusion",
+    "desc": "Il ne bouge pas. Est-ce qu'il dort ou il économise juste son énergie ?"
+  },
+  "emotion": {
+    "name": "Agitation",
+    "desc": "Il lui arrive de s'ennuyer, mais lorsqu'il s'agite, mieux vaut ne pas être dans les parages."
+  }
+}

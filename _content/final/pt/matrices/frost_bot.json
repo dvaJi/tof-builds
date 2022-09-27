@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "frost_bot",
+  "name": "Gelorrobô",
+  "suitName": "Zero Extremo",
+  "hash": "SR3",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Quando a vida está abaixo de 40%, usar uma habilidade de descarga para trocar para a arma atual restaura vida equivalente a 160%/200%/240% do ATQ."
+    }
+  ],
+  "mind": {
+    "name": "Não Subestime",
+    "desc": "É verdade que parece comida, mas isso não significa que você não deva ter cuidado."
+  },
+  "memory": {
+    "name": "Fim Rápido",
+    "desc": "O sistema de combate da armadura possui um único objetivo: terminar a luta o mais depressa possível."
+  },
+  "belief": {
+    "name": "Piscou, Congelou",
+    "desc": "Congela o entorno em blocos de gelo."
+  },
+  "emotion": {
+    "name": "Brutal",
+    "desc": "Lutar contra ele não é uma decisão inteligente."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "robarg",
+  "name": "Robarg",
+  "suitName": "Dévoreur",
+  "hash": "SR1",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Lorsqu'une cible est fracturée, elle est empoisonnée et subit des dégâts équivalant à 45%/56%/67,5% de son ATQ chaque seconde pendant 10 secondes."
+    }
+  ],
+  "mind": {
+    "name": "Cupidité",
+    "desc": "Enraciné dans l'avidité sans fin."
+  },
+  "memory": {
+    "name": "Instinct",
+    "desc": "Son instinct lui permet toujours d'aller de l'avant."
+  },
+  "belief": {
+    "name": "Épuisement",
+    "desc": "Dévore tout, du corps et de l'énergie jusqu'à votre volonté de survivre."
+  },
+  "emotion": {
+    "name": "Fin",
+    "desc": "Attend la fin avec impatience."
+  }
+}

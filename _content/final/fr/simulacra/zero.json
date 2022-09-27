@@ -99,12 +99,12 @@
   ],
   "traits": [
     {
-      "name": "Zero : Calcul précis",
+      "name": "Calcul précis",
       "icon": true,
       "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>1,5</b> seconde. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
     },
     {
-      "name": "Zero : Planification globale",
+      "name": "Planification globale",
       "icon": true,
       "description": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de <b>3</b> secondes. Peut s'activer <b>1</b> fois par arme, toutes les <b>5</b> secondes."
     }

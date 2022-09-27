@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Pepper : Renaissance",
+      "name": "Renaissance",
       "icon": true,
       "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>100%</b>."
     },
     {
-      "name": "Pepper : Source",
+      "name": "Source",
       "icon": true,
       "description": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de <b>200%</b>."
     }

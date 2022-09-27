@@ -109,12 +109,12 @@
   ],
   "traits": [
     {
-      "name": "Meryl: Rosa Fria",
+      "name": "Rosa Fria",
       "icon": true,
       "description": "Reduz o dano gélido sofrido por Meryl em <b>20%</b>, ganha imunidade ao efeito queimadura de gelo e reduz a duração do congelamento sofrido em <b>50%</b>."
     },
     {
-      "name": "Meryl: Congelado",
+      "name": "Congelado",
       "icon": true,
       "description": "Reduz o dano gélido sofrido por Meryl em <b>25%</b>, ganha imunidade ao efeito queimadura de gelo e reduz a duração do congelamento sofrido em <b>50%</b>."
     }

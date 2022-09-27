@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "echo",
+  "name": "Echo",
+  "suitName": "Entwurzeln",
+  "hash": "SR12",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Die Anwendung einer Entladungsfähigkeit, um zur aktuellen Waffe zu wechseln, gewährt 80/100/120 Waffenladungspunkte."
+    }
+  ],
+  "mind": {
+    "name": "Bis zum Ende",
+    "desc": "Ein geradliniger Gedankengang, um das aktuelle Ziel zu erreichen."
+  },
+  "memory": {
+    "name": "Nach der Krise",
+    "desc": "Die Erinnerung an ein verschneites Schneefeld, die man von einem Lastwagen aus nach einer überstandenen Krise sieht."
+  },
+  "belief": {
+    "name": "Schwarz oder weiß",
+    "desc": "Sie hat Schwierigkeiten damit, komplizierte Sachverhalte zu verstehen."
+  },
+  "emotion": {
+    "name": "Heimweh",
+    "desc": "Zwei Zuhause, zwei Unterkünfte, beide gemütlich. Jedenfalls ist es die Heimkehr."
+  }
+}

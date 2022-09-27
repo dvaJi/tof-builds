@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "Echo : Intégrité",
+      "name": "Intégrité",
       "icon": true,
       "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>4%</b> (à l'exception d'Echo)."
     },
     {
-      "name": "Echo : Détermination",
+      "name": "Détermination",
       "icon": true,
       "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>6%</b> (à l'exception d'Echo)."
     }

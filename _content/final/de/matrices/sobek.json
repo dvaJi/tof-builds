@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "sobek",
+  "name": "Sobek",
+  "suitName": "Sumpfschatten",
+  "hash": "SR4",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Erhöht den verursachten Schaden für jeden Gegner in der Nähe um 6%/7,5%/9%. Der Effekt kann bis zu 3-mal gestapelt werden."
+    }
+  ],
+  "mind": {
+    "name": "Intrige",
+    "desc": "Pass auf, dass es dich nicht in den Sumpf zieht."
+  },
+  "memory": {
+    "name": "Gelegenheit",
+    "desc": "Immer geduldig – so lange, bis irgendein armer Kerl drauftritt."
+  },
+  "belief": {
+    "name": "Verwirrung",
+    "desc": "Bewegt sich nicht. Schläft es oder schont es nur seine Energie?"
+  },
+  "emotion": {
+    "name": "Ruhelosigkeit",
+    "desc": "Ihm wird schnell langweilig und ist es unruhig, hat ein unschuldiger Passant darunter zu leiden."
+  }
+}

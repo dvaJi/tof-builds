@@ -99,12 +99,12 @@
   ],
   "traits": [
     {
-      "name": "Zero: Cálculos Exatos",
+      "name": "Cálculos Exatos",
       "icon": true,
       "description": "Reduz o tempo de recarga de relíquias em recarga em <b>1,5</b> segundo quando Zero usa uma habilidade de arma. O efeito só pode ser ativado por uma mesma arma <b>1</b> vez a cada <b>5</b> segundos."
     },
     {
-      "name": "Zero: Planejamento Geral",
+      "name": "Planejamento Geral",
       "icon": true,
       "description": "Reduz o tempo de recarga de Relíquias em recarga em <b>3</b> segundos quando Zero usa uma habilidade de arma. O efeito só pode ser ativado por uma mesma arma <b>1</b> vez a cada <b>5</b> segundos."
     }

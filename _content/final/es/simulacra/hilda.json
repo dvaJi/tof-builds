@@ -54,12 +54,12 @@
   ],
   "traits": [
     {
-      "name": "Hilda: Acelerador a Fondo",
+      "name": "Acelerador a Fondo",
       "icon": true,
       "description": "Cuando Hilda usa un vehículo, aumenta la velocidad en un <b>7%</b>."
     },
     {
-      "name": "Hilda: A Toda Velocidad",
+      "name": "A Toda Velocidad",
       "icon": true,
       "description": "Cuando Hilda usa un vehículo, aumenta la velocidad en un <b>10%</b>."
     }

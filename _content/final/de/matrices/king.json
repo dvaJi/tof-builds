@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "king",
+  "name": "KING",
+  "suitName": "Befürworter der Gewalt",
+  "hash": "SSR4",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Gewährt für 25 Sek. einen Schadensbonus von 8%/10%/12%/14%, wenn ein Ziel von „Zertrümmern“ betroffen ist. Es gilt immer nur der Effekt mit der höchsten Stufe."
+    },
+    {
+      "count": 4,
+      "value": "Wenn sich mehr als 2 Gegner in der Umgebung des Anwenders befinden, stellen Angriffe LP in Höhe von 14%/18%/22%/26% des verursachten Schadens wieder her. Es können alle 0,5 Sek. maximal LP in Höhe von 36%/42%/48%/54% des ANG wiederhergestellt werden."
+    }
+  ],
+  "mind": {
+    "name": "Herrscher des Untergrunds",
+    "desc": "Ein guter Ruf ändert nichts daran, dass man mit einer leeren Brieftasche nicht weit kommt. Also lass sie uns zuerst füllen und später Fragen stellen."
+  },
+  "memory": {
+    "name": "Für den Kampf leben",
+    "desc": "Diese Minenarbeiter arbeiten so gedankenlos wie Zombies. Du wirst einer von ihnen werden, wenn du nicht entkommst."
+  },
+  "belief": {
+    "name": "Abenteuerlustiger",
+    "desc": "Sehnt sich nach Spannung und scheinbar übertriebener Freude … was Karrierewünsche nicht einschließt."
+  },
+  "emotion": {
+    "name": "Ein-Mann-Armee",
+    "desc": "Dennoch haben Kämpfe, in denen man nur seine Fäuste einsetzt, auch ihre Grenzen. Diese hat er in sehr jungen Jahren bereits kennengelernt."
+  }
+}

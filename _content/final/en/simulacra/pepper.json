@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Pepper: Revival",
+      "name": "Revival",
       "icon": true,
       "description": "When Pepper spends satiety to restore HP, increase restoration effect by <b>100%</b>."
     },
     {
-      "name": "Pepper: Source",
+      "name": "Source",
       "icon": true,
       "description": "When Pepper spends satiety to restore HP, increase restoration effect by <b>200%</b>."
     }

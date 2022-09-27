@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "standard_operation",
+  "name": "Opération standard",
+  "suitName": "Opération standard",
+  "hash": "R3",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 6% les dégâts infligés par les armes de foudre."
+    }
+  ],
+  "mind": {
+    "name": "Garde standard",
+    "desc": "Être un bon garde armé, c'est avant tout protéger la chose que l'on garde."
+  },
+  "memory": {
+    "name": "Garde exterminateur",
+    "desc": "Sans pitié envers tout ce qui pourrait menacer la chose qu'il garde."
+  },
+  "belief": {
+    "name": "Garde inflexible",
+    "desc": "Peu importe la puissance de son ennemi, il ne tombera pas tant qu'il n'aura pas été complètement détruit."
+  },
+  "emotion": {
+    "name": "Garde dogmatique",
+    "desc": "Les créations industrielles n'ont pas de libre arbitre, mais les règles qu'elles suivent peuvent être considérées comme leurs principes."
+  }
+}

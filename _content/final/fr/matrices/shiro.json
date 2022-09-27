@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "shiro",
+  "name": "Shiro",
+  "suitName": "Poème de départ",
+  "hash": "SSR7",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Accroît de 15%/19%/22,5%/26% les dégâts et la fracture pour les cibles à plus de 50% de leurs PV."
+    },
+    {
+      "count": 4,
+      "value": "Lorsque vous rejoignez un combat, vos dégâts augmentent de 20%/25%/30%/35% pendant 35 secondes. Se réinitialise 5 secondes après la fin du combat."
+    }
+  ],
+  "mind": {
+    "name": "Isolement",
+    "desc": "Capricieux comme un chat sauvage, et pourtant on le retrouve parfois assis au bord de l'eau à se demander pourquoi il est si seul."
+  },
+  "memory": {
+    "name": "Mal de terre",
+    "desc": "Une grande partie de la beauté de l'océan provient du fait qu'il ne pourra jamais être entièrement compris."
+  },
+  "belief": {
+    "name": "Chanteuse hors pair",
+    "desc": "Preuve de son impressionnante qualité de chant, trouvée par un chercheur qui a défié la mort pour se procurer l'enregistrement."
+  },
+  "emotion": {
+    "name": "Comme un chat",
+    "desc": "Chaque contact est prudent, chaque regard est habilement évité… C'est sa modeste façon d'aspirer au bonheur."
+  }
+}

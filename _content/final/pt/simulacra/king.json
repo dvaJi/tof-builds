@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "KING: Abate a Sangue Frio",
+      "name": "Abate a Sangue Frio",
       "icon": true,
       "description": "Restaura o equivalente a <b>8%</b> da vida máxima a cada <b>7</b> inimigos abatidos por KING."
     },
     {
-      "name": "KING: Ceifador do Medo",
+      "name": "Ceifador do Medo",
       "icon": true,
       "description": "Restaura o equivalente a <b>10%</b> da vida máxima a cada <b>5</b> inimigos abatidos por KING."
     }

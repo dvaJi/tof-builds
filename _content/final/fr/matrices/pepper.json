@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "pepper",
+  "name": "Pepper",
+  "suitName": "Incessant",
+  "hash": "SR6",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Accroît de 10%/12,5%/15% la vitesse d'obtention d’une recharge d'arme."
+    }
+  ],
+  "mind": {
+    "name": "Chaîne de montage",
+    "desc": "Qui peut lui expliquer qu'elle se tue à la tâche depuis… beaucoup trop longtemps ?"
+  },
+  "memory": {
+    "name": "Cicatrice chirurgicale",
+    "desc": "Les aberrations sont irréversibles, tout comme les cicatrices postopératoires."
+  },
+  "belief": {
+    "name": "Brassard",
+    "desc": "Un médecin ne peut ni se détourner, ni être complaisant, ni être impuissant."
+  },
+  "emotion": {
+    "name": "Somnifère",
+    "desc": "Elle souffre d'insomnies car elle refuse de faire face à la mort dans ses rêves."
+  }
+}

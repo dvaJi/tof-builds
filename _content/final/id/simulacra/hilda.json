@@ -54,12 +54,12 @@
   ],
   "traits": [
     {
-      "name": "Hilda: Pedal to the Metal",
+      "name": "Pedal to the Metal",
       "icon": true,
       "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>7%</b>."
     },
     {
-      "name": "Hilda: Full-speed Drifting",
+      "name": "Full-speed Drifting",
       "icon": true,
       "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>10%</b>."
     }

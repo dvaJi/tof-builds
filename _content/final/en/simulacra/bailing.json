@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Bai Ling: Valor",
+      "name": "Valor",
       "icon": true,
       "description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by <b>8%</b> for <b>12</b> seconds. Cooldown: <b>60</b> seconds."
     },
     {
-      "name": "Bai Ling: Resoluteness",
+      "name": "Resoluteness",
       "icon": true,
       "description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by <b>15%</b> for <b>12</b> seconds. Cooldown: <b>60</b> seconds."
     }

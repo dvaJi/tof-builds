@@ -1,0 +1,34 @@
+{
+  "_id": 15,
+  "id": "meryl",
+  "name": "Meryl",
+  "suitName": "Pure White Guardian",
+  "hash": "SSR1",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "If HP is less than 30% after being attacked, gain a shield equal to 20%/26%/32%/40% of Max HP for 10 seconds. Cooldown: 90 seconds."
+    },
+    {
+      "count": 4,
+      "value": "Increase Whirlwind's damage by 36%/45%/54%/63% and restore HP equal to 30%/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every 0.5 seconds cannot exceed 60%/72%/81%/90% of ATK."
+    }
+  ],
+  "mind": {
+    "name": "Swordfight Simulation",
+    "desc": "Complex swordfight simulation seemingly used for calibration. Anyway, not something for the average person."
+  },
+  "memory": {
+    "name": "Wake-Up Call",
+    "desc": "Chained memory shards used to implant consciousness. Note that it doesn't come with an instruction manual."
+  },
+  "belief": {
+    "name": "Absolute Authority",
+    "desc": "It, of course, represents the self-approval and outside recognition of an Executor's power."
+  },
+  "emotion": {
+    "name": "Detached",
+    "desc": "Mental communication barriers set up by rejecting all socialization."
+  }
+}

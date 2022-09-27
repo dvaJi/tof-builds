@@ -109,12 +109,12 @@
   ],
   "traits": [
     {
-      "name": "Meryl : Rose fraîche",
+      "name": "Rose fraîche",
       "icon": true,
       "description": "Réduit de <b>20%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
     },
     {
-      "name": "Meryl : Glacé",
+      "name": "Glacé",
       "icon": true,
       "description": "Réduit de <b>25%</b> les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de <b>50%</b>."
     }

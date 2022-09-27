@@ -86,12 +86,12 @@
     ],
     "traits": [
       {
-        "name": "Bai Ling: Valentia",
+        "name": "Valentia",
         "icon": true,
         "description": "Quando Bai Ling guarda o Planador ou a Prancha a Jato, a velocidade aumenta em <b>8%</b> durante <b>12</b> seg. Tempo de recarga: <b>60</b> segundos."
       },
       {
-        "name": "Bai Ling: Determinação",
+        "name": "Determinação",
         "icon": true,
         "description": "Quando Bai Ling guarda o Planador ou a Prancha a Jato, a velocidade aumenta em <b>15%</b> durante <b>12</b> seg. Tempo de recarga: <b>60</b> segundos."
       }
@@ -257,12 +257,12 @@
     ],
     "traits": [
       {
-        "name": "Cocoritter: Assistência",
+        "name": "Assistência",
         "icon": true,
         "description": "Quando Cocoritter usa uma arma de suporte, os efeitos de cura que ela inflige e recebe aumentam em <b>20%</b>."
       },
       {
-        "name": "Cocoritter: Confiança",
+        "name": "Confiança",
         "icon": true,
         "description": "Aumenta a cura realizada e a cura recebida em <b>20%</b> quando Cocoritter usa uma armas de suporte. Aumenta o ATQ de aliados próximos em <b>15%</b> por <b>5</b> segundos quando Cocoritter usa a habilidade de descarga ou a habilidade de arma de uma arma de suporte."
       }
@@ -543,12 +543,12 @@
     ],
     "traits": [
       {
-        "name": "Crow: Solidão",
+        "name": "Solidão",
         "icon": true,
         "description": "Quando Crow não está em equipe, aumenta o dano causado em <b>6%</b> e reduz o dano sofrido em <b>4%</b>."
       },
       {
-        "name": "Crow: Noite Silenciosa",
+        "name": "Noite Silenciosa",
         "icon": true,
         "description": "Quando Crow não está em equipe, aumenta o dano causado em <b>10%</b> e reduz o dano sofrido em <b>6%</b>. Quando Crow entra em combate, aumenta o dano causado em <b>12%</b> durante <b>12</b> segundos."
       }
@@ -837,12 +837,12 @@
     ],
     "traits": [
       {
-        "name": "Echo: Integridade",
+        "name": "Integridade",
         "icon": true,
         "description": "Quando Echo estiver na equipe, aliados a até <b>10</b> metros dela recebem um reforço de <b>4%</b> de dano (exceto Echo)."
       },
       {
-        "name": "Echo: Persistência",
+        "name": "Persistência",
         "icon": true,
         "description": "Quando Echo estiver na equipe, aliados a até <b>10</b> metros dela recebem um reforço de <b>6%</b> de dano (exceto Echo)."
       }
@@ -1014,12 +1014,12 @@
     ],
     "traits": [
       {
-        "name": "Ene: Modo Rápido",
+        "name": "Modo Rápido",
         "icon": true,
         "description": "Quando Ene nada, escala ou plana, reduz o consumo de vigor em <b>12%</b>."
       },
       {
-        "name": "Ene: Modo Além do Limite",
+        "name": "Modo Além do Limite",
         "icon": true,
         "description": "Quando Ene nada, escala ou plana, reduz o consumo de vigor em <b>20%</b>."
       }
@@ -1425,12 +1425,12 @@
     ],
     "traits": [
       {
-        "name": "Hilda: Pé na Tábua",
+        "name": "Pé na Tábua",
         "icon": true,
         "description": "Quando Hilda usa um veículo, aumenta a velocidade em <b>7%</b>."
       },
       {
-        "name": "Hilda: Velocidade Máxima",
+        "name": "Velocidade Máxima",
         "icon": true,
         "description": "Quando Hilda usa um veículo, aumenta a velocidade em <b>10%</b>."
       }
@@ -1587,12 +1587,12 @@
     ],
     "traits": [
       {
-        "name": "Huma: Coragem",
+        "name": "Coragem",
         "icon": true,
         "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,4%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida."
       },
       {
-        "name": "Huma: Tela de Ferro",
+        "name": "Tela de Ferro",
         "icon": true,
         "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,9%</b> da vida."
       }
@@ -1881,12 +1881,12 @@
     ],
     "traits": [
       {
-        "name": "KING: Abate a Sangue Frio",
+        "name": "Abate a Sangue Frio",
         "icon": true,
         "description": "Restaura o equivalente a <b>8%</b> da vida máxima a cada <b>7</b> inimigos abatidos por KING."
       },
       {
-        "name": "KING: Ceifador do Medo",
+        "name": "Ceifador do Medo",
         "icon": true,
         "description": "Restaura o equivalente a <b>10%</b> da vida máxima a cada <b>5</b> inimigos abatidos por KING."
       }
@@ -2182,12 +2182,12 @@
     ],
     "traits": [
       {
-        "name": "Meryl: Rosa Fria",
+        "name": "Rosa Fria",
         "icon": true,
         "description": "Reduz o dano gélido sofrido por Meryl em <b>20%</b>, ganha imunidade ao efeito queimadura de gelo e reduz a duração do congelamento sofrido em <b>50%</b>."
       },
       {
-        "name": "Meryl: Congelado",
+        "name": "Congelado",
         "icon": true,
         "description": "Reduz o dano gélido sofrido por Meryl em <b>25%</b>, ganha imunidade ao efeito queimadura de gelo e reduz a duração do congelamento sofrido em <b>50%</b>."
       }
@@ -2471,12 +2471,12 @@
     ],
     "traits": [
       {
-        "name": "Nêmesis: Metamorfose",
+        "name": "Metamorfose",
         "icon": true,
         "description": "Após invocar um Eletrodo, causa <b>60%</b> do ATQ de dano elétrico a todos os inimigos em um raio de <b>30</b> metros do Eletrodo e confere <b>120%</b> do ATQ em cura a todos os aliados (inclusive a si) ao seu alcance."
       },
       {
-        "name": "Nêmesis: Sublimação",
+        "name": "Sublimação",
         "icon": true,
         "description": "Após invocar um Eletrodo, causa <b>100%</b> do ATQ de dano elétrico a todos os inimigos em um raio de <b>30</b> metros do Eletrodo e confere <b>200%</b> do ATQ em cura a todos os aliados (inclusive a si) ao seu alcance."
       }
@@ -2757,12 +2757,12 @@
     ],
     "traits": [
       {
-        "name": "Pepper: Reanimação",
+        "name": "Reanimação",
         "icon": true,
         "description": "Quando Pepper consome saciedade para restaurar vida, aumenta em <b>100%</b> o efeito de restauração."
       },
       {
-        "name": "Pepper: Origem",
+        "name": "Origem",
         "icon": true,
         "description": "Quando Pepper consome saciedade para restaurar vida, aumenta em <b>200%</b> o efeito de restauração."
       }
@@ -2919,12 +2919,12 @@
     ],
     "traits": [
       {
-        "name": "Samir: Travessura",
+        "name": "Travessura",
         "icon": true,
         "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>3%</b> (acumula até <b>4</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>1</b> segundo)."
       },
       {
-        "name": "Samir: Sombra",
+        "name": "Sombra",
         "icon": true,
         "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>4%</b> (acumula até <b>5</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>2</b> segundo)."
       }
@@ -3205,12 +3205,12 @@
     ],
     "traits": [
       {
-        "name": "Shiro: Alerta de Segurança",
+        "name": "Alerta de Segurança",
         "icon": true,
         "description": "Quando Shiro usa uma habilidade de arma ou de descarga, aumenta em <b>10%</b> todos os tipos de ATQ e o ATQ físico em <b>7%</b> a mais. Dura <b>8</b> segundos. Tempo de recarga: <b>16</b> seg."
       },
       {
-        "name": "Shiro: Sinal Vermelho",
+        "name": "Sinal Vermelho",
         "icon": true,
         "description": "Quando Shiro usa uma habilidade de arma ou de descarga, aumenta em <b>16%</b> todos os tipos de ATQ e o ATQ físico em <b>10%</b> a mais. Dura <b>8</b> segundos. Tempo de recarga: <b>16</b> seg."
       }
@@ -3481,12 +3481,12 @@
     ],
     "traits": [
       {
-        "name": "Tsubasa: Temporal",
+        "name": "Temporal",
         "icon": true,
         "description": "Cada vez que Tsubasa causa dano, recebe <b>1</b> acúmulo de Golpe Feroz, até <b>1</b> acúmulo por <b>1</b> segundo. Cada acúmulo adiciona <b>0,5%</b> de ATQ, até <b>15</b> acúmulos. Atualiza a duração do efeito ao receber o efeito de novo. Esse efeito dura <b>30</b> segundos."
       },
       {
-        "name": "Tsubasa: Ondas Impetuosas",
+        "name": "Ondas Impetuosas",
         "icon": true,
         "description": "Cada vez que Tsubasa causa dano, recebe <b>1</b> acúmulo de Golpe Feroz, até <b>1</b> acúmulo por <b>1</b> segundo. Cada acúmulo adiciona <b>0,6%</b> de ATQ, até <b>30</b> acúmulos. Atualiza a duração do efeito ao receber o efeito de novo. Esse efeito dura <b>30</b> segundos."
       }
@@ -3772,12 +3772,12 @@
     ],
     "traits": [
       {
-        "name": "Zero: Cálculos Exatos",
+        "name": "Cálculos Exatos",
         "icon": true,
         "description": "Reduz o tempo de recarga de relíquias em recarga em <b>1,5</b> segundo quando Zero usa uma habilidade de arma. O efeito só pode ser ativado por uma mesma arma <b>1</b> vez a cada <b>5</b> segundos."
       },
       {
-        "name": "Zero: Planejamento Geral",
+        "name": "Planejamento Geral",
         "icon": true,
         "description": "Reduz o tempo de recarga de Relíquias em recarga em <b>3</b> segundos quando Zero usa uma habilidade de arma. O efeito só pode ser ativado por uma mesma arma <b>1</b> vez a cada <b>5</b> segundos."
       }
@@ -3950,6 +3950,295 @@
         "mat2": {
           "id": "acidproof_glaze_ii",
           "name": "Revestimento antiácido II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Corpo de nanofibra II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "claudia",
+    "name": "Cláudia",
+    "weapon": "Espada Incandescente",
+    "weapon_id": "guren_blade",
+    "birthday": "16 de janeiro (Capricórnio)",
+    "birthplace": "Hykros",
+    "gender": "Feminino",
+    "info": "Confiável, obstinada e extremamente animada quando o assunto é batalha. Parece distante, mas se mostra gentil e fervorosa quando as pessoas se aproximam o suficiente. Cláudia possui um ardente senso de justiça e está sempre pronta para ajudar outras pessoas e combater a injustiça onde quer que a encontre.",
+    "description": "Uma Executora da Hykros de estatura alta e uma conduta levemente militarizada.\nSeu domínio do uso de espadas curtas e de técnicas de mobilidade a colocou na linha de frente das operações mais complicadas, mas Cláudia foi enviada a uma instalação médica após ser gravemente ferida na Operação Apocalipse das Sombras.",
+    "like": "Comidas saborosas, chapéus com personalidade",
+    "dislike": "Felinos",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "DPS",
+    "shatter": 7.5,
+    "charge": 12,
+    "skills": [
+      {
+        "name": "Corte Rápido",
+        "type": [
+          "Attack"
+        ],
+        "description": "No chão, branda a espada para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>46.8%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>59.3%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>104.1%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>177.8%</b> do ATQ + <b>9</b> e <b>lança</b> o alvo no ar."
+      },
+      {
+        "name": "Ataque Suspenso",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.9%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>48.4%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>114.6%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>139%</b> do ATQ + <b>7</b>."
+      },
+      {
+        "name": "Ciclone",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nAo aterrissar, suspende o alvo e causa dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
+      },
+      {
+        "name": "Mergulho Lacerante",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Segure o botão de ataque normal enquanto estiver no ar, ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      },
+      {
+        "name": "Ataque Furtivo",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+      },
+      {
+        "name": "Ataque Saltado",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Toque no botão de ataque normal logo após se esquivar para usar Ataque Saltado.\nBrande a arma e causa dano de <b>37.9%</b> do ATQ + <b>2</b> ao alvo. <b>Suspende muito</b> o alvo e a si mesmo, então causa dano adicional de <b>56.8%</b> do ATQ + <b>3</b>."
+      },
+      {
+        "name": "Passeio Doloroso",
+        "type": [
+          "Skill"
+        ],
+        "description": "Dança entre alvos enquanto brande a espada. Causa dano de <b>418%</b> do ATQ + <b>22</b> a até <b>5</b> alvos (ataques a um mesmo alvo causam <b>20%</b> a menos de dano). Ao terminar a habilidade, corta o espaço adiante. Causa dano de <b>264%</b> do ATQ + <b>14</b> a alvos e os suspende. Durante esta habilidade, fica imune a efeitos incapacitantes e todo dano sofrido é reduzido em <b>50%</b>. Tempo de recarga: <b>15</b> seg."
+      },
+      {
+        "name": "Ímpeto Desenfreado",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. Investe contra um alvo e o <b>suspende muito</b>, causando dano de <b>523.3%</b> do ATQ + <b>28</b> e deixando para trás uma Tempestade de Espadas que causa dano de <b>209.6%</b> do ATQ + <b>11</b> a ele. Você fica imune a lesão, congelamento, queimadura e eletrocussão durante <b>5</b> segundos."
+      }
+    ],
+    "weapon_type": {
+      "name": "Lesão",
+      "description": "Armas com carga completa causarão dano de <b>137%</b> do ATQ com o ataque seguinte e infligirão lesão ao alvo durante <b>7</b> segundos, que então sofrerá <b>20%</b> a mais de dano."
+    },
+    "weapon_resonance": {
+      "name": "Ressonância física",
+      "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>15%</b> e a resistência física em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas de dano físico. Este efeito de conjunto também funciona com armas no espaço secundário. Não acumula."
+    },
+    "advancement": [
+      "Cada vez que atinge um alvo com uma habilidade ou habilidade de descarga, confere um acúmulo de reforço de dano que aumenta o dano causado em <b>8%</b> durante <b>25</b> segundos (acumula até <b>3</b> vezes; cada habilidade ou descarga bem-sucedida confere apenas um acúmulo).",
+      "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+      "Acertar uma habilidade ou uma habilidade de descarga em um alvo aplica um acúmulo de Feridas de Guerra a ele, aumentando o dano físico e o efeito de despedaçar de armas físicas e elementais contra o mesmo em <b>10%</b> durante <b>15</b> segundos. Acumula até <b>1</b> vez.",
+      "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
+      "Atingir alvos com habilidades ou habilidades de descarga confere reforço de dano, que aumenta todo dano em <b>20%</b> durante <b>25</b> segundos. Não acumula.",
+      "Acertar o mesmo alvo não reduz mais o dano causado. Aplica mais <b>1</b> acúmulo de Feridas de Guerra a todos os alvos em um raio de 8 metros já com Feridas de Guerra após usar a Espada Incandescente ou uma habilidade de descarga."
+    ],
+    "traits": [
+      {
+        "name": "Evasão",
+        "icon": true,
+        "description": "Fica invisível durante <b>1</b> segundo após se esquivar."
+      },
+      {
+        "name": "Sombra",
+        "icon": true,
+        "description": "Fica invisível durante <b>1,5</b> segundo após se esquivar."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorrevestimento I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorrevestimento I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Corpo reforçado I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorrevestimento I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Corpo de nanofibra I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorrevestimento I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Corpo de nanofibra I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorrevestimento I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Corpo de nanofibra I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Núcleo-rochoso",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nanorrevestimento I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Corpo de nanofibra I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Coração-de-montanha",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nanorrevestimento II",
           "rarity": "SR",
           "amount": 5
         },

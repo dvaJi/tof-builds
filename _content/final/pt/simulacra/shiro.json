@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Shiro: Alerta de Segurança",
+      "name": "Alerta de Segurança",
       "icon": true,
       "description": "Quando Shiro usa uma habilidade de arma ou de descarga, aumenta em <b>10%</b> todos os tipos de ATQ e o ATQ físico em <b>7%</b> a mais. Dura <b>8</b> segundos. Tempo de recarga: <b>16</b> seg."
     },
     {
-      "name": "Shiro: Sinal Vermelho",
+      "name": "Sinal Vermelho",
       "icon": true,
       "description": "Quando Shiro usa uma habilidade de arma ou de descarga, aumenta em <b>16%</b> todos os tipos de ATQ e o ATQ físico em <b>10%</b> a mais. Dura <b>8</b> segundos. Tempo de recarga: <b>16</b> seg."
     }

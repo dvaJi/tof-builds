@@ -1,0 +1,30 @@
+{
+  "_id": 26,
+  "id": "wandering_aberrant",
+  "name": "Wandering Aberrant",
+  "suitName": "Savage Bloodline",
+  "hash": "N1",
+  "rarity": "N",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt by 4%."
+    }
+  ],
+  "mind": {
+    "name": "Wandering Aberrant",
+    "desc": "It's been wandering since it escaped from the lab. Is the aberration due to experiments or Omnium radiation? No one knows."
+  },
+  "memory": {
+    "name": "Feral Nature",
+    "desc": "The nature suppressed by domestication slowly returns as it acclimates to the wild."
+  },
+  "belief": {
+    "name": "Brute Force",
+    "desc": "Seems like it knew it could break the cage by force and escape the bondage."
+  },
+  "emotion": {
+    "name": "Homeseeker",
+    "desc": "Despite footprints all over Aesperia, still couldn't find its home... For it was born in a lab."
+  }
+}

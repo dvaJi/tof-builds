@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "crow",
+  "name": "Cuervo",
+  "suitName": "Persecución fanática",
+  "hash": "SR11",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta el daño crítico a objetivos con menos del 60% de PS en un 33%/42%/50%/58%."
+    },
+    {
+      "count": 4,
+      "value": "Los críticos infligen daño periódico adicional cada segundo equivalente al 12%/15%/18%/21% del ATQ por 5 segundos. El efecto no puede acumularse."
+    }
+  ],
+  "mind": {
+    "name": "Decimoprimera Dimensión",
+    "desc": "Algunas cosas son intangibles, pero existen."
+  },
+  "memory": {
+    "name": "Formateo",
+    "desc": "Pasado, pisado. El presente es lo que debes conquistar."
+  },
+  "belief": {
+    "name": "Sobrevivencia Extrema",
+    "desc": "Nunca te rindas, aunque las posibilidades sean casi nulas."
+  },
+  "emotion": {
+    "name": "Rendición",
+    "desc": "Un extraño espectáculo de payasos, a veces difícil de concebir."
+  }
+}

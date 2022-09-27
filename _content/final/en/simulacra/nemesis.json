@@ -97,12 +97,12 @@
   ],
   "traits": [
     {
-      "name": "Nemesis: Metamorphosis",
+      "name": "Metamorphosis",
       "icon": true,
       "description": "After summoning an Electrode, deal volt damage equal to <b>60%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>120%</b> of ATK."
     },
     {
-      "name": "Nemesis: Sublimation",
+      "name": "Sublimation",
       "icon": true,
       "description": "After summoning an Electrode, deal volt damage equal to <b>100%</b> of ATK to all enemies within <b>30</b> meters of the Electrode and heal all allies (including the user) within its range by <b>200%</b> of ATK."
     }

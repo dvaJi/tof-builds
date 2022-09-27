@@ -1,0 +1,11 @@
+{
+  "name": "Self-Explosive",
+  "id": "selfexplosive",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Increase damage dealt by flame weapons by 6%."
+    }
+  ]
+}

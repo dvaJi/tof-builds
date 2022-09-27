@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "crow",
+  "name": "Crow",
+  "suitName": "Poursuite avide",
+  "hash": "SR11",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Accroît de 33%/42%/50%/58% les dégâts critiques pour les cibles à moins de 60% de PV."
+    },
+    {
+      "count": 4,
+      "value": "Les dégâts critiques infligent chaque seconde des dégâts dans le temps supplémentaires équivalant à 12%/15%/18%/21% de l'ATQ pendant 5 secondes. Cet effet ne peut être cumulé."
+    }
+  ],
+  "mind": {
+    "name": "Onzième dimension",
+    "desc": "Certaines choses sont intangibles, pourtant elles existent."
+  },
+  "memory": {
+    "name": "Formatage",
+    "desc": "Le passé, c'est le passé. Il faut vivre dans l'instant présent."
+  },
+  "belief": {
+    "name": "Survie désespérée",
+    "desc": "Ne jamais abandonner, même si c'est plus que risqué."
+  },
+  "emotion": {
+    "name": "Interprétation",
+    "desc": "Un étrange spectacle de clown, parfois très difficile à comprendre."
+  }
+}

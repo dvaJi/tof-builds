@@ -1,0 +1,15 @@
+{
+  "name": "Shiro",
+  "id": "shiro",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase both damage and shatter to targets with more than 50% HP by <b>15%/19%/22.5%/26%</b>."
+    },
+    {
+      "count": 4,
+      "value": "Upon entering battle, gain a <b>20%/25%/30%/35%</b> damage boost for 35 seconds. Reset 5 seconds after exiting battle."
+    }
+  ]
+}

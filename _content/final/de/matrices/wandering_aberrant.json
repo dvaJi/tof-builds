@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "wandering_aberrant",
+  "name": "Wandernder Aberrant",
+  "suitName": "Wilde Blutlinie",
+  "hash": "N1",
+  "rarity": "N",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Erhöht den verursachten Schaden um 4%."
+    }
+  ],
+  "mind": {
+    "name": "Wandernder Aberrant",
+    "desc": "Das Wesen wandert herum, seit es aus dem Labor entkommen konnte. Ist die Mutation auf Experimente oder die Omnium-Strahlung zurückzuführen? Das weiß niemand."
+  },
+  "memory": {
+    "name": "Wilde Natur",
+    "desc": "Die durch die Domestizierung gezähmte Natur kämpft sich langsam zurück."
+  },
+  "belief": {
+    "name": "Rohe Gewalt",
+    "desc": "Er scheint gewusst zu haben, wie er aus dem Käfig ausbrechen und seine Fesseln sprengen konnte."
+  },
+  "emotion": {
+    "name": "Heimatsucher",
+    "desc": "Trotz der Fußabdrücke auf ganz Aesperia konnte er seine Heimat nicht finden … da er in einem Labor geboren wurde."
+  }
+}

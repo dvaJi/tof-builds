@@ -97,12 +97,12 @@
   ],
   "traits": [
     {
-      "name": "Nemesis: Metamorphosis",
+      "name": "Metamorphosis",
       "icon": true,
       "description": "Setelah memanggil Electrode, menimpakan Volt Damage sebanyak <b>60%</b> ATK pada semua musuh dalam radius <b>30</b> meter dari Electrode dan menyembuhkan semua teman (termasuk pengguna) dalam jangkauannya sebanyak <b>120%</b> ATK."
     },
     {
-      "name": "Nemesis: Sublimation",
+      "name": "Sublimation",
       "icon": true,
       "description": "Setelah memanggil Electrode, menimpakan Volt Damage sebanyak <b>100%</b> ATK pada semua musuh dalam radius <b>30</b> meter dari Electrode dan menyembuhkan semua teman (termasuk pengguna) dalam jangkauannya sebanyak <b>200%</b> ATK."
     }

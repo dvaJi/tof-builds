@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Shiro: Security Alert",
+      "name": "Security Alert",
       "icon": true,
       "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>10%</b> dan Physical ATK sebanyak <b>7%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
     },
     {
-      "name": "Shiro: Red Alarm",
+      "name": "Red Alarm",
       "icon": true,
       "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>16%</b> dan Physical ATK sebanyak <b>10%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
     }

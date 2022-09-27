@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "tsubasa",
+  "name": "Tsubasa",
+  "suitName": "Eye of Wind",
+  "hash": "SSR2",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan damage yang ditimpakan sebesar 14%/16%/18%/20% saat tidak ada musuh dalam radius 4 meter."
+    },
+    {
+      "count": 4,
+      "value": "Setelah melancarkan Headshot atau menggunakan Icewind Arrow: Piercing Shot, meningkatkan ATK sebanyak 15%/18%/21%/25% selama 8 detik."
+    }
+  ],
+  "mind": {
+    "name": "Weather Vane",
+    "desc": "\"Angin berembus.\" Itu meringkas setiap alasan untuk pergi dan berangkat lagi."
+  },
+  "memory": {
+    "name": "Gravitator",
+    "desc": "Dia selalu berpindah dan hanya diam di tempat yang telah ditelusuri dengan saksama."
+  },
+  "belief": {
+    "name": "Drifter",
+    "desc": "Bagaimana cara membedakan keyakinan mana yang benar? Jawaban: Yang pada akhirnya muncul sebagai pemenang."
+  },
+  "emotion": {
+    "name": "Stone Cold",
+    "desc": "Sebuah penilaian rasional mengenai hubungan."
+  }
+}

@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Cuervo: Ermitaño",
+      "name": "Ermitaño",
       "icon": true,
       "description": "Cuando Cuervo no está en un equipo, aumenta el daño infligido en un <b>6%</b> y reduce el daño recibido en un <b>4%</b>."
     },
     {
-      "name": "Cuervo: Noche Silenciosa",
+      "name": "Noche Silenciosa",
       "icon": true,
       "description": "Cuando Cuervo no está en un equipo, aumenta el daño infligido en un <b>10%</b> y reduce el daño recibido en un <b>6%</b>. Cuando Cuervo entra al combate, aumenta el daño infligido en un <b>12%</b> por <b>12</b> segundos."
     }

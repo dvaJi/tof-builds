@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "zero",
+  "name": "Zero",
+  "suitName": "Conexión increíble",
+  "hash": "SSR8",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Al usar una habilidad de descarga para cambiar el arma actual, otorga un escudo equivalente al 150%/200%/250%/300% del ATQ durante 6 segundos."
+    },
+    {
+      "count": 4,
+      "value": "Mientras el escudo está activo, tú y tus compañeros de grupo infligen un 16%/20%/24%/28% de daño adicional."
+    }
+  ],
+  "mind": {
+    "name": "cálculo paranormal",
+    "desc": "Desafía a la lógica, subvierte la realidad, abandona completamente las fórmulas basadas en la experiencia para llegar al resultado final."
+  },
+  "memory": {
+    "name": "protocolo de terminal",
+    "desc": "Los recuerdos solo son asunto de rastros. Si son reales o falsos... es algo que tú debes decidir."
+  },
+  "belief": {
+    "name": "clasificación de datos",
+    "desc": "La información se genera al clasificar datos sueltos."
+  },
+  "emotion": {
+    "name": "la supervivencia del más apto",
+    "desc": "La supervivencia del más apto es una ley de la naturaleza y la manifestación de la superioridad individual."
+  }
+}

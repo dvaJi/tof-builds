@@ -86,12 +86,12 @@
     ],
     "traits": [
       {
-        "name": "Bai Ling: Valor",
+        "name": "Valor",
         "icon": true,
         "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>8%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
       },
       {
-        "name": "Bai Ling: Resoluteness",
+        "name": "Resoluteness",
         "icon": true,
         "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>15%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
       }
@@ -257,12 +257,12 @@
     ],
     "traits": [
       {
-        "name": "Cocoritter: Assistance",
+        "name": "Assistance",
         "icon": true,
         "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan efek Healing yang ditimpakannya pada orang lain dan yang diterimanya sebanyak <b>20%</b>."
       },
       {
-        "name": "Cocoritter: Trust",
+        "name": "Trust",
         "icon": true,
         "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan Healing dan Healing yang diterima sebanyak <b>20%</b>. Kemudian, pada saat Cocoritter menggunakan Discharge Skill atau Weapon Skill tipe support, meningkatkan ATK teman di sekitar sebanyak <b>15%</b> selama <b>5</b> detik."
       }
@@ -543,12 +543,12 @@
     ],
     "traits": [
       {
-        "name": "Crow: Loner",
+        "name": "Loner",
         "icon": true,
         "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>6%</b> dan mengurangi damage yang diterima sebanyak <b>4%</b>."
       },
       {
-        "name": "Crow: Silent Night",
+        "name": "Silent Night",
         "icon": true,
         "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>10%</b> dan mengurangi damage yang diterima sebanyak <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan damage yang ditimbulkan sebanyak <b>12%</b> selama <b>12</b> detik."
       }
@@ -837,12 +837,12 @@
     ],
     "traits": [
       {
-        "name": "Echo: Uprightness",
+        "name": "Uprightness",
         "icon": true,
         "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>4%</b> (kecuali Echo)."
       },
       {
-        "name": "Echo: Determination",
+        "name": "Determination",
         "icon": true,
         "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>6%</b> (kecuali Echo)."
       }
@@ -1014,12 +1014,12 @@
     ],
     "traits": [
       {
-        "name": "Ene: Fast Mode",
+        "name": "Fast Mode",
         "icon": true,
         "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>12%</b>."
       },
       {
-        "name": "Ene: Beyond Limits Mode",
+        "name": "Beyond Limits Mode",
         "icon": true,
         "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Endurance sebanyak <b>20%</b>."
       }
@@ -1425,12 +1425,12 @@
     ],
     "traits": [
       {
-        "name": "Hilda: Pedal to the Metal",
+        "name": "Pedal to the Metal",
         "icon": true,
         "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>7%</b>."
       },
       {
-        "name": "Hilda: Full-speed Drifting",
+        "name": "Full-speed Drifting",
         "icon": true,
         "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>10%</b>."
       }
@@ -1587,12 +1587,12 @@
     ],
     "traits": [
       {
-        "name": "Huma: Fortitude",
+        "name": "Fortitude",
         "icon": true,
         "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP."
       },
       {
-        "name": "Huma: Iron Screen",
+        "name": "Iron Screen",
         "icon": true,
         "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,9%</b> HP."
       }
@@ -1881,12 +1881,12 @@
     ],
     "traits": [
       {
-        "name": "KING: Coldblooded Swipe",
+        "name": "Coldblooded Swipe",
         "icon": true,
         "description": "Setiap <b>7</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>8%</b> Max HP."
       },
       {
-        "name": "KING: Fear Reaper",
+        "name": "Fear Reaper",
         "icon": true,
         "description": "Setiap <b>5</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>10%</b> Max HP."
       }
@@ -2182,12 +2182,12 @@
     ],
     "traits": [
       {
-        "name": "Meryl: Cool Rose",
+        "name": "Cool Rose",
         "icon": true,
         "description": "Mengurangi Frost Damage yang diterima oleh Meryl sebanyak <b>20%</b>, memperoleh kekebalan terhadap efek Frostbite, dan mengurangi durasi terkena Freeze sebanyak <b>50%</b>."
       },
       {
-        "name": "Meryl: Frosted",
+        "name": "Frosted",
         "icon": true,
         "description": "Mengurangi Frost Damage yang diterima oleh Meryl sebanyak <b>25%</b>, memperoleh kekebalan terhadap efek Frostbite, dan mengurangi durasi terkena Freeze sebanyak <b>50%</b>."
       }
@@ -2471,12 +2471,12 @@
     ],
     "traits": [
       {
-        "name": "Nemesis: Metamorphosis",
+        "name": "Metamorphosis",
         "icon": true,
         "description": "Setelah memanggil Electrode, menimpakan Volt Damage sebanyak <b>60%</b> ATK pada semua musuh dalam radius <b>30</b> meter dari Electrode dan menyembuhkan semua teman (termasuk pengguna) dalam jangkauannya sebanyak <b>120%</b> ATK."
       },
       {
-        "name": "Nemesis: Sublimation",
+        "name": "Sublimation",
         "icon": true,
         "description": "Setelah memanggil Electrode, menimpakan Volt Damage sebanyak <b>100%</b> ATK pada semua musuh dalam radius <b>30</b> meter dari Electrode dan menyembuhkan semua teman (termasuk pengguna) dalam jangkauannya sebanyak <b>200%</b> ATK."
       }
@@ -2757,12 +2757,12 @@
     ],
     "traits": [
       {
-        "name": "Pepper: Revival",
+        "name": "Revival",
         "icon": true,
         "description": "Saat Pepper memakai Satiety untuk memulihkan HP, meningkatkan efek pemulihan sebanyak <b>100%</b>."
       },
       {
-        "name": "Pepper: Source",
+        "name": "Source",
         "icon": true,
         "description": "Saat Pepper memakai Satiety untuk memulihkan HP, meningkatkan efek pemulihan sebanyak <b>200%</b>."
       }
@@ -2919,12 +2919,12 @@
     ],
     "traits": [
       {
-        "name": "Samir: Trickery",
+        "name": "Trickery",
         "icon": true,
         "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>3%</b>, dan bisa ditumpuk hingga <b>4</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>1</b> detik."
       },
       {
-        "name": "Samir: Shadow",
+        "name": "Shadow",
         "icon": true,
         "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>4%</b>, dan bisa ditumpuk hingga <b>5</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>2</b> detik."
       }
@@ -3205,12 +3205,12 @@
     ],
     "traits": [
       {
-        "name": "Shiro: Security Alert",
+        "name": "Security Alert",
         "icon": true,
         "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>10%</b> dan Physical ATK sebanyak <b>7%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
       },
       {
-        "name": "Shiro: Red Alarm",
+        "name": "Red Alarm",
         "icon": true,
         "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>16%</b> dan Physical ATK sebanyak <b>10%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
       }
@@ -3481,12 +3481,12 @@
     ],
     "traits": [
       {
-        "name": "Tsubasa: Rainstorm",
+        "name": "Rainstorm",
         "icon": true,
         "description": "Setiap kali Tsubasa menimpakan damage, mendapatkan <b>1</b> tumpuk Strike, maks <b>1</b> tumpuk per <b>1</b> detik. Setiap tumpuk akan menambahkan <b>0,5%</b> ATK, maks <b>15</b> tumpuk. Durasi efek akan disegarkan setelah mendapatkan efek itu lagi. Efek ini bertahan <b>30</b> detik."
       },
       {
-        "name": "Tsubasa: Raging Waves",
+        "name": "Raging Waves",
         "icon": true,
         "description": "Setiap kali Tsubasa menimpakan damage, mendapatkan <b>1</b> tumpuk Strike, maks <b>1</b> tumpuk per <b>1</b> detik. Setiap tumpuk akan menambahkan <b>0,6%</b> ATK, maks <b>30</b> tumpuk. Durasi efek akan disegarkan setelah mendapatkan efek itu lagi. Efek ini bertahan <b>30</b> detik."
       }
@@ -3772,12 +3772,12 @@
     ],
     "traits": [
       {
-        "name": "Zero: Accurate Calculation",
+        "name": "Accurate Calculation",
         "icon": true,
         "description": "Saat Zero menggunakan Weapon Skill, mengurangi waktu cooldown Relic yang sedang cooldown sebanyak <b>1,5</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
       },
       {
-        "name": "Zero: Overall Planning",
+        "name": "Overall Planning",
         "icon": true,
         "description": "Saat Zero menggunakan Weapon Skill, mengurangi waktu cooldown Relic yang sedang cooldown sebanyak <b>3</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
       }
@@ -3950,6 +3950,295 @@
         "mat2": {
           "id": "acidproof_glaze_ii",
           "name": "Acidproof Glaze II",
+          "rarity": "SR",
+          "amount": 5
+        },
+        "mat3": {
+          "id": "nanofiber_frame_ii",
+          "name": "Nanofiber Frame II",
+          "rarity": "SSR",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "claudia",
+    "name": "Claudia",
+    "weapon": "Guren Blade",
+    "weapon_id": "guren_blade",
+    "birthday": "16 Januari (Capricorn)",
+    "birthplace": "Hykros",
+    "gender": "Perempuan",
+    "info": "Bisa diandalkan, bertenaga besar, dan sangat bersemangat untuk bertempur. Terkesan dingin, tapi sebenarnya baik hati dan penuh kasih sayang. Claudia menjunjung tinggi keadilan, selalu siap membantu orang lain dan melawan ketidakadilan di mana pun dia menemukannya.",
+    "description": "Seorang Executor Hykros bertubuh tinggi dengan tingkah laku militer.\nKemahirannya memakai pedang satu tangan dan caranya bergerak membuat dia ditempatkan di garis depan dalam operasi-operasi sulit, tapi Claudia dikirim ke fasilitas medis setelah terluka parah dalam Operation Dark Apocalypse.",
+    "like": "Makanan gurih, topi yang berkarakter",
+    "dislike": "Kucing",
+    "element": "Physical",
+    "rarity": "SSR",
+    "role": "Sub DPS",
+    "resonance": "DPS",
+    "shatter": 7.5,
+    "charge": 12,
+    "skills": [
+      {
+        "name": "Quick Slash",
+        "type": [
+          "Attack"
+        ],
+        "description": "Saat di darat, ayunkan pedang untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>46.8%</b> ATK + <b>2</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>65.6%</b> ATK + <b>3</b> pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>59.3%</b> ATK + <b>3</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>104.1%</b> ATK + <b>5</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebanyak <b>177.8%</b> ATK + <b>9</b> dan buat target <b>terpental</b>."
+      },
+      {
+        "name": "Jumping Strike",
+        "type": [
+          "Jump",
+          "Attack"
+        ],
+        "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>27.9%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>48.4%</b> ATK + <b>3</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>114.6%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>139%</b> ATK + <b>7</b>."
+      },
+      {
+        "name": "Cyclone",
+        "type": [
+          "Attack",
+          "Hold: Attack"
+        ],
+        "description": "Tahan tombol Normal Attack setelah Normal Attack untuk mengaktifkan Cyclone.\nSetelah kena, mengakibatkan Suspend kepada target dan menimbulkan <b>47.8%</b> ATK + <b>3</b> kepada target tunggal."
+      },
+      {
+        "name": "Diving Edge",
+        "type": [
+          "Jump",
+          "Hold: Attack"
+        ],
+        "description": "Ketuk dan tahan Normal Attack saat Airborne, atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Diving Edge.\nSaat turun, menimbulkan damage sebanyak <b>10%</b> ATK + <b>1</b> setiap kali mengenai target. Saat mendarat, menimbulkan damage sebanyak <b>76.4%</b> ATK + <b>4</b> dan membuat target terpukul mundur.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      },
+      {
+        "name": "Sneak Attack",
+        "type": [
+          "Croch",
+          "Attack"
+        ],
+        "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+      },
+      {
+        "name": "Leap Attack",
+        "type": [
+          "Dodge",
+          "Attack"
+        ],
+        "description": "Ketuk tombol Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Leap Attack.\nWanderer mengayunkan pedang dan menimbulkan damage sebanyak <b>37.9%</b> ATK + <b>2</b> kepada target, mengakibatkan <b>Suspend Keras</b> kepada mereka dan mengalami Airborne, lalu menimbulkan damage tambahan sebanyak <b>56.8%</b> ATK + <b>3</b>."
+      },
+      {
+        "name": "Roam",
+        "type": [
+          "Skill"
+        ],
+        "description": "Menari melewati target sambil mengayunkan pedang, dan menimbulkan damage sebanyak <b>418%</b> ATK + <b>22</b> total kepada maks <b>5</b> target (serangan kepada target yang sama akan menimbulkan damage <b>20%</b> lebih kecil). Pada akhir Skill, menebas ke depan, dan menimbulkan damage sebanyak <b>264%</b> ATK + <b>14</b> kepada target dan mengakibatkan Suspend kepada mereka. Kebal terhadap Crowd Control Effect selama Ability ini digunakan, dan semua damage yang diterima dikurangi sebanyak <b>50%</b>. Cooldown: <b>15</b> detik."
+      },
+      {
+        "name": "Unbridled Flurry",
+        "type": [
+          "Discharge"
+        ],
+        "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, yang akan menyerang dan mengakibatkan <b>Suspend Keras</b> kepada target untuk menimbulkan <b>523.3%</b> ATK + <b>28</b> damage, meninggalkan Bladestorm yang akan menimbulkan <b>209.6%</b> ATK + <b>11</b> damage kepada target, serta membuat diri sendiri kebal terhadap efek Grievous/Freeze/Burn/Electrify selama <b>5</b> detik."
+      }
+    ],
+    "weapon_type": {
+      "name": "Grievous",
+      "description": "Senjata yang terisi penuh akan menimpakan damage sebanyak <b>137%</b> ATK dengan serangan berikutnya, dan membuat target Grievous selama <b>7</b> detik, menerima <b>20%</b> damage ekstra."
+    },
+    "weapon_resonance": {
+      "name": "Physical Resonance",
+      "description": "<b>Physical Resonance</b>: Meningkatkan Physical ATK sebesar <b>15%</b> dan Physical Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Physical Damage Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata yang ada di slot tangan non-dominan. Efek tidak dapat ditumpuk."
+    },
+    "advancement": [
+      "Setiap kali skill atau Discharge Skill mengenai target, satu tumpuk Damage Boost akan diberikan, yang akan meningkatkan damage yang ditimbulkan sebanyak <b>8%</b> selama <b>25</b> detik (bisa ditumpuk maks <b>3</b> kali; setiap penggunaan skill atau Discharge Skill yang berhasil hanya akan memberikan satu tumpuk).",
+      "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+      "Jika berhasil mengenai target dengan Skill atau Discharge Skill, menerapkan satu tumpuk War Wound pada target, meningkatkan Physical Damage dan efek Shatter dari Physical dan Elemental Weapon yang diterima target sebanyak <b>10%</b> selama <b>15</b> detik. Bisa ditumpuk hingga <b>1</b> kali.",
+      "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+      "Jika mengenai target dengan skill atau Discharge Skill, akan memberikan Damage Boost, yang akan meningkatkan semua Damage sebesar <b>20%</b> selama <b>25</b> detik. Efek tidak dapat ditumpuk.",
+      "Jika mengenai target yang sama, damage yang ditimbulkan tidak akan berkurang lagi. Setelah menggunakan Guren Blade atau Discharge Skill, semua target yang punya War Wounds dalam radius 8 meter akan mendapatkan <b>1</b> tumpuk War Wounds lagi."
+    ],
+    "traits": [
+      {
+        "name": "Blink",
+        "icon": true,
+        "description": "Menjadi tidak terlihat selama <b>1</b> detik setelah menghindar."
+      },
+      {
+        "name": "Shadow",
+        "icon": true,
+        "description": "Menjadi tidak terlihat selama <b>1,5</b> detik setelah menghindar."
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": 1,
+        "level": 10,
+        "cost": 400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 2,
+        "level": 20,
+        "cost": 800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 2
+        }
+      },
+      {
+        "ascension": 3,
+        "level": 30,
+        "cost": 1200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 4,
+        "level": 40,
+        "cost": 1600,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 3
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 3
+        },
+        "mat3": {
+          "id": "booster_frame_i",
+          "name": "Booster Frame I",
+          "rarity": "SR",
+          "amount": 3
+        }
+      },
+      {
+        "ascension": 5,
+        "level": 50,
+        "cost": 2000,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 4
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 4
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 4
+        }
+      },
+      {
+        "ascension": 6,
+        "level": 60,
+        "cost": 2400,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 6
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 6
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 6
+        }
+      },
+      {
+        "ascension": 7,
+        "level": 70,
+        "cost": 2800,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 8
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 8
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 8
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3200,
+        "mat1": {
+          "id": "rockcore",
+          "name": "Rockcore",
+          "rarity": "N",
+          "amount": 11
+        },
+        "mat2": {
+          "id": "nano_coating_i",
+          "name": "Nano Coating I",
+          "rarity": "R",
+          "amount": 11
+        },
+        "mat3": {
+          "id": "nanofiber_frame_i",
+          "name": "Nanofiber Frame I",
+          "rarity": "SR",
+          "amount": 11
+        }
+      },
+      {
+        "ascension": 8,
+        "level": 80,
+        "cost": 3600,
+        "mat1": {
+          "id": "heart_of_summit",
+          "name": "Heart of Summit",
+          "amount": 5
+        },
+        "mat2": {
+          "id": "nano_coating_ii",
+          "name": "Nano Coating II",
           "rarity": "SR",
           "amount": 5
         },

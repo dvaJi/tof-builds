@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "plunder",
+  "name": "Plunder",
+  "suitName": "Plunder",
+  "hash": "R4",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan damage yang ditimpakan oleh Physical Weapon sebesar 6%."
+    }
+  ],
+  "mind": {
+    "name": "Provocateurs",
+    "desc": "Ravager yang menimbulkan petaka di mana pun hanya karena mereka punya kekuatan untuk melakukannya."
+  },
+  "memory": {
+    "name": "Anarchists",
+    "desc": "Mereka tidak kenal aturan. Kekacauanlah yang mereka inginkan."
+  },
+  "belief": {
+    "name": "Melee Killer",
+    "desc": "Tak ada yang mau bertarung lagi dengan mereka."
+  },
+  "emotion": {
+    "name": "Chaosbringer",
+    "desc": "Beberapa hal memang bersifat kacau dan tak akan keberatan menjadi lebih kacau."
+  }
+}

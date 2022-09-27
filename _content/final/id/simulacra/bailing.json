@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Bai Ling: Valor",
+      "name": "Valor",
       "icon": true,
       "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>8%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
     },
     {
-      "name": "Bai Ling: Resoluteness",
+      "name": "Resoluteness",
       "icon": true,
       "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>15%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
     }

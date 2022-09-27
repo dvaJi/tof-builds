@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "king",
+  "name": "KING",
+  "suitName": "Advocate of Violence",
+  "hash": "SSR4",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Saat target hancur, memberikan 8%/10%/12%/14% Damage Boost selama 25 detik. Cuma level tertinggi yang berlaku saat efek diperoleh secara berulang."
+    },
+    {
+      "count": 4,
+      "value": "Saat ada lebih dari 2 musuh di sekitar, serangan memulihkan HP sebesar 14%/18%/22%/26% damage yang ditimpakan setelah penyerangan. Maksimum HP yang dipulihkan setiap 0,5 detik tidak dapat melampaui 36%/42%/48%/54%."
+    }
+  ],
+  "mind": {
+    "name": "Underground Ruler",
+    "desc": "Reputasi yang baik tetap tidak akan mengubah ketidakmampuan untuk bertahan dengan dompet kosong, jadi mari kita isi dulu. Bertanyanya nanti saja."
+  },
+  "memory": {
+    "name": "Live to Fight",
+    "desc": "Para pekerja tambang ini bekerja tanpa berpikir seperti zombi. Kalau tidak melarikan diri, kamu akan jadi seperti mereka."
+  },
+  "belief": {
+    "name": "Thrillseeker",
+    "desc": "Menginginkan kegembiraan dan sukacita yang tampaknya berlebihan... yang tidak termasuk aspirasi karier."
+  },
+  "emotion": {
+    "name": "One Man Army",
+    "desc": "Tetap saja, bertarung hanya dengan tinju ada batasannya, yang dia pelajari di usia yang sangat muda."
+  }
+}

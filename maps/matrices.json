@@ -1,0 +1,401 @@
+[
+  {
+    "_id": "SR2",
+    "id": "apophis",
+    "name": "439DDA164AA5BF033C6C5780D3DC31B3",
+    "suitName": "MatrixSuit_SR2_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR2_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SR9",
+    "name": "A97D48EC4413DFE2FAEA789F8467AD7A",
+    "id": "bailing",
+    "suitName": "MatrixSuit_SR9_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR9_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SR5",
+    "name": "TFB05_BossTreasure3",
+    "id": "barbarossa",
+    "suitName": "MatrixSuit_SR5_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR5_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SSR6",
+    "name": "45AE75AA463FDA2929EF37B3D4221227",
+    "id": "claudia",
+    "suitName": "MatrixSuit_SSR6_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR6_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR6_des2"
+      }
+    ]
+  },
+  {
+    "_id": "SSR3",
+    "name": "AE4BC3D645017EE94DB86D857A93139C",
+    "id": "cocoritter",
+    "suitName": "MatrixSuit_SSR3_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR3_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR3_des2_OS"
+      }
+    ]
+  },
+  {
+    "_id": "SR11",
+    "name": "209AADD1444A2ECE6848D5BF590031D7",
+    "id": "crow",
+    "suitName": "MatrixSuit_SR11_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR11_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR11_des2"
+      }
+    ]
+  },
+  {
+    "_id": "SR12",
+    "name": "Nitai_aige_SR",
+    "suitName": "MatrixSuit_SR12_SuitName",
+    "id": "echo",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR12_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SR8",
+    "name": "Nitai_xi_SR",
+    "id": "ene",
+    "suitName": "MatrixSuit_SR8_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR8_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SSR15",
+    "name": "Nitai_fulijia_SSR",
+    "id": "frigg",
+    "suitName": "MatrixSuit_SSR15_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR15_des1_OS"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR15_des2_OS"
+      }
+    ]
+  },
+  {
+    "_id": "SR3",
+    "name": "Boss_3",
+    "id": "frost_bot",
+    "suitName": "MatrixSuit_SR3_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR3_des1"
+      }
+    ]
+  },
+  {
+    "_id": "R2",
+    "name": "MatrixSuit_R2_SuitName",
+    "id": "functional_dash",
+    "suitName": "MatrixSuit_R2_SuitName",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_R2_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SR7",
+    "name": "Nitai_xierda_SR",
+    "id": "hilda",
+    "suitName": "MatrixSuit_SR7_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR7_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SSR10",
+    "name": "nitai_xiuma_SSR",
+    "id": "huma",
+    "suitName": "MatrixSuit_SSR10_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR10_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR10_des2_OS"
+      }
+    ]
+  },
+  {
+    "_id": "SSR4",
+    "name": "NItai_King_SSR",
+    "id": "king",
+    "rarity": "SSR",
+    "suitName": "MatrixSuit_SSR4_SuitName",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR4_Sea_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR4_des2"
+      }
+    ]
+  },
+  {
+    "_id": "SSR1",
+    "name": "Nitai_mlr_SSR",
+    "id": "meryl",
+    "rarity": "SSR",
+    "suitName": "MatrixSuit_SSR1_SuitName",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR1_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR1_Sea_des2"
+      }
+    ]
+  },
+  {
+    "_id": "SSR14",
+    "name": "Nitai_naimeixisi_SSR",
+    "id": "nemesis",
+    "suitName": "MatrixSuit_SSR14_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR14_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR14_des2"
+      }
+    ]
+  },
+  {
+    "_id": "SR6",
+    "name": "NItai_peipei__SR",
+    "id": "pepper",
+    "suitName": "MatrixSuit_SR6_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR6_des1"
+      }
+    ]
+  },
+  {
+    "_id": "R4",
+    "name": "MatrixSuit_R4_SuitName",
+    "id": "plunder",
+    "suitName": "MatrixSuit_R4_SuitName",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_R4_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SR1",
+    "name": "Boss_1",
+    "id": "robarg",
+    "rarity": "SR",
+    "suitName": "MatrixSuit_SR1_SuitName",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR1_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SSR9",
+    "name": "Nitai_smr_SSR",
+    "id": "samir",
+    "rarity": "SSR",
+    "suitName": "MatrixSuit_SSR9_SuitName",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR9_Sea_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR9_Sea_des2"
+      }
+    ]
+  },
+  {
+    "_id": "R1",
+    "name": "MatrixSuit_R1_SuitName",
+    "id": "selfexplosive",
+    "suitName": "MatrixSuit_R1_SuitName",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_R1_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SSR7",
+    "name": "Nitai_xiluo_SSR",
+    "id": "shiro",
+    "rarity": "SSR",
+    "suitName": "MatrixSuit_SSR7_SuitName",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR7_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR7_des2"
+      }
+    ]
+  },
+  {
+    "_id": "SR4",
+    "name": "Boss_4",
+    "id": "sobek",
+    "suitName": "MatrixSuit_SR4_SuitName",
+    "rarity": "SR",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_SR4_des1"
+      }
+    ]
+  },
+  {
+    "_id": "R3",
+    "name": "MatrixSuit_R3_SuitName",
+    "id": "standard_operation",
+    "suitName": "MatrixSuit_R3_SuitName",
+    "rarity": "R",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_R3_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SSR2",
+    "name": "Nitai_sifengyuanyu_SSR",
+    "id": "tsubasa",
+    "rarity": "SSR",
+    "suitName": "MatrixSuit_SSR2_SuitName",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR2_des1_OS"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR2_des2"
+      }
+    ]
+  },
+  {
+    "_id": "N1",
+    "name": "matrix_N1_1",
+    "id": "wandering_aberrant",
+    "suitName": "MatrixSuit_N1_SuitName",
+    "rarity": "N",
+    "bonus": [
+      {
+        "count": 3,
+        "value": "MatrixSuit_N1_des1"
+      }
+    ]
+  },
+  {
+    "_id": "SSR8",
+    "name": "Nitai_Ling_SSR",
+    "id": "zero",
+    "suitName": "MatrixSuit_SSR8_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR8_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR8_des2"
+      }
+    ]
+  }
+]

@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Bai Ling : Bravoure",
+      "name": "Bravoure",
       "icon": true,
       "description": "Accroît de <b>8%</b> la vitesse pendant <b>12</b> secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge : <b>60</b> secondes."
     },
     {
-      "name": "Bai Ling : Détermination",
+      "name": "Détermination",
       "icon": true,
       "description": "Accroît de <b>15%</b> la vitesse pendant <b>12</b> secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge : <b>60</b> secondes."
     }

@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "KING: Eliminación a Sangre Fría",
+      "name": "Eliminación a Sangre Fría",
       "icon": true,
       "description": "Cada <b>7</b> enemigos derrotados por KING restaura PS equivalentes al <b>8%</b> de los PS Máx."
     },
     {
-      "name": "KING: Cosechamiedo",
+      "name": "Cosechamiedo",
       "icon": true,
       "description": "Cada <b>5</b> enemigos derrotados por KING restaura PS equivalentes al <b>10%</b> de los PS Máx."
     }

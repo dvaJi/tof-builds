@@ -102,12 +102,12 @@
   ],
   "traits": [
     {
-      "name": "Echo: Integridad",
+      "name": "Integridad",
       "icon": true,
       "description": "Al formar equipo con Echo, los aliados dentro de un radio de <b>10</b> metros alrededor de Echo obtienen un refuerzo de daño del <b>4%</b> (excepto Echo)."
     },
     {
-      "name": "Echo: Determinación",
+      "name": "Determinación",
       "icon": true,
       "description": "Al formar equipo con Echo, los aliados dentro de un radio de <b>10</b> metros alrededor de Echo obtienen un refuerzo de daño del <b>6%</b> (excepto Echo)."
     }

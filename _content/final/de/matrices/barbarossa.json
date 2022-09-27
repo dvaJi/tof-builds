@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "barbarossa",
+  "name": "Barbarossa",
+  "suitName": "Doppelte Alpträume",
+  "hash": "SR5",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Beim Wechsel zu dieser Waffe, erhält der Anwender für 3 Sek. 50%/62,5%/75% Schadensreflektion. Abklingzeit: 30 Sek. Beim Wechsel zu einer anderen Waffe, erhält der Anwender für 5 Sek. 20%/25%/30% Schadensbonus. Abklingzeit: 30 Sek."
+    }
+  ],
+  "mind": {
+    "name": "Machtkampf",
+    "desc": "Die beiden Köpfe streiten sich häufig darüber, wer die Beute töten darf. Der Streit kann schon bei kleinen Sticheleien in Gewalt ausarten."
+  },
+  "memory": {
+    "name": "Geteiltes Land",
+    "desc": "Woher stammt es? Vielleicht weiß es das noch so ungefähr."
+  },
+  "belief": {
+    "name": "Natürliche Aggression",
+    "desc": "Es wird des ewigen Beißens und Schleifens nie müde und wartet stets auf das nächste Opfer."
+  },
+  "emotion": {
+    "name": "Einschüchterndes Brüllen",
+    "desc": "Es beginnt mit einem Brüllen – das Todesurteil für die unschuldigen Opfer."
+  }
+}

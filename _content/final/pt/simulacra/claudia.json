@@ -1,0 +1,289 @@
+{
+  "_id": 17,
+  "id": "claudia",
+  "name": "Cláudia",
+  "weapon": "Espada Incandescente",
+  "weapon_id": "guren_blade",
+  "birthday": "16 de janeiro (Capricórnio)",
+  "birthplace": "Hykros",
+  "gender": "Feminino",
+  "info": "Confiável, obstinada e extremamente animada quando o assunto é batalha. Parece distante, mas se mostra gentil e fervorosa quando as pessoas se aproximam o suficiente. Cláudia possui um ardente senso de justiça e está sempre pronta para ajudar outras pessoas e combater a injustiça onde quer que a encontre.",
+  "description": "Uma Executora da Hykros de estatura alta e uma conduta levemente militarizada.\nSeu domínio do uso de espadas curtas e de técnicas de mobilidade a colocou na linha de frente das operações mais complicadas, mas Cláudia foi enviada a uma instalação médica após ser gravemente ferida na Operação Apocalipse das Sombras.",
+  "like": "Comidas saborosas, chapéus com personalidade",
+  "dislike": "Felinos",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "DPS",
+  "shatter": 7.5,
+  "charge": 12,
+  "skills": [
+    {
+      "name": "Corte Rápido",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda a espada para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>46.8%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>59.3%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>104.1%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>177.8%</b> do ATQ + <b>9</b> e <b>lança</b> o alvo no ar."
+    },
+    {
+      "name": "Ataque Suspenso",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.9%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>48.4%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>114.6%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>139%</b> do ATQ + <b>7</b>."
+    },
+    {
+      "name": "Ciclone",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nAo aterrissar, suspende o alvo e causa dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
+    },
+    {
+      "name": "Mergulho Lacerante",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+    },
+    {
+      "name": "Ataque Furtivo",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+    },
+    {
+      "name": "Ataque Saltado",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Toque no botão de ataque normal logo após se esquivar para usar Ataque Saltado.\nBrande a arma e causa dano de <b>37.9%</b> do ATQ + <b>2</b> ao alvo. <b>Suspende muito</b> o alvo e a si mesmo, então causa dano adicional de <b>56.8%</b> do ATQ + <b>3</b>."
+    },
+    {
+      "name": "Passeio Doloroso",
+      "type": [
+        "Skill"
+      ],
+      "description": "Dança entre alvos enquanto brande a espada. Causa dano de <b>418%</b> do ATQ + <b>22</b> a até <b>5</b> alvos (ataques a um mesmo alvo causam <b>20%</b> a menos de dano). Ao terminar a habilidade, corta o espaço adiante. Causa dano de <b>264%</b> do ATQ + <b>14</b> a alvos e os suspende. Durante esta habilidade, fica imune a efeitos incapacitantes e todo dano sofrido é reduzido em <b>50%</b>. Tempo de recarga: <b>15</b> seg."
+    },
+    {
+      "name": "Ímpeto Desenfreado",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. Investe contra um alvo e o <b>suspende muito</b>, causando dano de <b>523.3%</b> do ATQ + <b>28</b> e deixando para trás uma Tempestade de Espadas que causa dano de <b>209.6%</b> do ATQ + <b>11</b> a ele. Você fica imune a lesão, congelamento, queimadura e eletrocussão durante <b>5</b> segundos."
+    }
+  ],
+  "weapon_type": {
+    "name": "Lesão",
+    "description": "Armas com carga completa causarão dano de <b>137%</b> do ATQ com o ataque seguinte e infligirão lesão ao alvo durante <b>7</b> segundos, que então sofrerá <b>20%</b> a mais de dano."
+  },
+  "weapon_resonance": {
+    "name": "Ressonância física",
+    "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>15%</b> e a resistência física em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas de dano físico. Este efeito de conjunto também funciona com armas no espaço secundário. Não acumula."
+  },
+  "advancement": [
+    "Cada vez que atinge um alvo com uma habilidade ou habilidade de descarga, confere um acúmulo de reforço de dano que aumenta o dano causado em <b>8%</b> durante <b>25</b> segundos (acumula até <b>3</b> vezes; cada habilidade ou descarga bem-sucedida confere apenas um acúmulo).",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Acertar uma habilidade ou uma habilidade de descarga em um alvo aplica um acúmulo de Feridas de Guerra a ele, aumentando o dano físico e o efeito de despedaçar de armas físicas e elementais contra o mesmo em <b>10%</b> durante <b>15</b> segundos. Acumula até <b>1</b> vez.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
+    "Atingir alvos com habilidades ou habilidades de descarga confere reforço de dano, que aumenta todo dano em <b>20%</b> durante <b>25</b> segundos. Não acumula.",
+    "Acertar o mesmo alvo não reduz mais o dano causado. Aplica mais <b>1</b> acúmulo de Feridas de Guerra a todos os alvos em um raio de 8 metros já com Feridas de Guerra após usar a Espada Incandescente ou uma habilidade de descarga."
+  ],
+  "traits": [
+    {
+      "name": "Evasão",
+      "icon": true,
+      "description": "Fica invisível durante <b>1</b> segundo após se esquivar."
+    },
+    {
+      "name": "Sombra",
+      "icon": true,
+      "description": "Fica invisível durante <b>1,5</b> segundo após se esquivar."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "Núcleo-rochoso",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Corpo de nanofibra I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "Coração-de-montanha",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

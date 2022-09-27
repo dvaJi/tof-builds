@@ -97,12 +97,12 @@
   ],
   "traits": [
     {
-      "name": "Nêmesis: Metamorfose",
+      "name": "Metamorfose",
       "icon": true,
       "description": "Após invocar um Eletrodo, causa <b>60%</b> do ATQ de dano elétrico a todos os inimigos em um raio de <b>30</b> metros do Eletrodo e confere <b>120%</b> do ATQ em cura a todos os aliados (inclusive a si) ao seu alcance."
     },
     {
-      "name": "Nêmesis: Sublimação",
+      "name": "Sublimação",
       "icon": true,
       "description": "Após invocar um Eletrodo, causa <b>100%</b> do ATQ de dano elétrico a todos os inimigos em um raio de <b>30</b> metros do Eletrodo e confere <b>200%</b> do ATQ em cura a todos os aliados (inclusive a si) ao seu alcance."
     }

@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Cocoritter: Assistance",
+      "name": "Assistance",
       "icon": true,
       "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan efek Healing yang ditimpakannya pada orang lain dan yang diterimanya sebanyak <b>20%</b>."
     },
     {
-      "name": "Cocoritter: Trust",
+      "name": "Trust",
       "icon": true,
       "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan Healing dan Healing yang diterima sebanyak <b>20%</b>. Kemudian, pada saat Cocoritter menggunakan Discharge Skill atau Weapon Skill tipe support, meningkatkan ATK teman di sekitar sebanyak <b>15%</b> selama <b>5</b> detik."
     }

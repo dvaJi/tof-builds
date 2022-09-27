@@ -54,12 +54,12 @@
   ],
   "traits": [
     {
-      "name": "Hilda: Pé na Tábua",
+      "name": "Pé na Tábua",
       "icon": true,
       "description": "Quando Hilda usa um veículo, aumenta a velocidade em <b>7%</b>."
     },
     {
-      "name": "Hilda: Velocidade Máxima",
+      "name": "Velocidade Máxima",
       "icon": true,
       "description": "Quando Hilda usa um veículo, aumenta a velocidade em <b>10%</b>."
     }

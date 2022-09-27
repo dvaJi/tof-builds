@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "barbarossa",
+  "name": "Barberousse",
+  "suitName": "Double cauchemar",
+  "hash": "SR5",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "En prenant cette arme, vous gagnez 50%/62,5%/75% de renvoi des dégâts pendant 3 secondes. Temps de recharge : 30 secondes. En passant à une autre arme, vous gagnez 20%/25%/30% de bonus de dégâts pendant 5 secondes. Temps de recharge : 30 secondes."
+    }
+  ],
+  "mind": {
+    "name": "Jeu de pouvoir",
+    "desc": "Les deux têtes ont tendance à se battre pour savoir qui va tuer la proie. Un peu de provocation et le combat devient très physique."
+  },
+  "memory": {
+    "name": "Terre divisée",
+    "desc": "D'où vient-t-il ? Peut-être en a-t-il encore une petite idée."
+  },
+  "belief": {
+    "name": "Agression naturelle",
+    "desc": "Il ne se lasse jamais de mordre et de broyer, et attend toujours avec impatience sa prochaine victime."
+  },
+  "emotion": {
+    "name": "Rugissement intimidant",
+    "desc": "Un rugissement qui sonne le glas des victimes innocentes."
+  }
+}

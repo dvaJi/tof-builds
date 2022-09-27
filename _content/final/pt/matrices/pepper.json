@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "pepper",
+  "name": "Pepper",
+  "suitName": "Imbatível",
+  "hash": "SR6",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta a velocidade de obtenção de carga de arma em 10%/12,5%/15%."
+    }
+  ],
+  "mind": {
+    "name": "Linha de Montagem",
+    "desc": "Quem vai explicar para ela que já está trabalhando feito cão há muito tempo?"
+  },
+  "memory": {
+    "name": "Cicatriz Cirúrgica",
+    "desc": "Não é possível reverter anomalias. São como cicatrizes cirúrgicas: você não tem escolha."
+  },
+  "belief": {
+    "name": "Braçadeira",
+    "desc": "Médicos não podem dar as costas, não podem ser acomodados, não podem ser impotentes."
+  },
+  "emotion": {
+    "name": "Sonífero",
+    "desc": "Ela sofre de insônia por não querer encarar os mortos em seus sonhos."
+  }
+}

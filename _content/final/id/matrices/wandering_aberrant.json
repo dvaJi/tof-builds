@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "wandering_aberrant",
+  "name": "Wandering Aberrant",
+  "suitName": "Savage Bloodline",
+  "hash": "N1",
+  "rarity": "N",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Meningkatkan damage yang ditimpakan sebesar 4%."
+    }
+  ],
+  "mind": {
+    "name": "Wandering Aberrant",
+    "desc": "Sudah mengembara sejak kabur dari lab. Apa penyimpangan itu karena eksperimen atau radiasi Omnium? Tak ada yang tahu."
+  },
+  "memory": {
+    "name": "Feral Nature",
+    "desc": "Sifat yang tertekan oleh domestikasi perlahan-lahan kembali menyesuaikan diri dengan alam liar."
+  },
+  "belief": {
+    "name": "Brute Force",
+    "desc": "Sepertinya ia tahu ia bisa menghancurkan sangkar dengan paksa dan melepaskan diri dari ikatan."
+  },
+  "emotion": {
+    "name": "Homeseeker",
+    "desc": "Meskipun sudah melintasi seluruh Asperia, ia tetap tidak bisa menemukan rumahnya... Karena ia terlahir di lab."
+  }
+}

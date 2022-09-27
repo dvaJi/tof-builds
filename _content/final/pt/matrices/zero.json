@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "zero",
+  "name": "Zero",
+  "suitName": "Conexão Impressionante",
+  "hash": "SSR8",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Ganha um escudo igual a 150%/200%/250%/300% do ATQ durante 6 segundos ao usar uma habilidade de descarga para trocar para a arma atual."
+    },
+    {
+      "count": 4,
+      "value": "Você e os colegas causam 16%/20%/24%/28% mais dano enquanto o escudo estiver ativo."
+    }
+  ],
+  "mind": {
+    "name": "Cálculo Paranormal",
+    "desc": "Para chegar no resultado, liberte-se da lógica, subverta a realidade, abandone por completo fórmulas baseadas em experiências."
+  },
+  "memory": {
+    "name": "Protocolo de Terminal",
+    "desc": "Lembranças não passam de representações de vivências. Quanto a serem verdadeiras ou falsas, quem precisa decidir é você."
+  },
+  "belief": {
+    "name": "Organização de Dados",
+    "desc": "Geram-se informações a partir da organização de dados individuais."
+  },
+  "emotion": {
+    "name": "Sobrevivência do Mais Apto",
+    "desc": "A sobrevivência do mais apto é a lei da natureza e a manifestação da superioridade individual."
+  }
+}

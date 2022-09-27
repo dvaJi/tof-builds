@@ -94,12 +94,12 @@
   ],
   "traits": [
     {
-      "name": "Crow: Loner",
+      "name": "Loner",
       "icon": true,
       "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>6%</b> dan mengurangi damage yang diterima sebanyak <b>4%</b>."
     },
     {
-      "name": "Crow: Silent Night",
+      "name": "Silent Night",
       "icon": true,
       "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>10%</b> dan mengurangi damage yang diterima sebanyak <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan damage yang ditimbulkan sebanyak <b>12%</b> selama <b>12</b> detik."
     }

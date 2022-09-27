@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "crow",
+  "name": "Crow",
+  "suitName": "Fanatische Verfolgungsjagd",
+  "hash": "SR11",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht den kritischen Schaden an Zielen mit weniger als 60% LP um 33%/42%/50%/58%."
+    },
+    {
+      "count": 4,
+      "value": "Kritische Treffer verursachen zusätzlich 5 Sek. lang pro Sek. einen DoT in Höhe von 12%/15%/18%/21% des ANG. Dieser Effekt ist nicht stapelbar."
+    }
+  ],
+  "mind": {
+    "name": "Elfte Dimension",
+    "desc": "Manche Dinge sind nicht greifbar, existieren aber trotzdem."
+  },
+  "memory": {
+    "name": "Angepasst",
+    "desc": "Was geschehen ist, ist geschehen. Die Gegenwart ist das, was du ergreifen musst."
+  },
+  "belief": {
+    "name": "Schrecklicher Überlebender",
+    "desc": "Gib niemals auf, auch wenn deine Situation mehr als aussichtslos erscheint."
+  },
+  "emotion": {
+    "name": "Interpretation",
+    "desc": "Ein skurriles Schauspiel, das manchmal sehr schwer zu durchschauen ist."
+  }
+}

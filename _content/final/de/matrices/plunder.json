@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "plunder",
+  "name": "Plunder",
+  "suitName": "Plunder",
+  "hash": "R4",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Erhöht den durch physische Waffen verursachten Schaden um 6%."
+    }
+  ],
+  "mind": {
+    "name": "Provokateure",
+    "desc": "Ravager, die überall Chaos verursachen, weil sie es eben können."
+  },
+  "memory": {
+    "name": "Anarchisten",
+    "desc": "Sie befolgen keine Befehle. Sie streben nach Chaos."
+  },
+  "belief": {
+    "name": "Nahkämpfer",
+    "desc": "Niemand will erneut gegen sie kämpfen müssen."
+  },
+  "emotion": {
+    "name": "Chaosbote",
+    "desc": "Einige Dinge sind von chaotischer Natur und hätten nichts dagegen, noch chaotischer zu werden."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "selfexplosive",
+  "name": "Autoexplosivo",
+  "suitName": "Autoexplosivo",
+  "hash": "R1",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el daño infligido por armas de fuego en un 6%."
+    }
+  ],
+  "mind": {
+    "name": "Núcleo explosivo",
+    "desc": "El núcleo de Omnio arde brillante en el interior."
+  },
+  "memory": {
+    "name": "Hilo de unión",
+    "desc": "No es un hilo de verdad, claro. Su creador solo quería infundir temor."
+  },
+  "belief": {
+    "name": "Red de pavor",
+    "desc": "A veces, la mirada de una araña atemoriza más que el daño que puede provocar."
+  },
+  "emotion": {
+    "name": "Imposición",
+    "desc": "Cuando actúan en grupo, son una pesadilla para quien se les cruce."
+  }
+}

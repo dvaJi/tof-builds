@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Samir: Trickery",
+      "name": "Trickery",
       "icon": true,
       "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>3%</b>, and can stack up to <b>4</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>1</b> second."
     },
     {
-      "name": "Samir: Shadow",
+      "name": "Shadow",
       "icon": true,
       "description": "Grant <b>1</b> stack of Concentration for every <b>4</b> seconds when Samir receives no damage. Each stack increases damage dealt by <b>4%</b>, and can stack up to <b>5</b> times. After being hit, Samir loses <b>1</b> stack of Concentration, up to <b>1</b> stack per <b>2</b> second."
     }

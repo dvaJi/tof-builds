@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "functional_dash",
+  "name": "Praktischer Sprint",
+  "suitName": "Praktischer Sprint",
+  "hash": "R2",
+  "rarity": "R",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Erhöht den durch Frostwaffen verursachten Schaden um 6%."
+    }
+  ],
+  "mind": {
+    "name": "Träger",
+    "desc": "Bewegt sich zwischen den Minen und Gleisen hin und her."
+  },
+  "memory": {
+    "name": "Neustart",
+    "desc": "Fahrzeuge können angreifen, wenn sie einen neuen Befehl erhalten."
+  },
+  "belief": {
+    "name": "Geist der Maschine",
+    "desc": "Eine Cyber-Modifikation ohne freien Willen, die Befehle wie eine Maschine ausführt."
+  },
+  "emotion": {
+    "name": "Volltreffer",
+    "desc": "Der größte Vorteil bei einer Modifikation ist der präzise Angriff, der nicht durch Emotionen oder Empfindungen beeinträchtigt wird."
+  }
+}

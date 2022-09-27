@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "frost_bot",
+  "name": "Cryobot",
+  "suitName": "Zéro extrême",
+  "hash": "SR3",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Lorsque les PV sont inférieurs à 40%, l'utilisation d'une compétence de décharge pour passer à l'arme actuelle régénère des PV à hauteur de 160%/200%/240% de l'ATQ."
+    }
+  ],
+  "mind": {
+    "name": "Ne pas sous-estimer",
+    "desc": "Ça ressemble peut-être à de la nourriture, mais il faut quand même être prudent."
+  },
+  "memory": {
+    "name": "Fin rapide",
+    "desc": "Le système de combat des armures n'a qu'un seul objectif : en finir le plus rapidement possible."
+  },
+  "belief": {
+    "name": "Gel rapide",
+    "desc": "Gèle les alentours en formant des blocs de glace."
+  },
+  "emotion": {
+    "name": "Impitoyable",
+    "desc": "Qui s'y frotte, s'y pique."
+  }
+}

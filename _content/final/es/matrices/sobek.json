@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "sobek",
+  "name": "Sobek",
+  "suitName": "Sombra del Pantano",
+  "hash": "SR4",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Aumenta el daño infligido en un 6%/7.5%/9% para cada enemigo cercano. Hasta 3 acumulaciones."
+    }
+  ],
+  "mind": {
+    "name": "Plan",
+    "desc": "Ten cuidado de no caer en sus redes."
+  },
+  "memory": {
+    "name": "Oportunidad",
+    "desc": "Siempre paciente, esperando que algún descuidado caiga en sus garras."
+  },
+  "belief": {
+    "name": "Confusión",
+    "desc": "No se mueve. ¿Está durmiendo o solo conserva su energía?"
+  },
+  "emotion": {
+    "name": "Inquietud",
+    "desc": "Cuando se aburre o siente inquietud, algún inocente transeúnte puede ser su víctima."
+  }
+}

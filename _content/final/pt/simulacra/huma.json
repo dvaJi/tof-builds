@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Huma: Coragem",
+      "name": "Coragem",
       "icon": true,
       "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,4%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida."
     },
     {
-      "name": "Huma: Tela de Ferro",
+      "name": "Tela de Ferro",
       "icon": true,
       "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,9%</b> da vida."
     }

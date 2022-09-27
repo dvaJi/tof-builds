@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "claudia",
+  "name": "Claudia",
+  "suitName": "Multi-directional Strike",
+  "hash": "SSR6",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan damage sebesar 13%/17%/20%/23% saat mengenai target di udara atau memulai serangan udara. Mereset double jump setelah mengenai target di udara."
+    },
+    {
+      "count": 4,
+      "value": "Mengenai musuh dengan skill mengurangi cooldown semua Weapon Skill selama 1,5/2/2,5/3 detik dan meningkatkan damage Discharge Skill sebesar 36%/45%/54%/63% selama 15 detik."
+    }
+  ],
+  "mind": {
+    "name": "Rational Analysis",
+    "desc": "Pertama, belajarlah menerima pendapat umum, lalu buat penilaian tentang masalah yang dihadapi."
+  },
+  "memory": {
+    "name": "True Self",
+    "desc": "Jujurlah pada diri sendiri sehingga kamu tak lagi terikat oleh masa lalu dan akan memegang masa depan."
+  },
+  "belief": {
+    "name": "Righteous",
+    "desc": "Semua upaya yang dilakukan untuk menegakkan keadilan akan terbukti bermanfaat."
+  },
+  "emotion": {
+    "name": "Aura of Determination",
+    "desc": "Menjunjung nilai-nilai dalam tindakan, bahkan menyebarkannya tanpa sadar."
+  }
+}

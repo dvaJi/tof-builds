@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "meryl",
+  "name": "Meryl",
+  "suitName": "Reiner weißer Wächter",
+  "hash": "SSR1",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Wenn die LP nach einem gegnerischen Angriff unter 30% fallen, wird für 10 Sek. ein Schild in Höhe von 20%/26%/32%/40% der max. LP gewährt. Abklingzeit: 90 Sek."
+    },
+    {
+      "count": 4,
+      "value": "Erhöht den Schaden von „Wirbelsturm“ um 36%/45%/54%/63% und stellt LP in Höhe von 30%/38%/44%/50% des verursachten Schadens wieder her, solange „Wirbelsturm“ aktiv ist. Es können alle 0,5 Sek. max. LP in Höhe von 60%/72%/81%/90% des ANG wiederhergestellt werden."
+    }
+  ],
+  "mind": {
+    "name": "Schwertkampfsimulation",
+    "desc": "Komplexe Schwertkampfsimulation, die anscheinend zur Kalibrierung verwendet wird. Jedenfalls nichts für den Durchschnittsmenschen."
+  },
+  "memory": {
+    "name": "Weckruf",
+    "desc": "Verkettete Erinnerungsscherben, die verwendet werden, um ein Bewusstsein zu implantieren. Bitte beachte, dass es keine Gebrauchsanweisung dazu gibt."
+  },
+  "belief": {
+    "name": "Absolute Autorität",
+    "desc": "Es repräsentiert natürlich die Selbstgefälligkeit und die von außen erhaltene Anerkennung der Macht eines Vollstreckers."
+  },
+  "emotion": {
+    "name": "Losgelöst",
+    "desc": "Mentale Kommunikationsbarrieren, die durch die Ablehnung jeglicher Sozialisierung entstanden."
+  }
+}

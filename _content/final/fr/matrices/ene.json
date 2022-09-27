@@ -1,0 +1,30 @@
+{
+  "_id": 28,
+  "id": "ene",
+  "name": "Ene",
+  "suitName": "Surcharge",
+  "hash": "SR8",
+  "rarity": "SR",
+  "bonus": [
+    {
+      "count": 3,
+      "value": "Lorsque vous infligez des dégâts supérieurs à 100% de l'ATQ, des dégâts supplémentaires équivalant à 60%/75%/90% de l'ATQ sont infligés. Temps de recharge : 3 secondes."
+    }
+  ],
+  "mind": {
+    "name": "Compétition",
+    "desc": "L'accélération de la production lorsque la puissance augmente sera également transmise à l'arme sous forme de faibles secousses."
+  },
+  "memory": {
+    "name": "Électron libre",
+    "desc": "Le laboratoire de suppresseur d'Hykros n'oubliera jamais le combat qu'elle a mené."
+  },
+  "belief": {
+    "name": "Seconde vie",
+    "desc": "Un corps sans douleur fonctionnera jusqu'à la dernière once d'énergie avant sa destruction complète."
+  },
+  "emotion": {
+    "name": "Photo de famille",
+    "desc": "Elle a été prise uniquement parce que son père a insisté."
+  }
+}

@@ -85,12 +85,12 @@
   ],
   "traits": [
     {
-      "name": "Huma: Standhaftigkeit",
+      "name": "Standhaftigkeit",
       "icon": true,
       "description": "Gewährt jedes Mal, wenn Huma Schaden erleidet, <b>1</b> Standhaftigkeitsmarkierung und <b>1</b> weitere, wenn es sich um Flammenschaden handelt, bis zu <b>1</b>-mal pro Sek und <b>12</b> Stapeln insgesamt. Gewährt bei Verwendung einer Waffenfähigkeit für <b>12</b> Sek. einen LP-Schild in Höhe der Markierungen x <b>0,4%</b> der LP, was alle Standhaftigkeitsmarkierungen verbraucht. Gewährt einen LP-Schild in Höhe der Markierungen x <b>0,6%</b> der LP, wenn Standhaftigkeitsmarkierungen verbraucht werden, während der Effekt max. gestapelt ist."
     },
     {
-      "name": "Huma: Eiserne Barriere",
+      "name": "Eiserne Barriere",
       "icon": true,
       "description": "Gewährt jedes Mal, wenn Huma Schaden erleidet, <b>1</b> Standhaftigkeitsmarkierung und <b>1</b> weitere, wenn es sich um Flammenschaden handelt, bis zu <b>1</b>-mal pro Sek. und <b>12</b> Stapeln insgesamt. Gewährt bei Verwendung einer Waffenfähigkeit für <b>12</b> Sek. einen LP-Schild in Höhe der Markierungen x <b>0,6%</b> der LP, was alle Standhaftigkeitsmarkierungen verbraucht. Gewährt einen LP-Schild in Höhe der Markierungen x <b>0,9%</b> der LP, wenn Standhaftigkeitsmarkierungen verbraucht werden, während der Effekt max. gestapelt ist."
     }
