@@ -25,7 +25,7 @@ export async function main(textMap, locale) {
       id: item.id,
       name: textMap[""][item.name],
       suitName: textMap[""][item.suitName],
-      hash: item._id,
+      hash: item.hash || item._id,
       rarity: item.rarity,
       bonus: item.bonus.map((b) => ({ ...b, value: textMap[""][b.value] })),
       mind: {
