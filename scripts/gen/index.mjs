@@ -1,85 +1,88 @@
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
-import { main as mainItems } from "./generateItems.mjs";
-import { main as mainMatrices } from "./generateMatrices.mjs";
-import { main as mainMounts } from "./generateMounts.mjs";
-import { main as mainSimulacra } from "./generateSimulacra.mjs";
-import { main as mainGifts } from "./generateGifts.mjs";
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { main as mainItems } from './generateItems.mjs';
+import { main as mainMatrices } from './generateMatrices.mjs';
+import { main as mainMounts } from './generateMounts.mjs';
+import { main as mainSimulacra } from './generateSimulacra.mjs';
+import { main as mainGifts } from './generateGifts.mjs';
+
+import dotenv from 'dotenv';
+dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
 
 const __dirname = path.dirname(__filename);
 
+const GENERATED_PATH = path.join(__dirname, '..', '..', 'src', 'data');
+const MIN_PATH = path.join(__dirname, '..', '..', 'src', 'min');
+
 const OFFICIALLOC_PATH = path.join(
   __dirname,
-  "..",
-  "..",
-  "OfficialLocalization"
+  '..',
+  '..',
+  'OfficialLocalization'
 );
 
-const locales = ["en", "es", "de", "fr", "id", "ja", "pt", "th"];
+const locales = ['en', 'es', 'de', 'fr', 'id', 'ja', 'pt', 'th'];
 
 async function main() {
-  let bigMap = {
-    items: {},
-    matrices: {},
-    simulacra: {},
-    mounts: {},
-    gifts: {},
-  };
-  const ENtextMap = JSON.parse(
-    fs.readFileSync(path.join(OFFICIALLOC_PATH, "en", `Game.json`))
-  );
-  for (const locale of locales) {
-    const textMap = JSON.parse(
-      fs.readFileSync(path.join(OFFICIALLOC_PATH, locale, `Game.json`))
+  if (process.env.DEV_ENV) {
+    const ENtextMap = JSON.parse(
+      fs.readFileSync(path.join(OFFICIALLOC_PATH, 'en', `Game.json`))
     );
-    const items = await mainItems(textMap, locale, ENtextMap);
-    const matrices = await mainMatrices(textMap, locale, ENtextMap);
-    const simulacra = await mainSimulacra(textMap, locale, ENtextMap);
-    const mounts = await mainMounts(textMap, locale, ENtextMap);
-    const gifts = await mainGifts(textMap, locale, ENtextMap);
-    await generateBigFile(items, "items", locale);
-    await generateBigFile(matrices, "matrices", locale);
-    await generateBigFile(simulacra, "simulacra", locale);
-    await generateBigFile(mounts, "mounts", locale);
-    await generateBigFile(gifts, "gifts", locale);
-
-    bigMap["items"][locale] = items;
-    bigMap["matrices"][locale] = matrices;
-    bigMap["simulacra"][locale] = simulacra;
-    bigMap["mounts"][locale] = mounts;
-    bigMap["gifts"][locale] = gifts;
+    for (const locale of locales) {
+      const textMap = JSON.parse(
+        fs.readFileSync(path.join(OFFICIALLOC_PATH, locale, `Game.json`))
+      );
+      await mainItems(textMap, locale, ENtextMap);
+      await mainMatrices(textMap, locale, ENtextMap);
+      await mainSimulacra(textMap, locale, ENtextMap);
+      await mainMounts(textMap, locale, ENtextMap);
+      await mainGifts(textMap, locale, ENtextMap);
+    }
   }
 
-  await generateBigChunkyFile(bigMap.items, "items");
-  await generateBigChunkyFile(bigMap.matrices, "matrices");
-  await generateBigChunkyFile(bigMap.simulacra, "simulacra");
-  await generateBigChunkyFile(bigMap.mounts, "mounts");
-  await generateBigChunkyFile(bigMap.gifts, "gifts");
+  await generateBigFile();
 }
 
-async function generateBigFile(data, name, locale) {
-  fs.writeFileSync(
-    path.join(
-      __dirname,
-      "..",
-      "..",
-      "_content",
-      "final",
-      locale,
-      name + ".json"
-    ),
-    JSON.stringify(data, undefined, 2)
-  );
-}
+async function generateBigFile() {
+  const languages = fs.readdirSync(GENERATED_PATH);
+  for (const lang of languages) {
+    const folders = fs.readdirSync(path.join(GENERATED_PATH, lang));
+    let data = {};
+    for (const folder of folders) {
+      if (!fs.existsSync(path.join(GENERATED_PATH, lang, folder))) continue;
+      data[folder.replace('.json', '')] = [];
 
-async function generateBigChunkyFile(data, name) {
-  fs.writeFileSync(
-    path.join(__dirname, "..", "..", "_content", "final", name + "_final.json"),
-    JSON.stringify(data)
-  );
+      if (folder.endsWith('.json')) {
+        data[folder.replace('.json', '')].push(
+          JSON.parse(fs.readFileSync(path.join(GENERATED_PATH, lang, folder)))
+        );
+        continue;
+      }
+
+      fs.readdirSync(`${GENERATED_PATH}/${lang}/${folder}`).forEach(
+        (filename) => {
+          if (!filename.endsWith('.json')) return;
+          data[folder].push(
+            JSON.parse(
+              fs.readFileSync(path.join(GENERATED_PATH, lang, folder, filename))
+            )
+          );
+        }
+      );
+    }
+
+    const newFilePath = path.join(MIN_PATH, `data_${lang}.min.json`);
+
+    if (!fs.existsSync(path.dirname(newFilePath))) {
+      fs.mkdirSync(path.dirname(newFilePath));
+    }
+
+    fs.writeFileSync(newFilePath, JSON.stringify(data));
+    console.log(path.join(MIN_PATH), `data_${lang}.min.json`);
+  }
 }
 
 main();

@@ -1,13 +1,13 @@
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 
 const __dirname = path.dirname(__filename);
 
-const DATA_PATH = path.join(__dirname, "..", "..", "_content", "final");
-const MapsDATA_PATH = path.join(__dirname, "..", "..", "maps");
+const DATA_PATH = path.join(__dirname, '..', '..', 'src', 'data');
+const MapsDATA_PATH = path.join(__dirname, '..', '..', 'maps');
 
 export let allItemsMap = {};
 
@@ -23,19 +23,20 @@ export async function main(textMap, locale) {
     const data = {
       _id: Object.values(allItemsMap).length + 1,
       id: item.id,
-      name: textMap[""][item._locid + "1"],
-      description: textMap[""][item._locid + "2"],
-      usage: textMap[""][item._locid + "3"],
+      name: textMap[''][item._locid + '1'],
+      description: textMap[''][item._locid + '2'],
+      usage: textMap[''][item._locid + '3'],
       rarity: item.rarity,
     };
 
     allItemsMap[data.id] = data;
 
-    fs.writeFileSync(
-      path.join(DATA_PATH, locale, "items", data.id + ".json"),
-      JSON.stringify(data, undefined, 2)
-    );
-  }
+    const filePath = path.join(DATA_PATH, locale, 'items', data.id + '.json');
 
-  return Object.values(allItemsMap);
+    if (!fs.existsSync(path.dirname(filePath))) {
+      fs.mkdirSync(path.dirname(filePath));
+    }
+
+    fs.writeFileSync(filePath, JSON.stringify(data, undefined, 2));
+  }
 }

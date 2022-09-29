@@ -24,34 +24,43 @@ function main() {
     );
   }
 
-
   const matrices = asd["webpackJsonpgenshin-react"][0][1]["48"]();
 
   for (const matrix of matrices) {
     fs.writeFileSync(
       path.join(DATA_PATH, "matrices", slugify(matrix.name) + ".json"),
-      JSON.stringify(
-        { ...matrix, id: slugify(matrix.name) },
-        undefined,
-        2
-      )
+      JSON.stringify({ ...matrix, id: slugify(matrix.name) }, undefined, 2)
     );
   }
-
 
   const gifts = asd["webpackJsonpgenshin-react"][0][1]["95"]();
 
   for (const gift of gifts) {
     fs.writeFileSync(
       path.join(DATA_PATH, "gifts", slugify(gift.name) + ".json"),
-      JSON.stringify(
-        { ...gift, id: slugify(gift.name) },
-        undefined,
-        2
-      )
+      JSON.stringify({ ...gift, id: slugify(gift.name) }, undefined, 2)
     );
   }
 
+  const teams = asd["webpackJsonpgenshin-react"][0][1]["96"]();
+
+  const finalTeams = teams
+    .filter((t) => t.show)
+    .map((team) => {
+      return {
+        id: team.id,
+        characters: team.characters.map((c) => ({
+          id: slugify(c.name).replace("bai_ling", "bailing"),
+          role: c.role,
+        })),
+        comp: team.comp.toLowerCase(),
+        mode: team.mode,
+      };
+    });
+  fs.writeFileSync(
+    path.join(DATA_PATH, "teams.json"),
+    JSON.stringify(finalTeams)
+  );
 }
 
 function slugify(value) {

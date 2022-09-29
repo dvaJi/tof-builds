@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 
 const __dirname = path.dirname(__filename);
 
-const DATA_PATH = path.join(__dirname, "..", "..", "_content", "final");
+const DATA_PATH = path.join(__dirname, "..", "..", "src", "data");
 const MapsDATA_PATH = path.join(__dirname, "..", "..", "maps");
 const GENSHINGG_PATH = path.join(__dirname, "..", "..", "_content", "data_gg");
 
@@ -57,6 +57,4 @@ export async function main(textMap, locale, ENtextMap) {
 
     fs.writeFileSync(path.join(filePath), JSON.stringify(data, undefined, 2));
   });
-
-  return Object.values(allItemsMap);
 }
