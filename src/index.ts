@@ -62,7 +62,7 @@ export default class GenshinData {
     const lang = this.getLang();
     return await this.findByFolder(lang, 'gifts', query);
   }
-45
+
   private async findByFolder<T>(
     lang: Languages,
     folder: Folders,
