@@ -1,7 +1,6 @@
 {
-  "name": "tof-data",
+  "name": "@dvaji/tof-builds",
   "version": "0.1.0",
-  "private": true,
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
