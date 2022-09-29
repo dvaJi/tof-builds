@@ -1,0 +1,708 @@
+[
+  {
+    "_id": 1,
+    "id": "3d_hykros_puzzle",
+    "name": "Rompecabezas 3 d de Hykros",
+    "description": "Un rompecabezas que causa furor en Hykros. La novedosa apariencia y jugabilidad son muy entretenidos. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "king",
+      "meryl",
+      "samir",
+      "shiro",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 2,
+    "id": "aida_comic",
+    "name": "Cómic de Aida",
+    "description": "Narra las aventuras de Tata en Aida en cada publicación mensual. Su cantidad limitada y popularidad causan peleas por obtener una copia con cada edición. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "crow",
+      "echo"
+    ],
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "frigg",
+      "huma",
+      "king",
+      "tsubasa",
+      "zero",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 3,
+    "id": "angela_ornament",
+    "name": "Ornamento de Angela",
+    "description": "Una réplica en miniatura de Angela, la sirviente inteligente, que hasta incluye el par de adorables alas rosadas en su espalda. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "claudia",
+      "huma",
+      "pepper",
+      "nemesis"
+    ],
+    "characters": [
+      "crow",
+      "bailing",
+      "echo",
+      "ene",
+      "frigg"
+    ]
+  },
+  {
+    "_id": 4,
+    "id": "banges_specialty",
+    "name": "Especialidad de Banges",
+    "description": "Contiene varias especialidades de Banges, cada una con una selección al azar para representar la diversidad local. Por supuesto, eso significa que nunca sabes lo que vas a obtener. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "cocoritter",
+      "frigg",
+      "samir",
+      "shiro",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 5,
+    "id": "cat_throw_pillow",
+    "name": "Almohadón de gato",
+    "description": "Un almohadón con forma de gato. Sostenerlo es muy relajante y terapéutico. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 6,
+    "id": "chess_set",
+    "name": "Set de ajedrez",
+    "description": "Un juego para dos jugadores, aunque hay quienes prefieren jugar en solitario. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 7,
+    "id": "coloring_book",
+    "name": "Libro para colorear",
+    "description": "El vendedor dijo que una vez que todas las páginas estén coloreadas, puedes cambiarlo por uno nuevo. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 8,
+    "id": "crazy_dumont_figurine",
+    "name": "Figura de Dumont el Loco",
+    "description": "Nadie sabe cuándo comenzó la popularidad de Dumont el Loco, aunque de pronto todos quieren uno. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "crow",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 9,
+    "id": "crown_token",
+    "name": "Moneda de Corona",
+    "description": "Una moneda conmemorativa emitida por Corona, con un retrato del dueño de la mina en el frente y una K estilizada en el reverso. Colecciona siete de estas bellezas y recibe un día de vacaciones con paga... o algo así, quizás. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "cobaltb",
+      "king"
+    ],
+    "characters": [
+      "crow",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "hilda",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 10,
+    "id": "custom_poker_deck",
+    "name": "Mazo de póker personalizado",
+    "description": "Nadie sabe quién creó este mazo, pero a juzgar por las reglas de juego, quien lo haya hecho debe haber sido una persona muy interesante. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 11,
+    "id": "dumbbells",
+    "name": "Mancuernas",
+    "description": "Un instrumento para entrenamiento con pesas utilizado comúnmente para ejercitarse... excepto en ciertas ocasiones drásticas... Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "shiro"
+    ]
+  },
+  {
+    "_id": 12,
+    "id": "flower_bouquet",
+    "name": "Ramo de flores",
+    "description": "Un manojo de flores de agradable arreglo. Es un muy buen regalo, aunque ten cuidado con quienes sean alérgicos al polen o no le gusten las plantas. Las flores se producen en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 13,
+    "id": "gem_necklace",
+    "name": "Collar de gemas",
+    "description": "¿Cuánto cuesta este collar? ¡Olvídate de especular y solo asegúrate de mantenerlo a salvo! Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cobaltb",
+      "king",
+      "meryl",
+      "shiro",
+      "bailing",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 14,
+    "id": "limited_peanut_figurine",
+    "name": "Figura limitada de Maní",
+    "description": "Una miniatura muy poco común con funciones de almacenamiento de datos y control de volumen. Ya que está basada en Peanut, es muy popular entre los amantes de gatos. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "cocoritter",
+      "frigg",
+      "huma",
+      "crow",
+      "king",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "ene",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 15,
+    "id": "limited_tata_figurine",
+    "name": "Figura limitada de Tata",
+    "description": "Una figura coleccionable de edición limitada, un recuerdo de los cómics de Aida. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "crow",
+      "hilda"
+    ],
+    "characters": [
+      "cobaltb",
+      "king",
+      "echo"
+    ]
+  },
+  {
+    "_id": 16,
+    "id": "metal_alf_figurine",
+    "name": "Figura metálica de Alf",
+    "description": "Para asemejarse por completo al Alf original, los creadores de esta figura la hicieron completamente de metal. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "crow",
+      "shiro",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "meteorite_in_a_bottle",
+    "name": "Meteorito embotellado",
+    "description": "Un meteorito dentro de una botella transparente. El meteorito parece ser una roca espacial que no terminó de quemarse y brilla sutilmente debido a algún tipo de combinación mineral. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing"
+    ]
+  },
+  {
+    "_id": 18,
+    "id": "mini_potted_plant",
+    "name": "Miniplanta en maceta",
+    "description": "Una planta miniatura en una maceta. La planta es artificial y no requiere cuidados adicionales. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 19,
+    "id": "moonrabbit_kit",
+    "name": "Kit de conejo lunar",
+    "description": "Requiere ensamblaje. Basado en la imagen del conejo lunar. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 20,
+    "id": "music_box",
+    "name": "Caja musical",
+    "description": "Una caja musical de metal. No se sabe si su dueño anterior la averió o algo así, pero su agradable melodía ya no puede disfrutarse. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "huma",
+      "samir",
+      "shiro",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 21,
+    "id": "new_game_console",
+    "name": "Consola de juegos nueva",
+    "description": "Una nueva consola de alta gama, diseñada por un genio de las computadoras. El alto costo de producción llevó a su escasez de existencias. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "zero",
+      "echo"
+    ],
+    "characters": [
+      "cobaltb",
+      "huma",
+      "crow",
+      "king",
+      "samir",
+      "tsubasa",
+      "ene",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 22,
+    "id": "new_kalka_ornament",
+    "name": "Nuevo ornamento de Kalka",
+    "description": "Luego de recibir una montaña de quejas por dejar de producir la antigua figura de Kalka, los creadores decidieron crear una nueva versión. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 23,
+    "id": "nice_picture_frame",
+    "name": "Lindo marco de fotos",
+    "description": "Diseñado para proteger fotos preciadas. Está construido con materiales especiales y es difícil de desarmar. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 24,
+    "id": "paper_pinwheel",
+    "name": "Molino de papel",
+    "description": "Un simple juguete que, a pesar de ser tan común, nunca falla a la hora de traer felicidad y relajación. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 25,
+    "id": "perfume_bottle",
+    "name": "Botella de perfume",
+    "description": "Un elegante y encantador frasco de vidrio que contiene un líquido de aroma agradable. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 26,
+    "id": "plush_toy",
+    "name": "Juguete de peluche",
+    "description": "Un juguete muy popular entre los niños. Tiene una adorable fragancia que recuerda a una cálida tarde bajo el sol. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "tsubasa"
+    ],
+    "characters": [
+      "cocoritter",
+      "samir",
+      "zero",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 27,
+    "id": "postcard_of_aida",
+    "name": "Postal de Aida",
+    "description": "Muestra varios paisajes de Aida. A pesar de la contaminación por radiación de Omnio y otras condiciones adversas, aún quedan sitios que vale la pena preservar. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing"
+    ]
+  },
+  {
+    "_id": 28,
+    "id": "retro_harmonica",
+    "name": "Armónica retro",
+    "description": "Para tocar melodías encantadoras. Es difícil de conseguir, así que queda poca gente en Aida que sepa tocarla. Probablemente hoy en día eso se limita a los verdaderos aficionados de la música. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing",
+      "echo"
+    ]
+  },
+  {
+    "_id": 29,
+    "id": "silver_cookware",
+    "name": "Utensilios de plata",
+    "description": "Un juego completo de valiosos utensilios de cocina. Supuestamente, pertenecían a un chef neurótico que nunca dejaba que nadie tocara sus preciadas herramientas. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "cobaltb",
+      "shiro"
+    ],
+    "characters": [
+      "king",
+      "meryl",
+      "bailing",
+      "frigg",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 30,
+    "id": "smarty_doll",
+    "name": "Muñeca de Listillo",
+    "description": "Un juguete basado en la imagen de Listillo. Los creadores reemplazaron la planta artificial en su cabeza con una viva, lo que la hace altamente coleccionable. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "cocoritter",
+      "king",
+      "meryl",
+      "samir",
+      "shiro",
+      "bailing",
+      "ene",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 31,
+    "id": "snack_box",
+    "name": "Caja de golosinas",
+    "description": "Una caja de golosinas creada por Fennie de Astra. Contiene delicias irresistibles y es un regalo muy popular en todos los sectores. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cobaltb",
+      "crow",
+      "king",
+      "tsubasa",
+      "zero",
+      "echo",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 32,
+    "id": "snow_globe",
+    "name": "Globo de nieve",
+    "description": "Originario del Campo de Nieve de Warren, refleja la pureza de la blanca nieve durante el invierno. Ahora es una decoración para hogares. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "claudia",
+      "bailing"
+    ],
+    "characters": [
+      "huma",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 33,
+    "id": "spirit_princess_figurine",
+    "name": "Figura de Princesa espiritual",
+    "description": "Una miniatura basada en la Princesa espiritual, la sirviente inteligente. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "crow",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 34,
+    "id": "tailormade_suit",
+    "name": "Traje a la medida",
+    "description": "Un traje hecho a la medida, de mejor calidad y clase que uno común y hasta tiene accesorios. Apropiado para quienes prefieren el estilo dramático. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 35,
+    "id": "tartarus_ornament",
+    "name": "Ornamento de Tártaro",
+    "description": "Una miniatura que supuestamente se parece a la forma del Tártaro. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 36,
+    "id": "tool_set",
+    "name": "Set de herramientas",
+    "description": "Diseñado para fines prácticos y listo para usar. También puede servir como repuesto. Muy popular entre los técnicos gracias a su versatilidad. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "shiro"
+    ]
+  },
+  {
+    "_id": 37,
+    "id": "vitamin_pack",
+    "name": "Paquete de vitaminas",
+    "description": "Suplementos para la buena salud. Una necesidad para quienes trabajan demasiado o están tan concentrados en sus juegos que no tienen tiempo para alimentarse bien. Son producidos en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "frigg",
+      "huma",
+      "crow",
+      "echo",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 38,
+    "id": "void_angel_figurine",
+    "name": "Figura de Ángel del vacío",
+    "description": "Una miniatura basada en el Ángel del Vacío. Es completamente blanca y requiere cuidados especiales para mantenerla inmaculada. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "tsubasa"
+    ],
+    "characters": [
+      "claudia",
+      "crow",
+      "king",
+      "meryl",
+      "shiro",
+      "bailing",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 39,
+    "id": "warren_fossil",
+    "name": "Fósil de Warren",
+    "description": "Restos ancestrales sellados en hielo, descubiertos en el Campo de Nieve de Warren. Muy poco común y altamente coleccionable. Son producidos en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "king",
+      "meryl",
+      "shiro",
+      "bailing"
+    ],
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "cocoritter",
+      "tsubasa",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 40,
+    "id": "wool_scarf",
+    "name": "Bufanda de lana",
+    "description": "Se supone que está hecha de lana procesada, pero dado que se volvió obsoleta, la lana es en realidad un material compuesto. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  }
+]

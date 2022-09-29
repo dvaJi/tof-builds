@@ -1,0 +1,15 @@
+{
+  "_id": 7,
+  "id": "coloring_book",
+  "name": "Libro para colorear",
+  "description": "El vendedor dijo que una vez que todas las páginas estén coloreadas, puedes cambiarlo por uno nuevo. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

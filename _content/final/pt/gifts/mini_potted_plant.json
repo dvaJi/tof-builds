@@ -1,0 +1,17 @@
+{
+  "_id": 18,
+  "id": "mini_potted_plant",
+  "name": "Minivaso de planta",
+  "description": "Um vaso de planta em miniatura. A planta é artificial e não requer os cuidados de uma planta natural. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

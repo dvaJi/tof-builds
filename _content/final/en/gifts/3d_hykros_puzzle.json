@@ -1,0 +1,22 @@
+{
+  "_id": 1,
+  "id": "3d_hykros_puzzle",
+  "name": "3d Hykros puzzle",
+  "description": "A puzzle that's sweeping Hykros. The novel appearance and gameplay are nothing but fun. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "king",
+    "meryl",
+    "samir",
+    "shiro",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene"
+  ]
+}

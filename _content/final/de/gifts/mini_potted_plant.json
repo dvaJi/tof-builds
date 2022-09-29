@@ -1,0 +1,17 @@
+{
+  "_id": 18,
+  "id": "mini_potted_plant",
+  "name": "Winzige Topfpflanze",
+  "description": "Miniatur-Topfpflanze. Bitte beachte, dass diese Pflanze künstlich ist und nicht gegossen werden muss. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

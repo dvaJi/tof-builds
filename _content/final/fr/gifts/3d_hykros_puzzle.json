@@ -1,0 +1,22 @@
+{
+  "_id": 1,
+  "id": "3d_hykros_puzzle",
+  "name": "Puzzle 3D d'Hykros",
+  "description": "Un puzzle qui se répand dans tout Hykros. Son aspect inédit et son gameplay en font un jeu très amusant. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "king",
+    "meryl",
+    "samir",
+    "shiro",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene"
+  ]
+}

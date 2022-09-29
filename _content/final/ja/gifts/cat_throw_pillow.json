@@ -1,0 +1,15 @@
+{
+  "_id": 5,
+  "id": "cat_throw_pillow",
+  "name": "ネコ型抱き枕",
+  "description": "ネコの形をした抱き枕。ぎゅっと抱きしめていると、気分がほんわかして癒される。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cocoritter",
+    "samir",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

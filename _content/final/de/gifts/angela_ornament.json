@@ -1,0 +1,21 @@
+{
+  "_id": 3,
+  "id": "angela_ornament",
+  "name": "Angela-Ornament",
+  "description": "Eine Miniaturnachbildung von Angela, der KI-Dienerin, die sogar ein Paar niedliche rosa Flügel auf ihrem Rücken hat. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "huma",
+    "pepper",
+    "nemesis"
+  ],
+  "characters": [
+    "crow",
+    "bailing",
+    "echo",
+    "ene",
+    "frigg"
+  ]
+}

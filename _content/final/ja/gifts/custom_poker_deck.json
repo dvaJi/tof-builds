@@ -1,0 +1,15 @@
+{
+  "_id": 10,
+  "id": "custom_poker_deck",
+  "name": "特製トランプ",
+  "description": "このトランプの作成者は不明だが、ルールを読むとかなりおもしろい人物であることが分かる。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

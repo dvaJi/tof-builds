@@ -1,0 +1,16 @@
+{
+  "name": "Music Box",
+  "id": "music_box",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "Cobalt-B",
+    "Frigg",
+    "Huma",
+    "Samir",
+    "Shiro",
+    "Zero",
+    "Echo",
+    "Ene"
+  ]
+}

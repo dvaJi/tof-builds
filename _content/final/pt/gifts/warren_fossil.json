@@ -1,0 +1,21 @@
+{
+  "_id": 39,
+  "id": "warren_fossil",
+  "name": "Fóssil de Warren",
+  "description": "Restos mortais antigos congelados, descobertos no Campo Nevado de Warren. Raríssimo e de grande valor colecionável. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "king",
+    "meryl",
+    "shiro",
+    "bailing"
+  ],
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "cocoritter",
+    "tsubasa",
+    "pepper"
+  ]
+}

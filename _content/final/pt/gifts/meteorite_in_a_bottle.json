@@ -1,0 +1,17 @@
+{
+  "_id": 17,
+  "id": "meteorite_in_a_bottle",
+  "name": "Meteorito engarrafado",
+  "description": "Um meteorito dentro de uma garrafa translúcida. Parece ser uma rocha espacial que não se incinerou e contém uma mistura de minerais. Emite um brilho fraco. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

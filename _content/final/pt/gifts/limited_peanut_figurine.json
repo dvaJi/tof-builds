@@ -1,0 +1,25 @@
+{
+  "_id": 14,
+  "id": "limited_peanut_figurine",
+  "name": "Miniatura limitada de Amendoim",
+  "description": "Uma miniatura raríssima com funções de armazenamento de dados e controle de volume. Por ser baseada na gatinha-robô Amendoim, faz sucesso entre os amantes de gatos. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "cocoritter",
+    "frigg",
+    "huma",
+    "crow",
+    "king",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene",
+    "hilda",
+    "pepper",
+    "nemesis"
+  ]
+}

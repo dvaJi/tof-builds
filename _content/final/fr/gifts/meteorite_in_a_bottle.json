@@ -1,0 +1,17 @@
+{
+  "_id": 17,
+  "id": "meteorite_in_a_bottle",
+  "name": "Météorite en bouteille",
+  "description": "Météorite dans une bouteille transparente. La météorite a l'air d'être composée d'une roche spatiale qui n'a pas brûlé et d'une sorte de mélange minéral qui émet une faible lueur. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

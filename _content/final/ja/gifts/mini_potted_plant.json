@@ -1,0 +1,17 @@
+{
+  "_id": 18,
+  "id": "mini_potted_plant",
+  "name": "ミニ盆栽",
+  "description": "鑑賞用のミニ植物。ただし本物ではなく、お世話いらずの人工観葉植物。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

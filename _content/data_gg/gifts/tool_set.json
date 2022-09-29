@@ -1,0 +1,11 @@
+{
+  "name": "Tool Set",
+  "id": "tool_set",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "Cobalt-B",
+    "Frigg",
+    "Shiro"
+  ]
+}

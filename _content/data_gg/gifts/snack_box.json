@@ -1,0 +1,15 @@
+{
+  "name": "Snack Box",
+  "id": "snack_box",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "Cobalt-B",
+    "Crow",
+    "King",
+    "Tsubasa",
+    "Zero",
+    "Echo",
+    "Hilda"
+  ]
+}

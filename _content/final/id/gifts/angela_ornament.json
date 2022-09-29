@@ -1,0 +1,21 @@
+{
+  "_id": 3,
+  "id": "angela_ornament",
+  "name": "Angela Ornament",
+  "description": "Replika miniatur Angela, si Smart Servant, yang bahkan menyertakan sepasang sayap merah jambu yang imut di punggungnya. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "huma",
+    "pepper",
+    "nemesis"
+  ],
+  "characters": [
+    "crow",
+    "bailing",
+    "echo",
+    "ene",
+    "frigg"
+  ]
+}

@@ -1,0 +1,708 @@
+[
+  {
+    "_id": 1,
+    "id": "3d_hykros_puzzle",
+    "name": "3D Hykros Puzzle",
+    "description": "Puzzle yang populer di Hykros. Penampilan dan gameplay barunya sangat menyenangkan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "king",
+      "meryl",
+      "samir",
+      "shiro",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 2,
+    "id": "aida_comic",
+    "name": "Aida Comic",
+    "description": "Berisi kisah petualangan Tata di Aida dalam terbitan bulanan. Jumlahnya yang terbatas dan kepopulerannya membuat orang berebutan setiap kali komik ini dirilis. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "crow",
+      "echo"
+    ],
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "frigg",
+      "huma",
+      "king",
+      "tsubasa",
+      "zero",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 3,
+    "id": "angela_ornament",
+    "name": "Angela Ornament",
+    "description": "Replika miniatur Angela, si Smart Servant, yang bahkan menyertakan sepasang sayap merah jambu yang imut di punggungnya. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "claudia",
+      "huma",
+      "pepper",
+      "nemesis"
+    ],
+    "characters": [
+      "crow",
+      "bailing",
+      "echo",
+      "ene",
+      "frigg"
+    ]
+  },
+  {
+    "_id": 4,
+    "id": "banges_specialty",
+    "name": "Banges Specialty",
+    "description": "Berisi berbagai ciri khas dari Banges, setiap kotak berisi koleksi acak untuk mewakili keragaman lokal. Tentu saja, itu berarti kita tak akan tahu persis apa yang akan kita dapatkan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "cocoritter",
+      "frigg",
+      "samir",
+      "shiro",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 5,
+    "id": "cat_throw_pillow",
+    "name": "Bantal Kucing",
+    "description": "Bantal berbentuk kucing. Sangat nyaman dan menenangkan saat dipeluk. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 6,
+    "id": "chess_set",
+    "name": "Set Catur",
+    "description": "Meskipun permainan ini untuk dua orang, beberapa orang sebenarnya lebih suka bermain sendiri. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 7,
+    "id": "coloring_book",
+    "name": "Buku Mewarnai",
+    "description": "Penjualnya pernah mengatakan bahwa setelah semua halamannya selesai diwarnai, kita boleh menukarkannya dengan yang baru. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 8,
+    "id": "crazy_dumont_figurine",
+    "name": "Crazy Dumont Figurine",
+    "description": "Tak ada yang tahu kapan tren patung Crazy Dumont dimulai. Pokoknya, tahu-tahu semua orang menginginkannya. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "crow",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 9,
+    "id": "crown_token",
+    "name": "Crown Token",
+    "description": "Koin peringatan terbatas yang diciptakan oleh Crown dengan potret pemilik tambang di bagian depan dan huruf \"K\" berhias di bagian belakang. Kumpulkan tujuh token ini dan dapatkan libur berbayar selama sehari—mungkin. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "cobaltb",
+      "king"
+    ],
+    "characters": [
+      "crow",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "hilda",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 10,
+    "id": "custom_poker_deck",
+    "name": "Custom Poker Deck",
+    "description": "Tak ada yang tahu siapa pembuat dek ini, tetapi menilai dari peraturan permainannya, pembuatnya pastilah orang yang sangat menarik. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 11,
+    "id": "dumbbells",
+    "name": "Dumbbell",
+    "description": "Alat untuk latihan beban dan sebagian besar digunakan untuk kebugaran—kecuali dalam situasi drastis tertentu... Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "shiro"
+    ]
+  },
+  {
+    "_id": 12,
+    "id": "flower_bouquet",
+    "name": "Buket Bunga",
+    "description": "Kumpulan bunga yang ditata dengan baik dan merupakan pilihan hadiah utama, tetapi orang yang punya alergi terhadap serbuk sari atau tidak menyukai tanaman harus berhati-hati. Bunga-bunga itu dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 13,
+    "id": "gem_necklace",
+    "name": "Kalung Permata",
+    "description": "Berapa harga kalung permata ini? Sudah, tak perlu dipikirkan. Pokoknya, simpan saja benda berharga ini! Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cobaltb",
+      "king",
+      "meryl",
+      "shiro",
+      "bailing",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 14,
+    "id": "limited_peanut_figurine",
+    "name": "Limited Peanut Figurine",
+    "description": "Patung miniatur yang sangat langka dengan fitur penyimpanan data dan kendali volume. Karena dibuat berdasarkan sosok Peanut si kucing, benda ini jadi populer di kalangan para pencinta kucing. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "cocoritter",
+      "frigg",
+      "huma",
+      "crow",
+      "king",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "ene",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 15,
+    "id": "limited_tata_figurine",
+    "name": "Limited Tata Figurine",
+    "description": "Patung koleksi terbatas, kenang-kenangan komik Aida. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "crow",
+      "hilda"
+    ],
+    "characters": [
+      "cobaltb",
+      "king",
+      "echo"
+    ]
+  },
+  {
+    "_id": 16,
+    "id": "metal_alf_figurine",
+    "name": "Metal Alf Figurine",
+    "description": "Agar benar-benar menyerupai Alf asli, para pembuatnya membuat yang ini dari logam. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "crow",
+      "shiro",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "meteorite_in_a_bottle",
+    "name": "Meteorite in a Bottle",
+    "description": "Meteorit dalam botol bening. Meteorit itu tampaknya adalah batu luar angkasa yang tak habis terbakar dan semacam campuran mineral yang memancarkan cahaya redup. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing"
+    ]
+  },
+  {
+    "_id": 18,
+    "id": "mini_potted_plant",
+    "name": "Mini Potted Plant",
+    "description": "Tanaman dalam pot mini. Harap ingat, ini tanaman palsu dan tak butuh pemeliharaan konvensional. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 19,
+    "id": "moonrabbit_kit",
+    "name": "Moonrabbit Kit",
+    "description": "Perlu dirakit. Berdasarkan sosok Moonrabbit. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 20,
+    "id": "music_box",
+    "name": "Music Box",
+    "description": "Kotak musik dari logam. Nadanya yang menyenangkan sudah tidak terdengar, mungkin karena pemilik sebelumnya merusakkannya. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "huma",
+      "samir",
+      "shiro",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 21,
+    "id": "new_game_console",
+    "name": "New Game Console",
+    "description": "Konsol game canggih yang baru, dirancang oleh seorang ahli komputer. Tingginya biaya produksi menyebabkan konsol ini jadi langka. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "zero",
+      "echo"
+    ],
+    "characters": [
+      "cobaltb",
+      "huma",
+      "crow",
+      "king",
+      "samir",
+      "tsubasa",
+      "ene",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 22,
+    "id": "new_kalka_ornament",
+    "name": "New Kalka Ornament",
+    "description": "Karena banyak menerima keluhan yang memprotes penghentian produksi patung Kalka yang lama, para pembuatnya memutuskan untuk menawarkan versi baru. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 23,
+    "id": "nice_picture_frame",
+    "name": "Nice Picture Frame",
+    "description": "Khusus untuk menyimpan foto-foto berharga sehingga dibuat dari bahan khusus yang sulit dibongkar. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 24,
+    "id": "paper_pinwheel",
+    "name": "Paper Pinwheel",
+    "description": "Meskipun benar-benar biasa, mainan ini tak pernah gagal memberikan kenyamanan dan kegembiraan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 25,
+    "id": "perfume_bottle",
+    "name": "Botol Parfum",
+    "description": "Tabung kaca yang indah dan elegan, berisi cairan beraroma harum. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 26,
+    "id": "plush_toy",
+    "name": "Boneka",
+    "description": "Boneka kesukaan anak-anak. Bentuknya menggemaskan dan aromanya mengingatkan kita pada hari yang hangat dan cerah. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "tsubasa"
+    ],
+    "characters": [
+      "cocoritter",
+      "samir",
+      "zero",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 27,
+    "id": "postcard_of_aida",
+    "name": "Postcard of Aida",
+    "description": "Menampilkan berbagai pemandangan yang ada di Aida. Terlepas dari polusi radiasi Omnium dan kondisi buruk lainnya, masih ada pemandangan yang pantas dilestarikan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing"
+    ]
+  },
+  {
+    "_id": 28,
+    "id": "retro_harmonica",
+    "name": "Retro Harmonica",
+    "description": "Untuk memainkan melodi yang indah. Karena sulit didapat, hanya ada beberapa orang di Aida yang benar-benar bisa memainkannya. Saat ini, benda ini mungkin hanya disukai oleh pencinta musik sejati. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing",
+      "echo"
+    ]
+  },
+  {
+    "_id": 29,
+    "id": "silver_cookware",
+    "name": "Silver Cookware",
+    "description": "Set lengkap peralatan memasak yang tampak mahal. Menurut kabar, dulu ini milik koki psikopat yang tak pernah membiarkan siapa pun menyentuh benda berharga tersebut. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "cobaltb",
+      "shiro"
+    ],
+    "characters": [
+      "king",
+      "meryl",
+      "bailing",
+      "frigg",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 30,
+    "id": "smarty_doll",
+    "name": "Smarty Doll",
+    "description": "Mainan yang dibuat menyerupai sosok Smarty. Para pembuatnya mengganti tanaman palsu di kepalanya dengan tanaman asli sehingga membuatnya patut dikoleksi. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "cocoritter",
+      "king",
+      "meryl",
+      "samir",
+      "shiro",
+      "bailing",
+      "ene",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 31,
+    "id": "snack_box",
+    "name": "Snack Box",
+    "description": "Snack Box yang dibuat oleh Fennie di Astra ini berisi bermacam-macam makanan lezat. Hadiah yang sangat populer di seantero sektor. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cobaltb",
+      "crow",
+      "king",
+      "tsubasa",
+      "zero",
+      "echo",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 32,
+    "id": "snow_globe",
+    "name": "Snow Globe",
+    "description": "Benda yang berasal dari Warren Snowfield ini memantulkan tampilan salju putih selama musim dingin. Kini benda ini dibuat ulang menjadi hiasan rumah. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "claudia",
+      "bailing"
+    ],
+    "characters": [
+      "huma",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 33,
+    "id": "spirit_princess_figurine",
+    "name": "Spirit Princess Figurine",
+    "description": "Patung miniatur berdasarkan Spirit Princess, si Smart Servant. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "crow",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 34,
+    "id": "tailormade_suit",
+    "name": "Tailor-made Suit",
+    "description": "Setelan yang dibuat khusus, lebih halus dan licin ketimbang jenis biasa, dan ditambah dengan aksesori. Orang-orang yang bergaya dramatis pasti menyukainya. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 35,
+    "id": "tartarus_ornament",
+    "name": "Tartarus Ornament",
+    "description": "Patung miniatur yang bentuknya menyerupai Tartarus. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 36,
+    "id": "tool_set",
+    "name": "Tool Set",
+    "description": "Dirancang untuk tujuan praktis dan siap digunakan. Mungkin juga bisa digunakan sebagai suku cadang. Mendapat acungan jempol dari para teknisi karena begitu serbaguna. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "shiro"
+    ]
+  },
+  {
+    "_id": 37,
+    "id": "vitamin_pack",
+    "name": "Paket Vitamin",
+    "description": "Suplemen kesehatan. Suatu keharusan bagi orang-orang yang bekerja terlalu lama atau terlalu asyik bermain game sampai-sampai tidak sempat makan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "frigg",
+      "huma",
+      "crow",
+      "echo",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 38,
+    "id": "void_angel_figurine",
+    "name": "Void Angel Figurine",
+    "description": "Patung miniatur yang menyerupai Void Angel. Seluruhnya berwarna putih dan membutuhkan perawatan khusus agar tetap bersih. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "tsubasa"
+    ],
+    "characters": [
+      "claudia",
+      "crow",
+      "king",
+      "meryl",
+      "shiro",
+      "bailing",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 39,
+    "id": "warren_fossil",
+    "name": "Warren Fossil",
+    "description": "Peninggalan kuno yang tersegel dalam es ini ditemukan di Warren Snowfield. Sangat langka dan patut dikoleksi. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "king",
+      "meryl",
+      "shiro",
+      "bailing"
+    ],
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "cocoritter",
+      "tsubasa",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 40,
+    "id": "wool_scarf",
+    "name": "Syal Wol",
+    "description": "Mestinya dibuat dari wol olahan, tetapi karena sekarang wol sudah tak ada lagi, \"wol\" yang dipakai sebenarnya adalah bahan komposit. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  }
+]

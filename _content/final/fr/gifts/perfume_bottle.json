@@ -1,0 +1,17 @@
+{
+  "_id": 25,
+  "id": "perfume_bottle",
+  "name": "Bouteille de parfum",
+  "description": "Joli et élégant flacon en verre contenant un liquide agréablement parfumé. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

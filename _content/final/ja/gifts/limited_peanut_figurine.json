@@ -1,0 +1,25 @@
+{
+  "_id": 14,
+  "id": "limited_peanut_figurine",
+  "name": "限定版ピーナッツ",
+  "description": "データ保存と音声認識機能付きの超レアフィギュア。ネコ型のピーナッツをモデルにしていて、ネコ好きにも大人気。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "cocoritter",
+    "frigg",
+    "huma",
+    "crow",
+    "king",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene",
+    "hilda",
+    "pepper",
+    "nemesis"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_id": 38,
+  "id": "void_angel_figurine",
+  "name": "Miniatura de Anja do Vazio",
+  "description": "Uma miniatura baseada na Anja do Vazio. É toda branca, então precisa de muito cuidado para não manchar. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "tsubasa"
+  ],
+  "characters": [
+    "claudia",
+    "crow",
+    "king",
+    "meryl",
+    "shiro",
+    "bailing",
+    "hilda"
+  ]
+}

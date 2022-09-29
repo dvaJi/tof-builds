@@ -13,6 +13,7 @@ const MapsDATA_PATH = path.join(__dirname, "..", "..", "maps");
 export let allMatricesMap = {};
 
 export async function main(textMap, locale) {
+  allMatricesMap = {};
   const matrices = JSON.parse(
     fs.readFileSync(path.join(MapsDATA_PATH, `matrices.json`))
   );

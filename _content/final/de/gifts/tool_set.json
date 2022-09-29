@@ -1,0 +1,13 @@
+{
+  "_id": 36,
+  "id": "tool_set",
+  "name": "Werkzeugsatz",
+  "description": "Für praktische Zwecke stets einsatzbereit. Kann auch als Ersatzteil verwendet werden. Viele Techniker lieben seine Vielseitigkeit. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cobaltb",
+    "frigg",
+    "shiro"
+  ]
+}

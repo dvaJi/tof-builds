@@ -1,0 +1,17 @@
+{
+  "_id": 23,
+  "id": "nice_picture_frame",
+  "name": "美しいフォトフレーム",
+  "description": "大切な記念写真を飾るフレームが壊れないように、特殊な構造で作られている。分解は至難の業であり、変に試さない方がいい。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

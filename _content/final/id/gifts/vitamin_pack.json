@@ -1,0 +1,16 @@
+{
+  "_id": 37,
+  "id": "vitamin_pack",
+  "name": "Paket Vitamin",
+  "description": "Suplemen kesehatan. Suatu keharusan bagi orang-orang yang bekerja terlalu lama atau terlalu asyik bermain game sampai-sampai tidak sempat makan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "frigg",
+    "huma",
+    "crow",
+    "echo",
+    "pepper"
+  ]
+}

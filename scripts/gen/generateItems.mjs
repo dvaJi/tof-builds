@@ -12,6 +12,7 @@ const MapsDATA_PATH = path.join(__dirname, "..", "..", "maps");
 export let allItemsMap = {};
 
 export async function main(textMap, locale) {
+  allItemsMap = {};
   const items = JSON.parse(
     fs.readFileSync(path.join(MapsDATA_PATH, `items.json`))
   );

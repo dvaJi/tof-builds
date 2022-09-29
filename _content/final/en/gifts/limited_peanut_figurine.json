@@ -1,0 +1,25 @@
+{
+  "_id": 14,
+  "id": "limited_peanut_figurine",
+  "name": "Limited Peanut figurine",
+  "description": "Very rare miniature figurine with data storage and volume control features. Since it's based on the feline Peanut, it's popular among cat lovers. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "cocoritter",
+    "frigg",
+    "huma",
+    "crow",
+    "king",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene",
+    "hilda",
+    "pepper",
+    "nemesis"
+  ]
+}

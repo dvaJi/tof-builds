@@ -1,0 +1,13 @@
+{
+  "_id": 36,
+  "id": "tool_set",
+  "name": "Tool Set",
+  "description": "Dirancang untuk tujuan praktis dan siap digunakan. Mungkin juga bisa digunakan sebagai suku cadang. Mendapat acungan jempol dari para teknisi karena begitu serbaguna. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cobaltb",
+    "frigg",
+    "shiro"
+  ]
+}

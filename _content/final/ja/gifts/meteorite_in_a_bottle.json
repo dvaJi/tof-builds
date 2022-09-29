@@ -1,0 +1,17 @@
+{
+  "_id": 17,
+  "id": "meteorite_in_a_bottle",
+  "name": "隕石ボトル",
+  "description": "宇宙の流星の燃え残りのような隕石が入った透明な瓶。石鉄混合の物質で、淡い光を放っている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

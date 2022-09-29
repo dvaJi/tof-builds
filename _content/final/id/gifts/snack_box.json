@@ -1,0 +1,17 @@
+{
+  "_id": 31,
+  "id": "snack_box",
+  "name": "Snack Box",
+  "description": "Snack Box yang dibuat oleh Fennie di Astra ini berisi bermacam-macam makanan lezat. Hadiah yang sangat populer di seantero sektor. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "cobaltb",
+    "crow",
+    "king",
+    "tsubasa",
+    "zero",
+    "echo",
+    "hilda"
+  ]
+}

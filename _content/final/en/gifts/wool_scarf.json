@@ -1,0 +1,17 @@
+{
+  "_id": 40,
+  "id": "wool_scarf",
+  "name": "Wool scarf",
+  "description": "It's supposed to be made of processed wool, but since that is now obsolete, the \"wool\" is actually a composite material. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

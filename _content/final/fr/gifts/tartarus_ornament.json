@@ -1,0 +1,17 @@
+{
+  "_id": 35,
+  "id": "tartarus_ornament",
+  "name": "Décoration Tartarus",
+  "description": "Une petite figurine qui reprendrait la forme de Tartarus. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

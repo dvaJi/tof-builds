@@ -1,0 +1,15 @@
+{
+  "_id": 6,
+  "id": "chess_set",
+  "name": "Chess set",
+  "description": "A game for two players, though some people actually prefer playing by themselves. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

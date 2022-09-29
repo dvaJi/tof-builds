@@ -1,0 +1,13 @@
+{
+  "_id": 33,
+  "id": "spirit_princess_figurine",
+  "name": "Figura de Princesa espiritual",
+  "description": "Una miniatura basada en la Princesa espiritual, la sirviente inteligente. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

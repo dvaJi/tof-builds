@@ -1,0 +1,15 @@
+{
+  "_id": 24,
+  "id": "paper_pinwheel",
+  "name": "Cata-vento de papel",
+  "description": "Um brinquedo comum, mais simples, impossível. Mesmo assim, nunca falha em trazer tranquilidade e alegria. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "cocoritter",
+    "samir",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

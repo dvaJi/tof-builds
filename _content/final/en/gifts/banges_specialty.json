@@ -1,0 +1,18 @@
+{
+  "_id": 4,
+  "id": "banges_specialty",
+  "name": "Banges specialty",
+  "description": "Contains various specialties from Banges, each box a random selection to represent local diversity. Of course, that means you never know exactly what you're going to get. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "frigg",
+    "samir",
+    "shiro",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

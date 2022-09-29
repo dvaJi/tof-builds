@@ -1,0 +1,20 @@
+{
+  "_id": 38,
+  "id": "void_angel_figurine",
+  "name": "虚無の天使のフィギュア",
+  "description": "虚無の天使がモデルになっている真っ白なフィギュア。こまめなお手入れが必要。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "tsubasa"
+  ],
+  "characters": [
+    "claudia",
+    "crow",
+    "king",
+    "meryl",
+    "shiro",
+    "bailing",
+    "hilda"
+  ]
+}

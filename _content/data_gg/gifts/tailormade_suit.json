@@ -1,0 +1,15 @@
+{
+  "name": "Tailor-Made Suit",
+  "id": "tailormade_suit",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "Claudia",
+    "Huma",
+    "Crow",
+    "Echo",
+    "Frigg",
+    "Pepper",
+    "Nemesis"
+  ]
+}

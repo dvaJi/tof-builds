@@ -1,0 +1,13 @@
+{
+  "name": "Chess Set",
+  "id": "chess_set",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "Huma",
+    "Samir",
+    "Zero",
+    "Echo",
+    "Ene"
+  ]
+}

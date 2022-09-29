@@ -1,0 +1,22 @@
+{
+  "_id": 1,
+  "id": "3d_hykros_puzzle",
+  "name": "Quebra-cabeça 3D da Hykros",
+  "description": "Um quebra-cabeça que retrata Hykros. O visual diferente e o jeito de montar são divertidos. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "king",
+    "meryl",
+    "samir",
+    "shiro",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene"
+  ]
+}

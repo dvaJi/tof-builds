@@ -1,0 +1,17 @@
+{
+  "_id": 27,
+  "id": "postcard_of_aida",
+  "name": "Cartão-postal de Aida",
+  "description": "Mostra vários locais de Aida. Apesar da radiação de Omnium e outras condições adversas, ainda existem belas paisagens a se preservarem. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

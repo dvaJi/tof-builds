@@ -1,0 +1,15 @@
+{
+  "name": "Limited Tata Figurine",
+  "id": "limited_tata_figurine",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "Crow",
+    "Hilda"
+  ],
+  "characters": [
+    "Cobalt-B",
+    "King",
+    "Echo"
+  ]
+}

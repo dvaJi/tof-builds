@@ -1,0 +1,19 @@
+{
+  "name": "Warren Fossil",
+  "id": "warren_fossil",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "King",
+    "Meryl",
+    "Shiro",
+    "Bai Ling"
+  ],
+  "characters": [
+    "Cobalt-B",
+    "Claudia",
+    "Cocoritter",
+    "Tsubasa",
+    "Pepper"
+  ]
+}

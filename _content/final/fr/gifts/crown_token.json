@@ -1,0 +1,23 @@
+{
+  "_id": 9,
+  "id": "crown_token",
+  "name": "Jeton de Crown",
+  "description": "Pièces commémoratives en édition limitée, frappées par Crown, avec un portrait du propriétaire de la mine au recto et un \"K\" stylisé au verso. Rassemblez sept de ces pièces pour (peut-être) gagner un jour de congé payé. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cobaltb",
+    "king"
+  ],
+  "characters": [
+    "crow",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "hilda",
+    "pepper"
+  ]
+}

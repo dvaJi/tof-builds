@@ -1,0 +1,13 @@
+{
+  "_id": 8,
+  "id": "crazy_dumont_figurine",
+  "name": "Verrückte Dumont-Figur",
+  "description": "Niemand weiß, wann der Hype um die verrückte Dumont-Figur begonnen hat, aber auf einmal wollte jeder eine. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

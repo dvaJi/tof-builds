@@ -1,0 +1,14 @@
+{
+  "name": "Vitamin Pack",
+  "id": "vitamin_pack",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "Claudia",
+    "Frigg",
+    "Huma",
+    "Crow",
+    "Echo",
+    "Pepper"
+  ]
+}

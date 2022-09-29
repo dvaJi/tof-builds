@@ -1,6 +1,6 @@
 [
   {
-    "_id": 24,
+    "_id": 1,
     "id": "icecore",
     "name": "Cryonoyau",
     "description": "Éclats chargés d'un pouvoir élémentaire de glace, clairs comme du cristal.",
@@ -8,7 +8,7 @@
     "rarity": "N"
   },
   {
-    "_id": 24,
+    "_id": 2,
     "id": "heart_of_winter",
     "name": "Cœur de l'hiver",
     "description": "Minerai rare chargé d'un pouvoir élémentaire de glace. L'élément de glace extrêmement pur qu'il contient lui procure ce bleu profond.",
@@ -16,7 +16,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 3,
     "id": "nano_coating_i",
     "name": "Nanorevêtement I",
     "description": "Revêtement développé à partir d'une nouvelle technologie qui améliore légèrement les performances de l'arme.",
@@ -24,7 +24,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 4,
     "id": "nano_coating_ii",
     "name": "Nanorevêtement II",
     "description": "Revêtement redéveloppé après de nouvelles recherches pour améliorer les performances de l'arme.",
@@ -32,20 +32,20 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 5,
     "id": "nano_coating_iii",
     "name": "Nanorevêtement III",
     "description": "Revêtement développé à partir d'une technologie exclusive d'Hykros pour améliorer considérablement les performances des armes.",
     "usage": "Pour le perfectionnement des armes."
   },
   {
-    "_id": 24,
+    "_id": 6,
     "id": "nano_coating_iv",
     "name": "Nanorevêtement IV",
     "usage": "Pour le perfectionnement des armes."
   },
   {
-    "_id": 24,
+    "_id": 7,
     "id": "booster_frame_i",
     "name": "Cadre d'amplification I",
     "description": "Cadre fortifié développé à partir d'une nouvelle technologie qui améliore légèrement les performances de l'arme.",
@@ -53,7 +53,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 8,
     "id": "booster_frame_ii",
     "name": "Cadre d'amplification II",
     "description": "Cadre développé après de nouvelles recherches pour améliorer les performances de l'arme.",
@@ -61,20 +61,20 @@
     "rarity": "SSR"
   },
   {
-    "_id": 24,
+    "_id": 9,
     "id": "booster_frame_iii",
     "name": "Cadre d'amplification III",
     "description": "Cadre renforcé développé à partir d'une technologie exclusive d'Hykros pour améliorer considérablement les performances des armes.",
     "usage": "Pour le perfectionnement des armes."
   },
   {
-    "_id": 24,
+    "_id": 10,
     "id": "booster_frame_iv",
     "name": "Cadre d'amplification IV",
     "usage": "Pour le perfectionnement des armes."
   },
   {
-    "_id": 24,
+    "_id": 11,
     "id": "rockcore",
     "name": "Pétranoyau",
     "description": "Éclats extrêmement durs formés sous l'influence de l'omnium, d'apparence terne.",
@@ -82,21 +82,21 @@
     "rarity": "N"
   },
   {
-    "_id": 24,
+    "_id": 12,
     "id": "heart_of_summit",
     "name": "Cœur du sommet",
     "description": "Minerai rare et extrêmement dur qui nécessite une technologie spéciale à base d'omnium pour être forgé.",
     "usage": "Pour le perfectionnement des armes."
   },
   {
-    "_id": 24,
+    "_id": 13,
     "id": "landsource",
     "name": "Géosource",
     "description": "Minerai rare, dense et dur. Le cristal transparent émet parfois une minuscule impulsion non identifiée, comme un battement de cœur.",
     "usage": "Pour le perfectionnement des armes."
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_i",
     "name": "Vernis antiacide I",
     "description": "Matériau antiacide développé à partir d'une nouvelle technologie qui améliore légèrement les performances de l'arme.",
@@ -104,7 +104,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_ii",
     "name": "Vernis antiacide II",
     "description": "Vernis développé après de nouvelles recherches pour améliorer les performances de l'arme.",
@@ -112,7 +112,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_iii",
     "name": "Vernis antiacide III",
     "description": "Vernis développé à partir d'une technologie exclusive d'Hykros pour améliorer considérablement les performances des armes.",
@@ -120,13 +120,13 @@
     "rarity": "SSR"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_iv",
     "name": "Vernis antiacide IV",
     "usage": "Pour le perfectionnement des armes."
   },
   {
-    "_id": 24,
+    "_id": 18,
     "id": "nanofiber_frame_i",
     "name": "Cadre en nanofibres I",
     "description": "Cadre premium développé à partir d'une nouvelle technologie pour améliorer légèrement les performances de l'arme.",
@@ -134,7 +134,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 19,
     "id": "nanofiber_frame_ii",
     "name": "Cadre en nanofibres II",
     "description": "Cadre premium développé après de nouvelles recherches pour améliorer les performances de l'arme.",
@@ -142,7 +142,7 @@
     "rarity": "SSR"
   },
   {
-    "_id": 24,
+    "_id": 20,
     "id": "magcore",
     "name": "Magnoyau",
     "description": "Éclats chargés d'une puissance élémentaire de volt qui brillent faiblement dans l'obscurité.",
@@ -158,7 +158,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 22,
     "id": "firecore",
     "name": "Pyronoyau",
     "description": "Éclats chargés d'un pouvoir élémentaire de feu. Leur fusion dégage une légère chaleur.",
@@ -166,7 +166,7 @@
     "rarity": "N"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "heart_of_lava",
     "name": "Cœur de lave",
     "description": "Minerai rare chargé d'un pouvoir élémentaire de feu. Sa rougeur ardente suffit à témoigner sa puissance.",

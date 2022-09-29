@@ -1,0 +1,15 @@
+{
+  "_id": 19,
+  "id": "moonrabbit_kit",
+  "name": "Moonrabbit kit",
+  "description": "Assembly required. Based on the image of moonrabbit. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cocoritter",
+    "samir",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

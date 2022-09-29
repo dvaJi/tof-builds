@@ -1,0 +1,17 @@
+{
+  "_id": 23,
+  "id": "nice_picture_frame",
+  "name": "Nice Picture Frame",
+  "description": "Khusus untuk menyimpan foto-foto berharga sehingga dibuat dari bahan khusus yang sulit dibongkar. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

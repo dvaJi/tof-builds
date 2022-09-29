@@ -1,0 +1,21 @@
+{
+  "_id": 3,
+  "id": "angela_ornament",
+  "name": "アンジェラのオブジェ",
+  "description": "AIサーバント・アンジェラのミニオブジェ。背中のピンク色のかわいい羽根も再現されている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "huma",
+    "pepper",
+    "nemesis"
+  ],
+  "characters": [
+    "crow",
+    "bailing",
+    "echo",
+    "ene",
+    "frigg"
+  ]
+}

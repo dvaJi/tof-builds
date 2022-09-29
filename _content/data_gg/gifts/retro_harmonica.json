@@ -1,0 +1,16 @@
+{
+  "name": "Retro Harmonica",
+  "id": "retro_harmonica",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "Claudia",
+    "Cocoritter",
+    "King",
+    "Meryl",
+    "Shiro",
+    "Tsubasa",
+    "Bai Ling",
+    "Echo"
+  ]
+}

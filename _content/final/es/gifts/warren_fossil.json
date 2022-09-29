@@ -1,0 +1,21 @@
+{
+  "_id": 39,
+  "id": "warren_fossil",
+  "name": "Fósil de Warren",
+  "description": "Restos ancestrales sellados en hielo, descubiertos en el Campo de Nieve de Warren. Muy poco común y altamente coleccionable. Son producidos en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "king",
+    "meryl",
+    "shiro",
+    "bailing"
+  ],
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "cocoritter",
+    "tsubasa",
+    "pepper"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Crown Token",
+  "id": "crown_token",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "Cobalt-B",
+    "King"
+  ],
+  "characters": [
+    "Crow",
+    "Meryl",
+    "Shiro",
+    "Tsubasa",
+    "Zero",
+    "Bai Ling",
+    "Echo",
+    "Hilda",
+    "Pepper"
+  ]
+}

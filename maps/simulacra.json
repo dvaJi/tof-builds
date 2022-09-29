@@ -1047,6 +1047,7 @@
     "pvp_constellation": 6,
     "tier_pending": false,
     "role": "Main DPS",
+    "resonance": "DPS",
     "shatter": 8,
     "charge": 8,
     "builds": [

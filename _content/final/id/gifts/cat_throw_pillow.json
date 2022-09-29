@@ -1,0 +1,15 @@
+{
+  "_id": 5,
+  "id": "cat_throw_pillow",
+  "name": "Bantal Kucing",
+  "description": "Bantal berbentuk kucing. Sangat nyaman dan menenangkan saat dipeluk. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cocoritter",
+    "samir",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

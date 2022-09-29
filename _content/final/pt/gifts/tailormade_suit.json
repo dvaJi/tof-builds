@@ -1,0 +1,17 @@
+{
+  "_id": 34,
+  "id": "tailormade_suit",
+  "name": "Terno sob medida",
+  "description": "Um terno feito sob medida, mais sofisticado e delicado do que os comuns. Ainda vem com acessórios para dar um charme. Costuma agradar a quem gosta de um estilo mais formal. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

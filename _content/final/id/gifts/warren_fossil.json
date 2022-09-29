@@ -1,0 +1,21 @@
+{
+  "_id": 39,
+  "id": "warren_fossil",
+  "name": "Warren Fossil",
+  "description": "Peninggalan kuno yang tersegel dalam es ini ditemukan di Warren Snowfield. Sangat langka dan patut dikoleksi. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "king",
+    "meryl",
+    "shiro",
+    "bailing"
+  ],
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "cocoritter",
+    "tsubasa",
+    "pepper"
+  ]
+}

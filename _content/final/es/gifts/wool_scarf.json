@@ -1,0 +1,17 @@
+{
+  "_id": 40,
+  "id": "wool_scarf",
+  "name": "Bufanda de lana",
+  "description": "Se supone que está hecha de lana procesada, pero dado que se volvió obsoleta, la lana es en realidad un material compuesto. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

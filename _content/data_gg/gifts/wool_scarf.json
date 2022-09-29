@@ -1,0 +1,15 @@
+{
+  "name": "Wool Scarf",
+  "id": "wool_scarf",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "Claudia",
+    "Huma",
+    "Crow",
+    "Echo",
+    "Frigg",
+    "Pepper",
+    "Nemesis"
+  ]
+}

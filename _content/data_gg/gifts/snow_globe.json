@@ -1,0 +1,20 @@
+{
+  "name": "Snow Globe",
+  "id": "snow_globe",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "Claudia",
+    "Bai Ling"
+  ],
+  "characters": [
+    "Huma",
+    "King",
+    "Meryl",
+    "Shiro",
+    "Tsubasa",
+    "Ene",
+    "Pepper",
+    "Nemesis"
+  ]
+}

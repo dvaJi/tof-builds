@@ -1,0 +1,18 @@
+{
+  "_id": 20,
+  "id": "music_box",
+  "name": "Caixinha de música",
+  "description": "Uma caixinha de música metálica. Não se sabe se estragou ou o que foi que aconteceu, mas a melodia agradável não existe mais. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "frigg",
+    "huma",
+    "samir",
+    "shiro",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

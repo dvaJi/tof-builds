@@ -14,7 +14,7 @@
     "element": "Physical",
     "rarity": "SR",
     "role": "Main DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 6,
     "charge": 10,
     "skills": [
@@ -175,7 +175,7 @@
     "element": "Ice",
     "rarity": "SSR",
     "role": "Utility",
-    "resonance": "[ダメージ]",
+    "resonance": "Support",
     "shatter": 4,
     "charge": 12.5,
     "skills": [
@@ -460,7 +460,7 @@
     "element": "Volt",
     "rarity": "SSR",
     "role": "Main DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 6,
     "charge": 8,
     "skills": [
@@ -745,7 +745,7 @@
     "element": "Volt",
     "rarity": "SR",
     "role": "Shieldbreaking",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 11,
     "charge": 7,
     "skills": [
@@ -923,7 +923,7 @@
     "element": "Ice",
     "rarity": "SR",
     "role": "Tank",
-    "resonance": "[ダメージ]",
+    "resonance": "Defense",
     "shatter": 10,
     "charge": 6,
     "skills": [
@@ -1099,7 +1099,7 @@
     "element": "Ice",
     "rarity": "SSR",
     "role": "Main DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 8,
     "charge": 8,
     "skills": [
@@ -1378,7 +1378,7 @@
     "element": "Ice",
     "rarity": "SR",
     "role": "Main DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 10,
     "charge": 10,
     "skills": [
@@ -1508,7 +1508,7 @@
     "element": "Fire",
     "rarity": "SSR",
     "role": "Tank",
-    "resonance": "[ダメージ]",
+    "resonance": "Defense",
     "shatter": 10,
     "charge": 10,
     "skills": [
@@ -1784,7 +1784,7 @@
     "element": "Fire",
     "rarity": "SSR",
     "role": "Shieldbreaking",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 12.5,
     "charge": 5,
     "skills": [
@@ -2077,7 +2077,7 @@
     "element": "Ice",
     "rarity": "SSR",
     "role": "Shieldbreaking",
-    "resonance": "[ダメージ]",
+    "resonance": "Defense",
     "shatter": 12,
     "charge": 4,
     "skills": [
@@ -2377,7 +2377,7 @@
     "element": "Volt",
     "rarity": "SSR",
     "role": "Utility",
-    "resonance": "[ダメージ]",
+    "resonance": "Support",
     "shatter": 6,
     "charge": 8,
     "skills": [
@@ -2665,7 +2665,7 @@
     "element": "Volt",
     "rarity": "SR",
     "role": "Utility",
-    "resonance": "[ダメージ]",
+    "resonance": "Support",
     "shatter": 4,
     "charge": 10,
     "skills": [
@@ -2835,7 +2835,7 @@
     "element": "Volt",
     "rarity": "SSR",
     "role": "Main DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 6,
     "charge": 10.7,
     "skills": [
@@ -3111,7 +3111,7 @@
     "element": "Physical",
     "rarity": "SSR",
     "role": "Sub DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 11.7,
     "charge": 6,
     "skills": [
@@ -3395,7 +3395,7 @@
     "element": "Ice",
     "rarity": "SSR",
     "role": "Main DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 4,
     "charge": 11.5,
     "skills": [
@@ -3671,7 +3671,7 @@
     "element": "Fire",
     "rarity": "SSR",
     "role": "Utility",
-    "resonance": "[ダメージ]",
+    "resonance": "Support",
     "shatter": 5,
     "charge": 13,
     "skills": [
@@ -3961,7 +3961,7 @@
     "element": "Physical",
     "rarity": "SSR",
     "role": "Sub DPS",
-    "resonance": "[ダメージ]",
+    "resonance": "DPS",
     "shatter": 7.5,
     "charge": 12,
     "skills": [

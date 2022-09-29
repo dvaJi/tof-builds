@@ -1,0 +1,22 @@
+{
+  "_id": 1,
+  "id": "3d_hykros_puzzle",
+  "name": "Rompecabezas 3 d de Hykros",
+  "description": "Un rompecabezas que causa furor en Hykros. La novedosa apariencia y jugabilidad son muy entretenidos. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "king",
+    "meryl",
+    "samir",
+    "shiro",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 4,
+  "id": "banges_specialty",
+  "name": "Banges Specialty",
+  "description": "Berisi berbagai ciri khas dari Banges, setiap kotak berisi koleksi acak untuk mewakili keragaman lokal. Tentu saja, itu berarti kita tak akan tahu persis apa yang akan kita dapatkan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "frigg",
+    "samir",
+    "shiro",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

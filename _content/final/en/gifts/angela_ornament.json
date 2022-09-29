@@ -1,0 +1,21 @@
+{
+  "_id": 3,
+  "id": "angela_ornament",
+  "name": "Angela ornament",
+  "description": "A miniature replica of Angela, the smart servant, that even includes the pair of cute pink wings on her back. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "huma",
+    "pepper",
+    "nemesis"
+  ],
+  "characters": [
+    "crow",
+    "bailing",
+    "echo",
+    "ene",
+    "frigg"
+  ]
+}

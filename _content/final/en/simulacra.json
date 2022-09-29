@@ -177,7 +177,7 @@
     "element": "Ice",
     "rarity": "SSR",
     "role": "Utility",
-    "resonance": "DPS",
+    "resonance": "Support",
     "shatter": 4,
     "charge": 12.5,
     "skills": [
@@ -928,7 +928,7 @@
     "element": "Ice",
     "rarity": "SR",
     "role": "Tank",
-    "resonance": "DPS",
+    "resonance": "Defense",
     "shatter": 10,
     "charge": 6,
     "skills": [
@@ -1516,7 +1516,7 @@
     "element": "Fire",
     "rarity": "SSR",
     "role": "Tank",
-    "resonance": "DPS",
+    "resonance": "Defense",
     "shatter": 10,
     "charge": 10,
     "skills": [
@@ -2087,7 +2087,7 @@
     "element": "Ice",
     "rarity": "SSR",
     "role": "Shieldbreaking",
-    "resonance": "DPS",
+    "resonance": "Defense",
     "shatter": 12,
     "charge": 4,
     "skills": [
@@ -2388,7 +2388,7 @@
     "element": "Volt",
     "rarity": "SSR",
     "role": "Utility",
-    "resonance": "DPS",
+    "resonance": "Support",
     "shatter": 6,
     "charge": 8,
     "skills": [
@@ -2677,7 +2677,7 @@
     "element": "Volt",
     "rarity": "SR",
     "role": "Utility",
-    "resonance": "DPS",
+    "resonance": "Support",
     "shatter": 4,
     "charge": 10,
     "skills": [
@@ -3687,7 +3687,7 @@
     "element": "Fire",
     "rarity": "SSR",
     "role": "Utility",
-    "resonance": "DPS",
+    "resonance": "Support",
     "shatter": 5,
     "charge": 13,
     "skills": [

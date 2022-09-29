@@ -1,0 +1,15 @@
+{
+  "_id": 16,
+  "id": "metal_alf_figurine",
+  "name": "Alf-Figur aus Metall",
+  "description": "Die Hersteller haben Metall verwendet, damit sie dem ursprünglichen Alf ähnelt. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "crow",
+    "shiro",
+    "tsubasa",
+    "hilda"
+  ]
+}

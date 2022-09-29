@@ -1,0 +1,18 @@
+{
+  "_id": 4,
+  "id": "banges_specialty",
+  "name": "Caixa misteriosa de Banges",
+  "description": "Contém diversas especialidades de Banges. Cada caixa tem uma seleção aleatória para representar a diversidade local. Claro, isso significa que não dá para saber o que vai ter na sua. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "frigg",
+    "samir",
+    "shiro",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

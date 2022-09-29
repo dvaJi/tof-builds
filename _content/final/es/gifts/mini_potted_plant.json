@@ -1,0 +1,17 @@
+{
+  "_id": 18,
+  "id": "mini_potted_plant",
+  "name": "Miniplanta en maceta",
+  "description": "Una planta miniatura en una maceta. La planta es artificial y no requiere cuidados adicionales. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

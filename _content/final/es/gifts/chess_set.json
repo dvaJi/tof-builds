@@ -1,0 +1,15 @@
+{
+  "_id": 6,
+  "id": "chess_set",
+  "name": "Set de ajedrez",
+  "description": "Un juego para dos jugadores, aunque hay quienes prefieren jugar en solitario. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

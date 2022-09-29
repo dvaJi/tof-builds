@@ -1,0 +1,17 @@
+{
+  "_id": 40,
+  "id": "wool_scarf",
+  "name": "Wollschal",
+  "description": "Er besteht aus verarbeiteter Wolle. Da diese aber heutzutage etwas veraltet ist, besteht die „Wolle“ aus Verbundmaterial. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

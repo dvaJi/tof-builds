@@ -1,0 +1,17 @@
+{
+  "_id": 15,
+  "id": "limited_tata_figurine",
+  "name": "Limited Tata Figurine",
+  "description": "Patung koleksi terbatas, kenang-kenangan komik Aida. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "crow",
+    "hilda"
+  ],
+  "characters": [
+    "cobaltb",
+    "king",
+    "echo"
+  ]
+}

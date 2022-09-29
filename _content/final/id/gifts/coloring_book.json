@@ -1,0 +1,15 @@
+{
+  "_id": 7,
+  "id": "coloring_book",
+  "name": "Buku Mewarnai",
+  "description": "Penjualnya pernah mengatakan bahwa setelah semua halamannya selesai diwarnai, kita boleh menukarkannya dengan yang baru. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

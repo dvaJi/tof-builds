@@ -1,0 +1,14 @@
+{
+  "name": "Gem Necklace",
+  "id": "gem_necklace",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "Cobalt-B",
+    "King",
+    "Meryl",
+    "Shiro",
+    "Bai Ling",
+    "Pepper"
+  ]
+}

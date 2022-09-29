@@ -1,0 +1,18 @@
+{
+  "_id": 28,
+  "id": "retro_harmonica",
+  "name": "Retro harmonica",
+  "description": "For playing lovely melodies. It's hard to come by, so only a few people on Aida can actually play one. Nowadays, that's probably limited to the true music aficionados. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing",
+    "echo"
+  ]
+}

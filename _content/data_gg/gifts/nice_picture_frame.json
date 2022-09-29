@@ -1,0 +1,15 @@
+{
+  "name": "Nice Picture Frame",
+  "id": "nice_picture_frame",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "Claudia",
+    "Cocoritter",
+    "Huma",
+    "Bai Ling",
+    "Ene",
+    "Pepper",
+    "Nemesis"
+  ]
+}

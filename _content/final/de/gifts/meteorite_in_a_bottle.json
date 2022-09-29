@@ -1,0 +1,17 @@
+{
+  "_id": 17,
+  "id": "meteorite_in_a_bottle",
+  "name": "Flaschen-Meteorit",
+  "description": "Ein Meteorit in einer durchsichtigen Flasche. Dieser Meteorit scheint ein nicht verglühtes Weltraumgestein und eine Art Mineraliengemisch zu sein, das ein schwaches Glühen abgibt. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

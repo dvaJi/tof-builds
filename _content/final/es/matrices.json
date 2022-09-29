@@ -1,6 +1,6 @@
 [
   {
-    "_id": 28,
+    "_id": 1,
     "id": "apophis",
     "name": "Apophis",
     "suitName": "Pelea Interna",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 2,
     "id": "bailing",
     "name": "Bai Ling",
     "suitName": "Bloqueo mortal",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 3,
     "id": "barbarossa",
     "name": "Barbarossa",
     "suitName": "Pesadilla doble",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 4,
     "id": "claudia",
     "name": "Claudia",
     "suitName": "Golpe multidireccional",
@@ -124,7 +124,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 5,
     "id": "cocoritter",
     "name": "Cocoritter",
     "suitName": "Prueba de confianza",
@@ -158,7 +158,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 6,
     "id": "crow",
     "name": "Cuervo",
     "suitName": "Persecución fanática",
@@ -192,7 +192,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 7,
     "id": "echo",
     "name": "Echo",
     "suitName": "Desarraigo",
@@ -222,7 +222,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 8,
     "id": "ene",
     "name": "Ene",
     "suitName": "Sobrecarga",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 9,
     "id": "frigg",
     "name": "Frigg",
     "suitName": "Mente y Cuerpo de Hierro",
@@ -285,7 +285,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 10,
     "id": "frost_bot",
     "name": "Robot de Hielo",
     "suitName": "Cero extremo",
@@ -315,7 +315,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 11,
     "id": "functional_dash",
     "name": "Carrera funcional",
     "suitName": "Carrera funcional",
@@ -345,7 +345,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 12,
     "id": "hilda",
     "name": "Hilda",
     "suitName": "Parábola",
@@ -375,7 +375,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 13,
     "id": "huma",
     "name": "Huma",
     "suitName": "Un poco ascendido",
@@ -409,7 +409,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 14,
     "id": "king",
     "name": "KING",
     "suitName": "Defensor de la violencia",
@@ -443,7 +443,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 15,
     "id": "meryl",
     "name": "Meryl",
     "suitName": "Guardián blanco puro",
@@ -477,7 +477,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 16,
     "id": "nemesis",
     "name": "Némesis",
     "suitName": "Puente de Vida",
@@ -511,7 +511,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 17,
     "id": "pepper",
     "name": "Pepper",
     "suitName": "Sin parar",
@@ -541,7 +541,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 18,
     "id": "plunder",
     "name": "Saqueo",
     "suitName": "Saqueo",
@@ -571,7 +571,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 19,
     "id": "robarg",
     "name": "Robarg",
     "suitName": "Devorador",
@@ -601,7 +601,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 20,
     "id": "samir",
     "name": "Samir",
     "suitName": "Liberación racional",
@@ -635,7 +635,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 21,
     "id": "selfexplosive",
     "name": "Autoexplosivo",
     "suitName": "Autoexplosivo",
@@ -665,7 +665,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 22,
     "id": "shiro",
     "name": "Shiro",
     "suitName": "Poema de partida",
@@ -699,7 +699,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 23,
     "id": "sobek",
     "name": "Sobek",
     "suitName": "Sombra del Pantano",
@@ -729,7 +729,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 24,
     "id": "standard_operation",
     "name": "Operación estándar",
     "suitName": "Operación estándar",
@@ -759,7 +759,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 25,
     "id": "tsubasa",
     "name": "Tsubasa",
     "suitName": "Ojo del viento",
@@ -793,7 +793,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 26,
     "id": "wandering_aberrant",
     "name": "Aberrante errante",
     "suitName": "Linaje salvaje",
@@ -823,7 +823,7 @@
     }
   },
   {
-    "_id": 28,
+    "_id": 27,
     "id": "zero",
     "name": "Zero",
     "suitName": "Conexión increíble",

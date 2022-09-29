@@ -1,0 +1,22 @@
+{
+  "_id": 21,
+  "id": "new_game_console",
+  "name": "New Game Console",
+  "description": "Konsol game canggih yang baru, dirancang oleh seorang ahli komputer. Tingginya biaya produksi menyebabkan konsol ini jadi langka. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "zero",
+    "echo"
+  ],
+  "characters": [
+    "cobaltb",
+    "huma",
+    "crow",
+    "king",
+    "samir",
+    "tsubasa",
+    "ene",
+    "hilda"
+  ]
+}

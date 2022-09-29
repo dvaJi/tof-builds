@@ -1,0 +1,19 @@
+{
+  "_id": 29,
+  "id": "silver_cookware",
+  "name": "Silver Cookware",
+  "description": "Set lengkap peralatan memasak yang tampak mahal. Menurut kabar, dulu ini milik koki psikopat yang tak pernah membiarkan siapa pun menyentuh benda berharga tersebut. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cobaltb",
+    "shiro"
+  ],
+  "characters": [
+    "king",
+    "meryl",
+    "bailing",
+    "frigg",
+    "pepper"
+  ]
+}

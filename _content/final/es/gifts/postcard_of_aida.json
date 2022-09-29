@@ -1,0 +1,17 @@
+{
+  "_id": 27,
+  "id": "postcard_of_aida",
+  "name": "Postal de Aida",
+  "description": "Muestra varios paisajes de Aida. A pesar de la contaminación por radiación de Omnio y otras condiciones adversas, aún quedan sitios que vale la pena preservar. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

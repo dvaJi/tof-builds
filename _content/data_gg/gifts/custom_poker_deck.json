@@ -1,0 +1,13 @@
+{
+  "name": "Custom Poker Deck",
+  "id": "custom_poker_deck",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "Huma",
+    "Samir",
+    "Zero",
+    "Echo",
+    "Ene"
+  ]
+}

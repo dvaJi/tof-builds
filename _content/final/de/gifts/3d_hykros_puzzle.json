@@ -1,0 +1,22 @@
+{
+  "_id": 1,
+  "id": "3d_hykros_puzzle",
+  "name": "3D-Hykros-Puzzle",
+  "description": "Ein Puzzle, das Hykros geradezu im Sturm erobert hat. Das neue Design und Gameplay machen einfach nur Spaß. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "king",
+    "meryl",
+    "samir",
+    "shiro",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene"
+  ]
+}

@@ -37,6 +37,21 @@ function main() {
       )
     );
   }
+
+
+  const gifts = asd["webpackJsonpgenshin-react"][0][1]["95"]();
+
+  for (const gift of gifts) {
+    fs.writeFileSync(
+      path.join(DATA_PATH, "gifts", slugify(gift.name) + ".json"),
+      JSON.stringify(
+        { ...gift, id: slugify(gift.name) },
+        undefined,
+        2
+      )
+    );
+  }
+
 }
 
 function slugify(value) {

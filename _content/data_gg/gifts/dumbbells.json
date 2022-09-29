@@ -1,0 +1,11 @@
+{
+  "name": "Dumbbells",
+  "id": "dumbbells",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "Cobalt-B",
+    "Frigg",
+    "Shiro"
+  ]
+}

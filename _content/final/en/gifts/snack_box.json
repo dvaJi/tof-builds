@@ -1,0 +1,17 @@
+{
+  "_id": 31,
+  "id": "snack_box",
+  "name": "Snack box",
+  "description": "Snack box created by Fennie on Astra, containing various irresistible munchies. A very popular gift across all sectors. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "cobaltb",
+    "crow",
+    "king",
+    "tsubasa",
+    "zero",
+    "echo",
+    "hilda"
+  ]
+}

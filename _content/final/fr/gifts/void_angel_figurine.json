@@ -1,0 +1,20 @@
+{
+  "_id": 38,
+  "id": "void_angel_figurine",
+  "name": "Figurine de l'Ange du néant",
+  "description": "Une figurine miniature d'après l'Ange du néant. Elle est entièrement blanche et nécessite un soin particulier pour rester immaculée. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "tsubasa"
+  ],
+  "characters": [
+    "claudia",
+    "crow",
+    "king",
+    "meryl",
+    "shiro",
+    "bailing",
+    "hilda"
+  ]
+}

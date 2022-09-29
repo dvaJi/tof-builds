@@ -1,0 +1,22 @@
+{
+  "_id": 32,
+  "id": "snow_globe",
+  "name": "Snow Globe",
+  "description": "Benda yang berasal dari Warren Snowfield ini memantulkan tampilan salju putih selama musim dingin. Kini benda ini dibuat ulang menjadi hiasan rumah. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "bailing"
+  ],
+  "characters": [
+    "huma",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

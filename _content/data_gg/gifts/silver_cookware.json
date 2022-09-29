@@ -1,0 +1,17 @@
+{
+  "name": "Silver Cookware",
+  "id": "silver_cookware",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "Cobalt-B",
+    "Shiro"
+  ],
+  "characters": [
+    "King",
+    "Meryl",
+    "Bai Ling",
+    "Frigg",
+    "Pepper"
+  ]
+}

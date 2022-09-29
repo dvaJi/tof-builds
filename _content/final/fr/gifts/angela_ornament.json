@@ -1,0 +1,21 @@
+{
+  "_id": 3,
+  "id": "angela_ornament",
+  "name": "Décoration d'Angela",
+  "description": "Une réplique miniature d'Angela, la serviteuse intelligente, qui comprend même la jolie paire d'ailes roses dans son dos. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "huma",
+    "pepper",
+    "nemesis"
+  ],
+  "characters": [
+    "crow",
+    "bailing",
+    "echo",
+    "ene",
+    "frigg"
+  ]
+}

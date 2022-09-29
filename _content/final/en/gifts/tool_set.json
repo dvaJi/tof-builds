@@ -1,0 +1,13 @@
+{
+  "_id": 36,
+  "id": "tool_set",
+  "name": "Tool set",
+  "description": "Designed for practical purposes and is ready to use. May also be applied as spare parts. Receives a big thumbs-up from technicians for its versatility. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cobaltb",
+    "frigg",
+    "shiro"
+  ]
+}

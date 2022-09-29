@@ -1,0 +1,24 @@
+{
+  "_id": 2,
+  "id": "aida_comic",
+  "name": "Gibis de Aida",
+  "description": "Conta as aventuras de Tata em Aida em edições mensais. Devido à quantidade limitada e à popularidade dos gibis, toda edição faz o pessoal sair no tapa. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "crow",
+    "echo"
+  ],
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "frigg",
+    "huma",
+    "king",
+    "tsubasa",
+    "zero",
+    "hilda",
+    "pepper",
+    "nemesis"
+  ]
+}

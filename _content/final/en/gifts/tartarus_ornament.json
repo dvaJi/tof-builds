@@ -1,0 +1,17 @@
+{
+  "_id": 35,
+  "id": "tartarus_ornament",
+  "name": "Tartarus ornament",
+  "description": "A miniature figure allegedly takes after the form of Tartarus. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

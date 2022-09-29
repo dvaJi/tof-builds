@@ -1,0 +1,11 @@
+{
+  "name": "Spirit Princess Figurine",
+  "id": "spirit_princess_figurine",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "Crow",
+    "Tsubasa",
+    "Hilda"
+  ]
+}

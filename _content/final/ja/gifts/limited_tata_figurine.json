@@ -1,0 +1,17 @@
+{
+  "_id": 15,
+  "id": "limited_tata_figurine",
+  "name": "ティトの数量限定フィギュア",
+  "description": "ラッピングされた限定フィギュア。『漫画アイダ星』の関連グッズ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "crow",
+    "hilda"
+  ],
+  "characters": [
+    "cobaltb",
+    "king",
+    "echo"
+  ]
+}

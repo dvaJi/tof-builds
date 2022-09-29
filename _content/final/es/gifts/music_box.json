@@ -1,0 +1,18 @@
+{
+  "_id": 20,
+  "id": "music_box",
+  "name": "Caja musical",
+  "description": "Una caja musical de metal. No se sabe si su dueño anterior la averió o algo así, pero su agradable melodía ya no puede disfrutarse. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "frigg",
+    "huma",
+    "samir",
+    "shiro",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "_id": 8,
+  "id": "crazy_dumont_figurine",
+  "name": "Figurine de Dumont le fou",
+  "description": "Personne ne sait quand a commencé l'engouement pour cette figurine de Dumont le fou, sauf que tout à coup, tout le monde en voulait une. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

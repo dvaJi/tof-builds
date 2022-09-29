@@ -1,0 +1,13 @@
+{
+  "_id": 8,
+  "id": "crazy_dumont_figurine",
+  "name": "Figura de Dumont el Loco",
+  "description": "Nadie sabe cuándo comenzó la popularidad de Dumont el Loco, aunque de pronto todos quieren uno. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "_id": 12,
+  "id": "flower_bouquet",
+  "name": "Buquê de flores",
+  "description": "Um buquê de flores bem bonito. É uma ótima pedida como presente, mas evite dar para pessoas alérgicas a pólen ou que não gostam de plantas. As flores são produzidas em Aesperia, e Simulacros de outras regiões talvez não se interessem por elas.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

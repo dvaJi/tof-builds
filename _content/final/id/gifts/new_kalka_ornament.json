@@ -1,0 +1,17 @@
+{
+  "_id": 22,
+  "id": "new_kalka_ornament",
+  "name": "New Kalka Ornament",
+  "description": "Karena banyak menerima keluhan yang memprotes penghentian produksi patung Kalka yang lama, para pembuatnya memutuskan untuk menawarkan versi baru. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "_id": 37,
+  "id": "vitamin_pack",
+  "name": "Vitamina",
+  "description": "Suplemento para o bem-estar. Indispensável para quem trabalha ou joga muito e não tem tempo de se alimentar direito. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "frigg",
+    "huma",
+    "crow",
+    "echo",
+    "pepper"
+  ]
+}

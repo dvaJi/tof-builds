@@ -1,0 +1,18 @@
+{
+  "_id": 4,
+  "id": "banges_specialty",
+  "name": "Especialidad de Banges",
+  "description": "Contiene varias especialidades de Banges, cada una con una selección al azar para representar la diversidad local. Por supuesto, eso significa que nunca sabes lo que vas a obtener. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "frigg",
+    "samir",
+    "shiro",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Mini Potted Plant",
+  "id": "mini_potted_plant",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "Claudia",
+    "Cocoritter",
+    "Huma",
+    "Bai Ling",
+    "Ene",
+    "Pepper",
+    "Nemesis"
+  ]
+}

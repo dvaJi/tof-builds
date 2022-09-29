@@ -1,0 +1,707 @@
+[
+  {
+    "_id": 1,
+    "id": "3d_hykros_puzzle",
+    "name": "ハガードの立体パズル",
+    "description": "ハガードで一世を風靡したパズル。斬新なデザインや遊び方など、楽しい要素満載。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "king",
+      "meryl",
+      "samir",
+      "shiro",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 2,
+    "id": "aida_comic",
+    "name": "『漫画アイダ星』",
+    "description": "主人公｢ティト｣のアイダ星冒険を描いた月刊ファンタジー漫画。大人気で販売数が限定されているため、争奪戦が毎月繰り広げられている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "crow",
+      "echo"
+    ],
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "frigg",
+      "huma",
+      "king",
+      "tsubasa",
+      "zero",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 3,
+    "id": "angela_ornament",
+    "name": "アンジェラのオブジェ",
+    "description": "AIサーバント・アンジェラのミニオブジェ。背中のピンク色のかわいい羽根も再現されている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "claudia",
+      "huma",
+      "pepper",
+      "nemesis"
+    ],
+    "characters": [
+      "crow",
+      "bailing",
+      "echo",
+      "ene",
+      "frigg"
+    ]
+  },
+  {
+    "_id": 4,
+    "id": "banges_specialty",
+    "name": "ベンジスの特産品",
+    "description": "ベンジスの特産品を集めたギフトパック。箱ごとに商品の組み合わせが違うのも、ベンジスらしいところだ。当然ながら、中身は受け取った人だけのお楽しみ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "cocoritter",
+      "frigg",
+      "samir",
+      "shiro",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 5,
+    "id": "cat_throw_pillow",
+    "name": "ネコ型抱き枕",
+    "description": "ネコの形をした抱き枕。ぎゅっと抱きしめていると、気分がほんわかして癒される。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 6,
+    "id": "chess_set",
+    "name": "チェス",
+    "description": "2人対戦型のボードゲームだが、時々人生を賭けてしまう人もいる。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 7,
+    "id": "coloring_book",
+    "name": "塗り絵",
+    "description": "塗り絵店の店主が、色鉛筆で全ページを塗り終えたら新しいものと交換してくれると言った。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 8,
+    "id": "crazy_dumont_figurine",
+    "name": "クレイジー・ダイモンのフィギュア",
+    "description": "いつの間に大流行中のクレイジー・ダイモンのフィギュア。みんな1つは持っている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "crow",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 9,
+    "id": "crown_token",
+    "name": "キリオン記念硬貨",
+    "description": "キリオン製の数量限定記念コイン。表にキリオン鉱山の社長の顔、裏にキリオンを表す｢K｣の文字が彫られている。7枚くらい集めると有給休暇がもらえるはず、多分…。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "cobaltb",
+      "king"
+    ],
+    "characters": [
+      "crow",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "hilda",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 10,
+    "id": "custom_poker_deck",
+    "name": "特製トランプ",
+    "description": "このトランプの作成者は不明だが、ルールを読むとかなりおもしろい人物であることが分かる。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "huma",
+      "samir",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 11,
+    "id": "dumbbells",
+    "name": "ダンベル",
+    "description": "筋肉のパワー増強を目的としたトレーニング器具。一般的にはフィットネスの時に使用されるが、ごくまれに不思議な用途で使用される。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "shiro"
+    ]
+  },
+  {
+    "_id": 12,
+    "id": "flower_bouquet",
+    "name": "花束",
+    "description": "美しく包装された花束。プレゼントの定番だが、花粉症や植物嫌いの方には贈らないで。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 13,
+    "id": "gem_necklace",
+    "name": "宝石のネックレス",
+    "description": "この宝石って高いんだろうなという余計な感慨はさておき、早くこの貴重なアイテムを大事にしまうことだ！！アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cobaltb",
+      "king",
+      "meryl",
+      "shiro",
+      "bailing",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 14,
+    "id": "limited_peanut_figurine",
+    "name": "限定版ピーナッツ",
+    "description": "データ保存と音声認識機能付きの超レアフィギュア。ネコ型のピーナッツをモデルにしていて、ネコ好きにも大人気。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "cocoritter",
+      "frigg",
+      "huma",
+      "crow",
+      "king",
+      "tsubasa",
+      "zero",
+      "bailing",
+      "echo",
+      "ene",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 15,
+    "id": "limited_tata_figurine",
+    "name": "ティトの数量限定フィギュア",
+    "description": "ラッピングされた限定フィギュア。『漫画アイダ星』の関連グッズ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "crow",
+      "hilda"
+    ],
+    "characters": [
+      "cobaltb",
+      "king",
+      "echo"
+    ]
+  },
+  {
+    "_id": 16,
+    "id": "metal_alf_figurine",
+    "name": "フクちゃんの金属フィギュア",
+    "description": "モデルのフクちゃんの姿を忠実に再現するため、金属で製作された。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "crow",
+      "shiro",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 17,
+    "id": "meteorite_in_a_bottle",
+    "name": "隕石ボトル",
+    "description": "宇宙の流星の燃え残りのような隕石が入った透明な瓶。石鉄混合の物質で、淡い光を放っている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing"
+    ]
+  },
+  {
+    "_id": 18,
+    "id": "mini_potted_plant",
+    "name": "ミニ盆栽",
+    "description": "鑑賞用のミニ植物。ただし本物ではなく、お世話いらずの人工観葉植物。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 19,
+    "id": "moonrabbit_kit",
+    "name": "月うさぎの組み立ておもちゃ",
+    "description": "組み立て型のおもちゃ、月うさぎをイメージしたデザイン。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 20,
+    "id": "music_box",
+    "name": "機械式オルゴール",
+    "description": "金属製のオルゴール。以前の持ち主が使い方を間違えたせいか、美しい旋律は次の持ち主に渡る前に完全に封印されている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "huma",
+      "samir",
+      "shiro",
+      "zero",
+      "echo",
+      "ene"
+    ]
+  },
+  {
+    "_id": 21,
+    "id": "new_game_console",
+    "name": "新型ゲーム機",
+    "description": "最新の先端ゲーム機。あるパソコンの天才が製作に携わったためにコストが高騰し、ひとまず限定販売されることになった。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "zero",
+      "echo"
+    ],
+    "characters": [
+      "cobaltb",
+      "huma",
+      "crow",
+      "king",
+      "samir",
+      "tsubasa",
+      "ene",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 22,
+    "id": "new_kalka_ornament",
+    "name": "カカの新型オブジェ",
+    "description": "旧型カカの生産終了決定時に大量の苦情が届いたため、製造業者による再三の検討の末、リニューアル版が発売された。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 23,
+    "id": "nice_picture_frame",
+    "name": "美しいフォトフレーム",
+    "description": "大切な記念写真を飾るフレームが壊れないように、特殊な構造で作られている。分解は至難の業であり、変に試さない方がいい。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 24,
+    "id": "paper_pinwheel",
+    "name": "風車",
+    "description": "平凡極まりないおもちゃ。でもこういう普通なおもちゃほど、使いやすくて楽しめる。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cocoritter",
+      "samir",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 25,
+    "id": "perfume_bottle",
+    "description": "豪華なデザインの上品なガラス瓶。中の液体が強い香りを放っている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 26,
+    "id": "plush_toy",
+    "name": "ぬいぐるみ",
+    "description": "子どもたちに大人気な柔らかいタイプのおもちゃ。かわいくて、暖かなお日様の匂いがする。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "tsubasa"
+    ],
+    "characters": [
+      "cocoritter",
+      "samir",
+      "zero",
+      "ene",
+      "hilda",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 27,
+    "id": "postcard_of_aida",
+    "name": "アイダ星のはがき",
+    "description": "アイダ星各地の様々な風景が楽しめるポストカード。オムニアムに汚染された劣悪な環境下でも、美しい景色は永遠に残しておく価値がある。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing"
+    ]
+  },
+  {
+    "_id": 28,
+    "id": "retro_harmonica",
+    "name": "レトロなハーモニカ",
+    "description": "美しい音色を奏でる楽器。入手が困難で、アイダ星でハーモニカを吹けるのは相当な音楽マニアくらいだ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "bailing",
+      "echo"
+    ]
+  },
+  {
+    "_id": 29,
+    "id": "silver_cookware",
+    "name": "銀食器セット",
+    "description": "豪華な銀食器フルセット。前の所有者である一流シェフは、誰にもこの貴重な食器を触らせなかったそうだ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "cobaltb",
+      "shiro"
+    ],
+    "characters": [
+      "king",
+      "meryl",
+      "bailing",
+      "frigg",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 30,
+    "id": "smarty_doll",
+    "name": "スマート人形",
+    "description": "スマートをモデルに制作されたおもちゃ。頭部のフェイクグリーンが本物の観葉植物に変更されたことで、収集価値が大いに高まった。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "characters": [
+      "cobaltb",
+      "cocoritter",
+      "king",
+      "meryl",
+      "samir",
+      "shiro",
+      "bailing",
+      "ene",
+      "hilda",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 31,
+    "id": "snack_box",
+    "name": "おやつセット",
+    "description": "アストラ島のサミーが最初に売り出したおやつセット。魅力的なお菓子がぎっしり入っており、カジュアルな贈り物として各界から支持を集めている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "cobaltb",
+      "crow",
+      "king",
+      "tsubasa",
+      "zero",
+      "echo",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 32,
+    "id": "snow_globe",
+    "name": "雪の水晶玉",
+    "description": "フォラント雪原産の球状結晶。雪の季節になると球内に純白の雪が舞う。今ではインテリア用に生産されている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "claudia",
+      "bailing"
+    ],
+    "characters": [
+      "huma",
+      "king",
+      "meryl",
+      "shiro",
+      "tsubasa",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 33,
+    "id": "spirit_princess_figurine",
+    "name": "レイキのフィギュア",
+    "description": "AIサーバントのレイキがモデルのフィギュア。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "crow",
+      "tsubasa",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 34,
+    "id": "tailormade_suit",
+    "name": "オーダースーツ",
+    "description": "オーダーメイドスーツ。既製品にはない風格があり、装飾もついている。ショーが大好きな人にウケそう。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 35,
+    "id": "tartarus_ornament",
+    "name": "タルタロスのオブジェ",
+    "description": "動物型のオブジェ。タルタロスをモデルにしているそうだ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "cocoritter",
+      "huma",
+      "bailing",
+      "ene",
+      "pepper",
+      "nemesis"
+    ]
+  },
+  {
+    "_id": 36,
+    "id": "tool_set",
+    "name": "役立つ工具セット",
+    "description": "そのまま使えて、部品として他の機械に差し込むこともできるフレキシブルな工具セット。実用性が高く、技術スタッフにも大好評。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "cobaltb",
+      "frigg",
+      "shiro"
+    ]
+  },
+  {
+    "_id": 37,
+    "id": "vitamin_pack",
+    "name": "ビタミン補給パック",
+    "description": "生命維持に不可欠な栄養補給パック。徹夜で働く人、ゲームに夢中になってエネルギー補給を忘れがちな人には欠かせない食品。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "R",
+    "value": 30,
+    "characters": [
+      "claudia",
+      "frigg",
+      "huma",
+      "crow",
+      "echo",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 38,
+    "id": "void_angel_figurine",
+    "name": "虚無の天使のフィギュア",
+    "description": "虚無の天使がモデルになっている真っ白なフィギュア。こまめなお手入れが必要。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "tsubasa"
+    ],
+    "characters": [
+      "claudia",
+      "crow",
+      "king",
+      "meryl",
+      "shiro",
+      "bailing",
+      "hilda"
+    ]
+  },
+  {
+    "_id": 39,
+    "id": "warren_fossil",
+    "name": "フォラントの化石",
+    "description": "時の回廊に冷凍保存された古生物が、長い時を経てフォラント雪原で発見された。収集価値のある超レアなアイテム。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "SR",
+    "value": 60,
+    "favorite": [
+      "king",
+      "meryl",
+      "shiro",
+      "bailing"
+    ],
+    "characters": [
+      "cobaltb",
+      "claudia",
+      "cocoritter",
+      "tsubasa",
+      "pepper"
+    ]
+  },
+  {
+    "_id": 40,
+    "id": "wool_scarf",
+    "name": "カシミヤのマフラー",
+    "description": "このマフラーは以前はカシミヤで作られていたが、今はカシミヤ風の化学繊維が使われている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+    "rarity": "N",
+    "value": 15,
+    "characters": [
+      "claudia",
+      "huma",
+      "crow",
+      "echo",
+      "frigg",
+      "pepper",
+      "nemesis"
+    ]
+  }
+]

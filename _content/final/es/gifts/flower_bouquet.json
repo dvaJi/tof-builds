@@ -1,0 +1,17 @@
+{
+  "_id": 12,
+  "id": "flower_bouquet",
+  "name": "Ramo de flores",
+  "description": "Un manojo de flores de agradable arreglo. Es un muy buen regalo, aunque ten cuidado con quienes sean alérgicos al polen o no le gusten las plantas. Las flores se producen en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

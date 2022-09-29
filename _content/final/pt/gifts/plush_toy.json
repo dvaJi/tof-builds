@@ -1,0 +1,19 @@
+{
+  "_id": 26,
+  "id": "plush_toy",
+  "name": "Bichinho de pelúcia",
+  "description": "O bichinho de pelúcia preferido da criançada. É fofo e tem um cheirinho que lembra um dia sob o calor do sol. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "tsubasa"
+  ],
+  "characters": [
+    "cocoritter",
+    "samir",
+    "zero",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

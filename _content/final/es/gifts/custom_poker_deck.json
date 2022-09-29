@@ -1,0 +1,15 @@
+{
+  "_id": 10,
+  "id": "custom_poker_deck",
+  "name": "Mazo de póker personalizado",
+  "description": "Nadie sabe quién creó este mazo, pero a juzgar por las reglas de juego, quien lo haya hecho debe haber sido una persona muy interesante. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

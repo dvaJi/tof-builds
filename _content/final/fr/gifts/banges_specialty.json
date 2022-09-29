@@ -1,0 +1,18 @@
+{
+  "_id": 4,
+  "id": "banges_specialty",
+  "name": "Spécialité de Banges",
+  "description": "Contient diverses spécialités de Banges, chaque boîte proposant des produits locaux sélectionnés au hasard. Ce qui signifie que vous ne savez jamais exactement ce que vous allez recevoir. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "frigg",
+    "samir",
+    "shiro",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

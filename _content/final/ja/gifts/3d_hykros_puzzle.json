@@ -1,0 +1,22 @@
+{
+  "_id": 1,
+  "id": "3d_hykros_puzzle",
+  "name": "ハガードの立体パズル",
+  "description": "ハガードで一世を風靡したパズル。斬新なデザインや遊び方など、楽しい要素満載。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "king",
+    "meryl",
+    "samir",
+    "shiro",
+    "tsubasa",
+    "zero",
+    "bailing",
+    "echo",
+    "ene"
+  ]
+}

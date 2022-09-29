@@ -1,0 +1,15 @@
+{
+  "_id": 6,
+  "id": "chess_set",
+  "name": "Jeu d'échecs",
+  "description": "Un jeu pour deux joueurs, bien que certaines personnes préfèrent y jouer seules. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

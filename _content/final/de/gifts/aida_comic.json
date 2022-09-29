@@ -1,0 +1,24 @@
+{
+  "_id": 2,
+  "id": "aida_comic",
+  "name": "Aida-Comic",
+  "description": "Erscheint einmal im Monat und handelt von Mi-as Abenteuern auf dem Planeten Aida. Die geringe Auflage und ihre Beliebtheit haben dazu geführt, dass man sich um jede Ausgabe des Comics schlägt. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "crow",
+    "echo"
+  ],
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "frigg",
+    "huma",
+    "king",
+    "tsubasa",
+    "zero",
+    "hilda",
+    "pepper",
+    "nemesis"
+  ]
+}

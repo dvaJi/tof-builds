@@ -1,0 +1,17 @@
+{
+  "_id": 12,
+  "id": "flower_bouquet",
+  "name": "Blumenstrauß",
+  "description": "Ein hübsch präsentierter Blumenstrauß und eine erstklassige Geschenkwahl. Man sollte nur vermeiden, ihn an Allergiker oder Blumenmuffel zu verschenken. Die Blumen sind in Aesperia gewachsen und Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "huma",
+    "crow",
+    "echo",
+    "frigg",
+    "pepper",
+    "nemesis"
+  ]
+}

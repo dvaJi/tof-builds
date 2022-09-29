@@ -1,0 +1,17 @@
+{
+  "_id": 17,
+  "id": "meteorite_in_a_bottle",
+  "name": "Meteorite in a Bottle",
+  "description": "Meteorit dalam botol bening. Meteorit itu tampaknya adalah batu luar angkasa yang tak habis terbakar dan semacam campuran mineral yang memancarkan cahaya redup. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

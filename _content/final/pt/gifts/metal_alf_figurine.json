@@ -1,0 +1,15 @@
+{
+  "_id": 16,
+  "id": "metal_alf_figurine",
+  "name": "Miniatura metálica de Alf",
+  "description": "Para ficar bastante parecido com Alf, o fabricante fez este aqui de metal. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "crow",
+    "shiro",
+    "tsubasa",
+    "hilda"
+  ]
+}

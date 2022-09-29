@@ -1,0 +1,15 @@
+{
+  "_id": 7,
+  "id": "coloring_book",
+  "name": "Malbuch",
+  "description": "Der Verkäufer sagt, dass du es gegen ein Neues eintauschen kannst, sobald alle Seiten angemalt sind. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

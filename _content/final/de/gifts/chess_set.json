@@ -1,0 +1,15 @@
+{
+  "_id": 6,
+  "id": "chess_set",
+  "name": "Schachbrett",
+  "description": "Ein Spiel für zwei Spieler, aber manche spielen lieber alleine. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "huma",
+    "samir",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

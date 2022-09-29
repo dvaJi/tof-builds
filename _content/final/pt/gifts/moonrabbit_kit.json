@@ -1,0 +1,15 @@
+{
+  "_id": 19,
+  "id": "moonrabbit_kit",
+  "name": "Kit de Coelho Lunar",
+  "description": "Precisa ser montado. Baseado na imagem do Coelho Lunar. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cocoritter",
+    "samir",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

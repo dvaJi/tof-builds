@@ -1,0 +1,20 @@
+{
+  "_id": 38,
+  "id": "void_angel_figurine",
+  "name": "Leerenengel-Figur",
+  "description": "Eine Miniaturfigur des Leerenengels. Sie ist komplett weiß und muss gut gepflegt werden, damit sie nicht dreckig wird. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "tsubasa"
+  ],
+  "characters": [
+    "claudia",
+    "crow",
+    "king",
+    "meryl",
+    "shiro",
+    "bailing",
+    "hilda"
+  ]
+}

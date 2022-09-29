@@ -1,0 +1,16 @@
+{
+  "_id": 13,
+  "id": "gem_necklace",
+  "name": "Colar de pedra preciosa",
+  "description": "Quanto vale este colar de pedra preciosa? Esqueça as especulações, só não o perca de jeito nenhum! Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cobaltb",
+    "king",
+    "meryl",
+    "shiro",
+    "bailing",
+    "pepper"
+  ]
+}

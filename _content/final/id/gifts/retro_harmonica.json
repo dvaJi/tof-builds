@@ -1,0 +1,18 @@
+{
+  "_id": 28,
+  "id": "retro_harmonica",
+  "name": "Retro Harmonica",
+  "description": "Untuk memainkan melodi yang indah. Karena sulit didapat, hanya ada beberapa orang di Aida yang benar-benar bisa memainkannya. Saat ini, benda ini mungkin hanya disukai oleh pencinta musik sejati. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing",
+    "echo"
+  ]
+}

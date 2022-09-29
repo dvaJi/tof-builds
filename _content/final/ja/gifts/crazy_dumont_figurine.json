@@ -1,0 +1,13 @@
+{
+  "_id": 8,
+  "id": "crazy_dumont_figurine",
+  "name": "クレイジー・ダイモンのフィギュア",
+  "description": "いつの間に大流行中のクレイジー・ダイモンのフィギュア。みんな1つは持っている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

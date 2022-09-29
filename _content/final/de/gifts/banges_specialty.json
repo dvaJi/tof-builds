@@ -1,0 +1,18 @@
+{
+  "_id": 4,
+  "id": "banges_specialty",
+  "name": "Banges-Spezialität",
+  "description": "Enthält mehrere Spezialitäten von Banges: In jeder Box steckt eine zufällige Auswahl lokaler Köstlichkeiten. Natürlich weiß man dann nie, was man bekommt. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "frigg",
+    "samir",
+    "shiro",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "_id": 36,
+  "id": "tool_set",
+  "name": "Set de herramientas",
+  "description": "Diseñado para fines prácticos y listo para usar. También puede servir como repuesto. Muy popular entre los técnicos gracias a su versatilidad. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cobaltb",
+    "frigg",
+    "shiro"
+  ]
+}

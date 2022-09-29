@@ -1,0 +1,18 @@
+{
+  "_id": 4,
+  "id": "banges_specialty",
+  "name": "ベンジスの特産品",
+  "description": "ベンジスの特産品を集めたギフトパック。箱ごとに商品の組み合わせが違うのも、ベンジスらしいところだ。当然ながら、中身は受け取った人だけのお楽しみ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "frigg",
+    "samir",
+    "shiro",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_id": 30,
+  "id": "smarty_doll",
+  "name": "Poupée de Smarty",
+  "description": "Un jouet basé sur l'image de Smarty. Les fabricants ont remplacé la plante artificielle sur sa tête par une vraie plante, ce qui en fait un précieux objet de collection. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "cocoritter",
+    "king",
+    "meryl",
+    "samir",
+    "shiro",
+    "bailing",
+    "ene",
+    "hilda",
+    "pepper",
+    "nemesis"
+  ]
+}

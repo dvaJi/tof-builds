@@ -1,0 +1,17 @@
+{
+  "_id": 27,
+  "id": "postcard_of_aida",
+  "name": "アイダ星のはがき",
+  "description": "アイダ星各地の様々な風景が楽しめるポストカード。オムニアムに汚染された劣悪な環境下でも、美しい景色は永遠に残しておく価値がある。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing"
+  ]
+}

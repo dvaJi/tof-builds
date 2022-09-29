@@ -1,0 +1,13 @@
+{
+  "_id": 8,
+  "id": "crazy_dumont_figurine",
+  "name": "Miniatura do Dimon Louco",
+  "description": "Ninguém sabe quando começou a febre pela miniatura do Dimon Louco, só que, do nada, todo mundo quer uma. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

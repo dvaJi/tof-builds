@@ -1,6 +1,6 @@
 [
   {
-    "_id": 24,
+    "_id": 1,
     "id": "icecore",
     "name": "Eiskern",
     "description": "Scherben mit Eiselementarkraft, die klar wie ein Kristall sind.",
@@ -8,7 +8,7 @@
     "rarity": "N"
   },
   {
-    "_id": 24,
+    "_id": 2,
     "id": "heart_of_winter",
     "name": "Herz des Winters",
     "description": "Seltenes Erz mit Eiselementarkraft. Das hochreine Eiselement darin verleiht ihm ein sattes, blaues Aussehen.",
@@ -16,7 +16,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 3,
     "id": "nano_coating_i",
     "name": "Nano-Beschichtung I",
     "description": "Mit einer neuen Technologie entwickelte Beschichtung zur leichten Verbesserung der Waffenleistung.",
@@ -24,7 +24,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 4,
     "id": "nano_coating_ii",
     "name": "Nano-Beschichtung II",
     "description": "Neu entwickelte Beschichtung nach weiteren Forschungen zur Verbesserung der Waffenleistung.",
@@ -32,20 +32,20 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 5,
     "id": "nano_coating_iii",
     "name": "Nano-Beschichtung III",
     "description": "Mit der exklusiven Hykros-Technologie entwickelte Beschichtung zur erheblichen Verbesserung der Waffenleistung.",
     "usage": "Für die Verstärkung von Waffen."
   },
   {
-    "_id": 24,
+    "_id": 6,
     "id": "nano_coating_iv",
     "name": "Nano-Beschichtung IV",
     "usage": "Für die Verstärkung von Waffen."
   },
   {
-    "_id": 24,
+    "_id": 7,
     "id": "booster_frame_i",
     "name": "Booster-Rahmen I",
     "description": "Mit einer neuen Technologie entwickelter verstärkter Rahmen zur leichten Verbesserung der Waffenleistung.",
@@ -53,7 +53,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 8,
     "id": "booster_frame_ii",
     "name": "Booster-Rahmen II",
     "description": "Neu entwickelter Rahmen nach weiteren Forschungen zur Verbesserung der Waffenleistung.",
@@ -61,20 +61,20 @@
     "rarity": "SSR"
   },
   {
-    "_id": 24,
+    "_id": 9,
     "id": "booster_frame_iii",
     "name": "Booster-Rahmen III",
     "description": "Mit der exklusiven Hykros-Technologie entwickelter verstärkter Rahmen zur erheblichen Verbesserung der Waffenleistung.",
     "usage": "Für die Verstärkung von Waffen."
   },
   {
-    "_id": 24,
+    "_id": 10,
     "id": "booster_frame_iv",
     "name": "Booster-Rahmen IV",
     "usage": "Für die Verstärkung von Waffen."
   },
   {
-    "_id": 24,
+    "_id": 11,
     "id": "rockcore",
     "name": "Steinkern",
     "description": "Extrem harte Scherben, die unter dem Einfluss von Omnium entstanden sind und ein düsteres Aussehen haben.",
@@ -82,21 +82,21 @@
     "rarity": "N"
   },
   {
-    "_id": 24,
+    "_id": 12,
     "id": "heart_of_summit",
     "name": "Herz des Gipfels",
     "description": "Seltenes und extrem hartes Erz, das nur mit spezieller Omnium-Technologie geschmiedet werden kann.",
     "usage": "Für die Verstärkung von Waffen."
   },
   {
-    "_id": 24,
+    "_id": 13,
     "id": "landsource",
     "name": "Landquelle",
     "description": "Ganzes und hartes seltenes Erz. Der durchsichtige Kristall gibt manchmal einen winzigen, unbekannten Impuls wie einen Herzschlag ab.",
     "usage": "Für die Verstärkung von Waffen."
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_i",
     "name": "Säurefeste Glasur I",
     "description": "Mit einer neuen Technologie entwickeltes säurefestes Material zur leichten Verbesserung der Waffenleistung.",
@@ -104,7 +104,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_ii",
     "name": "Säurefeste Glasur II",
     "description": "Neu entwickelte Glasur nach weiteren Forschungen zur Verbesserung der Waffenleistung.",
@@ -112,7 +112,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_iii",
     "name": "Säurefeste Glasur III",
     "description": "Mit der exklusiven Hykros-Technologie entwickelte Glasur zur erheblichen Verbesserung der Waffenleistung.",
@@ -120,13 +120,13 @@
     "rarity": "SSR"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "acidproof_glaze_iv",
     "name": "Säurefeste Glasur IV",
     "usage": "Für die Verstärkung von Waffen."
   },
   {
-    "_id": 24,
+    "_id": 18,
     "id": "nanofiber_frame_i",
     "name": "Nanofaser-Rahmen I",
     "description": "Mit einer neuen Technologie entwickelter Premium-Rahmen zur leichten Verbesserung der Waffenleistung.",
@@ -134,7 +134,7 @@
     "rarity": "SR"
   },
   {
-    "_id": 24,
+    "_id": 19,
     "id": "nanofiber_frame_ii",
     "name": "Nanofaser-Rahmen II",
     "description": "Neu entwickelter Premium-Rahmen nach weiteren Forschungen zur Verbesserung der Waffenleistung.",
@@ -142,7 +142,7 @@
     "rarity": "SSR"
   },
   {
-    "_id": 24,
+    "_id": 20,
     "id": "magcore",
     "name": "Magkern",
     "description": "Scherben mit Voltelementarkraft, die in der Dunkelheit schwach leuchten.",
@@ -158,7 +158,7 @@
     "rarity": "R"
   },
   {
-    "_id": 24,
+    "_id": 22,
     "id": "firecore",
     "name": "Feuerkern",
     "description": "Scherben mit Feuerelementarkraft, die beim Einschmelzen eine leichte Hitze abgeben.",
@@ -166,7 +166,7 @@
     "rarity": "N"
   },
   {
-    "_id": 24,
+    "_id": 23,
     "id": "heart_of_lava",
     "name": "Herz aus Lava",
     "description": "Seltenes Erz mit Feuerelementarkraft. Die feurige Röte ist ein ausreichender Beweis für die darin enthaltene Kraft.",

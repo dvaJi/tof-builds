@@ -1,0 +1,22 @@
+{
+  "_id": 32,
+  "id": "snow_globe",
+  "name": "Schneekugel",
+  "description": "Diese Schneekugel, die aus dem Warren-Schneefeld stammt, stellt Schneetreiben im Winter dar. Mittlerweile wurde sie zu einer Haushaltsdekoration umfunktioniert. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "bailing"
+  ],
+  "characters": [
+    "huma",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

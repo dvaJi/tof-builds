@@ -11,7 +11,10 @@ const __dirname = path.dirname(__filename);
 const DATA_PATH = path.join(__dirname, "..", "..", "_content", "final");
 const MapsDATA_PATH = path.join(__dirname, "..", "..", "maps");
 
+export let allSimulacraMap = {};
+
 export async function main(textMap, locale) {
+  allSimulacraMap = {};
   const allCharacters = [];
   const simulacras = JSON.parse(
     fs.readFileSync(path.join(MapsDATA_PATH, `simulacra.json`))
@@ -41,7 +44,7 @@ export async function main(textMap, locale) {
       element: simulacra.element,
       rarity: simulacra.rarity,
       role: simulacra.role,
-      resonance: textMap[""]["artifact_sr_002_type"],
+      resonance: simulacra.resonance,
       shatter: simulacra.shatter,
       charge: simulacra.charge,
       skills: simulacra.skills.map((skill) => ({
@@ -125,6 +128,8 @@ export async function main(textMap, locale) {
         };
       }),
     };
+
+    allSimulacraMap[data.id] = data;
 
     fs.writeFileSync(
       path.join(DATA_PATH, locale, "simulacra", data.id + ".json"),

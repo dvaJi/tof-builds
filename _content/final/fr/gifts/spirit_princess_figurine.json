@@ -1,0 +1,13 @@
+{
+  "_id": 33,
+  "id": "spirit_princess_figurine",
+  "name": "Figurine de la Princesse Esprit",
+  "description": "Figurine miniature inspirée de la Princesse Esprit, la serviteur intelligente. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

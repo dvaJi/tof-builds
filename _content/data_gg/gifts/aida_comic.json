@@ -1,0 +1,22 @@
+{
+  "name": "Aida Comic",
+  "id": "aida_comic",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "Crow",
+    "Echo"
+  ],
+  "characters": [
+    "Cobalt-B",
+    "Claudia",
+    "Frigg",
+    "Huma",
+    "King",
+    "Tsubasa",
+    "Zero",
+    "Hilda",
+    "Pepper",
+    "Nemesis"
+  ]
+}

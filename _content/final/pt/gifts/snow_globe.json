@@ -1,0 +1,22 @@
+{
+  "_id": 32,
+  "id": "snow_globe",
+  "name": "Globo de neve",
+  "description": "Criado no Campo Nevado de Warren, ele reflete a neve caindo durante o inverno. Agora virou uma decoração doméstica. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "claudia",
+    "bailing"
+  ],
+  "characters": [
+    "huma",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

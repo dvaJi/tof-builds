@@ -1,0 +1,19 @@
+{
+  "_id": 26,
+  "id": "plush_toy",
+  "name": "Boneka",
+  "description": "Boneka kesukaan anak-anak. Bentuknya menggemaskan dan aromanya mengingatkan kita pada hari yang hangat dan cerah. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "tsubasa"
+  ],
+  "characters": [
+    "cocoritter",
+    "samir",
+    "zero",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

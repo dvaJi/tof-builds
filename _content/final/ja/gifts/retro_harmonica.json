@@ -1,0 +1,18 @@
+{
+  "_id": 28,
+  "id": "retro_harmonica",
+  "name": "レトロなハーモニカ",
+  "description": "美しい音色を奏でる楽器。入手が困難で、アイダ星でハーモニカを吹けるのは相当な音楽マニアくらいだ。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "king",
+    "meryl",
+    "shiro",
+    "tsubasa",
+    "bailing",
+    "echo"
+  ]
+}

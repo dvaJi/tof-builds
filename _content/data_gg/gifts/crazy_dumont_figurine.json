@@ -1,0 +1,11 @@
+{
+  "name": "Crazy Dumont Figurine",
+  "id": "crazy_dumont_figurine",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "Crow",
+    "Tsubasa",
+    "Hilda"
+  ]
+}

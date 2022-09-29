@@ -1,0 +1,15 @@
+{
+  "_id": 5,
+  "id": "cat_throw_pillow",
+  "name": "Almofada de gato",
+  "description": "Uma almofada em formato de gato. Muito relaxante e terapêutico de abraçar. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cocoritter",
+    "samir",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

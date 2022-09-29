@@ -1,0 +1,18 @@
+{
+  "_id": 20,
+  "id": "music_box",
+  "name": "Spieluhr",
+  "description": "Eine Spieluhr aus Metall. Vielleicht hat der vorherige Besitzer sie kaputtgemacht, denn sie spielt keine schöne Musik mehr. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "cobaltb",
+    "frigg",
+    "huma",
+    "samir",
+    "shiro",
+    "zero",
+    "echo",
+    "ene"
+  ]
+}

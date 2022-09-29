@@ -1,0 +1,17 @@
+{
+  "_id": 15,
+  "id": "limited_tata_figurine",
+  "name": "Limited Tata figurine",
+  "description": "Limited collectible figurine, an Aida comic memorabilia. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "crow",
+    "hilda"
+  ],
+  "characters": [
+    "cobaltb",
+    "king",
+    "echo"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_id": 21,
+  "id": "new_game_console",
+  "name": "新型ゲーム機",
+  "description": "最新の先端ゲーム機。あるパソコンの天才が製作に携わったためにコストが高騰し、ひとまず限定販売されることになった。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "zero",
+    "echo"
+  ],
+  "characters": [
+    "cobaltb",
+    "huma",
+    "crow",
+    "king",
+    "samir",
+    "tsubasa",
+    "ene",
+    "hilda"
+  ]
+}

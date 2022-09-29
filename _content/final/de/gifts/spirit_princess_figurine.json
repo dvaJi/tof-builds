@@ -1,0 +1,13 @@
+{
+  "_id": 33,
+  "id": "spirit_princess_figurine",
+  "name": "Figur der Geisterprinzessin",
+  "description": "Miniaturfigur der Geisterprinzessin, der KI-Dienerin. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "crow",
+    "tsubasa",
+    "hilda"
+  ]
+}

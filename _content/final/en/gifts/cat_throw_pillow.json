@@ -1,0 +1,15 @@
+{
+  "_id": 5,
+  "id": "cat_throw_pillow",
+  "name": "Cat throw pillow",
+  "description": "A throw pillow in the shape of a cat. Very relaxing and therapeutic to hold. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "cocoritter",
+    "samir",
+    "ene",
+    "hilda",
+    "nemesis"
+  ]
+}

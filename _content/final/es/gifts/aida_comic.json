@@ -1,0 +1,24 @@
+{
+  "_id": 2,
+  "id": "aida_comic",
+  "name": "Cómic de Aida",
+  "description": "Narra las aventuras de Tata en Aida en cada publicación mensual. Su cantidad limitada y popularidad causan peleas por obtener una copia con cada edición. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "crow",
+    "echo"
+  ],
+  "characters": [
+    "cobaltb",
+    "claudia",
+    "frigg",
+    "huma",
+    "king",
+    "tsubasa",
+    "zero",
+    "hilda",
+    "pepper",
+    "nemesis"
+  ]
+}

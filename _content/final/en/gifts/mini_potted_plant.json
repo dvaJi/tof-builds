@@ -1,0 +1,17 @@
+{
+  "_id": 18,
+  "id": "mini_potted_plant",
+  "name": "Mini potted plant",
+  "description": "Miniature potted plant. Please note that the plant is artificial and needs no conventional care. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
+  "rarity": "N",
+  "value": 15,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

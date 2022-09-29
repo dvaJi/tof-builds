@@ -1,0 +1,17 @@
+{
+  "_id": 35,
+  "id": "tartarus_ornament",
+  "name": "Tartaros-Ornament",
+  "description": "Eine kleine Figur, die angeblich die Form des Tartaros annehmen kann. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "R",
+  "value": 30,
+  "characters": [
+    "claudia",
+    "cocoritter",
+    "huma",
+    "bailing",
+    "ene",
+    "pepper",
+    "nemesis"
+  ]
+}

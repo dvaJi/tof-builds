@@ -1,0 +1,17 @@
+{
+  "_id": 15,
+  "id": "limited_tata_figurine",
+  "name": "Limitierte Tata-Figur",
+  "description": "Limitierte Sammlerfigur, ein Aida-Comic-Andenken. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "crow",
+    "hilda"
+  ],
+  "characters": [
+    "cobaltb",
+    "king",
+    "echo"
+  ]
+}
