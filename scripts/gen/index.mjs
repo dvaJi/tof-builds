@@ -6,6 +6,7 @@ import { main as mainMatrices } from './generateMatrices.mjs';
 import { main as mainMounts } from './generateMounts.mjs';
 import { main as mainSimulacra } from './generateSimulacra.mjs';
 import { main as mainGifts } from './generateGifts.mjs';
+import { main as mainTeams } from './generateTeams.mjs';
 
 import dotenv from 'dotenv';
 dotenv.config();
@@ -40,6 +41,7 @@ async function main() {
       await mainSimulacra(textMap, locale, ENtextMap);
       await mainMounts(textMap, locale, ENtextMap);
       await mainGifts(textMap, locale, ENtextMap);
+      await mainTeams(textMap, locale, ENtextMap);
     }
   }
 

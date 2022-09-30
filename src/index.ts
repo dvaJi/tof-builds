@@ -1,6 +1,9 @@
 import { Character } from './types/character';
 import { Gift } from './types/gift';
 import { Matrix } from './types/matrix';
+import { Team, TeamFull } from './types/team';
+
+export { Character, Gift, Matrix, Team, TeamFull };
 
 export const languages = [
   'en',
@@ -15,7 +18,7 @@ export const languages = [
 
 export type Languages = typeof languages[number];
 
-type Folders = 'simulacra' | 'gifts' | 'items' | 'matrices';
+type Folders = 'simulacra' | 'gifts' | 'items' | 'matrices' | 'teams';
 
 export interface Options {
   language: Languages;
@@ -53,14 +56,61 @@ export default class GenshinData {
     return await this.findByFolder(lang, 'simulacra', query);
   }
 
+  async characterbyId(
+    id: string,
+    query?: QueryOpts<Character>
+  ): Promise<Character | undefined> {
+    const lang = this.getLang();
+    return await this.findById(lang, 'simulacra', id, query);
+  }
+
   async matrices(query?: QueryOpts<Matrix>): Promise<Matrix[]> {
     const lang = this.getLang();
     return await this.findByFolder(lang, 'matrices', query);
   }
 
+  async matrixbyId(
+    id: string,
+    query?: QueryOpts<Matrix>
+  ): Promise<Matrix | undefined> {
+    const lang = this.getLang();
+    return await this.findById(lang, 'matrices', id, query);
+  }
+
   async gifts(query?: QueryOpts<Gift>): Promise<Gift[]> {
     const lang = this.getLang();
     return await this.findByFolder(lang, 'gifts', query);
+  }
+
+  async getFavoriteGiftByCharacterId(
+    id: string,
+    query?: QueryOpts<Gift>
+  ): Promise<Gift[]> {
+    const gifts = await this.gifts(query);
+    return gifts.filter((gift) => gift.favorite?.includes(id));
+  }
+
+  async getGiftsByCharacterId(
+    id: string,
+    query?: QueryOpts<Gift>
+  ): Promise<Gift[]> {
+    const gifts = await this.gifts(query);
+    return gifts.filter((gift) => gift.characters.includes(id));
+  }
+
+  async getTeams(query?: QueryOpts<Team>): Promise<Team[]> {
+    const lang = this.getLang();
+    return await this.findByFolder(lang, 'teams', query);
+  }
+
+  async getTeamsByCharacterId(
+    id: string,
+    query?: QueryOpts<Team>
+  ): Promise<Team[]> {
+    const teams = await this.getTeams(query);
+    return teams.filter((team) =>
+      team.characters.find((character) => character.id === id)
+    );
   }
 
   private async findByFolder<T>(
@@ -75,6 +125,17 @@ export default class GenshinData {
     }
 
     return results;
+  }
+
+  private async findById<T>(
+    lang: Languages,
+    folder: Folders,
+    id: unknown,
+    query?: QueryOpts<T>
+  ): Promise<T | undefined> {
+    const results = await this.findByFolder(lang, folder, query);
+
+    return results.find((r: T) => (r as any)['id'] === id);
   }
 
   private selectProps<T>(results: T[], query: QueryOpts<T>): T[] {

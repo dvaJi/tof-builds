@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "characters": [
+    {
+      "id": "huma",
+      "role": "Tank"
+    },
+    {
+      "id": "nemesis",
+      "role": "Utility"
+    },
+    {
+      "id": "meryl",
+      "role": "Shieldbreaking"
+    }
+  ],
+  "comp": "Coragem",
+  "mode": "PvE"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "characters": [
+    {
+      "id": "meryl"
+    },
+    {
+      "id": "nemesis"
+    },
+    {
+      "id": "cocoritter"
+    }
+  ],
+  "comp": "Benediction",
+  "mode": "PvP"
+}

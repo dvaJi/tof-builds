@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "characters": [
+    {
+      "id": "shiro",
+      "role": "Main DPS"
+    },
+    {
+      "id": "claudia",
+      "role": "Sub DPS"
+    },
+    {
+      "id": "nemesis",
+      "role": "Utility"
+    }
+  ],
+  "comp": "Attack",
+  "mode": "PvE"
+}

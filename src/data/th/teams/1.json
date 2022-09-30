@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "characters": [
+    {
+      "id": "frigg",
+      "role": "Main DPS"
+    },
+    {
+      "id": "tsubasa",
+      "role": "Sub DPS"
+    },
+    {
+      "id": "meryl",
+      "role": "Shieldbreaking"
+    }
+  ],
+  "comp": "โจมตี",
+  "mode": "PvE"
+}

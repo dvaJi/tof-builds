@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "characters": [
+    {
+      "id": "samir",
+      "role": "Main DPS"
+    },
+    {
+      "id": "nemesis",
+      "role": "Utility"
+    },
+    {
+      "id": "zero",
+      "role": "Utility"
+    }
+  ],
+  "comp": "Benediction",
+  "mode": "PvE"
+}

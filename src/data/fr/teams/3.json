@@ -1,0 +1,19 @@
+{
+  "id": 3,
+  "characters": [
+    {
+      "id": "samir",
+      "role": "Main DPS"
+    },
+    {
+      "id": "nemesis",
+      "role": "Utility"
+    },
+    {
+      "id": "king",
+      "role": "Shieldbreaking"
+    }
+  ],
+  "comp": "Attaque",
+  "mode": "PvE"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12,
+  "characters": [
+    {
+      "id": "meryl"
+    },
+    {
+      "id": "nemesis"
+    },
+    {
+      "id": "crow"
+    }
+  ],
+  "mode": "PvP"
+}

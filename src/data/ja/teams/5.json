@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "characters": [
+    {
+      "id": "tsubasa",
+      "role": "Main DPS"
+    },
+    {
+      "id": "nemesis",
+      "role": "Utility"
+    },
+    {
+      "id": "king",
+      "role": "Shieldbreaking"
+    }
+  ],
+  "comp": "強攻",
+  "mode": "PvE"
+}

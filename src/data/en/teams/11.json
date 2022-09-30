@@ -1,0 +1,16 @@
+{
+  "id": 11,
+  "characters": [
+    {
+      "id": "meryl"
+    },
+    {
+      "id": "nemesis"
+    },
+    {
+      "id": "frigg"
+    }
+  ],
+  "comp": "Balance",
+  "mode": "PvP"
+}

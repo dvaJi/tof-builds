@@ -1,0 +1,19 @@
+{
+  "id": 6,
+  "characters": [
+    {
+      "id": "huma",
+      "role": "Tank"
+    },
+    {
+      "id": "meryl",
+      "role": "Shieldbreaking"
+    },
+    {
+      "id": "king",
+      "role": "Shieldbreaking"
+    }
+  ],
+  "comp": "Coragem",
+  "mode": "PvE"
+}

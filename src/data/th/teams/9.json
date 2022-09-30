@@ -1,0 +1,19 @@
+{
+  "id": 9,
+  "characters": [
+    {
+      "id": "shiro",
+      "role": "Shieldbreaking"
+    },
+    {
+      "id": "zero",
+      "role": "Utility"
+    },
+    {
+      "id": "cocoritter",
+      "role": "Utility"
+    }
+  ],
+  "comp": "ประทานพร",
+  "mode": "PvE"
+}
