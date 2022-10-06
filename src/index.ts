@@ -1,9 +1,9 @@
-import { Character } from './types/character';
-import { Gift } from './types/gift';
-import { Matrix } from './types/matrix';
-import { Team, TeamFull } from './types/team';
+import type { Character } from './types/character';
+import type { Gift } from './types/gift';
+import type { Matrix } from './types/matrix';
+import type { Team, TeamFull } from './types/team';
 
-export { Character, Gift, Matrix, Team, TeamFull };
+export type { Character, Gift, Matrix, Team, TeamFull };
 
 export const languages = [
   'en',
