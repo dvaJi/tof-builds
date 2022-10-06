@@ -1,13 +1,14 @@
 {
   "name": "@dvaji/tof-builds",
   "author": "dvaji",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "type": "module",
+  "main": "./dist/index.cjs",
   "exports": {
-    "/": {
+    ".": {
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
     }
