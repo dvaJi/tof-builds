@@ -52,7 +52,8 @@
   },
   {
     "_locid": "Item_Mine_physic02_",
-    "id": "heart_of_summit"
+    "id": "heart_of_summit",
+    "rarity": "R"
   },
   {
     "_locid": "Item_Mine_physic03_",

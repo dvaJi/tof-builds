@@ -1,6 +1,7 @@
 node_modules
 OfficialLocalization/*
 .env
+toweroffantasy.info-main/*
 
 src/min/*
 dist
