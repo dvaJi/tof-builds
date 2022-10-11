@@ -2,18 +2,18 @@
   "id": 6,
   "characters": [
     {
-      "id": "huma",
-      "role": "Tank"
+      "id": "tsubasa",
+      "role": "Main DPS"
     },
     {
-      "id": "meryl",
-      "role": "Shieldbreaking"
+      "id": "nemesis",
+      "role": "Utility"
     },
     {
       "id": "king",
       "role": "Shieldbreaking"
     }
   ],
-  "comp": "剛毅",
+  "comp": "強攻",
   "mode": "PvE"
 }

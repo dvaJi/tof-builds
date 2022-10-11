@@ -265,6 +265,7 @@
       "mat1": {
         "id": "heart_of_summit",
         "name": "山岳の心",
+        "rarity": "R",
         "amount": 5
       },
       "mat2": {

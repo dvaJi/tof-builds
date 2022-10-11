@@ -266,6 +266,7 @@
       "mat1": {
         "id": "heart_of_summit",
         "name": "หัวใจยอดเขา",
+        "rarity": "R",
         "amount": 5
       },
       "mat2": {

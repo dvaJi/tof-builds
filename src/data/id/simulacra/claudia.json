@@ -165,8 +165,8 @@
         "amount": 3
       },
       "mat3": {
-        "id": "booster_frame_i",
-        "name": "Booster Frame I",
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -270,6 +270,7 @@
       "mat1": {
         "id": "heart_of_summit",
         "name": "Heart of Summit",
+        "rarity": "R",
         "amount": 5
       },
       "mat2": {

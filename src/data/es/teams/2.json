@@ -2,7 +2,7 @@
   "id": 2,
   "characters": [
     {
-      "id": "shiro",
+      "id": "cobaltb",
       "role": "Main DPS"
     },
     {
@@ -10,8 +10,8 @@
       "role": "Sub DPS"
     },
     {
-      "id": "nemesis",
-      "role": "Utility"
+      "id": "king",
+      "role": "Shieldbreaking"
     }
   ],
   "comp": "Ataque",

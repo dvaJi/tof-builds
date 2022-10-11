@@ -3909,7 +3909,7 @@
           "amount": "3"
         },
         "mat3": {
-          "name": "booster_frame_i",
+          "name": "nanofiber_frame_i",
           "rarity": "SR",
           "amount": "3"
         }
@@ -4010,6 +4010,280 @@
         },
         "mat3": {
           "name": "nanofiber_frame_ii",
+          "rarity": "SSR",
+          "amount": "5"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH06_Cobalt-B",
+    "name": "Cobalt-B",
+    "weapon": "Flaming Revolver",
+    "element": "Fire",
+    "rarity": "SSR",
+    "id": "cobaltb",
+    "global": false,
+    "tier": 1,
+    "tier_constellation": 6,
+    "pvp": 2,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Main DPS",
+    "soon": false,
+    "new": true,
+    "resonance": "DPS",
+    "shatter": 12.5,
+    "charge": 10,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "A range DPS that focuses on dodge attacking. She really comes to life with her 6th advancement, significantly lowering the cooldown of her very powerful skill with every dodge attack. Change to 4-set Samir or 2-set Samit and 2-set Crow.",
+        "set1": ["Cobalt-B"],
+        "set2": ["Samir", "Crow"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_FPlayerGunMelee_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_FPlayerGunMelee_Melee_des",
+        "values": [52.3, 3, 75.6, 4, 94.5, 5, 142.8, 8, 137.8, 7]
+      },
+      {
+        "name": "GA_FPlayerGunMelee_Power_name",
+        "icon": true,
+        "type": ["Hold: Attack"],
+        "description": "GA_FPlayerGunMelee_Power_des",
+        "values": [95.4, 5, 23.9]
+      },
+      {
+        "name": "GA_FPlayerGunMelee_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Attack"],
+        "description": "GA_FPlayerGunMelee_JumpAttack_des",
+        "values": [90.8, 5]
+      },
+      {
+        "name": "GA_FPlayerGunMelee_AirAttack_name",
+        "icon": true,
+        "type": ["Double Jump"],
+        "description": "GA_FPlayerGunMelee_AirAttack_des",
+        "values": [33.8, 2]
+      },
+      {
+        "name": "GA_FPlayerGunMelee_Branch_name",
+        "icon": true,
+        "type": ["Attack", "Hold: Attack"],
+        "description": "GA_FPlayerGunMelee_Branch_des",
+        "values": [102, 5]
+      },
+      {
+        "name": "GA_FPlayerGunEvade_BackAttack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerGunEvade_BackAttack_des",
+        "values": [156.1, 8]
+      },
+      {
+        "name": "GA_FPlayerGunSkill_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerGunSkill_des",
+        "values": [666, 35]
+      },
+      {
+        "name": "GA_FPlayerGunChangeSkill_NewNew_Sucess_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerGunChangeSkill_NewNew_Sucess_des",
+        "values": [570, 30]
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_element_type_2",
+      "type": "Fire",
+      "description": "ui_weapon_charge_2_desc_0",
+      "values": [0, 0, 0, 58]
+    },
+    "weapon_resonance": {
+      "name": "Buff_GunFire_Flame_Resonance_Overseas_name",
+      "type": "Fire",
+      "description": "Buff_GunFire_Flame_Resonance_Overseas_des"
+    },
+    "advancement": [
+      "Buff_GunFire_Level1_des",
+      "Weapon_level2_atkup_ssr",
+      "Buff_GunFire_Level3_des_OS",
+      "Weapon_level4_atkup_ssr",
+      "Buff_GunFire_Level5_des_OS",
+      "Buff_GunFire_Level6_des_OS"
+    ],
+    "traits": [
+      {
+        "name": "buff_cobalt_b_level1_name",
+        "icon": true,
+        "description": "buff_cobalt_b_level1"
+      },
+      {
+        "name": "buff_cobalt_b_level2_name",
+        "icon": true,
+        "description": "buff_cobalt_b_level2"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "400",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "800",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "1200",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1600",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "3"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "5",
+        "level": "50",
+        "cost": "2000",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "4"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "4"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "6",
+        "level": "60",
+        "cost": "2400",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "6"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "6"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "7",
+        "level": "70",
+        "cost": "2800",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "8"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "8"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3200",
+        "mat1": {
+          "name": "firecore",
+          "rarity": "N",
+          "amount": "11"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "11"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3600",
+        "mat1": {
+          "name": "heart_of_lava",
+          "rarity": "R",
+          "amount": "5"
+        },
+        "mat2": {
+          "name": "nano_coating_ii",
+          "rarity": "SR",
+          "amount": "5"
+        },
+        "mat3": {
+          "name": "booster_frame_ii",
           "rarity": "SSR",
           "amount": "5"
         }

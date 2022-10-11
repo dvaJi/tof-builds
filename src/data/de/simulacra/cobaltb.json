@@ -1,0 +1,288 @@
+{
+  "_id": 18,
+  "id": "cobaltb",
+  "name": "Cobalt-B ",
+  "weapon": "Flammenchaos",
+  "weapon_id": "flaming_revolver",
+  "birthday": "26. Juni (Krebs)",
+  "birthplace": "Banges-Technik",
+  "gender": "Weiblich",
+  "info": "Sie wirkt wie eine ernste, regelkonforme Wissenschaftlerin, ist jedoch tatsächlich sehr flexibel und wenig stereotyp.\nSie zeigt kaum Gemütsregungen in ihrer Mimik, aber wer sie besser kennenlernt, merkt schon bald, dass sie durchaus Emotionen und eigene Gedanken hat, die sie jedoch nur selten zeigt.\nAuch wenn sie eine der führenden Wissenschaftlerinnen in der Kybernetik-Entwicklung ist, folgt sie eher ihrem Bauchgefühl als ihrer Logik.\nSie verlässt sich darauf, um Maschinen zu modifizieren – und manchmal fügt sie sogar vollkommen nutzlose Elemente hinzu, einfach, weil es ihr Spaß macht.",
+  "description": "Cobalt-B – das ist nicht ihr richtiger Name – ist eine Maschinenbauingenieurin im Hykros-Waffenentwicklungsteam. Ihre Position auf der Karriereleiter ist nicht sehr hoch, da siei bei Tests nicht gut abschneidet.\nNur die Leute, die mit ihr zusammenarbeiten, wissen, dass sie in Wirklichkeit das Ass des gesamten Teams ist. Grundlegende Theorien bedeuten ihr nur wenig und bei der Entwicklung effektiver Waffen vertraut sie voll auf ihre Instinkte.\nUm diese Waffen zu testen und Kampfdaten zu sammeln, geht sie gelegentlich mit anderen Soldaten auf Einsätze und probiert ihre Waffen an armen Mitgliedern der Hyänen aus.",
+  "like": "Maschinen, Brainstorming, Artrock",
+  "dislike": "Lernen, Prüfungen",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Die Verwendung des normalen Angriffs auf dem Boden ermöglicht es, 5 Angriffe hintereinander auszuführen.\nDer erste Angriff verursacht Schaden in Höhe von <b>52.3%</b> des ANG +<b>3</b>.\nDer zweite Angriff verursacht Schaden in Höhe von <b>75.6%</b> des ANG +<b>4</b>.\nDer dritte Angriff verursacht Schaden in Höhe von <b>94.5%</b> des ANG + <b>5</b>.\nDer vierte Angriff verursacht Schaden in Höhe von <b>142.8%</b> des ANG +<b>8</b>.\nDer fünfte Angriff verursacht Schaden in Höhe von <b>137.8%</b> des ANG +<b>7</b>."
+    },
+    {
+      "name": "Aufgeladener Schuss",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Halte die Angriffstaste gedrückt, um den Angriff aufzuladen, und lasse sie los, um zu schießen. Dies verursacht Schaden in Höhe von <b>95.4%</b> des ANG +<b>5</b> und 3 Sek. später (oder wenn das Ziel stirbt) eine Explosion, die Gegnern in der Nähe Schaden in Höhe von <b>23.9%</b> x ANG zufügt. Der Flächenschaden verdoppelt sich dabei jedes Mal, wenn ein Ziel im Wirkbereich Schaden erleidet (bis zu <b>4</b>-mal). Zusätzlich steigt der Schaden."
+    },
+    {
+      "name": "Sprungbombe",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "„Sprungbombe“ kann ausgelöst werden, wenn der Anwender in der Luft oder einmal gesprungen ist.\nWirft eine Bombe, die Gegnern in einem Kreis vor dem Anwender Schaden in Höhe von <b>90.8%</b> des ANG + <b>5</b> zufügt und sie eine bestimmte Distanz zurückstößt, wobei <b>250</b> Ausdauer verbraucht wird."
+    },
+    {
+      "name": "Luftsprengung",
+      "type": [
+        "Double Jump"
+      ],
+      "description": "Nach einem Doppelsprung wird ein Omnium-Strahl nach unten geschossen. \nDer Strahl schwingt dann nach vorne und verursacht Schaden in Höhe von <b>33.8%</b> der ATK + <b>2</b>."
+    },
+    {
+      "name": "Schweres Sperrfeuer",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte die Angriffstaste während eines normalen Angriffs gedrückt, um „Suppressionsfeuer“ nach vorne zu entfesseln. Verursacht an Gegnern Flächenschaden in Höhe von <b>102%</b> des ANG +<b>5</b>."
+    },
+    {
+      "name": "Nahkampf",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende den normalen Angriff direkt nach dem Ausweichen, um „Nahkampf“ auszulösen.\nVerursacht Schaden in Höhe von <b>156.1%</b> des ANG + <b>8</b> an Zielen in einem frontalen Kegelbereich."
+    },
+    {
+      "name": "Sperrfeuer",
+      "type": [
+        "Skill"
+      ],
+      "description": "Schießt kontinuierlich in einem frontalen Kegelbereich und verursacht Schaden in Höhe von <b>666%</b> des ANG +<b>35</b>. Abklingzeit: <b>60</b> Sek."
+    },
+    {
+      "name": "Feuerregen",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und <b>3</b> Granaten nach vorne losgelassen. Dies verursacht einen Flächenschaden in Höhe von insgesamt <b>570%</b> des ANG +<b>30</b> und <b>schleudert</b> Ziele weg."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flamme",
+    "description": "Voll geladene Waffen entzünden das Ziel beim nächsten Angriff für <b>8</b> Sekunden und verursachen kontinuierlich Schaden in Höhe von <b>58%</b> des ANG pro Sekunde. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+  },
+  "weapon_resonance": {
+    "name": "Flammenresonanz",
+    "description": "<b>Flammenresonanz</b>: Erhöht Flammen-ANG um <b>15%</b> und Flammenwiderstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Flammenwaffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Dieser Effekt kann nicht gestapelt werden."
+  },
+  "advancement": [
+    "Jede Angriffsrunde fügt zusätzlichen Schaden in Höhe von <b>2%</b> der aktuellen LP des Ziels zu. Kann max. <b>200%</b> des ANG betragen.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "„Schweres Sperrfeuer“, „Ausweichangriff“ und „Nahkampf“ verursachen <span class=\"text-green\">Ionenversengung</span> bei Zielen, die bereits verbrannt wurden, und fügen ihnen für <b>10</b> Sek. pro Sek. Flammenschaden in Höhe von <b>60%</b> ihres aktuellen ANG zu.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Der von <span class=\"text-green\">Ionenversengung</span> verursachte Schaden wird auf <b>90%</b> des ANG erhöht. Erfolgreiche Angriffe mit den Ausweichfähigkeiten einer beliebigen Waffe setzen die Dauer von <span class=\"text-green\">Ionenversengung</span> zurück.",
+    "<span class=\"text-green\">Sperrfeuer</span> fügt <b>15</b> Sek. lang „Verbrennen“ zu. Erfolgreiche Angriffe mit den Ausweichfähigkeiten von Waffen verringern die Abklingzeit von <span class=\"text-green\">Sperrfeuer</span> um <b>4</b> Sek. Dieser Effekt hat eine Abklingzeit von <b>1,5</b> Sek."
+  ],
+  "traits": [
+    {
+      "name": "Verweilende Wärme",
+      "icon": true,
+      "description": "Bei Verwendung einer Entladefähigkeit stellt Cobalt-B eine zufällige Menge von <b>50</b> bis <b>120</b> Punkten an Waffenladung wieder her."
+    },
+    {
+      "name": "Cobalt-B – Funke",
+      "icon": true,
+      "description": "Bei Verwendung einer Entladefähigkeit stellt Cobalt-B eine zufällige Menge von <b>90</b> bis <b>180</b> Punkten an Waffenladung wieder her."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Feuerkern",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Herz aus Lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster-Rahmen II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

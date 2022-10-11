@@ -12,7 +12,7 @@
   "tier_pending": false,
   "role": "Sub DPS",
   "soon": false,
-  "new": true,
+  "new": false,
   "resonance": "DPS",
   "shatter": 7.5,
   "charge": 12,
@@ -177,7 +177,7 @@
         "amount": "3"
       },
       "mat3": {
-        "name": "Booster Frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": "3"
       }

@@ -1,0 +1,288 @@
+{
+  "_id": 18,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "weapon": "Flaming Revolver",
+  "weapon_id": "flaming_revolver",
+  "birthday": "26 Juni (Cancer)",
+  "birthplace": "Banges Tech",
+  "gender": "Perempuan",
+  "info": "Tampilannya seperti ilmuwan yang sangat serius dan saklek, tetapi justru tidak kaku maupun stereotipikal.\nMukanya nyaris tanpa ekspresi layaknya tak punya otot wajah. Tapi kalau sudah kenal lebih jauh, tampak jelas bahwa dia supel dan bisa menunjukkan perasaan dan ekspresif, misalnya menggembungkan pipi saat marah.\nMeskipun berperan sebagai ilmuwan kepala dalam bidang pengembangan sibernetika, dia kerap mengedepankan naluri daripada logika.\nMengandalkan intuisi yang kuat untuk memodifikasi mesin, meskipun tidak sampai menambahkan alat yang sungguh tak berguna sebagai bentuk preferensinya.",
+  "description": "Cobalt-B (bukan nama asli) adalah teknisi mekanis untuk tim pengembangan senjata Hykros. Posisinya tidak terlalu tinggi di hierarki perusahaan karena hasil tesnya tidak terlalu bagus.\nHanya rekan kerjanya yang tahu bahwa dia sesungguhnya figur yang paling ulung dalam tim. Dia tak peduli soal teori dasar dan hanya membuat senjata yang sangat efektif dengan berbekal naluri.\nUntuk menguji senjata ini dan mengumpulkan data tempur, dia kadang ikut dengan operasi bersama tentara lain dan menjajal senjatanya ke anggota Hyena.",
+  "like": "Permesinan, mencari ide, batu artistik",
+  "dislike": "Belajar, ujian",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ketuk tombol Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan pertama menimbulkan <b>52.3%</b> ATK + <b>3</b> damage.\nSerangan kedua menimbulkan <b>75.6%</b> ATK + <b>4</b> damage.\nSerangan ketiga menimbulkan <b>94.5%</b> x ATK + <b>5</b> damage.\nSerangan keempat menimbulkan <b>142.8%</b> ATK + <b>8</b> damage.\nSerangan kelima menimbulkan <b>137.8%</b> ATK + <b>7</b> damage."
+    },
+    {
+      "name": "Charged Shot",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tahan tombol Serang untuk mengisi serangan, lalu lepaskan untuk menembakkan peluru, yang akan menimbulkan <b>95.4%</b> ATK + <b>5</b> damage, plus ledakan tiga detik kemudian (atau jika target mati), sehingga akan menimbulkan <b>23.9%</b> x ATK Damage kepada musuh di sekitar, dan AOE akan berlipat ganda (maks <b>4</b> kali) setiap kali target di area itu kena damage, dan peningkatan damage."
+    },
+    {
+      "name": "Jumping Blast",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat Airborne atau setelah melompat satu kali, gunakan Aerial Attack untuk mengaktifkan Jumping Blast.\nLempar bom yang menimpakan damage sebanyak <b>90.8%</b> ATK + <b>5</b> kepada musuh dalam lingkaran di depan, memukul mundur mereka sejauh jarak tertentu dan menghabiskan <b>250</b> Endurance."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Double Jump"
+      ],
+      "description": "Lancarkan Jumping Blast setelah Double Jumping.\nTembakkan sinar Omnium ke bawah. Sinar itu kemudian menyapu ke depan, ini menimpakan damage sebanyak <b>33.8%</b> ATK + <b>2</b>."
+    },
+    {
+      "name": "Heavy Bombardment",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tahan tombol Serang saat melancarkan Normal Attack untuk melepaskan Suppressing Fire di depan, dan menimbulkan <b>102%</b> ATK + <b>5</b> AOE Damage kepada musuh."
+    },
+    {
+      "name": "Close Quarters",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Menggunakan Normal Attack untuk menghindar tepat setelah mengaktifkan Close Quarters.\nMenimpakan damage sebanyak <b>156.1%</b> ATK + <b>8</b> kepada target di area kerucut di depan."
+    },
+    {
+      "name": "Barrage",
+      "type": [
+        "Skill"
+      ],
+      "description": "Menembak terus-menerus ke area kerucut di depan untuk menimbulkan <b>666%</b> ATK + <b>35</b>damage. Cooldown: <b>60</b> detik."
+    },
+    {
+      "name": "Explosive Rain",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan akan melemparkan <b>3</b> granat ke depan sehingga akan menimbulkan <b>570%</b> ATK + <b>30</b> AOE Damage kepada semua target dan membuat mereka <b>terpental</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>58%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+  },
+  "weapon_resonance": {
+    "name": "Flame Resonance",
+    "description": "<b>Flame Resonance</b>: Meningkatkan Flame ATK sebesar <b>15%</b> dan Flame Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Flame Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata yang ada di slot tangan non-dominan. Efek tidak dapat ditumpuk."
+  },
+  "advancement": [
+    "Setiap ronde serangan akan menimpakan damage tambahan sebanyak <b>2%</b> dari HP target saat ini (tidak boleh melebihi <b>200%</b> ATK).",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "\"Heavy Bombardment\", \"Dodge Attack\", dan \"Close Quarters\" mengakibatkan <span class=\"text-green\">Ion Scorch</span> kepada target yang sudah kena Burn sehingga akan menimbulkan Flame Damage sebanyak <b>60%</b> dari HP mereka saat ini setiap detik selama <b>10</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Damage dari <span class=\"text-green\">Ion Scorch</span> meningkat sampai maks <b>90%</b> ATK. Serangan yang berhasil dengan Dodge Skill dari senjata apa saja akan menyegarkan durasi <span class=\"text-green\">Ion Scorch</span>.",
+    "<span class=\"text-green\">Barrage</span> mengakibatkan efek Burn selama <b>15</b> detik. Serangan yang berhasil dengan Dodge Skill dari senjata apa saja akan mengurangi cooldown <span class=\"text-green\">Barrage</span> sebanyak <b>4</b> detik. Efek ini punya cooldown <b>1,5</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "Lingering Warmth",
+      "icon": true,
+      "description": "Setelah menggunakan Discharge Skill, Cobalt-B akan memulihkan Weapon Charge secara acak antara <b>50</b> hingga <b>120</b> poin."
+    },
+    {
+      "name": "Sparks",
+      "icon": true,
+      "description": "Setelah menggunakan Discharge Skill, Cobalt-B akan memulihkan Weapon Charge secara acak antara <b>90</b> hingga <b>180</b> poin."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Heart of Lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

@@ -266,6 +266,7 @@
       "mat1": {
         "id": "heart_of_summit",
         "name": "Corazón de cima",
+        "rarity": "R",
         "amount": 5
       },
       "mat2": {

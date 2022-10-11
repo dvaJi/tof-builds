@@ -1,0 +1,288 @@
+{
+  "_id": 18,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "weapon": "Revólver ardiente",
+  "weapon_id": "flaming_revolver",
+  "birthday": "26 de junio (Cáncer)",
+  "birthplace": "Tecnología Banges",
+  "gender": "Femenino",
+  "info": "Parece una científica muy seria y de manual, pero en realidad es un antiestereotipo flexible.\nApenas muestra ninguna expresión, como si no tuviera músculos faciales. Pero es obvio que uno puede decir que no es distante después de conocerla, con muchas emociones y pensamientos propios, como hinchar las mejillas cuando está enfadada.\nA pesar de ser una científica líder en el desarrollo de la cibernética, a menudo se guía por el instinto más que por la lógica.\nSe basa en fuertes intuiciones para modificar las máquinas, aunque no está por encima de añadir aditamentos completamente inútiles solo por preferencia.",
+  "description": "Cobalt-B, que no es su verdadero nombre, es una ingeniera mecánica del equipo de desarrollo de armas de Hykros. Su puesto no es demasiado alto en la escala corporativa, porque sus resultados en las pruebas no son muy buenos.\nSolo las personas con las que trabaja saben que ella es, de hecho, el as de todo el equipo. No le importan las teorías básicas, y solo crea armas extremadamente eficaces basándose en su instinto.\nPara probar estas armas y recopilar datos de combate, de vez en cuando acude a operaciones con otros soldados y prueba sus armas con las desafortunadas Hienas.",
+  "like": "Maquinaria, lluvias de ideas, rock artístico",
+  "dislike": "Estudiar, los exámenes",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, pulsa el botón de ataque normal para lanzar 5 ataques seguidos.\nEl primer ataque inflige daño equivalente al <b>52.3%</b> del ATQ + <b>3</b>.\nEl segundo ataque inflige daño equivalente al <b>75.6%</b> del ATQ + <b>4</b>.\nEl tercer ataque inflige daño equivalente al <b>94.5%</b> del ATQ + <b>5</b>.\nEl cuarto ataque inflige daño equivalente al <b>142.8%</b> del ATQ + <b>8</b>.\nEl quinto ataque inflige daño equivalente al <b>137.8%</b> del ATQ + <b>7</b>."
+    },
+    {
+      "name": "Disparo cargado",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Mantén el botón de ataque para cargar el ataque, luego suelta para disparar proyectiles que infligen un <b>95.4%</b> del ATQ + <b>5</b> de daño, más una explosión tres segundos después (o si el objetivo muere), lo que inflige daño equivalente al <b>23.9%</b> del ATQ a los enemigos cercanos; el área de efecto se duplica cada vez que un objetivo en el área recibe daño (hasta <b>4</b> veces), además de infligir daño aumentado."
+    },
+    {
+      "name": "Ráfaga de salto",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, usa un ataque aéreo para activar Ráfaga de Salto.\nLanza una bomba que inflige daño equivalente al <b>90.8%</b> del ATQ + <b>5</b> a los enemigos en un círculo adelante, los hace retroceder un poco y consume <b>250</b> de resistencia."
+    },
+    {
+      "name": "Descarga aérea",
+      "type": [
+        "Double Jump"
+      ],
+      "description": "Lanza una Ráfaga de salto después de un doble salto.\nDispara un rayo de Omnio hacia abajo. El rayo se desplaza hacia adelante e inflige daño equivalente al <b>33.8%</b> del ATQ + <b>2</b>."
+    },
+    {
+      "name": "Bombardeo pesado",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Mantén el botón de ataque durante un ataque normal para desatar Fuego Sofocante hacia adelante, lo que inflige a los enemigos un <b>102%</b> del ATQ + <b>5</b> de daño de área de efecto."
+    },
+    {
+      "name": "Corta distancia",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa el ataque normal luego de evadir para activar Corta distancia.\nInflige daño equivalente al <b>156.1%</b> del ATQ + <b>8</b> a los objetivos en un área de cono frontal."
+    },
+    {
+      "name": "Ráfaga",
+      "type": [
+        "Skill"
+      ],
+      "description": "Dispara constantemente en un área de cono frontal para infligir <b>666%</b> del ATQ + <b>35</b> de daño. Enfriamiento: <b>60</b> segundos."
+    },
+    {
+      "name": "Lluvia explosiva",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y lanza <b>3</b> granadas hacia adelante, lo que inflige daño de área de efecto equivalente al <b>570%</b> del ATQ + <b>30</b> y <b>lanza</b> al aire."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fuego",
+    "description": "Las armas completamente cargadas prenderán fuego al objetivo durante <b>8</b> segundos con el siguiente ataque, lo que inflige un daño continuo del <b>58%</b> del ATQ cada segundo. Los objetivos incendiados reciben un <b>50%</b> de eficacia de la curación."
+  },
+  "weapon_resonance": {
+    "name": "Resonancia de Fuego",
+    "description": "<b>Resonancia de Fuego</b>: aumenta el ATQ de Fuego en un <b>15%</b> y la resistencia al fuego en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de fuego. Este efecto de conjunto también funciona con armas en la ranura secundaria. El efecto no se puede acumular."
+  },
+  "advancement": [
+    "Cada ronda de ataques inflige daño adicional equivalente al <b>2%</b> de los PS actuales del objetivo (no puede sobrepasar el <b>200%</b> del ATQ).",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "\"Bombardeo Pesado\", \"Evadir\" y \"Corta Distancia\" infligen <span class=\"text-green\">Incineración Iónica</span> a objetivos que ya están quemados, lo que inflige daño de fuego igual al <b>60%</b> de su ATQ actual cada segundo por <b>10</b> segundos.",
+    "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
+    "El daño de <span class=\"text-green\">Incineración Iónica</span> aumenta al <b>90%</b> del ATQ. Los ataques exitosos con cualquier habilidad de esquivar de arma reiniciarán la duración de <span class=\"text-green\">Incineración Iónica</span>.",
+    "<span class=\"text-green\">Ráfaga</span> inflige quemaduras por <b>15</b> segundos. Los ataques exitosos con las habilidades de evasión de cualquier arma reducen el enfriamiento de <span class=\"text-green\">Ráfaga</span> por <b>4</b> segundos. Este efecto tiene un enfriamiento de <b>1.5</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "Calor Perdurable",
+      "icon": true,
+      "description": "Tras usar una habilidad de descarga, Cobalt-B restaura una cantidad aleatoria de carga de arma en un rango de entre <b>50</b> y <b>120</b> puntos."
+    },
+    {
+      "name": "Chispas",
+      "icon": true,
+      "description": "Tras usar una habilidad de descarga, Cobalt-B restaura una cantidad aleatoria de carga de arma en un rango de entre <b>90</b> y <b>180</b> puntos."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón reforzado I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón reforzado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón reforzado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón reforzado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Núcleo de fuego",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón reforzado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Corazón de lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Armazón reforzado II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

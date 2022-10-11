@@ -165,8 +165,8 @@
         "amount": 3
       },
       "mat3": {
-        "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 3
       }
@@ -270,6 +270,7 @@
       "mat1": {
         "id": "heart_of_summit",
         "name": "Cœur du sommet",
+        "rarity": "R",
         "amount": 5
       },
       "mat2": {

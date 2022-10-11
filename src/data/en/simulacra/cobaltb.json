@@ -1,0 +1,288 @@
+{
+  "_id": 18,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "weapon": "Flaming Revolver",
+  "weapon_id": "flaming_revolver",
+  "birthday": "26 June (Cancer)",
+  "birthplace": "Banges Tech",
+  "gender": "Female",
+  "info": "Appeared as a very serious, by-the-book scientist, but actually a flexible anti-stereotype.\nHardly shows any expression as if he had no facial muscles. But one can obviously tell he is not aloof after getting to know him, with many emotions and thoughts of his own, such as puffing his cheeks out when he's angry.\nDespite being a leading scientist in the development of cybernetics, he often goes by instinct rather than logic.\nRelies on strong intuitions to modify machines, though not above adding completely useless attachments just for preference.",
+  "description": "Cobalt-B, which is not her real name, is a mechanical engineer on the Hykros weapon development team. Her position isn't too high up on the corporate ladder, because her test results aren't very good.\nOnly the people that she works with know that she is, in fact, the ace of the entire team. She doesn't care about basic theories, and only creates extremely effective weapons based on her instinct.\nTo test these weapons and collect combat data, she occasionally goes on operations with other soldiers and tries her weapons on poor Hyena members.",
+  "like": "Machinery, brainstorming, artistic rock",
+  "dislike": "Studying, exams",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "On the ground, tap normal attack button to launch 5 attacks in a row.\nThe first attack deals <b>52.3%</b> of ATK + <b>3</b> damage.\nThe second attack deals <b>75.6%</b> of ATK + <b>4</b> damage.\nThe third attack deals <b>94.5%</b> x ATK + <b>5</b> damage.\nThe fourth attack deals <b>142.8%</b> of ATK + <b>8</b> damage.\nThe fifth attack deals <b>137.8%</b> of ATK + <b>7</b> damage."
+    },
+    {
+      "name": "Charged Shot",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Hold attack button to charge the attack, then release to fire rounds dealing <b>95.4%</b> of ATK + <b>5</b> damage, plus explosion three seconds later (or if the target dies), dealing <b>23.9%</b> x ATK damage to nearby enemies, with AOE doubling each time (up to <b>4</b> times) a target in the area is dealt damage, plus increased damage."
+    },
+    {
+      "name": "Jumping Blast",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, use an ariel attack to trigger Jumping Blast.\nToss a bomb that deals damage equal to <b>90.8%</b> of ATK + <b>5</b> to enemies in a circle ahead, knocking them back a certain distance and consume <b>250</b> endurance."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Double Jump"
+      ],
+      "description": "Launch Jumping Blast after double jumping.\nFire an Omnium beam downward. The beam then sweeps forward, dealing damage equal to <b>33.8%</b> of ATK + <b>2</b>."
+    },
+    {
+      "name": "Heavy Bombardment",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Hold attack button during a normal attack to unleash Suppressing Fire in front, and deal enemies <b>102%</b> of ATK + <b>5</b> AOE damage."
+    },
+    {
+      "name": "Close Quarters",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack right after dodging to trigger Close Quarters.\nDeal damage equal to <b>156.1%</b> of ATK + <b>8</b> to targets in a frontal cone area."
+    },
+    {
+      "name": "Barrage",
+      "type": [
+        "Skill"
+      ],
+      "description": "Constant fire in a forward cone area to deal <b>666%</b> of ATK + <b>35</b>damage. Cooldown: <b>60</b> seconds."
+    },
+    {
+      "name": "Explosive Rain",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, and unleashes <b>3</b> grenades forward, dealing <b>570%</b> of ATK + <b>30</b> AOE damage in all and causing <b>launch</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>58%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+  },
+  "weapon_resonance": {
+    "name": "Flame Resonance",
+    "description": "<b>Flame Resonance</b>: Increase flame ATK by <b>15%</b> and flame resistance by <b>25%</b>. Activate by equipping <b>2</b> or more flame weapons. This set effect also works with weapons in the off-hand slot. This effect does not stack."
+  },
+  "advancement": [
+    "Each round of attacks deals additional damage equal to <b>2%</b> of the target's current HP (cannot exceed <b>200%</b> of ATK).",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "Heavy Bombardment, Dodge Attack, and Close Quarters inflict <span class=\"text-green\">Ion Scorch</span> on targets that are already burned, dealing flame damage equal to <b>60%</b> of their current ATK every second for <b>10</b> seconds.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "The damage from <span class=\"text-green\">Ion Scorch</span> increases to <b>90%</b> of ATK. Successful attacks with any weapon's dodge skills will refresh the duration of <span class=\"text-green\">Ion Scorch</span>.",
+    "<span class=\"text-green\">Barrage</span> inflicts burn for <b>15</b> seconds. Successful attacks with any weapon's dodge skills reduce the cooldown of <span class=\"text-green\">Barrage</span> by <b>4</b> seconds. This effect has a <b>1.5</b>-second cooldown."
+  ],
+  "traits": [
+    {
+      "name": "Lingering Warmth",
+      "icon": true,
+      "description": "Upon using a discharge skill, Cobalt-B restores a random amount of weapon charge between <b>50</b> and <b>120</b> points."
+    },
+    {
+      "name": "Sparks",
+      "icon": true,
+      "description": "Upon using a discharge skill, Cobalt-B restores a random amount of weapon charge between <b>90</b> and <b>180</b> points."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nano coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Heart of lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nano coating II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Booster frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

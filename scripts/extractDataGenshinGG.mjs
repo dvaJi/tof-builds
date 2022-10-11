@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 const DATA_PATH = path.join(__dirname, "..", "_content", "data_gg");
 
 function main() {
-  const simulacras = asd["webpackJsonpgenshin-react"][0][1]["31"]();
+  const simulacras = asd[31]();
 
   for (const simulacra of simulacras) {
     fs.writeFileSync(
@@ -24,7 +24,7 @@ function main() {
     );
   }
 
-  const matrices = asd["webpackJsonpgenshin-react"][0][1]["48"]();
+  const matrices = asd["48"]();
 
   for (const matrix of matrices) {
     fs.writeFileSync(
@@ -33,7 +33,7 @@ function main() {
     );
   }
 
-  const gifts = asd["webpackJsonpgenshin-react"][0][1]["95"]();
+  const gifts = asd["95"]();
 
   for (const gift of gifts) {
     fs.writeFileSync(
@@ -42,7 +42,7 @@ function main() {
     );
   }
 
-  const teams = asd["webpackJsonpgenshin-react"][0][1]["96"]();
+  const teams = asd["96"]();
 
   const finalTeams = teams
     .filter((t) => t.show)

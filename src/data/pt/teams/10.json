@@ -2,15 +2,18 @@
   "id": 10,
   "characters": [
     {
-      "id": "meryl"
+      "id": "shiro",
+      "role": "Shieldbreaking"
     },
     {
-      "id": "nemesis"
+      "id": "zero",
+      "role": "Utility"
     },
     {
-      "id": "cocoritter"
+      "id": "cocoritter",
+      "role": "Utility"
     }
   ],
   "comp": "Bendição",
-  "mode": "PvP"
+  "mode": "PvE"
 }

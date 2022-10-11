@@ -165,8 +165,8 @@
         "amount": 3
       },
       "mat3": {
-        "id": "booster_frame_i",
-        "name": "โครงบูสเตอร์ I",
+        "id": "nanofiber_frame_i",
+        "name": "โครงนาโนไฟเบอร์ I",
         "rarity": "SR",
         "amount": 3
       }
@@ -270,6 +270,7 @@
       "mat1": {
         "id": "heart_of_summit",
         "name": "หัวใจยอดเขา",
+        "rarity": "R",
         "amount": 5
       },
       "mat2": {

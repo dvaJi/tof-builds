@@ -3,5 +3,6 @@
   "id": "heart_of_summit",
   "name": "Corazón de cima",
   "description": "Mineral raro y extremadamente duro que requiere una tecnología especial de Omnio para su forja.",
-  "usage": "Para aumentar las armas."
+  "usage": "Para aumentar las armas.",
+  "rarity": "R"
 }

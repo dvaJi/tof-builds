@@ -2,18 +2,18 @@
   "id": 8,
   "characters": [
     {
-      "id": "samir",
-      "role": "Main DPS"
+      "id": "huma",
+      "role": "Tank"
     },
     {
       "id": "nemesis",
       "role": "Utility"
     },
     {
-      "id": "zero",
-      "role": "Utility"
+      "id": "meryl",
+      "role": "Shieldbreaking"
     }
   ],
-  "comp": "Sacramento",
+  "comp": "Fortaleza",
   "mode": "PvE"
 }

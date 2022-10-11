@@ -164,8 +164,8 @@
         "amount": 3
       },
       "mat3": {
-        "id": "booster_frame_i",
-        "name": "合金強化フレームⅠ型",
+        "id": "nanofiber_frame_i",
+        "name": "ナノファイバーフレームⅠ型",
         "rarity": "SR",
         "amount": 3
       }
@@ -269,6 +269,7 @@
       "mat1": {
         "id": "heart_of_summit",
         "name": "山岳の心",
+        "rarity": "R",
         "amount": 5
       },
       "mat2": {

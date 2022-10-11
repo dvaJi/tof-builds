@@ -1,0 +1,15 @@
+{
+  "name": "Cobalt-B",
+  "id": "cobaltb",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Restore 1 dodge every 4 dodges. Dodge attacks add burn to the target, dealing <b>13%/17%/21%/25%</b> attack damage per second for 10 seconds."
+    },
+    {
+      "count": 4,
+      "value": "Increases damage by <b>13%/17%/21%/25%</b> to targets with abnormal statuses."
+    }
+  ]
+}
