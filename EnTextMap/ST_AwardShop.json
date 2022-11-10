@@ -1,0 +1,9 @@
+{
+  "{0} [@$day|days]": "days",
+  "{0} hours": "hours",
+  "{0}% Off": "discount",
+  "Unlimited": "no_limit_amount",
+  "Crew Store unlocks after Lv.{0}": "guildshop_locked",
+  "About to be reset": "replenish_soon",
+  "Refreshed": "have_replenished"
+}

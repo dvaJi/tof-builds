@@ -1,0 +1,14 @@
+{
+  "Identity selection in {0} seconds": "eg_choose_camp_count_down",
+  "Auto-exit in {0} seconds": "gameplay_auto_quit",
+  "Auto selection of identity in {0} seconds": "eg_auto_choose_camp_count_down",
+  "Remaining Resurrects: ": "eg_left_relive_count",
+  "Tap cards to select identity": "eg_choose_camp",
+  "Waiting for other Wanderers to join. Game starts in {0} seconds.": "gameplay_waiting_other_player_load_count_down",
+  "Awaiting selection...": "eg_waiting_choose",
+  "Insufficient backpack space. Unable to send rewards.": "eg_inventory_not_enough_slot",
+  "Spectate": "eg_spectate",
+  "Spectate the next Wanderer": "eg_spectate_next",
+  "Failed to escape. Auto spectating in {0} seconds.": "eg_failed_auto_spectate_count_down",
+  "Success. Auto spectating in {0} seconds.": "eg_success_auto_spectate_count_down"
+}

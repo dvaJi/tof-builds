@@ -1,0 +1,12 @@
+{
+  "Good job! You've got the correct answer!": "exam_answer_right",
+  "Review the questions for better result next time!": "exam_result_b",
+  "You almost got the right answer. Keep trying!": "exam_result_a",
+  "You've got all the correct answers! Respect!": "exam_result_s",
+  "There's still room for improvement. Don't give up! Just keep going!": "exam_result_c",
+  "Wrong answer.": "exam_answer_wrong",
+  "Q.{0}": "exam_question_number",
+  "EXP Obtained: {0}": "exam_got_exp",
+  "Obtained: {0}": "exam_got_award_items",
+  "Which one to choose?": "exam_answer_choice"
+}
