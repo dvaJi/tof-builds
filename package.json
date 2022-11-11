@@ -35,13 +35,16 @@
   },
   "devDependencies": {
     "@types/node": "^16.18.2",
+    "aws-sdk": "^2.1242.0",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.3",
     "globby": "^13.1.2",
     "jsdom": "^20.0.1",
     "node-fetch": "^3.2.10",
     "prettier": "^2.7.1",
-    "typescript": "^4.8.4"
+    "rimraf": "^3.0.2",
+    "typescript": "^4.8.4",
+    "vite": "^3.2.0"
   },
   "prettier": {
     "printWidth": 80,
@@ -49,9 +52,5 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "dependencies": {
-    "aws-sdk": "^2.1242.0",
-    "rimraf": "^3.0.2",
-    "vite": "^3.2.0"
-  }
+  "dependencies": {}
 }
