@@ -1,0 +1,289 @@
+{
+  "name": "Ruby",
+  "weapon": "Spark",
+  "element": "Fire",
+  "rarity": "SSR",
+  "id": "ruby",
+  "global": false,
+  "tier": 1,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": true,
+  "resonance": "DPS",
+  "shatter": 11.5,
+  "charge": 8,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "The premiere DPS for fire teams who excels against targets with burn.",
+      "set1": [
+        "Ruby"
+      ],
+      "set2": [
+        "Samir",
+        "Crow"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spark Attack",
+      "icon": true,
+      "type": [
+        "Attack"
+      ],
+      "description": "<p>While on the ground, tap the normal attack button to command Spark to attack 5 times in a row.</p>\n<ul>\n<li>First Attack: Deal total damage equal to 84.6% of ATK + 4 against each target.</li>\n<li>Second Attack: Deal total damage equal to 93% of ATK + 5 against each target.</li>\n<li>Third Attack: Deal total damage equal to 101.5% of ATK + 5 against each target.</li>\n<li>Fourth Attack: Deal total damage equal to 109.9% of ATK + 6 against each target.</li>\n<li>Fifth Attack: Deal total damage equal to 253.7% of ATK + 13 against each target and launches targets.</li>\n</ul>"
+    },
+    {
+      "name": "Aerial Discharge",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "<p>While airborne, tap the normal attack button to command Spark to attack 4 times in a row.</p>\n<ul>\n<li>First Attack: Deal damage equal to 97.1% of ATK + 5 against each target.</li>\n<li>Second Attack: Deal damage equal to 106.8% of ATK + 6 against each target.</li>\n<li>Third Attack: Deal damage equal to 121.3% of ATK + 6 against each target.</li>\n<li>Fourth Attack: Deal damage equal to 145.6% of ATK + 8 against each target.</li>\n</ul>"
+    },
+    {
+      "name": "Gotcha!",
+      "icon": true,
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold the normal attack button or do this after Lockdown Zone is triggered to continuously fire searing energy beams at enemies in a target direction, dealing damage equal to 40% of ATK + 2. Consumes Wanderer's endurance.</p>"
+    },
+    {
+      "name": "Blazing Dive",
+      "icon": true,
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "<p>Tap and hold normal attack while airborne to trigger Blazing Dive.</p>\n<p>Envelop the body in energy before rapidly plunging into the ground, dealing damage equal to 172.1% of ATK + 9 to nearby targets.</p>"
+    },
+    {
+      "name": "Lockdown Zone",
+      "icon": true,
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "<p>After the second normal attack, hold the button during any attack to deal damage equal to 40% of ATK + 2 against the target. The locked-on target is confined and burned for 3 seconds, and damage equal to 26.2% of ATK + 1 is dealt to the target every second (ineffective against bosses)."
+    },
+    {
+      "name": "Go, Dolly!",
+      "icon": true,
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Throw Dolly after dodging. Dolly remains for 10 seconds, drawing in nearby enemies and dealing damage equal to 84.6% of ATK + 4 against them, as well as taunting them for 1.5 seconds, causing them to divert their attacks to Dolly (cannot taunt enemies when in a team)."
+    },
+    {
+      "name": "Sparkling Collider",
+      "icon": true,
+      "type": [
+        "Skill"
+      ],
+      "description": "<p>Spark fires out Sparks that last for 15 seconds and bounces between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for 4 seconds with a 15-second cooldown. Sparks deals more damage the further it travels. On hit, it deals damage up to 350% of ATK + 37 and inflicts a 25-second Emblazen mark on the target. At the same time, Spark fires 4 bullets with each bullet dealing damage equal to 50% of ATK + 3 against its target. Spark''s normal attacks deal 30% more damage to Emblazen-marked targets. When Sparks hits targets burned by the Wanderer, it burns or ignites the target once and deals additional damage equal to 45% of the total remaining damage (multiple burn or incendiary effects are counted together). The result calculation cooldown is 6 seconds and the skill cooldown is 30 seconds.</p>\n<p>Passive: When Sparks is active, each time Spark Attack deals damage, the Wanderer gains 1 point of Heat with a 0.9-second cooldown, for up to 8 points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by 10% for 25 seconds.</p>"
+    },
+    {
+      "name": "Supernova",
+      "icon": true,
+      "type": [
+        "Discharge"
+      ],
+      "description": "<p>When weapon charge is full or Phantasia is triggered, switching to this weapon from another weapon removes all debuffs from the wielder. Spark enters a charged state, continuously blasting searing energy at the target location before eventually exploding, dealing damage equal to 750% of ATK + 39.</p>\n<p>When Sparks hits targets burned by the Wanderer, it burns or ignites the target once and deals additional damage equal to 45% of the total remaining damage (multiple burn or incendiary effects are counted together). The result calculation cooldown is 6 seconds. Damage immunity lasts for 1.5 seconds when the skill is active (unavailable in Apex League)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "type": "Fire",
+    "description": "Fully charged weapons will set the target on fire for 8 seconds with the next attack, causing ongoing damage of 58% of ATK every second. Ignited targets receive 50% efficacy from healing."
+  },
+  "weapon_resonance": {
+    "name": "Flame Resonance",
+    "type": "Fire",
+    "description": "Increase flame ATK by 15% and flame resistance by 25%. Active by equipping 2 or more flame weapons. This set effect also works with weapons in the off-hand slot. Effect cannot be stacked."
+  },
+  "advancement": [
+    "Emblazen boosts the damage of Spark Attack to 80%. Skill cooldown drops to 24 seconds.",
+    "Increase the current weapon's base ATK growth by 16%.",
+    "Emblazen increases flame boost by 8% and the burn multiplier to 75%.",
+    "Increase the current weapon's base ATK growth by 32%.",
+    "Restore an additional 75 points of weapon charge each time Spark Attack hits an enemy. Cooldown: 0.9 seconds. Shatter increases by 25% when Ultimate Heat is active.",
+    "Emblazen boosts the damage of Spark Attack to 160% and doubles Heat acquisition efficiency. Skill cooldown drops to 16 seconds."
+  ],
+  "traits": [
+    {
+      "name": "Dreamcatcher",
+      "icon": true,
+      "description": "Increases the flame damage taken by all enemies within 5 meters of Dolly by 8%. This effect does not stack."
+    },
+    {
+      "name": "Dolly's Domain",
+      "icon": true,
+      "description": "Increases the flame damage taken by all enemies within 5 meters of Dolly by 8%. Not stackable. Increases flame ATK after throwing Dolly by 12% for 10 seconds. This effect does not stack."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "Heart of Lava",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

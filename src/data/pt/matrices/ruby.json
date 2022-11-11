@@ -1,0 +1,31 @@
+{
+  "_id": 29,
+  "id": "ruby",
+  "suitName": "Dança do Coelho Branco",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4
+    }
+  ],
+  "mind": {
+    "name": "Surgimento",
+    "desc": "Os botões de flor delicados estão sempre bem protegidinhos, mas eles também querem ir pra linha de frente e ficar lado a lado com ela, mesmo que seja na ponta do pé."
+  },
+  "memory": {
+    "name": "Vapor",
+    "desc": "Tão nebulosos quanto vapor, os tais eventos passados são só ilusões em sonhos?"
+  },
+  "belief": {
+    "name": "Furtividade",
+    "desc": "Precisa correr pra manter o ritmo dela, mas se ficar pra trás, ela vai estar esperando não muito longe."
+  },
+  "emotion": {
+    "name": "Lilica e Faísca",
+    "desc": "Amiga da Ruby, melhor amigo da Ruby."
+  }
+}

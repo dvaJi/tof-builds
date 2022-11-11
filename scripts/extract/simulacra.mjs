@@ -26,9 +26,9 @@ export async function main(lang) {
       continue;
     }
 
-    if (character.name !== 'Bai Ling') {
-      continue;
-    }
+    // if (character.name !== 'Ruby') {
+    //   continue;
+    // }
 
     const _locid =
       textMap['st_.' + character.name.toLowerCase()] ||

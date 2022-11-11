@@ -1,0 +1,31 @@
+{
+  "_id": 29,
+  "id": "ruby",
+  "suitName": "Weißer Kaninchentanz",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4
+    }
+  ],
+  "mind": {
+    "name": "Aufstreben",
+    "desc": "Die empfindlichen Knospen werden immer sorgfältig beschützt, doch sie möchten auch an der Front stehen und mit ihr Seite an Seite zu kämpfen, auch wenn sie dabei in Gefahr sind."
+  },
+  "memory": {
+    "name": "Schleier",
+    "desc": "So verschleiert wie aufziehender Nebel – sind die sogenannten vergangenen Ereignisse nur Illusionen in Träumen?"
+  },
+  "belief": {
+    "name": "Abschattung",
+    "desc": "Du musst marschieren, um mit ihr Schritt zu halten, aber wenn du zurückfällst, wird sie nicht weit weg auf dich warten."
+  },
+  "emotion": {
+    "name": "Dolly und Spark",
+    "desc": "Rubys Freund, Rubys bester Freund."
+  }
+}

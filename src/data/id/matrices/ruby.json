@@ -1,0 +1,31 @@
+{
+  "_id": 29,
+  "id": "ruby",
+  "suitName": "White Rabbit Dance",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4
+    }
+  ],
+  "mind": {
+    "name": "Emerge",
+    "desc": "Kuncup lembutnya selalu dilindungi dengan hati-hati, tetapi mereka juga ingin berjalan menuju garis depan dan bersebelahan dengannya meski harus berjinjit."
+  },
+  "memory": {
+    "name": "Vapor",
+    "desc": "Bagai kabut uap yang memupus, apakah yang namanya peristiwa masa lalu ini hanya ilusi mimpi?"
+  },
+  "belief": {
+    "name": "Shadowing",
+    "desc": "Kamu harus sedikit berlari agar bisa mengikutinya, tapi kalau sampai kamu tertinggal, dia akan menunggumu tak jauh di depan."
+  },
+  "emotion": {
+    "name": "Dolly and Spark",
+    "desc": "Teman Ruby, sahabat Ruby."
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "_id": 30,
+  "_id": 31,
   "id": "smarty_doll",
   "name": "Smarty Doll",
   "description": "Mainan yang dibuat menyerupai sosok Smarty. Para pembuatnya mengganti tanaman palsu di kepalanya dengan tanaman asli sehingga membuatnya patut dikoleksi. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
@@ -16,6 +16,7 @@
     "ene",
     "hilda",
     "pepper",
-    "nemesis"
+    "nemesis",
+    "ruby"
   ]
 }

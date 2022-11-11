@@ -1,0 +1,22 @@
+{
+  "_id": 38,
+  "id": "ultimate_warrior_otter",
+  "name": "Ultimativer Kriegerotter",
+  "description": "Entworfen für das 40. Jubiläum des Schlachtfelds der Ultimativen Kriegerinnen: Schlachtfeld der Ultimative Kriegerinnen 40 ist ab sofort verfügbar. Kaufe jetzt und erhalte limitierte Peripheriegeräte des mächtigen SSR Otter.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cocoritter",
+    "ene",
+    "nemesis",
+    "ruby"
+  ],
+  "characters": [
+    "hilda",
+    "samir",
+    "bailing",
+    "claudia",
+    "huma",
+    "pepper"
+  ]
+}

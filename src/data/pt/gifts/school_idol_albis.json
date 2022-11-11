@@ -1,0 +1,20 @@
+{
+  "_id": 29,
+  "id": "school_idol_albis",
+  "name": "Albis, Idol Escolar",
+  "description": "A miniatura mais vendida em Reflexia. À primeira vista, sempre há uma sensação de semelhança. Dizem que foi feita inspirada em uma administradora muito querida de Reflexia, mas o criador negou.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "bailing",
+    "cobaltb",
+    "king",
+    "meryl",
+    "pepper",
+    "shiro",
+    "crow",
+    "hilda",
+    "tsubasa",
+    "ruby"
+  ]
+}

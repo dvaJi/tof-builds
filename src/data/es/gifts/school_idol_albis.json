@@ -1,0 +1,20 @@
+{
+  "_id": 29,
+  "id": "school_idol_albis",
+  "name": "Ídolo Escolar Albis",
+  "description": "La miniatura número 1 en ventas en Espejia. A primera vista, siempre hay una especie de semejanza. Se dice que se hizo con base en un administrador muy popular de Espejia, pero el creador negó estos rumores.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "bailing",
+    "cobaltb",
+    "king",
+    "meryl",
+    "pepper",
+    "shiro",
+    "crow",
+    "hilda",
+    "tsubasa",
+    "ruby"
+  ]
+}

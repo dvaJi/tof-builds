@@ -1,0 +1,20 @@
+{
+  "_id": 29,
+  "id": "school_idol_albis",
+  "name": "School Idol Albis",
+  "description": "Patung terlaris di Mirroria. Saat melihatnya untuk pertama kali, rasanya ada kemiripan. Konon, patung ini dibuat menyerupai administrator yang sangat populer di Mirroria, tetapi pembuatnya menyangkal anggapan ini.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "bailing",
+    "cobaltb",
+    "king",
+    "meryl",
+    "pepper",
+    "shiro",
+    "crow",
+    "hilda",
+    "tsubasa",
+    "ruby"
+  ]
+}

@@ -12,7 +12,7 @@
   "tier_pending": false,
   "role": "Main DPS",
   "soon": false,
-  "new": true,
+  "new": false,
   "resonance": "DPS",
   "shatter": 12.5,
   "charge": 10,

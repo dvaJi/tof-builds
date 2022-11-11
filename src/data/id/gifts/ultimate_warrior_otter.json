@@ -1,0 +1,22 @@
+{
+  "_id": 38,
+  "id": "ultimate_warrior_otter",
+  "name": "Ultimate Warrior Otter",
+  "description": "Didesain untuk perayaan ke-40 Ultimate Warrior Battlefield: Ultimate Warrior Battlefield 40 kini tersedia. Beli sekarang juga dan dapatkan periferal terbatas dari SSR Otter kuat.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cocoritter",
+    "ene",
+    "nemesis",
+    "ruby"
+  ],
+  "characters": [
+    "hilda",
+    "samir",
+    "bailing",
+    "claudia",
+    "huma",
+    "pepper"
+  ]
+}

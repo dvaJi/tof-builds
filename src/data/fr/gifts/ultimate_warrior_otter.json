@@ -1,0 +1,22 @@
+{
+  "_id": 38,
+  "id": "ultimate_warrior_otter",
+  "name": "Loutre guerrière ultime",
+  "description": "Conçu pour le 40e anniversaire du Champ de bataille des guerriers ultimes : Champ de bataille des guerriers ultimes 40 est maintenant disponible. Achetez-le maintenant et obtenez des périphériques limités de la puissante loutre SSR.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cocoritter",
+    "ene",
+    "nemesis",
+    "ruby"
+  ],
+  "characters": [
+    "hilda",
+    "samir",
+    "bailing",
+    "claudia",
+    "huma",
+    "pepper"
+  ]
+}

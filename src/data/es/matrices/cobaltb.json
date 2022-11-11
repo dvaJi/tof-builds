@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "suitName": "Táctica intuitiva",
+  "hash": "SSR5",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta el daño contra objetivos con desventajas en un 10%/12.5%/15%/17.5%."
+    },
+    {
+      "count": 4,
+      "value": "Restaura 1 intento de evasión cada 3 evasiones. Esquivar inflige quemadura al tener éxito, lo que inflige daño equivalente al 24%/30%/36%/42% del ATQ cada segundo durante 6 segundos."
+    }
+  ],
+  "mind": {
+    "name": "sexto sentido",
+    "desc": "Se siente como una observación estática forzada desde otro plano."
+  },
+  "memory": {
+    "name": "capital inicial",
+    "desc": "Dos garantías que nunca fueron cobradas, incluso después de haber pagado la deuda."
+  },
+  "belief": {
+    "name": "maestría artística",
+    "desc": "¿Qué problema hay con llamar a esto \"obra de arte\"? ¿Crees que una llave inglesa es menos elegante que una pincelada?"
+  },
+  "emotion": {
+    "name": "elevación y brillo",
+    "desc": "Pon tu alarma en el minidrón para despertar por la mañana."
+  }
+}

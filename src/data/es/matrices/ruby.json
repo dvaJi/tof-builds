@@ -1,0 +1,31 @@
+{
+  "_id": 29,
+  "id": "ruby",
+  "suitName": "Baile de conejo blanco",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4
+    }
+  ],
+  "mind": {
+    "name": "Aparición",
+    "desc": "Los capullos delicados siempre están protegidos, pero también quieren ir al frente y estar a su lado, aun cuando deban ir de puntillas."
+  },
+  "memory": {
+    "name": "Vapor",
+    "desc": "Borroso como el vapor... ¿acaso los eventos del pasado no son nada más que ilusiones en sueños?"
+  },
+  "belief": {
+    "name": "Seguimiento Cercano",
+    "desc": "Tienes que ir al trote para poder seguirle el paso, pero si te retrasas, te estará esperando no muy lejos."
+  },
+  "emotion": {
+    "name": "Dolly y Chispa",
+    "desc": "Amistad de Ruby, amistad de Ruby."
+  }
+}

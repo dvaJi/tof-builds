@@ -1,0 +1,20 @@
+{
+  "_id": 29,
+  "id": "school_idol_albis",
+  "name": "Schul-Idol Albis",
+  "description": "Die beliebteste Figur in Mirroria. Auf den ersten Blick hat sie schon Ähnlichkeit. Man sagt, dass sie auf einem sehr beliebten Verwalter von Mirroria basiert, aber der Hersteller der Figur hat das verneint.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "bailing",
+    "cobaltb",
+    "king",
+    "meryl",
+    "pepper",
+    "shiro",
+    "crow",
+    "hilda",
+    "tsubasa",
+    "ruby"
+  ]
+}

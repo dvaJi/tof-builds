@@ -2,16 +2,16 @@
   "id": 1,
   "characters": [
     {
-      "id": "frigg",
+      "id": "ruby",
       "role": "Main DPS"
     },
     {
-      "id": "tsubasa",
+      "id": "claudia",
       "role": "Sub DPS"
     },
     {
-      "id": "meryl",
-      "role": "Shieldbreaking"
+      "id": "cobaltb",
+      "role": "Sub DPS"
     }
   ],
   "comp": "โจมตี",

@@ -1,0 +1,20 @@
+{
+  "_id": 29,
+  "id": "school_idol_albis",
+  "name": "Idole scolaire Albis",
+  "description": "La figurine top des ventes à Mirroria. À première vue, il y a toujours une forte ressemblance. On dit qu'elle a été créée à l'image d'un administrateur fort apprécié à Mirroria, mais le créateur a toujours réfuté cette affirmation.",
+  "rarity": "SR",
+  "value": 60,
+  "characters": [
+    "bailing",
+    "cobaltb",
+    "king",
+    "meryl",
+    "pepper",
+    "shiro",
+    "crow",
+    "hilda",
+    "tsubasa",
+    "ruby"
+  ]
+}

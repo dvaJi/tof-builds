@@ -6,11 +6,11 @@
       "role": "Tank"
     },
     {
-      "id": "nemesis",
-      "role": "Utility"
+      "id": "meryl",
+      "role": "Shieldbreaking"
     },
     {
-      "id": "meryl",
+      "id": "king",
       "role": "Shieldbreaking"
     }
   ],

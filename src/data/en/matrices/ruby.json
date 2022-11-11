@@ -1,0 +1,31 @@
+{
+  "_id": 29,
+  "id": "ruby",
+  "suitName": "White Rabbit Dance",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4
+    }
+  ],
+  "mind": {
+    "name": "Emerge",
+    "desc": "The delicate buds are always carefully protected, but they also want to walk to the frontline and be side by side with her, even if they would be on tiptoe."
+  },
+  "memory": {
+    "name": "Vapor",
+    "desc": "As hazy as transpiring vapor, are the so-called past events just illusions in dreams?"
+  },
+  "belief": {
+    "name": "Shadowing",
+    "desc": "You have to trot to keep up with her, but if you do fall behind, she'll be waiting for you not far away."
+  },
+  "emotion": {
+    "name": "Dolly and Spark",
+    "desc": "Ruby's friend, Ruby's best friend."
+  }
+}

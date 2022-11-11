@@ -398,5 +398,39 @@
         "value": "MatrixSuit_SSR8_des2"
       }
     ]
+  },
+  {
+    "_id": "SSR5",
+    "name": "Nitai_Gulan_SSR",
+    "id": "cobaltb",
+    "suitName": "MatrixSuit_SSR5_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR5_Sea_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR5_Sea_des2"
+      }
+    ]
+  },
+  {
+    "_id": "SSR16",
+    "name": "Ruby",
+    "id": "ruby",
+    "suitName": "MatrixSuit_SSR16_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": "MatrixSuit_SSR16_Sea_des1"
+      },
+      {
+        "count": 4,
+        "value": "MatrixSuit_SSR16_Sea_des2"
+      }
+    ]
   }
 ]

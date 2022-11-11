@@ -1,0 +1,22 @@
+{
+  "_id": 38,
+  "id": "ultimate_warrior_otter",
+  "name": "Guerrero Definitivo: Nutria",
+  "description": "Diseñado para el 40.º aniversario del Campo de Batalla de los Guerreros Definitivos: Campo de Batalla de los Guerreros Definitivos 40 ya está disponible. Cómpralo ahora y obtén periféricos limitados de la poderosa Nutria SSR.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cocoritter",
+    "ene",
+    "nemesis",
+    "ruby"
+  ],
+  "characters": [
+    "hilda",
+    "samir",
+    "bailing",
+    "claudia",
+    "huma",
+    "pepper"
+  ]
+}

@@ -23,6 +23,7 @@ export async function main(textMap, locale) {
   console.log(`Getting simulacra [${locale}]`);
   for await (const simulacra of simulacras) {
     console.log(`> Getting simulacra [${locale}] ${simulacra.id}`);
+    
     const data = {
       _id: allCharacters.length + 1,
       id: simulacra.id,

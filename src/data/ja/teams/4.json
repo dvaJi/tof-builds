@@ -2,16 +2,16 @@
   "id": 4,
   "characters": [
     {
-      "id": "samir",
+      "id": "shiro",
       "role": "Main DPS"
+    },
+    {
+      "id": "claudia",
+      "role": "Sub DPS"
     },
     {
       "id": "nemesis",
       "role": "Utility"
-    },
-    {
-      "id": "king",
-      "role": "Shieldbreaking"
     }
   ],
   "comp": "強攻",

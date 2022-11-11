@@ -1,0 +1,31 @@
+{
+  "_id": 29,
+  "id": "ruby",
+  "suitName": "Danse du lapin blanc",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2
+    },
+    {
+      "count": 4
+    }
+  ],
+  "mind": {
+    "name": "Émergence",
+    "desc": "Les délicats boutons floraux sont toujours soigneusement protégés, mais ils veulent aussi s'avancer en première ligne et être côte à côte avec elle, même s'ils seraient sur la pointe des pieds."
+  },
+  "memory": {
+    "name": "Vapeur",
+    "desc": "Aussi trouble qu'une vapeur transpirante, les événements dits \"passés\" ne sont-ils que des illusions dans des rêves ?"
+  },
+  "belief": {
+    "name": "Filature",
+    "desc": "Il vous faudra trotter pour rester à son niveau, mais si vous êtes à la traîne, elle vous attendra un peu devant."
+  },
+  "emotion": {
+    "name": "Dolly et Étincelle",
+    "desc": "L'ami de Ruby, le meilleur ami de Ruby."
+  }
+}

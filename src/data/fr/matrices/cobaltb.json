@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "suitName": "Tactique intuitive",
+  "hash": "SSR5",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Augmente de 10%/12,5%/15%/17,5% les dégâts contre les cibles sous l'effet d'une altération."
+    },
+    {
+      "count": 4,
+      "value": "Régénère 1 tentative d'esquive toutes les 3 esquives. Les esquives réussies appliquent Brûlure, infligeant des dégâts équivalant à 24%/30%/36%/42% de l'ATQ chaque seconde pendant 6 secondes."
+    }
+  ],
+  "mind": {
+    "name": "Sixième sens",
+    "desc": "On dirait le résultat d'une observation fixe depuis un autre plan."
+  },
+  "memory": {
+    "name": "Capital initial",
+    "desc": "Deux garanties qui n'ont jamais été perçues, même après le remboursement de la dette."
+  },
+  "belief": {
+    "name": "Artiste accompli",
+    "desc": "Et pourquoi on ne pourrait pas appeler ça une \"œuvre d'art\" ? Vous ne pensez pas qu'une clé à molette est aussi élégante qu'un pinceau ?"
+  },
+  "emotion": {
+    "name": "Debout là-dedans",
+    "desc": "Mettez un réveil sur le mini-drone pour vous réveiller le matin."
+  }
+}

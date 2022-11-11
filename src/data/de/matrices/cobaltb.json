@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cobaltb",
+  "name": "Cobalt-B ",
+  "suitName": "Intuitive Taktik",
+  "hash": "SSR5",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht den Schaden an Zielen mit Debuffs um 10%/12,5%/15%/17,5%."
+    },
+    {
+      "count": 4,
+      "value": "Stellt nach 3-maligem Ausweichen 1 Ausweichaktion wieder her. Erfolgreiche Ausweichaktionen fügen „Verbrennen“ zu, das 6 Sek. lang jede Sek. Schaden in Höhe von 24%/30%/36%/42% des ANG verursacht."
+    }
+  ],
+  "mind": {
+    "name": "Sechster Sinn",
+    "desc": "Es fühlt sich wie eine erzwungene, statische Beobachtung von einer anderen Ebene an."
+  },
+  "memory": {
+    "name": "Startkapital",
+    "desc": "Zwei Sicherheiten, die auch nach Tilgung der Schulden nie eingezogen wurden."
+  },
+  "belief": {
+    "name": "Meisterkünstlerin",
+    "desc": "Was ist falsch daran, das als „Kunstwerk“ zu bezeichnen? Ist denn ein Schraubenschlüssel nicht so elegant wie einen Pinsel?"
+  },
+  "emotion": {
+    "name": "Raus aus den Federn",
+    "desc": "Stelle einen Wecker auf der Mini-Drohne ein, damit du morgens geweckt wirst."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": 38,
+  "id": "ultimate_warrior_otter",
+  "name": "Lontra do Superguerreiro",
+  "description": "Criada para o aniversário de 40 anos da Batalha dos Superguerreiros: a Batalha dos Superguerreiros 40 já está disponível. Compre agora e obtenha acessórios limitados da poderosa Lontra SSR.",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cocoritter",
+    "ene",
+    "nemesis",
+    "ruby"
+  ],
+  "characters": [
+    "hilda",
+    "samir",
+    "bailing",
+    "claudia",
+    "huma",
+    "pepper"
+  ]
+}

@@ -2,15 +2,15 @@
   "id": 14,
   "characters": [
     {
-      "id": "cocoritter"
+      "id": "meryl"
     },
     {
       "id": "nemesis"
     },
     {
-      "id": "zero"
+      "id": "crow"
     }
   ],
-  "comp": "Benediction",
+  "comp": "Balance",
   "mode": "PvP"
 }

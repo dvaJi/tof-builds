@@ -1,0 +1,287 @@
+{
+  "_id": 19,
+  "id": "ruby",
+  "name": "Kelinci",
+  "weapon": "Spark",
+  "weapon_id": "spark",
+  "birthday": "15 Juli (Cancer)",
+  "birthplace": "Unknown",
+  "gender": "Perempuan",
+  "info": "Seorang gadis introver dan polos yang tak terlalu tahu tentang dunia. Dia sedikit takut pada orang asing dan lebih suka sendiri. Mungkin itulah yang membuatnya sedikit takut dan malu di depan orang asing. \nSelalu disebut \"bocah yang bersama Lin\", dia jadi merasa punya tujuan—dia harus berusaha lebih keras dan menjadi kuat, agar tidak menjadi beban Lin atau membuat instruksi Lin sia-sia.",
+  "description": "Putri teman lama Lin. Entah bagaimana, dia sekarang dirawat oleh Lin, dan mereka bahkan bertindak bersama. Gadis itu tidak terlihat kuat, seperti anak lemah yang sakit-sakitan. \nAtas permintaan Lin, dia menjalani latihan skill tempur untuk perlindungan diri. Meski Ruby mempelajari sesuatu yang sedikit berbeda dari gaya Lin, setidaknya dia jadi jauh lebih sehat dari sebelumnya, dan cukup mampu mengatasi beberapa situasi sulit. \nDia masih belum tahu apa-apa tentang dunia dan dirinya, sepenuhnya percaya pada instruksi dan deskripsi dari Lin, dan mengandalkannya untuk setiap keputusan. Dalam situasi saat ini, Lin berkata bahwa prioritasnya jelas dalam hal membuatnya mandiri.",
+  "like": "Dolly si boneka kelinci",
+  "dislike": "Minum Obat",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Spark Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ketuk tombol Normal Attack untuk memerintah Spark untuk menyerang 5 kali berturut-turut.\nSerangan pertama akan menimpakan Total Damage sebanyak <b>84.6%</b> ATK + <b>4</b> kepada setiap target.\nSerangan kedua akan menimpakan Total Damage sebanyak <b>93%</b> ATK + <b>5</b> kepada setiap target.\nSerangan ketiga akan menimpakan Total Damage sebanyak <b>101.5%</b> ATK + <b>5</b> kepada setiap target.\nSerangan keempat akan menimpakan Total Damage sebanyak <b>109.9%</b> ATK + <b>6</b> kepada setiap target.\nSerangan kelima akan menimpakan Total Damage sebanyak <b>253.7%</b> ATK + <b>13</b> kepada setiap target dan membuat target <b>terlontar</b>."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat Airborne, ketuk tombol Normal Attack untuk memerintah Spark untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan Total Damage sebanyak <b>97.1%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Kedua: Menimbulkan Total Damage sebanyak <b>106.8%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Ketiga: Menimbulkan Total Damage sebanyak <b>121.3%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Keempat: Menimbulkan Total Damage sebanyak <b>145.6%</b> ATK + <b>8</b> kepada setiap target."
+    },
+    {
+      "name": "Kena kau!",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan tombol Normal Attack atau lakukan ini setelah Lockdown Zone diaktifkan untuk terus menembakkan sinar energi menyilaukan kepada musuh di arah target, menimbulkan damage sebanyak <b>40%</b> ATK + <b>2</b> dan menghabiskan Endurance mereka."
+    },
+    {
+      "name": "Blazing Dive",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Ketuk dan tahan tombol Normal Attack saat Airborne untuk mengaktifkan Blazing Dive.\nTubuh akan terselimuti energi, kemudian terjun bebas ke tanah, menimpakan damage sebanyak <b>172.1%</b> ATK + <b>9</b> kepada target di sekitar."
+    },
+    {
+      "name": "Lockdown Zone",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Normal Attack kedua, tahan tombol saat melancarkan serangan apa pun untuk menimpakan damage sebanyak <b>40%</b> ATK + <b>2</b> kepada target, mengakibatkan efek Imprison (bukan kontrol kuat) dan Burn kepada target yang sudah dibidik selama <b>3</b> detik dengan damage sebanyak <b>26.2%</b> ATK + <b>1</b> kepada target setiap detik (tidak berlaku pada Boss)."
+    },
+    {
+      "name": "Ayo, Dolly!",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Melempar Dolly setelah menghindar. Dolly bertahan <b>10</b> detik, menyerap musuh di sekitar, dan menimpakan damage sebanyak <b>84.6%</b> ATK + <b>4</b> kepada mereka, dan memberikan Taunt kepada mereka selama <b>1,5</b> detik (tidak bisa memberikan Taunt kepada musuh jika berada dalam tim) untuk mengalihkan serangan mereka kepada Dolly."
+    },
+    {
+      "name": "Sparkling Collider",
+      "type": [
+        "Skill"
+      ],
+      "description": "Spark menembakkan Sparks yang bertahan 15 detik dan memantul di antara target dan Wanderer. Setelah mengenai target, Spark akan melambat (bukan kontrol kuat) selama <b>4</b> detik dengan cooldown <b>15</b> detik. Makin jauh jarak yang ditempuh Spark, makin besar damage yang ditimbulkannya. Saat mengenai target, ia akan menimbulkan damage maks <b>350%</b> ATK + <b>37</b> dan mengakibatkan tanda Emblazen selama <b>25</b> detik kepada target. Pada saat bersamaan, Spark akan menembakkan 4 peluru, setiap peluru menimbulkan damage sebanyak <b>50%</b> ATK + <b>3</b> kepada targetnya. Normal Attack dari Spark menimbulkan damage <b>110%</b> lebih besar kepada target yang kena tanda Emblazen. Jika target punya efek Burn yang ditimbulkannya sendiri, target akan kena efek Burn atau Ignite satu kali saat Spark mengenainya dan menimbulkan damage tambahan sebanyak <b>100%</b> dari Total Damage yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). Cooldown penghitungan hasil adalah <b>6</b> detik. Cooldown skill <b>30</b> detik.\n<b>Pasif</b>: Saat Spark aktif, setiap kali Spark Attack menimbulkan damage, Wanderer akan mendapatkan <b>1</b> poin Heat dengan cooldown <b>0,9</b> detik, maks <b>8</b> poin Heat. Setelah Heat mencapai batas atas, Wanderer akan mendapatkan efek Ultimate Heat, yang akan meningkatkan Flame ATK sebanyak <b>25%</b> selama <b>25</b> detik."
+    },
+    {
+      "name": "Supernova",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>. Spark memasuki status Charged, dan terus menembakkan sinar energi menyilaukan ke lokasi target, sebelum akhirnya meledak. Menimbulkan damage sebanyak <b>750%</b> ATK + <b>39</b>. Jika target punya efek terbakar yang ditimbulkannya sendiri, target akan kena efek Burn atau Ignite satu kali dan menimbulkan damage tambahan sebanyak <b>100%</b> dari total damage yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). Cooldown penghitungan hasil adalah <b>6</b> detik. Damage Immunity bertahan selama <b>2,6</b> detik selama skill ini masih aktif (tidak tersedia di Apex League)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>58%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+  },
+  "weapon_resonance": {
+    "name": "Flame Resonance",
+    "description": "Meningkatkan Flame ATK sebesar <b>20%</b> dan Flame Resistance sebesar <b>40%</b>. Aktifkan dengan cara memakai 2 Flame Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata yang ada di slot tangan non-dominan."
+  },
+  "advancement": [
+    "Emblazen meningkatkan damage dari Normal Attack dari Spark menjadi <b>182%</b>. Skill cooldown berkurang menjadi <b>24</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Emblazen meningkatkan Flame Boost sebanyak <b>18%</b>, meningkatkan pengganda Burn sebanyak <b>150%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Setiap kali Spark Attack mengenai musuh, memulihkan <b>75 poin</b> tambahan dari Weapon Charge. Cooldown: 0,9 detik. Saat Ultimate Heat aktif, Shatter meningkat sebanyak <b>25%</b>.",
+    "Emblazen meningkatkan damage dari Normal Attack dari Spark menjadi <b>240%</b>. Efisiensi perolehan Heat menjadi dua kali lipat. Skill cooldown berkurang menjadi <b>16</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "Dreamcatcher",
+      "description": "Meningkatkan Flame Damage yang diterima oleh semua musuh dalam radius <b>5</b> meter dari Dolly sebesar <b>8%</b>. Tidak bisa ditumpuk."
+    },
+    {
+      "name": "Dolly's Domain",
+      "description": "Meningkatkan Flame Damage yang diterima oleh semua musuh dalam radius 5 meter dari Dolly sebesar <b>8%</b>. Tidak bisa ditumpuk. Setelah melempar Dolly, meningkatkan Flame ATK sebesar <b>12%</b> selama <b>10</b> detik. Tidak bisa ditumpuk."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Firecore",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Nanofiber Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Heart of Lava",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Acidproof Glaze II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

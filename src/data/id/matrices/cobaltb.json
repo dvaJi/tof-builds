@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "suitName": "Intuitive Tactic",
+  "hash": "SSR5",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan damage terhadap target yang kena debuff sebanyak 10%/12,5%/15%/17,5%."
+    },
+    {
+      "count": 4,
+      "value": "Memulihkan 1 upaya Dodge untuk setiap 3 Dodge. Dodge akan mengakibatkan efek Burn jika berhasil mengenai target, sehingga akan menimbulkan damage sebanyak 24%/30%/36%/42% ATK setiap detik selama 6 detik."
+    }
+  ],
+  "mind": {
+    "name": "Sixth Sense",
+    "desc": "Rasanya seperti pengamatan statis paksa dari pesawat lain."
+  },
+  "memory": {
+    "name": "Starting Capital",
+    "desc": "Dua jaminan yang tak pernah ditagih bahkan setelah utangnya dilunasi."
+  },
+  "belief": {
+    "name": "Master Artist",
+    "desc": "Memangnya kenapa kalau ini disebut \"karya seni\"? Menurutmu, kunci pas tidak seelegan kuas?"
+  },
+  "emotion": {
+    "name": "Rise and Shine",
+    "desc": "Pasang beker di mini-drone untuk membangunkanmu di pagi hari."
+  }
+}

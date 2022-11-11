@@ -2,15 +2,15 @@
   "id": 10,
   "characters": [
     {
-      "id": "shiro",
-      "role": "Shieldbreaking"
+      "id": "samir",
+      "role": "Main DPS"
     },
     {
-      "id": "zero",
+      "id": "nemesis",
       "role": "Utility"
     },
     {
-      "id": "cocoritter",
+      "id": "zero",
       "role": "Utility"
     }
   ],

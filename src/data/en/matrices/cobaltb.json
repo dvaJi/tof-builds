@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "suitName": "Intuitive Tactic",
+  "hash": "SSR5",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage against debuffed targets by 10%/12.5%/15%/17.5%."
+    },
+    {
+      "count": 4,
+      "value": "Restore 1 dodge attempt every 3 dodges. Dodges inflict burn when successful, dealing damage equal to 24%/30%/36%/42% of ATK every second for 6 seconds."
+    }
+  ],
+  "mind": {
+    "name": "Sixth Sense",
+    "desc": "It feels like forced static observation from another plane."
+  },
+  "memory": {
+    "name": "Starting Capital",
+    "desc": "Two collaterals that were never collected even after the debt had been paid off."
+  },
+  "belief": {
+    "name": "Master Artist",
+    "desc": "What's wrong with calling this \"artwork\"? You don't think a wrench is as elegant as a paintbrush?"
+  },
+  "emotion": {
+    "name": "Rise and Shine",
+    "desc": "Put an alarm clock on the mini-drone to wake you up in the morning."
+  }
+}

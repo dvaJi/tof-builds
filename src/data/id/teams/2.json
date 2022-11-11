@@ -2,15 +2,15 @@
   "id": 2,
   "characters": [
     {
-      "id": "cobaltb",
+      "id": "frigg",
       "role": "Main DPS"
     },
     {
-      "id": "claudia",
+      "id": "tsubasa",
       "role": "Sub DPS"
     },
     {
-      "id": "king",
+      "id": "meryl",
       "role": "Shieldbreaking"
     }
   ],

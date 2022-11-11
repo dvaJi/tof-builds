@@ -1,0 +1,287 @@
+{
+  "_id": 19,
+  "id": "ruby",
+  "name": "Lapin",
+  "weapon": "Étincelle",
+  "weapon_id": "spark",
+  "birthday": "15 juillet (Cancer)",
+  "birthplace": "Inconnu",
+  "gender": "Féminin",
+  "info": "Une jeune fille introvertie et innocente qui ne sait pas grand-chose du monde. Elle a un peu peur des inconnus et préfère rester seule. C'est peut-être pour cela qu'elle se montre un peu craintive et timide en présence de gens qu'elle ne connaît pas. \nSurnommée par tous \"l'enfant avec Madame Lin\", elle s'est donné une mission : travailler dur et devenir forte afin de ne pas être un fardeau pour Lin et d'appliquer ses préceptes.",
+  "description": "Elle est la fille d'un vieil ami de Lin. D'une certaine manière, c'est maintenant Lin qui s'occupe d'elle, et elles travaillent même ensemble. Elle ne semble pas très robuste, c'est une enfant maladive et chétive. \nElle s'entraîne actuellement aux techniques de combat pour apprendre à se défendre, à la demande de Lin. Même si ce que Ruby apprend s'éloigne beaucoup du style de Lin, elle est au moins en bien meilleure santé qu'avant et peut faire face à des situations assez délicates. \nElle ne se fait encore qu'une vague idée du monde et d'elle-même, croit aveuglément aux instructions et aux descriptions de Lin et lui demande conseil pour presque chacune de ses décisions. Dans le contexte actuel, Lin considère que la priorité est de la rendre indépendante.",
+  "like": "Dolly le lapin en peluche",
+  "dislike": "Prendre un médicament",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Attaque d'étincelles",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour ordonner à Étincelle d'attaquer 5 fois de suite.\nLa première attaque inflige des dégâts équivalant à <b>84.6%</b> de l'ATQ + <b>4</b> à toutes les cibles.\nLa deuxième attaque inflige des dégâts équivalant à <b>93%</b> de l'ATQ + <b>5</b> à toutes les cibles.\nLa troisième attaque inflige des dégâts équivalant à <b>101.5%</b> de l'ATQ + <b>5</b> à toutes les cibles.\nLa quatrième attaque inflige des dégâts équivalant à <b>109.9%</b> de l'ATQ + <b>6</b> à toutes les cibles.\nLa cinquième attaque inflige des dégâts équivalant à <b>253.7%</b> de l'ATQ + <b>13</b> à toutes les cibles, et les <b>projette</b>."
+    },
+    {
+      "name": "Décharge aérienne",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour ordonner à Étincelle d'attaquer 4 fois de suite.\nPremière attaque : inflige un total de dégâts égal à <b>97.1%</b> de l'ATQ + <b>5</b> à toutes les cibles.\nDeuxième attaque : inflige un total de dégâts égal à <b>106.8%</b> de l'ATQ + <b>6</b> à toutes les cibles.\nTroisième attaque : inflige un total de dégâts égal à <b>121.3%</b> de l'ATQ + <b>6</b> à toutes les cibles.\nQuatrième attaque : inflige un total de dégâts égal à <b>145.6%</b> de l'ATQ + <b>8</b> à toutes les cibles."
+    },
+    {
+      "name": "Tu es à moi !",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Maintenez Attaque normale ou faites ceci après le déclenchement de Zone d'isolement pour tirer des rayons d'énergie ardente en continu vers vos ennemis dans la direction visée, ce qui inflige des dégâts équivalant à <b>40%</b> de l'ATQ + <b>2</b> et réduit leur endurance."
+    },
+    {
+      "name": "Plongeon ardent",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Plongeon ardent.\nEnveloppe le corps d'énergie avant de plonger à toute vitesse vers le sol, infligeant des dégâts équivalant à <b>172.1%</b> de l'ATQ + <b>9</b> aux cibles à proximité."
+    },
+    {
+      "name": "Zone d'isolement",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la deuxième attaque normale, maintenez le bouton durant n'importe quelle attaque pour infliger des dégâts équivalant à <b>40%</b> de l'ATQ + <b>2</b> à la cible verrouillée, l'emprisonner (pas un effet de contrôle puissant) et la faire brûler pendant <b>3</b>, ce qui lui inflige des dégâts équivalant à <b>26.2%</b> de l'ATQ + <b>1</b> à la cible toutes les secondes (ne fonctionne pas contre les boss)."
+    },
+    {
+      "name": "Vas-y, Dolly !",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Lance Dolly après avoir esquivé. Dolly reste en combat pendant <b>10</b> secondes et absorbe les ennemis à proximité, ce qui leur inflige des dégâts équivalant à <b>84.6%</b> de l'ATQ + <b>4</b> et les provoque pendant <b>1,5</b> seconde (impossible de provoquer les ennemis quand vous êtes en équipe) pour les obliger à attaquer Dolly."
+    },
+    {
+      "name": "Collisionneur d'étincelles",
+      "type": [
+        "Skill"
+      ],
+      "description": "Étincelle lance des étincelles qui rebondissent entre les cibles et l'Explorateur pendant 15 secondes. Lorsqu'elles touchent une cible, les étincelles lui infligent un effet de contrôle non puissant qui la ralentit pendant <b>4</b> secondes avec un temps de recharge de <b>15</b> secondes. Plus les étincelles mettent de temps à atteindre leur cible, plus elles infligent de dégâts. À l'impact, elles infligent des dégâts équivalant à <b>350%</b> de l'ATQ + <b>37</b> et appliquent une marque d'Inflammation sur la cible qui persiste pendant <b>25</b> secondes. Au même moment, Étincelle tire 4 balles en direction de sa cible. Chacune de ces balles inflige des dégâts équivalant à <b>50%</b> de l'ATQ + <b>3</b>. Les attaques normales d'Étincelle infligent <b>110%</b> de dégâts supplémentaires aux cibles marquées par Inflammation. Si la cible est affectée par un effet de brûlure auto-infligé lorsque les étincelles l'atteignent, elle brûle ou s'embrase, ce qui lui inflige des dégâts supplémentaires équivalant à <b>100%</b> du total de dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du calcul du résultat est de <b>6</b> secondes. Le temps de recharge de la compétence est de <b>30</b> secondes.\n<b>Effet passif</b> : pendant toute la durée des étincelles, chaque fois que des dégâts sont infligés par Attaque d'étincelles, l'Explorateur gagne <b>1</b> point de Chaleur (à intervalle de <b>0,9</b> seconde) jusqu'à un plafond de <b>8</b> points. Lorsque ce plafond est atteint, l'Explorateur reçoit l'effet Chaleur ultime qui augmente son ATQ de feu de <b>25%</b> pendant <b>25</b> secondes."
+    },
+    {
+      "name": "Supernova",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>. Étincelle entre dans un état de charge, tirant des rayons d'énergie ardente en continu dans la direction visée avant d'exploser. Inflige des dégâts équivalant à <b>750%</b> de l'ATQ + <b>39</b>. Si la cible est affectée par un effet de brûlure auto-infligé, elle brûle ou s'embrase et subit des dégâts supplémentaires équivalant à <b>100%</b> du total de dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du calcul du résultat est de <b>6</b> secondes. L'immunité aux dégâts dure <b>2,6</b> secondes lorsque la compétence est active (indisponible dans la Ligue ultime)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Feu",
+    "description": "Les armes entièrement chargées embrasent la cible pendant <b>8</b> secondes lors de l'attaque suivante, infligeant chaque seconde des dégâts continus de <b>58%</b> d'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Résonance de feu",
+    "description": "Augmente l'ATQ de feu de <b>20%</b> et la résistance au feu de <b>40%</b>. S'active en équipant <b>2</b> ou plus d'armes de feu. Cet effet fonctionne également avec les armes dans l'emplacement main libre."
+  },
+  "advancement": [
+    "Inflammation augmente les dégâts des attaques normales d'Étincelle jusqu'à <b>182%</b>. L'efficacité d'Acquisition de chaleur double. Le temps de recharge de la compétence diminue pour atteindre <b>24</b> secondes.",
+    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Inflammation accroît le bonus de flammes de <b>18%</b>, ce qui augmente le multiplicateur de dégâts de brûlure de <b>150%</b>.",
+    "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Chaque fois qu'Attaque d'étincelles touche un ennemi, restaure <b>75</b> points de recharge d'arme supplémentaires. Temps de recharge : 0,9 seconde. Sous les effets de Chaleur ultime, la capacité de fracture augmente de <b>25%</b>.",
+    "Inflammation augmente les dégâts des attaques normales d'Étincelle jusqu'à <b>240%</b>. L'efficacité d'Acquisition de chaleur double. Le temps de recharge de la compétence diminue pour atteindre <b>16</b> secondes."
+  ],
+  "traits": [
+    {
+      "name": "Attrape-rêves",
+      "description": "Augmente les dégâts de feu subis par tous les ennemis situés à <b>5</b> mètres de Dolly de <b>8%</b>. Non cumulable."
+    },
+    {
+      "name": "Domaine de Dolly",
+      "description": "Augmente les dégâts de feu reçus par tous les ennemis situés à moins de 5 mètres de Dolly de <b>8%</b>. Non cumulable. Après avoir projeté Dolly, augmente l'ATQ de feu de <b>12%</b> pendant <b>10</b> secondes. Non cumulable."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "Pyronoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "Cadre en nanofibres I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "Cœur de lave",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "Vernis antiacide II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

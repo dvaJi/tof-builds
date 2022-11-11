@@ -1,0 +1,22 @@
+{
+  "_id": 38,
+  "id": "ultimate_warrior_otter",
+  "name": "นักรบอัลติเมทออตเตอร์",
+  "description": "ออกแบบมาสำหรับวันครบรอบ 40 ปีของสมรภูมิยอดนักรบ: สมรภูมิยอดนักรบ 40 พร้อมให้ใช้งานแล้ว ซื้อตอนนี้และรับอุปกรณ์เสริมจำนวนจำกัดของ SSR ออตเตอร์อันทรงพลัง",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cocoritter",
+    "ene",
+    "nemesis",
+    "ruby"
+  ],
+  "characters": [
+    "hilda",
+    "samir",
+    "bailing",
+    "claudia",
+    "huma",
+    "pepper"
+  ]
+}

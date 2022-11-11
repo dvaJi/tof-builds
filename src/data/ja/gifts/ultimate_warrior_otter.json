@@ -1,0 +1,22 @@
+{
+  "_id": 38,
+  "id": "ultimate_warrior_otter",
+  "name": "アルティメット戦士タタ",
+  "description": "アルティメット戦士大戦IP発売40周年記念作品、アルティメット戦士大戦40thがリリース。今買うと強力なSSR限定キャラ「タタ」のグッズが付いてくる",
+  "rarity": "SR",
+  "value": 60,
+  "favorite": [
+    "cocoritter",
+    "ene",
+    "nemesis",
+    "ruby"
+  ],
+  "characters": [
+    "hilda",
+    "samir",
+    "bailing",
+    "claudia",
+    "huma",
+    "pepper"
+  ]
+}

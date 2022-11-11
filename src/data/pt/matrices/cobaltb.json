@@ -1,0 +1,34 @@
+{
+  "_id": 28,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "suitName": "Tática Intuitiva",
+  "hash": "SSR5",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta em 10%/12,5%/15%/17,5% o dano causado a alvos sofrendo efeitos negativos."
+    },
+    {
+      "count": 4,
+      "value": "Restaura 1 tentativa de esquiva a cada 3 esquivas. Esquivas bem-sucedidas infligem queimadura, causando dano de 24%/30%/36%/42% do ATQ a cada segundo durante 6 segundos."
+    }
+  ],
+  "mind": {
+    "name": "Sexto Sentido",
+    "desc": "É como observação estática de outra dimensão."
+  },
+  "memory": {
+    "name": "Capital Inicial",
+    "desc": "Duas garantias que nunca foram confiscadas, mesmo depois de a dívida ter sido paga."
+  },
+  "belief": {
+    "name": "Mestra da Arte",
+    "desc": "Qual é o problema de chamar isto de \"obra de arte\"? Não acha que uma chave inglesa é tão elegante quanto um pincel?"
+  },
+  "emotion": {
+    "name": "Flor do Dia",
+    "desc": "Coloque um despertador no minidrone para acordar você de manhã."
+  }
+}
