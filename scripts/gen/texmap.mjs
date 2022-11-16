@@ -13,6 +13,9 @@ const OFFICIALLOC_PATH = path.join(
   'OfficialLocalization'
 );
 
-export const ENtextMap = JSON.parse(
-  fs.readFileSync(path.join(OFFICIALLOC_PATH, 'en', `Game.json`))
-);
+export const ENtextMap =
+  process.env.MYCUSTOM_DEV_ENV === 'true'
+    ? JSON.parse(
+        fs.readFileSync(path.join(OFFICIALLOC_PATH, 'en', `Game.json`))
+      )
+    : {};
