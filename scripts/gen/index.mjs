@@ -29,7 +29,8 @@ const OFFICIALLOC_PATH = path.join(
 const locales = ['en', 'es', 'de', 'fr', 'id', 'ja', 'pt', 'th'];
 
 async function main() {
-  if (process.env.DEV_ENV) {
+  console.log('Generating items...', process.env.MYCUSTOM_DEV_ENV);
+  if (process.env.MYCUSTOM_DEV_ENV === 'true') {
     for (const locale of locales) {
       const textMap = JSON.parse(
         fs.readFileSync(path.join(OFFICIALLOC_PATH, locale, `Game.json`))

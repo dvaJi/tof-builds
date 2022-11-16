@@ -1,7 +1,7 @@
 {
   "name": "@dvaji/tof-builds",
   "author": "dvaji",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
@@ -31,7 +31,7 @@
     "generate": "node ./scripts/gen/index.mjs",
     "check-missing": "npm run generate && npm run build && node ./scripts/check-missing.js",
     "format-data": "prettier --loglevel warn --write \"src/data/**/*.json\"",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run generate && npm run build"
   },
   "devDependencies": {
     "@types/node": "^16.18.2",
