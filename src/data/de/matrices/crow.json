@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Kritische Treffer verursachen zusätzlich 5 Sek. lang pro Sek. einen DoT in Höhe von 12%/15%/18%/21% des ANG. Dieser Effekt ist nicht stapelbar."
+      "value": "Kritische Treffer verursachen zusätzlich 5 Sek. lang pro Sek. einen DoT in Höhe von 12%/15%/18%/21% des ANG. Dieser Effekt kann nicht gestapelt werden."
     }
   ],
   "mind": {

@@ -4,7 +4,7 @@
   "name": "Samir",
   "weapon": "Étoiles EM doubles",
   "weapon_id": "dual_em_stars",
-  "birthday": "20 mai (taureau)",
+  "birthday": "20 mai (Taureau)",
   "birthplace": "Hykros",
   "gender": "Féminin",
   "info": "Fainéante et égocentrique, Samir apprécie les blagues et les farces inoffensives.\nMalgré son statut d'Exécutante d'Hykros et son incroyable force, Samir présente une personnalité paresseuse et non fiable qui pose problème. À cause de son habitude à jouer des tours à ses collègues, tous ceux qui travaillent avec elle sont à cran et sa réputation n'est pas totalement positive. Cependant, Samir ne semble pas s'en préoccuper.",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>47.1%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>35.8%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>119.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>113.1%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>154%</b> de l'ATQ + <b>8</b>, et <b>projetez</b> la cible."
+      "description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour attaquer 5 fois de suite avec les pistolets doubles.\nPremière attaque : inflige des dégâts équivalant à <b>47.1%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>35.8%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>119.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>113.1%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>154%</b> de l'ATQ + <b>8</b>, et <b>projette</b> la cible."
     },
     {
       "name": "Pluie de balles",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale lorsque vous êtes dans les airs pour tirer continuellement au sol, et infliger des dégâts équivalant à <b>50.6%</b> de l'ATQ + <b>3</b>. Chaque frappe consomme <b>150</b> d'endurance."
+      "description": "Utilisez l'attaque normale lorsque vous êtes dans les airs pour tirer continuellement au sol, et infliger des dégâts équivalant à <b>50.6%</b> de l'ATQ + <b>3</b>. Chaque frappe consomme <b>150</b> d'endurance."
     },
     {
       "name": "Explosion d'énergie",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Lorsque vous êtes en l'air, maintenez l'attaque normale enfoncée pour déclencher Coup de pied fantôme. Renverse la cible et inflige un nombre de dégâts égal à <b>70.5%</b> de l'ATQ + <b>4</b>. Au moment où vous atterrissez, inflige un nombre de dégâts égal à <b>98.7%</b> de l'ATQ + <b>5</b> aux cibles proches et les <b>projette</b>."
+      "description": "Lorsque vous êtes dans les airs, maintenez l'attaque normale enfoncée pour déclencher Coup de pied fantôme. Renverse la cible et inflige des dégâts équivalant à <b>70.5%</b> de l'ATQ + <b>4</b>. À l'atterrissage, inflige des dégâts équivalant à <b>98.7%</b> de l'ATQ + <b>5</b> aux cibles proches et les <b>projette fortement</b>."
     },
     {
       "name": "Coup de pied de foudre ascendant",
@@ -68,7 +68,7 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée un Domaine du tonnerre à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, <b>suspendant longuement</b> les cibles dans la zone d'effet et infligeant un total de dégâts égal à <b>238.3%</b> de l'ATQ + <b>13</b> en 3 attaques, tout en dissipant leurs effets bénéfiques. Le domaine dure <b>3,5</b> secondes et inflige des dégâts équivalant à <b>42.4%</b> de l'ATQ + <b>2</b> à une cible chaque <b>0,5</b> seconde."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée un Domaine du tonnerre à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, <b>suspendant longuement</b> les cibles dans la zone d'effet et infligeant un total de dégâts égal à <b>238.3%</b> de l'ATQ + <b>13</b> en 3 attaques, tout en dissipant leurs effets bénéfiques. Le domaine dure <b>3,5</b> secondes et inflige des dégâts équivalant à <b>42.4%</b> de l'ATQ + <b>2</b> à une cible chaque <b>0,5</b> seconde."
     }
   ],
   "weapon_type": {
@@ -77,7 +77,7 @@
   },
   "advancement": [
     "Déclenche une explosion électrique sur la cible après avoir porté un coup critique, infligeant des dégâts supplémentaires correspondant à <b>30%</b> de l'ATQ à la cible et aux ennemis proches. Temps de recharge : <b>0,2</b> seconde.",
-    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Accroît de <b>40%</b> le taux de critique aux cibles électrifiées. Les explosions électriques prolongent de <b>0,5</b> seconde la durée des effets électrifiés, dans la limite de <b>5</b> secondes.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Double la durée de Champ électrique et attire les cibles au centre de l'attaque.",
@@ -87,12 +87,12 @@
     {
       "name": "Supercherie",
       "icon": true,
-      "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>3%</b> et le maximum est de <b>4</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>1</b>."
+      "description": "Toutes les <b>4</b> secondes où elle ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>3%</b> et le maximum est de <b>4</b> cumuls. Lorsqu' elle est touchée, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>1</b>."
     },
     {
       "name": "Ombre",
       "icon": true,
-      "description": "Toutes les <b>4</b> secondes où il ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>4%</b> et le maximum est de <b>5</b> cumuls. Lorsqu'il est touché, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>2</b>."
+      "description": "Toutes les <b>4</b> secondes où elle ne subit pas de dégâts, Samir obtient <b>1</b> cumul de Concentration. Chaque cumul augmente les dégâts infligés de <b>4%</b> et le maximum est de <b>5</b> cumuls. Lorsqu'elle est touchée, Samir perd <b>1</b> cumul. Le nombre maximum de cumuls perdus en <b>1</b> seconde est de <b>2</b>."
     }
   ],
   "ascension": [

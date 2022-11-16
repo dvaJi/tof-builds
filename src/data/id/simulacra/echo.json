@@ -9,7 +9,7 @@
   "gender": "Perempuan",
   "info": "Seorang gadis ceroboh yang sangat aktif dan ceplas-ceplos.\nSejak diselamatkan oleh seorang pedagang yang sedang lewat, dia ingin melakukan hal yang sama dengan melakukan kebaikan saat berkelana.\nDia tidak suka kejahatan, dan berpendapat bahwa kebaikan hanya bisa dilakukan dengan membasmi kejahatan. Muda dan kurang berpengalaman, dia sering menilai orang berdasarkan standar yang meragukan.",
   "description": "Echo lahir di Warren, dan bermimpi untuk pergi dari negeri penuh salju itu untuk melihat dunia.\nSaat berusia sembilan tahun, Shelter-nya hancur oleh salju longsor yang mendadak datang, dan orang tuanya meninggal karena melindunginya. Dia kemudian diselamatkan oleh seorang pedagang yang lewat dan dibawa ke fasilitas pemulihan di Banges.\nSetelah tinggal di Banges selama lima tahun, dia memulai perjalanan untuk membasmi kejahatan dan menyebarkan kebaikan.",
-  "like": "Granny Eileen, makan ikan",
+  "like": "Granny Eileen, ikan",
   "dislike": "Mengemudikan kendaraan",
   "element": "Volt",
   "rarity": "SR",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>24.7%</b> ATK + <b>1</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Menimpakan damage sebanyak <b>22.6%</b> ATK + <b>1</b> memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimpakan damage sebanyak <b>47.2%</b> ATK + <b>2</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Menimpakan damage sebanyak <b>65.2%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Menimpakan damage sebanyak <b>114.95%</b> ATK + <b>6</b> dan memukul mundur target dalam jarak yang signifikan."
+      "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>24.7%</b> ATK + <b>1</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>22.6%</b> ATK + <b>1</b> memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>47.2%</b> ATK + <b>2</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>65.2%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebesar <b>114.95%</b> ATK + <b>6</b> dan memukul mundur target dalam jarak yang signifikan."
     },
     {
       "name": "Jumping Strike",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat mengudara, ketuk Normal Attack untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Timpakan damage sebanyak <b>27.4%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>23.2%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>45.8%</b> ATK + <b>2</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>110%</b> ATK + <b>6</b>."
+      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimbulkan DMG sebesar <b>27.4%</b> ATK + <b>1</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>23.2%</b> ATK + <b>1</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>45.8%</b> ATK + <b>2</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>110%</b> ATK + <b>6</b>."
     },
     {
       "name": "Crashing Drive",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat turun, menimbulkan damage sebanyak <b>8%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>48.5%</b> ATK + <b>3</b> dan memukul jatuh target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target terkunci), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat terjun, menimbulkan DMG sebesar <b>8%</b> ATK + <b>1</b> tiap mengenai target. Saat mendarat, menimbulkan DMG sebesar <b>48.5%</b> ATK + <b>3</b> dan memukul jatuh target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula DMG yang ditimbulkan, maks <b>600%</b> DMG."
     },
     {
       "name": "Spear Flurry",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target sehingga menimbulkan damage sebanyak <b>49.2%</b> ATK + <b>3</b>. Ketuk lagi untuk terus menyerang target yang kena Suspend sehingga menimbulkan damage maks <b>98%</b> ATK + <b>5</b> damage kepada satu target."
+      "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target, menimpakan damage sebesar <b>49.2%</b> ATK + <b>3</b>. Tekan lagi untuk terus menyerang target yang kena Suspend sehingga menimbulkan damage maks <b>98%</b> ATK + <b>5</b> damage kepada satu target."
     },
     {
       "name": "Sneak Attack",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
     },
     {
       "name": "Flying Kick",
@@ -63,7 +63,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Ketuk tombol Normal Attack dalam jangka waktu Perfect Dodge yang singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan damage sebanyak <b>72%</b> ATK + <b>4</b>, memukul mundur target cukup jauh, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
+      "description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan damage sebesar <b>72%</b> ATK + <b>4</b>, memukul mundur target cukup jauh, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
     },
     {
       "name": "Lunging Smash",
@@ -71,14 +71,14 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Lunging Smash.\nHantamkan Long Spear ke dalam tanah, mengakibatkan <b>Suspend Keras</b> kepada target sehingga menimbulkan damage sebanyak <b>52.8%</b> ATK + <b>3</b>."
+      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Lunging Smash.\nHantamkan Long Spear ke dalam tanah, mengakibatkan <b>Suspend Keras</b> kepada target, menimpakan damage sebesar <b>52.8%</b> ATK + <b>3</b>."
     },
     {
       "name": "Moonchaser",
       "type": [
         "Skill"
       ],
-      "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengalami Airborne sehingga menimbulkan damage sebanyak <b>127.5%</b> ATK + <b>7</b>. Cooldown: <b>25</b> detik."
+      "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengakibatkan Airborne, menimpakan damage sebesar <b>127.5%</b> ATK + <b>7</b>. Cooldown: <b>25</b> detik."
     },
     {
       "name": "Thunderclap",
@@ -90,7 +90,7 @@
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>106%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebesar <b>106%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
   },
   "advancement": [
     "Meningkatkan Shatter sebanyak <b>15%</b>. Setelah menghancurkan Shield musuh, meningkatkan ATK semua rekan tim sebanyak <b>15%</b> selama <b>30</b> detik. Efek ini tidak bisa ditumpuk.",
@@ -109,7 +109,7 @@
     {
       "name": "Determination",
       "icon": true,
-      "description": "Saat bertempur dalam tim bersama Echo, teman dalam radius <b>10</b> meter di sekitar Echo akan menerima Damage Boost sebanyak <b>6%</b> (kecuali Echo)."
+      "description": "Saat bertempur dalam tim bersama Echo, kawan dalam radius <b>10</b> meter</> di sekitar Echo akan menerima Damage Boost sebesar <b>6%</b> (tidak termasuk Echo)."
     }
   ],
   "ascension": [

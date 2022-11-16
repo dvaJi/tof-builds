@@ -4,7 +4,7 @@
   "name": "Huma",
   "weapon": "Molten Shield V2",
   "weapon_id": "molten_shield_v2",
-  "birthday": "12 January (Capricorn)",
+  "birthday": "January 12 (Capricorn)",
   "birthplace": "Hykros",
   "gender": "Female",
   "info": "Sometimes falls into a state of confusion or daze, due to missing some of her memories and parts of her identity data. Often wears a mask over her mouth, making communication even more difficult. Exceedingly quiet and introverted.\nWith little experience of the outside world, she is as innocent as a fledgling and has a detached air.",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne or after jumping once, tap normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>75.9%</b> of ATK + <b>4</b>.\nSecond Attack: Deal damage equal to <b>80.2%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>103%</b> of ATK + <b>5</b>.\nFourth Attack: Deal damage equal to <b>118.6%</b> of ATK + <b>6</b> and deliver a <b>knockdown</b>, launch the target upon landing."
+      "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>75.9%</b> of ATK + <b>4</b>.\nSecond Attack: Deal damage equal to <b>80.2%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>103%</b> of ATK + <b>5</b>.\nFourth Attack: Deal damage equal to <b>118.6%</b> of ATK + <b>6</b> and deliver a <b>knockdown</b>, launch the target upon landing."
     },
     {
       "name": "Anticipation",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Air Branch attacks.\nShield Form: While falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>89.2%</b> of ATK + <b>5</b> and suspend the target.\nAxe Form: While falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>128.3%</b> of ATK + <b>7</b> and suspend the target.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger aerial branch attacks.\nShield Form: While falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>89.2%</b> of ATK + <b>5</b> and suspend the target.\nAxe Form: While falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>128.3%</b> of ATK + <b>7</b> and suspend the target.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Erupt",
@@ -54,7 +54,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tap normal attack during the short period after dodging to trigger a Dodge Attack.\nShield Form: Unleash a flaming shield, dealing damage equal to <b>55.8%</b> of ATK + <b>3</b> and knocking back targets. In addition, trigger an explosion that deals damage equal to <b>{0}%</b> of ATK + <b>{1}</b>, <b>stun</b> targets for <b>0.5</b> seconds, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds.\nAxe Form: Swing an axe to deal damage equal to <b>55.8%</b> of ATK + <b>3</b>, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds."
+      "description": "Tap normal attack during the short period after dodging to trigger Dodge Attack.\nShield Form: Unleash a flaming shield, dealing damage equal to <b>55.8%</b> of ATK + <b>3</b> and knocking back targets. In addition, trigger an explosion that deals damage equal to <b>55.8%</b> of ATK + <b>3</b>, <b>stun</b> targets for <b>0.5</b> seconds, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds.\nAxe Form: Swing an axe to deal damage equal to <b>55.8%</b> of ATK + <b>3</b>, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds."
     },
     {
       "name": "Fission",
@@ -73,10 +73,10 @@
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>{3}%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+    "description": "When the weapon is fully charged, the next attack will set the target on fire for <b>8</b> seconds, causing damage equal to <b>58%</b> of ATK every second. Ignited targets have <b>50%</b> reduced healing efficacy."
   },
   "advancement": [
-    "Gain a stack of Strong Shield upon casting Discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <b>10%</b> damage reduction for <b>15</b> seconds and stacks up to <b>3</b> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <b>15%</b> for <b>15</b> seconds. Switching to a different weapon cancels this effect.",
+    "Gain a stack of Strong Shield upon using discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <b>10%</b> damage reduction for <b>15</b> seconds and stacks up to <b>3</b> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <b>15%</b> for <b>15</b> seconds. Switching to a different weapon cancels this effect.",
     "Increase the current weapon's base HP growth by <b>16%</b>.",
     "While in shield form, branch/dodge attacks deal additional damage to targets equal to <b>4%</b> of the user's current HP.",
     "Increase the current weapon's base ATK growth by <b>32%</b>.",
@@ -130,7 +130,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       }
@@ -147,7 +147,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       },
@@ -170,7 +170,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 4
       },
@@ -193,7 +193,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 6
       },
@@ -216,7 +216,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 8
       },
@@ -239,7 +239,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 11
       },

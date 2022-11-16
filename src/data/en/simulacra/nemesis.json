@@ -4,7 +4,7 @@
   "name": "Nemesis",
   "weapon": "Venus",
   "weapon_id": "venus",
-  "birthday": "23 May (Gemini)",
+  "birthday": "May 23 (Gemini)",
   "birthplace": "Angel of Clemency",
   "gender": "Female",
   "info": "After the restructure consisting of procedures including brainwashing, memory-erasing, and a second character implant, she has been quite emotionally unstable for a while. \nThe original character of Shirli was forced into suppression. Luckily, things have basically recovered, with slight concern remaining for some potential threat. \nSure enough, she could never return to the Shirli filled with liveliness, but she's mostly recovered like an ordinary girl. \nThe doubt about her own existence is still lingering, which embodies the restlessness and wounds left in her. Well... At least, she could summon the courage in the face of things, which is a sign of a good beginning.",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Initiate 5 attacks in a row with Balmung when on the ground.\nThe first attack deals damage equal to <b>50.8%</b> of ATK + <b>3</b> and causes minor knockback.\nThe second attack deals damage equal to <b>36.3%</b> of ATK + <b>2</b> and causes minor knockback.\nThe third attack deals damage equal to <b>98.3%</b> of ATK + <b>5</b> and causes minor knockback.\nThe fourth attack deals damage equal to <b>67.3%</b> of ATK + <b>4</b> and causes minor knockback.\nThe fifth attack deals damage equal to <b>148.3%</b> of ATK + <b>8</b> and knocks down the target."
+      "description": "While on the ground, initiate 5 attacks in a row with Balmung.\nFirst Attack: Deal damage equal to <b>50.8%</b> of ATK + <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>36.3%</b> of ATK + <b>2</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>98.3%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>67.3%</b> of ATK + <b>4</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>148.3%</b> of ATK + <b>8</b> and knock the target down."
     },
     {
       "name": "Aerial Discharge",
@@ -31,22 +31,22 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne or after jumping once, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>62.5%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>62%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>3%</b> of ATK + <b>120</b>.\nFourth Attack: Deal damage equal to <b>6%</b> of ATK + <b>71.2</b>.\nFifth Attack: Deal damage equal to <b>4%</b> of ATK + <b>126</b>."
+      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>62.5%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>62%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>3%</b> of ATK + <b>120</b>.\nFourth Attack: Deal damage equal to <b>6%</b> of ATK + <b>71.2</b>.\nFifth Attack: Deal damage equal to <b>4%</b> of ATK + <b>126</b>."
     },
     {
-      "name": "Forward Pursuit",
+      "name": "Quick Pursuit",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "After the second normal attack, hold the normal attack to trigger Forward Pursuit.\nShoot a laser-guided missile at the target, dealing damage up to <b>107.5%</b> of ATK + <b>6</b>."
+      "description": "After the second normal attack, hold the normal attack to trigger Quick Pursuit.\nShoot a laser-guided missile at the target, dealing damage up to <b>107.5%</b> of ATK + <b>6</b>."
     },
     {
       "name": "Dual Focus",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Hold normal attack to charge a shot and release an electrified ball that explodes on hit, dealing damage equal to <b>118.4%</b> of ATK + <b>6</b> to nearby enemies."
+      "description": "Tap and hold normal attack to charge a shot and release an electrified ball that explodes on hit, dealing damage equal to <b>118.4%</b> of ATK + <b>6</b> to nearby enemies."
     },
     {
       "name": "Twin Spinning Focus",
@@ -54,7 +54,7 @@
         "Perfect Attack",
         "Attack"
       ],
-      "description": "Tap normal attack during the short perfect attack window to trigger a slowing magnetic field.\nVenus fires a charged orb that travels forward a set distance and explodes in contact with targets. Deal damage equal to <b>171.6%</b> of ATK + <b>9</b>, and generate a slowing magnetic field for <b>3</b> seconds, which reduces the movement speed and attack speed of all enemies caught within by <b>35%</b>.\nDodging will trigger a healing chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small healing chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of healing chain enhance, which increases the effects of healing chains by <b>25%</b> (stacks up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons will cancel this effect."
+      "description": "Tap normal attack during the short perfect dodge window to trigger a slowing magnetic field.\nVenus fires a charged orb that travels forward a set distance and explodes in contact with targets. Deal damage equal to <b>171.6%</b> of ATK + <b>9</b>, and generate a slowing magnetic field for <b>3</b> seconds, which reduces the movement speed and attack speed of all enemies caught within by <b>35%</b>.\nDodging will trigger a Healing Chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small Healing Chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of Healing Chain enhance, which increases the effects of Healing Chains by <b>25%</b> (stacks up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons doesn't cancel this effect."
     },
     {
       "name": "Parallel Beams",
@@ -62,7 +62,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tap normal attack during the short perfect dodge window (tap a directional key while dodging) to trigger Parallel Beams.\nVenus fires a pair of parallel energy beams, dealing piercing damage equal to <b>171.6%</b> of ATK + <b>9</b>.\nDodging will trigger a healing chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small healing chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of healing chain enhance, which increases the effects of healing chains by <b>25%</b> (stack up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons will cancel this effect."
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Parallel Beams.\nVenus fires a pair of parallel energy beams, dealing piercing damage equal to <b>171.6%</b> of ATK + <b>9</b>.\nDodging will trigger a Healing Chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small Healing Chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of Healing Chain enhance, which increases the effects of Healing Chains by <b>25%</b> (stack up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons doesn't cancel this effect."
     },
     {
       "name": "Pulse Lock",
@@ -85,10 +85,10 @@
   },
   "weapon_resonance": {
     "name": "Volt Resonance",
-    "description": "<b>Volt Resonance</b>: Increase volt ATK by <b>15%</b> and volt resistance by <b>25%</b>. Activate by equipping <b>2</b> or more volt weapons. This set's effects do not work with others."
+    "description": "<b>Volt Resonance</b>: Increase volt ATK by <b>15%</b> and volt resistance by <b>25%</b>. Activate by equipping <b>2</b> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type."
   },
   "advancement": [
-    "After using <b>Pulse Lock</b> or <b>Particle Beam Burst</b>, creates <b>1</b> Electrode that immediately grants the user <b>5</b> stacks of healing chain enhance. In addition, unleash a healing chain that heals nearby allies by <b>135%</b> of the Wanderer's ATK.",
+    "After using <b>Pulse Lock</b> or <b>Particle Beam Burst</b>, creates <b>1</b> Electrode that immediately grants the user <b>5</b> stacks of Healing Chain Enhance. In addition, unleash a Healing Chain that heals nearby allies by <b>135%</b> of the Wanderer's ATK.",
     "Increase the current weapon's base ATK growth by <b>16%</b>.",
     "Every <b>6</b> seconds, the Electrode will unleash <b>Ring Lightning</b>, which deals damage equal to a maximum of <b>205%</b> of ATK in a target area.",
     "Increase the current weapon's base ATK growth by <b>32%</b>.",
@@ -142,7 +142,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       }
@@ -159,7 +159,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       },
@@ -182,7 +182,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 4
       },
@@ -205,7 +205,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 6
       },
@@ -228,7 +228,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 8
       },
@@ -251,7 +251,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 11
       },

@@ -19,11 +19,11 @@
   "charge": 10,
   "skills": [
     {
-      "name": "Normal Attack",
+      "name": "Serangan Biasa",
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, ayunkan kapak perisai untuk menyerang 4 kali berturut-turut.\nSerangan Pertama dalam Shield Form: Timpakan damage sebanyak <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>56.9%</b> ATK + <b>3</b> pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>62.8%</b> ATK + <b>3</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>184%</b> ATK + <b>10</b> dan buat target terpental.</>.\nSerangan Pertama dalam Axe Form: Timpakan damage sebanyak <b>135.2%</b> ATK + <b>7</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebanyak <b>79.4%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebanyak <b>119.9%</b> ATK + <b>6</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebanyak <b>221.3%</b> ATK + <b>12</b> dan pukul mundur target."
+      "description": "Saat di darat, ayunkan Shield Axe untuk menyerang 4 kali berturut-turut.\nSerangan Pertama dalam Shield Form: Timpakan damage sebesar <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>56.9%</b> ATK + <b>3</b> pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>62.8%</b> ATK + <b>3</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>184%</b> ATK + <b>10</b> dan buat target terpental.</>.\nSerangan Pertama dalam Axe Form: Timpakan damage sebesar <b>135.2%</b> ATK + <b>7</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>79.4%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>119.9%</b> ATK + <b>6</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>221.3%</b> ATK + <b>12</b> dan pukul mundur target."
     },
     {
       "name": "Aerial Strike",
@@ -31,14 +31,14 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>75.9%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimpakan damage sebanyak <b>80.2%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan damage sebanyak <b>103%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimpakan damage sebanyak <b>118.6%</b> ATK + <b>6</b> dan mengakibatkan <b>Knockdown</b>, dan akan membuat musuh terpental setelah mendarat."
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>75.9%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>80.2%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>103%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>118.6%</b> ATK + <b>6</b> dan mengakibatkan <b>Knockdown</b> yang akan membuat musuh terpental setelah mendarat."
     },
     {
       "name": "Anticipation",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Shield Form: Saat di darat, ketuk dan tahan Normal Attack untuk memasuki Shield Form (lepaskan untuk keluar) selama <b>3</b> detik. Selama itu, Wanderer tidak bisa bergerak, dan semua damage yang diterima berkurang sebanyak <b>50%</b>. Saat dalam Shield Form, melepaskan tombol Normal Attack setelah menerima damage atau setelah menahan tombol selama <b>3</b> detik, lepaskan Fire Crash, menimbulkan damage sebanyak <b>167.3%</b> ATK + <b>9</b> dan menimbulkan efek <b>Stun</b> kepada target selama <b>1</b> detik.\nAxe Form: Hancurkan target, menimbulkan damage sebanyak <b>122.2%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target."
+      "description": "Shield Form: Saat di darat, tekan dan tahan Serangan Biasa untuk memasuki Shield Form (lepaskan untuk keluar) selama <b>3</b> detik. Selama itu, Wanderer tidak bisa bergerak, dan semua damage yang diterima berkurang <b>50%</b>. Saat dalam Shield Form, melepaskan tombol Serangan Biasa setelah menerima damage atau setelah menahan tombol selama <b>3</b> detik, lepaskan Fire Crash, menimpakan damage sebesar <b>167.3%</b> ATK + <b>9</b> dan menimbulkan efek <b>Stun</b> kepada target selama <b>1</b> detik.\nAxe Form: Hancurkan target, menimpakan damage sebesar <b>122.2%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target."
     },
     {
       "name": "Valor",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Ketuk dan tahan Normal Attack saat Airborne (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan serangan Air Branch.\nShield Form: Saat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>89.2%</b> ATK + <b>5</b> dan buat target kena Suspend.\nAxe Form: Saat turun, menimbulkan damage sebanyak <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimbulkan damage sebanyak <b>128.3%</b> ATK + <b>7</b> dan mengakibatkan Suspend kepada target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      "description": "Tahan Serangan Biasa saat di udara (atau tekan saat ada target yang dipilih), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Branch Attack di udara.\nShield Form: Saat jatuh, menimpakan DMG sebesar <b>12.5%</b> of ATK + <b>1</b> tiap kena. Saat mendarat, menimpakan DMG sebesar <b>89.2%</b> ATK + <b>5</b> dan membuat target terkena Suspend.\nAxe Form: Saat jatuh, menimpakan DMG sebesar <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimpakan DMG sebesar <b>128.3%</b> ATK + <b>7</b> dan membuat target terkena Suspend.\nMakin tinggi ketinggianmu saat mengaktifkan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Erupt",
@@ -54,34 +54,34 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Ketuk Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Dodge Attack.\nShield Form: Lepaskan perisai api untuk menimbulkan damage sebanyak <b>55.8%</b> ATK + <b>3</b> dan memukul mundur target. Selain itu, mengaktifkan ledakan yang menimbulkan damage sebanyak <b>{0}%</b> ATK + <b>{1}</b>, memberikan efek <b>Stun</b> kepada target selama <b>0,5</b> detik, dan mengurangi efek Healing berikutnya kepada target sebanyak <b>30%</b> selama <b>10</b> detik.\nAxe Form: Ayunkan kapak untuk menimbulkan damage sebanyak <b>55.8%</b> ATK + <b>3</b>, dan mengurangi efek Healing berikutnya kepada sebanyak <b>30%</b> selama <b>10</b> detik."
+      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Dodge Attack.\nShield Form: Melontarkan perisai api yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan memukul mundur target. Lalu, memicu ledakan yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b>, memberikan efek <b>Stun</b> kepada target selama <b>0,5</b> detik, dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik.\nAxe Form: Mengayunkan kapak yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik."
     },
     {
       "name": "Fission",
       "type": [
         "Skill"
       ],
-      "description": "Shield Conversion: Beralih dari Shield Form ke Axe Form dan menghantam tanah sehingga menimbulkan damage sebanyak <b>373.8%</b> ATK + <b>20</b> dan mengakibatkan <b>Suspend Keras</b> kepada target. Meninggalkan zona api besar selama <b>5</b> detik yang akan membakar target, dan menimbulkan damage terus-menerus sebanyak <b>233.6%</b> ATK + <b>12</b>.\nAxe Conversion: Beralih dari bentuk kapak ke bentuk perisai dan menghantamkannya ke tanah, menimbulkan damage sebanyak <b>309.5%</b> ATK + <b>16</b> kepada target dan memukul mereka mundur. Membuat target tidak bisa berganti senjata selama <b>5</b> detik.\nCooldown: <b>25</b> detik untuk Shield Conversion sekaligus Axe Conversion."
+      "description": "Shield Conversion: Beralih dari Shield Form ke Axe Form dan menghantam tanah, menimpakan damage sebesar <b>373.8%</b> ATK + <b>20</b> dan mengakibatkan <b>Suspend Keras</b> kepada target. Meninggalkan zona api besar selama <b>5</b> detik yang akan membakar target, dan menimbulkan damage terus-menerus sebanyak <b>233.6%</b> ATK + <b>12</b>.\nAxe Conversion: Beralih dari bentuk kapak ke bentuk perisai dan menghantamkannya ke tanah, menimpakan damage sebesar <b>309.5%</b> ATK + <b>16</b> kepada target dan memukul mereka mundur. Membuat target tidak bisa berganti senjata selama <b>5</b> detik.\nCooldown: <b>25</b> detik untuk Shield Conversion sekaligus Axe Conversion."
     },
     {
       "name": "Seething Rage",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Flame Shockwave setelah beralih ke senjata ini, menimpakan damage sebanyak <b>352%</b> ATK + <b>19</b>. Memberikan Taunt kepada musuh selama <b>5</b> detik, dan selama itu akan mendapatkan <b>15%</b> Damage Reduction. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek bertahan <b>20</b> detik dan selama <b>10</b> detik akan memberikan <b>5%</b> Damage Reduction (bisa ditumpuk), dan memulihkan Dodge sebanyak 1."
+      "description": "Saat <span class=\"text-red\">Weapon Charge penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Flame Shockwave setelah beralih ke senjata ini, menimpakan damage sebesar <b>352%</b> ATK + <b>19</b>. Memberikan Taunt kepada musuh selama <b>5</b> detik, dan selama itu akan mendapatkan <b>15%</b> Damage Reduction. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek bertahan <b>20</b> detik dan selama <b>10</b> detik akan memberikan <b>5%</b> Damage Reduction (bisa ditumpuk), dan memulihkan Dodge sebanyak 1."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>{3}%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+    "description": "Saat charge senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "advancement": [
-    "Mendapatkan Strong Shield setelah menggunakan Discharge: Seething Rage. Jika menggunakan Dodge Skill atau Branch Skill selama dalam Shield Form, akan mendapatkan satu tumpuk Strong Shield, yang akan memberikan <b>10%</b> Damage Reduction selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Axe Form, semua tumpukan Strong Shield akan berubah menjadi tumpukan Sharp Axe, yang masing-masing akan meningkatkan damage sebanyak <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
+    "Mendapatkan Perisai Kuat setelah menggunakan Discharge: Seething Rage. Jika menggunakan Skill Menghindar atau Skill Branch selama dalam Bentuk Perisai, akan mendapatkan satu tumpuk Perisai Kuat, yang memberikan <b>10%</b> Pengurangan DMG selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Bentuk Kapak, semua tumpukan Perisai Kuat akan berubah menjadi tumpukan Kapak Tajam, yang masing-masing akan meningkatkan damage sebesar <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
     "Selama dalam wujud perisai, Branch/Dodge Attack akan menimpakan damage tambahan kepada target sebanyak <b>4%</b> dari HP saat ini pengguna.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang sebanyak <b>10%</b> setiap <b>3</b> detik, hingga minimum <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
-    "Meningkatkan Conversion Skill.\nShield Enhancement: Meningkatkan damage yang ditimbulkan sebanyak <b>60%</b> dan memperluas radius zona Flame sebanyak <b>30%</b>.\nAxe Enhancement: Cooldown tidak sama dengan Shield Enhancement. Selama <b>5</b> detik selanjutnya setelah menggunakan skill ini, semua damage yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
+    "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang <b>10%</b> setiap <b>3</b> detik, hingga minimum <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
+    "Meningkatkan Conversion Skill.\nShield Conversion Enhancement: Meningkatkan damage yang ditimbulkan sebanyak <b>60%</b> dan memperluas radius zona Flame sebanyak <b>30%</b>.\nAxe Conversion Enhancement: Cooldown tidak sama dengan Shield Conversion. Selama <b>5</b> detik berikutnya setelah menggunakan skill ini, semua damage yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
   ],
   "traits": [
     {

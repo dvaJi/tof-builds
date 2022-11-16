@@ -19,19 +19,19 @@
   "charge": 6,
   "skills": [
     {
-      "name": "Tiro rápido",
+      "name": "Tiro Rápido",
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, lanza un chakram para asestar 5 ataques giratorios.\nPrimer ataque: inflige daño equivalente al <b>30.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.8%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>34%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>30.7%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>53.8%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo."
+      "description": "En el suelo, lanza un chakram para asestar 5 ataques giratorios.\nPrimer ataque: inflige daño equivalente al <b>30.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.8%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>34%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>30.7%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>53.8%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo."
     },
     {
-      "name": "Descarga aérea",
+      "name": "Descarga Aérea",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y lanza 3 ataques giratorios seguidos.\nPrimer ataque: inflige daño equivalente al <b>26.2%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>29.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>37.2%</b> del ATQ + <b>2</b>."
+      "description": "En el aire o luego de saltar una vez, usa el ataque normal para desatar 3 ataques giratorios seguidos.\nPrimer ataque: inflige daño equivalente al <b>26.2%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>29.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>37.2%</b> del ATQ + <b>2</b>."
     },
     {
       "name": "Dispersión",
@@ -42,38 +42,38 @@
       "description": "Luego del segundo ataque normal, mantén el botón de ataque para activar Dispersión.\nDispara cinco chakrams penetrantes hacia adelante, y cada golpe inflige <b>43.5%</b> del ATQ + <b>2</b> de daño, y hace retroceder levemente."
     },
     {
-      "name": "Giro aéreo",
+      "name": "Giro Aéreo",
       "type": [
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal en el aire para activar Giro Aéreo.\nDesata un poderoso golpe e inflige daño equivalente al <b>191.5%</b> del ATQ + <b>10</b> al objetivo y a los enemigos cercanos, suspendiéndolos."
+      "description": "Mantén pulsado el ataque normal en el aire para activar Giro Aéreo.\nDesata un poderoso golpe e inflige daño equivalente al <b>191.5%</b> del ATQ + <b>10</b> al objetivo y a los enemigos cercanos, lo que los suspende."
     },
     {
-      "name": "Ataque sorpresa",
+      "name": "Ataque Sorpresa",
       "type": [
         "Croch",
         "Attack"
       ],
-      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>427.5%</b> del ATQ + <b>23</b>."
+      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>427.5%</b> del ATQ + <b>23</b>."
     },
     {
-      "name": "Luna menguante",
+      "name": "Luna Menguante",
       "type": [
         "Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar para activar Luna menguante.\nLanza un chakram giratorio e inflige daño equivalente al <b>132.9%</b> del ATQ + <b>7</b> al objetivo y causa <b>aturdimiento</b> durante <b>0.5</b> segundos. El chakram se divide en <b>3</b> y continúa avanzando, lo que inflige daño equivalente al <b>24.2%</b> del ATQ + <b>1</b> a los objetivos en su camino. <span class=\"text-red\">Los chakrams rebotan durante Floración</span>."
+      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar para activar Luna Menguante.\nLanza un chakram giratorio e inflige daño equivalente al <b>132.9%</b> del ATQ + <b>7</b> al objetivo y causa <b>aturdimiento</b> durante <b>0.5</b> segundos. El chakram se divide en <b>3</b> y continúa avanzando, lo que inflige daño equivalente al <b>24.2%</b> del ATQ + <b>1</b> a los objetivos en su camino. <span class=\"text-red\">Los chakrams rebotan durante Floración</span>."
     },
     {
       "name": "Floración",
       "type": [
         "Skill"
       ],
-      "description": "Crea un Dominio de Chakram con el nómada en su centro por <b>8</b> segundos. Al mismo tiempo, atrae enemigos y reduce su velocidad en un <b>30%</b> por <b>8</b> segundos. Dispara <b>5</b> chakrams que rebotan entre los enemigos e infligen daño equivalente al <b>24.2%</b> del ATQ + <b>1</b> a los objetivos en su trayectoria y rebotan hasta <b>5</b> veces. <span class=\"text-red\">Los chakrams divididos lanzados por Luna Menguante también rebotarán hasta 5 veces.</span> Enfriamiento: <b>45</b> segundos."
+      "description": "Crea un Dominio Chakram con el Nómada en su centro por <b>8</b> segundos. Al mismo tiempo, atrae enemigos y reduce su velocidad en un <b>30%</b> por <b>8</b> segundos. Dispara <b>5</b> chakrams que rebotan entre los enemigos e infligen daño equivalente al <b>24.2%</b> del ATQ + <b>1</b> a los objetivos en su trayectoria y rebotan hasta <b>5</b> veces. <span class=\"text-red\">Los chakrams divididos lanzados por Luna Menguante también rebotarán hasta 5 veces.</span> Enfriamiento: <b>45</b> segundos."
     },
     {
-      "name": "Espíritu del aire",
+      "name": "Espíritu del Aire",
       "type": [
         "Discharge"
       ],
@@ -82,13 +82,13 @@
   ],
   "weapon_type": {
     "name": "Grave",
-    "description": "Las armas completamente cargadas infligirán daño equivalente al <b>137%</b> del ATQ con el siguiente ataque, y causarán el estado grave en el objetivo por <b>7</b> segundos, por lo que recibirá un <b>20%</b> de daño adicional."
+    "description": "Cuando el arma está completamente cargada, el próximo ataque infligirá daño equivalente al <b>137%</b> del ATQ y causará el estado grave por <b>7</b> segundos, lo que causa que reciba <b>20%</b> de daño adicional."
   },
   "advancement": [
     "Aumenta todos los efectos de destrucción elementales y el daño infligido a los objetivos dentro del alcance de <span class=\"text-green\">Floración</span> en un <b>30%</b>.",
-    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
     "Aumenta la destrucción en un <b>15%</b> y reinicia todos los enfriamientos de habilidades de armas al destruir el escudo del objetivo. Solo se puede activar una vez cada <b>30</b> segundos.",
-    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+    "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
     "Atacar a un objetivo grave extiende la duración de grave durante <b>7</b> segundos adicionales (solo se activa una vez para el mismo efecto).",
     "Tras usar <span class=\"text-green\">Floración</span>, otorga una probabilidad de crítico de 100% durante los próximos <b>8</b> segundos."
   ],
@@ -111,7 +111,7 @@
       "cost": 400,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 2
       }
@@ -122,7 +122,7 @@
       "cost": 800,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 2
       }
@@ -133,13 +133,13 @@
       "cost": 1200,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 3
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 3
       }
@@ -150,19 +150,19 @@
       "cost": 1600,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 3
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 3
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 3
       }
@@ -173,19 +173,19 @@
       "cost": 2000,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 4
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 4
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 4
       }
@@ -196,19 +196,19 @@
       "cost": 2400,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 6
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 6
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 6
       }
@@ -219,19 +219,19 @@
       "cost": 2800,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 8
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 8
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 8
       }
@@ -242,19 +242,19 @@
       "cost": 3200,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 11
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 11
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 11
       }
@@ -265,19 +265,19 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_summit",
-        "name": "Corazón de cima",
+        "name": "Corazón de Cima",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "acidproof_glaze_ii",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido II",
         "rarity": "SR",
         "amount": 5
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Armazón reforzado II",
+        "name": "Armazón Reforzado II",
         "rarity": "SSR",
         "amount": 5
       }

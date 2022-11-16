@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Wenn ein Ziel geheilt wird, wird sein Volt-ANG für 20 Sek. um 15%/18%/21%/25% erhöht. Nicht stapelbar. Es gilt immer nur der Effekt mit der höchsten Stufe."
+      "value": "Wenn ein Ziel geheilt wird, wird sein Volt-ANG 20 Sekunden lang um 15%/18%/21%/25% erhöht. Dieser Effekt kann nicht gestapelt werden. Bei wiederholter Erlangung wird nur die Wirkung der höchsten Stufe angewandt."
     },
     {
       "count": 4,
-      "value": "Wenn der Anwender sich oder die eigene Elektrode heilt, erhält das Ziel eine Ladung „Blitz“. Dadurch wird der nächste Angriff innerhalb von 30 Sek. mit „Blitz“ verstärkt und verursacht so Voltschaden in Höhe von 300%/375%/450%/525% des Volt-ANG (Schaden der Elektrode wird um 50% verringert). Kann nur einmal alle 10 Sek. ausgelöst werden. „Blitz“-Ladungen sind nicht stapelbar. Es gilt immer nur der Effekt mit der höchsten Stufe."
+      "value": "Wenn der Anwender sich oder die eigene Elektrode heilt, erhält das Ziel eine Ladung „Blitz“. Der nächste Angriff innerhalb von 30 Sekunden wird mit „Blitz“ durchdrungen und verursacht Schaden in Höhe von 300%/375%/450%/525% des Volt-ANG (Schaden der Elektrode wird um 50% verringert). Kann nur einmal alle 10 Sekunden ausgelöst werden. „Blitz“-Ladungen sind nicht stapelbar. Bei wiederholter Erlangung wird nur die Wirkung der höchsten Stufe angewandt."
     }
   ],
   "mind": {

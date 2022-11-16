@@ -1,0 +1,286 @@
+{
+  "_id": 20,
+  "id": "saki_fuwa",
+  "name": "Saki Fuwa",
+  "weapon": "Flux de cœur",
+  "weapon_id": "heartstream",
+  "birthday": "11 octobre (Balance)",
+  "birthplace": "Forces spéciales de sécurité de Mirroria",
+  "gender": "Féminin",
+  "info": "Sous son apparence immature se cache un grand cœur. C'est en quelque sorte une \"mini-adulte\".\nMais parfois, son âge et son apparence remontent à la surface : quand il n'y a personne autour d'elle, elle s'entraîne à faire des remarques à voix haute comme si elle était en plein combat. Elle aime collectionner les figurines de l'ancienne époque, c'est d'ailleurs plus qu'un simple passe-temps : c'est une vraie passion.",
+  "description": "La capitaine des forces spéciales de sécurité de Mirroria, qui manie \"l'Hyper flux\". Elle est adepte du kendo et porte une tenue qui correspond à son style de combat. Elle est l'une des très rares membres des forces de sécurité à ne pas avoir reçu de modifications bioniques. Elle est responsable de la protection de Mirroria.",
+  "like": "Les figurines et les mangas",
+  "dislike": "Membre des forces de sécurité colérique et tête en l'air",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Tank",
+  "resonance": "Defense",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Torrent de rage",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lance 5 attaques Flux de cœur en étant au sol.\nLa première attaque inflige <b>42.5%</b> d'ATQ + <b>2</b> dégâts à la cible et la repousse légèrement.\nLa seconde attaque inflige <b>29.5%</b> d'ATQ + <b>2</b> à la cible et la repousse légèrement.\nLa troisième attaque inflige <b>45%</b> d'ATQ + <b>2</b> dégâts à la cible et la repousse légèrement.\nLa quatrième attaque inflige <b>70.6%</b> d'ATQ + <b>4</b> dégâts à la cible et la repousse légèrement.\nLa cinquième attaque inflige <b>102.6%</b> d'ATQ + <b>5</b> dégâts à la cible et la fait voltiger."
+    },
+    {
+      "name": "Fissure aérienne",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>47.2%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>43.7%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>54.2%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>76.9%</b> de l'ATQ + <b>4</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>170.2%</b> de l'ATQ + <b>9</b>."
+    },
+    {
+      "name": "Flot agité : Vortex",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "En mode Flot agité, maintenez l'attaque normale pour déclencher la compétence.\nVous vous élancez avec une attaque multiple tournoyante, infligeant un maximum de <b>199.5%</b> d'ATQ + <b>11</b> dégâts."
+    },
+    {
+      "name": "Chute de givre",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack avec attaque normale pour déclencher.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>30.4%</b> de l'ATQ + <b>2</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>76%</b> de l'ATQ + <b>4</b> aux cibles proches."
+    },
+    {
+      "name": "Esquive",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Devient immunisé contre l'hébétement pendant <b>0,5</b> seconde lors d'une esquive."
+    },
+    {
+      "name": "Front polaire",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale rapidement après une esquive vers l'avant.\nÉlancez-vous et retournez-vous pour attaquer la cible, en infligeant des dégâts équivalant à <b>277%</b> de l'ATQ + <b>15</b>."
+    },
+    {
+      "name": "Flot agité : flux étincelant",
+      "type": [
+        "Skill"
+      ],
+      "description": "Vous vous ruez vers la cible et immobilisez temporairement l'ennemi en chemin, en infligeant des dégâts retardés équivalant à <b>445.3%</b> de l'ATQ + <b>23</b>. Temps de recharge : <b>30</b> secondes."
+    },
+    {
+      "name": "Flot silencieux : flux concentré",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Utilisez les compétences Flot silencieux pour entrer en état de charge pendant jusqu'à <b>3</b> secondes, provoquant les cibles alentour et absorbant un total de dégâts équivalant à jusqu'à <b>60%</b> des PV max. Lorsque l'état de charge prend fin, inflige aux cibles des dégâts de givre équivalant à <b>850%</b> de l'ATQ de givre + <b>50%</b> des dégâts absorbés. <b>20%</b> de la valeur non consommée est convertie en récupération de PV. Temps de recharge : <b>30</b> secondes.\n\nEntre dans l'état Flot silencieux lorsque Résonance de fortitude est activée. <b>Flot silencieux : Flux concentré</b> remplace <b>Flot agité : Flux étincelant</b>. Entre dans l'état Flot agité lorsque Résonance de fortitude n'est pas activée.\nUtiliser les compétences de Saki Fuwa invoque une Ombre de l'épée persistante qui suit l'Explorateur. Utiliser les compétences ramifiées et les compétences de décharge de Saki Fuwa déclenche Déferlement, infligeant des dégâts équivalant à <b>450%</b> de l'ATQ de givre. Temps de recharge de Déferlement : <b>10</b> secondes.\nDans l'état Flot agité : quand le joueur inflige des dégâts avec n'importe quelle arme, l'Ombre de l'épée libère Flux, infligeant des dégâts équivalant à <b>125%</b> de l'ATQ de givre à la première cible touchée et récupérant des PV à hauteur de <b>57%</b> des dégâts infligés. La récupération maximale ne dépasse jamais <b>100%</b> de l'ATQ. Temps de recharge : <b>0,8</b> seconde.\nDans l'état Flot silencieux : après que l'Ombre de l'épée a libéré Déferlement, l'Explorateur obtient <b>3</b> blocages qui durent <b>10</b> secondes. La capacité défensive de ces blocages ne dépasse pas <b>15%</b> des PV max du joueur. Tout blocage réussi entraînera une Contre-attaque infligeant des dégâts à hauteur de <b>450%</b> de l'ATQ de givre à la cible et les capacités de fracture de Déferlement augmenteront de <b>100%</b> avec un effet de provocation."
+    }
+  ],
+  "weapon_type": {
+    "name": "Coquille de glace",
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque <b>gèle</b> les cibles pendant <b>2</b> secondes et leur inflige Gelure pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>151%</b> de l'ATQ. Lorsque la cible subit Gelure, son taux de recharge d'arme est réduit de <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Résonance de givre",
+    "description": "<b>Résonance de givre</b> : accroît l'ATQ de givre de <b>15%</b> et la résistance au givre de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre."
+  },
+  "advancement": [
+    "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <b>5</b> times weapon skills are used, and the damage of Flow and Counterattack is increased by <b>1</b> time for the next <b>25</b> [@$second|seconds].",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Flot agité : augmente les dégâts du Déferlement d'ombre de l'épée de <b>900%</b> d'ATQ de givre.\nFlot silencieux : le temps de recharge du Déferlement de l'ombre de l'épée est de <b>5</b> [@$seconde|secondes].",
+    "Accroît de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Arrêtez le temps et déclenchez Fantaisie lorsque le Déferlement touche la cible. Son temps de recharge est le même que celui de la Fantaisie activée par une esquive.",
+    "Après avoir touché une cible avec Déferlement, augmente les dégâts de givre de <b>11%</b> pendant <b>15</b> [@$seconde|secondes].\nEn déclenchant un blocage avec l'ombre de l'épée, réduit de <b>25%</b> les dégâts de givre infligés par les cibles ennemies pendant <b>12</b> [@$seconde|secondes]."
+  ],
+  "traits": [
+    {
+      "name": "État de fortitude",
+      "description": "Quand les PV sont inférieurs à <b>70%</b>, augmente la résistance de <b>40%</b>."
+    },
+    {
+      "name": "Épée gardienne",
+      "description": "Quand les PV sont inférieurs à <b>70%</b>, augmente la résistance de <b>40%</b> avec une résistance au givre supplémentaire de <b>60%</b>. En état de Flot silencieux : une fois que l'ombre de l'épée a lancé un Déferlement et a bloqué une attaque, le membre du groupe avec le moins de PV (sauf vous) reçoit 3 capacités de blocage qui durent <b>10</b> secondes. Les dégâts maximum de blocage n'excèdent pas <b>15%</b> des PV max du membre d'équipe."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Cryonoyau",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Cœur de l'hiver",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Cadre d'amplification II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

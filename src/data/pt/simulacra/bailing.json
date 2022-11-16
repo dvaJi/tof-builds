@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, saca o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>33.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>30.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>54.3%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>83.5%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância."
+      "description": "No chão, saque o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>33.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>30.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>54.3%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>83.5%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância."
     },
     {
       "name": "Tiro Concentrado",
@@ -46,7 +46,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>38.8%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>51%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>117%</b> do ATQ + <b>6</b>."
+      "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>38.8%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>51%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>117%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Flecha Repulsora",
@@ -61,26 +61,26 @@
       "type": [
         "Skill"
       ],
-      "description": "Dá um mortal para trás e dispara <b>1</b> tiro perfurante para frente. Causa dano de <b>154.8%</b> do ATQ + <b>8</b> e repelindo o alvo. Tempo de recarga: <b>12</b> seg."
+      "description": "Dá um mortal para trás e dispara <b>1</b> tiro perfurante para frente. Causa dano de <b>154.8%</b> do ATQ + <b>8</b> e repele o alvo. Tempo de recarga: <b>12</b> seg."
     },
     {
       "name": "Salva Explosiva",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e lança uma Salva Explosiva sobre o alvo ao trocar para esta arma. Causa dano de <b>486.6%</b> do ATQ + <b>26</b>."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e lança uma Salva Explosiva sobre o alvo ao trocar para esta arma. Causa dano de <b>486.6%</b> do ATQ + <b>26</b>."
     }
   ],
   "weapon_type": {
     "name": "Lesão",
-    "description": "Armas com carga completa causarão dano de <b>100%</b> do ATQ com o ataque seguinte e infligirão lesão ao alvo durante <b>7</b> segundos, que então sofrerá <b>20%</b> a mais de dano."
+    "description": "Com carga completa, o ataque seguinte da arma causa dano de <b>100%</b> do ATQ e inflige lesão ao alvo durante <b>7</b> segundos, que então sofre <b>20%</b> a mais de dano."
   },
   "advancement": [
     "Restaura 1 tentativa de esquiva a cada cinco ataques normais ou após usar <span class=\"text-green\">Tiro Perfurante</span>.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>10%</b>.",
     "Aumenta o dano do tiro na cabeça em <b>30%</b>.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>20%</b>.",
-    "Habilidades de esquiva infligem lesão a alvos durante <b>7</b> segundos.",
+    "Habilidades de esquiva infligem o efeito de lesão a alvos durante <b>7</b> segundos.",
     "Aumenta em <b>30%</b> a taxa de crítico contra alvos com lesão e em <b>50%</b> o dano crítico."
   ],
   "traits": [

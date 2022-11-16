@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>60.5%</b> de l'ATQ + <b>3</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi et le renversez (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+      "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>60.5%</b> de l'ATQ + <b>3</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi, et renverse la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
     },
     {
       "name": "Pluie de flèches",
@@ -46,7 +46,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour attaquer 4 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>38.8%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>51%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>77.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>117%</b> de l'ATQ + <b>6</b>."
+      "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>38.8%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>51%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>77.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>117%</b> de l'ATQ + <b>6</b>."
     },
     {
       "name": "Flèche piégée",
@@ -61,26 +61,26 @@
       "type": [
         "Skill"
       ],
-      "description": "Vous faites un salto arrière et tirez <b>1</b> tir perçant vers l'avant, qui inflige des dégâts équivalant à <b>154.8%</b> de l'ATQ + <b>8</b>, et repousse la cible. <b>12</b> secondes de recharge."
+      "description": "Vous faites un salto arrière et tirez <b>1</b> tir perforant vers l'avant, qui inflige des dégâts équivalant à <b>154.8%</b> de l'ATQ + <b>8</b>, et repousse la cible. <b>12</b> secondes de recharge."
     },
     {
       "name": "Barrage explosif",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et déclenche un Barrage explosif sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>486.6%</b> de l'ATQ + <b>26</b>."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et déclenche un Barrage explosif sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>486.6%</b> de l'ATQ + <b>26</b>."
     }
   ],
   "weapon_type": {
     "name": "Blessure grave",
-    "description": "Les armes entièrement chargées infligent des dégâts correspondant à <b>100%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
+    "description": "Les armes entièrement chargées infligent des dégâts équivalant à <b>100%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
   },
   "advancement": [
     "Restaure 1 tentative d'esquive toutes les cinq attaques normales ou après avoir utilisé <span class=\"text-green\">Tir perforant</span>.",
     "Augmente de <b>10%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Accroît de <b>30%</b> les dégâts de tir à la tête.",
     "Augmente de <b>20%</b> la croissance d'ATQ de base de l'arme actuelle.",
-    "Les compétences d'esquive infligent des blessures graves aux cibles pendant <b>7</b> secondes.",
+    "Les compétences d'esquive infligent un effet de blessure grave aux cibles pendant <b>7</b> secondes.",
     "Accroît de <b>30%</b> le taux de crit aux cibles gravement blessées et de <b>50%</b> les dégâts critiques."
   ],
   "traits": [

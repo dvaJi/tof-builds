@@ -20,11 +20,11 @@
     "desc": "No siguen ninguna orden. El caos es lo que buscan."
   },
   "belief": {
-    "name": "Asesino cuerpo a cuerpo",
+    "name": "Asesino Melé",
     "desc": "Nadie querrá luchar con ellos de nuevo."
   },
   "emotion": {
-    "name": "Portador del caos",
+    "name": "Portador del Caos",
     "desc": "Algunas cosas son caóticas por naturaleza y no les importaría volverse más caóticas."
   }
 }

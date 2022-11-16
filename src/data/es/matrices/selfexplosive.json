@@ -12,15 +12,15 @@
     }
   ],
   "mind": {
-    "name": "Núcleo explosivo",
+    "name": "Núcleo Explosivo",
     "desc": "El núcleo de Omnio arde brillante en el interior."
   },
   "memory": {
-    "name": "Hilo de unión",
+    "name": "Hilo de Unión",
     "desc": "No es un hilo de verdad, claro. Su creador solo quería infundir temor."
   },
   "belief": {
-    "name": "Red de pavor",
+    "name": "Red de Pavor",
     "desc": "A veces, la mirada de una araña atemoriza más que el daño que puede provocar."
   },
   "emotion": {

@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase frost ATK by 8%/10%/12%/15% for 10 seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect."
+      "value": "Increase frost ATK by 8%/10%/12%/15% for 10 seconds when switching between frost weapons. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect."
     },
     {
       "count": 4,
-      "value": "When unleashing a frost domain with the weapon \"Balmung,\" enemies within the frost domain receive frost damage equal to 55%/65%/75%/85% of ATK every second."
+      "value": "When unleashing a Frost Domain with the weapon \"Balmung,\" enemies within the Frost Domain receive frost damage equal to 55%/65%/75%/85% of ATK every second."
     }
   ],
   "mind": {

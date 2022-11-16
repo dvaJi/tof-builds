@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan damage terhadap target yang kena debuff sebanyak 10%/12,5%/15%/17,5%."
+      "value": "Meningkatkan DMG pada target yang terkena Debuff sebesar 14%/16%/18%/20%."
     },
     {
       "count": 4,
-      "value": "Memulihkan 1 upaya Dodge untuk setiap 3 Dodge. Dodge akan mengakibatkan efek Burn jika berhasil mengenai target, sehingga akan menimbulkan damage sebanyak 24%/30%/36%/42% ATK setiap detik selama 6 detik."
+      "value": "Memulihkan 1 upaya Dodge untuk setiap 3 Dodge. Dodge Skill mengakibatkan Burn saat serangan mengenai target, menimpakan DMG sebesaar 24%/30%/36%/42% ATK setiap 0,5 detik selama 4 detik."
     }
   ],
   "mind": {

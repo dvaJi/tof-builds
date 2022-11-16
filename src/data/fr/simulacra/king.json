@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, attaquez 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>63.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>68.8%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>190.5%</b> de l'ATQ + <b>10</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>213.6%</b> de l'ATQ + <b>11</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>173.9%</b> de l'ATQ + <b>9</b>, et vous renversez la cible. Inflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, attaquez 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>63.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>68.8%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>190.5%</b> de l'ATQ + <b>10</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>213.6%</b> de l'ATQ + <b>11</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>173.9%</b> de l'ATQ + <b>9</b>, et vous renversez la cible. Inflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts.Lorsque vous êtes dans les airs ou après un saut, attaquez 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>63.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>68.8%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>190.5%</b> de l'ATQ + <b>10</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>213.6%</b> de l'ATQ + <b>11</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>173.9%</b> de l'ATQ + <b>9</b>, et vous renversez la cible. Inflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
       "name": "Déchirement",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le Jetpack pour déclencher Déchirement.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts correspondant à <b>71.9%</b> de l'ATQ + <b>4</b>, et un <b>renversement</b>.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Déchirement.\nLorsque vous tombez, vous infligez des dégâts équivalant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>71.9%</b> de l'ATQ + <b>4</b>, et un <b>renversement</b>.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
       "name": "Lame tournoyante",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une flèche avant l'esquive) pour déclencher Fente rapide.\nVous infligez des dégâts jusqu'à <b>137.4%</b> de l'ATQ + <b>7</b>, et attirez les ennemis proches."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Fente rapide.\nVous infligez des dégâts jusqu'à <b>137.4%</b> de l'ATQ + <b>7</b>, et attirez les ennemis proches."
     },
     {
       "name": "Attaque furtive",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>570%</b> de l'ATQ + <b>30</b>."
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
       "name": "Lame tournoyante",
@@ -63,7 +63,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une flèche avant l'esquive) pour déclencher Fente rapide.\nVous infligez des dégâts jusqu'à <b>126.9%</b> de l'ATQ + <b>7</b>, et attirez les ennemis proches."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Fente rapide.\nVous infligez des dégâts jusqu'à <b>126.9%</b> de l'ATQ + <b>7</b>, et attirez les ennemis proches."
     },
     {
       "name": "Domaine des chauves-souris",
@@ -71,7 +71,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Pendant une esquive, vous invoquez un domaine des chauves-souris qui attire la cible en son centre. Appuyez sur Attaque normale rapidement après l'esquive pour brandir la faux et infliger des dégâts correspondant à <b>114.3%</b> de l'ATQ + <b>6</b>."
+      "description": "Pendant une esquive, vous invoquez un domaine des chauves-souris qui attire la cible en son centre. Appuyez sur Attaque normale rapidement après une esquive pour brandir la faux et infliger des dégâts correspondant à <b>114.3%</b> de l'ATQ + <b>6</b>."
     },
     {
       "name": "Cercle mortel",
@@ -85,24 +85,24 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée une Faux enflammée lorsque vous changez d'arme pour utiliser celle-ci. Inflige des dégâts équivalant à <b>398.3%</b> de l'ATQ + <b>21</b> et dure <b>10</b> secondes. Crée également un domaine de Faux enflammées  toutes les <b>2</b> secondes. Ces faux invoquent des éruptions volcaniques au sol, infligeant aux cibles des dégâts équivalant à <b>66%</b> de l'ATQ + <b>3</b> et les suspendant."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée une Faux flamboyante lorsque vous changez d'arme pour utiliser celle-ci. Inflige des dégâts équivalant à <b>398.3%</b> de l'ATQ + <b>21</b> et dure <b>10</b> secondes. Crée également un domaine de Faux flamboyantes toutes les <b>2</b> secondes. Ces faux invoquent des éruptions volcaniques au sol, infligeant aux cibles des dégâts équivalant à <b>66%</b> de l'ATQ + <b>3</b> et les suspendant."
     }
   ],
   "weapon_type": {
     "name": "Feu",
-    "description": "Les armes entièrement chargées embrasent la cible pendant <b>8</b> secondes lors de l'attaque suivante, infligeant chaque seconde des dégâts continus de <b>{3}%</b> d'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque embrase la cible pendant <b>8</b> secondes, infligeant chaque seconde des dégâts de <b>58%</b> de l'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
   },
   "advancement": [
-    "Augmente Fracture de <b>15%</b>. Après avoir brisé le bouclier de la cible, inflige des dégâts de brûlure égaux à <b>120%</b> de l'ATQ à la cible chaque seconde pendant <b>15</b> secondes.",
+    "Augmente la fracture de <b>15%</b>. Après avoir fracturé le bouclier de la cible, inflige à la cible des dégâts de brûlure équivalant à <b>120%/</b> de l'ATQ chaque seconde pendant <b>15</b> secondes.",
     "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
     "Augmente de <b>10%</b> les dégâts infligés pour chaque ennemi à moins de <b>6</b> mètres, jusqu'à un maximum de <b>30%</b>.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Augmente de <b>100%</b> les dégâts infligés aux boucliers de PV ou aux ennemis protégés par un bouclier.",
-    "Pour chaque ennemi tué, augmente de <b>10%</b> les dégâts infligés pendant <b>30</b> secondes (se cumule jusqu'à <b>3</b> fois)."
+    "Pour chaque ennemi tué, augmente de <b>10%</b> les dégâts infligés pendant <b>30</b> secondes. Cumulable jusqu'à <b>3</b> fois."
   ],
   "traits": [
     {
-      "name": "Coup de sang-froid",
+      "name": "Balayage cruel",
       "icon": true,
       "description": "Tous les <b>7</b> ennemis vaincus par KING, régénère un nombre de PV égal à <b>8%</b> des PV max."
     },

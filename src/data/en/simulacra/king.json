@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Asunder.\nWhile falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>71.9%</b> of ATK + <b>4</b> and deliver a <b>knockdown</b>.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Asunder.\nWhile falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>71.9%</b> of ATK + <b>4</b> and deliver a <b>knockdown</b>.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Returning Chainblade",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
     },
     {
       "name": "Returning Chainblade",
@@ -90,7 +90,7 @@
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>{3}%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+    "description": "When the weapon is fully charged, the next attack will set the target on fire for <b>8</b> seconds, causing damage equal to <b>58%</b> of ATK every second. Ignited targets have <b>50%</b> reduced healing efficacy."
   },
   "advancement": [
     "Increase shatter by <b>15%</b>. After shattering the target's shield, deal burn damage equal to <b>120%</b> of ATK to the target every second for <b>15</b> seconds.",
@@ -147,7 +147,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       }
@@ -164,7 +164,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       },
@@ -187,7 +187,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 4
       },
@@ -210,7 +210,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 6
       },
@@ -233,7 +233,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 8
       },
@@ -256,7 +256,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 11
       },

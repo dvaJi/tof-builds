@@ -1,8 +1,8 @@
 {
   "_id": 27,
   "id": "zero",
-  "name": "Zero",
-  "suitName": "Conexión increíble",
+  "name": "Cero",
+  "suitName": "Conexión Increíble",
   "hash": "SSR8",
   "rarity": "SSR",
   "bonus": [
@@ -16,19 +16,19 @@
     }
   ],
   "mind": {
-    "name": "cálculo paranormal",
+    "name": "Cálculo Paranormal",
     "desc": "Desafía a la lógica, subvierte la realidad, abandona completamente las fórmulas basadas en la experiencia para llegar al resultado final."
   },
   "memory": {
-    "name": "protocolo de terminal",
+    "name": "Protocolo de Terminal",
     "desc": "Los recuerdos solo son asunto de rastros. Si son reales o falsos... es algo que tú debes decidir."
   },
   "belief": {
-    "name": "clasificación de datos",
+    "name": "Clasificación de Datos",
     "desc": "La información se genera al clasificar datos sueltos."
   },
   "emotion": {
-    "name": "la supervivencia del más apto",
+    "name": "Supervivencia del Más Apto",
     "desc": "La supervivencia del más apto es una ley de la naturaleza y la manifestación de la superioridad individual."
   }
 }

@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Zerschlagen“ auszulösen.\nFügt beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>71.9%</b> des ANG + <b>4</b> und löst einen <b>Knockdown</b> aus.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Zerschlagen“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>71.9%</b> des ANG + <b>4</b> und löst einen <b>Knockdown</b> aus.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Bumerang-Kettenklinge",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums des perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>137.4%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>137.4%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
     },
     {
       "name": "Schleichattacke",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
     },
     {
       "name": "Bumerang-Kettenklinge",
@@ -63,7 +63,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums des perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>126.9%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>126.9%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
     },
     {
       "name": "Domäne der Fledermaus",
@@ -90,15 +90,15 @@
   ],
   "weapon_type": {
     "name": "Flamme",
-    "description": "Voll geladene Waffen entzünden das Ziel beim nächsten Angriff für <b>8</b> Sekunden und verursachen kontinuierlich Schaden in Höhe von <b>{3}%</b> des ANG pro Sekunde. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde anhaltenden Schaden in Höhe von <b>58%</b> des ANG. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
   },
   "advancement": [
-    "Erhöht „Zertrümmern“ um <b>15%</b>. Wenn der Schild des Ziels zertrümmert wurde, erleidet das Ziel <b>15</b> Sek. lang pro Sek. Verbrennenschaden in Höhe von <b>120%</b> des ANG.",
+    "Erhöht Zertrümmern um <b>15%</b>. Wenn der Schild des Ziels zertrümmert wurde, erleidet das Ziel <b>15</b> Sek. lang pro Sek. Flammenschaden in Höhe von <b>120%</b> des ANG.",
     "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>16%</b>.",
     "Erhöht den verursachten Schaden für jeden Gegner innerhalb von <b>6</b> Metern um <b>10%</b> (maximal <b>30%</b>).",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
     "Erhöht den Schaden gegen LP-Schilde oder Gegner mit Schild um <b>100%</b>.",
-    "Erhöht den verursachten Schaden für jeden getöteten Gegner <b>30</b> Sek. lang um <b>10%</b> (kann bis zu <b>3</b>-mal gestapelt werden)."
+    "Erhöht den verursachten Schaden für jeden getöteten Gegner <b>30</b> Sek. lang um <b>10%</b>. Kann bis zu <b>3</b>-mal gestapelt werden."
   ],
   "traits": [
     {

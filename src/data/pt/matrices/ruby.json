@@ -7,10 +7,12 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Após usar a habilidade da arma, aumenta o ATQ ígneo em 8%/10%/12%/15% durante 25 segundos. É acionado após uma classificação estelar diferente surtir efeito. Este efeito não se acumula."
     },
     {
-      "count": 4
+      "count": 4,
+      "value": "Após usar a habilidade da arma, recebe maestria durante 15 segundos com tempo de recarga de 15 segundos (o mesmo tempo de recarga vale para todos os níveis de maestria). Maestria não é acumulável. Aumenta o dano ígneo em 2%/2.5%/3%/3.5% toda vez que o alvo for atingido com um ataque normal até maestria terminar. Acumula até 6 vezes, adicionando no máximo 1 acúmulo a cada 0,2 segundo. Aos 6 acúmulos, confere um escudo que bloqueia dano 1 vez."
     }
   ],
   "mind": {
@@ -19,7 +21,7 @@
   },
   "memory": {
     "name": "Vapor",
-    "desc": "Tão nebulosos quanto vapor, os tais eventos passados são só ilusões em sonhos?"
+    "desc": "Tão nebulosos quanto o vapor, seriam os tais eventos passados só ilusões em nossos sonhos?"
   },
   "belief": {
     "name": "Furtividade",

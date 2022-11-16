@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Ganha 50%/62,5%/75% de reflexão de dano por 3 segundos ao trocar para a arma. Tempo de recarga: 30 segundos. Ganha 20%/25%/30% de reforço de dano por 5 segundos ao trocar para outra arma. Tempo de recarga: 30 segundos."
+      "value": "Ganha 50%/62,5%/75% de reflexão de dano durante 3 segundos ao trocar para a arma. Tempo de recarga: 30 seg. Ganha 20%/25%/30% de reforço de dano durante 5 segundos ao trocar para outra arma. Tempo de recarga: 30 seg."
     }
   ],
   "mind": {

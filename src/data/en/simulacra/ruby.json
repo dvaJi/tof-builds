@@ -4,7 +4,7 @@
   "name": "Ruby",
   "weapon": "Spark",
   "weapon_id": "spark",
-  "birthday": "15 July (Cancer)",
+  "birthday": "July 15 (Cancer)",
   "birthplace": "Unknown",
   "gender": "Female",
   "info": "An introverted and innocent girl who doesn't know much about the world. She is kinda afraid of strangers and prefers staying alone. Maybe that is why she is somewhat scared and shy in front of strangers. \nAlways called \"the kid with Madam Lin,\" she developed a sense of purpose—she must work harder and become stronger so that she wouldn't be a burden to Lin or let Lin's instructions go in vain.",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "On the ground, tap the normal attack button to command Spark to attack 5 times in a row.\nThe first attack deals total damage equal to <b>84.6%</b> of ATK + <b>4</b> against each target.\nThe second attack deals total damage equal to <b>93%</b> of ATK + <b>5</b> against each target.\nThe third attack deals total damage equal to <b>101.5%</b> of ATK + <b>5</b> against each target.\nThe fourth attack deals total damage equal to <b>109.9%</b> of ATK + <b>6</b> against each target.\nThe fifth attack deals total damage equal to <b>253.7%</b> of ATK + <b>13</b> against each target and <b>launches</b> targets."
+      "description": "While on the ground, tap the normal attack button to command Spark to attack 5 times in a row.\nFirst Attack: Deal total damage equal to <b>84.6%</b> of ATK + <b>4</b> against each target.\nSecond Attack: Deal total damage equal to <b>93%</b> of ATK + <b>5</b> against each target.\nThird Attack: Deal total damage equal to <b>101.5%</b> of ATK + <b>5</b> against each target.\nFourth Attack: Deal total damage equal to <b>109.9%</b> of ATK + <b>6</b> against each target.\nFifth Attack: Deal total damage equal to <b>253.7%</b> of ATK + <b>13</b> against each target and <b>launches</b> targets."
     },
     {
       "name": "Aerial Discharge",
@@ -31,14 +31,14 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne, tap normal attack to command Spark to attack 4 times in a row.\nFirst Attack: Deal total damage equal to <b>97.1%</b> of ATK + <b>5</b> against each target.\nSecond Attack: Deal total damage equal to <b>106.8%</b> of ATK + <b>6</b> against each target.\nThird Attack: Deal total damage equal to <b>121.3%</b> of ATK + <b>6</b> against each target.\nFourth Attack: Deal total damage equal to <b>145.6%</b> of ATK + <b>8</b> against each target."
+      "description": "While airborne, tap the normal attack button to command Spark to attack 4 times in a row.\nFirst Attack: Deal total damage equal to <b>97.1%</b> of ATK + <b>5</b> against each target.\nSecond Attack: Deal total damage equal to <b>106.8%</b> of ATK + <b>6</b> against each target.\nThird Attack: Deal total damage equal to <b>121.3%</b> of ATK + <b>6</b> against each target.\nFourth Attack: Deal total damage equal to <b>145.6%</b> of ATK + <b>8</b> against each target."
     },
     {
       "name": "Gotcha!",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tap and hold the normal attack button or do this after Lockdown Zone is triggered to continuously fire searing energy beams at enemies in a target direction, dealing damage equal to <b>40%</b> of ATK + <b>2</b> and consuming their endurance."
+      "description": "Tap and hold the normal attack button or do this after Lockdown Zone is triggered to continuously fire searing energy beams at enemies in a target direction, dealing damage equal to <b>40%</b> of ATK + <b>2</b>. Consumes Wanderer's endurance."
     },
     {
       "name": "Blazing Dive",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack while airborne to trigger Blazing Dive.\nEnvelop the body in energy before rapidly deep plunging into the ground, dealing damage equal to <b>172.1%</b> of ATK + <b>9</b> to nearby targets."
+      "description": "Tap and hold normal attack while airborne to trigger Blazing Dive.\nEnvelop the body in energy before rapidly plunging into the ground, dealing damage equal to <b>172.1%</b> of ATK + <b>9</b> to nearby targets."
     },
     {
       "name": "Lockdown Zone",
@@ -54,7 +54,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "After the second normal attack, hold the button during any attack to deal damage equal to <b>40%</b> of ATK + <b>2</b> against the target, imprison (not strong control) and burn the locked-on target for <b>3</b> seconds with damage equal to <b>26.2%</b> of ATK + <b>1</b> dealing against the target every second (does not work on bosses)."
+      "description": "After the second normal attack, hold the button during any attack to deal damage equal to <b>40%</b> of ATK + <b>2</b> against the target. The locked-on target is confined and burned for <b>3</b> seconds, and damage equal to <b>26.2%</b> of ATK + <b>1</b> is dealt to the target every second (ineffective against bosses)."
     },
     {
       "name": "Go, Dolly!",
@@ -62,14 +62,14 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Throw out Dolly after dodging. Dolly stays for <b>10</b> seconds, absorbing nearby enemies, dealing damage equal to <b>84.6%</b> of ATK + <b>4</b> against them, and taunting them for <b>1.5</b> seconds (cannot taunt enemies when in a team) to divert their attacks to Dolly."
+      "description": "Throw Dolly after dodging. Dolly remains for <b>10</b> seconds, drawing in nearby enemies and dealing damage equal to <b>84.6%</b> of ATK + <b>4</b> against them, as well as taunting them for <b>1.5</b> seconds, causing them to divert their attacks to Dolly (cannot taunt enemies when in a team)."
     },
     {
       "name": "Sparkling Collider",
       "type": [
         "Skill"
       ],
-      "description": "Spark fires out Sparks that last for 15-seconds and bounces between the target and the Wanderer. Upon hitting the target, the Sparks slow it down (not strong control) for <b>4</b> seconds with a <b>15</b>-second cooldown. Sparks deal more damage the further it travels. On hit, it deals damage to up to <b>350%</b> of ATK + <b>37</b> and inflicts a <b>25</b>-second Emblazen mark on the target. At the same time, Spark fires 4 bullets, with each bullet dealing damage equal to <b>50%</b> of ATK + <b>3</b> against its target. Spark's normal attacks deal <b>110%</b> more damage to Emblazen-marked targets. If the target has a self-inflicted burning effect, when Sparks hit a target, it burns or ignites the target once and deals additional damage equal to <b>100%</b> of the total remaining damage (multiple burns or ignition effects are counted together). The result calculation cooldown is <b>6</b> seconds. Skill cooldown is <b>30</b> seconds.\n<b>Passive</b>: When Sparks is active, each time Spark Attack deals damage, the Wanderer gains <b>1</b> point of Heat with a <b>0.9</b>-second cooldown, up to <b>8</b> points of Heat. Upon Heat reaching the upper limit, the Wanderer gains the Ultimate Heat effect, increasing flame ATK by <b>25%</b> for <b>25</b> seconds."
+      "description": "Spark fires out Sparks that last for 15 seconds and bounces between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for <b>4</b> seconds with a <b>15</b>-second cooldown. Sparks deals more damage the further it travels. On hit, it deals damage up to <b>350%</b> of ATK + <b>37</b> and inflicts a <b>25</b>-second Emblazen mark on the target. At the same time, Spark fires 4 bullets with each bullet dealing damage equal to <b>50%</b> of ATK + <b>3</b> against its target. Spark's normal attacks deal <b>110%</b> more damage to Emblazen-marked targets. When Sparks hits targets burned by the Wanderer, it burns or ignites the target once and deals additional damage equal to <b>100%</b> of the total remaining damage (multiple burn or incendiary effects are counted together). The Result calculation cooldown is <b>6</b> seconds and the skill cooldown is <b>30</b> seconds.\n\"<b>Passive</b>: When Sparks is active, each time Spark Attack deals damage, the Wanderer gains <b>1</b> point of Heat with a <b>0.9</b>-second cooldown, for up to <b>8</b> points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by <b>25%</b> for <b>25</b> seconds."
     },
     {
       "name": "Supernova",
@@ -81,28 +81,28 @@
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>58%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+    "description": "When the weapon is fully charged, the next attack will set the target on fire for <b>8</b> seconds, causing damage equal to <b>58%</b> of ATK every second. Ignited targets have <b>50%</b> reduced healing efficacy."
   },
   "weapon_resonance": {
     "name": "Flame Resonance",
     "description": "Increase flame ATK by <b>20%</b> and flame resistance by <b>40%</b>. Activate by equipping 2 or more flame weapons. This set effect also works with weapons in the off-hand slot."
   },
   "advancement": [
-    "Emblazen boosts the damage of Spark's normal attacks to <b>182%</b>. Skill cooldown drops to <b>24</b> seconds.",
+    "Emblazen boosts the damage of Spark Attack to <b>80%</b>. Skill cooldown drops to <b>24</b> seconds.",
     "Increase the current weapon's base ATK growth by <b>16%</b>.",
-    "Emblazen increases flame boost by <b>18%</b>, increasing burn multiplier by <b>150%</b>.",
+    "Emblazen increases flame boost by <b>8%</b> and the burn multiplier to <b>75%</b>.",
     "Increase the current weapon's base ATK growth by <b>32%</b>.",
-    "Each time Spark Attack hit an enemy, restore an additional <b>75</b> points of the weapon charge. Cooldown: 0.9 second. When Ultimate Heat is active, shatter increases by <b>25%</b>.",
-    "Emblazen boosts the damage of Spark's normal attacks to <b>240%</b>. Heat acquisition efficiency doubles. Skill cooldown drops to <b>16</b> seconds."
+    "Restore an additional <b>75</b> points of weapon charge each time Spark Attack hits an enemy. Cooldown: 0.9 seconds. Shatter increases by <b>25%</b> when Ultimate Heat is active.",
+    "Emblazen boosts the damage of Spark Attack to <b>160%</b> and doubles Heat acquisition efficiency. Skill cooldown drops to <b>16</b> seconds."
   ],
   "traits": [
     {
       "name": "Dreamcatcher",
-      "description": "Increase the flame damage taken by all enemies within <b>5</b> meters of Dolly by <b>8%</b>. Not stackable."
+      "description": "Increases the flame damage taken by all enemies within <b>5</b> meters of Dolly by <b>8%</b>. Not stackable."
     },
     {
       "name": "Dolly's Domain",
-      "description": "Increase the flame damage received by all enemies within 5 meters of Dolly by <b>8%</b>. Not stackable. After throwing out Dolly, increase flame ATK by <b>12%</b> for <b>10</b> seconds. Not stackable."
+      "description": "Increases the flame damage received by all enemies within 5 meters of Dolly by <b>8%</b>. Not stackable. Increases flame ATK after throwing Dolly by <b>12%</b> for <b>10</b> seconds. Not stackable."
     }
   ],
   "ascension": [
@@ -140,7 +140,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       }
@@ -157,7 +157,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       },
@@ -180,7 +180,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 4
       },
@@ -203,7 +203,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 6
       },
@@ -226,7 +226,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 8
       },
@@ -249,7 +249,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 11
       },

@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, ayunkan Dual Blade untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan damage sebanyak <b>60.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Menimpakan damage sebanyak <b>73%</b> ATK + <b>4</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Menimpakan damage sebanyak <b>90.9%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Menimpakan damage sebanyak <b>96.8%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Menimpakan damage sebanyak <b>202.2%</b> ATK + <b>11</b> dan memukul mundur target dalam jarak dekat."
+      "description": "Saat di darat, ayunkan Dual Blade untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>60.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>73%</b> ATK + <b>4</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>90.9%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>96.8%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebesar <b>202.2%</b> ATK + <b>11</b> dan memukul mundur target dalam jarak dekat."
     },
     {
       "name": "Sky Flurry",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>65.6%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>38.4%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>92%</b> ATK + <b>5</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>138%</b> ATK + <b>7</b>."
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>65.6%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>38.4%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>92%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>138%</b> ATK + <b>7</b>."
     },
     {
       "name": "Rapid Lunge",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Rapid Lunge.\nSetelah kena, akan mengakibatkan <b>Suspend Keras</b> kepada target dan menimbulkan damage sebanyak <b>116.8%</b> ATK + <b>6</b>."
+      "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Rapid Lunge.\nSetelah kena, akan mengakibatkan <b>Suspend Keras</b> kepada target dan menimpakan damage sebesar <b>116.8%</b> ATK + <b>6</b>."
     },
     {
       "name": "Spiral Drive",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Ketuk dan tahan Normal Attack saat mengudara (atau ketuk saat target dipilih), atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nSaat jatuh, timpakan damage sebanyak <b>42%</b> ATK + <b>2</b> tiap kena sasaran."
+      "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target terkunci), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nSaat terjun, menimbulkan DMG sebesar <b>42%</b> ATK + <b>2</b> setiap kali berhasil mengenai target."
     },
     {
       "name": "Sneak Attack",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu ketuk Normal Attack untuk menggunakan Sneak Attack, ini menimpakan damage sebanyak <b>570%</b> ATK + <b>30</b>."
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk melakukan Sneak Attack yang menimpakan DMG sebesar <b>570%</b> ATK + <b>30</b>."
     },
     {
       "name": "Flying Blades",
@@ -63,33 +63,33 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Ketuk Normal Attack selama jendela Perfect Dodge yang singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebanyak <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap Control Effect saat proses phasing."
+      "description": "Tekan Serangan Biasa selama jendela Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebesar <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap efek kontrol saat proses phasing."
     },
     {
       "name": "Returning Blades",
       "type": [
         "Skill"
       ],
-      "description": "Menembakkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebanyak <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. Cooldown <b>45</b> detik."
+      "description": "Melontarkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebesar <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. Cooldown <b>45</b> detik."
     },
     {
       "name": "Orbiting Blades",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan berkedip ke lokasi target setelah beralih ke senjata ini dan menyerang, dan menimpakan damage sebanyak <b>86.9%</b> ATK + <b>5</b> membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimpakan Volt Damage sebanyak <b>15%</b> dari damage yang ditimpakan, maks <b>350%</b> ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). Juga memunculkan 3 mata pisau yang akan mengitari Wanderer, dan menimpakan damage sebanyak <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke lokasi target dan menyerang, menimbulkan DMG sebesar <b>86.9%</b> ATK + <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimbulkan Volt DMG sebesar <b>15%</b> dari DMG yang ditimbulkan, maks <b>350%</b> dari ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 mata pisau akan muncul dan mengitari Wanderer serta menimbulkan DMG sebesar <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebesar <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
   },
   "advancement": [
-    "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebanyak <b>40%</b>. Backstabbing target yang kena Electrify akan meningkatkan Crit Rate sebanyak <b>100%</b> dan Crit Damage sebanyak <b>30%</b>.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
-    "Meningkatkan damage sebanyak <b>30%</b> kepada target yang punya HP kurang dari <b>60%</b>.",
+    "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebanyak <b>40%</b>. Melakukan Backstab pada target yang kena Electrify akan meningkatkan Crit Rate sebanyak <b>100%</b> dan Crit Damage sebesar <b>30%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
+    "Meningkatkan damage sebesar <b>30%</b> kepada target yang punya HP kurang dari <b>60%</b>.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Mengaktifkan Back Attack akan memberikan 100% peluang Crit selama <b>4</b> detik berikutnya dan meningkatkan Crit Damage sebanyak <b>50%</b>. Cooldown: <b>10</b> detik.",
+    "Mengaktifkan Back Attack akan memberikan 100% peluang Crit selama <b>4</b> detik berikutnya dan meningkatkan Crit Damage sebesar <b>50%</b>. Cooldown: <b>10</b> detik.",
     "Setelah menggunakan skill, meningkatkan Volt Damage yang ditimpakan kepada target sebanyak <b>20%</b> selama <b>20</b> detik."
   ],
   "traits": [

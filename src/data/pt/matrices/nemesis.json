@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Quando um alvo está sendo curado, seu ATQ elétrico aumenta em 15%/18%/21%/25% durante 20 segundos. Não é acumulável, e apenas o de nível mais alto funciona quando obtido repetidamente."
+      "value": "O ATQ elétrico de um alvo que está sendo curado aumenta em 15%/18%/21%/25% durante 20 segundos. Esse efeito não se acumula, e somente o efeito de nível mais alto é aplicado quando obtido repetidamente."
     },
     {
       "count": 4,
-      "value": "Ao curar a si mesmo ou seu Eletrodo, o alvo da cura ganha uma carga de \"Relâmpago\". O primeiro ataque dentro dos 30 segundos seguintes é imbuído com \"Relâmpago\", causando dano elétrico de 300%/375%/450%/525% do ATQ elétrico (o dano causado por Eletrodos é reduzido em 50%). Ativável apenas uma vez a cada 10 segundos. Cargas de \"Relâmpago\" não se acumulam. Somente o nível mais alto é aplicado quando obtido repetidamente."
+      "value": "Ao curar a si mesmo ou seu Eletrodo, o alvo da cura ganha uma carga de relâmpago. O primeiro ataque dentro dos 30 segundos seguintes é imbuído com relâmpago, causando dano de 300%/375%/450%/525% do ATQ elétrico (o dano causado por Eletrodos diminui em 50%). Ativável apenas uma vez a cada 10 segundos. Cargas de relâmpago não se acumulam. Somente o efeito de nível mais alto é aplicado quando obtido repetidamente."
     }
   ],
   "mind": {

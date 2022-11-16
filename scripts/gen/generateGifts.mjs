@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
+import chalk from 'chalk';
 import { fileURLToPath } from "url";
 import { slugify } from "../utils.mjs";
-import { allSimulacraMap } from "./generateSimulacra.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -28,7 +28,7 @@ export async function main(textMap, locale, ENtextMap) {
     });
 
     if (!found) {
-      console.log("not found", json.name);
+      console.log(chalk.bold.red("not found", json.name));
       return;
     }
 

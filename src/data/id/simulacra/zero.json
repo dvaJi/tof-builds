@@ -8,7 +8,7 @@
   "birthplace": "Unknown",
   "gender": "Pria",
   "info": "Berlidah tajam, bermuka dua, kompetitif, dan arogan, terutama saat menghadapi tugas yang dia anggap mudah. Terkadang, dia menunjukkan kedewasaan dan kedisiplinan melebihi usianya, dan dia sangat peka. Namun biasanya, dia sama sekali tidak peduli kata-kata orang lain, dan tidak mau mengingat apa pun yang tidak berguna untuknya.",
-  "description": "Seorang culun yang genius di bidang komputer, tampak berumur sekitar 15 tahun, lahir di Banges dengan julukan \"Zero\". Namun, nama asli dan identitas pribadinya sudah hilang, sengaja dimusnahkannya sendiri.\nDengan keterampilan di bidang pemrosesan kecerdasan, komunikasi elektronik, dan manajemen data, Zero dapat mencari dan mengambil sejumlah banyak informasi melalui komputer dan analisis jaringan. Dia pernah menggegerkan Hykros dengan menembus sistem keamanannya dalam sebuah serangan siber yang berani. Karena insiden itu, dia ditetapkan sebagai \"orang yang mencurigakan\". Kini, Zero berada di bawah kontrol ketat dan pengawasan Hykros di lokasi rahasia. Di sana, dia menjalankan operasi terkait kecerdasan.",
+  "description": "Seorang pintar yang genius di bidang komputer, tampak berumur sekitar 15 tahun, lahir di Banges dengan julukan \"Zero\". Namun, nama asli dan identitas pribadinya sudah hilang, sengaja dimusnahkannya sendiri.\nDengan keterampilan di bidang pemrosesan kecerdasan, komunikasi elektronik, dan manajemen data, Zero dapat mencari dan mengambil sejumlah banyak informasi melalui komputer dan analisis jaringan. Dia pernah menggegerkan Hykros dengan menembus sistem keamanannya dalam sebuah serangan siber yang berani. Karena insiden itu, dia ditetapkan sebagai \"orang yang mencurigakan\". Kini, Zero berada di bawah kontrol ketat dan pengawasan Hykros di lokasi rahasia. Di sana, dia menjalankan operasi terkait kecerdasan.",
   "like": "Teknologi, game",
   "dislike": "Pergi ke luar ruangan, memasak",
   "element": "Fire",
@@ -19,11 +19,11 @@
   "charge": 13,
   "skills": [
     {
-      "name": "Normal Attack",
+      "name": "Serangan Biasa",
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, manipulasi Cube untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>46.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>38.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>118.5%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>79.6%</b> ATK + <b>4</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>80.9%</b> ATK + <b>4</b> hingga 3 kali dan buat target <b>terpental</b>.\n<b>Pasif: Dapatkan 1 Cube jika Normal Attack mengenai target 6 kali. Bisa menyimpan hingga 5 Cube.</b>"
+      "description": "Saat di darat, manipulasi Cube untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>46.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebesar <b>38.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebesar <b>118.5%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage sebesar <b>79.6%</b> ATK + <b>4</b>.\nSerangan Kelima: Timpakan damage sebesar <b>80.9%</b> ATK + <b>4</b> hingga 3 kali dan buat target <b>terpental</b>.\n<b>Pasif: Dapatkan 1 Cube jika Serangan Biasa mengenai target 6 kali. Bisa menyimpan hingga 5 Cube.</b>"
     },
     {
       "name": "Omnium Missile",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat mengudara, ketuk Normal Attack untuk mengaktifkan energi di dalam Cube dan menembakkan maks <b>5</b> misil dan menimpakan Total Damage sebanyak <b>59.3%</b> ATK + <b>3</b>. Butuh maks <b>250</b> Endurance.\n<b>Pasif: Jika Wanderer punya simpanan Cube, semua Cube akan dipakai untuk menembakkan Omnium Missile ke arah target untuk menimpakan damage.</b>"
+      "description": "Saat di udara, gunakan Serangan Biasa untuk mengaktifkan energi di dalam Cube dan menembakkan maks <b>5</b> misil dan menimbulkan Total DMG sebesar <b>59.3%</b> ATK + <b>3</b>. Butuh maks <b>250</b> Stamina.\n<b>Pasif: Jika Wanderer mempunyai Cube, semua Cube akan dipakai untuk menembakkan Omnium Missile ke arah target untuk menimbulkan DMG.</b>"
     },
     {
       "name": "Energy Overflow",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk mengaktifkan Energy Overflow.\nSaat mendarat, tembakkan gelombang kejut yang bergerak ke depan, menimpakan hingga <b>23.4%</b> ATK + <b>1</b> damage pada target yang ada di jalurnya."
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Energy Overflow.\nSaat mendarat, menembakkan gelombang kejut yang bergerak ke depan, menimbulkan maks <b>23.4%</b> ATK + <b>1</b> DMG pada target di sepanjang jalur."
     },
     {
       "name": "Omnium Shock",
@@ -47,54 +47,54 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Pada Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Omnium Shock.\nPilar energi membuat target terdekat terpental, ini menimpakan damage sebanyak <b>68.4%</b> ATK + <b>4</b>. Pilar itu bertahan 5 detik dan menimpakan damage sebanyak <b>28.5%</b> ATK + <b>2</b> pada target terdekat setiap detik."
+      "description": "Pada Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Omnium Shock.\nPilar energi membuat target terdekat terpental, ini menimpakan damage sebesar <b>68.4%</b> ATK + <b>4</b>. Pilar itu bertahan 5 detik dan menimpakan damage sebesar <b>28.5%</b> ATK + <b>2</b> pada target terdekat setiap detik."
     },
     {
       "name": "Energy Sentinel",
       "type": [
         "Passive"
       ],
-      "description": "Cube yang mengitari Pengembara menimpakan damage sebanyak <b>9.7%</b> ATK + <b>1</b> pada musuh."
+      "description": "Cube yang mengitari Wanderer menimpakan damage sebesar <b>9.7%</b> ATK + <b>1</b> pada musuh."
     },
     {
       "name": "Energy Missile",
       "type": [
         "Passive"
       ],
-      "description": "Saat Pengembara menggunakan Omnium Missile dan Energy Overflow, Cube yang mengitari juga ditembakkan, ini menimpakan damage sebanyak <b>48.5%</b> ATK + <b>3</b> pada target."
+      "description": "Saat Wanderer menggunakan Omnium Missile dan Energy Overflow, Cube yang mengitari juga ditembakkan, ini menimpakan damage sebesar <b>48.5%</b> ATK + <b>3</b> pada target."
     },
     {
       "name": "Soul Surge",
       "type": [
         "Dodge"
       ],
-      "description": "Menghindar tepat sebelum terkena serangan untuk mengaktifkan Phantasia, yang akan mengurangi kecepatan musuh yang ada dalam jangkauan dan memberikan Hitstun Immunity selama <b>0,5</b> detik.\nJika Wanderer punya kurang dari <b>5</b> Cube, setiap penghindaran yang berhasil punya peluang <b>40%</b> untuk memulihkan 1 upaya Dodge.\nPenghindaran yang berhasil tidak akan mengganggu Normal Attack Combo.\n<b>Pasif: Dapatkan satu Cube setiap kali berhasil menghindar di udara.</b>"
+      "description": "Dodge tepat sebelum terkena serangan untuk mengaktifkan Phantasia, yang memperlambat musuh dalam area dan memberikan Hitstun Immunity selama <b>0,5</b> detik.\nJika Cube yang dimiliki Wanderer kurang dari <b>5</b>, setiap Dodge yang berhasil berpeluang <b>40%</b> untuk memulihkan 1 upaya Dodge.\nDodge yang berhasil tidak akan mengganggu kombo Serangan Biasa.\n<b>Pasif: Dapatkan satu Cube setiap kali berhasil Dodge di udara.</b>"
     },
     {
       "name": "Omnium Shield",
       "type": [
         "Skill"
       ],
-      "description": "Menciptakan perisai bagi diri sendiri dan teman di sekitar untuk memblokir damage sebanyak maks <b>800%</b> ATK selama <b>10</b> detik, dan menimbulkan damage sebanyak <b>124.9%</b> ATK + <b>8</b> kepada target di sekitar dan membuat mereka <b>terpental</b>. Setiap Cube yang dimiliki saat skill ini digunakan akan menambahkan <b>160%</b> ATK untuk perisai maks dan akan menghabiskan Cube. Cooldown: <b>60</b> detik."
+      "description": "Menciptakan Shield untuk diri sendiri dan rekan di sekitar yang akan memblokir DMG sebesar maks <b>800%</b> ATK selama <b>10</b> detik, dan menimbulkan DMG sebesar <b>124.9%</b> ATK + <b>8</b> dan mengakibatkan <b>Launch Keras</b> kepada target di sekitar. Saat skill ini digunakan, setiap Cube yang dimiliki akan meningkatkan Shield maks sebesar <b>160%</b> ATK dan akan menghabiskan Cube. CD: <b>60</b> detik."
     },
     {
       "name": "Omnium Wave",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan mendapatkan <b>5</b> Cube setelah beralih ke senjata ini, kemudian melepaskan <b>5</b> Cube bersama Shockwave. Shockwave akan menimpakan damage sebanyak <b>171%</b> ATK + <b>9</b> kepada target di sekitar, dan membuat mereka <b>terpental</b> ke udara. Setiap Cube juga akan menimpakan damage sebanyak <b>48.5%</b> ATK + <b>3</b>. Jika ada teman di sekitar, mereka akan mendapatkan Damage Immunity selama <b>3</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari penggunanya,</b> dan pengguna akan mendapatkan <b>5</b> Cube setelah beralih ke senjata ini, kemudian melepaskan <b>5</b> Cube bersama Shockwave. Shockwave akan menimbulkan damage sebesar <b>171%</b> ATK + <b>9</b> kepada target di sekitar, dan mengakibatkan <b>Launch Keras</b> kepada mereka ke udara. Setiap Cube juga akan menimbulkan damage sebesar <b>48.5%</b> ATK + <b>3</b>. Jika ada teman di sekitar, mereka akan mendapatkan Imunitas DMGselama <b>3</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Senjata yang terisi penuh akan membuat target terbakar selama <b>8</b> detik dengan serangan berikutnya, menyebabkan damage berkelanjutan sebesar <b>{3}%</b> ATK setiap detik. Target yang terbakar menerima <b>50%</b> efikasi dari penyembuhan."
+    "description": "Saat charge senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "advancement": [
-    "Menimpakan damage dan menghasilkan Healing Orb, yang akan bertahan <b>20</b> detik, dan memulihkan HP rekan tim yang mengambilnya sebanyak <b>60%</b> ATK. Cooldown <b>2</b> detik.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Timpakan damage dan menghasilkan Healing Orb, yang akan bertahan <b>20</b> detik, dan memulihkan HP rekan tim yang mengambilnya sebanyak <b>60%</b> ATK. Cooldown <b>2</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
     "Mengurangi cooldown skill dari <b>60</b> detik menjadi <b>30</b> detik. Memulihkan HP sebanyak <b>30%</b> ATK setiap detik selama perisai masih aktif.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Jika berhasil menimbulkan damage pada musuh, Damage Orb juga akan dihasilkan, yang akan bertahan <b>20</b> detik dan meningkatkan semua Damage dan Healing untuk sembarang rekan tim yang mengambilnya sebesar <b>2%</b> selama <b>30</b> detik (bisa ditumpuk maks <b>10</b> kali). Skill cooldown <b>2,5</b> detik.",
+    "Jika berhasil menimbulkan damage pada musuh, Damage Orb juga akan dihasilkan, yang akan bertahan <b>20</b> detik dan meningkatkan semua Damage dan Healing untuk sembarang rekan tim yang mengambilnya sebanyak <b>2%</b> selama <b>30</b> detik (bisa ditumpuk maks <b>10</b> kali). Skill cooldown <b>2,5</b> detik.",
     "Dengan menggunakan Skill, teman akan mendapatkan Healing Orb dan Damage Orb sebanyak jumlah Omnium Cube."
   ],
   "traits": [

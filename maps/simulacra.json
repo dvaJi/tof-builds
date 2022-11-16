@@ -934,7 +934,7 @@
         "icon": true,
         "type": ["Dodge", "Attack"],
         "description": "GA_FPlayerHammerEvade_BackAttack_des",
-        "values": [52.4, 3, 52.4, 3]
+        "values": [52.4, 3]
       },
       {
         "name": "GA_FPlayerHammerSkill_name",
@@ -1090,7 +1090,7 @@
         "icon": true,
         "type": ["Perfect Dodge", "Attack"],
         "description": "GA_FPlayerFriggEvade_BackAttack_des",
-        "values": [143.9, 8]
+        "values": [143.9, 8,143.9, 8, 143.9, 8]
       },
       {
         "name": "GA_FPlayerFriggSkill_Skill_name",
@@ -1491,7 +1491,7 @@
       "name": "ui_weapon_element_type_2",
       "type": "Fire",
       "description": "ui_weapon_charge_2_desc_0",
-      "values": [0, 58]
+      "values": [0, 58, 58, 58]
     },
     "advancement": [
       "Buff_ShieldFire_SSR_Level1_des",
@@ -1768,7 +1768,7 @@
       "name": "ui_weapon_element_type_2",
       "type": "Fire",
       "description": "ui_weapon_charge_2_desc_0",
-      "values": [0, 58]
+      "values": [0, 58, 58, 58]
     },
     "advancement": [
       "Buff_SickleFire_SSR_Level1_des",
@@ -2587,7 +2587,7 @@
         "icon": true,
         "type": ["Discharge"],
         "description": "GA_FPlayerStavesChangeSkill_Sucess_des",
-        "values": [79, 4]
+        "values": [79, 4, 79, 4]
       }
     ],
     "weapon_type": {
@@ -3563,7 +3563,7 @@
       "name": "ui_weapon_charge_2_0",
       "type": "Fire",
       "description": "ui_weapon_charge_2_desc_0",
-      "values": [0, 58]
+      "values": [0, 58, 58, 58]
     },
     "advancement": [
       "Buff_CubeFire_Level1_des",
@@ -3839,11 +3839,11 @@
       "description": "Buff_SwordPhy_Phy_Resonance_Overseas_des"
     },
     "advancement": [
-      "Buff_SwordPhy_SSR_Level1_des",
+      ["Buff_SwordPhy_SSR_Level1_des", [8, 25]],
       "Weapon_level2_atkup_ssr",
-      "Buff_SwordPhy_SSR_Level3_des",
+      ["Buff_SwordPhy_SSR_Level3_des", [10, 15]],
       "Weapon_level4_hpup_ssr",
-      "Buff_SwordPhy_SSR_Level5_OS_des",
+      ["Buff_SwordPhy_SSR_Level5_OS_des", [20, 25]],
       "Buff_SwordPhy_SSR_Level6_des"
     ],
     "traits": [
@@ -4113,12 +4113,12 @@
       "description": "Buff_GunFire_Flame_Resonance_Overseas_des"
     },
     "advancement": [
-      "Buff_GunFire_Level1_des",
+      ["Buff_GunFire_Level1_des", [2, 180]],
       "Weapon_level2_atkup_ssr",
-      "Buff_GunFire_Level3_des_OS",
+      "Buff_GunFire_Level3_des",
       "Weapon_level4_atkup_ssr",
-      "Buff_GunFire_Level5_des_OS",
-      "Buff_GunFire_Level6_des_OS"
+      "Buff_GunFire_Level5_des",
+      ["Buff_GunFire_Level6_des", [15, 1.5]]
     ],
     "traits": [
       {
@@ -4313,97 +4313,72 @@
       {
         "name": "Standard",
         "description": "The premiere DPS for fire teams who excels against targets with burn.",
-        "set1": [
-          "Ruby"
-        ],
-        "set2": [
-          "Samir",
-          "Crow"
-        ]
+        "set1": ["Ruby"],
+        "set2": ["Samir", "Crow"]
       }
     ],
     "skills": [
       {
         "name": "GA_FPlayerFunnelMeleeFire_Melee_name",
         "icon": true,
-        "type": [
-          "Attack"
-        ],
+        "type": ["Attack"],
         "description": "GA_FPlayerFunnelMeleeFire_Melee_des",
-        "values": [84.6,4,93,5,101.5,5,109.9,6,253.7,13]
+        "values": [84.6, 4, 93, 5, 101.5, 5, 109.9, 6, 253.7, 13]
       },
       {
         "name": "GA_FPlayerFunnelMeleeFire_AirAttack_name",
-        "type": [
-          "Jump",
-          "Attack"
-        ],
+        "type": ["Jump", "Attack"],
         "description": "GA_FPlayerFunnelMeleeFire_AirAttack_des",
-        "values": [97.1,5,106.8,6,121.3,6,145.6,8]
+        "values": [97.1, 5, 106.8, 6, 121.3, 6, 145.6, 8]
       },
       {
         "name": "GA_FPlayerFunnelMeleeFire_AimAttack_name",
         "icon": true,
-        "type": [
-          "Hold: Attack"
-        ],
+        "type": ["Hold: Attack"],
         "description": "GA_FPlayerFunnelMeleeFire_AimAttack_des",
-        "values": [40,2]
+        "values": [40, 2]
       },
       {
         "name": "GA_FPlayerFunnelMeleeFire_JumpAttack_name",
         "icon": true,
-        "type": [
-          "Jump",
-          "Hold: Attack"
-        ],
+        "type": ["Jump", "Hold: Attack"],
         "description": "GA_FPlayerFunnelMeleeFire_JumpAttack_des",
-        "values": [172.1,9]
+        "values": [172.1, 9]
       },
       {
         "name": "GA_FPlayerFunnelMeleeFire_Branch_name",
         "icon": true,
-        "type": [
-          "Attack",
-          "Hold: Attack"
-        ],
+        "type": ["Attack", "Hold: Attack"],
         "description": "GA_FPlayerFunnelMeleeFire_Branch_des",
-        "values": [40,2,26.2,1]
+        "values": [40, 2, 26.2, 1]
       },
       {
         "name": "GA_FPlayeFunnelEvadeFire_FrontAttack_name",
         "icon": true,
-        "type": [
-          "Dodge",
-          "Attack"
-        ],
+        "type": ["Dodge", "Attack"],
         "description": "GA_FPlayeFunnelEvadeFire_FrontAttack_des",
-        "values": [84.6,4]
+        "values": [84.6, 4]
       },
       {
         "name": "GA_FPlayerFunnelSkillFire_name",
         "icon": true,
-        "type": [
-          "Skill"
-        ],
+        "type": ["Skill"],
         "description": "GA_FPlayerFunnelSkillFire_des",
-        "values": [350,37, 50,3]
+        "values": [350, 37, 50, 3]
       },
       {
         "name": "GA_FPlayerFunnelChangeSkillFire_Success_name",
         "icon": true,
-        "type": [
-          "Discharge"
-        ],
+        "type": ["Discharge"],
         "description": "GA_FPlayerFunnelChangeSkillFire_Success_des",
-        "values": [750,39]
+        "values": [750, 39]
       }
     ],
     "weapon_type": {
       "name": "ui_weapon_charge_2_0",
       "type": "ui_profession_department_2",
       "description": "ui_weapon_charge_2_desc_0",
-      "values": [0,0,0,58]
+      "values": [0, 0, 0, 58]
     },
     "weapon_resonance": {
       "name": "Buff_FunnelFire_SSR_Level0_Tubiao_name",
@@ -4411,12 +4386,12 @@
       "description": "Buff_FunnelFire_SSR_Level0_Tubiao_des"
     },
     "advancement": [
-      "Buff_FunnelFire_SSR_Level1_des",
+      ["Buff_FunnelFire_SSR_Level1_des", [80]],
       "Buff_FunnelFire_SSR_Level2_des",
-      "Buff_FunnelFire_SSR_Level3_des",
+      ["Buff_FunnelFire_SSR_Level3_des", [8]],
       "Buff_FunnelFire_SSR_Level4_des",
       "Buff_FunnelFire_SSR_Level5_des",
-      "Buff_FunnelFire_SSR_Level6_des"
+      ["Buff_FunnelFire_SSR_Level6_des", [160]]
     ],
     "traits": [
       {
@@ -4580,6 +4555,279 @@
         },
         "mat3": {
           "name": "nanofiber_frame_ii",
+          "rarity": "SSR",
+          "amount": "5"
+        }
+      }
+    ]
+  },
+  {
+    "_locid": "CH22_SakiFuwa",
+    "_name": "Avatar_bupoxiao_name",
+    "name": "Saki Fuwa",
+    "weapon": "Heartstream",
+    "element": "Ice",
+    "rarity": "SSR",
+    "id": "saki_fuwa",
+    "global": false,
+    "tier": 1,
+    "tier_constellation": 1,
+    "pvp": 1,
+    "pvp_constellation": 6,
+    "tier_pending": false,
+    "role": "Tank",
+    "soon": false,
+    "new": true,
+    "resonance": "Defense",
+    "shatter": 11.5,
+    "charge": 8,
+    "builds": [
+      {
+        "name": "Standard",
+        "description": "The premiere DPS for fire teams who excels against targets with burn.",
+        "set1": ["Ruby"],
+        "set2": ["Samir", "Crow"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "GA_PlayerDkatanaMelee_Melee_name",
+        "icon": true,
+        "type": ["Attack"],
+        "description": "GA_PlayerDkatanaMelee_Melee_des",
+        "values": [42.5, 2, 29.5, 2, 45, 2, 70.6, 4, 102.6, 5]
+      },
+      {
+        "name": "GA_PlayerDkatanaMelee_AirAttack_name",
+        "type": ["Jump", "Attack"],
+        "description": "GA_PlayerDkatanaMelee_AirAttack_des",
+        "values": [47.2, 2, 43.7, 2, 54.2, 3, 76.9, 4, 170.2, 9]
+      },
+      {
+        "name": "GA_PlayerDkatanaMelee_Branch1_name",
+        "icon": true,
+        "type": ["Hold: Attack"],
+        "description": "GA_PlayerDkatanaMelee_Branch1_des",
+        "values": [199.5, 11]
+      },
+      {
+        "name": "GA_PlayerDkatanaMelee_JumpAttack_name",
+        "icon": true,
+        "type": ["Jump", "Hold: Attack"],
+        "description": "GA_PlayerDkatanaMelee_JumpAttack_des",
+        "values": [30.4, 2, 76, 4]
+      },
+      {
+        "name": "GA_FPlayerDkatanaEvade_name",
+        "icon": true,
+        "type": ["Dodge"],
+        "description": "GA_FPlayerDkatanaEvade_des",
+        "values": [0.5]
+      },
+      {
+        "name": "GA_FPlayerDkatanaEvade_ForwardAttack_name",
+        "icon": true,
+        "type": ["Dodge", "Attack"],
+        "description": "GA_FPlayerDkatanaEvade_ForwardAttack_des",
+        "values": [277, 15]
+      },
+      {
+        "name": "GA_FPlayerDkatanaSkill_Skill1_name",
+        "icon": true,
+        "type": ["Skill"],
+        "description": "GA_FPlayerDkatanaSkill_Skill1_des",
+        "values": [445.3, 23]
+      },
+      {
+        "name": "GA_FPlayerDkatanaSkill_Skill2_name",
+        "icon": true,
+        "type": ["Discharge"],
+        "description": "GA_FPlayerDkatanaSkill_Skill2_des",
+        "values": []
+      }
+    ],
+    "weapon_type": {
+      "name": "ui_weapon_charge_3_0",
+      "type": "ui_profession_department_3",
+      "description": "ui_weapon_charge_3_desc_0",
+      "values": [0, 151]
+    },
+    "weapon_resonance": {
+      "name": "Buff_Dkatana_Ice_Resonance_name",
+      "type": "ui_profession_department_2",
+      "description": "Buff_Dkatana_Ice_Resonance_des",
+      "values": [15, 25]
+    },
+    "advancement": [
+      ["Buff_Dkatana_SSR_Level1_des", [25]],
+      "Weapon_level2_atkup_ssr",
+      ["Buff_Dkatana_SSR_Level3_des", [5]],
+      "Weapon_level4_hpup_ssr",
+      "Buff_Dkatana_SSR_Level5_des",
+      ["Buff_Dkatana_SSR_Level6_des", [11, 15, 25, 12]]
+    ],
+    "traits": [
+      {
+        "name": "Buff_sakifuwa_level1_name",
+        "description": "Buff_sakifuwa_level1_des"
+      },
+      {
+        "name": "Buff_sakifuwa_level2_name",
+        "description": "Buff_sakifuwa_level2_des"
+      }
+    ],
+    "ascension": [
+      {
+        "ascension": "1",
+        "level": "10",
+        "cost": "400",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "2",
+        "level": "20",
+        "cost": "800",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "2"
+        }
+      },
+      {
+        "ascension": "3",
+        "level": "30",
+        "cost": "1200",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "4",
+        "level": "40",
+        "cost": "1600",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "3"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "3"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "3"
+        }
+      },
+      {
+        "ascension": "5",
+        "level": "50",
+        "cost": "2000",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "4"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "4"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "4"
+        }
+      },
+      {
+        "ascension": "6",
+        "level": "60",
+        "cost": "2400",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "6"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "6"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "6"
+        }
+      },
+      {
+        "ascension": "7",
+        "level": "70",
+        "cost": "2800",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "8"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "8"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "8"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3200",
+        "mat1": {
+          "name": "icecore",
+          "rarity": "N",
+          "amount": "11"
+        },
+        "mat2": {
+          "name": "nano_coating_i",
+          "rarity": "R",
+          "amount": "11"
+        },
+        "mat3": {
+          "name": "booster_frame_i",
+          "rarity": "SR",
+          "amount": "11"
+        }
+      },
+      {
+        "ascension": "8",
+        "level": "80",
+        "cost": "3600",
+        "mat1": {
+          "name": "heart_of_winter",
+          "rarity": "R",
+          "amount": "5"
+        },
+        "mat2": {
+          "name": "nano_coating_ii",
+          "rarity": "SR",
+          "amount": "5"
+        },
+        "mat3": {
+          "name": "booster_frame_ii",
           "rarity": "SSR",
           "amount": "5"
         }

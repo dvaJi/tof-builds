@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Lorsque vous êtes au sol, manipulez le cube pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>46.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>38.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>118.5%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>79.6%</b> de l'ATQ + <b>4</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>80.9%</b> de l'ATQ + <b>4</b> jusqu'à 3 fois et vous <b>projetez</b> la cible.\n<b>Compétence passive : si les attaques normales touchent 6 fois la cible, vous obtenez 1 cube. Vous pouvez garder 5 cubes max.</b>"
+      "description": "Lorsque vous êtes au sol, manipulez le cube pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>46.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>38.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>118.5%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>79.6%</b> de l'ATQ + <b>4</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>80.9%</b> de l'ATQ + <b>4</b> jusqu'à 3 fois et vous <b>projetez</b> la cible.\n<b>Effet passif : si les attaques normales touchent 6 fois la cible, vous obtenez 1 cube. Vous pouvez garder 5 cubes max.</b>"
     },
     {
       "name": "Missile d'omnium",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale lorsque vous êtes dans les airs pour activer l'énergie contenue dans le cube et tirer jusqu'à <b>5</b> missiles infligeant des dégâts équivalant à <b>59.3%</b> de l'ATQ + <b>3</b>. Consomme jusqu'à <b>250</b> endurance.\n<b>Effet passif : si l'Explorateur a des cubes en stock, consomme tous les cubes pour tirer des missiles à omnium sur les cibles et leur infliger des dégâts.</b>"
+      "description": "Utilisez l'attaque normale lorsque vous êtes dans les airs pour activer l'énergie contenue dans le cube et tirer jusqu'à <b>5</b> missiles infligeant des dégâts équivalant à <b>59.3%</b> de l'ATQ + <b>3</b>. Consomme jusqu'à <b>250</b> d'endurance.\n<b>Effet passif : si l'Explorateur a des cubes en stock, consomme tous les cubes pour tirer des missiles d'omnium sur les cibles et leur infliger des dégâts.</b>"
     },
     {
       "name": "Débordement d'énergie",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour déclencher Débordement d'énergie.\nÀ l'atterrissage, vous envoyez une onde de choc qui fonce vers l'avant et inflige des dégâts jusqu'à <b>23.4%</b> de l'ATQ + <b>1</b> aux cibles qui se trouvent sur sa route."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour déclencher Débordement d'énergie.\nÀ l'atterrissage, vous envoyez une onde de choc qui fonce vers l'avant et inflige des dégâts jusqu'à <b>23.4%</b> de l'ATQ + <b>1</b> aux cibles qui se trouvent sur sa route."
     },
     {
       "name": "Choc d'omnium",
@@ -68,32 +68,32 @@
       "type": [
         "Dodge"
       ],
-      "description": "Esquivez juste avant de vous faire toucher pour déclencher Fantaisie, qui réduit la vitesse des ennemis à portée et confère une immunité à l'hébétement pendant <b>0,5</b> seconde.\nSi l'Explorateur a moins de <b>5</b> cubes, chaque esquive réussie a <b>40%</b> de chance de vous faire regagner 1 tentative d'esquive.\nLes esquives réussies n'interrompent pas les combos d'attaques normales.\n<b>Effet passif : gagnez un cube pour chaque esquive aérienne réussie.</b>"
+      "description": "Esquivez juste avant d'être touché pour déclencher Fantaisie, ce qui réduit la vitesse des ennemis dans la zone et confère une immunité à l'hébétement pendant <b>0,5</b> seconde.\nSi l'Explorateur a moins de <b>5</b> cubes, chaque esquive réussie a <b>40%</b> de chance de régénérer 1 tentative d'esquive.\nLes esquives réussies n'interrompent pas les combos d'attaques normales.\n<b>Effet passif : gagnez un cube pour chaque esquive aérienne réussie.</b>"
     },
     {
       "name": "Bouclier à omnium",
       "type": [
         "Skill"
       ],
-      "description": "Crée un bouclier pour vous-même et pour les alliés proches qui bloque des dégâts allant jusqu'à <b>800%</b> x ATQ pendant <b>10</b> secondes, inflige <b>124.9%</b> x ATQ + <b>8</b> dégâts aux cibles proches et les <b>projette</b>. Chaque cube en votre possession au moment où cette compétence est utilisée ajoute <b>160%</b> de l'ATQ à la protection et à la durée maximales du cube. Temps de recharge : <b>60</b> secondes."
+      "description": "Crée un bouclier pour vous-même et pour les alliés proches qui bloque des dégâts allant jusqu'à <b>800%</b> de l'ATQ pendant <b>10</b> secondes, inflige <b>124.9%</b> de l'ATQ + <b>8</b> dégâts aux cibles proches et les <b>projette fortement</b>. Chaque cube en votre possession au moment où cette compétence est utilisée ajoute <b>160%</b> de l'ATQ à la protection et à la durée maximales du cube. Temps de recharge : <b>60</b> secondes."
     },
     {
       "name": "Vague d'omnium",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et gagne <b>5</b> cubes au moment où vous changez d'arme pour utiliser celle-ci, ainsi qu'une Onde de choc. Cette Onde de choc inflige aux cibles proches un nombre de dégâts égal à <b>171%</b> de l'ATQ + <b>9</b> et les <b>projette</b> dans les airs. De plus, chaque cube inflige un nombre de dégâts égal à <b>48.5%</b> de l'ATQ + <b>3</b>. Les alliés proches gagnent une immunité aux dégâts pendant <b>3</b> secondes."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et gagne <b>5</b> cubes après avoir changé d'arme, puis déchaîne ces <b>5</b> cubes avec une Onde de choc. Cette Onde de choc inflige aux cibles proches des dégâts équivalant à <b>171%</b> de l'ATQ + <b>9</b> et les <b>projette fortement</b> dans les airs. De plus, chaque cube inflige des dégâts équivalant à <b>48.5%</b> de l'ATQ + <b>3</b>. Si des alliés se trouvent à proximité, ceux-ci et le porteur gagnent une immunité aux dégâts pendant <b>3</b> secondes."
     }
   ],
   "weapon_type": {
     "name": "Feu",
-    "description": "Les armes entièrement chargées embrasent la cible pendant <b>8</b> secondes lors de l'attaque suivante, infligeant chaque seconde des dégâts continus de <b>{3}%</b> d'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque embrase la cible pendant <b>8</b> secondes, infligeant chaque seconde des dégâts de <b>58%</b> de l'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
   },
   "advancement": [
     "Inflige des dégâts et produit un orbe de guérison, qui dure <b>20</b> secondes et régénère les PV de tout membre du groupe qui le ramasse à hauteur de <b>60%</b> de l'ATQ. Temps de recharge : <b>2</b> secondes.",
-    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Réduit le temps de recharge des compétences de <b>60</b> à <b>30</b> secondes. Régénère un nombre de PV égal à <b>30%</b> de l'ATQ toutes les secondes lorsque le bouclier est actif.",
-    "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Accroît de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
     "Infliger des dégâts à la cible produit un orbe de dégâts, qui dure <b>20</b> secondes et augmente tous les dégâts et les soins de tout membre du groupe qui le ramasse de <b>2%</b> pendant <b>30</b> secondes. Cumulable jusqu'à <b>10</b> fois. Temps de recharge : <b>2,5</b> secondes.",
     "Utiliser une compétence confère aux alliés des orbes de guérison et des orbes de dégâts en nombre égal à celui des cubes à omnium."
   ],

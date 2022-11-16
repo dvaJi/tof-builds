@@ -1,7 +1,7 @@
 {
   "_id": 12,
   "id": "pepper",
-  "name": "Merica",
+  "name": "Pepper",
   "weapon": "Staff of Scars",
   "weapon_id": "staff_of_scars",
   "birthday": "9 Juli (Cancer)",
@@ -19,11 +19,11 @@
   "charge": 10,
   "skills": [
     {
-      "name": "Normal Attack",
+      "name": "Serangan Biasa",
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, ayunkan tongkat untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>25.1%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>18.8%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>30.4%</b> ATK + <b>2</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>41.4%</b> ATK + <b>2</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>73.2%</b> ATK + <b>4</b>."
+      "description": "Saat di darat, ayunkan tongkat untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>25.1%</b> ATK + <b>1</b>.\nSerangan Kedua: Timpakan damage sebesar <b>18.8%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebesar <b>30.4%</b> ATK + <b>2</b>.\nSerangan Keempat: Timpakan damage sebesar <b>41.4%</b> ATK + <b>2</b>.\nSerangan Kelima: Timpakan damage sebesar <b>73.2%</b> ATK + <b>4</b>."
     },
     {
       "name": "Soaring Barrage",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>32.5%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>23.5%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>25.5%</b> ATK + <b>1</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>45.6%</b> ATK + <b>2</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>47.7%</b> ATK + <b>3</b>."
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>32.5%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>23.5%</b> ATK + <b>1</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>25.5%</b> ATK + <b>1</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>45.6%</b> ATK + <b>2</b>.\nSerangan Kelima: Menimbulkan DMG sebesar <b>47.7%</b> ATK + <b>3</b>."
     },
     {
       "name": "Moonfall",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Ketuk dan tahan Normal Attack saat mengudara untuk mengaktifkan Moonfall.\nSaat mendarat, timpakan damage satu kali setiap <b>0,2</b> detik, dengan total <b>57.2%</b> ATK + <b>3</b> damage."
+      "description": "Tekan dan tahan Serangan Biasa saat mengudara untuk mengaktifkan Moonfall.\nSaat mendarat, timpakan damage satu kali setiap <b>0,2</b> detik, dengan total <b>57.2%</b> ATK + <b>3</b> damage."
     },
     {
       "name": "Focused Assault",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Setelah Normal Attack ketiga, tahan tombol Normal Attack untuk mengaktifkan Branch Attack, yang akan menghabiskan <b>300</b> poin Endurance.\nSerangan Pertama: Menarik musuh ke depan pengguna dan mengakibatkan <b>Suspend</b> kepada mereka dan menimbulkan damage sebanyak <b>16.1%</b> ATK + <b>1</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimbulkan damage sebanyak <b>18.6%</b> ATK + <b>1</b> di lokasi target dan kepada musuh di sekitar setiap <b>0,3</b> detik."
+      "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Branch Attack, yang akan mengonsumsi <b>300</b> Stamina.\nSerangan Pertama: Menarik musuh di depan pengguna dan mengakibatkan <b>Suspend</b> kepada mereka serta menimpakan DMG sebesar <b>16.1%</b> ATK + <b>1</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimpakan DMG sebesar <b>18.6%</b> ATK + <b>1</b> di lokasi target dan kepada musuh di sekitarnya setiap <b>0,3</b> detik."
     },
     {
       "name": "Surge",
@@ -55,7 +55,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Ketuk tombol Normal Attack dalam Perfect Dodge Window singkat (ketuk tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap gelombang energi akan menimpakan damage sebanyak <b>22.6%</b> ATK + <b>1</b> kepada target.\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+      "description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap Energy Pulse akan menimbulkan DMG sebesar <b>22.6%</b> ATK + <b>1</b> kepada target.\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
     },
     {
       "name": "Tesseract",
@@ -63,34 +63,34 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Ketuk tombol Normal Attack dalam jangka waktu singkat setelah menghindar untuk mengaktifkan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebanyak <b>32.1%</b> ATK + <b>2</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+      "description": "Tekan tombol Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebesar <b>32.1%</b> ATK + <b>2</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
     },
     {
       "name": "Sanctuary",
       "type": [
         "Skill"
       ],
-      "description": "Buat perisai energi di lokasi Pengembara. Sembuhkan teman dalam perisai dengan <b>81.7%</b> ATK + <b>4</b> setiap detik dan kurangi damage yang mereka terima sebesar <b>3%</b> selama <b>10</b> detik. Cooldown <b>60</b> detik."
+      "description": "Buat perisai energi di lokasi Wanderer. Sembuhkan teman dalam perisai dengan <b>81.7%</b> ATK + <b>4</b> setiap detik dan kurangi damage yang mereka terima sebanyak <b>3%</b> selama <b>10</b> detik. Cooldown <b>60</b> detik."
     },
     {
       "name": "Swift Deliverance",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebanyak <b>{2}%</b> ATK + <b>{3}</b> HP selama <b>7</b> detik."
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebanyak <b>79%</b> ATK + <b>4</b> HP selama <b>7</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>106%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebesar <b>106%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
   },
   "advancement": [
-    "Menyembuhkan semua rekan tim dalam radius <b>10</b> sebanyak <b>100%</b> ATK setelah menggunakan Dodge Skill.",
+    "Memulihkan semua rekan tim dalam radius <b>10</b> meter sebesar <b>100%</b> ATK setelah menggunakan Skill Menghindar.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>10%</b>.",
-    "Normal Attack juga akan menembakkan dua misil, masing-masing menimpakan damage sebanyak <b>5%</b> ATK kepada target, dan memulihkan <b>5</b> poin Weapon Charge.",
+    "Serangan Biasa juga akan menembakkan dua misil, masing-masing menimpakan damage sebesar <b>5%</b> ATK kepada target, dan memulihkan <b>5</b> poin Weapon Charge.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>20%</b>.",
     "Meningkatkan kecepatan untuk memperoleh Weapon Charge sebanyak <b>20%</b> (tidak berlaku untuk serangan misil).",
-    "Memberikan <b>60%</b> Damage Reduction kepada semua rekan tim setiap kali ada skill yang menangkal Control Effect dari target."
+    "Memberikan <b>60%</b> Damage Reduction kepada semua rekan tim setiap kali ada skill yang menangkal efek kontrol dari target."
   ],
   "traits": [
     {

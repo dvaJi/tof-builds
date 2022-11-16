@@ -7,7 +7,8 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Erhöht den Frost-ANG für 10 Sek. um 8%/10%/12%/15%, wenn zwischen Frostwaffen gewechselt wird. Der Set-Effekt funktioniert auch im Nebenhand-Slot, aber nur das Set mit dem Effekt der höchsten Sternenbewertung tritt in Kraft."
     },
     {
       "count": 4,

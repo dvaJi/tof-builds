@@ -2,29 +2,29 @@
   "_id": 17,
   "id": "pepper",
   "name": "Pepper",
-  "suitName": "Sin parar",
+  "suitName": "Sin Parar",
   "hash": "SR6",
   "rarity": "SR",
   "bonus": [
     {
       "count": 3,
-      "value": "Aumenta la velocidad de adquisición de carga del arma un 10%/12.5%/15%."
+      "value": "Aumenta la velocidad de adquisición de carga de arma un 10%/12.5%/15%."
     }
   ],
   "mind": {
-    "name": "línea de ensamblado",
+    "name": "Línea de Ensamblado",
     "desc": "¿Quién le explicará que ya se esforzó por demasiado tiempo?"
   },
   "memory": {
-    "name": "cicatriz quirúrgica",
+    "name": "Cicatriz Quirúrgica",
     "desc": "Las aberraciones no se pueden revertir. Al igual que las cicatrices quirúrgicas, no se pueden borrar."
   },
   "belief": {
-    "name": "brazalete",
+    "name": "Brazalete",
     "desc": "Como doctora, no puedes apartar la mirada, ni ser autocomplaciente o incapaz."
   },
   "emotion": {
-    "name": "pastilla para dormir",
+    "name": "Pastilla para Dormir",
     "desc": "Tiene insomnio porque no quiere enfrentarse a la muerte en sus sueños."
   }
 }

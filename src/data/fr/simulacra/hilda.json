@@ -4,7 +4,7 @@
   "name": "Hilda",
   "weapon": "L'Exterminateur",
   "weapon_id": "the_terminator",
-  "birthday": "11 avril (bélier)",
+  "birthday": "11 avril (Bélier)",
   "birthplace": "Banges",
   "gender": "Féminin",
   "info": "Une jeune fille passionnée et sincère. Insouciante et décontractée. Populaire auprès des autres.\nNe discrimine pas les personnes sur la base de leur âge ou de leur sexe, et traite tout le monde sur un pied d'égalité. S'entend rapidement bien avec tout le monde, qu'il s'agisse d'enfants ou d'adultes ; considère Théo, le fils du directeur de Banges Tech, comme un ami proche.\nPeut parfois se montrer quelque peu rustre et insensible et oublie souvent des choses (notamment ses propres armes).",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale pour entrer en mode Visée. Maintenez Attaque normale pour tirer en continu, jusqu'à <b>40</b> cartouches. Chaque tir inflige des dégâts de base équivalant à <b>11.4%</b> de l'ATQ + <b>1</b>. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible d'un ennemi et le renversez (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+      "description": "Appuyez sur Attaque normale pour entrer en mode Visée. Maintenez Attaque normale pour tirer en continu, jusqu'à <b>40</b> cartouches. Chaque tir inflige des dégâts de base équivalant à <b>11.4%</b> de l'ATQ + <b>1</b>. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible d'un ennemi, et renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
     },
     {
       "name": "Tourelle",
@@ -37,12 +37,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et tire un rayon arctique au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>329.2%</b> de l'ATQ + <b>17</b>, ainsi qu'un effet de <b>congélation</b> de <b>3</b> secondes. Réduit aussi de <b>50%</b> la résistance au givre de la cible pendant <b>10</b> secondes."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et tire un rayon arctique au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>329.2%</b> de l'ATQ + <b>17</b>, ainsi qu'un effet de <b>congélation</b> de <b>3</b> secondes. Réduit aussi de <b>50%</b> la résistance au givre de la cible pendant <b>10</b> secondes."
     }
   ],
   "weapon_type": {
     "name": "Coquille de glace",
-    "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>111%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque <b>gèle</b> les cibles pendant <b>2</b> secondes et leur inflige Gelure pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>111%</b> de l'ATQ. Lorsque la cible subit Gelure, son taux de recharge d'arme est réduit de <b>50%</b>."
   },
   "advancement": [
     "Chaque attaque normale réussie accroît les dégâts de <b>1%</b> pendant <b>2</b> secondes (cumulable jusqu'à <b>15</b> fois). Accroît le nombre de munitions à <b>60</b>.",

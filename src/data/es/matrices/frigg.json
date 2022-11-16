@@ -7,7 +7,8 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Aumenta el ATQ de Hielo en un 8%/10%/12%/15% por 10 segundos al cambiar entre armas de hielo. Este efecto de set se activa en la ranura secundaria, pero solo surtirá efecto el set con la clasificación de estrellas más alta."
     },
     {
       "count": 4,

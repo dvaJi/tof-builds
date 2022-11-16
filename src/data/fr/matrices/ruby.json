@@ -7,14 +7,16 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Après avoir lancé la compétence d'arme,, accroît l'ATQ de feu de 8%/10%/12%/15%. Se déclenche après un changement du nombre d'étoiles. Cet effet ne peut se cumuler."
     },
     {
-      "count": 4
+      "count": 4,
+      "value": "Après avoir utilisé la compétence d'arme, confère Maîtrise pendant 15 secondes avec un temps de recharge de 15 secondes (le temps de recharge de Maîtrise est le même à tous les niveaux). Maîtrise ne peut se cumuler. Augmente les dégâts de feu de 2%/2.5%/3%/3.5% chaque fois que la cible subit une attaque normale jusqu'à ce que Maîtrise prenne fin. Peut se cumuler jusqu'à 6 fois, au rythme maximal de 1 cumul toutes les 0,2 seconde. À 6 cumuls, confère un bouclier qui bloque 1 instance de dégâts."
     }
   ],
   "mind": {
-    "name": "Émergence",
+    "name": "Par derrière",
     "desc": "Les délicats boutons floraux sont toujours soigneusement protégés, mais ils veulent aussi s'avancer en première ligne et être côte à côte avec elle, même s'ils seraient sur la pointe des pieds."
   },
   "memory": {

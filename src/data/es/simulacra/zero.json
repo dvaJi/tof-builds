@@ -1,7 +1,7 @@
 {
   "_id": 16,
   "id": "zero",
-  "name": "Zero",
+  "name": "Cero",
   "weapon": "Cubo Negador",
   "weapon_id": "negating_cube",
   "birthday": "6 de junio (Géminis)",
@@ -31,15 +31,15 @@
         "Jump",
         "Attack"
       ],
-      "description": "En el aire, pulsa el ataque normal para activar la energía dentro del cubo y lanzar hasta <b>5</b> misiles, que infligen un daño total equivalente al <b>59.3%</b> del ATQ + <b>3</b>. Consume hasta <b>250</b> de resistencia.\n<b>Pasiva: si el nómada tiene cubos almacenados, se consumirán todos los cubos para disparar misiles de Omnio a los objetivos e infligirles daño.</b>"
+      "description": "En el aire, usa el ataque normal para activar la energía dentro del cubo y lanzar hasta <b>5</b> misiles, que infligen un daño total equivalente al <b>59.3%</b> del ATQ + <b>3</b>. Consume hasta <b>250</b> de resistencia.\n<b>Pasiva: si el nómada tiene cubos almacenados, se consumirán todos los cubos para disparar misiles de Omnio a los objetivos e infligirles daño.</b>"
     },
     {
-      "name": "Sobrecarga de energía",
+      "name": "Sobrecarga de Energía",
       "type": [
         "Jump",
         "Hold: Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal para activar Sobrecarga de energía.\nAl tocar el suelo, lanza una onda de choque hacia adelante e inflige hasta el <b>23.4%</b> del ATQ + <b>1</b> de daño a los objetivos en su camino."
+      "description": "En el aire o luego de saltar una vez, usa el ataque normal para activar Sobrecarga de Energía.\nAl aterrizar, lanza una onda de choque hacia adelante e inflige hasta el <b>23.4%</b> del ATQ + <b>1</b> de daño a los objetivos en su camino."
     },
     {
       "name": "Impacto de Omnio",
@@ -50,52 +50,52 @@
       "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar Impacto de Omnio.\nUn pilar de energía lanza a los objetivos cercanos al aire e inflige daño equivalente al <b>68.4%</b> del ATQ + <b>4</b>. El pilar dura 5 segundos e inflige <b>28.5%</b> del ATQ + <b>2</b> a los objetivos cercanos cada segundo."
     },
     {
-      "name": "Centinela energético",
+      "name": "Centinela Energético",
       "type": [
         "Passive"
       ],
-      "description": "Los cubos que orbitan al nómada infligen daño equivalente al <b>9.7%</b> del ATQ + <b>1</b> a los enemigos."
+      "description": "Los cubos que orbitan al Nómada infligen daño equivalente al <b>9.7%</b> del ATQ + <b>1</b> a los enemigos."
     },
     {
-      "name": "Misil de energía",
+      "name": "Misil de Energía",
       "type": [
         "Passive"
       ],
-      "description": "Cuando el nómada utiliza Misil de Omnio y Sobrecarga de energía, también dispara los cubos que le orbitan e inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> al objetivo."
+      "description": "Cuando el Nómada utiliza Misil de Omnio y Sobrecarga de Energía, también dispara los cubos que le orbitan e inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> al objetivo."
     },
     {
-      "name": "Sobrecarga espiritual",
+      "name": "Sobrecarga Espiritual",
       "type": [
         "Dodge"
       ],
-      "description": "Esquiva justo antes de recibir un golpe para activar una Fantasía, que reduce la velocidad de los enemigos al alcance y otorga inmunidad al aturdimiento por golpes durante <b>0.5</b> segundos.\nSi el nómada tiene menos de <b>5</b> cubos, cada intento de esquivar exitoso tiene un <b>40%</b> de probabilidad de restaurar 1 intento de esquivar.\nLos intentos de esquivar exitosos no interrumpen los combos de ataque normal.\n<b>Pasiva: se obtiene un cubo por cada intento de esquivar en el aire.</b>"
+      "description": "Evade justo antes de que te impacten para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área y otorga inmunidad a la conmoción por <b>0.5</b> segundos.\nSi el nómada tiene menos de <b>5</b> cubos, cada evasión exitosa tiene un <b>40%</b> de probabilidad de restaurar 1 intento de evasión.\nLas evasiones exitosas no interrumpen los combos de ataques normales.\n<b>Pasiva: Obtienes un cubo por cada evasión aérea exitosa.</b>"
     },
     {
       "name": "Escudo de Omnio",
       "type": [
         "Skill"
       ],
-      "description": "Crea un escudo que protege a quien lo porta y sus aliados, que bloquea daño por hasta un <b>800%</b> del ATQ durante <b>10</b> segundos, e inflige un <b>124.9%</b> del ATQ + <b>8</b> de daño a los objetivos cercanos y los <b>lanza</b>. Cada cubo que se posea al usar esta habilidad agrega un <b>160%</b> del ATQ a la capacidad máxima del escudo y agota al cubo. Enfriamiento: <b>60</b> segundos."
+      "description": "Crea un escudo que protege a quien lo porta y sus aliados, que bloquea daño por hasta un <b>800%</b> del ATQ durante <b>10</b> segundos, inflige un <b>124.9%</b> del ATQ + <b>8</b> de daño a los objetivos cercanos y los <b>lanza fuerte</b>. Cada cubo que se posea al usar esta habilidad agrega un <b>160%</b> del ATQ a la capacidad máxima del escudo y agota al cubo. Enfriamiento: <b>60</b> segundos."
     },
     {
       "name": "Onda de Omnio",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Fantasía</span>, <b>remueve todas las desventajas del portador</b> y obtiene <b>5</b> cubos tras cambiar a esta arma, después desata los <b>5</b> cubos junto con Onda de choque, la que inflige daño equivalente al <b>171%</b> del ATQ + <b>9</b> a los objetivos cercanos y los <b>lanza</b> al aire. Cada cubo también inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b>. Si hay aliados cerca, estos obtienen inmunidad al daño durante <b>3</b> segundos."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y obtiene <b>5</b> cubos tras cambiar a esta arma, después desata los <b>5</b> cubos junto con Onda de Choque, la que inflige daño equivalente al <b>171%</b> del ATQ + <b>9</b> a los objetivos cercanos y los <b>lanza fuerte</b> al aire. Cada cubo también inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b>. Si hay aliados cerca, los aliados y el portador obtienen inmunidad al daño durante <b>3</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Fuego",
-    "description": "Las armas completamente cargadas prenderán fuego al objetivo durante <b>8</b> segundos con el siguiente ataque, lo que inflige un daño continuo del <b>{3}%</b> del ATQ cada segundo. Los objetivos incendiados reciben un <b>50%</b> de eficacia de la curación."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque prenderá fuego al objetivo por <b>8</b> segundos, lo que causa daño igual a <b>58%</b> del ATQ cada segundo. Los objetivos encendidos tienen <b>50%</b> eficacia de curación reducida."
   },
   "advancement": [
     "Inflige daño y produce un orbe de curación que dura <b>20</b> segundos y le restaura PS equivalentes al <b>60%</b> del ATQ al compañero de grupo que lo recoja. Enfriamiento de <b>2</b> segundos.",
-    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
     "Reduce el enfriamiento de habilidades de <b>60</b> segundos a <b>30</b> segundos. Restaura PS equivalentes al <b>30%</b> del ATQ cada segundo que el escudo esté activo.",
-    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+    "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
     "Dañar a un objetivo también produce un orbe de daño, el cual dura <b>20</b> segundos y aumenta el daño y la curación de cualquier aliado que lo recoja en un <b>2%</b> por <b>30</b> segundos (se acumula hasta <b>10</b> veces). El enfriamiento de la habilidad es de <b>2.5</b> segundos.",
-    "Usar una habilidad otorga orbes de daño y curación a los aliados, equivalentes a la cantidad de Cubos de Omnio."
+    "Usar una habilidad otorga orbes de daño y curación a los aliados, equivalentes al número de Cubos de Omnio."
   ],
   "traits": [
     {
@@ -116,7 +116,7 @@
       "cost": 400,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 2
       }
@@ -127,7 +127,7 @@
       "cost": 800,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 2
       }
@@ -138,13 +138,13 @@
       "cost": 1200,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 3
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 3
       }
@@ -155,19 +155,19 @@
       "cost": 1600,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 3
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 3
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 3
       }
@@ -178,19 +178,19 @@
       "cost": 2000,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 4
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 4
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 4
       }
@@ -201,19 +201,19 @@
       "cost": 2400,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 6
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 6
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 6
       }
@@ -224,19 +224,19 @@
       "cost": 2800,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 8
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 8
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 8
       }
@@ -247,19 +247,19 @@
       "cost": 3200,
       "mat1": {
         "id": "firecore",
-        "name": "Núcleo de fuego",
+        "name": "Núcleo de Fuego",
         "rarity": "N",
         "amount": 11
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 11
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 11
       }
@@ -270,19 +270,19 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_lava",
-        "name": "Corazón de lava",
+        "name": "Corazón de Lava",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "acidproof_glaze_ii",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido II",
         "rarity": "SR",
         "amount": 5
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de nanofibras II",
+        "name": "Armazón de Nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

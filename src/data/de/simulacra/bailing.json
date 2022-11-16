@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tippe und halte den normalen Angriff, um die Waffe aufzuladen. Fügt Grundschaden in Höhe von <b>60.5</b> des ANG + <b>3</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und ihn zu Boden wirfst (Kopfschüsse sind gegen Wanderer unwirksam)."
+      "description": "Tippe und halte den normalen Angriff, um die Waffe aufzuladen. Fügt Grundschaden in Höhe von <b>60.5</b> des ANG + <b>3</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und das Ziel zu Fall bringst (Kopfschüsse sind gegen Wanderer unwirksam)."
     },
     {
       "name": "Pfeilhagel",
@@ -46,7 +46,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Während du in der Luft bist, tippe auf normaler Angriff, um 4 Mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>38.8%</b> des ANG + <b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>51%</b> des ANG + <b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>77.7%</b> des ANG + <b>4</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>117%</b> des ANG + <b>6</b>."
+      "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>38.8%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>51%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>77.7%</b> des ANG + <b>4</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>117%</b> des ANG + <b>6</b>."
     },
     {
       "name": "Geladener Pfeil",
@@ -73,14 +73,14 @@
   ],
   "weapon_type": {
     "name": "Verwunden",
-    "description": "Voll geladene Waffen verursachen beim nächsten Angriff Schaden in Höhe von <b>100%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
+    "description": "Wenn die Waffe voll geladen ist, verursacht der nächste Angriff Schaden in Höhe von <b>100%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
   },
   "advancement": [
-    "Nach jedem fünften normalen Angriff oder der Verwendung von <span class=\"text-green\">Durchdringender Schuss</span> wird 1 Ausweichversuch wiederhergestellt.",
+    "Nach jedem fünften normalen Angriff oder der Verwendung von <span class=\"text-green\">Durchdringender Schuss</span> wird 1 Ausweichaktion wiederhergestellt.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>10%</b>.",
     "Erhöht den Kopfschussschaden um <b>30%</b>.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>20%</b>.",
-    "Ausweichfähigkeiten fügen Zielen für <b>7</b> Sek. „Verwunden“ zu.",
+    "Ausweichfähigkeiten belegen Ziele für <b>7</b> Sek. mit einem „Verwunden“-Effekt.",
     "Erhöht die kritische Trefferrate bei Zielen mit „Verwunden“ um <b>30%</b> und den kritischen Schaden um <b>50%</b>."
   ],
   "traits": [

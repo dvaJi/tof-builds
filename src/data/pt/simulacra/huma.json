@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>75.9%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>80.2%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>103%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>118.6%</b> do ATQ + <b>6</b> e <b>derruba</b> o alvo, lança o alvo no ar ao aterrissar."
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>75.9%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>80.2%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>103%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>118.6%</b> do ATQ + <b>6</b> e <b>derruba</b> o alvo, depois lança-o no ar ao aterrissar."
     },
     {
       "name": "Antecipação",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar ataques encadeados no ar.\nForma de escudo: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>89.2%</b> do ATQ + <b>5</b> e suspende o alvo.\nForma de machado: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>128.3%</b> do ATQ + <b>7</b> e suspende os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou use com um alvo selecionado), ou use ao escalar, pular para trás ou usar a mochila a jato para usar ataques encadeados no ar.\nForma de escudo: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>89.2%</b> do ATQ + <b>5</b> e suspende o alvo.\nForma de machado: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>128.3%</b> do ATQ + <b>7</b> e suspende os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Erupção",
@@ -54,7 +54,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Toque no botão de ataque normal logo após se esquivar para usar um Ataque Esquivado.\nForma de escudo: Gera um escudo flamejante que causa dano de <b>55.8%</b> do ATQ + <b>3</b> e repele o alvo. Provoca uma explosão que causa dano de <b>{0}%</b> do ATQ + <b>{1}</b>. A explosão <b>atordoa</b> o alvo durante <b>0,5</b> segundo e, durante <b>10</b> segundos, reduz a cura recebida pelo alvo em <b>30%</b>.\nForma de machado: Brande o machado, causando dano de <b>55.8%</b> do ATQ + <b>3</b> e reduzindo a cura recebida pelo alvo em <b>30%</b> durante <b>10</b> segundos."
+      "description": "Use o botão de ataque normal logo após se esquivar para usar Ataque Esquivado.\nForma de escudo: Gera um escudo flamejante que causa dano de <b>55.8%</b> do ATQ + <b>3</b> e repele o alvo. Provoca uma explosão que causa dano de <b>55.8%</b> do ATQ + <b>3</b>. A explosão <b>atordoa</b> o alvo durante <b>0,5</b> segundo e, durante <b>10</b> segundos, reduz a cura recebida pelo alvo em <b>30%</b>.\nForma de machado: Brande o machado, causando dano de <b>55.8%</b> do ATQ + <b>3</b> e reduzindo a cura recebida pelo alvo em <b>30%</b> durante <b>10</b> segundos."
     },
     {
       "name": "Fissão",
@@ -68,20 +68,20 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga de arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de quem a usa</b> e libera uma onda de choque de fogo ao trocar para esta arma. Causa dano de <b>352%</b> do ATQ + <b>19</b>. Provoca inimigos durante <b>5</b> segundos, durante os quais o dano do Errante é reduzido em <b>15%</b>. Espalha objetos em formato de escudo com base no número de alvos provocados. Os objetos duram <b>20</b> segundos, reduzem o dano sofrido em <b>5%</b> durante <b>10</b> segundos (acumulável) e restauram 1 esquiva."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e gera uma onda sísmica de fogo ao trocar para esta arma. Causa dano de <b>352%</b> do ATQ + <b>19</b>. Provoca inimigos durante <b>5</b> segundos, durante os quais você ganha <b>15%</b> de redução de dano. Espalha objetos em formato de escudo com base no número de alvos provocados. Os objetos duram <b>20</b> segundos, reduzem o dano sofrido em <b>5%</b> durante <b>10</b> segundos (acumulável) e restauram 1 esquiva."
     }
   ],
   "weapon_type": {
     "name": "Fogo",
-    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>{3}%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma ateia fogo no alvo, o que causa dano prolongado de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura recebida por alvos incendiados diminui <b>50%</b>."
   },
   "advancement": [
-    "Ganha um acúmulo de escudo forte após usar Descarga: Fúria Ardente. Usar uma habilidade esquivada ou uma habilidade encadeada na forma de escudo dá um acúmulo de escudo forte, que confere <b>10%</b> de redução de dano durante <b>15</b> segundos. Acumula até <b>3</b> vezes. Trocar para a forma de machado converte todos os acúmulos de escudo forte em acúmulos de machado afiado. Cada acúmulo aumenta o dano em <b>15%</b> durante <b>15</b> segundos. Trocar para uma arma diferente cancela o efeito.",
+    "Ganha um acúmulo de escudo forte após usar descarga: Fúria Ardente. Usar uma habilidade de esquiva ou uma habilidade encadeada na forma de escudo dá um acúmulo de escudo forte, que confere <b>10%</b> de redução de dano durante <b>15</b> segundos. Acumula até <b>3</b> vezes. Trocar para a forma de machado converte todos os acúmulos de escudo forte em acúmulos de machado afiado. Cada acúmulo aumenta o dano em <b>15%</b> durante <b>15</b> segundos. Trocar para uma arma diferente cancela o efeito.",
     "Aumenta o crescimento da vida mínima da arma atual em <b>16%</b>.",
     "Durante a forma de escudo, ataques encadeados ou esquivados causam dano adicional de <b>4%</b> da sua vida atual ao alvo.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
     "Após alternar para o machado-escudo, recebe <b>30%</b> de redução de dano imediatamente, que diminui <b>10%</b> a cada <b>3</b> segundos até no mínimo <b>10%</b>. Trocar de arma cancela o efeito. Tempo de recarga: <b>30</b> seg.",
-    "Aprimora habilidades de conversão.\nAprimoramento de Escudo: Aumenta o dano causado em <b>60%</b> e o raio da área de fogo em <b>30%</b>.\nAprimoramento de Machado: Não compartilha tempo de recarga com Aprimoramento de Escudo. Durante os <b>5</b> segundos seguintes após usar esta habilidade, converte todo o dano sofrido em vida (até <b>15%</b> da vida máxima do usuário)."
+    "Aprimora habilidades de conversão.\nAprimoramento de Conversão de Escudo: Aumenta o dano causado em <b>60%</b> e o raio da área de fogo em <b>30%</b>.\nAprimoramento de Conversão de Machado: Não compartilha tempo de recarga com Conversão de Escudo. Durante os <b>5</b> segundos seguintes após usar esta habilidade, converte todo o dano sofrido em vida (até <b>15%</b> da vida máxima do usuário)."
   ],
   "traits": [
     {
@@ -90,7 +90,7 @@
       "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,4%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida."
     },
     {
-      "name": "Tela de Ferro",
+      "name": "Cortina de Ferro",
       "icon": true,
       "description": "Cada vez que Huma sofre dano, recebe <b>1</b> marca de Coragem e recebe mais <b>1</b> marca de Coragem se for dano ígneo, até <b>1</b> vez por <b>1</b> segundo e <b>12</b> acúmulos ao todo. Ao usar uma habilidade de arma, consome todas as marcas de Coragem e recebe um escudo de vida equivalente ao número de marcas x<b>0,6%</b> da vida durante <b>12</b> segundos. Se marcas de Coragem forem consumidas quando o efeito estiver com acúmulo máximo, recebe um escudo de vida equivalente ao número de marcas x<b>0,9%</b> da vida."
     }

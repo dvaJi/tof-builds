@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Wenn der Anwender auf dem Boden ist, kann er Balmung benutzen, um 5-mal hintereinander anzugreifen.\nDer erste Angriff verursacht Schaden in Höhe von <b>50.8%</b> des ANG + <b>3</b> und leichten Rückstoß.\nDer zweite Angriff verursacht Schaden in Höhe von <b>36.3%</b> des ANG + <b>2</b> und leichten Rückstoß.\nDer dritte Angriff verursacht Schaden in Höhe von <b>98.3%</b> des ANG + <b>5</b> und leichten Rückstoß.\nDer vierte Angriff verursacht Schaden in Höhe von <b>67.3%</b> des ANG + <b>4</b> und leichten Rückstoß.\nDer fünfte Angriff verursacht Schaden in Höhe von <b>148.3%</b> des ANG + <b>8</b> und schleudert das Ziel zu Boden."
+      "description": "Greift auf dem Boden 5-mal hintereinander mit Balmung an.\nErster Angriff: verursacht Schaden in Höhe von <b>50.8%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>36.3%</b> des ANG + <b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>98.3%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>67.3%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>148.3%</b> des ANG + <b>8</b> und bringt das Ziel zu Fall."
     },
     {
       "name": "Luftsprengung",
@@ -31,22 +31,22 @@
         "Jump",
         "Attack"
       ],
-      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, tippe auf normaler Angriff, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>62.5%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>62%</b> des ANG + <b>5</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>3%</b> des ANG + <b>120</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>6%</b> des ANG + <b>71.2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>4%</b> des ANG + <b>126</b>."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>62.5%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>62%</b> des ANG + <b>5</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>3%</b> des ANG + <b>120</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>6%</b> des ANG + <b>71.2</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>4%</b> des ANG + <b>126</b>."
     },
     {
-      "name": "Vorwärtsverfolgung",
+      "name": "Schnelle Verfolgung",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte nach dem zweiten normalen Angriff den normalen Angriff gedrückt, um „Vorwärtsverfolgung“ auszulösen.\nFeuert eine lasergesteuerte Rakete auf das Ziel, die Schaden in Höhe von <b>107.5%</b> des ANG + <b>6</b> verursacht."
+      "description": "Halte nach dem zweiten normalen Angriff den normalen Angriff gedrückt, um „Schnelle Verfolgung“ auszulösen.\nFeuert eine lasergesteuerte Rakete auf das Ziel, die Schaden in Höhe von <b>107.5%</b> des ANG + <b>6</b> verursacht."
     },
     {
       "name": "Doppelfokus",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Halte den normalen Angriff gedrückt, um eine Elektrokugel aufzuladen, die beim Aufprall explodiert und Gegnern in der Nähe Schaden in Höhe von <b>118.4%</b> des ANG + <b>6</b> zufügt."
+      "description": "Drücke und halte den normalen Angriff gedrückt, um eine Elektrokugel aufzuladen, die beim Aufprall explodiert und Gegnern in der Nähe Schaden in Höhe von <b>118.4%</b> des ANG + <b>6</b> zufügt."
     },
     {
       "name": "Doppelwirbelfokus",
@@ -54,7 +54,7 @@
         "Perfect Attack",
         "Attack"
       ],
-      "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Angriff erzeugt ein verlangsamendes Magnetfeld aus.\nVenus feuert eine aufgeladene Kugel ab, die eine bestimmte Strecke zurücklegt und beim Kontakt mit Zielen explodiert. Verursacht Schaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> und erzeugt für <b>3</b> Sek. ein verlangsamendes Magnetfeld, das die Bewegungs- und Angriffsgeschwindigkeit von Gegnern darin um <b>35%</b> verringert.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (bis zu <b>5</b>-mal stapelbar). Beim Waffenwechsel geht der Effekt verloren."
+      "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Ausweichen erzeugt ein verlangsamendes Magnetfeld aus.\nVenus feuert eine aufgeladene Kugel ab, die eine bestimmte Strecke zurücklegt und beim Kontakt mit Zielen explodiert. Verursacht Schaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> und erzeugt für <b>3</b> Sek. ein verlangsamendes Magnetfeld, das die Bewegungs- und Angriffsgeschwindigkeit von Gegnern darin um <b>35%</b> verringert.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (bis zu <b>5</b>-mal stapelbar). Beim Waffenwechsel geht der Effekt verloren."
     },
     {
       "name": "Parallelstrahlen",
@@ -62,7 +62,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (während des Ausweichens auf eine Richtungstaste tippen), um „Parallelstrahlen“ auszulösen.\nVenus feuert zwei parallele Energiestrahlen ab, die Durchschlagschaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> verursachen.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (bis zu <b>5</b>-mal stapelbar). Beim Waffenwechsel geht der Effekt verloren."
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (vor dem Ausweichen auf eine Pfeiltaste tippen), um „Parallelstrahlen“ auszulösen.\nVenus feuert zwei parallele Energiestrahlen ab, die Durchschlagschaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> verursachen.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (stapelbar bis <b>5</b>-mal). Beim Waffenwechsel geht der Effekt verloren."
     },
     {
       "name": "Impulsverschluss",
@@ -85,7 +85,7 @@
   },
   "weapon_resonance": {
     "name": "Voltresonanz",
-    "description": "<b>Voltresonanz</b>: Erhöht Volt-ANG um <b>15%</b> und Voltwiderstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Voltwaffen aktiviert. Dieser Set-Effekt kann nicht mit anderen Set-Effekten gestapelt werden."
+    "description": "<b>Voltresonanz</b>: Erhöht Volt-ANG um <b>15%</b> und Voltwiderstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Voltwaffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert."
   },
   "advancement": [
     "<b>Impulsverschluss</b> und <b>Teilchenstrahl-Explosion</b> erzeugen <b>1</b> Elektrode, die dem Anwender sofort <b>5</b> Stapel „Heilketten-Verbesserung“ gewährt. Außerdem wird eine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>135%</b> des ANG des Wanderers heilt.",
@@ -114,7 +114,7 @@
       "cost": 400,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 2
       }
@@ -125,7 +125,7 @@
       "cost": 800,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 2
       }
@@ -136,7 +136,7 @@
       "cost": 1200,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 3
       },
@@ -153,7 +153,7 @@
       "cost": 1600,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 3
       },
@@ -176,7 +176,7 @@
       "cost": 2000,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 4
       },
@@ -199,7 +199,7 @@
       "cost": 2400,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 6
       },
@@ -222,7 +222,7 @@
       "cost": 2800,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 8
       },
@@ -245,7 +245,7 @@
       "cost": 3200,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 11
       },

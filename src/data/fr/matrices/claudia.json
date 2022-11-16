@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Accroît de 13%/17%/20%/23% les dégâts lorsque vous touchez une cible en l'air ou lorsque vous lancez une attaque aérienne. Réinitialise le double saut lorsque vous touchez une cible en l'air."
+      "value": "Accroît de 13%/17%/20%/23% les dégâts sur une cible en l'air ou lors d'une attaque aérienne. Réinitialise le double-saut lorsque vous touchez la cible en l'air."
     },
     {
       "count": 4,
-      "value": "Toucher un ennemi avec une compétence réduit de 1,5/2/2,5/3 seconde(s) le temps de recharge de toutes les compétences d’arme et accroît de 36%/45%/54%/63% les dégâts des compétences de décharge pendant 15 secondes."
+      "value": "Toucher un ennemi avec une compétence réduit de 1,5/2/2,5/3 secondes le temps de recharge de toutes les compétences d'arme et accroît de 58%/80%/103%/126% les dégâts des compétences de décharge pendant 15 [@$seconde|secondes]."
     }
   ],
   "mind": {

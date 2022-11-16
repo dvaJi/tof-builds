@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Tippe, während du in der Luft bist, den normalen Angriff, um „Stampfen“ auszulösen. Verursacht Schaden in Höhe von <b>121.7%</b> des ANG + <b>6</b> und lässt das Ziel schweben.\nWährend „Rage“ aktiv ist, verursachst du Schaden in Höhe von <b>133.9%</b> des ANG + <b>7</b> und lässt das Ziel <b>länger schweben</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um „Sprungbombe“ auszulösen. Verursacht Schaden in Höhe von <b>121.7%</b> des ANG + <b>6</b> und lässt das Ziel schweben.\nWährend „Rage“ aktiv ist, verursachst du Schaden in Höhe von <b>133.9%</b> des ANG + <b>7</b> und lässt das Ziel <b>länger schweben</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Schockwelle",
@@ -47,7 +47,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>427.5%</b> des ANG + <b>23</b> zu verursachen."
+      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>427.5%</b> des ANG + <b>23</b> verursacht."
     },
     {
       "name": "Gezielter Aufprall",
@@ -69,7 +69,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um Weltenspalter auszulösen. Dadurch werden <b>3</b> Schockwellen nach vorne geschickt, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG + <b>3</b> verursachen und die Ziele schweben lassen.\nWährend du in Rage bist, feuerst du <b>5</b> Schockwellen nach vorne, die jeweils Schaden in Höhe von <b>{0}%</b> des <b>{1}</b> verursachen und das Ziel schweben lassen."
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um Weltenspalter auszulösen. Dadurch werden <b>3</b> Schockwellen nach vorne geschickt, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG + <b>3</b> verursachen und die Ziele schweben lassen.\nWährend du in Rage bist, feuerst du <b>5</b> Schockwellen nach vorne, die jeweils Schaden in Höhe von <b>52.4%</b> des <b>3</b> verursachen und das Ziel schweben lassen."
     },
     {
       "name": "Rage",
@@ -83,12 +83,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, lässt der Wechsel zu dieser Waffe Ziele in der Nähe <b>länger schweben</b> und \n<b>entfernt alle Debuffs vom Anwender</b>. Dies verursacht Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b>. Außerdem wird ein Vorschlaghammer beschworen, der auf Ziele in der Nähe fällt und Schaden in Höhe von <b>153.3%</b> des ANG + <b>8</b> verursacht."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, lässt der Wechsel zu dieser Waffe Ziele in der Nähe <b>länger schweben</b> und <b>entfernt alle Debuffs vom Anwender</b>. Dies verursacht Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b>. Außerdem wird ein Vorschlaghammer beschworen, der auf Ziele in der Nähe fällt und Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b> verursacht."
     }
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Voll geladene Waffen <b>gefrieren</b> das Ziel für <b>2</b> Sekunden und verursachen für <b>6</b> Sekunden Frostschaden. Das Durchbrechen des Eispanzers verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während Frostschaden ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> reduziert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Verspottet Ziele in der Nähe nach dem Wechsel zu dieser Waffe, verhindert innerhalb der nächsten <b>8</b> Sek. <b>1</b>-mal eingehenden Schaden und gewährt Hyperkörper für die nächsten <b>8</b> Sek. Abklingzeit: <b>15</b> Sek.",

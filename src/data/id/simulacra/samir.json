@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage total sebanyak <b>47.1%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage total sebanyak <b>35.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage total sebanyak <b>119.7%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage total sebanyak <b>113.1%</b> ATK + <b>6</b>.\nSerangan Kelima: Timpakan damage total sebanyak <b>154%</b> ATK + <b>8</b> dan buat target <b>terpental</b>."
+      "description": "Saat di darat, tekan Serangan Biasa untuk menyerang 5 kali berturut-turut dengan Dual Pistols.\nSerangan Pertama: Menimbulkan Total DMG sebesar <b>47.1%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan Total DMG sebesar <b>35.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimbulkan Total DMG sebesar <b>119.7%</b> ATK + <b>6</b>.\nSerangan Keempat: Menimbulkan Total DMG sebesar <b>113.1%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimbulkan Total DMG sebesar <b>154%</b> ATK + <b>8</b> dan mengakibatkan <b>Launch</b> kepada target."
     },
     {
       "name": "Bullet Rain",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat Airborne, ketuk Normal Attack untuk terus menembak ke tanah, menimpakan damage sebanyak <b>50.6%</b> ATK + <b>3</b>, setiap serangan yang kena akan menghabiskan <b>150</b> Endurance."
+      "description": "Saat di udara, tekan Serangan Biasa untuk melancarkan tembakan beruntun ke tanah, menimbulkan DMG sebesar <b>50.6%</b> ATK + <b>3</b> DMG. Setiap serangan yang mengenai target menghabiskan <b>150</b> Stamina."
     },
     {
       "name": "Energy Burst",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Saat mengudara, ketuk dan tahan Normal Attack untuk mengaktifkan Phantom Kick. Memukul target sampai jatuh dan menimpakan damage sebanyak <b>70.5%</b> ATK + <b>4</b>. Saat mendarat, menimpakan damage sebanyak <b>98.7%</b> ATK + <b>5</b> kepada target di sekitar dan membuat mereka <b>terpental</b>."
+      "description": "Saat di udara, tahan Serangan Biasa untuk melancarkan Phantom Kick. Memukul jatuh target sembari menimbulkan DMG sebesar <b>70.5%</b> ATK + <b>4</b>. Saat mendarat, menimbulkan DMG sebesar <b>98.7%</b> ATK + <b>5</b> dan mengakibatkan <b>Launch Keras</b> kepada target di sekitar."
     },
     {
       "name": "Rising Lightning Kick",
@@ -54,32 +54,32 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Ketuk Normal Attack setelah menghindar untuk mengakibatkan <b>Suspend Keras</b> kepada target dan menimbulkan damage sebanyak <b>122.6%</b> ATK + <b>6</b>."
+      "description": "Tekan Serangan Biasa setelah Dodge untuk mengakibatkan <b>Suspend Keras</b> kepada target dan menimpakan damage sebesar <b>122.6%</b> ATK + <b>6</b>."
     },
     {
       "name": "Electro Field",
       "type": [
         "Skill"
       ],
-      "description": "Menembakkan Energy Shield ke lokasi target, memantulkan sinar dalam Barrier. Menimbulkan damage sebanyak <b>269.8%</b> ATK + <b>14</b>, dan serangan terakhir akan mengakibatkan <b>Suspend Keras</b> kepada target. Cooldown: <b>45</b> detik."
+      "description": "Menembakkan Energy Shield ke lokasi target, memantulkan sinar dalam Barrier. Timpakan damage sebesar <b>269.8%</b> ATK + <b>14</b>, dan serangan terakhir akan mengakibatkan <b>Suspend Keras</b> kepada target. Cooldown: <b>45</b> detik."
     },
     {
       "name": "Domain of Thunder",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghapus semua debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target setelah beralih ke senjata ini, mengakibatkan <b>Suspend Keras</b> kepada target dalam area dan menimbulkan total <b>238.3%</b> ATK + <b>13</b> damage setelah 3 kali menyerang target sambil menangkal buff mereka. Domain bertahan selama <b>3,5</b> detik dan menimbulkan damage sebanyak <b>42.4%</b> ATK + <b>2</b> kepada target setiap <b>0,5</b> detik."
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghapus semua debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target setelah beralih ke senjata ini, mengakibatkan <b>Suspend Keras</b> kepada target dalam area dan menimbulkan total <b>238.3%</b> ATK + <b>13</b> damage setelah 3 kali menyerang target sambil menangkal buff mereka. Domain bertahan selama <b>3,5</b> detik dan menimpakan damage sebesar <b>42.4%</b> ATK + <b>2</b> kepada target setiap <b>0,5</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebanyak <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebesar <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
   },
   "advancement": [
     "Mengaktifkan ledakan listrik pada target setelah mendaratkan Critical Hit sehingga menimbulkan damage tambahan sebanyak <b>30%</b> ATK kepada target dan musuh di dekatnya. Cooldown: <b>0,2</b> detik.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>16%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
     "Meningkatkan Crit Rate sebanyak <b>40%</b> kepada target yang terkena Electrify. Ledakan elektrik akan memperpanjang durasi efek Electrify selama <b>0,5</b> detik, maks <b>5</b> detik.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
     "Menggandakan durasi Electro Field dan menarik target ke tengah serangan.",
     "Mengaktifkan ledakan elektrik akan mengurangi skill cooldown sebanyak <b>1</b> detik."
   ],

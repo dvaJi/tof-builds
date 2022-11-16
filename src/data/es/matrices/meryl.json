@@ -2,7 +2,7 @@
   "_id": 15,
   "id": "meryl",
   "name": "Meryl",
-  "suitName": "Guardián blanco puro",
+  "suitName": "Guardián Blanco Puro",
   "hash": "SSR1",
   "rarity": "SSR",
   "bonus": [
@@ -16,19 +16,19 @@
     }
   ],
   "mind": {
-    "name": "estimulación directa",
+    "name": "Simulación de Esgrima",
     "desc": "Una compleja simulación de lucha con espadas, al parecer usada para la calibración. En cualquier caso, no es para la gente común."
   },
   "memory": {
-    "name": "llamada para despertar",
+    "name": "Llamada para Despertar",
     "desc": "Fragmentos encadenados de memoria utilizados para implantar una conciencia. No vienen con manual de instrucciones."
   },
   "belief": {
-    "name": "autoridad absoluta",
+    "name": "Autoridad Absoluta",
     "desc": "Por supuesto, representa la autoaprobación y el reconocimiento externo del poder de un ejecutor."
   },
   "emotion": {
-    "name": "distante",
+    "name": "Distante",
     "desc": "Barreras mentales comunicativas impuestas para rechazar cualquier tipo de socialización."
   }
 }

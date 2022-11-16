@@ -7,7 +7,7 @@
   "birthday": "15 de julho (Câncer)",
   "birthplace": "Desconhecido",
   "gender": "Feminino",
-  "info": "Uma menina introvertida e ingênua que não sabe muita coisa sobre o mundo. Ela tem certo medo de estranhos e prefere ficar sozinha. Talvez seja por isso que fica assustada e acanhada na frente de desconhecidos. \nSempre chamada de \"a menina da senhorita Lin\", ela desenvolveu um senso de propósito: precisa se empenhar e ficar mais forte para não ser um fardo para Lin nem deixar que as instruções dela sejam em vão.",
+  "info": "Uma menina introvertida e ingênua que não sabe muita coisa sobre o mundo. Ela tem certo medo de estranhos e prefere ficar sozinha. Talvez seja por isso que fica assustada e acanhada na frente de desconhecidos. \nSempre chamada de \"a menina da Srta. Lin\", ela desenvolveu um senso de propósito: precisa se empenhar e ficar mais forte para não ser um fardo para Lin nem deixar que as instruções dela sejam em vão.",
   "description": "A filha de uma velha amiga de Lin. Hoje em dia, é Lin que toma conta dela, e as duas até entram em ação juntas. A menina não parece forte, como se fosse uma criança frágil e doente. \nA pedido de Lin, ela está recebendo treinamento de combate para autodefesa. Embora Ruby esteja aprendendo algo bem diferente a partir do estilo de Lin, pelo menos está muito mais saudável agora e já consegue lidar com alguns apertos. \nAinda tem apenas uma vaga ideia sobre o mundo e si mesma. Acredita nas instruções e nos relatos de Lin cegamente e depende dela para quase toda decisão. Na situação atual, Lin comenta que estimular a independência dela é a prioridade.",
   "like": "Lilica, a coelha de pelúcia",
   "dislike": "Tomar remédio",
@@ -23,25 +23,25 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, toque no botão de ataque normal para comandar Faísca a atacar 5 vezes seguidas.\nO primeiro ataque causa dano total de <b>84.6%</b> do ATQ + <b>4</b> a cada alvo.\nO segundo ataque causa dano total de <b>93%</b> do ATQ + <b>5</b> a cada alvo.\nO terceiro ataque causa dano total de <b>101.5%</b> do ATQ + <b>5</b> a cada alvo.\nO quarto ataque causa dano total de <b>109.9%</b> do ATQ + <b>6</b> a cada alvo.\nO quinto ataque causa dano total de <b>253.7%</b> do ATQ + <b>13</b> a cada alvo e os <b>lança no ar</b>."
+      "description": "No chão, use o botão de ataque normal para ordenar que Faísca ataque 5 vezes seguidas.\nPrimeiro ataque: Causa dano total de <b>84.6%</b> do ATQ + <b>4</b> a cada alvo.\nSegundo ataque: Causa dano total de <b>93%</b> do ATQ + <b>5</b> a cada alvo.\nTerceiro ataque: Causa dano total de <b>101.5%</b> do ATQ + <b>5</b> a cada alvo.\nQuarto ataque: Causa dano total de <b>109.9%</b> do ATQ + <b>6</b> a cada alvo.\nQuinto ataque: Causa dano total de <b>253.7%</b> do ATQ + <b>13</b> a cada alvo e os <b>lança no ar</b>."
     },
     {
-      "name": "Disparo Aéreo",
+      "name": "Detonação Aérea",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "No ar, toque no botão de ataque normal para ordenar que Faísca ataque 4 vezes seguidas.\nPrimeiro ataque: Causa dano total de <b>97.1%</b> do ATQ + <b>5</b>.\nSegundo ataque: Causa dano total de <b>106.8%</b> do ATQ + <b>6</b>.\nTerceiro ataque: Causa dano total de <b>121.3%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano total de <b>145.6%</b> do ATQ + <b>8</b>."
+      "description": "No ar, use o botão de ataque normal para ordenar que Faísca ataque 4 vezes seguidas.\nPrimeiro ataque: Causa dano total de <b>97.1%</b> do ATQ + <b>5</b> a cada alvo.\nSegundo ataque: Causa dano total de <b>106.8%</b> do ATQ + <b>6</b> a cada alvo.\nTerceiro ataque: Causa dano total de <b>121.3%</b> do ATQ + <b>6</b> a cada alvo.\nQuarto ataque: Causa dano total de <b>145.6%</b> do ATQ + <b>8</b> a cada alvo."
     },
     {
-      "name": "Peguei você!",
+      "name": "Peguei!",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal ou após ativar Zona de Quarentena para disparar raios de energia causticante continuamente em alvos na direção selecionada. Causa dano de <b>40%</b> do ATQ + <b>2</b> e reduz o vigor deles."
+      "description": "Segure o botão de ataque normal ou após ativar Zona de Quarentena para disparar raios de energia causticante continuamente em alvos na direção selecionada. Causa dano de <b>40%</b> do ATQ + <b>2</b> e reduz o vigor do Errante."
     },
     {
-      "name": "Blazing Dive",
+      "name": "Mergulho Abrasador",
       "type": [
         "Jump",
         "Hold: Attack"
@@ -54,7 +54,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Após o segundo ataque normal, segure o botão durante qualquer ataque para causar dano de <b>40%</b> do ATQ + <b>2</b> a cada alvo, aprisionar (incapacitação branda) e queimar o alvo travado durante <b>3</b> segundos. Causa dano de <b>26.2%</b> do ATQ + <b>1</b> ao alvo por segundo (não funciona em chefes)."
+      "description": "Após o segundo ataque normal, segure o botão durante qualquer ataque para causar dano de <b>40%</b> do ATQ + <b>2</b> ao alvo. O alvo travado fica confinado e queima durante <b>3</b> segundos. Causa dano de <b>26.2%</b> do ATQ + <b>1</b> ao alvo por segundo (não funciona em chefes)."
     },
     {
       "name": "Vai, Lilica!",
@@ -62,38 +62,38 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Arremessa Lilica após se esquivar. Lilica permanece durante <b>10</b> segundos, absorvendo inimigos próximos. Causa dano de <b>84.6%%</b> do ATQ + <b>4</b> a eles e provoca-os durante <b>1,5</b> segundo para atrair o ataque deles para ela (não é possível provocar inimigos quando em equipe)."
+      "description": "Arremessa Lilica após se esquivar. Lilica permanece durante <b>10</b> segundos, atraindo inimigos próximos. Causa dano de <b>84.6%</b> do ATQ + <b>4</b> aos alvos. Lilica também os provoca durante <b>1,5</b> segundo, direcionando os ataques para ela (não é possível provocar inimigos quando em equipe)."
     },
     {
-      "name": "Colisor Espumante",
+      "name": "Colisor Faiscante",
       "type": [
         "Skill"
       ],
-      "description": "Faísca dispara centelhas, que dura 15 segundos e ricocheteia entre o alvo e você. Ao atingir o alvo, centelhas o desacelera (incapacitação fraca) durante <b>4</b> segundos. Tempo de recarga: <b>15</b> seg. Centelhas causa mais dano quanto maior for a distância. Ao atingir, causa dano de até <b>350%</b> do ATQ + <b>37</b> e inflige uma marca de esbrasear de <b>25</b> segundos ao alvo. Ao mesmo tempo, Faísca dispara 4 balas. Cada uma causa dano de <b>50%</b> do ATQ + <b>3</b> ao alvo. O ataque normal de Faísca causa <b>110%</b> mais dano a alvos marcados com esbrasear. Se o alvo tiver um efeito de queimadura autoinfligido, quando centelhas o atingir, ela queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incendiamento são contados juntos). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. O tempo de recarga da habilidade são <b>30</b> segundos.\n<b>Passiva</b>: Quando centelhas está ativo, você ganha <b>1</b> ponto de calor com tempo de recarga de <b>0,9</b> segundo a cada vez que Ataque do Faísca causa dano. Pode acumular até <b>8</b> pontos de calor. Quando atinge o limite de calor, você ganha o efeito calor de rachar, que aumenta o ATQ ígneo em <b>25%</b> durante <b>25</b> segundos."
+      "description": "Faísca dispara centelhas, que dura 15 segundos e ricocheteia entre o alvo e você. Ao atingir o alvo, centelhas o desacelera durante <b>4</b> segundos. Tempo de recarga: <b>15</b> seg. Centelhas causa mais dano quanto maior for a distância. Ao atingir, causa dano de até <b>350%</b> do ATQ + <b>37</b> e inflige uma marca de esbrasear de <b>25</b> segundos ao alvo. Ao mesmo tempo, Faísca dispara 4 balas. Cada uma causa dano de <b>50%</b> do ATQ + <b>3</b> ao alvo. O ataque normal de Faísca causa <b>110%</b> mais dano a alvos marcados com esbrasear. Quando centelhas atinge alvos autoincendiados, ela queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incêndio são contados juntos). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. Tempo de recarga da habilidade: <b>30</b> seg.\n<b>Passiva</b>: Quando centelhas está ativo, você ganha <b>1</b> ponto de calor com tempo de recarga de <b>0,9</b> segundo cada vez que Ataque do Faísca causa dano. Pode acumular até <b>8</b> pontos de calor. Quando atinge o limite de calor, você ganha o efeito calor de rachar, que aumenta o ATQ ígneo em <b>25%</b> durante <b>25</b> segundos."
     },
     {
       "name": "Supernova",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. Faísca entra em estado carregado e emite raios de energia causticante na área alvo antes de acabar explodindo. Causa dano de <b>750%</b> do ATQ + <b>39</b>. Se o alvo tiver um efeito de queimadura autoinfligido, então queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incendiamento são contados em conjunto). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. A imunidade a dano dura <b>2,6</b> segundos enquanto a habilidade está ativa (Indisponível na Liga do Apogeu)."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. Faísca entra em estado carregado e emite raios de energia causticante na área alvo antes de acabar explodindo. Causa dano de <b>750%</b> do ATQ + <b>39</b>. Se o alvo tiver um efeito de queimadura autoinfligido, então queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incendiamento são contados em conjunto). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. A imunidade a dano dura <b>2,6</b> segundos enquanto a habilidade está ativa (Indisponível na Liga do Apogeu)."
     }
   ],
   "weapon_type": {
     "name": "Fogo",
-    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>58%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma ateia fogo no alvo, o que causa dano prolongado de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura recebida por alvos incendiados diminui <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Ressonância ígnea",
     "description": "Aumenta o ATQ ígneo em <b>20%</b> e a resistência ígnea em <b>40%</b>. Ativa-se ao equipar 2 ou mais armas ígneas. Este efeito de conjunto também funciona com armas no espaço secundário."
   },
   "advancement": [
-    "Esbrasear reforça o dano dos ataques normais do Faísca em <b>182%</b>. O tempo de recarga da habilidade diminui para <b>24</b> segundos.",
+    "Esbrasear reforça o dano de Ataque do Faísca em <b>80%</b>. O tempo de recarga da habilidade diminui para <b>24</b> segundos.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "Embrasear aumenta o reforço ígneo em <b>18%</b>, aumentando o multiplicador de queimadura em <b>150%</b>.",
+    "Esbrasear aumenta o reforço ígneo em <b>8%</b> e o multiplicador de queimadura em <b>75%</b>.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
-    "Cada vez que um ataque do Faísca acerta um inimigo, restaura <b>75</b> pontos de carga de arma a mais. Tempo de recarga: 0,9 segundo. Quando calor de rachar estiver ativo, despedaçar aumenta em <b>25%</b>.",
-    "Esbrasear reforça o dano dos ataques normais do Faísca em <b>240%</b>. Dobra a eficiência de aquisição de calor. O tempo de recarga da habilidade diminui para <b>16</b> segundos."
+    "Cada vez que os ataques normais do Faísca acertam um inimigo, restaura <b>75</b> pontos de carga de arma a mais. Tempo de recarga: 0,9 seg. Despedaçar aumenta em <b>25%</b> quando Calor de rachar estiver ativo.",
+    "Esbrasear reforça o dano de Ataque do Faísca em <b>160%</b>. Dobra a eficiência de aquisição de calor. O tempo de recarga da habilidade diminui para <b>16</b> segundos."
   ],
   "traits": [
     {

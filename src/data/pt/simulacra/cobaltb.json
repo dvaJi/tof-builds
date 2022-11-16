@@ -8,7 +8,7 @@
   "birthplace": "Banges Tech",
   "gender": "Feminino",
   "info": "A aparência faz acreditar que é uma cientista muito séria e que segue tudo à risca, mas na verdade quebra os estereótipos e é bem versátil.\nDificilmente demonstra expressões, como se não tivesse músculos faciais. Porém, depois de conhecê-la melhor, é fácil perceber que não é tão desligada assim e tem várias emoções e pensamentos. Chega até a inflar as bochechas quanto está com raiva.\nApesar de ser uma cientista de destaque no desenvolvimento cibernético, ela segue mais a intuição do que a lógica.\nConfia nos seus instintos para modificar máquinas, mas sempre faz questão de adicionar acessórios completamente inúteis só porque sim.",
-  "description": "Cobalt-B (que não é seu nome verdadeiro) é uma engenheira mecânica que trabalha no departamento de desenvolvimento de armas da Hykros. Ela não tem um cargo muito alto na hierarquia porque não conseguiu notas boas nas provas.\nPorém, as pessoas que trabalham com ela sabem que é, na verdade, o trunfo de toda a equipe. Cobalt-B não dá importância a teorias básicas e cria armas extremamente eficazes com base na intuição.\nEla costuma ir para o campo de vez em quando com as forças de combate para testar as armas em pobres membros dos hienas e coletar dados de combate pessoalmente.",
+  "description": "Cobalt-B (que não é seu nome verdadeiro) é uma engenheira mecânica que trabalha no departamento de desenvolvimento de armas da Banges Tech. Ela não tem um cargo muito alto na hierarquia porque não conseguiu notas boas nas provas.\nPorém, as pessoas que trabalham com ela sabem que é, na verdade, o trunfo de toda a equipe. Cobalt-B não dá importância a teorias básicas e cria armas extremamente eficazes com base na intuição.\nEla costuma ir para o campo de vez em quando com as forças de combate para testar as armas em pobres membros dos hienas e coletar dados de combate pessoalmente.",
   "like": "Maquinário, troca de ideias, rock artístico",
   "dislike": "Estudar, provas",
   "element": "Fire",
@@ -23,14 +23,14 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, toque no botão de ataque normal para executar 5 ataques seguidos.\nPrimeiro ataque: Causa dano de <b>52.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>75.6%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>94.5%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>142.8%</b> do ATQ + <b>8</b>.\nQuinto ataque: Causa dano de <b>137.8%</b> do ATQ + <b>7</b>."
+      "description": "No chão, use ataque normal para executar 5 ataques seguidos.\nPrimeiro ataque: Causa dano de <b>52.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>75.6%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>94.5%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>142.8%</b> do ATQ + <b>8</b>.\nQuinto ataque: Causa dano de <b>137.8%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Tiro Concentrado",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque para concentrar o ataque, então solte para disparar projéteis que causam dano de <b>95.4%</b> do ATQ + <b>5</b>, mais explosão três segundos depois (ou se o alvo for eliminado). Causa dano de <b>23.9%</b> do ATQ a alvos próximos, e a área de efeito duplica cada vez que um alvo na área sofre dano (até <b>4</b> vezes), mais dano aumentado."
+      "description": "Segure o botão de ataque normal para concentrar um disparo, então solte para disparar projéteis que causam dano de <b>95.4%</b> do ATQ + <b>5</b> mais uma explosão três segundos depois (ou se o alvo for abatido). Causa dano de <b>23.9%</b> do ATQ a alvos próximos. O dano aumenta e a área de efeito duplica cada vez que um alvo sofre dano antes da explosão (até <b>4</b> vezes)."
     },
     {
       "name": "Explosão Elevada",
@@ -38,14 +38,14 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, use um disparo aéreo para executar Explosão Elevada.\nCausa dano de <b>90.8%</b> do ATQ + <b>5</b> a inimigos em um círculo adiante, repelindo-os uma certa distância e reduzindo <b>250</b> de vigor deles."
+      "description": "No ar ou após pular uma vez, use Explosão Elevada.\nArremessa uma bomba que causa dano de <b>90.8%</b> do ATQ + <b>5</b> a inimigos em um círculo adiante, repelindo-os uma curta distância. Consome <b>250</b> de vigor."
     },
     {
-      "name": "Disparo Aéreo",
+      "name": "Detonação Aérea",
       "type": [
         "Double Jump"
       ],
-      "description": "Ativa Salto Explosivo após dar um salto duplo.\nDispara um feixe de Omnium para baixo. O feixe se estende para frente e causa dano de <b>33.8%</b> do ATQ + <b>2</b>."
+      "description": "Dê um salto duplo para usar Detonação Aérea.\nDispara um feixe de Omnium para baixo. O feixe se estende para frente e causa dano de <b>33.8%</b> do ATQ + <b>2</b>."
     },
     {
       "name": "Bombardeio Intenso",
@@ -53,7 +53,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque durante um ataque normal para executar Fogo de Supressão adiante. Causa dano em área de <b>102%</b> do ATQ + <b>5</b> a alvos."
+      "description": "Segure o botão de ataque durante um ataque normal para atirar adiante. Causa dano em área de <b>102%</b> do ATQ + <b>5</b> a inimigos."
     },
     {
       "name": "Curta Distância",
@@ -75,35 +75,35 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e arremessa <b>3</b> granadas para frente ao trocar para esta arma. Causa dano em área de <b>570%</b> do ATQ + <b>30</b> contra todos e <b>lança alvos no ar</b>."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e arremessa <b>3</b> granadas para frente ao trocar para esta arma. Causa dano em área de <b>570%</b> do ATQ + <b>30</b> e <b>lançamento aéreo</b>."
     }
   ],
   "weapon_type": {
     "name": "Fogo",
-    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>58%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma ateia fogo no alvo, o que causa dano prolongado de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura recebida por alvos incendiados diminui <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Ressonância ígnea",
-    "description": "<b>Ressonância ígnea</b>: Aumenta o ATQ ígneo em <b>15%</b> e a resistência ígnea em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas ígneas. Este efeito de conjunto também funciona com armas no espaço secundário. Não acumula."
+    "description": "<b>Ressonância ígnea</b>: Aumenta o ATQ ígneo em <b>15%</b> e a resistência ígnea em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas ígneas. Esse efeito de conjunto funciona com armas no espaço secundário e não se acumula repetidamente."
   },
   "advancement": [
-    "Cada rodada de ataques causa dano adicional equivalente a <b>2%</b> da vida atual do alvo (até <b>200%</b> do ATQ).",
+    "Cada saraivada de tiros de Barragem Incinerante causa dano adicional equivalente a <b>2%</b> da vida atual do alvo (até <b>180%</b> do ATQ).",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "\"Bombardeio Intenso\", \"Ataque Esquivado\" e \"Curta Distância\" infligem <span class=\"text-green\">queima iônica</span> a alvos que já estão queimando, causando dano ígneo equivalente a <b>60%</b> do ATQ atual deles por segundo durante <b>10</b> segundos.",
+    "A habilidade encadeada Bombardeio Intenso e o ataque esquivado Curta Distância infligem <span class=\"text-green\">queima iônica</span> a alvos que já estejam queimando, causando dano ígneo equivalente a <b>40%</b> do ATQ deles por segundo durante <b>10</b> segundos.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
-    "O dano da <span class=\"text-green\">queima iônica</span> aumenta para <b>90%</b> do ATQ. Ataques bem-sucedidos com as habilidades de esquiva de qualquer arma irão atualizar a duração da <span class=\"text-green\">queima iônica</span>.",
-    "<span class=\"text-green\">Barragem Incinerante</span> inflige queimadura durante <b>15</b> segundos. Ataques bem-sucedidos com as habilidades de esquiva de qualquer arma reduzem o tempo de recarga de <span class=\"text-green\">Barragem Incinerante</span> em <b>4</b> segundos. Tempo de recarga do efeito: <b>1,5</b> seg."
+    "O dano da <span class=\"text-green\">queima iônica</span> aumenta em até <b>60%</b> do ATQ. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma irão atualizar a duração da <span class=\"text-green\">queima iônica</span>.",
+    "<span class=\"text-green\">Barragem Incinerante</span> tem <b>15</b> segundos de efeito de queimadura. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma reduzem o tempo de recarga de <span class=\"text-green\">Barragem Incinerante</span> em <b>4</b> segundos. Tempo de recarga do efeito: <b>1.5</b> seg. O dano prolongado da habilidade de esquiva também desencadeia redução de tempo de recarga."
   ],
   "traits": [
     {
       "name": "Calor Perdurante",
       "icon": true,
-      "description": "Ao usar uma habilidade de descarga, uma quantia aleatória entre <b>50</b> e <b>120</b> pontos de carga da arma de Cobalt-B é restaurada."
+      "description": "Após Cobalt-B usar sua habilidade de descarga, restaura uma quantia aleatória de carga de arma entre <b>50</b> e <b>120</b> pontos."
     },
     {
       "name": "Centelhas",
       "icon": true,
-      "description": "Ao usar uma habilidade de descarga, uma quantia aleatória entre <b>90</b> e <b>180</b> pontos de carga da arma de Cobalt-B é restaurada."
+      "description": "Após Cobalt-B usar sua habilidade de descarga, restaura uma quantia aleatória de carga de arma entre <b>90</b> e <b>180</b> pontos."
     }
   ],
   "ascension": [

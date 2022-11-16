@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Augmente de 10%/12%/14%/16% les capacités de soin et les soins reçus."
+      "value": "Accroît de 10%/12%/14%/16% la capacité de soin et les soins reçus."
     },
     {
       "count": 4,
-      "value": "Lorsque vous ou les membres du groupe bénéficiez de soins, votre ATQ augmente de 12,5%/15%/17,5%/20% pendant 6 secondes. Si ce bonus est obtenu plusieurs fois, seul le niveau le plus élevé s'appliquera."
+      "value": "Lorsque vous ou les membres du groupe bénéficiez de soins, votre ATQ augmente de 12,5%/15%/17,5%/20% pendant 6 secondes. Si ce bonus est obtenu plusieurs fois, seul l'effet au niveau le plus élevé s'appliquera."
     }
   ],
   "mind": {

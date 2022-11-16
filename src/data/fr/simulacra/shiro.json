@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour envoyer 3 attaques tournoyantes à la suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>26.2%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>29.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>37.2%</b> de l'ATQ + <b>2</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour envoyer 3 attaques tournoyantes à la suite.\nPremière attaque : inflige des dégâts équivalant à <b>26.2%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>29.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>37.2%</b> de l'ATQ + <b>2</b>."
     },
     {
       "name": "Dispersion",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>427.5%</b> de l'ATQ + <b>23</b>."
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>427.5%</b> de l'ATQ + <b>23</b>."
     },
     {
       "name": "Lune décroissante",
@@ -63,7 +63,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale rapidement après l'esquive pour déclencher Lune décroissante.\nVous envoyez un chakram tournoyant vers l'avant et infligez des dégâts correspondant à <b>132.9%</b> de l'ATQ + <b>7</b> à la cible, ainsi qu'un effet <b>Étourdissement</b> pendant <b>0,5</b> seconde. Le chakram se divise alors en <b>3</b> chakrams, qui continuent à avancer et infligent des dégâts correspondant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage. <span class=\"text-red\">Les chakrams séparés rebondissent pendant Éclosion totale.</span>"
+      "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Lune décroissante.\nVous envoyez un chakram tournoyant vers l'avant et infligez des dégâts correspondant à <b>132.9%</b> de l'ATQ + <b>7</b> à la cible, ainsi qu'un effet <b>Étourdissement</b> pendant <b>0,5</b> seconde. Le chakram se divise alors en <b>3</b> chakrams, qui continuent à avancer et infligent des dégâts correspondant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage. <span class=\"text-red\">Les chakrams séparés rebondissent pendant Éclosion totale.</span>"
     },
     {
       "name": "Éclosion totale",
@@ -77,18 +77,18 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et lance Chakram des mers sur une cible. La cible touchée cause un <b>étourdissement</b> avec zone d'effet pendant <b>1</b> seconde, plus <b>1</b> attaque chacune sur jusqu'à <b>3</b> unités chaque seconde (chaque attaque a <b>10%</b> de chance d'<b>étourdir</b> la cible pendant <b>1,5</b> seconde), infligeant des dégâts équivalant à <b>41.4%</b> de l'ATQ + <b>2</b> pendant <b>10</b> secondes."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et lance Chakram des mers sur une cible. La cible touchée cause un <b>étourdissement</b> avec zone d'effet pendant <b>1</b> seconde, plus <b>1</b> attaque chacune sur jusqu'à <b>3</b> unités chaque seconde (chaque attaque a <b>10%</b> de chance d'<b>étourdir</b> la cible pendant <b>1,5</b> seconde), infligeant des dégâts équivalant à <b>41.4%</b> de l'ATQ + <b>2</b> pendant <b>10</b> secondes."
     }
   ],
   "weapon_type": {
     "name": "Blessure grave",
-    "description": "Les armes entièrement chargées infligent des dégâts correspondant à <b>137%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
+    "description": "Les armes entièrement chargées infligent des dégâts équivalant à <b>137%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
   },
   "advancement": [
     "Accroît de <b>30%</b> les dégâts et tous les effets de fracture élémentaire infligés aux cibles se trouvant dans le rayon d'action d'<span class=\"text-green\">Éclosion totale</span>.",
-    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Accroît de <b>15%</b> la capacité de fracture et réinitialise tous les temps de recharge des compétences d'arme lorsque le bouclier de la cible est fracturé. Peut uniquement être déclenché une fois toutes les <b>30</b> secondes.",
-    "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Accroît de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
     "Attaquer une cible gravement blessée prolonge la durée de la blessure de <b>7</b> secondes supplémentaires (ne prend effet qu'une fois pour le même effet).",
     "Après avoir utilisé <span class=\"text-green\">Éclosion totale</span>, confère une possibilité de dégât critique de 100% pendant les <b>8</b> prochaines secondes."
   ],

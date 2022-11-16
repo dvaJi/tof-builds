@@ -4,7 +4,7 @@
   "name": "Crow",
   "weapon": "Lames de tonnerre",
   "weapon_id": "thunderblades",
-  "birthday": "17 décembre (sagittaire)",
+  "birthday": "17 décembre (Sagittaire)",
   "birthplace": "Inconnu",
   "gender": "Masculin",
   "info": "Une personnalité vivante et joyeuse qui illumine toute pièce. Franc et extraverti, il est optimiste dans toute situation, mais il peut être un peu trop fier parfois.\nIl pratique souvent des tours époustouflants avec sa dague et il a un répertoire de blagues qu'il trouve hilarantes. Il aime raconter ces blagues comme s'il était sur scène.\nMais sous son attitude gaie et insouciante se cachent volonté et détermination. Il est motivé à atteindre ses objectifs, quels que soient les obstacles sur son chemin. Il repousse parfois un peu trop ses limites.",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 4 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>65.6%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>38.4%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>92%</b> de l'ATQ + <b>5</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>138%</b> de l'ATQ + <b>7</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>65.6%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>38.4%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>92%</b> de l'ATQ + <b>5</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>138%</b> de l'ATQ + <b>7</b>."
     },
     {
       "name": "Fente rapide",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez la commande quand une cible est sélectionnée), ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Frappe spirale.\nEn descendant, vous infligez des dégâts correspondant à <b>42%</b> de l'ATQ + <b>2</b> à chaque coup."
+      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Frappe spirale.\nEn descendant, vous infligez des dégâts équivalant à <b>42%</b> de l'ATQ + <b>2</b> à chaque coup."
     },
     {
       "name": "Attaque furtive",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis appuyez sur Attaque normale pour utiliser Attaque furtive et infliger des dégâts correspondant à <b>570%</b> de l'ATQ + <b>30</b>."
+      "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
       "name": "Lames volantes",
@@ -63,7 +63,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une flèche avant l'esquive) pour déclencher Lames volantes.\nVous entaillez une cible <b>5</b> fois, en infligeant à chaque fois des dégâts correspondant à <b>26.4%</b> de l'ATQ + <b>1</b>. Vous confère l'immunité aux effets de contrôle pendant la mise en place."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Lames volantes.\nVous entaillez une cible <b>5</b> fois, en infligeant à chaque fois des dégâts équivalant à <b>26.4%</b> de l'ATQ + <b>1</b>. Vous confère l'immunité contre les effets de contrôle pendant la mise en place."
     },
     {
       "name": "Lames boomerang",
@@ -77,7 +77,7 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge de l'arme</span> est à son maximum ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et téléporte la cible à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci et attaquer, infligeant un nombre de dégâts égal à <b>86.9%</b> de l'ATQ + <b>5</b> et électrocutant la cible (après <b>5</b> secondes, inflige des dégâts de foudre équivalant à <b>15%</b> des dégâts infligés, jusqu'à <b>350%</b> de l'ATQ de l'Explorateur. Ceci est un état particulier, qui ne peut être dissipé). Génère également 3 lames qui orbitent autour de l'Explorateur et infligent un nombre de dégâts égal à <b>65.2%</b> de l'ATQ + <b>3</b> à tous ceux qui entrent en contact."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et vous vous ruez à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci et attaquer, infligeant des dégâts équivalant à <b>86.9%</b> de l'ATQ + <b>5</b> et électrocutant la cible (après <b>5</b> secondes, inflige des dégâts de foudre équivalant à <b>15%</b> des dégâts infligés, jusqu'à <b>350%</b> de l'ATQ de l'Explorateur. Ceci est un état particulier, qui ne peut être dissipé). Génère également 3 lames qui orbitent autour de l'Explorateur et infligent des dégâts équivalant à <b>65.2%</b> de l'ATQ + <b>3</b> à tous ceux qui entrent en contact."
     }
   ],
   "weapon_type": {
@@ -85,11 +85,11 @@
     "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
   },
   "advancement": [
-    "Attaquer les cibles par-derrière accroît de <b>40%</b> le taux de critique de toutes les attaques de lames doubles. Attaquer une cible électrifiée par-derrière accroît de <b>100%</b> le taux de critique et de <b>30%</b> les dégâts critiques.",
-    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Attaquer les cibles par-derrière accroît de <b>40%</b> le taux de crit de toutes les attaques de lames doubles. Attaquer une cible électrifiée par-derrière accroît de <b>100%</b> le taux de crit et de <b>30%</b> les dégâts critiques.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Accroît de <b>30%</b> les dégâts aux cibles ayant moins de <b>60%</b> de PV.",
-    "Augmente de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
-    "Déclencher un coup dans le dos garantit 100% de coups critiques pendant les <b>4</b> prochaines secondes et accroît de <b>50%</b> les dégâts critiques. Temps de recharge : <b>10</b> secondes.",
+    "Accroît de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Déclencher un coup dans le dos confère 100% de chances de coup critique pendant les <b>4</b> prochaines secondes et accroît de <b>50%</b> les dégâts critiques. Temps de recharge : <b>10</b> secondes.",
     "Après avoir utilisé une compétence, accroît de <b>20%</b> les dégâts de foudre infligés à la cible pendant <b>20</b> secondes."
   ],
   "traits": [

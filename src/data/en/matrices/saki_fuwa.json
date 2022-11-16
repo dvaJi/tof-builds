@@ -1,0 +1,34 @@
+{
+  "_id": 30,
+  "id": "saki_fuwa",
+  "name": "Saki Fuwa",
+  "suitName": "Super Flow",
+  "hash": "SSR17",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "While Frost Resonance is activated: For every 3 seconds, deal damage equal to 60%/100%/150%/220% of frost ATK to enemies in a 10-meter radius and inflict the Frost effect. Frost effect: Slow the target by 3.5% for 5 seconds, and freeze the target for 3 seconds upon reaching 3 stacks, but unable to freeze the boss. Increase the frost damage the target received by 5%. Last for 18 seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Attack the target 10 times to inflict a 12-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by 11%/28%/31%/34%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Immersed",
+    "desc": "An immersive action."
+  },
+  "memory": {
+    "name": "Challenge",
+    "desc": "A challenging action."
+  },
+  "belief": {
+    "name": "Anxiety Reliever",
+    "desc": "An anxiety-relieving action."
+  },
+  "emotion": {
+    "name": "In Control",
+    "desc": "An action that feels like everything is under control."
+  }
+}

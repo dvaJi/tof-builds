@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Tippe in der Luft auf den normalen Angriff, um die Energie im Würfel zu aktivieren. Dies feuert bis zu <b>5</b> Raketen ab und verursacht einen Gesamtschaden in Höhe von <b>59.3%</b> des ANG + <b>3</b>. Verbraucht bis zu <b>250</b> Ausdauer.\n<b>Passiv: Wenn der Wanderer Würfel gespeichert hat, werden alle Würfel verbraucht, um Omnium-Raketen auf Ziele zu feuern und ihnen Schaden zuzufügen.</b>"
+      "description": "Setze in der Luft einen normalen Angriff ein, um die Energie im Würfel zu aktivieren. Dies feuert bis zu <b>5</b> Raketen ab und verursacht einen Gesamtschaden in Höhe von <b>59.3%</b> des ANG + <b>3</b>. Verbraucht bis zu <b>250</b> Ausdauer.\n<b>Passiv: Wenn der Wanderer Würfel gespeichert hat, werden alle Würfel verbraucht, um Omnium-Raketen auf Ziele zu feuern und ihnen Schaden zuzufügen.</b>"
     },
     {
       "name": "Energie-Überfluss",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, tippe auf normaler Angriff, um Energieüberfluss auszulösen.\nNach der Landung feuerst du eine Schockwelle ab, die sich nach vorne bewegt und an Zielen in ihrem Weg bis zu <b>23.4%</b> des ANG + <b>1</b> Schaden verursacht."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um Energie-Überfluss auszulösen.\nFeuert bei der Landung eine Schockwelle nach vorne ab, die Zielen in ihrem Weg Schaden in Höhe von <b>23.4%</b> des ANG + <b>1</b> zufügt."
     },
     {
       "name": "Omnium-Schock",
@@ -68,26 +68,26 @@
       "type": [
         "Dodge"
       ],
-      "description": "Durch Ausweichen direkt vor einem Treffer wird ein Trugbild ausgelöst. Dies verlangsamt Gegner in einem bestimmten Bereich und gewährt für <b>0,5</b> Sek. Immunität gegen Trefferlähmung.\nWenn der Wanderer weniger als <b>5</b> Würfel hat, besteht bei jedem erfolgreichen Ausweichen eine Chance von <b>40%</b>, 1 Ausweichen-Versuch wiederherzustellen.\nErfolgreiches Ausweichen unterbricht keine normalen Angriffskombos.\n<b>Passiv: Jedes erfolgreiche Ausweichen in der Luft gewährt einen Würfel.</b>"
+      "description": "Durch Ausweichen direkt vor einem Treffer wird „Trugbild“ ausgelöst. Dies verlangsamt die Gegner am Zielort und gewährt für <b>0,5</b> Sek. Immunität gegen Trefferlähmung.\nWenn der Wanderer weniger als <b>5</b> Würfel hat, besteht bei jedem erfolgreichen Ausweichen eine Chance von <b>40%</b>, 1 Ausweichaktion wiederherzustellen.\nErfolgreiches Ausweichen unterbricht keine normalen Angriffskombos.\n<b>Passiv: Jedes erfolgreiche Ausweichen in der Luft gewährt einen Würfel.</b>"
     },
     {
       "name": "Omnium-Schild",
       "type": [
         "Skill"
       ],
-      "description": "Erzeugt einen Schild für den Anwender und in der Nähe befindliche Verbündete. Dieser blockiert <b>10</b> Sek. lang Schaden in Höhe von bis zu <b>800%</b> des ANG und verursacht bei Zielen in der Nähe Schaden in Höhe von <b>124.9%</b> des ANG + <b>8</b> und <b>schleudert</b> sie weg. Jeder Würfel, den der Anwender bei Einsatz dieser Fähigkeit besitzt, fügt <b>160%</b> ANG hinzu, bis der maximale Schildeffekt erreicht und der Würfel ausgeschöpft ist. Abklingzeit: <b>60</b> Sek."
+      "description": "Erzeugt einen Schild für den Anwender und in der Nähe befindliche Verbündete. Dieser blockiert <b>10</b> Sek. lang Schaden in Höhe von bis zu <b>800%</b> des ANG, verursacht bei Zielen in der Nähe Schaden in Höhe von <b>124.9%</b> des ANG + <b>8</b> und <b>schießt sie stark</b> hoch. Jeder Würfel, den der Anwender bei Einsatz dieser Fähigkeit besitzt, fügt <b>160%</b> ANG hinzu, bis der maximale Schildeffekt erreicht und der Würfel ausgeschöpft ist. Abklingzeit: <b>60</b> Sek."
     },
     {
       "name": "Omnium-Welle",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und er erhält <b>5</b> Würfel, die anschließend mit einer Schockwelle losgelassen werden. Diese Schockwelle verursacht Schaden in Höhe von <b>171%</b> des ANG + <b>9</b> an Zielen in der Nähe und <b>schleudert</b> sie in die Luft. Jeder Würfel verursacht außerdem Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b>. Wenn Verbündete in der Nähe sind, erhalten sie für <b>3</b> Sek. Schadensimmunität."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden nach dem Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und er erhält <b>5</b> Würfel, die anschließend mit einer Schockwelle losgelassen werden. Diese Schockwelle verursacht Schaden in Höhe von <b>171%</b> des ANG + <b>9</b> an Zielen in der Nähe und <b>schießt sie stark</b> hoch. Jeder Würfel verursacht außerdem Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b>. Wenn Verbündete in der Nähe sind, erhalten die Verbündeten und der Anwender für <b>3</b> Sek. Schadensimmunität."
     }
   ],
   "weapon_type": {
     "name": "Flamme",
-    "description": "Voll geladene Waffen entzünden das Ziel beim nächsten Angriff für <b>8</b> Sekunden und verursachen kontinuierlich Schaden in Höhe von <b>{3}%</b> des ANG pro Sekunde. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde anhaltenden Schaden in Höhe von <b>58%</b> des ANG. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
   },
   "advancement": [
     "Verursacht Schaden und bringt eine Heilkugel hervor, die <b>20</b> Sek. anhält und LP in Höhe von <b>60%</b> des ANG des Teammitglieds wiederherstellt, das sie aufhebt. Abklingzeit: <b>2</b> Sek.",

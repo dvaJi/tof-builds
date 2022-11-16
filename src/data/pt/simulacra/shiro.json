@@ -26,12 +26,12 @@
       "description": "No chão, branda o chakram para executar 5 ataques giratórios.\nPrimeiro ataque: Causa dano de <b>30.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>23.8%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>34%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>30.7%</b> do ATQ + <b>2</b>.\nQuinto ataque: Causa dano de <b>53.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância."
     },
     {
-      "name": "Disparo Aéreo",
+      "name": "Detonação Aérea",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para executar 3 ataques giratórios seguidos.\nPrimeiro ataque: Causa dano de <b>26.2%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>29.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>37.2%</b> do ATQ + <b>2</b>."
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para executar 3 ataques giratórios seguidos.\nPrimeiro ataque: Causa dano de <b>26.2%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>29.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>37.2%</b> do ATQ + <b>2</b>."
     },
     {
       "name": "Chakrans Repulsores",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>427.5%</b> do ATQ + <b>23</b>."
+      "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>427.5%</b> do ATQ + <b>23</b>."
     },
     {
       "name": "Lua Minguante",
@@ -77,12 +77,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e arremessa o Chakram dos Mares contra um alvo ao trocar para esta arma. Alvos atingidos causam <b>atordoamento</b> em área durante <b>1</b> segundo, mais <b>1</b> ataque cada contra até <b>3</b> alvos por segundo (cada ataque tem <b>10%</b> de chance de <b>atordoar</b> o alvo durante <b>1,5</b> segundo), causando dano de <b>41.4%</b> do ATQ + <b>2</b> durante <b>10</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e arremessa o Chakram dos Mares contra um alvo ao trocar para esta arma. Alvos atingidos causam <b>atordoamento</b> em área durante <b>1</b> segundo, mais <b>1</b> ataque cada contra até <b>3</b> alvos por segundo (cada ataque tem <b>10%</b> de chance de <b>atordoar</b> o alvo durante <b>1,5</b> segundo), causando dano de <b>41.4%</b> do ATQ + <b>2</b> durante <b>10</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Lesão",
-    "description": "Armas com carga completa causarão dano de <b>137%</b> do ATQ com o ataque seguinte e infligirão lesão ao alvo durante <b>7</b> segundos, que então sofrerá <b>20%</b> a mais de dano."
+    "description": "Com carga completa, o ataque seguinte da arma causa dano de <b>137%</b> do ATQ e inflige lesão ao alvo durante <b>7</b> segundos, que então sofre <b>20%</b> a mais de dano."
   },
   "advancement": [
     "Aumenta em <b>30%</b> o dano causado e todos os efeitos de despedaçar elemental a alvos dentro do raio de <span class=\"text-green\">Extermínio</span>.",

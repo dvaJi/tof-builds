@@ -2,7 +2,7 @@
   "_id": 25,
   "id": "tsubasa",
   "name": "Tsubasa",
-  "suitName": "Ojo del viento",
+  "suitName": "Ojo del Viento",
   "hash": "SSR2",
   "rarity": "SSR",
   "bonus": [
@@ -12,23 +12,23 @@
     },
     {
       "count": 4,
-      "value": "Con un tiro en la cabeza o al usar Flecha Helada: Disparo Perforante, aumenta el ATQ en un 15%/18%/21%/25% durante 8 segundos."
+      "value": "Con un tiro en la cabeza o al golpear al objetivo con Flecha Helada: Disparo Perforante, aumenta el ATQ en un 15%/18%/21%/25% durante 8 segundos."
     }
   ],
   "mind": {
-    "name": "veleta",
+    "name": "Veleta",
     "desc": "\"El viento sopla\". Eso resume las razones por las que abandonar todo y empezar de nuevo."
   },
   "memory": {
-    "name": "gravitatoria",
+    "name": "Gravitatoria",
     "desc": "Siempre se mueve de un lado a otro y solo permanece en lugares que haya explorado cuidadosamente."
   },
   "belief": {
-    "name": "vagabunda",
+    "name": "Vagabunda",
     "desc": "¿Cómo saber cuál creencia es la indicada? Respuesta: la que al final emerge victoriosa."
   },
   "emotion": {
-    "name": "frialdad",
+    "name": "Frialdad",
     "desc": "Evalúa racionalmente sus relaciones."
   }
 }

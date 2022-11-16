@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Meningkatkan damage Whirlwind sebanyak 36%/45%/54%/63% dan memulihkan HP sebanyak 30%/38%/44%/50% damage yang ditimpakan saat Whirlwind aktif. Maksimum HP yang dipulihkan setiap 0,5 detik tidak boleh melebihi 60%/72%/81%/90% ATK."
+      "value": "Meningkatkan damage Whirlwind sebanyak 36%/45%/54%/63% dan memulihkan HP sebanyak 30%/38%/44%/50% damage yang ditimpakan saat Whirlwind aktif. Maksimum HP yang dipulihkan setiap 0,5 detik tak bisa melebihi 60%/72%/81%/90% ATK."
     }
   ],
   "mind": {

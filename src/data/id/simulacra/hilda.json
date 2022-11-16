@@ -19,49 +19,49 @@
   "charge": 10,
   "skills": [
     {
-      "name": "Normal Attack",
+      "name": "Serangan Biasa",
       "type": [
         "Attack"
       ],
-      "description": "Ketuk Normal Attack untuk memasuki mode membidik. Tahan Normal Attack untuk terus menembak, hingga <b>40</b> tembakan. Setiap tembakan menimpakan damage sebanyak <b>11.4%</b> ATK + <b>1</b>. Menimpakan Double Damage saat melakukan Headshot atau mengenai titik lemah musuh hingga memukul jatuh mereka (Headshot tidak efektif pada Wanderer)."
+      "description": "Tekan Serangan Biasa untuk memasuki mode bidik. Tahan Serangan Biasa untuk terus menembak, maks <b>40</b> tembakan. Setiap tembakan menimbulkan DMG sebesar <b>11.4%</b> ATK + <b>1</b>. Menimbulkan Double DMG saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (Headshot tidak efektif pada Wanderer)."
     },
     {
       "name": "Turret",
       "type": [
         "Skill"
       ],
-      "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan damage sebanyak <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental. Menjadi kebal terhadap Hitstun dan Control Effect saat memasang Turret. Cooldown <b>3.5</b> detik."
+      "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan damage sebesar <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental. Menjadi kebal terhadap Hitstun dan efek kontrol saat memasang Turret. Cooldown <b>3.5</b> detik."
     },
     {
       "name": "Arctic Beam",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebanyak <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebanyak <b>50%</b> selama <b>10</b> detik."
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebesar <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebanyak <b>50%</b> selama <b>10</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang <b>50%</b>."
   },
   "advancement": [
-    "Setiap Normal Attack yang berhasil akan meningkatkan damage sebanyak <b>1%</b> selama <b>2</b> detik (bisa ditumpuk maks <b>15</b> kali). Menambah jumlah amunisi menjadi <b>60</b>.",
+    "Setiap Serangan Biasa yang berhasil akan meningkatkan damage sebesar <b>1%</b> selama <b>2</b> detik. Bisa ditumpuk maks <b>15</b> kali. Menambah jumlah amunisi menjadi <b>60</b>.",
     "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>10%</b>.",
-    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Normal Attack dan Shatter sebanyak <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebanyak <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
     "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
-    "Mengurangi cooldown untuk Normal Attack selama dalam mode Turret sebanyak <b>2</b> detik.",
-    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Normal Attack dan Shatter sebanyak <b>60%</b>. Cooldown: <b>25</b> detik."
+    "Mengurangi cooldown untuk Serangan Biasa selama dalam mode Turret sebanyak <b>2</b> detik.",
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebanyak <b>60%</b>. Cooldown: <b>25</b> detik."
   ],
   "traits": [
     {
       "name": "Pedal to the Metal",
       "icon": true,
-      "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>7%</b>."
+      "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat <b>7%</b>."
     },
     {
       "name": "Full-speed Drifting",
       "icon": true,
-      "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat sebanyak <b>10%</b>."
+      "description": "Saat Hilda menggunakan kendaraan, kecepatan akan meningkat <b>10%</b>."
     }
   ],
   "ascension": [

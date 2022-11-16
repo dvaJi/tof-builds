@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Augmente de 10%/12,5%/15%/17,5% les dégâts contre les cibles sous l'effet d'une altération."
+      "value": "Augmente de 14%/16%/18%/20% les dégâts contre les cibles sous l'effet d'une altération."
     },
     {
       "count": 4,
-      "value": "Régénère 1 tentative d'esquive toutes les 3 esquives. Les esquives réussies appliquent Brûlure, infligeant des dégâts équivalant à 24%/30%/36%/42% de l'ATQ chaque seconde pendant 6 secondes."
+      "value": "Restaure 1 tentative d'esquive toutes les 3 esquives. Les compétences d'esquive réussies provoquent des brûlures, infligeant des dégâts équivalant à 24%/30%/36%/42% de l'ATQ chaque 0,5 seconde pendant 4 secondes."
     }
   ],
   "mind": {

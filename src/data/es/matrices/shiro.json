@@ -2,7 +2,7 @@
   "_id": 22,
   "id": "shiro",
   "name": "Shiro",
-  "suitName": "Poema de partida",
+  "suitName": "Poema de Partida",
   "hash": "SSR7",
   "rarity": "SSR",
   "bonus": [
@@ -16,15 +16,15 @@
     }
   ],
   "mind": {
-    "name": "aislada",
+    "name": "Aislada",
     "desc": "Desconfía de todo el mundo como un gato salvaje, aunque a veces se sienta junto a una piscina y juega con el agua, preguntándose por qué está sola."
   },
   "memory": {
-    "name": "nostalgia del mar",
+    "name": "Nostalgia del Mar",
     "desc": "Buena parte de la belleza del océano proviene del hecho de que nunca podrá comprenderse del todo."
   },
   "belief": {
-    "name": "gran cantante",
+    "name": "Gran Cantante",
     "desc": "La prueba de su increíble voz, gracias a un investigador que desafió a la muerte para grabarla."
   },
   "emotion": {

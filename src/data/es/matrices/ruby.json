@@ -7,14 +7,16 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Aumenta el ATQ de fuego tras lanzar la habilidad de arma en 8%/10%/12%/15% por 25 segundos. Se activa cuando entra en vigor una clasificación de estrellas diferente. Este efecto no se acumula."
     },
     {
-      "count": 4
+      "count": 4,
+      "value": "Otorga dominio después de lanzar la habilidad de arma por 15 segundos, con un enfriamiento de 15 segundos (el dominio comparte los enfriamientos entre niveles). El dominio no se acumula. Aumenta el daño de fuego en 2%/2.5%/3%/3.5% cada vez que el objetivo recibe un impacto con un ataque normal hasta el final del dominio. Se acumula hasta 6 veces, lo que añade un máximo de 1 acumulación cada 0.2 segundos. Con 6 acumulaciones, otorga un escudo que puede bloquear el daño una vez."
     }
   ],
   "mind": {
-    "name": "Aparición",
+    "name": "Por Atrás",
     "desc": "Los capullos delicados siempre están protegidos, pero también quieren ir al frente y estar a su lado, aun cuando deban ir de puntillas."
   },
   "memory": {
@@ -22,7 +24,7 @@
     "desc": "Borroso como el vapor... ¿acaso los eventos del pasado no son nada más que ilusiones en sueños?"
   },
   "belief": {
-    "name": "Seguimiento Cercano",
+    "name": "Seguimiento",
     "desc": "Tienes que ir al trote para poder seguirle el paso, pero si te retrasas, te estará esperando no muy lejos."
   },
   "emotion": {

@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Lorsqu'une cible est soignée, son ATQ de foudre augmente de 15%/18%/21%/25% pendant 20 secondes. Non cumulable, et seul celui dont le niveau est le plus élevé fonctionne si obtenu à plusieurs reprises."
+      "value": "When a target is being healed, their volt ATK is increased by 15%/18%/21%/25% for 20 seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly."
     },
     {
       "count": 4,
-      "value": "Lorsque vous vous soignez ou soignez votre Électrode, la cible des soins obtient une charge de \"Foudre\". La prochaine attaque dans un délai de 30 secondes est imprégnée de \"Foudre\", infligeant des dégâts de foudre correspondant à 300%/375%/450%/525% de l'ATQ de foudre (les dégâts causés par les Électrodes sont réduits de 50%). Ne peut être déclenché plus d'une fois en 10 secondes. Les charges de \"Foudre\" ne se cumulent pas. Seul le niveau le plus élevé est appliqué si obtenu à plusieurs reprises."
+      "value": "Lorsque vous vous soignez ou soignez votre Électrode, la cible des soins obtient une charge de l'effet Éclair. La prochaine attaque dans un délai de 30 secondes fera s'abattre un éclair sur la cible, lui infligeant des dégâts équivalant à 300%/375%/450%/525% de l'ATQ de foudre et réduisant de 50% les dégâts infligés par les Électrodes. Ne peut se déclencher qu'une fois toutes les 10 secondes. Les charges de l'effet Éclair ne se cumulent pas. Si ce bonus est obtenu plusieurs fois, seul l'effet au niveau le plus élevé s'appliquera."
     }
   ],
   "mind": {

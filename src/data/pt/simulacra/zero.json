@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, manipula o cubo para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>46.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>38.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>118.5%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>79.6%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>80.9%</b> do ATQ + <b>4</b> até 3 vezes e <b>lança</b> o alvo no ar.\n<b>Passiva: Se o ataque normal atingir alvos 6 vezes, ganha 1 cubo. É possível juntar até 5 cubos.</b>"
+      "description": "No chão, manipule o cubo para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>46.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>38.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>118.5%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>79.6%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>80.9%</b> do ATQ + <b>4</b> até 3 vezes e <b>lança</b> o alvo no ar.\n<b>Passiva: Se o ataque normal atingir alvos 6 vezes, ganha 1 cubo. É possível juntar até 5 cubos.</b>"
     },
     {
       "name": "Míssil de Omnium",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar, toque no botão de ataque normal para ativar a energia dentro do cubo e disparar até <b>5</b> mísseis. Causa dano total de <b>59.3%</b> do ATQ + <b>3</b>. Consome até <b>250</b> de vigor.\n<b>Passiva: Se você tiver juntado cubos, todos eles serão consumidos quando disparar Mísseis de Omnium em inimigos.</b>"
+      "description": "No ar, use o botão de ataque normal para ativar a energia dentro do cubo e disparar até <b>5</b> mísseis. Causa dano total de <b>59.3%</b> do ATQ + <b>3</b>. Consome até <b>250</b> de vigor.\n<b>Passiva: Se você tiver juntado cubos, todos eles serão consumidos quando disparar Mísseis de Omnium em inimigos.</b>"
     },
     {
       "name": "Sobrecarga Energética",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para usar Sobrecarga Energética.\nAo aterrissar, gera uma onda sísmica que percorre o caminho à frente e causa dano de até <b>23.4%</b> do ATQ + <b>1</b> aos alvos no caminho."
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para usar Sobrecarga Energética.\nAo aterrissar, gera uma onda sísmica que percorre o caminho à frente e causa dano de até <b>23.4%</b> do ATQ + <b>1</b> aos alvos no caminho."
     },
     {
       "name": "Choque de Omnium",
@@ -68,26 +68,26 @@
       "type": [
         "Dodge"
       ],
-      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro do alcance e dando imunidade a interrupção durante <b>0,5</b> segundo.\nSe o Errante tiver menos de <b>5</b> cubos, há <b>40%</b> de chance de recuperar 1 esquiva a cada esquiva bem-sucedida.\nEsquivas bem-sucedidas não interrompem combos de ataque normal.\n<b>Passivo: Ganha um cubo a cada esquiva bem-sucedida no ar.</b>"
+      "description": "Esquive-se logo antes de sofrer um golpe para desencadear Phantasia, que reduz a velocidade dos inimigos dentro da área e confere imunidade a interrupção durante <b>0,5</b> segundo.\nSe você tiver menos de <b>5</b> cubos, há <b>40%</b> de chance de recuperar 1 esquiva a cada esquiva bem-sucedida.\nEsquivas bem-sucedidas não interrompem combos de ataque normal.\n<b>Passiva: Ganha um cubo a cada esquiva bem-sucedida no ar.</b>"
     },
     {
       "name": "Escudo de Omnium",
       "type": [
         "Skill"
       ],
-      "description": "Cria um escudo para si mesmo e aliados próximos para bloquear até <b>800%</b> do ATQ de dano durante <b>10</b> segundos e causar dano de <b>124.9%</b> do ATQ + <b>8</b> a alvos próximos e os <b>lançar no ar</b>. Cada cubo que você tiver quando esta habilidade for usada adiciona <b>160%</b> do ATQ para maximizar o escudo e consumir todo o cubo. Tempo de recarga: <b>60</b> seg."
+      "description": "Cria um escudo para si mesmo e aliados próximos para bloquear dano de até <b>800%</b> do ATQ durante <b>10</b> segundos, causar dano de <b>124.9%</b> do ATQ + <b>8</b> a alvos próximos e os <b>lançar alto no ar</b>. Cada cubo que você tiver quando esta habilidade for usada adiciona <b>160%</b> do ATQ para maximizar o escudo e consumir todo o cubo. Tempo de recarga: <b>60</b> seg."
     },
     {
       "name": "Onda de Omnium",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e ganha <b>5</b> cubos ao trocar para esta arma; então, solta os <b>5</b> cubos com um Abalo Sísmico. Este Abalo Sísmico causa dano de <b>171%</b> do ATQ + <b>9</b> a alvos próximos, e os <b>lança no ar</b>. Cada cubo também causa dano de <b>48.5%</b> do ATQ + <b>3</b>. Se houver aliados por perto, eles ficam imunes a dano durante <b>3</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e ganha <b>5</b> cubos ao trocar para esta arma; então, solta os <b>5</b> cubos com um Abalo Sísmico. Esse Abalo Sísmico causa dano de <b>171%</b> do ATQ + <b>9</b> a alvos próximos e os <b>lança alto no ar</b>. Cada cubo também causa dano de <b>48.5%</b> do ATQ + <b>3</b>. Se houver aliados por perto, eles e você ficam imunes a dano durante <b>3</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Fogo",
-    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>{3}%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma ateia fogo no alvo, o que causa dano prolongado de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura recebida por alvos incendiados diminui <b>50%</b>."
   },
   "advancement": [
     "Causa dano e gera um orbe de cura que dura <b>20</b> segundos e restaura vida equivalente a <b>60%</b> do ATQ do colega de equipe que o pegar. Tempo de recarga: <b>2</b> seg.",

@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nLa première attaque inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b> et repousse légèrement la cible.\nLa deuxième attaque inflige des dégâts équivalant à <b>36.3%</b> de l'ATQ + <b>2</b> et repousse légèrement la cible.\nLa troisième attaque inflige des dégâts équivalant à <b>98.3%</b> de l'ATQ + <b>5</b> et repousse légèrement la cible.\nLa quatrième attaque inflige des dégâts équivalant à <b>67.3%</b> de l'ATQ + <b>4</b> et repousse légèrement la cible.\nLa cinquième attaque inflige des dégâts équivalant à <b>148.3%</b> de l'ATQ + <b>8</b> et renverse la cible."
+      "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nPremière attaque : inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>36.3%</b> de l'ATQ + <b>2</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>98.3%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>67.3%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nCinquième attaque : inflige des dégâts équivalant à <b>148.3%</b> de l'ATQ + <b>8</b> et renverse la cible."
     },
     {
       "name": "Décharge aérienne",
@@ -31,22 +31,22 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>62.5%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>62%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>3%</b> de l'ATQ + <b>120</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>6%</b> de l'ATQ + <b>71.2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>4%</b> de l'ATQ + <b>126</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>62.5%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>62%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>3%</b> de l'ATQ + <b>120</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>6%</b> de l'ATQ + <b>71.2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>4%</b> de l'ATQ + <b>126</b>."
     },
     {
-      "name": "Poursuite audacieuse",
+      "name": "Poursuite rapide",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Après la seconde attaque normale, maintenez Attaque normale pour déclencher Poursuite audacieuse.\nVous tirez un missile guidé par laser sur la cible, infligeant des dégâts jusqu'à <b>107.5%</b> de l'ATK + <b>6</b>."
+      "description": "Après la seconde attaque normale, maintenez Attaque normale pour déclencher Poursuite rapide.\nVous tirez un missile guidé par laser sur la cible, infligeant des dégâts jusqu'à <b>107.5%</b> de l'ATQ + <b>6</b>."
     },
     {
       "name": "Double concentration",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Maintenez Attaque normale pour charger un tir et libérer une boule électrifiée qui explose à l'impact, infligeant des dégâts équivalents à <b>118.4%</b> de l'ATK + <b>6</b> aux ennemis proches."
+      "description": "Maintenez Attaque normale pour charger un tir et libérer une boule électrifiée qui explose à l'impact, infligeant des dégâts équivalents à <b>118.4%</b> de l'ATQ + <b>6</b> aux ennemis proches."
     },
     {
       "name": "Concentration tournoyante",
@@ -54,7 +54,7 @@
         "Perfect Attack",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'attaque pour déclencher un champ magnétique ralentissant.\nVenus tire un orbe chargé qui se déplace sur une distance définie et explose au contact des cibles. Inflige des dégâts équivalents à <b>171.6%</b> de l'ATQ + <b>9</b>, et génère un champ magnétique ralentissant pendant <b>3</b> secondes qui réduit la vitesse de déplacement et d'attaque de tous les ennemis pris dedans de <b>35%</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite pour déclencher un champ magnétique ralentissant.\nVenus tire un orbe chargé qui se déplace sur une distance définie et explose au contact des cibles. Inflige des dégâts équivalant à <b>171.6%</b> de l'ATQ + <b>9</b>, et génère un champ magnétique ralentissant pendant <b>3</b> secondes qui réduit la vitesse de déplacement et d'attaque de tous les ennemis pris dedans de <b>35%</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> cumul de soin en chaîne amélioré qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
     },
     {
       "name": "Rayons parallèles",
@@ -62,7 +62,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'esquive (appuyez sur une touche directionnelle pendant l'esquive) pour déclencher Rayons parallèles.\nVenus tire deux rayons parallèles, infligeant des dégâts perforants équivalents à <b>171.6%</b> de l'ATQ + <b>9</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Rayons parallèles.\nVenus tire deux rayons parallèles, infligeant des dégâts perforants équivalents à <b>171.6%</b> de l'ATQ + <b>9</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ du Vagabond. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme annulera cet effet."
     },
     {
       "name": "Verrouillage d'impulsion",
@@ -76,7 +76,7 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d’arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et donne l'ordre à Venus de tirer un rayon en forme de croix au sol, créant une zone instable et réduisant la vitesse de déplacement des cibles de <b>70%</b> pendant <b>5</b> secondes. Après un court moment, libère une impulsion électromagnétique qui inflige des dégâts équivalant à <b>393.9%</b> de l'ATQ + <b>21</b>.\nUtiliser une attaque de décharge fera apparaitre <b>1</b> électrode à proximité de la position ennemie qui attaque toutes les <b>1,5</b> seconde, infligeant des dégâts équivalant à <b>39.9%</b> de l'ATQ + <b>2</b>.\nL'électrode gagne <b>100%</b> des stats de l'Explorateur, peut être attaquée ou soignée, et perd <b>3%</b> de ses PV max chaque seconde.\n <b>1</b> seule électrode peut être invoquée. Si une nouvelle électrode est invoquée, elle remplacera la précédente."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et donne l'ordre à Venus de tirer un rayon en forme de croix au sol, créant une zone instable et réduisant la vitesse de déplacement des cibles de <b>70%</b> pendant <b>5</b> secondes. Après un court moment, libère une impulsion électromagnétique qui inflige des dégâts équivalant à <b>393.9%</b> de l'ATQ + <b>21</b>.\nUtiliser une attaque de décharge fera apparaitre <b>1</b> électrode à proximité de la position ennemie qui attaque toutes les <b>1,5</b> seconde, infligeant des dégâts équivalant à <b>39.9%</b> de l'ATQ + <b>2</b>.\nL'électrode gagne <b>100%</b> des stats de l'Explorateur, peut être attaquée ou soignée, et perd <b>3%</b> de ses PV max chaque seconde.\n <b>1</b> seule électrode peut être invoquée. Si une nouvelle électrode est invoquée, elle remplacera la précédente."
     }
   ],
   "weapon_type": {
@@ -85,11 +85,11 @@
   },
   "weapon_resonance": {
     "name": "Résonance de foudre",
-    "description": "<b>Résonance de foudre</b> : augmente l'ATQ de foudre de <b>15%</b> et la résistance à la foudre de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de foudre. Les effets de ce kit ne se cumulent pas aux autres."
+    "description": "<b>Résonance de foudre</b> : accroît l'ATQ de foudre de <b>15%</b> et la résistance à la foudre de <b>25%</b>. S'active en équipant <b>2</b> ou plus d'armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne peut pas se cumuler avec les effets de même type."
   },
   "advancement": [
     "Après avoir utilisé <b>Verrouillage d'impulsion</b> ou <b>Tir de rayon à particules</b>, crée <b>1</b> Électrode qui confère immédiatement à l'utilisateur <b>5</b> cumuls de Soin en chaîne amélioré. Lance également un Soin en chaîne qui soigne les alliés à hauteur de <b>135%</b> de l'ATQ de l'Explorateur.",
-    "Augmente de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Toutes les <b>6</b> secondes, l'Électrode lance un <b>Cercle de foudre</b> qui inflige des dégâts équivalant au maximum à <b>205%</b> de l'ATQ dans la zone ciblée.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Après avoir utilisé <b>Verrouillage d'impulsion</b>, l'ATQ de l'Explorateur augmente de (<b>6,5</b> + (nombre d'Électrodes x<b>6,5</b>))% pendant <b>25</b> secondes.",

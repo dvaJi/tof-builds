@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, branda o montante para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>72.9%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>105.4%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>156%</b> do ATQ + <b>8</b>, <b>suspende muito</b> o alvo, depois o lança no ar ao aterrissar."
+      "description": "No chão, branda o montante para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>72.9%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>105.4%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>156%</b> do ATQ + <b>8</b>, <b>lança o alvo alto no ar</b>, depois lança-o no ar ao aterrissar."
     },
     {
       "name": "Golpe Aéreo",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>106.5%</b> do ATQ + <b>6</b>.\nSegundo ataque: Causa dano de <b>87.5%</b> do ATQ + <b>5</b>.\nTerceiro ataque: Causa dano de <b>156%</b> do ATQ + <b>8</b>.\nQuarto ataque: Causa dano de <b>140.5%</b> do ATQ + <b>7</b> e <b>derruba</b> o alvo, lança o alvo no ar ao aterrissar."
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>106.5%</b> do ATQ + <b>6</b>.\nSegundo ataque: Causa dano de <b>87.5%</b> do ATQ + <b>5</b>.\nTerceiro ataque: Causa dano de <b>156%</b> do ATQ + <b>8</b>.\nQuarto ataque: Causa dano de <b>140.5%</b> do ATQ + <b>7</b> e <b>derruba</b> o alvo, depois lança-o no ar ao aterrissar."
     },
     {
       "name": "Corte Ascendente",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+      "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Redemoinho",
@@ -85,19 +85,19 @@
       "type": [
         "Skill"
       ],
-      "description": "Brande a montante e lança auras de espada para frente. Cada uma causa dano de <b>141.7%</b> do ATQ + <b>7</b>; o dano causado aumenta <b>5%</b> a cada golpe. Enquanto estiver ativo, fica imune a efeitos incapacitantes. Tempo de recarga: <b>45</b> seg."
+      "description": "Brande a montante e lança auras de espada para frente. Cada uma causa dano de <b>141.7%</b> do ATQ + <b>7</b>; o dano causado aumenta <b>5%</b> a cada golpe. Enquanto estiver ativo, fica imune a efeitos de controle. Tempo de recarga: <b>45</b> seg."
     },
     {
       "name": "Barreira Gélida",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e golpeia o chão para formar uma barreira ao trocar para esta arma. Causa dano de <b>503.2%</b> do ATQ + <b>26</b> e suspende alvos. Isso reduz a velocidade deles em <b>50%</b> e os impede de se esquivarem e pular. A barreira dura <b>5</b> segundos e bloqueia projéteis."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e golpeia o chão para formar uma barreira ao trocar para esta arma. Causa dano de <b>503.2%</b> do ATQ + <b>26</b> e suspende alvos. Isso reduz a velocidade deles em <b>50%</b> e os impede de se esquivarem e pular. A barreira dura <b>5</b> segundos e bloqueia projéteis."
     }
   ],
   "weapon_type": {
     "name": "Casca de Gelo",
-    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma <b>congela</b> o alvo durante <b>2</b> segundos e causa geladura durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Durante a geladura, a velocidade de carga de arma do alvo diminui <b>50%</b>."
   },
   "advancement": [
     "Aumenta o despedaçar em <b>15%</b> e restaura <b>10%</b> da vida após despedaçar o escudo do alvo.",
@@ -105,18 +105,18 @@
     "Ganha um escudo de gelo de <b>10%</b> da vida máxima ao trocar para esta arma. Tempo de recarga: <b>20</b> seg. O escudo de gelo dura até <b>10</b> segundos.",
     "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
     "Aumenta o dano e o despedaçar em <b>50%</b> enquanto o escudo estiver ativo.",
-    "Ganha um escudo de gelo de <b>20%</b> da vida máxima e imunidade a efeitos incapacitantes enquanto o escudo durar ao trocar para esta arma. Tempo de recarga: <b>20</b> seg. O escudo de gelo dura até <b>10</b> segundos."
+    "Ganha um escudo de gelo de <b>20%</b> da vida máxima e imunidade a efeitos de controle enquanto o escudo durar ao trocar para esta arma. Tempo de recarga: <b>20</b> seg. O escudo de gelo dura até <b>10</b> segundos."
   ],
   "traits": [
     {
       "name": "Rosa Fria",
       "icon": true,
-      "description": "Reduz o dano gélido sofrido por Meryl em <b>20%</b>, ganha imunidade ao efeito queimadura de gelo e reduz a duração do congelamento sofrido em <b>50%</b>."
+      "description": "Reduz o dano gélido sofrido por Meryl em <b>20%</b>, ganha imunidade ao efeito geladura e reduz a duração do congelamento sofrido em <b>50%</b>."
     },
     {
       "name": "Congelado",
       "icon": true,
-      "description": "Reduz o dano gélido sofrido por Meryl em <b>25%</b>, ganha imunidade ao efeito queimadura de gelo e reduz a duração do congelamento sofrido em <b>50%</b>."
+      "description": "Reduz em <b>25%</b> o dano gélido causado em Meryl, ganha imunidade à geladura e reduz a duração do congelamento em <b>50%</b>. O ar em torno de Meryl esfria e congela a água ao seu redor."
     }
   ],
   "ascension": [

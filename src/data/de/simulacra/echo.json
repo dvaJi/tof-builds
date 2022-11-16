@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Während du in der Luft bist, tippe auf normaler Angriff, um 4 Mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>27.4%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>23.2%</b> des ANG + <b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>45.8%</b> des ANG + <b>2</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>110%</b> des ANG + <b>6</b>."
+      "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>27.4%</b> des ANG + <b>1</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>23.2%</b> des ANG + <b>1</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>45.8%</b> des ANG + <b>2</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>110%</b> des ANG + <b>6</b>."
     },
     {
       "name": "Kopfspalter",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Kopfspalter“ auszulösen.\nFügt beim Fallen Schaden in Höhe von <b>8%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b> und schlägst das Ziel nieder.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Kopfspalter“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>8%</b> des ANG + <b>1</b> pro Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b> und das Ziel wird zu Fall gebracht.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Speerhagel",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
     },
     {
       "name": "Fliegender Tritt",
@@ -119,7 +119,7 @@
       "cost": 250,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 1
       }
@@ -130,7 +130,7 @@
       "cost": 500,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 2
       }
@@ -141,7 +141,7 @@
       "cost": 750,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 2
       },
@@ -158,7 +158,7 @@
       "cost": 1000,
       "mat1": {
         "id": "magcore",
-        "name": "Magkern",
+        "name": "Blitzkern",
         "rarity": "N",
         "amount": 2
       },

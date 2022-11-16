@@ -2,7 +2,7 @@
   "_id": 6,
   "id": "crow",
   "name": "Cuervo",
-  "suitName": "Persecución fanática",
+  "suitName": "Persecución Fanática",
   "hash": "SSR11",
   "rarity": "SSR",
   "bonus": [
@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Los críticos infligen daño periódico adicional cada segundo equivalente al 12%/15%/18%/21% del ATQ por 5 segundos. El efecto no puede acumularse."
+      "value": "Los críticos infligen daño prolongado adicional cada segundo equivalente al 12%/15%/18%/21% del ATQ por 5 segundos. Este efecto no se acumula."
     }
   ],
   "mind": {
@@ -24,7 +24,7 @@
     "desc": "Pasado, pisado. El presente es lo que debes conquistar."
   },
   "belief": {
-    "name": "Sobrevivencia Extrema",
+    "name": "Supervivencia Extrema",
     "desc": "Nunca te rindas, aunque las posibilidades sean casi nulas."
   },
   "emotion": {

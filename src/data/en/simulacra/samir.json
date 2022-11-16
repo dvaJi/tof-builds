@@ -4,7 +4,7 @@
   "name": "Samir",
   "weapon": "Dual EM Stars",
   "weapon_id": "dual_em_stars",
-  "birthday": "20 May (Taurus)",
+  "birthday": "May 20 (Taurus)",
   "birthplace": "Hykros",
   "gender": "Female",
   "info": "Lazy and self-indulgent, Samir enjoys harmless jokes and pranks.\nWhile technically a Hykros Executor, and even though she possesses extraordinary strength, Samir's lazy and unreliable personality is an issue. Her habit of playing jokes on colleagues leaves everyone who works with her on edge, and her reputation is not wholly positive. Samir herself, however, doesn't seem to care.",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "While on the ground, tap normal attack to attack 5 times in a row.\nFirst Attack: Deal total damage equal to <b>47.1%</b> of ATK + <b>2</b>.\nSecond Attack: Deal total damage equal to <b>35.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal total damage equal to <b>119.7%</b> of ATK + <b>6</b>.\nFourth attack: Deal total damage equal to <b>113.1%</b> of ATK + <b>6</b>.\nFifth Attack: Deal total damage equal to <b>154%</b> of ATK + <b>8</b> and <b>launch</b> the target."
+      "description": "Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols.\nFirst Attack: Deal total damage equal to <b>47.1%</b> of ATK + <b>2</b>.\nSecond Attack: Deal total damage equal to <b>35.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal total damage equal to <b>119.7%</b> of ATK + <b>6</b>.\nFourth attack: Deal total damage equal to <b>113.1%</b> of ATK + <b>6</b>.\nFifth Attack: Deal total damage equal to <b>154%</b> of ATK + <b>8</b> and <b>launch</b> the target."
     },
     {
       "name": "Bullet Rain",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne, tap normal attack to fire continuously at the ground, dealing damage equal to <b>50.6%</b> of ATK + <b>3</b> damage, each hit consumes <b>150</b> endurance."
+      "description": "While airborne, use normal attack to fire continuously at the ground, dealing damage equal to <b>50.6%</b> of ATK + <b>3</b> damage, each hit consumes <b>150</b> endurance."
     },
     {
       "name": "Energy Burst",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to <b>70.5%</b> of ATK + <b>4</b>. Upon landing, deal damage equal to <b>98.7%</b> of ATK + <b>5</b> to nearby targets and <b>launch</b> them."
+      "description": "While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to <b>70.5%</b> of ATK + <b>4</b>. Upon landing, deal damage equal to <b>98.7%</b> of ATK + <b>5</b> to nearby targets and <b>strongly launch</b> them."
     },
     {
       "name": "Rising Lightning Kick",
@@ -130,7 +130,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 3
       }
@@ -147,7 +147,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 3
       },
@@ -170,7 +170,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 4
       },
@@ -193,7 +193,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 6
       },
@@ -216,7 +216,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 8
       },
@@ -239,7 +239,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 11
       },

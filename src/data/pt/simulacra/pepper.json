@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>32.5%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>23.5%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>25.5%</b> do ATQ + <b>1</b>.\nQuarto ataque: Causa dano de <b>45.6%</b> do ATQ + <b>2</b>.\nQuinto ataque: Causa dano de <b>47.7%</b> do ATQ + <b>3</b>."
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>32.5%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>23.5%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>25.5%</b> do ATQ + <b>1</b>.\nQuarto ataque: Causa dano de <b>45.6%</b> do ATQ + <b>2</b>.\nQuinto ataque: Causa dano de <b>47.7%</b> do ATQ + <b>3</b>."
     },
     {
       "name": "Lua Cadente",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\nAo aterrissar, causa dano a cada <b>0,2</b> segundo até um total de <b>57.2%</b> do ATQ + <b>3</b>."
+      "description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\nAo aterrissar, causa dano uma vez a cada <b>0,2</b> segundo, totalizando dano de <b>57.2%</b> do ATQ + <b>3</b>."
     },
     {
       "name": "Ataque Determinado",
@@ -55,7 +55,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Ondulação.\nCada onda de energia causa dano de <b>22.6%</b> do ATQ + <b>1</b> a alvos.\nRecupera <b>75</b> pontos de carga de arma ao usar."
+      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Ondulação.\nCada pulso energético causa dano de <b>22.6%</b> do ATQ + <b>1</b> a alvos.\nRecupera <b>75</b> pontos de carga de arma ao usar."
     },
     {
       "name": "Tesserato",
@@ -70,19 +70,19 @@
       "type": [
         "Skill"
       ],
-      "description": "Cria um escudo energético na posição do Errante. Cura inimigos dentro do escudo em <b>81.7%</b> do ATQ + <b>4</b> por segundo e reduz o dano sofrido por eles em <b>3%</b> durante <b>10</b> segundos. Tempo de recarga: <b>60</b> seg."
+      "description": "Cria um escudo energético na posição do Errante. Cura aliados dentro do escudo em <b>81.7%</b> do ATQ + <b>4</b> por segundo e reduz o dano sofrido por eles em <b>3%</b> durante <b>10</b> segundos. Tempo de recarga: <b>60</b> seg."
     },
     {
       "name": "Livramento",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>{2}%</b> do ATQ + <b>{3}</b> durante <b>7</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>79%</b> do ATQ + <b>4</b> durante <b>7</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Cura todos os colegas em um raio de <b>10</b> metros em <b>100%</b> do ATQ após usar uma habilidade de esquiva.",
@@ -90,7 +90,7 @@
     "Ataques normais também disparam dois mísseis. Cada um causa dano de <b>5%</b> do ATQ ao alvo e restaura <b>5</b> pontos de carga de arma.",
     "Aumenta o crescimento da vida mínima da arma atual em <b>20%</b>.",
     "Aumenta a velocidade de obtenção de carga de arma em <b>20%</b> (não conta para ataques de mísseis).",
-    "Quando uma habilidade anular efeitos incapacitantes do alvo, confere <b>60%</b> de redução de dano a todos os colegas dentro do raio."
+    "Quando uma habilidade anular efeitos de controle do alvo, confere <b>60%</b> de redução de dano a todos os colegas dentro do raio."
   ],
   "traits": [
     {

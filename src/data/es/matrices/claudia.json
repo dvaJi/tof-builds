@@ -2,33 +2,33 @@
   "_id": 4,
   "id": "claudia",
   "name": "Claudia",
-  "suitName": "Golpe multidireccional",
+  "suitName": "Golpe Multidireccional",
   "hash": "SSR6",
   "rarity": "SSR",
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta el daño en un 13%/17%/20%/23% cuando se golpea un objetivo en el aire o se inicia un ataque aéreo. Restablece el salto doble al golpear un objetivo en el aire."
+      "value": "Aumenta el daño un 13%/17%/20%/23% cuando impactas a un objetivo en el aire o inicias un ataque aéreo. Restablece el salto doble al impactar al objetivo en el aire."
     },
     {
       "count": 4,
-      "value": "Golpear a un enemigo con una habilidad reduce el enfriamiento de todas las habilidades de armas en 1.5/2/2.5/3 segundos y aumenta el daño de las habilidades de descarga en un 36%/45%/54%/63% durante 15 segundos."
+      "value": "Impactar a un enemigo con una habilidad reduce el enfriamiento de todas las habilidades de armas en 1.5/2/2.5/3 segundos y aumenta el daño de las habilidades de descarga un 58%/80%/103%/126% por 15 [@$segundo|segundos]."
     }
   ],
   "mind": {
-    "name": "análisis racional",
+    "name": "Análisis Racional",
     "desc": "Primero, aprende a aceptar las opiniones populares, luego haz tu propio juicio sobre el problema."
   },
   "memory": {
-    "name": "verdadero ser",
+    "name": "Verdadero Ser",
     "desc": "Sé fiel a ti misma para no estar atada al pasado y conquistar el futuro."
   },
   "belief": {
-    "name": "rectitud",
+    "name": "Rectitud",
     "desc": "Todos los esfuerzos por defender la justicia valdrán la pena."
   },
   "emotion": {
-    "name": "aura de determinación",
+    "name": "Aura de Determinación",
     "desc": "Llevar los valores a la acción y expandirlos en el proceso."
   }
 }

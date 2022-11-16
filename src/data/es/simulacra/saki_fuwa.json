@@ -1,0 +1,286 @@
+{
+  "_id": 20,
+  "id": "saki_fuwa",
+  "name": "Saki Fuwa",
+  "weapon": "Corriente del Corazón",
+  "weapon_id": "heartstream",
+  "birthday": "11 de octubre (Libra)",
+  "birthplace": "Fuerzas Especiales de las Fuerzas de Seguridad de Espejia",
+  "gender": "Femenino",
+  "info": "Bajo su aspecto inmaduro, esconde un corazón que contrasta rigurosamente con lo que muestra al exterior. En realidad, es como una \"miniadulta\" de pies a cabeza.\nSin embargo, en ocasiones su edad y apariencia salen a la superficie; cuando nadie la ve, a veces practica sus líneas en voz alta como si estuviera en medio de la batalla. Le encanta coleccionar miniaturas de los viejos tiempos como una verdadera entusiasta.",
+  "description": "Capitana de las Fuerzas Especiales de las Fuerzas de Seguridad de Espejia y usuaria de la disciplina \"Superflujo\". Le encanta el kendo tradicional y lleva un traje indicativo de su estilo de pelea. Es una de los pocos miembros de las Fuerzas de Seguridad sin modificaciones biónicas. Está a cargo de proteger Espejia.",
+  "like": "Figuras, manga",
+  "dislike": "Miembro de las Fuerzas de Seguridad, distraída e irritable",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Tank",
+  "resonance": "Defense",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Corriente de furia",
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, lanza 5 ataques de Corriente del Corazón.\nEl primer ataque inflige un <b>42.5%</b> del ATQ + <b>2</b> de daño al objetivo y lo hace retroceder un poco.\nEl segundo ataque inflige un <b>29.5%</b> de ATQ + <b>2</b> de daño al objetivo y lo hace retroceder un poco.\nEl tercer ataque inflige un <b>45%</b> de ATQ + <b>2</b> de daño al objetivo y lo hace retroceder un poco.\nEl cuarto ataque inflige un <b>70.6%</b> de ATQ + <b>4</b>de daño al objetivo y lo hace retroceder un poco.\nEl quinto ataque inflige un <b>102.6%</b> de ATQ + <b>5</b> de daño al objetivo y lo hacer volar."
+    },
+    {
+      "name": "División aérea",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>47.2%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>43.7%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>54.2%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>76.9%</b> del ATQ + <b>4</b>.\nQuinto ataque: inflige daño equivalente al <b>170.2%</b> del ATQ + <b>9</b>."
+    },
+    {
+      "name": "Flujo Emocionado: Vórtice",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "En el modo Flujo Emocionado, mantén pulsado el ataque normal para activar la habilidad.\nEmbiste hacia adelante con un torbellino multiataque que inflige un máximo del <b>199.5%</b> del ATQ + <b>11</b> de daño."
+    },
+    {
+      "name": "Caída helada",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal en el aire o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor con ataque normal para activar.\nEn el descenso, cada impacto inflige un daño equivalente al <b>30.4%</b> del ATQ + <b>2</b>. Al aterrizar, inflige daño equivalente al <b>76%</b> del ATQ + <b>4</b> a los objetivos cercanos."
+    },
+    {
+      "name": "Evasión",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Evade justo antes de que te impacten para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción por <b>0.5</b> segundos mientras evades."
+    },
+    {
+      "name": "Frente polar",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal un poco después de esquivar hacia adelante.\nCorre y gira para atacar al objetivo, lo que inflige daño equivalente al <b>277%</b> del ATQ + <b>15</b>."
+    },
+    {
+      "name": "Flujo Emocionado: Flujo Intermitente",
+      "type": [
+        "Skill"
+      ],
+      "description": "Corre hacia el objetivo e inmoviliza temporalmente a los enemigos en el camino, lo que inflige daño retardado equivalente al <b>445.3%</b> del ATQ + <b>23</b> como máximo. Enfriamiento: <b>30</b> segundos."
+    },
+    {
+      "name": "Flujo Silencioso: Flujo Concentrado",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Al usar las habilidades de Flujo Silencioso, entrarás en estado de carga hasta por <b>3</b> segundos, provocando a los objetivos circundantes y absorbiendo daño hasta un <b>60%</b> de PS Máx.. Al final del estado de carga, inflige un daño de hielo igual al <b>850%</b> x ATQ de ATQ de hielo + <b>50%</b> x daño absorbido a los objetivos, y <b>20%</b> del valor no consumido se convierte en recuperación de PS. Enfriamiento: <b>30</b> segundos.\n\nEntra en el modo Flujo silencioso cuando se activa la Resonancia de Fortaleza. <b>Flujo Emocionado: Flujo Intermitente</b> se reemplaza por <b>Flujo Silencioso: Flujo Concentrado</b>. Entra en el Flujo Emocionado cuando la Resonancia de Fortaleza no está activada.\nEl nómada puede obtener Sombra de Espada, que le sigue cuando utiliza las habilidades de Saki Fuwa. Sombra de Espada liberará Sobrecarga cuando el nómada utilice las habilidades de rama de Saki Fuwa o las habilidades de descarga, lo que infligirá un daño a distancia igual a <b>450%</b> x ATQ de hielo. Enfriamiento de Sobrecarga: <b>10</b> segundos.\nEn el estado de Flujo Emocionado: Sombra de Espada liberará Flujo cuando el nómada inflija daño con cualquier arma, lo que inflige un daño igual a  <b>125%</b> x ATQ de hielo en el primer objetivo golpeado y recupera PS igual al <b>57%</b> del daño. La recuperación máxima cada vez no supera el <b>100%</b> del ATQ. Enfriamiento: <b>0.8</b> segundos.\nEn el estado de Flujo Silencioso: Después de que Sombra de Espada libere Sobrecarga, el nómada obtiene <b>3</b> bloqueos por <b>10</b> segundos, y la capacidad máxima del bloqueo no supera <b>15%</b> del PS Máx.. Cada bloqueo exitoso inflige un daño de Contraataque igual al <b>450%</b> x ATQ de hielo al objetivo, y la rotura de Sobrecarga aumenta en <b>100%</b> con el efecto de provocación añadido."
+    }
+  ],
+  "weapon_type": {
+    "name": "Caparazón de hielo",
+    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga de arma del objetivo se reduce un <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Resonancia Helada",
+    "description": "<b>Resonancia Helada</b>: aumenta el ATQ de Hielo en un <b>15%</b> y la Resistencia al Hielo en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de hielo. El efecto de este set funciona en la ranura secundaria."
+  },
+  "advancement": [
+    "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <b>5</b> times weapon skills are used, and the damage of Flow and Counterattack is increased by <b>1</b> time for the next <b>25</b> [@$second|seconds].",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
+    "Flujo Emocionado: aumenta el daño de Sombra de Espada: Sobrecarga en un <b>900%</b> del ATQ de Hielo.\nFlujo Silencioso: el enfriamiento de Sombra de Espada: Sobrecarga es ahora <b>5</b> [@$segundo|segundos].",
+    "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
+    "Congela el tiempo y activa Phantasia cuando la Sobrecarga golpee a su objetivo. Comparte el enfriamiento con la Phantasia activada al esquivar.",
+    "Al golpear al objetivo con Sobrecarga, el daño de hielo aumenta en un <b>11%</b> por <b>15</b> [@$segundo|segundos].\nCuando se activa bloqueo con Sombra de Espada, reduce el daño de hielo que infligen los objetivos enemigos en un <b>25%</b> por <b>12</b> [@$segundo|segundos]."
+  ],
+  "traits": [
+    {
+      "name": "Estado de Fortaleza",
+      "description": "Cuando los PS estén por debajo del <b>70%</b>, aumenta la resistencia en un <b>40%</b>."
+    },
+    {
+      "name": "Espada de la Guardia",
+      "description": "Cuando los PS estén por debajo del <b>70%</b>, aumenta la resistencia en un <b>40%</b> con un <b>60%</b> adicional de aumento a la Resistencia al Hielo. En el estado de Flujo Silencioso: después de que la sombra espada libere Sobrecarga y bloquee un ataque, el compañero de grupo con el menor porcentaje de PS obtendrá 3 habilidades de bloqueo, sin incluirte, que durarán <b>10</b> segundos. El daño máximo de bloqueo no supera el <b>15%</b> de los PS Máx. del compañero de grupo."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "Núcleo de Hielo",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "Corazón de Invierno",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "Armazón Reforzado II",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

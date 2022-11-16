@@ -9,7 +9,7 @@
   "gender": "Female",
   "info": "A clumsy girl who is full of vigor and likes to wear her mind on her sleeve.\nSince she was rescued by a passing merchant, she wants to pay it forward by doing good deeds while traveling.\nShe hates evil, and equates good deeds with eliminating evil. Being young and inexperienced, she often judges someone based on questionable standards.",
   "description": "Echo was born in Warren, and dreamed about stepping out of the land of the pure snow to see the rest of the world.\nWhen she was nine, her shelter was destroyed by a sudden avalanche, during which her parents died saving her. She was then rescued by a passing merchant, and sent to a recovery facility in Banges.\nAfter five years in Banges, she decided to go on a journey to punish evil and spread good.",
-  "like": "Granny Eileen, eating fish",
+  "like": "Granny Eileen, fish",
   "dislike": "Driving vehicles",
   "element": "Volt",
   "rarity": "SR",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne, tap normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.4%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>23.2%</b> of ATK + <b>1</b>.\nThird Attack: Deal damage equal to <b>45.8%</b> of ATK + <b>2</b>.\nFourth Attack: Deal damage equal to <b>110%</b> of ATK + <b>6</b>."
+      "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.4%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>23.2%</b> of ATK + <b>1</b>.\nThird Attack: Deal damage equal to <b>45.8%</b> of ATK + <b>2</b>.\nFourth Attack: Deal damage equal to <b>110%</b> of ATK + <b>6</b>."
     },
     {
       "name": "Crashing Drive",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Crashing Drive.\nWhile falling, deal damage equal to <b>8%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>48.5%</b> of ATK + <b>3</b> and knock the target down.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Crashing Drive.\nWhile falling, deal damage equal to <b>8%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>48.5%</b> of ATK + <b>3</b> and knock the target down.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Spear Flurry",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
     },
     {
       "name": "Flying Kick",
@@ -109,7 +109,7 @@
     {
       "name": "Determination",
       "icon": true,
-      "description": "When teamed up with Echo, allies  within <b>10</b> meters around Echo gain a damage boost of <b>6%</b> (excluding Echo)."
+      "description": "When teamed up with Echo, allies within <b>10</b> meters around Echo gain a damage boost of <b>6%</b> (excluding Echo)."
     }
   ],
   "ascension": [
@@ -147,7 +147,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 2
       }
@@ -164,7 +164,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 2
       },

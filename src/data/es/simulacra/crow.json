@@ -19,65 +19,65 @@
   "charge": 8,
   "skills": [
     {
-      "name": "Cuchillas gemelas",
+      "name": "Cuchillas Gemelas",
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, blande las cuchillas dobles para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>73%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>90.9%</b> del ATQ + <b>5</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>96.8%</b> del ATQ + <b>5</b> y hace retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>202.2%</b> del ATQ + <b>11</b> y hace retroceder un poco al objetivo."
+      "description": "En el suelo, blande las cuchillas dobles para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>73%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>90.9%</b> del ATQ + <b>5</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>96.8%</b> del ATQ + <b>5</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>202.2%</b> del ATQ + <b>11</b> y hacer retroceder un poco al objetivo."
     },
     {
-      "name": "Ráfaga de aire",
+      "name": "Ráfaga de Aire",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>38.4%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>92%</b> del ATQ + <b>5</b>.\nCuarto ataque: inflige daño equivalente al <b>138%</b> del ATQ + <b>7</b>."
+      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>38.4%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>92%</b> del ATQ + <b>5</b>.\nCuarto ataque: inflige daño equivalente al <b>138%</b> del ATQ + <b>7</b>."
     },
     {
-      "name": "Embestida rápida",
+      "name": "Embestida Rápida",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Embestida Rápida.\nAl impactar <b>suspende fuertemente</b> al objetivo e inflige daño total equivalente al <b>116.8%</b> del ATQ + <b>6</b>."
+      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Embestida Rápida.\nAl impactar <b>suspensión fuerte</b> al objetivo e inflige daño total equivalente al <b>116.8%</b> del ATQ + <b>6</b>."
     },
     {
-      "name": "Impulso en espiral",
+      "name": "Impulso en Espiral",
       "type": [
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o pulsa el ataque normal al trepar, saltar hacia atrás o usar el Propulsor para activar Impulso en espiral.\nEn el descenso, cada golpe inflige daño equivalente al <b>42%</b> del ATQ + <b>2</b>."
+      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Impulso en Espiral.\nEn el descenso, cada impacto inflige daño equivalente al <b>42%</b> del ATQ + <b>2</b>."
     },
     {
-      "name": "Ataque sorpresa",
+      "name": "Ataque Sorpresa",
       "type": [
         "Croch",
         "Attack"
       ],
-      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+      "description": "Acércate al enemigo por detrás mientras te agachas; luego, usa el ataque normal para activar el Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
-      "name": "Cuchillas voladoras",
+      "name": "Cuchillas Voladoras",
       "type": [
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Cuchillas voladoras.\nCorta un objetivo <b>5</b> veces, cada una de las cuales inflige daño equivalente al <b>26.4%</b> del ATQ + <b>1</b>. Otorga inmunidad a los efectos de control durante la fase."
+      "description": "Pulsa el ataque normal durante la corta oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Cuchillas Voladoras.\nCorta un objetivo <b>5</b> veces, cada una de las cuales inflige daño equivalente al <b>26.4%</b> del ATQ + <b>1</b>. Otorga inmunidad a los efectos de control durante la fase."
     },
     {
-      "name": "Cuchillas bumerán",
+      "name": "Cuchillas Bumerán",
       "type": [
         "Skill"
       ],
       "description": "Lanza <b>6</b> Cuchillas bumerán, y cada una inflige daño equivalente al <b>52.8%</b> del ATQ + <b>3</b>. Obtiene <b>hipercuerpo</b> por hasta <b>8</b> segundos, y el efecto se elimina cuando regresan las cuchillas. <b>45</b> segundos de enfriamiento."
     },
     {
-      "name": "Cuchillas de órbita",
+      "name": "Cuchillas de Órbita",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Fantasía</span>, <b>remueve todas las desventajas del portador</b> y te trasladas a la ubicación objetivo tras cambiar a esta arma y atacar, lo que inflige daño equivalente al <b>86.9%</b> del ATQ + <b>5</b> y electrocuta al objetivo (luego de <b>5</b> segundos, inflige daño eléctrico equivalente al <b>15%</b> del daño infligido, hasta un <b>350%</b> del ATQ del nómada. Este es un estado anormal que puede eliminarse). También genera 3 cuchillas que orbitan alrededor del nómada y que infligen daño equivalente al <b>65.2%</b> del ATQ + <b>3</b> a quienes las tocan."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y corres a la ubicación objetivo tras cambiar a esta arma y atacar, lo que inflige daño equivalente al <b>86.9%</b> del ATQ + <b>5</b> y electrocuta al objetivo (luego de <b>5</b> segundos, inflige daño eléctrico equivalente al <b>15%</b> del daño infligido, hasta un <b>350%</b> del ATQ del Nómada. Este es un estado anormal que puede eliminarse). También genera 3 cuchillas que orbitan alrededor del nómada y que infligen daño equivalente al <b>65.2%</b> del ATQ + <b>3</b> a quienes las tocan."
     }
   ],
   "weapon_type": {
@@ -86,10 +86,10 @@
   },
   "advancement": [
     "Atacar objetivos por la espalda aumenta la tasa crítica de cualquier ataque de cuchillas dobles en un <b>40%</b>. La puñalada a un objetivo electrificado aumenta la tasa crítica en un <b>100%</b> y el daño crítico en un <b>30%</b>.",
-    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
     "Aumenta el daño en un <b>30%</b> a los objetivos que tengan menos del <b>60%</b> de sus PS.",
-    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
-    "Activar un Ataque por la espalda otorga una probabilidad de crítico de 100% durante los próximos <b>4</b> segundos y aumenta el daño crítico en un <b>50%</b>. Enfriamiento: <b>10</b> segundos.",
+    "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
+    "Activar un Ataque por la Espalda otorga una probabilidad de crítico de 100% durante los próximos <b>4</b> segundos y aumenta el daño crítico en un <b>50%</b>. Enfriamiento: <b>10</b> segundos.",
     "Al usar una habilidad, aumenta el daño eléctrico infligido al objetivo en un <b>20%</b> durante <b>20</b> segundos."
   ],
   "traits": [
@@ -111,7 +111,7 @@
       "cost": 400,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       }
@@ -122,7 +122,7 @@
       "cost": 800,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       }
@@ -133,7 +133,7 @@
       "cost": 1200,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 3
       },
@@ -150,7 +150,7 @@
       "cost": 1600,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 3
       },
@@ -162,7 +162,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 3
       }
@@ -173,7 +173,7 @@
       "cost": 2000,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 4
       },
@@ -185,7 +185,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 4
       }
@@ -196,7 +196,7 @@
       "cost": 2400,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 6
       },
@@ -208,7 +208,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 6
       }
@@ -219,7 +219,7 @@
       "cost": 2800,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 8
       },
@@ -231,7 +231,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 8
       }
@@ -242,7 +242,7 @@
       "cost": 3200,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 11
       },
@@ -254,7 +254,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 11
       }
@@ -265,7 +265,7 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_lightning",
-        "name": "Corazón de rayo",
+        "name": "Corazón de Rayo",
         "rarity": "R",
         "amount": 5
       },
@@ -277,7 +277,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de nanofibras II",
+        "name": "Armazón de Nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

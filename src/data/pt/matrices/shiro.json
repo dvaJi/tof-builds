@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Ganha 20%/25%/30%/35% de reforço de dano durante 35 segundos ao entrar na batalha. É redefinido 5 segundos após sair da batalha."
+      "value": "Ao entrar em batalha, confere 20%/25%/30%/35% de reforço de dano durante 35 segundos. É redefinido 5 segundos após sair da batalha."
     }
   ],
   "mind": {

@@ -1,8 +1,8 @@
 {
-  "_id": 15,
+  "_id": 14,
   "id": "limited_tata_figurine",
   "name": "Figura limitada de Tata",
-  "description": "Una figura coleccionable de edición limitada, un recuerdo de los cómics de Aida. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
+  "description": "Una figura coleccionable de edición limitada, un recuerdo de los cómic de Aida. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "SR",
   "value": 60,
   "favorite": [

@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne or after jumping once, tap normal attack to unleash 3 spinning attacks in a row.\nFirst Attack: Deal damage equal to <b>26.2%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>29.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>37.2%</b> of ATK + <b>2</b>."
+      "description": "While airborne or after jumping once, use normal attack to unleash 3 spinning attacks in a row.\nFirst Attack: Deal damage equal to <b>26.2%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>29.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>37.2%</b> of ATK + <b>2</b>."
     },
     {
       "name": "Scatter",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK + <b>23</b>."
+      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK + <b>23</b>."
     },
     {
       "name": "Waning Moon",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Fully charged weapons will inflict damage equal to <b>137%</b> of ATK with the next attack, and make the target grievous for <b>7</b> seconds, taking <b>20%</b> extra damage."
+    "description": "When the weapon is fully charged, the next attack will inflict damage equal to <b>137%</b> of ATK, and make the target grievous for <b>7</b> seconds, taking <b>20%</b> extra damage."
   },
   "advancement": [
     "Increase damage dealt to and all elemental shattering effects on targets within <span class=\"text-green\">Full Bloom</span>'s range by <b>30%</b>.",
@@ -139,7 +139,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       }
@@ -156,7 +156,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       },
@@ -179,7 +179,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 4
       },
@@ -202,7 +202,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 6
       },
@@ -225,7 +225,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 8
       },
@@ -248,7 +248,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 11
       },

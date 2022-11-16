@@ -1,0 +1,34 @@
+{
+  "_id": 30,
+  "id": "saki_fuwa",
+  "name": "Saki Fuwa",
+  "suitName": "Superflow",
+  "hash": "SSR17",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Enquanto ressonância gélida estiver ativa: A cada 3 segundos, causa dano de 60%/100%/150%/220% do ATQ gélido a inimigos em um raio de 10 metros e inflige o efeito gélido. Efeito gélido: Desacelera o alvo em 3.5% durante 5 segundos e congela-o durante 3 segundos ao atingir 3 acúmulos. Não é possível congelar chefes. Aumenta o dano gélido sofrido pelo alvo em 5%. Dura 18 segundos. O efeito desta Matriz também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
+    },
+    {
+      "count": 4,
+      "value": "Ataque o alvo 10 vezes para infligir uma marca de instagelo de 12 segundos. Instagelo: Aumenta em 11%/28%/31%/34% o dano gélido causado ao alvo marcado. O efeito desta Matriz também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
+    }
+  ],
+  "mind": {
+    "name": "Imersa",
+    "desc": "Uma ação imersiva."
+  },
+  "memory": {
+    "name": "Desafio",
+    "desc": "Uma ação desafiadora."
+  },
+  "belief": {
+    "name": "Tranquilizante",
+    "desc": "Uma ação tranquilizante."
+  },
+  "emotion": {
+    "name": "No Controle",
+    "desc": "Uma ação que dá a sensação de que está tudo sob controle."
+  }
+}

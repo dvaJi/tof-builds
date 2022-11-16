@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Reduz em 10%/12%/13%/15% o ATQ de todos os alvos em um raio de 8 metros que estiverem sofrendo dano prolongado. Somente o nível mais alto é aplicado quando o efeito é obtido repetidamente."
+      "value": "Reduz em 10%/12%/13%/15% o ATQ de todos os alvos em um raio de 8 metros que estiverem sofrendo dano prolongado. Somente o efeito de nível mais alto é aplicado quando obtido repetidamente."
     }
   ],
   "mind": {
@@ -25,7 +25,7 @@
   },
   "belief": {
     "name": "Vá com Calma",
-    "desc": "Sofre de amnésia, assim como você, e sempre tenta resolver os problemas logo."
+    "desc": "Sofre de amnésia, assim como você. Sempre tenta resolver os problemas logo."
   },
   "emotion": {
     "name": "Inocente",

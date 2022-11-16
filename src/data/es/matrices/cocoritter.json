@@ -2,7 +2,7 @@
   "_id": 5,
   "id": "cocoritter",
   "name": "Cocoritter",
-  "suitName": "Prueba de confianza",
+  "suitName": "Prueba de Confianza",
   "hash": "SSR3",
   "rarity": "SSR",
   "bonus": [
@@ -12,23 +12,23 @@
     },
     {
       "count": 4,
-      "value": "Cuando tú o tus compañeros de grupo se curan, aumenta el ATQ en un 12.5%/15%/17.5%/20% por 6 segundos. Solo se aplica el mayor nivel cuando se obtiene el mismo efecto repetidas veces."
+      "value": "Cuando tus compañeros o tú se curan, aumenta el ATQ un 12.5%/15%/17.5%/20% por 6 segundos. Solo se aplica el efecto del nivel más alto cuando se obtiene repetidamente."
     }
   ],
   "mind": {
-    "name": "instinto artístico",
+    "name": "Instinto Artístico",
     "desc": "El pensamiento detrás de la creación artística también puede aplicarse en el campo de batalla."
   },
   "memory": {
-    "name": "superposición de identidad",
+    "name": "Superposición de Identidad",
     "desc": "Su silueta se superpone con la del protector que recuerda."
   },
   "belief": {
-    "name": "cuidadora",
+    "name": "Cuidadora",
     "desc": "Lo que busca es simple: calmar tu dolor."
   },
   "emotion": {
-    "name": "asistente",
+    "name": "Asistente",
     "desc": "Confía en mí y déjame apoyarte."
   }
 }

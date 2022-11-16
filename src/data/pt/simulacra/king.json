@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, branda a gadanha para executar 5 ataques seguidos.\nPrimeiro ataque: Causa dano de <b>57.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>49.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>106.8%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>109.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>104.2%</b> do ATQ + <b>5</b>, <b>suspende muito</b> o alvo e suspende a si mesmo."
+      "description": "No chão, branda a gadanha para executar 5 ataques consecutivos.\nPrimeiro ataque: Causa dano de <b>57.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>49.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>106.8%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>109.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>104.2%</b> do ATQ + <b>5</b>, <b>suspende muito</b> o alvo e suspende a si mesmo."
     },
     {
       "name": "Gadanha Ascendente",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Gadanha Cadente.\nEnquanto cai, causa dano de <b>12.5%</b> do ATQ + <b>1</b> a cada golpe. Ao aterrissar, causa dano de <b>71.9%</b> do ATQ + <b>4</b> e <b>derruba</b> os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou use com um alvo selecionado), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Gadanha Cadente.\nEnquanto cai, causa dano de <b>12.5%</b> do ATQ + <b>1</b> a cada golpe. Ao aterrissar, causa dano de <b>71.9%</b> do ATQ + <b>4</b> e <b>derruba</b> os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Duas em Uma",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+      "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Duas em Uma",
@@ -85,12 +85,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e cria uma Gadanha Ígnea ao trocar para esta arma. Causa dano de <b>398.3%</b> do ATQ + <b>21</b> e dura por <b>10</b> segundos. Além disso, gera a Área da Gadanha Ígnea a cada <b>2</b> segundos. As gadanhas provocam erupções vulcânicas no chão, que causam dano de <b>66%</b> do ATQ + <b>3</b> a alvos e os suspende."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e cria uma Gadanha Ígnea ao trocar para esta arma. Causa dano de <b>398.3%</b> do ATQ + <b>21</b> e dura por <b>10</b> segundos. Além disso, gera a Área da Gadanha Ígnea a cada <b>2</b> segundos. As gadanhas provocam erupções vulcânicas no chão, que causam dano de <b>66%</b> do ATQ + <b>3</b> a alvos e os suspende."
     }
   ],
   "weapon_type": {
     "name": "Fogo",
-    "description": "Armas com carga completa botarão fogo no alvo durante <b>8</b> segundos com o ataque seguinte, que causa dano contínuo de <b>{3}%</b> do ATQ por segundo. A cura recebida por alvos com queimadura diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma ateia fogo no alvo, o que causa dano prolongado de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura recebida por alvos incendiados diminui <b>50%</b>."
   },
   "advancement": [
     "Aumenta o despedaçar em <b>15%</b>. Após despedaçar o escudo de um alvo, causa dano de queimadura de <b>120%</b> do ATQ por segundo a ele durante <b>15</b> segundos.",
@@ -98,7 +98,7 @@
     "Por cada inimigo em um raio de <b>6</b> metros, aumenta o dano causado em <b>10%</b>, até <b>30%</b>.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
     "Aumenta em <b>100%</b> o dano causado a escudos de vida ou inimigos com escudo.",
-    "Durante <b>30</b> segundos, aumenta o dano causado em <b>10%</b> por cada inimigo abatido (acumula até <b>3</b> vezes)."
+    "Aumenta o dano causado em <b>10%</b> durante <b>30</b> segundos por cada inimigo abatido. Acumula até <b>3</b> vezes."
   ],
   "traits": [
     {

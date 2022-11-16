@@ -9,7 +9,7 @@
   "gender": "Feminino",
   "info": "Uma garota desastrada e cheia de energia que gosta de expressar suas emoções e pensamentos.\nDesde que foi resgatada por um comerciante, ela deseja retribuir fazendo o bem durante suas viagens.\nEla odeia o mal e considera que eliminá-lo é uma boa ação. Sendo jovem e inexperiente, ela frequentemente julga as pessoas com base em padrões questionáveis.",
   "description": "Echo nasceu em Warren e sempre sonhou em sair da terra da neve pura para ver o resto do mundo.\nQuando tinha nove anos de idade, o abrigo onde vivia foi destruído por uma avalanche repentina, durante a qual os seus pais morreram tentando salvá-la. Então, ela foi resgatada por um comerciante que passava por ali, que a enviou para uma instalação de recuperação em Banges.\nApós cinco anos em Banges, ela decidiu sair em uma jornada para punir o mal e espalhar o bem.",
-  "like": "Vovó Eileen, comer peixe",
+  "like": "Vovó Eileen, peixe",
   "dislike": "Dirigir veículos",
   "element": "Volt",
   "rarity": "SR",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Enquanto está no solo, brande a lança longa em 5 ataques seguidos.\nPrimeiro ataque: causa dano igual a <b>24.7%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>22.6%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>47.2%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>65.2%</b> do ATQ + <b>3</b>, que repele o alvo, repelindo-o uma curta distância.\n Quinto ataque: causa dano de <b>114.95%</b> do ATQ + <b>6</b> e repele o alvo uma distância significativa."
+      "description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>24.7%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>22.6%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>47.2%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>65.2%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>114.95%</b> do ATQ + <b>6</b> e repele o alvo uma distância significativa."
     },
     {
       "name": "Ataque Suspenso",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.4%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>23.2%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>45.8%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>110%</b> do ATQ + <b>6</b>."
+      "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.4%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>23.2%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>45.8%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>110%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Mergulho Esmagador",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Esmagador.\nEnquanto cai, cada golpe causa dano de <b>8%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>48.5%</b> do ATQ + <b>3</b> e derruba os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou use com um alvo selecionado), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Esmagador.\nEnquanto cai, cada golpe causa dano de <b>8%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>48.5%</b> do ATQ + <b>3</b> e derruba os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Floreio Arremessante",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+      "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Chute Desorientador",
@@ -85,12 +85,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, que pula no ar e arremessa uma lança relampejante que explode. Causa dano em área de <b>296.7%</b> do ATQ + <b>16</b> e <b>paralisa</b> o alvo durante <b>1</b> segundo."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, que pula no ar e arremessa uma lança relampejante que explode. Causa dano em área de <b>296.7%</b> do ATQ + <b>16</b> e <b>paralisa</b> o alvo durante <b>1</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Aumenta o despedaçar em <b>15%</b>. Após despedaçar o escudo do alvo, aumenta o ATQ de todos os colegas de equipe em <b>15%</b> durante <b>30</b> segundos. Não acumula.",
@@ -98,7 +98,7 @@
     "Após atingir um alvo com <span class=\"text-green\">Combate nas Alturas</span>, reduz o ATQ dele em <b>5%</b> e aumenta o seu ATQ em <b>5%</b> durante <b>15</b> segundos (acumula até <b>3</b> por atingir vários alvos). O efeito é dobrado contra alvos com lesão.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>20%</b>.",
     "Dobra a duração do atordoamento de habilidades de esquiva.",
-    "Quanto maior a distância percorrida pela descarga da habilidade, maior o dano que ela causa (até <b>100%</b> a mais de dano)."
+    "Quanto maior a distância percorrida pela habilidade de descarga, maior o dano que ela causa (até <b>100%</b> a mais de dano)."
   ],
   "traits": [
     {

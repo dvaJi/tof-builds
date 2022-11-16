@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nLa première attaque inflige des dégâts équivalant à <b>62.1%</b> de l'ATQ + <b>3</b> et repousse légèrement la cible.\nLa deuxième attaque inflige des dégâts équivalant à <b>46.2%</b> de l'ATQ + <b>2</b> et repousse légèrement la cible.\nLa troisième attaque inflige des dégâts équivalant à <b>91.1%</b> de l'ATQ + <b>5</b> et repousse légèrement la cible.\nLa quatrième attaque inflige des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b> et repousse légèrement la cible.\nLa cinquième attaque inflige des dégâts équivalant à <b>218.4%</b> de l'ATQ + <b>11</b> et renverse la cible."
+      "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nPremière attaque : inflige des dégâts équivalant à <b>62.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>46.2%</b> de l'ATQ + <b>2</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>91.1%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nCinquième attaque : inflige des dégâts équivalant à <b>218.4%</b> de l'ATQ + <b>11</b> et renverse la cible."
     },
     {
       "name": "Décharge aérienne",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>64.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>72.6%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>76.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>107.9%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>168.3%</b> de l'ATQ + <b>9</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>64.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>72.6%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>76.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>107.9%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>168.3%</b> de l'ATQ + <b>9</b>."
     },
     {
       "name": "Taillade aérienne",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Lors d'une attaque normale, maintenez Attaque normale pour déclencher Taillade aérienne.\nAvancez rapidement en frappant horizontalement, puis projetez la cible dans les airs avant de vous envoler avec elle. Inflige un maximum de <b>134.3%</b> de l'ATQ + <b>7</b> de dégâts."
+      "description": "Lors d'une attaque normale, maintenez Attaque normale pour déclencher Taillade aérienne.\nAvancez rapidement en frappant horizontalement, puis suspendez la cible dans les airs avant de vous envoler avec elle. Inflige un maximum de <b>134.3%</b> de l'ATQ + <b>7</b> de dégâts."
     },
     {
       "name": "Taillade hélicoïdale",
@@ -55,47 +55,47 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'attaque pour déclencher Taillades multiples.\nTaillade plusieurs fois une zone à une certaine distance devant le lanceur, infligeant un total de dégâts équivalant à <b>{4}%</b> de l'ATQ + <b>{5}</b>."
+      "description": "Appuyez sur Attaque normale pendant la courte fenêtre d'attaque pour déclencher Taillades multiples.\nTaillade plusieurs fois une zone à une certaine distance devant le lanceur, infligeant un total de dégâts équivalant à <b>143.9%</b> de l'ATQ + <b>8</b>."
     },
     {
       "name": "Fimbulhiver",
       "type": [
         "Skill"
       ],
-      "description": "Frappe la zone autour de l'Explorateur, infligeant un total de dégâts équivalant à <b>577.5%</b> de l'ATQ + <b>30</b>. Peut suspendre et projeter les cibles. Confère également une immunité aux dégâts lors de l'utilisation de la compétence. <b>30</b> secondes de temps de recharge.\nAprès avoir lancé <b>\"Fimbulhiver\"</b>, un vaste domaine de gel se forme autour de vous pendant <b>25</b> secondes. Votre nombre de tentatives d'esquive ne réduit pas lorsque vous utilisez Esquive de Balmung dans le domaine de gel.\nConfère \"Domaine de gel I\" lorsque vous êtes dans le domaine de gel, ce qui accroît la capacité de fracture de <b>25%</b> lorsque vous utilisez une arme de givre."
+      "description": "Frappe la zone autour de l'Explorateur, infligeant des dégâts équivalant à <b>577.5%</b> de l'ATQ + <b>30</b>. Projette et suspend les cibles. Confère également une immunité aux dégâts lors de l'utilisation de la compétence. Temps de recharge : <b>30</b> secondes.\nAprès avoir lancé <b>\"Fimbulhiver\"</b>, un vaste domaine de givre se forme autour de l'Explorateur pendant <b>25</b> secondes. Les tentatives d'esquive ne sont pas consommées lorsque vous esquivez avec Balmung dans le domaine de givre.\nConfère \"Zone de givre I\" lorsque vous êtes dans le domaine de givre. Accroît la capacité de fracture de <b>25%</b> et l'ATQ de givre de <b>15%</b> lorsque vous utilisez une arme de givre."
     },
     {
       "name": "Fracture frigorifique",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et vous fait foncer vers l'avant, contrôlant temporairement les adversaires à proximité avant de leur asséner une frappe redoutable. Inflige des dégâts équivalant à <b>618.2%</b> de l'ATQ + <b>33</b> et projette les ennemis en l'air."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et vous fait foncer vers l'avant, contrôlant temporairement les ennemis à proximité avant de leur asséner une frappe redoutable. Projette les cibles dans les airs et leur inflige des dégâts équivalant à <b>618.2%</b> de l'ATQ + <b>33</b>."
     }
   ],
   "weapon_type": {
     "name": "Coquille de glace",
-    "description": "Les armes entièrement chargées <b>gèlent</b> la cible pendant <b>2</b> secondes et la glacent pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>111%</b> de l'ATQ. Lorsque la cible est gelée, son taux de recharge d'arme est réduit de <b>50%</b>."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque <b>gèle</b> les cibles pendant <b>2</b> secondes et leur inflige Gelure pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>111%</b> de l'ATQ. Lorsque la cible subit Gelure, son taux de recharge d'arme est réduit de <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Résonance de givre",
-    "description": "<b>Résonance de givre</b> : accroît l'ATQ de givre de <b>15%</b> et la résistance au givre de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de givre. Les effets de ce kit fonctionnent également avec les armes dans l'emplacement main libre. Ils ne peuvent être cumulés."
+    "description": "<b>Résonance de givre</b> : accroît l'ATQ de givre de <b>15%</b> et la résistance au givre de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois."
   },
   "advancement": [
-    "Confère <b>1</b> point de froideur chaque fois que vous recevez <b>550%</b> x ATQ de givre de dégâts dans le domaine de gel. Jusqu'à <b>10</b> points de froideur peuvent être cumulés.\nLorsque Domaine de gel se termine, les points de froideur x ATQ de givre x <b>95%</b> de dégâts d'onde de choc sont infligés à tous les ennemis dans le domaine de gel. Après avoir quitté le domaine de gel, vous perdez <b>1</b> point de froideur toutes les <b>3</b> secondes.",
+    "Confère <b>1</b> point de froideur chaque fois que vous infligez <b>550%</b> x ATQ de givre de dégâts dans le domaine de givre. Jusqu'à <b>10</b> points de froideur peuvent être cumulés.\nLorsque le domaine de givre se termine, les points de froideur x ATQ de givre x <b>95%</b> de dégâts d'onde de choc sont infligés à tous les ennemis dans le domaine de givre. Après avoir quitté le domaine de givre, vous perdez <b>1</b> point de froideur toutes les <b>3</b> secondes.",
     "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
-    "Repousse la limite de froideur à <b>15</b>. Lorsque vous utilisez la compétence de décharge d'une arme de givre dans le domaine de gel, vous infligez des dégâts équivalents à <b>20%</b> de l'ATQ de givre x (froideur actuelle +5) à toutes les cibles se trouvant dans le domaine de gel.",
+    "Repousse la limite de froideur à <b>15</b>. Lorsque vous utilisez la compétence de décharge d'une arme de givre dans le domaine de givre, vous infligez des dégâts équivalents à <b>20%</b> de l'ATQ de givre x (froideur actuelle +5) à toutes les cibles se trouvant dans le domaine de givre.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
-    "Fracturer un bouclier à l'aide d'une arme de givre dans le domaine de gel gèle la cible pendant <b>2</b> secondes et inflige des dégâts de givre équivalant aux points de froideur x ATQ de givre x <b>35%</b> de dégâts supplémentaires (si la cible ne peut pas être gelée, les dégâts sont doublés).",
-    "Lorsque la froideur atteint <b>15</b> points alors que vous trouvez dans le domaine de gel, vous recevez \"Domaine de gel II\" ce qui accroît l'ATQ de givre de <b>25%</b> lorsque vous utilisez des armes de givre."
+    "Fracturer un bouclier à l'aide d'une arme de givre dans le domaine de givre gèle la cible pendant <b>2</b> secondes et inflige des dégâts supplémentaires équivalant aux points de froideur x ATQ de givre x <b>35%</b> (si la cible ne peut pas être gelée, les dégâts supplémentaires sont doublés).",
+    "Lorsque la froideur atteint <b>15</b> points alors que vous vous trouvez dans le domaine de givre, vous recevez \"Zone de givre II\", ce qui accroît l'ATQ de givre de <b>25%</b> lorsque vous utilisez des armes de givre."
   ],
   "traits": [
     {
       "name": "Gel",
-      "description": "Augmente l'ATQ de givre de <b>1,5%</b> toutes les <b>3</b> secondes après le début d'un combat. Se cumule jusqu'à <b>10</b> fois. Dure <b>5</b> secondes."
+      "description": "Au début d'un combat, augmente l'ATQ de givre de <b>1,5%</b> toutes les <b>3</b> secondes jusqu'à <b>10</b> fois pendant <b>5</b> secondes."
     },
     {
       "name": "Lien de glace",
-      "description": "L'ATQ de givre reçoit un bonus de <b>2,4%</b> toutes les <b>3</b> secondes après le début d'un combat. Se cumule jusqu'à <b>10</b> fois. Dure <b>5</b> secondes. De plus, confère Hypercorps et immunise contre les effets de contrôle dans le domaine de gel."
+      "description": "L'ATQ de givre reçoit un bonus de <b>2,4%</b> toutes les <b>3</b> secondes après le début d'un combat. Se cumule jusqu'à <b>10</b> fois. Dure <b>5</b> secondes. De plus, confère Hypercorps et immunise contre les effets de contrôle dans le domaine de givre."
     }
   ],
   "ascension": [

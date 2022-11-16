@@ -2,7 +2,7 @@
   "_id": 26,
   "id": "wandering_aberrant",
   "name": "Aberrante errante",
-  "suitName": "Linaje salvaje",
+  "suitName": "Linaje Salvaje",
   "hash": "N1",
   "rarity": "N",
   "bonus": [
@@ -16,11 +16,11 @@
     "desc": "Ha estado merodeando desde que escapó del laboratorio. ¿Esta abominación es producto de experimentos o de la radiación de Omnio? Nadie lo sabe."
   },
   "memory": {
-    "name": "Naturaleza salvaje",
+    "name": "Naturaleza Salvaje",
     "desc": "La naturaleza, sometida por la domesticación, lentamente se vuelve a aclimatar a la vida silvestre."
   },
   "belief": {
-    "name": "Toro en la cristalería",
+    "name": "Fuerza Bruta",
     "desc": "Parece como si estuviera a punto de romper su jaula a la fuerza y escapar de su cautiverio."
   },
   "emotion": {

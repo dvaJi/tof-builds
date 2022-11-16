@@ -4,7 +4,7 @@
   "name": "Pepper",
   "weapon": "Bâton des balafres",
   "weapon_id": "staff_of_scars",
-  "birthday": "9 juillet (cancer)",
+  "birthday": "9 juillet (Cancer)",
   "birthplace": "Service médical d'Hykros",
   "gender": "Féminin",
   "info": "Une infirmière connue pour sa patience, sa gentillesse et son sourire. Bien qu'elle soit connue pour son éthique au travail à toute épreuve, son corps et sa vigueur n'arrivent pas à suivre. Et avec son perfectionnisme, elle est constamment fatiguée.\nOn lui a diagnostiqué une insomnie sévère, une légère anxiété et de l'obsession, bien qu'aucun des symptômes ne soit évident en raison de sa forte autodiscipline.",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, appuyez sur Attaque normale pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>32.5%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>23.5%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>25.5%</b> de l'ATQ + <b>1</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>45.6%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>47.7%</b> de l'ATQ + <b>3</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>32.5%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.5%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>25.5%</b> de l'ATQ + <b>1</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>45.6%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>47.7%</b> de l'ATQ + <b>3</b>."
     },
     {
       "name": "Tombelune",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher des attaques ramifiées, consommant <b>300</b> points d'endurance.\nPremière attaque : attire les ennemis devant l'utilisateur, les <b>suspendant</b> et leur infligeant des dégâts équivalant à <b>16.1%</b> de l'ATQ + <b>1</b> chaque <b>0,3</b> seconde (jusqu'à <b>4</b> fois).\nDeuxième attaque : inflige des dégâts équivalant à <b>18.6%</b> de l'ATQ + <b>1</b> à l'emplacement ciblé et aux ennemis proches chaque <b>0,3</b> seconde."
+      "description": "Après la troisième attaque normale, maintenez le bouton d'attaque normale enfoncé pour déclencher des attaques ramifiées, consommant <b>300</b> points d'endurance.\nPremière attaque : attire les ennemis devant l'utilisateur, les <b>suspendant</b> et leur infligeant des dégâts équivalant à <b>16.1%</b> de l'ATQ + <b>1</b> chaque <b>0,3</b> seconde (jusqu'à <b>4</b> fois).\nDeuxième attaque : inflige des dégâts équivalant à <b>18.6%</b> de l'ATQ + <b>1</b> à l'emplacement ciblé et aux ennemis proches chaque <b>0,3</b> seconde."
     },
     {
       "name": "Déferlement",
@@ -55,7 +55,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Déferlement.\nChaque vague d'énergie inflige aux cibles des dégâts équivalant à <b>22.6%</b> de l'ATQ + <b>1</b>.\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Déferlement.\nChaque impulsion d'énergie inflige aux cibles des dégâts équivalant à <b>22.6%</b> de l'ATQ + <b>1</b>.\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
     },
     {
       "name": "Tesseract",
@@ -63,7 +63,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur l'attaque normale immédiatement après avoir esquivé pour déclencher Explosion évasive.\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à <b>32.1%</b> de l'ATQ + <b>2</b> aux cibles sur sa trajectoire chaque <b>0,3</b> seconde (jusqu'à 5 fois).\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Explosion évasive.\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à <b>32.1%</b> de l'ATQ + <b>2</b> aux cibles sur sa trajectoire chaque <b>0,3</b> seconde (jusqu'à 5 fois).\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
     },
     {
       "name": "Sanctuaire",
@@ -77,7 +77,7 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de <b>{2}%</b> de l'ATQ + <b>{3}</b> PV pendant <b>7</b> secondes."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de <b>79%</b> de l'ATQ + <b>4</b> PV pendant <b>7</b> secondes."
     }
   ],
   "weapon_type": {
@@ -85,12 +85,12 @@
     "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>106%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
   },
   "advancement": [
-    "Après l'utilisation d'une compétence d'esquive, soigne les membres du groupe dans un rayon de <b>10</b> m d'un nombre de PV égal à <b>100%</b> de l'ATQ.",
+    "Après l'utilisation d'une compétence d'esquive, soigne les membres du groupe dans un rayon de <b>10</b> m d'un nombre de PV égal à <b>100%</b> de l'ATQ.",
     "Augmente de <b>10%</b> la croissance de PV de base actuelle de l'arme.",
     "Les attaques normales tirent aussi deux missiles, chacun infligeant à la cible des dégâts équivalant à <b>5%</b> de l'ATQ et régénérant <b>5</b> points de recharge d'arme.",
     "Augmente de <b>20%</b> la croissance de PV de base actuelle de l'arme.",
     "Augmente de <b>20%</b> la vitesse d'obtention d'une recharge d'arme (ne s'applique pas aux attaques des missiles).",
-    "Confère à tous les membres du groupe à portée une réduction de dégâts de <b>60%</b> lorsqu'une compétence dissipe les effets de contrôle sur la cible."
+    "Confère à tous les membres du groupe à portée une réduction des dégâts de <b>60%</b> lorsqu'une compétence dissipe les effets de contrôle sur la cible."
   ],
   "traits": [
     {

@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Críticos causam dano prolongado adicional de 12%/15%/18%/21% do ATQ a cada segundo durante 5 segundos. Não acumula."
+      "value": "Críticos causam dano prolongado adicional de 12%/15%/18%/21% do ATQ a cada segundo durante 5 segundos. Esse efeito não se acumula."
     }
   ],
   "mind": {

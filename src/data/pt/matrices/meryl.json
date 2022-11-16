@@ -2,7 +2,7 @@
   "_id": 15,
   "id": "meryl",
   "name": "Meryl",
-  "suitName": "Guardião Alvíssimo",
+  "suitName": "Guardiã Alvíssima",
   "hash": "SSR1",
   "rarity": "SSR",
   "bonus": [
@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Aumenta o dano do Redemoinho em 36%/45%/54%/63% e restaura vida equivalente a 30%/38%/44%/50% do dano causado enquanto Redemoinho estiver ativo. O máximo de vida restaurada a cada 0,5 segundo não deve exceder 60%/72%/81%/90% do ATQ."
+      "value": "Aumenta o dano de Redemoinho em 36%/45%/54%/63% e restaura vida equivalente a 30%/38%/44%/50% do dano causado enquanto Redemoinho estiver ativo. O máximo de vida restaurada a cada 0,5 segundo não deve exceder 60%/72%/81%/90% do ATQ."
     }
   ],
   "mind": {
@@ -21,7 +21,7 @@
   },
   "memory": {
     "name": "Chamado do Despertar",
-    "desc": "Fragmentos de memória encadeados utilizados para introduzir consciência. Não vem com manual de instruções."
+    "desc": "Fragmentos de memória encadeados utilizados para introduzir consciência. Não vêm com manual de instruções."
   },
   "belief": {
     "name": "Autoridade Absoluta",

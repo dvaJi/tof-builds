@@ -8,7 +8,7 @@
   "birthplace": "Hykros",
   "gender": "Femenino",
   "info": "Perezosa y autocomplaciente, a Samir le gustan las bromas inocentes.\nAunque técnicamente es una Ejecutora de Hykros, y a pesar de poseer una fuerza extraordinaria, la personalidad vaga y poco confiable de Samir representa un problema. La costumbre de hacerle bromas a sus colegas altera a todos aquellos que trabajan con ella, y su reputación no es del todo favorable. Sin embargo, a Samir no le importa.",
-  "description": "Su pasado está plagado de interrogantes. Hasta ahora se sabe que fue una huérfana adoptada por un residente de Banges. Cuando alcanzó la edad adulta, se unió a Hykros y se convirtió en Ejecutora después del entrenamiento correspondiente. Es una integrante destacada, incluso entre los Ejecutores de élite. Hykros alguna vez consideró nombrarla instructora de los reclutas nuevos, pero desistió de la idea porque su personalidad no era apta para la tarea.",
+  "description": "Su pasado está plagado de interrogantes.\nHasta ahora se sabe que fue una huérfana adoptada por un residente de Banges. Cuando alcanzó la edad adulta, se unió a Hykros y se convirtió en Ejecutora después del entrenamiento correspondiente.\n\nEs una integrante destacada, incluso entre los Ejecutores de élite. Hykros alguna vez consideró nombrarla instructora de los reclutas nuevos, pero desistió de la idea porque su personalidad no era apta para la tarea.",
   "like": "Resolver rompecabezas y asesinatos misteriosos",
   "dislike": "Desconocido",
   "element": "Volt",
@@ -19,56 +19,56 @@
   "charge": 10.7,
   "skills": [
     {
-      "name": "Fuego doble",
+      "name": "Fuego Doble",
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño total equivalente al <b>47.1%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño total equivalente al <b>35.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño total equivalente al <b>119.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño total equivalente al <b>113.1%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño total equivalente al <b>154%</b> del ATQ + <b>8</b> y <b>lanza</b> al objetivo."
+      "description": "En el suelo, pulsa el ataque normal para lanzar hasta 5 ataques consecutivos con las pistolas dobles.\nPrimer ataque: inflige daño total equivalente al <b>47.1%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño total equivalente al <b>35.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño total equivalente al <b>119.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>113.1%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño total equivalente al <b>154%</b> del ATQ + <b>8</b> y <b>lanza</b> al objetivo."
     },
     {
-      "name": "Lluvia de balas",
+      "name": "Lluvia de Balas",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire, pulsa el ataque normal para disparar de forma continua hacia el suelo e infligir daño equivalente al <b>50.6%</b> del ATQ + <b>3</b> de daño; cada golpe consume <b>150</b> de resistencia."
+      "description": "En el aire, usa el ataque normal para disparar de forma continua hacia el suelo e infligir daño equivalente al <b>50.6%</b> del ATQ + <b>3</b>. Cada impacto consume <b>150</b> de resistencia."
     },
     {
-      "name": "Explosión de energía",
+      "name": "Explosión de Energía",
       "type": [
         "Hold: Attack"
       ],
       "description": "Mantén el botón de ataque para disparar de forma continua, y cada golpe inflige un <b>23%</b> del ATQ + <b>1</b> de daño base."
     },
     {
-      "name": "Patada fantasma",
+      "name": "Patada Fantasma",
       "type": [
         "Jump",
         "Hold: Attack"
       ],
-      "description": "En el aire, mantén pulsado el ataque normal para activar Patada fantasma. Derriba al objetivo e inflige daño equivalente al <b>70.5%</b> del ATQ + <b>4</b>. Al aterrizar, inflige daño equivalente al <b>98.7%</b> del ATQ + <b>5</b> a los objetivos cercanos y los <b>lanza</b>."
+      "description": "En el aire, mantén pulsado el ataque normal para activar Patada Fantasma. Derriba al objetivo e inflige daño equivalente al <b>70.5%</b> del ATQ + <b>4</b>. Al aterrizar, inflige daño equivalente al <b>98.7%</b> del ATQ + <b>5</b> a los objetivos cercanos y los <b>lanza fuerte</b>."
     },
     {
-      "name": "Patada relámpago ascendente",
+      "name": "Patada Relámpago Ascendente",
       "type": [
         "Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal tras evadir para <b>suspender fuertemente</b> a los objetivos cercanos e infligir daño equivalente al <b>122.6%</b> del ATQ + <b>6</b>."
+      "description": "Pulsa el ataque normal tras evadir para <b>suspensión fuerte</b> a los objetivos cercanos e infligir daño equivalente al <b>122.6%</b> del ATQ + <b>6</b>."
     },
     {
-      "name": "Campo eléctrico",
+      "name": "Campo Eléctrico",
       "type": [
         "Skill"
       ],
-      "description": "Lanza un escudo de energía a la ubicación objetivo y refleja los rayos dentro de la barrera. Inflige daño equivalente al <b>269.8%</b> del ATQ + <b>14</b>, y el último golpe <b>suspende fuertemente</b> a los objetivos. Enfriamiento: <b>45</b> segundos."
+      "description": "Lanza un escudo energético a la ubicación objetivo y refleja los rayos dentro de la barrera. Inflige daño equivalente al <b>269.8%</b> del ATQ + <b>14</b>, y el último golpe <b>suspensión fuerte</b> a los objetivos. Enfriamiento: <b>45</b> segundos."
     },
     {
-      "name": "Dominio del trueno",
+      "name": "Dominio del Trueno",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea un Dominio del Trueno en la ubicación objetivo tras cambiar a esta arma, lo que <b>suspende fuertemente</b> a los objetivos dentro del área e inflige un <b>238.3%</b> del ATQ + <b>13</b> de daño total a lo largo de 3 ataques mientras elimina sus mejoras. El dominio dura <b>3.5</b> segundos e inflige daño equivalente al <b>42.4%</b> del ATQ + <b>2</b> a un objetivo cada <b>0.5</b> segundos."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea un Dominio del Trueno en la ubicación objetivo tras cambiar a esta arma, lo que <b>suspensión fuerte</b> a los objetivos dentro del área e inflige un <b>238.3%</b> del ATQ + <b>13</b> de daño total a lo largo de 3 ataques mientras elimina sus mejoras. El dominio dura <b>3.5</b> segundos e inflige daño equivalente al <b>42.4%</b> del ATQ + <b>2</b> a un objetivo cada <b>0.5</b> segundos."
     }
   ],
   "weapon_type": {
@@ -77,10 +77,10 @@
   },
   "advancement": [
     "Activa una explosión eléctrica en el objetivo después de asestar un golpe crítico, lo que inflige daño adicional equivalente al <b>30%</b> del ATQ al objetivo y a los enemigos cercanos. Enfriamiento: <b>0.2</b> segundos.",
-    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
     "Aumenta la tasa de críticos a objetivos electrificados en un <b>40%</b>. Las explosiones eléctricas extienden la duración de los efectos de electrificación en <b>0.5</b> segundos, hasta un máximo de <b>5</b> segundos.",
-    "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
-    "Duplica la duración de Campo eléctrico y atrae a los objetivos al centro del ataque.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
+    "Duplica la duración de Campo Eléctrico y atrae a los objetivos al centro del ataque.",
     "Activar una explosión eléctrica reduce en <b>1</b> segundo los enfriamientos de las habilidades."
   ],
   "traits": [
@@ -102,7 +102,7 @@
       "cost": 400,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       }
@@ -113,7 +113,7 @@
       "cost": 800,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       }
@@ -124,7 +124,7 @@
       "cost": 1200,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 3
       },
@@ -141,7 +141,7 @@
       "cost": 1600,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 3
       },
@@ -153,7 +153,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 3
       }
@@ -164,7 +164,7 @@
       "cost": 2000,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 4
       },
@@ -176,7 +176,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 4
       }
@@ -187,7 +187,7 @@
       "cost": 2400,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 6
       },
@@ -199,7 +199,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 6
       }
@@ -210,7 +210,7 @@
       "cost": 2800,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 8
       },
@@ -222,7 +222,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 8
       }
@@ -233,7 +233,7 @@
       "cost": 3200,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 11
       },
@@ -245,7 +245,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 11
       }
@@ -256,7 +256,7 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_lightning",
-        "name": "Corazón de rayo",
+        "name": "Corazón de Rayo",
         "rarity": "R",
         "amount": 5
       },
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de nanofibras II",
+        "name": "Armazón de Nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

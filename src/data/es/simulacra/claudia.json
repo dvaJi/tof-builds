@@ -8,7 +8,7 @@
   "birthplace": "Hykros",
   "gender": "Femenino",
   "info": "Confiable, tenaz y sumamente motivada en lo que respecta a la batalla. Puede parecer distante, pero es noble y apasionada con aquellos que la conocen. Claudia tiene un gran sentido de justicia, y siempre está lista para ayudar a los demás y combatir la injusticia adonde sea que vaya.",
-  "description": "Una Ejecutora de Hykros de alta estatura con un semblante militar.\nSu dominio de la espada y sus movimientos controlados la llevaron a ocupar las primeras líneas de operaciones complicadas, pero después de sufrir una herida grave en la Operación Apocalipsis Oscuro, Claudia fue enviada a un centro médico.",
+  "description": "Una Ejecutora de Hykros de alta estatura con un semblante militar.\nSu dominio de la espada a una mano y sus movimientos controlados la llevaron a ocupar las primeras líneas de operaciones complicadas, pero después de sufrir una herida grave en la Operación Apocalipsis Oscuro, Claudia fue enviada a un centro médico.",
   "like": "Comida deliciosa, sombreros con personalidad",
   "dislike": "Felinos",
   "element": "Physical",
@@ -19,19 +19,19 @@
   "charge": 12,
   "skills": [
     {
-      "name": "Corte rápido",
+      "name": "Corte Rápido",
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, blande la espada y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>46.8%</b> del ATQ + <b>2</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>59.3%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>104.1%</b> del ATQ + <b>5</b> y hace retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>177.8%</b> del ATQ + <b>9</b> y <b>lanza</b> al objetivo."
+      "description": "En el suelo, blande la espada y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>46.8%</b> del ATQ + <b>2</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>59.3%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>104.1%</b> del ATQ + <b>5</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>177.8%</b> del ATQ + <b>9</b> y <b>lanza</b> al objetivo."
     },
     {
-      "name": "Golpe de salto",
+      "name": "Golpe de Salto",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>27.9%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>48.4%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>114.6%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>139%</b> del ATQ + <b>7</b>."
+      "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>27.9%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>48.4%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>114.6%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>139%</b> del ATQ + <b>7</b>."
     },
     {
       "name": "Ciclón",
@@ -39,73 +39,73 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Mantén el botón de ataque normal después de realizar ataques normales para activar Ciclón.\nAl asestar un golpe, suspende al objetivo e inflige un <b>47.8%</b> del ATQ + <b>3</b> a un objetivo individual."
+      "description": "Mantén pulsado el botón de ataque normal después de los ataques normales para activar Ciclón.\nSuspende al objetivo al impacto. Ciclón puede infligir <b>47.8%</b> del ATQ + <b>3</b> a un solo objetivo."
     },
     {
-      "name": "Borde de inmersión",
+      "name": "Borde de Inmersión",
       "type": [
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal en el aire, o pulsa el ataque normal al trepar, saltar hacia atrás o usar el Propulsor para activar Borde de Inmersión.\nEn el descenso, cada golpe inflige daño equivalente al <b>10%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>76.4%</b> del ATQ + <b>4</b> y derriba al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o usa el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Borde de Inmersión.\nMientras caes, infliges daño equivalente al <b>10%</b> del ATQ + <b>1</b> por cada impacto al objetivo. Al aterrizar, inflige daño equivalente al <b>76.4%</b> del ATQ + <b>4</b> y repele al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
-      "name": "Ataque sorpresa",
+      "name": "Ataque Sorpresa",
       "type": [
         "Croch",
         "Attack"
       ],
-      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
-      "name": "Ataque de salto",
+      "name": "Ataque de Salto",
       "type": [
         "Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Ataque de Salto.\nEl nómada blande su espada, inflige daño equivalente al <b>37.9%</b> del ATQ + <b>2</b> al objetivo, lo <b>suspende fuertemente</b> y te deja en el aire, y luego inflige daño adicional equivalente al <b>56.8%</b> del ATQ + <b>3</b>."
+      "description": "Toca el ataque normal durante el corto periodo después de evadir para activar Ataque de Salto.\nEl nómada ataca con la cuchilla y causa daño equivalente al <b>37.9%</b> del ATQ + <b>2</b> al objetivo, lo que también causa una <b>suspensión fuerte</b> en el aire. Luego, inflige daño adicional equivalente al <b>56.8%</b> del ATQ + <b>3</b> al objetivo."
     },
     {
       "name": "Recorrer",
       "type": [
         "Skill"
       ],
-      "description": "Baila entre los objetivos blandiendo la espada, lo que inflige daño equivalente al <b>418%</b> del ATQ + <b>22</b> contra hasta <b>5</b> objetivos (un ataque al mismo objetivo inflige un <b>20%</b> menos de daño). Al final de la habilidad, hace un corte en el espacio hacia adelante, lo que inflige daño equivalente al <b>264%</b> del ATQ + <b>14</b> a los objetivos y los suspende. Inmune a los efectos de control de masas cuando la habilidad está en uso, y todo el daño recibido se reduce en un <b>50%</b>. Enfriamiento: <b>15</b> segundos."
+      "description": "Baila a través de objetivos mientras atacas con la cuchilla, lo que inflige daño equivalente al <b>418%</b> del ATQ + <b>22</b> hasta a <b>5</b> objetivos (los impactos consecutivos en el mismo objetivo infligen <b>20%</b> de daño reducido). Después de que termina Recorrer, cortas el espacio al frente, lo que inflige daño de área equivalente al <b>264%</b> del ATQ + <b>14</b> a los objetivos circundantes y los suspende. Otorga inmunidad a los efectos de control mientras la habilidad está en uso, y reduce todo el daño recibido en <b>50%</b>. Enfriamiento: <b>15</b> segundos."
     },
     {
-      "name": "Ráfaga desenfrenada",
+      "name": "Ráfaga Desenfrenada",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b>, quien carga y <b>suspende fuertemente</b> a un objetivo, lo que inflige un <b>523.3%</b> del ATQ + <b>28</b> de daño, y deja una Filotormenta que inflige un <b>209.6%</b> del ATQ + <b>11</b> de daño al objetivo; además, otorga inmunidad a los efectos grave/congelación/quemadura/electrificación durante <b>5</b> segundos."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra <b>remueve todas las desventajas del nómada</b>. Luego, corres y haces una <b>suspensión fuerte</b> al objetivo, lo que inflige <b>523.3%</b> del ATQ + <b>28</b> de daño y causa una Filotormenta que inflige <b>209.6%</b> del ATQ + <b>11</b> de daño, además de otorgar inmunidad a grave/congelación/quemadura/electrificar por <b>5</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Grave",
-    "description": "Las armas completamente cargadas infligirán daño equivalente al <b>137%</b> del ATQ con el siguiente ataque, y causarán el estado grave en el objetivo por <b>7</b> segundos, por lo que recibirá un <b>20%</b> de daño adicional."
+    "description": "Cuando el arma está completamente cargada, el próximo ataque infligirá daño equivalente al <b>137%</b> del ATQ y causará el estado grave por <b>7</b> segundos, lo que causa que reciba <b>20%</b> de daño adicional."
   },
   "weapon_resonance": {
     "name": "Resonancia física",
-    "description": "<b>Resonancia Física</b>: aumenta el ATQ Físico en un <b>15%</b> y la resistencia física en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de daño físico. Este efecto de conjunto también funciona con armas en la ranura secundaria. El efecto no se puede acumular."
+    "description": "<b>Resonancia Física</b>: Aumenta el ATQ físico un <b>15%</b> y la resistencia física un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de daño físico. Este efecto de set también funciona con armas en la ranura secundaria. Este efecto no se acumula de forma repetida."
   },
   "advancement": [
-    "Cada vez que una habilidad o una habilidad de descarga golpea a un objetivo, otorga una acumulación de Refuerzo de Daño, que aumenta el daño infligido en un <b>8%</b> durante <b>25</b> segundos (se acumula hasta <b>3</b> veces; cada uso exitoso de la habilidad o la descarga solo puede conceder una única acumulación).",
-    "Aumenta el crecimiento de ATQ base del arma actual en un <b>16%</b>.",
-    "Golpear a un objetivo con una habilidad o una habilidad de descarga aplica una acumulación de Heridas de Guerra al objetivo, lo que aumenta el daño físico entrante y los efectos de destrucción de las armas físicas y elementales que recibe el objetivo en un <b>10%</b> durante <b>15</b> segundos. Se acumula hasta <b>1</b> vez.",
-    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
-    "Al golpear objetivos con habilidades o habilidades de descarga se obtendrá un Refuerzo de Daño, el cual aumenta todo el daño en un <b>20%</b> por <b>25</b> segundos (no se acumula).",
-    "Golpear al mismo objetivo ya no reduce el daño infligido. Tras usar la Espada Guren o una habilidad de descarga, aplica <b>1</b> acumulación de Heridas de Guerra a todos los objetivos en un radio de 8 metros."
+    "Después de impactar a un objetivo con una habilidad o habilidad de descarga, obtienes 1 acumulación de la siguiente mejora: Aumenta el daño infligido un <b>8%</b> por <b>25</b> segundos, se acumula hasta hasta <b>3</b> veces para un máximo de 1 acumulación por uso de habilidad.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
+    "Al impactar a un objetivo con una habilidad o habilidad de descarga, aplica 1 acumulación de Heridas de Guerra al objetivo: Aumenta el daño físico recibido y la destrucción de las armas físicas en <b>10%</b> por <b>15 segundos</b>. Se acumula <b>1</b> vez.",
+    "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
+    "Al alcanzar objetivos con habilidades o habilidades de descarga, otorga un refuerzo de daño que aumenta todo el daño un <b>20%</b> por <b>25</b> segundos. Este efecto no se acumula.",
+    "Las habilidades que impactan al mismo objetivo ya no tienen daño reducido. Después de usar las habilidades de Espada Guren o la habilidad de descarga, todos los objetivos con Heridas de Guerra a menos de 8 metros obtienen <b>1</b> acumulación más de Heridas de Guerra."
   ],
   "traits": [
     {
       "name": "Destello",
       "icon": true,
-      "description": "Te vuelves invisible durante <b>1</b> segundo después de evadir."
+      "description": "Te vuelves invisible por <b>1</b> segundo después de evadir."
     },
     {
       "name": "Sombra",
       "icon": true,
-      "description": "Te vuelves invisible durante <b>1.5</b> segundo después de evadir."
+      "description": "Te vuelves invisible por <b>1.5</b> segundos después de evadir."
     }
   ],
   "ascension": [
@@ -115,7 +115,7 @@
       "cost": 400,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 2
       }
@@ -126,7 +126,7 @@
       "cost": 800,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 2
       }
@@ -137,7 +137,7 @@
       "cost": 1200,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 3
       },
@@ -154,7 +154,7 @@
       "cost": 1600,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 3
       },
@@ -166,7 +166,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 3
       }
@@ -177,7 +177,7 @@
       "cost": 2000,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 4
       },
@@ -189,7 +189,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 4
       }
@@ -200,7 +200,7 @@
       "cost": 2400,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 6
       },
@@ -212,7 +212,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 6
       }
@@ -223,7 +223,7 @@
       "cost": 2800,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 8
       },
@@ -235,7 +235,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 8
       }
@@ -246,7 +246,7 @@
       "cost": 3200,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 11
       },
@@ -258,7 +258,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 11
       }
@@ -269,7 +269,7 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_summit",
-        "name": "Corazón de cima",
+        "name": "Corazón de Cima",
         "rarity": "R",
         "amount": 5
       },
@@ -281,7 +281,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de nanofibras II",
+        "name": "Armazón de Nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

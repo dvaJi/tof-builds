@@ -4,7 +4,7 @@
   "name": "Coco",
   "weapon": "Zero Absoluto",
   "weapon_id": "absolute_zero",
-  "birthday": "1 de junho (Gêmeos)",
+  "birthday": "1.º de junho (Gêmeos)",
   "birthplace": "Desconhecido",
   "gender": "Feminino",
   "info": "Uma garota inocente e romântica, que está sempre de bom humor. Confia demais nas pessoas, o que passa a impressão de que é inocente demais.\nAma doces, mas consegue manter um equilíbrio delicado entre açúcar e comida saudável. Tem dificuldade para se localizar, mas possui a habilidade de não se perder depois que encontra a direção certa. É difícil não se preocupar com ela, mesmo que, na realidade, ela seja muito capaz de tomar conta de si mesma.",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>70.5%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>50.8%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>55.1%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>99.1%</b> do ATQ + <b>5</b>.\nQuinto ataque: Causa dano de <b>103.2%</b> do ATQ + <b>5</b>."
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>70.5%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>50.8%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>55.1%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>99.1%</b> do ATQ + <b>5</b>.\nQuinto ataque: Causa dano de <b>103.2%</b> do ATQ + <b>5</b>."
     },
     {
       "name": "Lua Cadente",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\nAo aterrissar, causa dano a cada <b>0,2</b> segundo até um total de <b>123.8%</b> do ATQ + <b>7</b>."
+      "description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\nAo aterrissar, causa dano uma vez a cada <b>0,2</b> segundo, totalizando dano de <b>123.8%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Ataque Determinado",
@@ -55,7 +55,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Ondulação.\nCada onda de energia causa dano de <b>45.9%</b> do ATQ + <b>2</b> a alvos.\nRecupera <b>75</b> pontos de carga de arma ao usar."
+      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Ondulação.\nCada pulso energético causa dano de <b>45.9%</b> do ATQ + <b>2</b> a alvos.\nRecupera <b>75</b> pontos de carga de arma ao usar."
     },
     {
       "name": "Tesserato",
@@ -77,17 +77,17 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>118.8%</b> do ATQ + <b>6</b> durante <b>7</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>118.8%</b> do ATQ + <b>6</b> durante <b>7</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Casca de Gelo",
-    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma <b>congela</b> o alvo durante <b>2</b> segundos e causa geladura durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Durante a geladura, a velocidade de carga de arma do alvo diminui <b>50%</b>."
   },
   "advancement": [
     "Após se esquivar, invoca uma abelha de cura que segue você e cura o aliado com a menor porcentagem de vida em um raio de <b>15</b> metros. Cura o equivalente a <b>25%</b> do ATQ e restaura <b>50</b> pontos de carga de arma por vez. Dura <b>25</b> segundos. Tempo de recarga: <b>25</b> seg.",
     "Aumenta o crescimento da vida mínima da arma atual em <b>16%</b>.",
-    "Use <span class=\"text-yellow\">Santuário</span> ou habilidades de descarga para remover efeitos negativos de alvos. Pode ser usado enquanto sofre efeito incapacitante. Aumenta em <b>20%</b> o despedaçar e o dano causado de todos os colegas dentro do raio e deixa-os imunes a efeitos incapacitantes e despedaçar.",
+    "Use <span class=\"text-yellow\">Santuário</span> ou habilidades de descarga para remover efeitos negativos de alvos. Pode ser usado enquanto sofre efeito de controle. Aumenta em <b>20%</b> o despedaçar e o dano causado de todos os colegas dentro do raio e os deixa imunes a efeitos de controle e a despedaçar.",
     "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
     "Aumenta em <b>15%</b> o efeito de cura, mais um adicional de <b>20%</b> ao curar alvos com menos de <b>60%</b> de vida.",
     "Quando uma abelha é invocada ou sai da batalha, todos os aliados são curados em <b>100%</b> do ATQ do usuário. Todos os aliados em um raio de <b>10</b> metros da abelha de cura também ganham <b>15%</b> de reforço de todo dano e cura (não acumula)."

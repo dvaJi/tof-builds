@@ -7,8 +7,8 @@
   "birthday": "26. Juni (Krebs)",
   "birthplace": "Banges-Technik",
   "gender": "Weiblich",
-  "info": "Sie wirkt wie eine ernste, regelkonforme Wissenschaftlerin, ist jedoch tatsächlich sehr flexibel und wenig stereotyp.\nSie zeigt kaum Gemütsregungen in ihrer Mimik, aber wer sie besser kennenlernt, merkt schon bald, dass sie durchaus Emotionen und eigene Gedanken hat, die sie jedoch nur selten zeigt.\nAuch wenn sie eine der führenden Wissenschaftlerinnen in der Kybernetik-Entwicklung ist, folgt sie eher ihrem Bauchgefühl als ihrer Logik.\nSie verlässt sich darauf, um Maschinen zu modifizieren – und manchmal fügt sie sogar vollkommen nutzlose Elemente hinzu, einfach, weil es ihr Spaß macht.",
-  "description": "Cobalt-B – das ist nicht ihr richtiger Name – ist eine Maschinenbauingenieurin im Hykros-Waffenentwicklungsteam. Ihre Position auf der Karriereleiter ist nicht sehr hoch, da siei bei Tests nicht gut abschneidet.\nNur die Leute, die mit ihr zusammenarbeiten, wissen, dass sie in Wirklichkeit das Ass des gesamten Teams ist. Grundlegende Theorien bedeuten ihr nur wenig und bei der Entwicklung effektiver Waffen vertraut sie voll auf ihre Instinkte.\nUm diese Waffen zu testen und Kampfdaten zu sammeln, geht sie gelegentlich mit anderen Soldaten auf Einsätze und probiert ihre Waffen an armen Mitgliedern der Hyänen aus.",
+  "info": "Sie wirkt wie eine ernste, regelkonforme Wissenschaftlerin, ist jedoch tatsächlich sehr flexibel und wenig stereotyp.\nSie zeigt kaum Gemütsregungen in ihrer Mimik, aber wer sie besser kennenlernt, merkt schon bald, dass sie durchaus Emotionen und eigene Gedanken hat, die sie jedoch nur selten zeigt.\nAuch wenn sie eine der führenden Wissenschaftlerinnen in der Kybernetik-Entwicklung ist, folgt sie eher ihrem Bauchgefühl als der Logik.\nSie verlässt sich darauf, um Maschinen zu modifizieren – und manchmal fügt sie sogar vollkommen nutzlose Elemente hinzu, einfach, weil es ihr Spaß macht.",
+  "description": "Cobalt-B – das ist nicht ihr richtiger Name – ist eine Maschinenbauingenieurin im Waffenentwicklungsteam von Banges Tech. Ihre Position auf der Karriereleiter ist nicht sehr hoch, da sie bei Tests nicht gut abschneidet.\nNur die Leute, die mit ihr zusammenarbeiten, wissen, dass sie in Wirklichkeit das Ass des gesamten Teams ist. Grundlegende Theorien bedeuten ihr nur wenig und bei der Entwicklung effektiver Waffen vertraut sie voll auf ihre Instinkte.\nUm diese Waffen zu testen und Kampfdaten zu sammeln, geht sie gelegentlich mit anderen Soldaten auf Einsätze und probiert ihre Waffen an armen Mitgliedern der Hyänen aus.",
   "like": "Maschinen, Brainstorming, Artrock",
   "dislike": "Lernen, Prüfungen",
   "element": "Fire",
@@ -23,14 +23,14 @@
       "type": [
         "Attack"
       ],
-      "description": "Die Verwendung des normalen Angriffs auf dem Boden ermöglicht es, 5 Angriffe hintereinander auszuführen.\nDer erste Angriff verursacht Schaden in Höhe von <b>52.3%</b> des ANG +<b>3</b>.\nDer zweite Angriff verursacht Schaden in Höhe von <b>75.6%</b> des ANG +<b>4</b>.\nDer dritte Angriff verursacht Schaden in Höhe von <b>94.5%</b> des ANG + <b>5</b>.\nDer vierte Angriff verursacht Schaden in Höhe von <b>142.8%</b> des ANG +<b>8</b>.\nDer fünfte Angriff verursacht Schaden in Höhe von <b>137.8%</b> des ANG +<b>7</b>."
+      "description": "Setze auf dem Boden einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nDer erste Angriff verursacht Schaden in Höhe von <b>52.3%</b> des ANG + <b>3</b>.\nDer zweite Angriff verursacht Schaden in Höhe von <b>75.6%</b> des ANG + <b>4</b>.\nDer dritte Angriff verursacht Schaden in Höhe von <b>94.5%</b> von ANG + <b>5</b>.\nDer vierte Angriff verursacht Schaden in Höhe von <b>142.8%</b> des ANG + <b>8</b>.\nDer fünfte Angriff verursacht Schaden in Höhe von <b>137.8%</b> des ANG + <b>7</b>."
     },
     {
       "name": "Aufgeladener Schuss",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Halte die Angriffstaste gedrückt, um den Angriff aufzuladen, und lasse sie los, um zu schießen. Dies verursacht Schaden in Höhe von <b>95.4%</b> des ANG +<b>5</b> und 3 Sek. später (oder wenn das Ziel stirbt) eine Explosion, die Gegnern in der Nähe Schaden in Höhe von <b>23.9%</b> x ANG zufügt. Der Flächenschaden verdoppelt sich dabei jedes Mal, wenn ein Ziel im Wirkbereich Schaden erleidet (bis zu <b>4</b>-mal). Zusätzlich steigt der Schaden."
+      "description": "Tippe und halte die normale Angriffstaste gedrückt, um einen Schuss aufzuladen, und lasse sie los, um zu schießen. Dies verursacht Schaden in Höhe von <b>95.4%</b> des ANG + <b>5</b> und 3 Sek. später (oder wenn das Ziel stirbt) eine Explosion, die Gegnern in der Nähe Schaden in Höhe von <b>23.9%</b> des ANG zufügt. Jedes Mal, wenn das Ziel vor der Explosion Schaden erleidet, wird der Wirkungsbereich verdoppelt und der Schaden erhöht (bis zu <b>4</b>-mal)."
     },
     {
       "name": "Sprungbombe",
@@ -38,14 +38,14 @@
         "Jump",
         "Attack"
       ],
-      "description": "„Sprungbombe“ kann ausgelöst werden, wenn der Anwender in der Luft oder einmal gesprungen ist.\nWirft eine Bombe, die Gegnern in einem Kreis vor dem Anwender Schaden in Höhe von <b>90.8%</b> des ANG + <b>5</b> zufügt und sie eine bestimmte Distanz zurückstößt, wobei <b>250</b> Ausdauer verbraucht wird."
+      "description": "Zünde in der Luft oder nach einem Sprung eine Sprungbombe.\nWirft eine Bombe, die Gegnern in einem Kreis vor dem Anwender Schaden in Höhe von <b>90.8%</b> des ANG + <b>5</b> zufügt und sie eine kurze Distanz zurückstößt. Verbraucht <b>250</b> Ausdauer wird."
     },
     {
       "name": "Luftsprengung",
       "type": [
         "Double Jump"
       ],
-      "description": "Nach einem Doppelsprung wird ein Omnium-Strahl nach unten geschossen. \nDer Strahl schwingt dann nach vorne und verursacht Schaden in Höhe von <b>33.8%</b> der ATK + <b>2</b>."
+      "description": "Zünde nach einem Doppelsprung eine Luftsprengung in der Luft.\nSchieße einen Omnium-Strahl nach unten. Der Strahl schwingt dann nach vorne und verursacht Schaden in Höhe von <b>33.8%</b> des ANG + <b>2</b>."
     },
     {
       "name": "Schweres Sperrfeuer",
@@ -53,7 +53,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte die Angriffstaste während eines normalen Angriffs gedrückt, um „Suppressionsfeuer“ nach vorne zu entfesseln. Verursacht an Gegnern Flächenschaden in Höhe von <b>102%</b> des ANG +<b>5</b>."
+      "description": "Halte die Angriffstaste während eines normalen Angriffs gedrückt, um „Suppressionsfeuer“ nach vorne zu entfesseln. Fügt Gegnern Flächenschaden in Höhe von <b>102%</b> des ANG + <b>5</b> zu."
     },
     {
       "name": "Nahkampf",
@@ -68,42 +68,42 @@
       "type": [
         "Skill"
       ],
-      "description": "Schießt kontinuierlich in einem frontalen Kegelbereich und verursacht Schaden in Höhe von <b>666%</b> des ANG +<b>35</b>. Abklingzeit: <b>60</b> Sek."
+      "description": "Schießt kontinuierlich in einem frontalen Kegelbereich und verursacht Schaden in Höhe von <b>666%</b> des ANG + <b>35</b>. Abklingzeit: <b>60</b> Sek."
     },
     {
       "name": "Feuerregen",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und <b>3</b> Granaten nach vorne losgelassen. Dies verursacht einen Flächenschaden in Höhe von insgesamt <b>570%</b> des ANG +<b>30</b> und <b>schleudert</b> Ziele weg."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und <b>3</b> Granaten nach vorne gefeuert. Dies verursacht Flächenschaden in Höhe von insgesamt <b>570%</b> des ANG + <b>30</b> und <b>schleudert</b> Ziele weg."
     }
   ],
   "weapon_type": {
     "name": "Flamme",
-    "description": "Voll geladene Waffen entzünden das Ziel beim nächsten Angriff für <b>8</b> Sekunden und verursachen kontinuierlich Schaden in Höhe von <b>58%</b> des ANG pro Sekunde. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde anhaltenden Schaden in Höhe von <b>58%</b> des ANG. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
   },
   "weapon_resonance": {
     "name": "Flammenresonanz",
-    "description": "<b>Flammenresonanz</b>: Erhöht Flammen-ANG um <b>15%</b> und Flammenwiderstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Flammenwaffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Dieser Effekt kann nicht gestapelt werden."
+    "description": "<b>Flammenresonanz</b>: Erhöht Flammen-ANG um <b>15%</b> und Flammenwiderstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Flammenwaffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Kann nicht mit Effekten desselben Typs gestapelt werden."
   },
   "advancement": [
-    "Jede Angriffsrunde fügt zusätzlichen Schaden in Höhe von <b>2%</b> der aktuellen LP des Ziels zu. Kann max. <b>200%</b> des ANG betragen.",
+    "Jede Runde Sperrfeuer fügt zusätzlichen Schaden in Höhe von <b>2%</b> der aktuellen LP des Ziels zu. Kann max. <b>180%</b> des ANG betragen.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
-    "„Schweres Sperrfeuer“, „Ausweichangriff“ und „Nahkampf“ verursachen <span class=\"text-green\">Ionenversengung</span> bei Zielen, die bereits verbrannt wurden, und fügen ihnen für <b>10</b> Sek. pro Sek. Flammenschaden in Höhe von <b>60%</b> ihres aktuellen ANG zu.",
+    "Die Variantenfähigkeit „Schweres Sperrfeuer“ und der Ausweichangriff „Nahkampf“ verursachen <span class=\"text-green\">Ionenversengung</span> bei Zielen, die bereits verbrannt wurden, und fügen ihnen für <b>10</b> Sek. pro Sek. Flammenschaden in Höhe von <b>40%</b> des ANG zu.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
-    "Der von <span class=\"text-green\">Ionenversengung</span> verursachte Schaden wird auf <b>90%</b> des ANG erhöht. Erfolgreiche Angriffe mit den Ausweichfähigkeiten einer beliebigen Waffe setzen die Dauer von <span class=\"text-green\">Ionenversengung</span> zurück.",
-    "<span class=\"text-green\">Sperrfeuer</span> fügt <b>15</b> Sek. lang „Verbrennen“ zu. Erfolgreiche Angriffe mit den Ausweichfähigkeiten von Waffen verringern die Abklingzeit von <span class=\"text-green\">Sperrfeuer</span> um <b>4</b> Sek. Dieser Effekt hat eine Abklingzeit von <b>1,5</b> Sek."
+    "Der von <span class=\"text-green\">Ionenversengung</span> verursachte Schaden wird auf <b>60%</b> des ANG erhöht. Erfolgreiche Angriffe mit der Ausweichfähigkeit einer beliebigen Waffe setzen die Dauer von <span class=\"text-green\">Ionenversengung</span> zurück.",
+    "<span class=\"text-green\">Sperrfeuer</span> verfügt über einen <b>15</b> Sek. anhaltenden „Verbrennen“-Effekt. Erfolgreiche Angriffe mit der Ausweichfähigkeit einer Waffen verringern die Abklingzeit von <span class=\"text-green\">Sperrfeuer</span> um <b>4</b> Sek. Abklingzeit dieses Effekts: <b>1.5</b> Sek. Der DoT der Ausweichfähigkeit aktiviert die Abklingzeitverringerung ebenfalls."
   ],
   "traits": [
     {
       "name": "Verweilende Wärme",
       "icon": true,
-      "description": "Bei Verwendung einer Entladefähigkeit stellt Cobalt-B eine zufällige Menge von <b>50</b> bis <b>120</b> Punkten an Waffenladung wieder her."
+      "description": "Nachdem Cobalt-B ihre Entladungsfähigkeit eingesetzt hat, stellt sie eine zufällige Menge von <b>50</b> bis <b>120</b> Punkten an Waffenladung wieder her."
     },
     {
       "name": "Cobalt-B – Funke",
       "icon": true,
-      "description": "Bei Verwendung einer Entladefähigkeit stellt Cobalt-B eine zufällige Menge von <b>90</b> bis <b>180</b> Punkten an Waffenladung wieder her."
+      "description": "Nachdem Cobalt-B ihre Entladungsfähigkeit eingesetzt hat, stellt sie eine zufällige Menge von <b>90</b> bis <b>180</b> Punkten an Waffenladung wieder her."
     }
   ],
   "ascension": [

@@ -12,7 +12,7 @@
     }
   ],
   "mind": {
-    "name": "hasta el final",
+    "name": "Hasta el Final",
     "desc": "Una línea directa de pensamiento para completar el objetivo actual."
   },
   "memory": {
@@ -20,11 +20,11 @@
     "desc": "El recuerdo de un campo de nieve y un camión luego de sobrevivir a una crisis."
   },
   "belief": {
-    "name": "blanco o negro",
+    "name": "Blanco o Negro",
     "desc": "Para ella, las cosas complicadas son muy difíciles de entender."
   },
   "emotion": {
-    "name": "nostalgia",
+    "name": "Nostalgia",
     "desc": "Dos hogares, dos refugios, ambos acogedores. En cualquier caso, es el regreso a casa."
   }
 }

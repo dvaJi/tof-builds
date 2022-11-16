@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.9%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>48.4%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>114.6%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>139%</b> do ATQ + <b>7</b>."
+      "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.9%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>48.4%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>114.6%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>139%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Ciclone",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nAo aterrissar, suspende o alvo e causa dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
+      "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nAo aterrissar, suspende o alvo. Ciclone pode causar dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
     },
     {
       "name": "Mergulho Lacerante",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b> ao alvo. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Ataque Furtivo",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+      "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Ataque Saltado",
@@ -70,31 +70,31 @@
       "type": [
         "Skill"
       ],
-      "description": "Dança entre alvos enquanto brande a espada. Causa dano de <b>418%</b> do ATQ + <b>22</b> a até <b>5</b> alvos (ataques a um mesmo alvo causam <b>20%</b> a menos de dano). Ao terminar a habilidade, corta o espaço adiante. Causa dano de <b>264%</b> do ATQ + <b>14</b> a alvos e os suspende. Durante esta habilidade, fica imune a efeitos incapacitantes e todo dano sofrido é reduzido em <b>50%</b>. Tempo de recarga: <b>15</b> seg."
+      "description": "Dança entre alvos enquanto brande a espada. Causa dano de <b>418%</b> do ATQ + <b>22</b> a até <b>5</b> alvos (acertos consecutivos a um mesmo alvo causam <b>20%</b> a menos de dano). Ao terminar a habilidade, faz um corte no espaço adiante. Causa dano de <b>264%</b> do ATQ + <b>14</b> aos alvos ao redor e os suspende. Dá imunidade a efeitos de controle e todo dano sofrido é reduzido em <b>50%</b> ao usar esta habilidade. Tempo de recarga: <b>15</b> seg."
     },
     {
       "name": "Ímpeto Desenfreado",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. Investe contra um alvo e o <b>suspende muito</b>, causando dano de <b>523.3%</b> do ATQ + <b>28</b> e deixando para trás uma Tempestade de Espadas que causa dano de <b>209.6%</b> do ATQ + <b>11</b> a ele. Você fica imune a lesão, congelamento, queimadura e eletrocussão durante <b>5</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. Corre até um alvo e o <b>suspende muito</b>, causando dano de <b>523.3%</b> do ATQ + <b>28</b> e deixando para trás uma Tempestade de Espadas que causa dano de <b>209.6%</b> do ATQ + <b>11</b>. Você fica imune a lesão, congelamento, queimadura e eletrocussão durante <b>5</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Lesão",
-    "description": "Armas com carga completa causarão dano de <b>137%</b> do ATQ com o ataque seguinte e infligirão lesão ao alvo durante <b>7</b> segundos, que então sofrerá <b>20%</b> a mais de dano."
+    "description": "Com carga completa, o ataque seguinte da arma causa dano de <b>137%</b> do ATQ e inflige lesão ao alvo durante <b>7</b> segundos, que então sofre <b>20%</b> a mais de dano."
   },
   "weapon_resonance": {
     "name": "Ressonância física",
-    "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>15%</b> e a resistência física em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas de dano físico. Este efeito de conjunto também funciona com armas no espaço secundário. Não acumula."
+    "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>15%</b> e a resistência física em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas de dano físico. Esse efeito de conjunto também funciona com armas no espaço secundário e não se acumula repetidamente."
   },
   "advancement": [
-    "Cada vez que atinge um alvo com uma habilidade ou habilidade de descarga, confere um acúmulo de reforço de dano que aumenta o dano causado em <b>8%</b> durante <b>25</b> segundos (acumula até <b>3</b> vezes; cada habilidade ou descarga bem-sucedida confere apenas um acúmulo).",
+    "Atingir um alvo com uma habilidade ou habilidade de descarga confere 1 acúmulo deste efeito positivo: Aumenta o dano causado em <b>8%</b> durante <b>25</b> segundos. Esse efeito se acumula até <b>3</b> vezes, por no máximo 1 vez por cada uso de habilidade.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "Acertar uma habilidade ou uma habilidade de descarga em um alvo aplica um acúmulo de Feridas de Guerra a ele, aumentando o dano físico e o efeito de despedaçar de armas físicas e elementais contra o mesmo em <b>10%</b> durante <b>15</b> segundos. Acumula até <b>1</b> vez.",
+    "Atingir um alvo com uma habilidade ou habilidade de descarga aplica 1 acúmulo de feridas de guerra a ele. Aumenta o dano físico sofrido e o despedaçar de armas físicas em <b>10%</b> durante <b>15 segundos</b>. Acumula até <b>1</b> vez.",
     "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
-    "Atingir alvos com habilidades ou habilidades de descarga confere reforço de dano, que aumenta todo dano em <b>20%</b> durante <b>25</b> segundos. Não acumula.",
-    "Acertar o mesmo alvo não reduz mais o dano causado. Aplica mais <b>1</b> acúmulo de Feridas de Guerra a todos os alvos em um raio de 8 metros já com Feridas de Guerra após usar a Espada Incandescente ou uma habilidade de descarga."
+    "Atingir alvos com habilidades ou habilidades de descarga confere reforço de dano, que aumenta todo dano em <b>20%</b> durante <b>25</b> segundos. Esse efeito não se acumula.",
+    "Atingir um mesmo alvo com habilidades não reduz mais o dano. Aplica mais <b>1</b> acúmulo de feridas de guerra a todos os alvos em um raio de 8 metros já com feridas de guerra após usar as habilidades ou a habilidade de descarga de Espada Incandescente."
   ],
   "traits": [
     {

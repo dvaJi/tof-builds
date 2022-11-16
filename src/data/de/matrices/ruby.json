@@ -7,14 +7,16 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Erhöht nach Einsetzen der Waffenfähigkeit den Flammen-ANG 25 Sek. lang um 8%/10%/12%/15%. Wird ausgelöst, nachdem eine andere Sternenbewertung aktiviert wurde. Dieser Effekt kann nicht gestapelt werden."
     },
     {
-      "count": 4
+      "count": 4,
+      "value": "Gewährt nach Einsetzen der Waffenfähigkeit für 15 Sek. „Beherrschung“ (Abklingzeit 15 Sek.; Abklingzeit aller Stufen identisch). „Beherrschung“ ist nicht stapelbar. Erhöht den Flammenschaden bis zum Ende von „Beherrschung“ um 2%/2.5%/3%/3.5%, wenn ein Ziel mit einem normalen Angriff getroffen wird. Bis zu 6-mal stapelbar. Es kann maximal 1 Stapel alle 0,2 Sek. hinzugefügt werden. Bei 6 Stapeln wird ein Schild gewährt, der einmal Schaden blockt."
     }
   ],
   "mind": {
-    "name": "Aufstreben",
+    "name": "Von hinten",
     "desc": "Die empfindlichen Knospen werden immer sorgfältig beschützt, doch sie möchten auch an der Front stehen und mit ihr Seite an Seite zu kämpfen, auch wenn sie dabei in Gefahr sind."
   },
   "memory": {

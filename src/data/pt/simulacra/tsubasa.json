@@ -9,7 +9,7 @@
   "gender": "Feminino",
   "info": "O epítome de oportunista. Hiperativa, comunicativa, adora fazer parte de uma galera.\nExtremamente sociável. Não se abala mesmo se a xingarem ou gritarem com ela. Tolerante a todos os pontos de vista e capaz de fazer amizade num estalar de dedos.\nContudo, confiabilidade advinda deste espírito livre praticamente não existe.",
   "description": "O currículo de Tsubasa mostra que ela já morou no Abrigo de Astra, foi uma oficial Hiena e trabalhou na Hykros, informações em que se baseiam os dados de seu Simulacro.\nDepois disso, ela decidiu trair a Hykros e se juntar aos herdeiros de Aida.\nIsso só poderia ser descrito como um ato alarmante. Sua situação atual é desconhecida, mas podemos ter certeza de que, considerando suas habilidades, ela não é só mais uma capanga nos herdeiros.\nTsubasa nunca se baseia em filosofia, princípios, objetivos ou regras para decidir a quem vai se aliar, como se não desse a mínima para nada disso. Assim sendo, ela já esteve com muitas organizações, mas nunca de fato pertenceu a alguma.",
-  "like": "Vento, gravidade, liberdade, chicletes",
+  "like": "Vento, gravidade, liberdade, chiclete",
   "dislike": "Inércia, estabilidade",
   "element": "Ice",
   "rarity": "SSR",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, saca o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>48.8%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>43.7%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>78.6%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>121.2%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano de <b>112.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância."
+      "description": "No chão, saque o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>48.8%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>43.7%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>78.6%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>121.2%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano de <b>112.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância."
     },
     {
       "name": "Tiro Concentrado",
@@ -46,7 +46,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>56.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>74%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>112.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>169.8%</b> do ATQ + <b>9</b>."
+      "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>56.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>74%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>112.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>169.8%</b> do ATQ + <b>9</b>."
     },
     {
       "name": "Flecha Repulsora",
@@ -68,12 +68,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga de arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e cria uma chuva de granizo na área alvo ao trocar para esta arma. Causa dano de <b>570%</b> do ATQ + <b>30</b>. A chuva tem <b>10%</b> de chance de infligir <b>congelamento</b> durante <b>2</b> segundos. Ganha frente fria e aumenta a velocidade em <b>45%</b> durante <b>7</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e cria uma chuva de granizo na área alvo ao trocar para esta arma. Causa dano de <b>570%</b> do ATQ + <b>30</b>. A chuva tem <b>10%</b> de chance de infligir <b>congelamento</b> durante <b>2</b> segundos. Ganha frente fria e aumenta a velocidade em <b>45%</b> durante <b>7</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Casca de Gelo",
-    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma <b>congela</b> o alvo durante <b>2</b> segundos e causa geladura durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Durante a geladura, a velocidade de carga de arma do alvo diminui <b>50%</b>."
   },
   "advancement": [
     "Dá um acúmulo de flecha cortante cada vez que a flecha disparada por um ataque esquivado acerta um alvo. Cada acúmulo aumenta o dano em <b>5%</b> durante <b>15</b> segundos. Acumula até <b>3</b> vezes.",

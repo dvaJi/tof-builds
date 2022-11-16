@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne, tap normal attack to activate the energy within the cube, firing up to <b>5</b> missiles and dealing total damage equal to <b>59.3%</b> of ATK + <b>3</b>. Consume up to <b>250</b> endurance.\n<b>Passive: If the Wanderer has any stored cubes, consume all cubes to fire Omnium Missiles at targets to deal damage.</b>"
+      "description": "While airborne, use normal attack to activate the energy within the cube, firing up to <b>5</b> missiles and dealing total damage equal to <b>59.3%</b> of ATK + <b>3</b>. Consume up to <b>250</b> endurance.\n<b>Passive: If the Wanderer has any stored cubes, consume all cubes to fire Omnium Missiles at targets to deal damage.</b>"
     },
     {
       "name": "Energy Overflow",
@@ -39,7 +39,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "While airborne or after jumping once, tap normal attack to trigger Energy Overflow.\nUpon landing, fire a shockwave that travels forward, dealing up to <b>23.4%</b> of ATK + <b>1</b> damage to targets in its path."
+      "description": "While airborne or after jumping once, use normal attack to trigger Energy Overflow.\nUpon landing, fire a shockwave that travels forward, dealing up to <b>23.4%</b> of ATK + <b>1</b> damage to targets in its path."
     },
     {
       "name": "Omnium Shock",
@@ -68,26 +68,26 @@
       "type": [
         "Dodge"
       ],
-      "description": "Dodge right before getting hit to trigger a Phantasia, which reduces speed of enemies within range and grants hitstun immunity for <b>0.5</b> seconds.\nIf the Wanderer has less than <b>5</b> cubes, each successful dodge has a <b>40%</b> chance to restore 1 dodge attempt.\nSuccessful dodges do not interrupt normal attack combos.\n<b>Passive: Gain a cube for every successful aerial dodge.</b>"
+      "description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area and grants hitstun immunity for <b>0.5</b> seconds.\nIf the Wanderer has less than <b>5</b> cubes, each successful dodge has a <b>40%</b> chance to restore 1 dodge attempt.\nSuccessful dodges do not interrupt normal attack combos.\n<b>Passive: Gain a cube for every successful aerial dodge.</b>"
     },
     {
       "name": "Omnium Shield",
       "type": [
         "Skill"
       ],
-      "description": "Create shielding for self and nearby allies to block up to <b>800%</b> of ATK in damage for <b>10</b> seconds, and deal <b>124.9%</b> of ATK + <b>8</b> damage to nearby targets and <b>launch</b> them. Each cube in possession when this skill is used adds <b>160%</b> of ATK to max shielding and exhaust the cube. Cooldown: <b>60</b> seconds."
+      "description": "Create shielding for self and nearby allies to block up to <b>800%</b> of ATK in damage for <b>10</b> seconds, deal <b>124.9%</b> of ATK + <b>8</b> damage to nearby targets and <b>strongly launch</b> them. Each cube in possession when this skill is used adds <b>160%</b> of ATK to max shielding and exhaust the cube. Cooldown: <b>60</b> seconds."
     },
     {
       "name": "Omnium Wave",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and gain <b>5</b> cubes upon switching to this weapon, then unleash the <b>5</b> cubes along with a Shockwave. This Shockwave deals damage equal to <b>171%</b> of ATK + <b>9</b> to nearby targets, and <b>launches</b> them into the air. Each cube also deals damage equal to <b>48.5%</b> of ATK + <b>3</b>. If allies are in the vicinity, they gain damage immunity for <b>3</b> seconds."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and gain <b>5</b> cubes after switching to this weapon, then unleash the <b>5</b> cubes along with a Shockwave. This Shockwave deals damage equal to <b>171%</b> of ATK + <b>9</b> to nearby targets, and <b>strongly launches</b> them into the air. Each cube also deals damage equal to <b>48.5%</b> of ATK + <b>3</b>. If allies are in the vicinity, the allies and the wielder gain damage immunity for <b>3</b> seconds."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Fully charged weapons will set the target on fire for <b>8</b> seconds with the next attack, causing ongoing damage of <b>{3}%</b> of ATK every second. Ignited targets receive <b>50%</b> efficacy from healing."
+    "description": "When the weapon is fully charged, the next attack will set the target on fire for <b>8</b> seconds, causing damage equal to <b>58%</b> of ATK every second. Ignited targets have <b>50%</b> reduced healing efficacy."
   },
   "advancement": [
     "Deal damage and produce a healing orb, which lasts for <b>20</b> seconds and restore HP of any teammate who picks it up equal to <b>60%</b> of ATK. <b>2</b>-second cooldown.",
@@ -144,7 +144,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       }
@@ -161,7 +161,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 3
       },
@@ -184,7 +184,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 4
       },
@@ -207,7 +207,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 6
       },
@@ -230,7 +230,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 8
       },
@@ -253,7 +253,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Acidproof glaze I",
+        "name": "Acidproof Glaze I",
         "rarity": "R",
         "amount": 11
       },

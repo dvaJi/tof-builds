@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan damage yang ditimpakan sebesar 14%/16%/18%/20% saat tidak ada musuh dalam radius 4 meter."
+      "value": "Meningkatkan damage yang ditimpakan sebanyak 14%/16%/18%/20% saat tidak ada musuh dalam radius 4 meter."
     },
     {
       "count": 4,
-      "value": "Setelah melancarkan Headshot atau menggunakan Icewind Arrow: Piercing Shot, meningkatkan ATK sebanyak 15%/18%/21%/25% selama 8 detik."
+      "value": "Saat melakukan Headshot atau menyerang target dengan Icewind Arrow: Piercing Shot, meningkatkan ATK sebesar 15%/18%/21%/25% selama 8 detik."
     }
   ],
   "mind": {

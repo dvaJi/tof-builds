@@ -1,8 +1,10 @@
 import fs from 'fs';
 import path from 'path';
+import chalk from 'chalk';
 import { fileURLToPath } from 'url';
 import { removeSimulacraName, formatDescription, slugify } from '../utils.mjs';
 import { allItemsMap } from './generateItems.mjs';
+import { ENtextMap } from './texmap.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -23,7 +25,7 @@ export async function main(textMap, locale) {
   console.log(`Getting simulacra [${locale}]`);
   for await (const simulacra of simulacras) {
     console.log(`> Getting simulacra [${locale}] ${simulacra.id}`);
-    
+
     const data = {
       _id: allCharacters.length + 1,
       id: simulacra.id,
@@ -36,7 +38,9 @@ export async function main(textMap, locale) {
       birthday: textMap['ST_'][simulacra._locid + '_birthday'],
       birthplace: textMap['ST_'][simulacra._locid + '_zhenying'],
       gender: textMap['ST_'][simulacra._locid + '_xingbie'],
-      info: formatDescription(textMap['ST_'][simulacra._locid + '_xingge']),
+      info: formatDescription(
+        textMap['ST_'][simulacra._locid + '_xingge'] || ''
+      ),
       description: formatDescription(
         textMap['ST_'][simulacra._locid + '_jibenxinxi']
       ),
@@ -49,9 +53,7 @@ export async function main(textMap, locale) {
       shatter: simulacra.shatter,
       charge: simulacra.charge,
       skills: simulacra.skills.map((skill) => ({
-        name: formatDescription(
-          textMap[''][skill.name] ? textMap[''][skill.name] : ''
-        ), // FIXME: THIS SHOULD FALLBACK TO ENGLISH
+        name: formatDescription(safeGetTmap(textMap, '', skill.name)),
         type: skill.type,
         description: formatDescription(
           textMap[''][skill.description],
@@ -75,14 +77,18 @@ export async function main(textMap, locale) {
           }
         : undefined,
       advancement: simulacra.advancement.map((advancement) =>
-        formatDescription(textMap[''][advancement])
+        advancement.length === 2
+          ? formatDescription(
+              safeGetTmap(textMap, '', advancement[0]),
+              advancement[1]
+            )
+          : formatDescription(safeGetTmap(textMap, '', advancement))
       ),
       traits: simulacra.traits.map((trait) => ({
         ...trait,
         name: removeSimulacraName(textMap[''][trait.name]),
         description: formatDescription(
-          textMap[''][trait.description + '_OS'] ??
-            textMap[''][trait.description]
+          safeGetTmap(textMap, '', trait.description)
         ),
       })),
       ascension: simulacra.ascension.map((ascension) => {
@@ -146,4 +152,20 @@ export async function main(textMap, locale) {
     fs.writeFileSync(filePath, JSON.stringify(data, undefined, 2));
     allCharacters.push(data);
   }
+}
+
+function safeGetTmap(tmap, fistKey, key) {
+  let finalText = '';
+
+  if (tmap[fistKey][key + '_OS']) {
+    finalText = tmap[fistKey][key + '_OS'];
+  } else if (tmap[fistKey][key]) {
+    finalText = tmap[fistKey][key];
+  } else {
+    console.log(chalk.bold.red(`Missing text for [${fistKey}][${key}]`));
+    // Fall back to english
+    finalText = ENtextMap[fistKey][key];
+  }
+
+  return finalText;
 }

@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano total de <b>47.1%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano total de <b>35.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano total de <b>119.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano total de <b>113.1%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano total de <b>154%</b> do ATQ + <b>8</b> e <b>lança</b> o alvo no ar."
+      "description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\nPrimeiro ataque: Causa dano total de <b>47.1%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano total de <b>35.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano total de <b>119.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano total de <b>113.1%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano total de <b>154%</b> do ATQ + <b>8</b> e <b>lança o alvo no ar</b>."
     },
     {
       "name": "Chuva de Balas",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar, toque no botão de ataque normal para atirar sem parar no chão. Cada disparo causa dano de <b>50.6%</b>% do ATQ + <b>3</b>. Custa <b>150</b> de vigor."
+      "description": "No ar, use o botão de ataque normal para atirar sem parar no chão. Cada disparo causa dano de <b>50.6%</b> do ATQ + <b>3</b> e custa <b>150</b> de vigor."
     },
     {
       "name": "Rajada de Energia",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "No ar, segure o botão de ataque normal para usar Chute Fantasma. Derruba o alvo e causa dano de <b>70.5%</b> do ATQ + <b>4</b>. Ao aterrissar, causa dano de <b>98.7%</b> do ATQ + <b>5</b> a alvos próximos e os <b>lança no ar</b>."
+      "description": "No ar, segure o botão de ataque normal para usar Chute Fantasma. Derruba o alvo e causa dano de <b>70.5%</b> do ATQ + <b>4</b>. Ao aterrissar, causa dano de <b>98.7%</b> do ATQ + <b>5</b> a alvos próximos e os <b>lança alto no ar</b>."
     },
     {
       "name": "Esquiva Desacelerante",
@@ -68,12 +68,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos dentro da área, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos dentro da área, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Provoca uma explosão elétrica no alvo após desferir um golpe crítico, causando dano adicional de <b>30%</b> do ATQ ao alvo e inimigos próximos. Tempo de recarga: <b>0,2</b> seg.",

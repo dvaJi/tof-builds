@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Wenn der Anwender auf dem Boden steht und das Großschwert schwingt, wird 4-mal hintereinander angegriffen.\nErster Angriff: Verursacht Schaden in Höhe von <b>72.9%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>60.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>105.4%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>156%</b> des ANG + <b>8</b>, lässt das Ziel <b>länger in der Luft schweben</b> und stößt es dann bei der Landung weg."
+      "description": "Wenn der Anwender auf dem Boden steht und das Großschwert schwingt, wird 4-mal hintereinander angegriffen.\nErster Angriff: Verursacht Schaden in Höhe von <b>72.9%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>60.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>105.4%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>156%</b> des ANG + <b>8</b>, schießt das Ziel <b>stark hoch</b> und schleudert es bei der Landung erneut hoch."
     },
     {
       "name": "Luftschlag",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Tippe in der Luft oder nach einmaligem Springen auf den normalen Angriff, um 4-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>106.5%</b> des ANG + <b>6</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>87.5%</b> des ANG + <b>5</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>156%</b> des ANG + <b>8</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>140.5%</b> des ANG + <b>7</b>, löst einen <b>Knockdown</b> aus und schleudert das Ziel bei der Landung in die Höhe."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 4-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>106.5%</b> des ANG + <b>6</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>87.5%</b> des ANG + <b>5</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>156%</b> des ANG + <b>8</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>140.5%</b> des ANG + <b>7</b>, löst einen <b>Knockdown</b> aus und schleudert das Ziel bei der Landung in die Höhe."
     },
     {
       "name": "Aufsteigender Schnitt",
@@ -55,14 +55,14 @@
         "Croch",
         "Attack"
       ],
-      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
     },
     {
       "name": "Wirbelsturm",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Halte den normalen Angriff gedrückt, während du stillstehst oder dich bewegst, um „Wirbelsturm“ auszulösen. Dies verursacht beim Ziel alle <b>0,5</b> Sek. Schaden in Höhe von <b>132.8%</b> des ANG + <b>7</b>. Gewährt währenddessen Immunität gegen Trefferlähmung."
+      "description": "Halte den normalen Angriff gedrückt, während du stillstehst oder dich bewegst, um „Wirbelsturm“ auszulösen. Dies verursacht beim Ziel alle <b>0,5</b> Sek. Schaden in Höhe von <b>132.8%</b> des ANG + <b>7</b>. Gewährt währenddessen Trefferlähmung-Immunität."
     },
     {
       "name": "Verwüsten",
@@ -70,7 +70,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums des perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Verwüsten auszulösen.\nVerursacht Schaden in Höhe von <b>65.9%</b> des ANG + <b>3</b> bei jedem Treffer und <b>schleudert</b> Ziele in die Luft."
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Verwüsten auszulösen.\nVerursacht Schaden in Höhe von <b>65.9%</b> des ANG + <b>3</b> bei jedem Treffer und <b>schleudert</b> Ziele in die Luft."
     },
     {
       "name": "Halbmondschnitt",
@@ -97,7 +97,7 @@
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Voll geladene Waffen <b>gefrieren</b> das Ziel für <b>2</b> Sekunden und verursachen für <b>6</b> Sekunden Frostschaden. Das Durchbrechen des Eispanzers verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während Frostschaden ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> reduziert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Erhöht „Zertrümmern“ um <b>15%</b> und stellt <b>10%</b> der LP wieder her, wenn der Schild des Ziels zertrümmert wurde.",
@@ -116,7 +116,7 @@
     {
       "name": "Frostig",
       "icon": true,
-      "description": "Verringert den von Meryl erlittenen Frostschaden um <b>25%</b>, gewährt Immunität gegen Erfrieren und verringert die Dauer von Erstarren um <b>50%</b>."
+      "description": "Verringert den von Meryl erlittenen Frostschaden um <b>25%</b>, gewährt Immunität gegen Erfrierung und verringert die Dauer von Erstarren um <b>50%</b>. Die Luft um Meryl herum kühlt ab und lässt Wasser gefrieren."
     }
   ],
   "ascension": [

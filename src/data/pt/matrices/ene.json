@@ -8,12 +8,12 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Quando causa dano maior do que 100% do ATQ, causa dano adicional igual a 60%/75%/90% do ATQ. Tempo de recarga: 3 segundos."
+      "value": "Quando causa dano maior do que 100% do ATQ, causa dano adicional igual a 60%/75%/90% do ATQ. Tempo de recarga: 3 seg."
     }
   ],
   "mind": {
     "name": "Competitiva",
-    "desc": "O resultado acelerado quando houver aumento de poder também irá se refletir em leves tremores na arma."
+    "desc": "Quando o poder aumenta, a descarga acelerada também se reflete em leves tremores na arma."
   },
   "memory": {
     "name": "Sem Limites",

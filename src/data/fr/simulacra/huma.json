@@ -4,7 +4,7 @@
   "name": "Huma",
   "weapon": "Bouclier fournaise V2",
   "weapon_id": "molten_shield_v2",
-  "birthday": "12 janvier (capricorne)",
+  "birthday": "12 janvier (Capricorne)",
   "birthplace": "Hykros",
   "gender": "Féminin",
   "info": "Entre parfois dans un état de confusion et d'hébétement à cause de lacunes dans ses souvenirs et certaines parties de ses données d'identité. Porte souvent un masque sur la bouche, ce qui complique davantage la communication. Extrêmement discrète et introvertie.\nAvec peu d'expérience du monde extérieur, elle est aussi innocente qu'une enfant et affiche une attitude indifférente.",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes en l'air ou après avoir sauté une fois, appuyez sur Attaque normale pour attaquer 4 fois d'affilée.\nPremière attaque : inflige des dégâts équivalant à <b>75.9%</b> de l'ATQ + <b>4</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>80.2%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>103%</b> de l'ATQ + <b>5</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>118.6%</b> de l'ATQ + <b>6</b> et <b>renverse</b> la cible avant de la projeter dans les airs au moment de toucher le sol."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>75.9%</b> de l'ATQ + <b>4</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>80.2%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>103%</b> de l'ATQ + <b>5</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>118.6%</b> de l'ATQ + <b>6</b> et <b>renverse</b> la cible avant de la projeter dans les airs au moment de toucher le sol."
     },
     {
       "name": "Anticipation",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le Jetpack pour déclencher des attaques ramifiées aériennes.\nForme Bouclier : lorsque vous tombez, vous infligez des dégâts correspondant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts correspondant à <b>89.2%</b> de l'ATQ + <b>5</b>, et suspendez la cible.\nForme Hache : lorsque vous tombez, vous infligez des dégâts correspondant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts correspondant à <b>128.3%</b> de l'ATQ + <b>7</b>, et suspendez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher des attaques ramifiées aériennes.\nForme bouclier : lorsque vous tombez, vous infligez des dégâts équivalant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>89.2%</b> de l'ATQ + <b>5</b> et suspendez la cible.\nForme hache : lorsque vous tombez, vous infligez des dégâts équivalant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>128.3%</b> de l'ATQ + <b>7</b> et suspendez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
       "name": "Éruption",
@@ -54,34 +54,34 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale rapidement après l'esquive pour déclencher Attaque d'esquive.\nForme Bouclier : vous libérez un bouclier enflammé qui inflige des dégâts correspondant à <b>55.8%</b> de l'ATQ + <b>3</b>, et repousse la cible. De plus, vous déclenchez une explosion, qui inflige des dégâts équivalant à <b>{0}%</b> de l'ATQ + <b>{1}</b> et <b>étourdit</b> les cibles pendant <b>0,5</b> seconde. Réduit les effets de soins reçus par les cibles de <b>30%</b> pendant <b>10</b> secondes.\nForme Hache : lancez un coup de hache pour infliger des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b>, et réduire les effets de soins reçus par les cibles de <b>30%</b> pendant <b>10</b> secondes."
+      "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Attaque d'esquive.\nForme Bouclier : vous libérez un bouclier enflammé qui inflige des dégâts correspondant à <b>55.8%</b> de l'ATQ + <b>3</b>, et repousse la cible. De plus, vous déclenchez une explosion, qui inflige des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b> et <b>étourdit</b> les cibles pendant <b>0,5</b> seconde. Réduit les effets de soins reçus par les cibles de <b>30%</b> pendant <b>10</b> secondes.\nForme Hache : lancez un coup de hache pour infliger des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b>, et réduire les effets de soins reçus par les cibles de <b>30%</b> pendant <b>10</b> secondes."
     },
     {
       "name": "Fission",
       "type": [
         "Skill"
       ],
-      "description": "Conversion de bouclier : passez de la forme Bouclier à la forme Hache pour frapper violemment le sol. Inflige des dégâts équivalant à <b>373.8%</b> de l'ATQ + <b>20</b> et <b>suspend longuement</b> la cible. Crée une zone enflammée pendant <b>5</b> secondes qui brûle la cible et inflige des dégâts continus équivalant à <b>233.6%</b> de l'ATQ + <b>12</b>.\nConversion de hache : passez de la forme Hache à la forme Bouclier pour frapper le sol. Inflige des dégâts équivalant à <b>309.5%</b> de l'ATQ + <b>16</b> à la cible et la repousse. Empêche la cible de changer d'arme pendant <b>5</b> secondes.\nTemps de recharge : <b>25</b> secondes. Conversion de hache et Conversion de bouclier partagent la même recharge."
+      "description": "Conversion de bouclier : passez de la forme bouclier à la forme hache pour frapper violemment le sol. Inflige des dégâts équivalant à <b>373.8%</b> de l'ATQ + <b>20</b> et <b>suspend longuement</b> la cible. Crée une vaste zone enflammée pendant <b>5</b> secondes qui brûle la cible et inflige des dégâts continus équivalant à <b>233.6%</b> de l'ATQ + <b>12</b>.\nConversion de hache : passez de la forme hache à la forme bouclier pour frapper le sol. Inflige des dégâts équivalant à <b>309.5%</b> de l'ATQ + <b>16</b> à la cible et la repousse. Empêche la cible de changer d'arme pendant <b>5</b> secondes.\nTemps de recharge : <b>25</b> secondes. Conversion en hache et Conversion en bouclier partagent le même temps de recharge."
     },
     {
       "name": "Rage ardente",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et déclenche une onde de choc enflammée au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>352%</b> de l'ATQ + <b>19</b>. Provoquez les ennemis pendant <b>5</b> secondes, pendant lesquelles vous gagnez <b>15%</b> de réduction de dégâts. Répandez des objets en forme de bouclier en fonction du nombre de cibles provoquées. Les objets durent <b>20</b> secondes et prodiguent <b>5%</b> de réduction des dégâts (cumulable) pendant <b>10</b> secondes, vous faisant récupérer 1 esquive."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et déclenche une onde de choc enflammée au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>352%</b> de l'ATQ + <b>19</b>. Provoquez les ennemis pendant <b>5</b> secondes, pendant lesquelles vous gagnez <b>15%</b> de réduction des dégâts. Dispersez des objets en forme de bouclier en fonction du nombre de cibles provoquées. Les objets durent <b>20</b> secondes et prodiguent <b>5%</b> de réduction des dégâts (cumulable) pendant <b>10</b> secondes, vous faisant récupérer 1 esquive."
     }
   ],
   "weapon_type": {
     "name": "Feu",
-    "description": "Les armes entièrement chargées embrasent la cible pendant <b>8</b> secondes lors de l'attaque suivante, infligeant chaque seconde des dégâts continus de <b>{3}%</b> d'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque embrase la cible pendant <b>8</b> secondes, infligeant chaque seconde des dégâts de <b>58%</b> de l'ATQ. L'efficacité des soins reçus par les cibles embrasées est réduite de <b>50%</b>."
   },
   "advancement": [
-    "Obtenez un cumul de Bouclier puissant en lançant Décharge : Rage ardente. Utiliser une compétence d'esquive ou de branche sous forme de bouclier confère un cumul de Bouclier puissant, ce qui réduit les dégâts de <b>10%</b> pendant <b>15</b> secondes et peut se cumuler jusqu'à <b>3</b> fois. Passer en forme de hache convertit tous les cumuls de Bouclier puissant en cumuls de Hache tranchante, qui augmente chacun les dégâts de <b>15%</b> pendant <b>15</b> secondes. Changer d'arme annule cet effet.",
+    "Obtenez un cumul de Bouclier puissant en utilisant Décharge : Rage ardente. Utiliser une compétence d'esquive ou une compétence ramifiée en forme bouclier confère un cumul de Bouclier puissant, ce qui réduit les dégâts de <b>10%</b> pendant <b>15</b> secondes et peut se cumuler jusqu'à <b>3</b> fois. Passer en forme hache convertit tous les cumuls de Bouclier puissant en cumuls de Hache tranchante, qui augmentent chacun les dégâts de <b>15%</b> pendant <b>15</b> secondes. Changer d'arme annule cet effet.",
     "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
     "En forme de bouclier, les attaques d'esquive ou de déviation infligent des dégâts supplémentaires aux cibles, d'une valeur égale à <b>4%</b> des PV actuels de l'utilisateur.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
-    "Après être passé à une hache bouclier, confère immédiatement une réduction de dégâts de <b>30%</b>, qui diminue de <b>10%</b> toutes les <b>3</b> secondes, jusqu'à un minimum de <b>10%</b>. Changer d'arme annule cet effet. Temps de recharge : <b>30</b> secondes.",
-    "Renforce les compétences de conversion.\nRenfort de bouclier : augmente de <b>60%</b> les dégâts infligés et étend de <b>30%</b> la portée de la zone de feu.\nRenfort de hache : ne partage pas le temps de recharge de Renfort de bouclier. Pendant les <b>5</b> secondes suivant l'utilisation de cette compétence, transforme en PV tous les dégâts reçus (jusqu'à <b>15%</b> des PV max de l'utilisateur)."
+    "Après être passé à une hache bouclier, confère immédiatement une réduction des dégâts de <b>30%</b>, qui diminue de <b>10%</b> toutes les <b>3</b> secondes, jusqu'à un minimum de <b>10%</b>. Changer d'arme annule cet effet. Temps de recharge : <b>30</b> secondes.",
+    "Renforce les compétences de conversion.\nRenfort de Conversion en bouclier : augmente de <b>60%</b> les dégâts infligés et étend de <b>30%</b> la portée de la zone de feu.\nRenfort de Conversion en hache : ne partage pas le temps de recharge de Renfort de Conversion en bouclier. Pendant les <b>5</b> secondes suivant l'utilisation de cette compétence, transforme en PV tous les dégâts reçus (jusqu'à <b>15%</b> des PV max de l'utilisateur)."
   ],
   "traits": [
     {

@@ -8,7 +8,7 @@
   "birthplace": "Hykros",
   "gender": "Femenino",
   "info": "Indiferente, distante y antisocial. Hay muy pocas cosas capaces de provocar una reacción en Meryl. No muestra ningún tipo de emoción, no porque sea insensible, sino porque no está dispuesta a crear lazos cercanos con otras personas.",
-  "description": "Ejecutora de alto rango de Hykros de edad y lugar de nacimiento desconocidos. Según la poca información disponible públicamente, Meryl se distinguió en muchas misiones de grado S de Hykros por su excepcional habilidad con la espada y su destreza en el combate. En pocos años, fue ascendida de administradora ordinaria a ejecutora superior.\nLa actitud fría e inescrutable de Meryl hace que nadie pueda estar seguro de sus verdaderas intenciones. Esta frialdad, junto con su enfoque despiadado a la hora de tratar con los enemigos, hace que todos mantengan distancia con ella.\nLa base de datos de los Ejecutores sí muestra que Meryl tiene un hermano gemelo, con el que mantiene una estrecha relación, pero no hay ningún registro ni información formal sobre él.",
+  "description": "Ejecutora de alto rango de Hykros de edad y lugar de nacimiento desconocidos. Según la poca información disponible públicamente, Meryl se distinguió en muchas misiones de grado S de Hykros por su excepcional habilidad con la espada y su destreza en el combate. En pocos años, fue ascendida de gerente ordinaria a ejecutora superior.\nLa actitud fría e inescrutable de Meryl hace que nadie pueda estar seguro de sus verdaderas intenciones. Esta frialdad, junto con su enfoque despiadado a la hora de tratar con los enemigos, hace que todos mantengan distancia con ella.\nLa base de datos de los Ejecutores sí muestra que Meryl tiene un hermano gemelo, con el que mantiene una estrecha relación, pero no hay ningún registro ni información formal sobre él.",
   "like": "Días de nieve, cristales",
   "dislike": "Botánica",
   "element": "Ice",
@@ -19,50 +19,50 @@
   "charge": 4,
   "skills": [
     {
-      "name": "Embate potente",
+      "name": "Embate Potente",
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, blande el espadón para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>72.9%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>105.4%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>, <b>suspende fuertemente</b> al objetivo y luego lo lanza al aterrizar."
+      "description": "En el suelo, blande el espadón para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>72.9%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>105.4%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>, <b>lanza fuerte</b> al objetivo y luego lo lanza al aterrizar."
     },
     {
-      "name": "Golpe aéreo",
+      "name": "Golpe Aéreo",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>106.5%</b> del ATQ + <b>6</b>.\nSegundo ataque: inflige daño equivalente al <b>87.5%</b> del ATQ + <b>5</b>.\nTercer ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>.\nCuarto ataque: inflige daño equivalente al <b>140.5%</b> del ATQ + <b>7</b> y <b>derriba</b>; lanza al objetivo al aterrizar."
+      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>106.5%</b> del ATQ + <b>6</b>.\nSegundo ataque: inflige daño equivalente al <b>87.5%</b> del ATQ + <b>5</b>.\nTercer ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>.\nCuarto ataque: inflige daño equivalente al <b>140.5%</b> del ATQ + <b>7</b> y <b>derriba</b>; lanza al objetivo al aterrizar."
     },
     {
-      "name": "Corte ascendente",
+      "name": "Corte Ascendente",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar Corte Ascendente.\nAl impactar, <b>suspende fuertemente</b> al objetivo y te eleva, lo que inflige daño equivalente al <b>64.3%</b> del ATQ + <b>3</b>."
+      "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar Corte Ascendente.\nAl impactar, causa <b>suspensión fuerte</b> al objetivo y te eleva, lo que inflige daño equivalente al <b>64.3%</b> del ATQ + <b>3</b>."
     },
     {
-      "name": "Corte puesta lunar",
+      "name": "Corte Puesta Lunar",
       "type": [
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Corte puesta lunar"
+      "description": "Corte Puesta Lunar"
     },
     {
-      "name": "Ataque sorpresa",
+      "name": "Ataque Sorpresa",
       "type": [
         "Croch",
         "Attack"
       ],
-      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
       "name": "Torbellino",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Al permanecer en el lugar o en movimiento, mantén pulsado el ataque normal para activar Torbellino e infligir daño equivalente al <b>132.8%</b> del ATQ + <b>7</b> cada <b>0.5</b> segundos al objetivo. Otorga inmunidad al aturdimiento por golpes al usarlo."
+      "description": "Al permanecer en el lugar o en movimiento, mantén pulsado el ataque normal para activar Torbellino e infligir daño equivalente al <b>132.8%</b> del ATQ + <b>7</b> cada <b>0.5</b> segundos al objetivo. Otorga inmunidad a la conmoción al usarlo."
     },
     {
       "name": "Arrasar",
@@ -70,10 +70,10 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Arrasar.\nCada golpe inflige daño equivalente al <b>65.9%</b> del ATQ + <b>3</b> y <b>lanza</b> a los objetivos."
+      "description": "Pulsa el ataque normal durante la corta oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Arrasar.\nCada golpe inflige daño equivalente al <b>65.9%</b> del ATQ + <b>3</b> y <b>lanza</b> a los objetivos."
     },
     {
-      "name": "Corte creciente",
+      "name": "Corte Creciente",
       "type": [
         "Dodge",
         "Attack"
@@ -88,7 +88,7 @@
       "description": "Blande el espadón para lanzar sus auras hacia adelante e infligir daño equivalente al <b>141.7%</b> del ATQ + <b>7</b> y aumentar el daño infligido en <b>5%</b> con cada golpe. Mientras está activa, otorga inmunidad a los efectos de control. Enfriamiento: <b>45</b> segundos."
     },
     {
-      "name": "Barrera de escarcha",
+      "name": "Barrera de Escarcha",
       "type": [
         "Discharge"
       ],
@@ -97,13 +97,13 @@
   ],
   "weapon_type": {
     "name": "Caparazón de Hielo",
-    "description": "Las armas completamente cargadas <b>congelarán</b> al objetivo por <b>2</b> segundos y lo dejarán congelado por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga del arma del objetivo se reduce en un <b>50%</b>."
+    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga de arma del objetivo se reduce un <b>50%</b>."
   },
   "advancement": [
     "Aumenta la destrucción en un <b>15%</b> y recupera <b>10%</b> de los PS luego de destruir el escudo del objetivo.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
     "Al cambiar de arma, obtienes un Escudo de Hielo equivalente al <b>10%</b> de los PS Máx. Enfriamiento: <b>20</b> segundos. El Escudo de Hielo dura hasta <b>10</b> segundos.",
-    "Aumenta el crecimiento de los PS base del arma actual en un <b>32%</b>.",
+    "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
     "Aumenta el daño y la destrucción en un <b>50%</b> mientras el escudo está activo.",
     "Al cambiar de arma, obtienes un Escudo de Hielo equivalente al <b>20%</b> de los PS Máx. e inmunidad al control mientras el escudo esté activo. Enfriamiento: <b>20</b> segundos. El Escudo de Hielo dura hasta <b>10</b> segundos."
   ],
@@ -116,7 +116,7 @@
     {
       "name": "Escarchada",
       "icon": true,
-      "description": "Reduce el daño de hielo recibido por Meryl en <b>25%</b>, gana inmunidad a congelamiento y reduce la duración de la congelación en <b>50%</b>."
+      "description": "Reduce el daño de hielo que Meryl recibe un <b>25%</b>, otorga inmunidad al congelamiento y reduce la duración de congelaciones un <b>50%</b>. El aire alrededor de Meryl se enfría, lo que congela el agua a su alrededor."
     }
   ],
   "ascension": [
@@ -126,7 +126,7 @@
       "cost": 400,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 2
       }
@@ -137,7 +137,7 @@
       "cost": 800,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 2
       }
@@ -148,7 +148,7 @@
       "cost": 1200,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 3
       },
@@ -165,7 +165,7 @@
       "cost": 1600,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 3
       },
@@ -177,7 +177,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 3
       }
@@ -188,7 +188,7 @@
       "cost": 2000,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 4
       },
@@ -200,7 +200,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 4
       }
@@ -211,7 +211,7 @@
       "cost": 2400,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 6
       },
@@ -223,7 +223,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 6
       }
@@ -234,7 +234,7 @@
       "cost": 2800,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 8
       },
@@ -246,7 +246,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 8
       }
@@ -257,7 +257,7 @@
       "cost": 3200,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 11
       },
@@ -269,7 +269,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 11
       }
@@ -280,7 +280,7 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_winter",
-        "name": "Corazón de invierno",
+        "name": "Corazón de Invierno",
         "rarity": "R",
         "amount": 5
       },
@@ -292,7 +292,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Armazón reforzado II",
+        "name": "Armazón Reforzado II",
         "rarity": "SSR",
         "amount": 5
       }

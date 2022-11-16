@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Lorsqu'une cible est fracturée, confère un bonus de dégâts de 8%/10%/12%/14% pendant 25 secondes. Si ce bonus est obtenu plusieurs fois, seul le niveau le plus élevé s'appliquera."
+      "value": "Lorsqu'une cible est fracturée, confère un bonus de dégâts de 8%/10%/12%/14% pendant 25 secondes. Si ce bonus est obtenu plusieurs fois, seul l'effet au niveau le plus élevé s'appliquera."
     },
     {
       "count": 4,

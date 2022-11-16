@@ -8,16 +8,16 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta em 10%/12,5%/15%/17,5% o dano causado a alvos sofrendo efeitos negativos."
+      "value": "Aumenta em 14%/16%/18%/20% o dano causado a alvos sofrendo efeitos negativos."
     },
     {
       "count": 4,
-      "value": "Restaura 1 tentativa de esquiva a cada 3 esquivas. Esquivas bem-sucedidas infligem queimadura, causando dano de 24%/30%/36%/42% do ATQ a cada segundo durante 6 segundos."
+      "value": "Restaura 1 tentativa de esquiva a cada 3 esquivas. Habilidades de esquiva infligem queimadura ao atingir, causando dano de 24%/30%/36%/42% do ATQ a cada 0,5 segundo durante 4 segundos."
     }
   ],
   "mind": {
     "name": "Sexto Sentido",
-    "desc": "É como observação estática de outra dimensão."
+    "desc": "É como ser forçada a observar de outra dimensão sem se mover."
   },
   "memory": {
     "name": "Capital Inicial",

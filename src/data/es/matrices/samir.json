@@ -16,19 +16,19 @@
     }
   ],
   "mind": {
-    "name": "solo bromeaba",
+    "name": "Solo Bromeaba",
     "desc": "Si piensas que sus bromas son cursis, ella te responderá: \"¿Por qué esa cara seria?\"."
   },
   "memory": {
-    "name": "la que se marchó",
+    "name": "Se Marchó",
     "desc": "Quien vive en el pasado es inalcanzable y no se puede soltar."
   },
   "belief": {
-    "name": "bala de plata",
+    "name": "Bala de Plata",
     "desc": "Ella tiene una bala de plata. ¿Está cazando vampiros?"
   },
   "emotion": {
-    "name": "enfoque de futuro",
+    "name": "Enfoque del Futuro",
     "desc": "Siempre está segura de su destino."
   }
 }

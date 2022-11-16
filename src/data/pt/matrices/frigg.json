@@ -7,7 +7,8 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Aumenta o ATQ gélido em 8%/10%/12%/15% durante 10 segundos ao trocar entre armas gélidas. O efeito deste conjunto funciona no espaço secundário, mas apenas o conjunto de classificação estelar mais alta surtirá efeito."
     },
     {
       "count": 4,

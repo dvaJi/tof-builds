@@ -7,6 +7,7 @@ import { main as mainMounts } from './generateMounts.mjs';
 import { main as mainSimulacra } from './generateSimulacra.mjs';
 import { main as mainGifts } from './generateGifts.mjs';
 import { main as mainTeams } from './generateTeams.mjs';
+import { ENtextMap } from './texmap.mjs';
 
 import dotenv from 'dotenv';
 dotenv.config();
@@ -29,9 +30,6 @@ const locales = ['en', 'es', 'de', 'fr', 'id', 'ja', 'pt', 'th'];
 
 async function main() {
   if (process.env.DEV_ENV) {
-    const ENtextMap = JSON.parse(
-      fs.readFileSync(path.join(OFFICIALLOC_PATH, 'en', `Game.json`))
-    );
     for (const locale of locales) {
       const textMap = JSON.parse(
         fs.readFileSync(path.join(OFFICIALLOC_PATH, locale, `Game.json`))

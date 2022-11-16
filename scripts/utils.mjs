@@ -34,7 +34,7 @@ export function formatDescription(description, values = []) {
 
   for (let index = 0; index < values.length; index++) {
     const value = values[index];
-    newDesc = newDesc.replace(`{${index}}`, value);
+    newDesc = newDesc.replaceAll(`{${index}}`, value);
   }
 
   return newDesc

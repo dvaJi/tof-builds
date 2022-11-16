@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Saat target hancur, memberikan 8%/10%/12%/14% Damage Boost selama 25 detik. Cuma level tertinggi yang berlaku saat efek diperoleh secara berulang."
+      "value": "Menghancurkan perisai target memberikan 8%/10%/12%/14% Damage Boost selama 25 detik. Jika didapatkan berulang kali, efek yang berlaku hanyalah yang levelnya paling tinggi."
     },
     {
       "count": 4,

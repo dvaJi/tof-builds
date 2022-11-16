@@ -7,11 +7,12 @@
   "rarity": "SSR",
   "bonus": [
     {
-      "count": 2
+      "count": 2,
+      "value": "Meningkatkan Frost ATK sebanyak 8%/10%/12%/15% selama 10 detik saat berganti ke Frost Weapon lain. Efek set ini berfungsi di slot off-hand, tetapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
     },
     {
       "count": 4,
-      "value": "Saat melepaskan Frost Domain dengan senjata \"Balmung\", musuh yang ada di dalam Frost Domain akan menerima Frost Damage setara dengan 55%/65%/75%/85% ATK setiap detik."
+      "value": "Saat melepaskan Frost Domain dengan senjata \"Balmung\", musuh yang ada di dalam Frost Domain akan menerima Frost Damage sebesar 55%/65%/75%/85% ATK setiap detik."
     }
   ],
   "mind": {

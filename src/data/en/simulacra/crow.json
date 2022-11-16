@@ -4,7 +4,7 @@
   "name": "Crow",
   "weapon": "Thunderblades",
   "weapon_id": "thunderblades",
-  "birthday": "17 December (Sagittarius)",
+  "birthday": "December 17 (Sagittarius)",
   "birthplace": "Unknown",
   "gender": "Male",
   "info": "A lively and cheerful personality who brightens up any room. Frank and extroverted, he is optimistic in any situation but can be overly proud at times\nOften practices some eye-catching dagger tricks and has a repertoire of dry jokes that he finds hilarious. He likes delivering these jokes as though he were on stage.\nWhat beneath his cheery and carefree attitude, are unshakeable willpower and determination. Keen to achieve his goals no matter what is in his way. Sometimes pushes himself too hard.",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne or after jumping once, tap normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>38.4%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>92%</b> of ATK + <b>5</b>.\nFourth Attack: Deal damage equal to <b>138%</b> of ATK + <b>7</b>."
+      "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>38.4%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>92%</b> of ATK + <b>5</b>.\nFourth Attack: Deal damage equal to <b>138%</b> of ATK + <b>7</b>."
     },
     {
       "name": "Rapid Lunge",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Spiral Drive.\nWhile falling, deal damage equal to <b>42%</b> of ATK + <b>2</b> each hit."
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Spiral Drive.\nWhile falling, deal damage equal to <b>42%</b> of ATK + <b>2</b> each hit."
     },
     {
       "name": "Sneak Attack",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+      "description": "Approach the enemy from behind while crouching, then use normal attack to trigger Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
     },
     {
       "name": "Flying Blades",
@@ -77,7 +77,7 @@
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and blink to the target location upon switching to this weapon and attack, dealing damage equal to <b>86.9%</b> of ATK + <b>5</b> and electrocuting the target (after <b>5</b> seconds, deals volt damage equal to <b>15%</b> of damage dealt, up to <b>350%</b> of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to <b>65.2%</b> of ATK + <b>3</b> to those that touch them."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and dash to the target location upon switching to this weapon and attack, dealing damage equal to <b>86.9%</b> of ATK + <b>5</b> and electrocuting the target (after <b>5</b> seconds, deals volt damage equal to <b>15%</b> of damage dealt, up to <b>350%</b> of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to <b>65.2%</b> of ATK + <b>3</b> to those that touch them."
     }
   ],
   "weapon_type": {
@@ -139,7 +139,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 3
       }
@@ -156,7 +156,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 3
       },
@@ -179,7 +179,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 4
       },
@@ -202,7 +202,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 6
       },
@@ -225,7 +225,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 8
       },
@@ -248,7 +248,7 @@
       },
       "mat2": {
         "id": "nano_coating_i",
-        "name": "Nano coating I",
+        "name": "Nano Coating I",
         "rarity": "R",
         "amount": 11
       },

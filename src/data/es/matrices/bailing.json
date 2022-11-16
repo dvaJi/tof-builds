@@ -2,7 +2,7 @@
   "_id": 2,
   "id": "bailing",
   "name": "Bai Ling",
-  "suitName": "Bloqueo mortal",
+  "suitName": "Bloqueo Mortal",
   "hash": "SR9",
   "rarity": "SR",
   "bonus": [
@@ -12,15 +12,15 @@
     }
   ],
   "mind": {
-    "name": "distinta",
+    "name": "Distinta",
     "desc": "¿Qué hacer si se expande cuando piensas en ello?"
   },
   "memory": {
-    "name": "disipación",
+    "name": "Disipación",
     "desc": "¿Del caos al orden? Probablemente se requiera intervención externa. Dije probablemente."
   },
   "belief": {
-    "name": "comercio justo",
+    "name": "Comercio Justo",
     "desc": "Los bienes deben intercambiarse de acuerdo a su valor real. ¿Pero qué valor tiene algo que es invaluable?"
   },
   "emotion": {

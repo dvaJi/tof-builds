@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Erhöht den Schaden an Zielen mit Debuffs um 10%/12,5%/15%/17,5%."
+      "value": "Erhöht den Schaden gegen Ziele mit Debuffs um 14%/16%/18%/20%."
     },
     {
       "count": 4,
-      "value": "Stellt nach 3-maligem Ausweichen 1 Ausweichaktion wieder her. Erfolgreiche Ausweichaktionen fügen „Verbrennen“ zu, das 6 Sek. lang jede Sek. Schaden in Höhe von 24%/30%/36%/42% des ANG verursacht."
+      "value": "Stellt nach 3 Ausweichversuchen 1 Ausweichen wieder her. Erfolgreiche Ausweichfähigkeiten fügen „Verbrennen“ zu, wenn sie einen Gegner treffen. „Verbrennen“ verursacht 4 Sek. lang alle 0,5 Sek. Schaden in Höhe von 24%/30%/36%/42% des ANG zu."
     }
   ],
   "mind": {

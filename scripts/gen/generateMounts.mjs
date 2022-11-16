@@ -12,17 +12,17 @@ const MapsDATA_PATH = path.join(__dirname, "..", "..", "maps");
 export let allItemsMap = {};
 
 export async function main(textMap, locale) {
-  let valid = true;
-  let count = 1;
-  while (valid) {
-    // console.log(textMap[""][`Item_Mount_${count.toString().padStart(3, "0")}`]);
-    console.log(textMap[""][`Mount${count}_name`]);
-    count++;
-    if (count === 30) {
-      valid = false;
-      break;
-    }
-  }
+  // let valid = true;
+  // let count = 1;
+  // while (valid) {
+  //   // console.log(textMap[""][`Item_Mount_${count.toString().padStart(3, "0")}`]);
+  //   console.log(textMap[""][`Mount${count}_name`]);
+  //   count++;
+  //   if (count === 30) {
+  //     valid = false;
+  //     break;
+  //   }
+  // }
   // const items = JSON.parse(
   //   fs.readFileSync(path.join(MapsDATA_PATH, `items.json`))
   // );

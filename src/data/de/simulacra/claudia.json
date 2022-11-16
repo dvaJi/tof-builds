@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Während du in der Luft bist, tippe auf normaler Angriff, um 4 Mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>27.9%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>48.4%</b> des ANG + <b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>114.6%</b> des ANG + <b>6</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>139%</b> des ANG + <b>7</b>."
+      "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>27.9%</b> des ANG + <b>1</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>48.4%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>114.6%</b> des ANG + <b>6</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>139%</b> des ANG + <b>7</b>."
     },
     {
       "name": "Zyklon",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben und fügt Schaden in Höhe von <b>47.8%</b> des ANG + <b>3</b> zu."
+      "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben. „Zyklon“ kann einem einzelnen Ziel Schaden in Höhe von <b>47.8%</b> des ANG + <b>3</b> zufügen."
     },
     {
       "name": "Fallender Schwung",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder tippe den normalen Angriff, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nFügt beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> und schlägst das Ziel zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> für jeden Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> und schlägst das Ziel zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Schleichattacke",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Nähere dich dem Gegner geduckt von hinten und tippe dann auf normaler Angriff, um die Schleichattacke einzusetzen und dabei Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> zu verursachen."
+      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
     },
     {
       "name": "Sprungangriff",
@@ -63,38 +63,38 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Sprungangriff“ auszulösen.\nDer Wanderer schwingt die Klinge und fügt dem Ziel Schaden in Höhe von <b>37.9%</b> des ANG + <b>2</b> zu, lässt das Ziel <b>länger schweben</b> und springt selbst in die Luft, um zusätzlich Schaden in Höhe von <b>56.8%</b> des ANG + <b>3</b> zu verursachen."
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Sprungangriff“ auszulösen.\nDer Wanderer schwingt die Klinge und fügt dem Ziel Schaden in Höhe von <b>37.9%</b> des ANG + <b>2</b> zu, lässt das Ziel <b>länger schweben</b> und springt dabei selbst in die Luft. Dann fügt er dem Ziel zusätzlich Schaden in Höhe von <b>56.8%</b> des ANG + <b>3</b> zu."
     },
     {
       "name": "Durchstreifen",
       "type": [
         "Skill"
       ],
-      "description": "Der Anwender tanzt zwischen den Gegnern hindurch und verursacht an bis zu <b>5</b> Zielen insgesamt Schaden in Höhe von <b>418%</b> des ANG + <b>22</b> (Angriffe auf dasselbe Ziel verursachen <b>20%</b> weniger Schaden). Am Ende der Fähigkeit fügt der Anwender Gegnern im Bereich vor sich mit einem Hieb Schaden in Höhe von <b>264%</b> des ANG + <b>14</b> zu und lässt sie schweben. Macht immun gegen Massenkontrolleffekte und verringert erlittenen Schaden um <b>50%</b>. Abklingzeit: <b>15</b> Sek."
+      "description": "Der Anwender tanzt zwischen den Gegnern hindurch, schwingt seine Klinge und fügt bis zu <b>5</b> Zielen Schaden in Höhe von <b>418%</b> des ANG + <b>22</b> zu (aufeinanderfolgende Treffer auf dasselbe Ziel verursachen <b>20%</b> weniger Schaden). Am Ende von „Durchstreifen“ fügt der Anwender Gegnern in der Nähe mit einem Hieb nach vorn Schaden in Höhe von <b>264%</b> des ANG + <b>14</b> zu und lässt sie schweben. Macht immun gegen Kontrolleffekte und verringert den erlittenen Schaden um <b>50%</b>. Abklingzeit: <b>15</b> Sek."
     },
     {
       "name": "Unbändiger Ansturm",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und er greift ein Ziel an, lässt es <b>länger schweben</b> und verursacht Schaden in Höhe von <b>523.3%</b> des ANG + <b>28</b>. Dabei wird ein Klingensturm hinterlassen, der dem Ziel Schaden in Höhe von <b>209.6%</b> des ANG + <b>11</b> zufügt. Gewährt außerdem <b>5</b> Sek. lang Immunität gegen „Verwunden“/„Einfrieren“/„Verbrennen“/„Elektrisieren“."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Wanderer entfernt</b> und er stürmt zum Ziel, lässt es <b>länger schweben</b> und verursacht Schaden in Höhe von <b>523.3%</b> des ANG + <b>28</b>. Dabei wird ein Klingensturm hinterlassen, der Schaden in Höhe von <b>209.6%</b> des ANG + <b>11</b> verursacht. Gewährt außerdem <b>5</b> Sek. lang Immunität gegen Verwunden/Einfrieren/Verbrennen/Elektrisieren."
     }
   ],
   "weapon_type": {
     "name": "Verwunden",
-    "description": "Voll geladene Waffen verursachen beim nächsten Angriff Schaden in Höhe von <b>137%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
+    "description": "Wenn die Waffe voll geladen ist, verursacht der nächste Angriff Schaden in Höhe von <b>137%</b> des ANG. Das Ziel wird für <b>7</b> Sekunden verwundet und erleidet <b>20%</b> mehr Schaden."
   },
   "weapon_resonance": {
     "name": "Physische Resonanz",
-    "description": "<b>Physische Resonanz</b>: Erhöht physischen ANG um <b>15%</b> und physischen Widerstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Physischer-Schaden-Waffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Dieser Effekt kann nicht gestapelt werden."
+    "description": "<b>Physische Resonanz</b>: Erhöht physischen ANG um <b>15%</b> und physischen Widerstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Physischer-Schaden-Waffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Dieser Effekt kann nicht mehrfach gestapelt werden."
   },
   "advancement": [
-    "Bei einem Treffer mit Fähigkeiten oder Entladungsfähigkeiten wird jeweils ein Stapel Schadensbonus gewährt, der <b>25</b> Sek. lang den verursachten Schaden um <b>8%</b> erhöht. Bis zu <b>3</b>-mal stapelbar. Pro Treffer wird nur ein Stapel gewährt.",
+    "Nachdem ein Ziel mit einer Fähigkeit oder Entladungsfähigkeit getroffen wurde, wird 1 Stapel des folgenden Buffs gewährt: Erhöht den verursachten Schaden <b>25</b> Sek. lang um <b>8%</b>. Der Effekt kann bis zu <b>3</b>-mal gestapelt werden (max. 1 Stapel pro Verwendung der Fähigkeit).",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
-    "Treffer mit Fähigkeiten und Entladungsfähigkeiten fügen dem Ziel einen Stapel „Kriegswunde“ zu, der durch physische und Elementarwaffen erlittenen Schaden und erlittene „Zertrümmern“-Effekte für <b>15</b> Sek. um <b>10%</b> erhöht. Bis zu <b>1</b>-mal stapelbar.",
+    "Wenn ein Ziel mit Fähigkeiten oder Entladungsfähigkeiten getroffen wird, wird dem Ziel einen Stapel „Kriegswunden“ zugefügt: Erhöht den erlittenen physischen Schaden und Zertrümmern von physischen Waffen <b>15</b> Sek. lang um <b>10%</b>. Kann bis zu <b>1</b>-mal gestapelt werden.",
     "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>32%</b>.",
-    "Werden Ziele mit Fähigkeiten oder Entladungsfähigkeiten getroffen, gewährt dies einen Schadensbonus, der allen Schaden <b>25</b> Sek. lang um <b>20%</b> erhöht. (Effekt kann nicht gestapelt werden.)",
-    "Treffer gegen dasselbe Ziel verringern nicht mehr den verursachten Schaden. Der Einsatz von Guren-Klinge oder einer Entladungsfähigkeit fügt allen Zielen mit Kriegswunden im Umkreis von 8 Metern <b>1</b> weiteren Stapel Kriegswunde zu."
+    "Werden Ziele mit Fähigkeiten oder Entladungsfähigkeiten getroffen, gewährt dies einen Schadensbonus, der allen Schaden <b>25</b> Sek. lang um <b>20%</b> erhöht. Dieser Effekt kann nicht gestapelt werden.",
+    "Fähigkeiten, die das gleiche Ziel treffen, haben keinen verringerten Schaden mehr. Der Einsatz von „Guren-Klinge“ oder einer Entladungsfähigkeit fügt allen Zielen mit Kriegswunden im Umkreis von 8 Metern <b>1</b> weiteren Stapel „Kriegswunde“ zu."
   ],
   "traits": [
     {

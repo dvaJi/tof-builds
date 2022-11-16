@@ -2,14 +2,14 @@
   "_id": 4,
   "id": "echo",
   "name": "Echo",
-  "weapon": "Alabarda de trueno",
+  "weapon": "Alabarda de Trueno",
   "weapon_id": "thunderous_halberd",
   "birthday": "14 de agosto (Leo)",
   "birthplace": "Sin registros",
   "gender": "Femenino",
   "info": "Una vigorosa niña distraída que disfruta decir lo que piensa. Desde que fue rescatada por un mercader viajero, desea pagar por adelantado su deuda con buenas acciones durante sus viajes. Aborrece el mal y equipara las buenas acciones con la erradicación del mal. Al ser joven e inexperta, se sustenta en estándares cuestionables para emitir juicios de valor.",
   "description": "Echo nació en Warren y siempre soñó con dejar la tierra de la nieve y ver el resto del mundo. Una repentina avalancha destruyó su refugio cuando tenía nueve años y perdió a sus padres cuando intentaron salvarla. Un mercader viajero la rescató y la llevó a un centro de recuperación en Banges. Luego de cinco años en Banges, decidió salir de viaje para castigar el mal y difundir el bien.",
-  "like": "La abuela Eileen, comer pescado",
+  "like": "La Abuela Eileen, pescado",
   "dislike": "Conducir vehículos",
   "element": "Volt",
   "rarity": "SR",
@@ -23,42 +23,42 @@
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, blande la lanza larga para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>24.7%</b> del ATQ + <b>1</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>47.2%</b> del ATQ + <b>2</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>65.2%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>114.95%</b> del ATQ + <b>6</b> y hace retroceder mucho al objetivo."
+      "description": "En el suelo, blande la lanza larga para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>24.7%</b> del ATQ + <b>1</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>47.2%</b> del ATQ + <b>2</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>65.2%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>114.95%</b> del ATQ + <b>6</b> y hacer retroceder mucho al objetivo."
     },
     {
-      "name": "Golpe de salto",
+      "name": "Golpe de Salto",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>27.4%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>23.2%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>45.8%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>110%</b> del ATQ + <b>6</b>."
+      "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>27.4%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>23.2%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>45.8%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>110%</b> del ATQ + <b>6</b>."
     },
     {
-      "name": "Choque propulsor",
+      "name": "Choque Propulsor",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o pulsa el ataque normal al trepar, saltar hacia atrás o usar el Propulsor para activar Choque Propulsor.\nEn el descenso, cada golpe inflige daño equivalente al <b>8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> y derriba al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Choque Propulsor.\nEn el descenso, cada impacto inflige daño equivalente al <b>8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> y derriba al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
     },
     {
-      "name": "Ráfaga de lanza",
+      "name": "Ráfaga de Lanza",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\nAl golpear, <b>suspende fuertemente</b> al objetivo e inflige daño equivalente al <b>49.2%</b> del ATQ + <b>3</b>. Pulsa de nuevo para seguir atacando al enemigo suspendido, lo que inflige hasta un <b>98%</b> del ATQ + <b>5</b> de daño a un objetivo individual."
+      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\nAl golpear, <b>suspensión fuerte</b> al objetivo e inflige daño equivalente al <b>49.2%</b> del ATQ + <b>3</b>. Pulsa de nuevo para seguir atacando al enemigo suspendido, lo que inflige hasta un <b>98%</b> del ATQ + <b>5</b> de daño a un objetivo individual."
     },
     {
-      "name": "Ataque sorpresa",
+      "name": "Ataque Sorpresa",
       "type": [
         "Croch",
         "Attack"
       ],
-      "description": "Acércate al enemigo desde atrás en posición agachada y pulsa el ataque normal para usar Ataque sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
-      "name": "Patada voladora",
+      "name": "Patada Voladora",
       "type": [
         "Perfect Dodge",
         "Attack"
@@ -66,19 +66,19 @@
       "description": "Pulsa el ataque normal durante la oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Patada Voladora.\nAl golpear al objetivo, inflige daño equivalente al <b>72%</b> del ATQ + <b>4</b>, lo hace retroceder mucho y <b>aturde</b> a los enemigos por <b>1</b> segundo o <b>0.5</b> segundos para nómadas."
     },
     {
-      "name": "Embestida aplastante",
+      "name": "Embestida Aplastante",
       "type": [
         "Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Embestida Aplastante.\nClava la lanza larga en el suelo, lo cual <b>suspende fuertemente</b> a los objetivos e inflige daño equivalente al <b>52.8%</b> del ATQ + <b>3</b>."
+      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Embestida Aplastante.\nClava la lanza larga en el suelo, lo cual <b>suspensión fuerte</b> a los objetivos e inflige daño equivalente al <b>52.8%</b> del ATQ + <b>3</b>."
     },
     {
       "name": "Cazalunas",
       "type": [
         "Skill"
       ],
-      "description": "<b>Suspende fuertemente</b> a los objetivos y quedas en el aire, lo que inflige daño equivalente al <b>127.5%</b> del ATQ + <b>7</b>. Enfriamiento: <b>25</b> segundos."
+      "description": "<b>Suspensión fuerte</b> a los objetivos y quedas en el aire, lo que inflige daño equivalente al <b>127.5%</b> del ATQ + <b>7</b>. Enfriamiento: <b>25</b> segundos."
     },
     {
       "name": "Trueno",
@@ -97,7 +97,7 @@
     "Aumenta el crecimiento de los PS base del arma actual en un <b>10%</b>.",
     "Luego de golpear un objetivo con <span class=\"text-green\">Cazalunas</span>, reduce su ATQ en un <b>5%</b> y aumenta el ATQ del usuario en un <b>5%</b> durante <b>15</b> segundos (el efecto puede acumularse hasta <b>3</b> veces si se golpean varios objetivos). El efecto se duplica para los objetivos graves.",
     "Aumenta el crecimiento de ATQ base del arma actual en un <b>20%</b>.",
-    "Duración de aturdimiento doble para las habilidades de esquivar.",
+    "Duración de aturdimiento doble para las habilidades de evasión.",
     "Las habilidades de descarga infligen más daño cuanto más lejos se desplazan, hasta <b>100%</b> de daño adicional."
   ],
   "traits": [
@@ -119,7 +119,7 @@
       "cost": 250,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 1
       }
@@ -130,7 +130,7 @@
       "cost": 500,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       }
@@ -141,7 +141,7 @@
       "cost": 750,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       },
@@ -158,7 +158,7 @@
       "cost": 1000,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       },
@@ -170,7 +170,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 2
       }

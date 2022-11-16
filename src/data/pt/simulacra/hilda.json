@@ -23,29 +23,29 @@
       "type": [
         "Attack"
       ],
-      "description": "Toque no botão de ataque normal para acionar o modo de mira. Segure o botão de ataque normal para atirar sem parar, até no máximo <b>40</b> projéteis. Cada tiro causa dano de <b>11.4%</b> do ATQ + <b>1</b>. Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
+      "description": "Use o botão de ataque normal para acionar o modo de mira. Segure o botão de ataque normal para atirar sem parar, até no máximo <b>40</b> projéteis. Cada tiro causa dano de <b>11.4%</b> do ATQ + <b>1</b>. Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
     },
     {
       "name": "Torreta",
       "type": [
         "Skill"
       ],
-      "description": "Aciona o modo torreta e dispara grandes orbes de energia. Cada um causa dano de <b>213.3%</b> do ATQ + <b>11</b> e lança o alvo no ar. Enquanto instala a torreta, fica imune a interrupção e efeitos incapacitantes. Tempo de recarga: <b>3.5</b> seg."
+      "description": "Aciona o modo torreta e dispara grandes orbes de energia. Cada um causa dano de <b>213.3%</b> do ATQ + <b>11</b> e lança o alvo no ar. Enquanto instala a torreta, fica imune a interrupção e efeitos de controle. Tempo de recarga: <b>3.5</b> seg."
     },
     {
       "name": "Feixe Gélido",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e dispara um feixe gélido ao trocar para esta arma. Causa dano de <b>329.2%</b> do ATQ + <b>17</b> e inflige um efeito de <b>congelamento</b> durante <b>3</b> segundos. Além disso, reduz a resistência a gelo do alvo em <b>50%</b> durante <b>10</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e dispara um feixe gélido ao trocar para esta arma. Causa dano de <b>329.2%</b> do ATQ + <b>17</b> e inflige um efeito de <b>congelamento</b> durante <b>3</b> segundos. Além disso, reduz a resistência a gelo do alvo em <b>50%</b> durante <b>10</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Casca de Gelo",
-    "description": "Armas com carga completa <b>congelam</b> o alvo durante <b>2</b> segundos e provocam uma queimadura de gelo durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>111%</b> do ATQ. Enquanto estiver com queimadura de gelo, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma <b>congela</b> o alvo durante <b>2</b> segundos e causa geladura durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>111%</b> do ATQ. Durante a geladura, a velocidade de carga de arma do alvo diminui <b>50%</b>."
   },
   "advancement": [
-    "Cada ataque normal bem-sucedido aumenta o dano em <b>1%</b> durante <b>2</b> segundos (acumula até <b>15</b> vezes). Aumenta a munição para <b>60</b>.",
+    "Cada ataque normal bem-sucedido aumenta o dano em <b>1%</b> durante <b>2</b> segundos. Acumula até <b>15</b> vezes. Aumenta a munição para <b>60</b>.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>10%</b>.",
     "Durante <b>10</b> segundos após alternar de arma, aumenta em <b>30%</b> o dano de ataques normais e o despedaçar. Tempo de recarga: <b>25</b> seg. Aumenta a munição para <b>80</b>.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>20%</b>.",

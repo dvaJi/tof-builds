@@ -8,7 +8,7 @@
   "birthplace": "Herederos de Aida",
   "gender": "Femenino",
   "info": "Reservada y decidida en el trabajo. Tiene un entendimiento y filosofía de vida únicos, y reflexionará sobre el verdadero significado de la vida cuando el tiempo se lo permita.",
-  "description": "Uno de los Ángeles de la Clemencia. Con su cuerpo reestructurado en maquinaria de metal viviente, podría enfrentarse a la invasión de la radiación sin un supresor. Es una gran ayuda del Guía, de quien obedece todas las órdenes sin objeciones. Como oficial central, Frigg tiene la autorización de liderar a las tropas de los Herederos de Aida, pero prefiere actuar sola la mayor parte del tiempo.",
+  "description": "Uno de los Ángeles de la Clemencia. Con su cuerpo reestructurado en maquinaria de metal viviente, podría enfrentarse a la invasión de la radiación sin un supresor.\n\nEs una gran ayuda del Guía, de quien obedece todas las órdenes sin objeciones. Como oficial central, Frigg tiene la autorización de liderar a las tropas de los Herederos de Aida, pero prefiere actuar sola la mayor parte del tiempo.",
   "like": "Mi propia espada",
   "dislike": "Todo en su camino",
   "element": "Ice",
@@ -23,15 +23,15 @@
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, inicia 5 ataques seguidos con Balmung.\nEl primer ataque inflige daño equivalente al <b>62.1%</b> del ATQ + <b>3</b> y hace retroceder un poco.\nEl segundo ataque inflige daño equivalente al <b>46.2%</b> del ATQ + <b>2</b> y hace retroceder un poco.\nEl tercer ataque inflige daño equivalente al <b>91.1%</b> del ATQ + <b>5</b> y hace retroceder un poco.\nEl cuarto ataque inflige daño equivalente al <b>55.8%</b> del ATQ + <b>3</b> y hace retroceder un poco.\nEl quinto ataque inflige daño equivalente al <b>218.4%</b> del ATQ + <b>11</b> y derriba al objetivo."
+      "description": "En el suelo, inicias 5 ataques seguidos con Balmung.\nPrimer ataque: Inflige daño equivalente al <b>62.1%</b> del ATQ + <b>3</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño equivalente al <b>46.2%</b> del ATQ + <b>2</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño equivalente al <b>91.1%</b> del ATQ + <b>5</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño equivalente al <b>55.8%</b> del ATQ + <b>3</b> y hace retroceder al objetivo.\nQuinto ataque: Inflige daño equivalente al <b>218.4%</b> del ATQ + <b>11</b> y derriba al objetivo."
     },
     {
-      "name": "Descarga aérea",
+      "name": "Descarga Aérea",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>64.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>72.6%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>76.7%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>107.9%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño equivalente al <b>168.3%</b> del ATQ + <b>9</b>."
+      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>64.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>72.6%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>76.7%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>107.9%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño equivalente al <b>168.3%</b> del ATQ + <b>9</b>."
     },
     {
       "name": "Corte Elevado",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Al realizar un ataque normal, mantén pulsado el ataque normal para activar Corte Elevado.\nEmbiste hacia adelante con una barrida horizontal, luego lanza al objetivo al aire para elevarse junto con el objetivo. Inflige un máximo del <b>134.3%</b> del ATQ + <b>7</b> de daño."
+      "description": "Al realizar un ataque normal, mantén pulsado el ataque normal para activar Corte Elevado.\nEmbiste hacia adelante con una barrida horizontal, luego suspende al objetivo en el aire antes de elevarte junto con él. Inflige un daño máximo del <b>134.3%</b> del ATQ + <b>7</b>."
     },
     {
       "name": "Corte Hélice",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal en el aire o pulsa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Corte Hélice.\nEn el descenso, cada golpe inflige daño equivalente al <b>19.8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>185.7%</b> del ATQ + <b>10</b> a los objetivos cercanos."
+      "description": "Mantén pulsado el ataque normal en el aire o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Corte Hélice.\nEn el descenso, cada impacto inflige daño equivalente al <b>19.8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>185.7%</b> del ATQ + <b>10</b> a los objetivos cercanos."
     },
     {
       "name": "Multicorte",
@@ -55,47 +55,47 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de un ataque perfecto para activar Multicorte.\nLanza varios cortes a una distancia fija frente al usuario para infligir daño total equivalente al <b>{4}%</b> del ATQ + <b>{5}</b>."
+      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta para activar Multicorte.\nLanza varios cortes a una distancia fija frente al usuario para infligir daño total equivalente al <b>143.9%</b> del ATQ + <b>8</b>."
     },
     {
       "name": "Fimbulwinter",
       "type": [
         "Skill"
       ],
-      "description": "Hace un corte en el espacio alrededor del nómada, lo que inflige daño total equivalente al <b>577.5%</b> del ATQ + <b>30</b>. Puede suspender y lanzar a los objetivos, y otorgar inmunidad al daño mientras esta habilidad está en uso. Enfriamiento: <b>30</b> segundos.\nTras desatar <b>\"Fimbulwinter\"</b>, se formará un gran Dominio de Hielo a tu alrededor durante <b>25</b> segundos. El número de evasiones que puedes realizar no se deducirá cuando esquives con Balmung dentro del Dominio de Hielo.\nOtorga \"Dominio de Hielo I\" cuando estés en el Dominio de Hielo, y aumenta la destrucción en un <b>25%</b> cuando uses un arma de hielo."
+      "description": "Corta el espacio alrededor del nómada, lo que inflige <b>577.5%</b> del ATQ + <b>30</b> como daño, lo que lanza y suspende objetivos, y te otorga inmunidad al daño mientras esta habilidad está en uso. Enfriamiento: <b>30</b> segundos.\nDespués de desatar <b>\"Fimbulwinter\"</b>, un gran Dominio de Hielo se formará alrededor del nómada por <b>25</b> segundos. Los intentos de evasión no se consumirán mientras evades con Balmung dentro del Dominio de Hielo.\nOtorga \"Dominio de Hielo I\" cuando estás en el Dominio de Hielo: Al usar un arma de hielo, potencia la destrucción un <b>25%</b> y el ATQ de hielo un <b>15%</b>."
     },
     {
       "name": "Fractura Gélida",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>,<b>remueve todas las desventajas del portador</b> y corre hacia adelante tras cambiar a esta arma para controlar temporalmente a los oponentes en un área antes de realizar un corte gigante. Inflige daño equivalente al <b>618.2%</b>del ATQ + <b>33</b>, y lanza a los enemigos al aire."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o se active <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del usuario</b> y lo desplaza hacia adelante al cambiar a esta arma. Controla temporalmente a los enemigos en un área antes de realizar un corte gigante. Lanza objetivos al aire e inflige <b>618.2%</b> del ATQ + <b>33</b> como daño."
     }
   ],
   "weapon_type": {
     "name": "Caparazón de hielo",
-    "description": "Las armas completamente cargadas <b>congelarán</b> al objetivo por <b>2</b> segundos y lo dejarán congelado por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>111%</b> del ATQ. Mientras esté congelado, la tasa de carga del arma del objetivo se reduce en un <b>50%</b>."
+    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>111%</b> del ATQ. Mientras esté congelado, la tasa de carga de arma del objetivo se reduce un <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Resonancia Helada",
-    "description": "<b>Resonancia Helada</b>: aumenta el ATQ de Hielo en un <b>15%</b> y la Resistencia al Hielo en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de hielo. El efecto de este conjunto también funciona con armas en la ranura secundaria. El efecto no se acumula."
+    "description": "<b>Resonancia Helada</b>: aumenta el ATQ de Hielo en un <b>15%</b> y la Resistencia al Hielo en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de hielo. El efecto de este set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
   },
   "advancement": [
-    "Obtén <b>1</b> punto de escarcha cada vez que recibes <b>550%</b> x ATQ de Hielo de daño en el Dominio de Hielo. Se puede acumular hasta <b>10</b> puntos de escarcha.\nCuando termina el Dominio de Hielo, se infligirá daño de estallido equivalente a puntos de escarcha x ATQ de Hielo x <b>95%</b> a todos los enemigos en el Dominio de Hielo. Luego de abandonar el Dominio de Hielo, se perderá <b>1</b> punto de escarcha cada <b>3</b> segundos.",
+    "Obtén <b>1</b> punto de escarcha cada vez que inflijas <b>550%</b> x ATQ de hielo como daño en el Dominio de Hielo. Puedes acumular hasta <b>10</b> puntos de escarcha.\nCuando el Dominio de Hielo termina, inflige los puntos de escarcha x ATQ de hielo x <b>95%</b> de daño de estallido a todos los enemigos en el Dominio de Hielo. Después de salir del Dominio de Hielo, pierdes <b>1</b> punto de escarcha cada <b>3</b> segundos.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
-    "Aumenta el límite de escarcha a <b>15</b>. Al usar habilidades de descarga con armas de hielo en el Dominio de Hielo, inflige daño equivalente a un <b>20%</b> de ATQ de Hielo x (escarcha actual +5) a todos los objetivos que estén en el Dominio de Hielo.",
-    "Aumenta el crecimiento de ATQ base del arma actual en un <b>32%</b>.",
-    "Destruir escudos con armas de hielo en el Dominio de Hielo congelará al objetivo durante <b>2</b> segundos y causará daño adicional equivalente a puntos de escarcha x ATQ de Hielo x <b>35%</b> (duplica el daño si el objetivo no puede ser congelado).",
-    "Cuando escarcha alcance <b>15</b> puntos y estés dentro del Dominio de Hielo, obtendrás un \"Dominio de Hielo II\" adicional que aumenta el ATQ de Hielo en un <b>25%</b> al usar armas de hielo."
+    "Aumenta el límite de escarcha a <b>15</b>. Al usar habilidades de descarga de armas de hielo en el Dominio de Hielo, infliges daño igual al <b>25%</b> de tu ATQ de hielo x (escarcha actual + 5) a todos los objetivos en el Dominio de Hielo.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
+    "Destruir escudos con armas de hielo en el Dominio de Hielo congelará al objetivo por <b>2</b> segundos y causará daño adicional equivalente a los puntos de escarcha x ATQ de Hielo x <b>35%</b> (duplica el daño si el objetivo no se puede congelar).",
+    "Cuando escarcha alcance <b>15</b> puntos y estés dentro del Dominio de Hielo, obtendrás un \"Dominio de Hielo II\" adicional que aumenta el ATQ de Hielo un <b>25%</b> al usar armas de hielo."
   ],
   "traits": [
     {
       "name": "Congelación",
-      "description": "Aumenta el ATQ de hielo en un <b>1.5%</b> cada <b>3</b> segundos al entrar en batalla. Se acumula hasta <b>10</b> veces. Dura <b>5</b> segundos."
+      "description": "Obtén un refuerzo de ATQ de Hielo de un <b>1.5%</b> cada <b>3</b> segundos al entrar en batalla. Se acumula hasta <b>10</b> veces. Dura <b>5</b> segundos."
     },
     {
       "name": "Helado",
-      "description": "Aumenta el ATQ de Hielo en un <b>2.4%</b> cada <b>3</b> segundos al entrar en combate. Se acumula hasta <b>10</b> veces. Dura <b>5</b> segundos. Además, otorga hipercuerpo e inmunidad a los efectos de control dentro del Dominio de Hielo."
+      "description": "Obtén un refuerzo de ATQ de Hielo de un <b>2.4%</b> cada <b>3</b> segundos al entrar en batalla. Se acumula hasta <b>10</b> veces. Dura <b>5</b> segundos. También ganas hipercuerpo e inmunidad a los efectos de control mientras te encuentres en el Dominio de Hielo."
     }
   ],
   "ascension": [
@@ -105,7 +105,7 @@
       "cost": 400,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 2
       }
@@ -116,7 +116,7 @@
       "cost": 800,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 2
       }
@@ -127,7 +127,7 @@
       "cost": 1200,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 3
       },
@@ -144,7 +144,7 @@
       "cost": 1600,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 3
       },
@@ -156,7 +156,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 3
       }
@@ -167,7 +167,7 @@
       "cost": 2000,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 4
       },
@@ -179,7 +179,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 4
       }
@@ -190,7 +190,7 @@
       "cost": 2400,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 6
       },
@@ -202,7 +202,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 6
       }
@@ -213,7 +213,7 @@
       "cost": 2800,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 8
       },
@@ -225,7 +225,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 8
       }
@@ -236,7 +236,7 @@
       "cost": 3200,
       "mat1": {
         "id": "icecore",
-        "name": "Núcleo de hielo",
+        "name": "Núcleo de Hielo",
         "rarity": "N",
         "amount": 11
       },
@@ -248,7 +248,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 11
       }
@@ -259,7 +259,7 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_winter",
-        "name": "Corazón de invierno",
+        "name": "Corazón de Invierno",
         "rarity": "R",
         "amount": 5
       },
@@ -271,7 +271,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Armazón reforzado II",
+        "name": "Armazón Reforzado II",
         "rarity": "SSR",
         "amount": 5
       }

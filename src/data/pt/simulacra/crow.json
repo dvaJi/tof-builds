@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Enquanto está no solo, brande a montante em 5 ataques seguidos.\nPrimeiro ataque: causa dano igual a <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>73%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>96.8%</b> do ATQ + <b>5</b>, que repele o alvo, repelindo-o uma curta distância.\n Quinto ataque: causa dano de <b>202.2%</b> do ATQ + <b>11</b> e repele o alvo uma curta distância."
+      "description": "No chão, branda as adagas para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>73%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>96.8%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>202.2%</b> do ATQ + <b>11</b> e repele o alvo uma curta distância."
     },
     {
       "name": "Floreio Aéreo",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>38.4%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>92%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>138%</b> do ATQ + <b>7</b>."
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>38.4%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>92%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>138%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Lançamento Veloz",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou toque com um alvo selecionado), ou toque ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Espiralante.\nEnquanto cai, cada golpe causa dano de <b>42%</b> do ATQ + <b>2</b>."
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou use com um alvo selecionado), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Espiralante.\nEnquanto cai, cada golpe causa dano de <b>42%</b> do ATQ + <b>2</b>."
     },
     {
       "name": "Ataque Furtivo",
@@ -55,7 +55,7 @@
         "Croch",
         "Attack"
       ],
-      "description": "Agachado, aproxime-se do inimigo pelas costas e toque no botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
+      "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Adagas Voadoras",
@@ -63,7 +63,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Adagas Voadoras.\nGolpeia um alvo <b>5</b> vezes. Cada golpe causa dano de <b>26.4%</b> do ATQ + <b>1</b>. Enquanto estiver ativo, fica imune a efeitos incapacitantes."
+      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Adagas Voadoras.\nGolpeia um alvo <b>5</b> vezes. Cada golpe causa dano de <b>26.4%</b> do ATQ + <b>1</b>. Enquanto estiver ativo, fica imune a efeitos de controle."
     },
     {
       "name": "Adagas-Bumerangue",
@@ -77,12 +77,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia</span> for desencadeado, <b>remove todos os efeitos negativos de você</b> e se teletransporta para o local do alvo ao trocar para esta arma e ataca. Causa dano de <b>86.9%</b> do ATQ + <b>5</b> e eletrocuta o alvo (após <b>5</b> segundos, causa dano elétrico equivalente a <b>15%</b> do dano causado, até <b>350%</b> do seu ATQ. Este é um status anormal que não pode ser anulado). Além disso, gera 3 adagas que giram em volta do Errante e causam dano de <b>65.2%</b> do ATQ + <b>3</b> a quem encostar nelas."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e arremete para o local do alvo ao trocar para esta arma e ataca. Causa dano de <b>86.9%</b> do ATQ + <b>5</b> e eletrocuta o alvo (após <b>5</b> segundos, causa dano elétrico equivalente a <b>15%</b> do dano causado, até <b>350%</b> do seu ATQ. Este é um status anormal que não pode ser anulado). Além disso, gera 3 adagas que giram em volta de você e causam dano de <b>65.2%</b> do ATQ + <b>3</b> a quem encostar nelas."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Quando a arma está completamente carregada, o ataque seguinte <b>paralisa</b> o alvo por <b>1</b> segundo e o eletrocuta por <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Os alvos não podem receber efeitos positivos pelos próximos <b>6</b> segundos."
+    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Atacar alvos por trás aumenta a taxa de crítico de todos os golpes de adagas em <b>40%</b>. Apunhalar um alvo eletrocutado pelas costas aumenta a taxa de crítico em <b>100%</b> e o dano crítico em <b>30%</b>.",

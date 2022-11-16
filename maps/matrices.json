@@ -47,11 +47,11 @@
     "bonus": [
       {
         "count": 2,
-        "value": "MatrixSuit_SSR6_des1"
+        "value": ["MatrixSuit_SSR6_des1", [13, 17, 20, 23]]
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR6_des2"
+        "value": ["MatrixSuit_SSR6_des2", [58, 80, 103, 126, 15]]
       }
     ]
   },
@@ -425,11 +425,28 @@
     "bonus": [
       {
         "count": 2,
-        "value": "MatrixSuit_SSR16_Sea_des1"
+        "value": ["MatrixSuit_SSR16_des1", [8, 10, 12, 15]]
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR16_Sea_des2"
+        "value": ["MatrixSuit_SSR16_des2", [2, 2.5, 3, 3.5]]
+      }
+    ]
+  },
+  {
+    "_id": "SSR17",
+    "name": "Nitai_bupoxiao_SSR",
+    "id": "saki_fuwa",
+    "suitName": "MatrixSuit_SSR17_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": ["MatrixSuit_SSR17_des1", [3, 5, 3.5, 3, 5, 18]]
+      },
+      {
+        "count": 4,
+        "value": ["MatrixSuit_SSR17_des2", [12, 11, 28, 31, 34]]
       }
     ]
   }

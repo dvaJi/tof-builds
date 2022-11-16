@@ -1,0 +1,1806 @@
+[
+  {
+    "_locid": "Item_Cooking_0101",
+    "id": "fried_mushrooms",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "mushroom",
+        "name": "EE6C9C8B4D4354D8779F248049DEC16A",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0103",
+    "id": "crispy_grilled_fish",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "silver_bass",
+        "name": "1EC158BE4CBF33EBD7CF329A83DEFA7D",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0104",
+    "id": "wholegrain_bread",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "2A513EBB41ED93F204E50392D2B8FFA3",
+    "id": "sizzling_meat",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "game_meat",
+        "name": "06EC16C84C6E9E57552F6BA675A236B0",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1017",
+    "id": "lettuce_salad",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "salad_dressing",
+        "name": "Item_Condiment_03",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1019",
+    "id": "fried_egg",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701002",
+    "id": "charcoal_grilled_sand_onion",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "sand_onion",
+        "name": "Item_Vera_Harvest_002_name",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701011",
+    "id": "cactus_special",
+    "rarity": 1,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "ball_cactus",
+        "name": "Item_Vera_Harvest_013_name",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0102",
+    "id": "seaweed_and_egg_soup",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "laver",
+        "name": "006202DC4138725A2315DDA64D368326",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0105",
+    "id": "breakfast_cereal",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "milk",
+        "name": "Item_Condiment_07",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0108",
+    "id": "crispy_chicken_burger",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "poultry_meat",
+        "name": "Harvest_Meat_002_1",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "6A230D7F46766B07841C0795AEE712D7",
+    "id": "egg_fried_rice",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "rice",
+        "name": "Item_Condiment_06",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0115",
+    "id": "golden_egg_and_tomato",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "thornmato",
+        "name": "0BB864B949D77016EB77359643CE3AE6",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1018",
+    "id": "mushroom_soup",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "mushroom",
+        "name": "EE6C9C8B4D4354D8779F248049DEC16A",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1020",
+    "id": "steamed_conch",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "conch",
+        "name": "9106AF9D48C72C25C8F5BEAB02E46BFB",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1024",
+    "id": "meat_and_potato_stew",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "potato",
+        "name": "14EA0A0F441C132F62DBD0A9EB9CBF36",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "game_meat",
+        "name": "06EC16C84C6E9E57552F6BA675A236B0",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0125",
+    "id": "fries",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "potato",
+        "name": "14EA0A0F441C132F62DBD0A9EB9CBF36",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "salad_dressing",
+        "name": "Item_Condiment_03",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0126",
+    "id": "vegetable_salad",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "fallen_fruit",
+        "name": "8AF7E3EA4999118525BAE1BA6AA70F7F",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "thornmato",
+        "name": "0BB864B949D77016EB77359643CE3AE6",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "salad_dressing",
+        "name": "Item_Condiment_03",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0127",
+    "id": "fried_chicken",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "poultry_meat",
+        "name": "Harvest_Meat_002_1",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0128",
+    "id": "honeyed_fruit_juice",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "fallen_fruit",
+        "name": "8AF7E3EA4999118525BAE1BA6AA70F7F",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "carbonated_water",
+        "name": "Item_Condiment_01",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1030",
+    "id": "iced_orchid_surprise",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "ghost_mushroom",
+        "name": "2572B41A4FE4EDAE0718C68257ED080D",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "milk",
+        "name": "Item_Condiment_07",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "carbonated_water",
+        "name": "Item_Condiment_01",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1031",
+    "id": "stirfried_broccoli",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "broccoli",
+        "name": "A7EEC7EA4A7919F69ECAD193D0BEDD84",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1033",
+    "id": "meat_bun",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "game_meat",
+        "name": "06EC16C84C6E9E57552F6BA675A236B0",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1034",
+    "id": "sliced_fish_with_mushroom",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "mushroom",
+        "name": "EE6C9C8B4D4354D8779F248049DEC16A",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "silver_bass",
+        "name": "1EC158BE4CBF33EBD7CF329A83DEFA7D",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0119",
+    "id": "dandelion_mushroom_soup",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "dandelion_seed",
+        "name": "Item_Dandelion_zhongzi_1",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "mushroom",
+        "name": "EE6C9C8B4D4354D8779F248049DEC16A",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0140",
+    "id": "surf_and_turf",
+    "rarity": 2,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "dabrys_sturgeon",
+        "name": "12AC17E149DF6E243C2A0FBC8636F2BF",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2002",
+    "id": "red_wheat_bread",
+    "rarity": 2,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2005",
+    "id": "firecap_mushroom_soup",
+    "rarity": 2,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "firecap",
+        "name": "CBB172C742F4F3D351A092A92590E87D",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2006",
+    "id": "black_moss_soup",
+    "rarity": 2,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "black_moss",
+        "name": "D30D38B041F092BCE2603B86B8F9F0D7",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701005",
+    "id": "beet_soup",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "beetroot",
+        "name": "Item_Vera_Harvest_006_name",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701012",
+    "id": "grilled_lizard_tail",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "fleshy_tail",
+        "name": "Item_Vera_Harvest_014_name",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701026",
+    "id": "creamy_corn_soup",
+    "rarity": 2,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "corn",
+        "name": "Item_Vera_Harvest_012_name",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "milk",
+        "name": "Item_Condiment_07",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "mushroom",
+        "name": "EE6C9C8B4D4354D8779F248049DEC16A",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0107",
+    "id": "seafood_soup",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "conch",
+        "name": "9106AF9D48C72C25C8F5BEAB02E46BFB",
+        "amount": 3,
+        "rarity": 2
+      },
+      {
+        "id": "scallop",
+        "name": "0EB343684133B767BE2216B84BEF4C8A",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0109",
+    "id": "spicy_burger",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 3,
+        "rarity": 1
+      },
+      {
+        "id": "rear_hock",
+        "name": "Item_Meat_003_1",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0111",
+    "id": "steamed_crab",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "portunid",
+        "name": "Harvest_Shells_006_1",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "5CFD0119404E53E56EADB6AA86223F81",
+    "id": "iced_strawberry_soda",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "strawberry",
+        "name": "5815AA7049DDED1D2411C886FED96F24",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "carbonated_water",
+        "name": "Item_Condiment_01",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0114",
+    "id": "thundercloud_blueberry_soda",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "small_blueberry_jar",
+        "name": "Item_Drugs_005_1",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "carbonated_water",
+        "name": "Item_Condiment_01",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0116",
+    "id": "simple_power_salad",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "broccoli",
+        "name": "A7EEC7EA4A7919F69ECAD193D0BEDD84",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "thornmato",
+        "name": "0BB864B949D77016EB77359643CE3AE6",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "salad_dressing",
+        "name": "Item_Condiment_03",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0121",
+    "id": "steamed_egg_with_sea_urchin",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "sea_urchin",
+        "name": "4B972F8047687594FA2C128418193457",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1022",
+    "id": "jam_on_toast",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "small_blueberry_jar",
+        "name": "Item_Drugs_005_1",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "strawberry",
+        "name": "5815AA7049DDED1D2411C886FED96F24",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 3,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0123",
+    "id": "tomato_and_fried_egg_pasta",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "thornmato",
+        "name": "0BB864B949D77016EB77359643CE3AE6",
+        "amount": 4,
+        "rarity": 2
+      },
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 3,
+        "rarity": 1
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0129",
+    "id": "fruit_cake",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "strawberry",
+        "name": "5815AA7049DDED1D2411C886FED96F24",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "fallen_fruit",
+        "name": "8AF7E3EA4999118525BAE1BA6AA70F7F",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1032",
+    "id": "boiled_scallops",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "scallop",
+        "name": "0EB343684133B767BE2216B84BEF4C8A",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 3,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_1035",
+    "id": "roast_rump",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "rear_hock",
+        "name": "Item_Meat_003_1",
+        "amount": 2,
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2003",
+    "id": "fiddlehead_pie",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "fiddlehead",
+        "name": "5540E6684B1B20295B0ACB950B2E7660",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2004",
+    "id": "chocolate_bread",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "cocoa_beans",
+        "name": "3DBA65D348BD3B576F3912A548979FEF",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2007",
+    "id": "balloon_fruit_salad",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "balloon_fruit",
+        "name": "FFD4A0DC4A526CB097E0AE914FD2A760",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "thornmato",
+        "name": "0BB864B949D77016EB77359643CE3AE6",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "salad_dressing",
+        "name": "Item_Condiment_03",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2008",
+    "id": "fiddlehead_soup",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "fiddlehead",
+        "name": "5540E6684B1B20295B0ACB950B2E7660",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 4,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2009",
+    "id": "spicy_eel",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "electric_eel",
+        "name": "E78CC9EC47DA00364F63AF99B7CD74DC",
+        "amount": 1,
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2010",
+    "id": "eel_and_mushroom_soup",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "electric_eel",
+        "name": "E78CC9EC47DA00364F63AF99B7CD74DC",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "firecap",
+        "name": "CBB172C742F4F3D351A092A92590E87D",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2011",
+    "id": "sea_crab_soup",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "hermit_crab",
+        "name": "Harvest_Shells_005_1",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "mushroom",
+        "name": "EE6C9C8B4D4354D8779F248049DEC16A",
+        "amount": 4,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0225",
+    "id": "sweet_pomegranate_juice",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "phosphogranate",
+        "name": "73F8D3E1474DC3EBB2985A840806AABF",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "carbonated_water",
+        "name": "Item_Condiment_01",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2013",
+    "id": "cocoa_milk",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "cocoa_beans",
+        "name": "3DBA65D348BD3B576F3912A548979FEF",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "milk",
+        "name": "Item_Condiment_07",
+        "amount": 1,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2014",
+    "id": "firedragon_fruit_tea",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "firedragon_fruit",
+        "name": "3244069D4E82C09D2300BFA8D0A9351A",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2015",
+    "id": "barnacle_stew",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "barnacle",
+        "name": "1EEFFB1747D3444C876BFB92EFBA3B31",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "lettuce",
+        "name": "98305B3042B913DA45A0A59705BF9A56",
+        "amount": 4,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2016",
+    "id": "barnacle_seafood_pizza",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "barnacle",
+        "name": "1EEFFB1747D3444C876BFB92EFBA3B31",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "onion",
+        "name": "Item_Condiment_05",
+        "amount": 1,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2017",
+    "id": "snow_azalea_tea",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "snow_azalea",
+        "name": "9D386901452E4C16A12B50A07656F944",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "milk",
+        "name": "Item_Condiment_07",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2018",
+    "id": "pine_cocoa",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "pinecone",
+        "name": "5E5A543C40FA93BDFA06FDAD37EAC468",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "cocoa_beans",
+        "name": "3DBA65D348BD3B576F3912A548979FEF",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "milk",
+        "name": "Item_Condiment_07",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2024",
+    "id": "caviar_sushi",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "caviar",
+        "name": "Item_Drugs_007_1",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "rice",
+        "name": "Item_Condiment_06",
+        "amount": 2,
+        "rarity": 1
+      },
+      {
+        "id": "laver",
+        "name": "006202DC4138725A2315DDA64D368326",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0223",
+    "id": "caviar_potato_balls",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "caviar",
+        "name": "Item_Drugs_007_1",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "potato",
+        "name": "14EA0A0F441C132F62DBD0A9EB9CBF36",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701007",
+    "id": "pumpkin_porridge",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "pumpkin",
+        "name": "HomePumpkin-1",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "rice",
+        "name": "Item_Condiment_06",
+        "amount": 3,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701020",
+    "id": "steamed_pumpkin",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "pumpkin",
+        "name": "HomePumpkin-1",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 3,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701023",
+    "id": "spicy_fried_rice",
+    "rarity": 3,
+    "stars": 1,
+    "ingredients": [
+      {
+        "id": "chilis",
+        "name": "Item_Vera_Harvest_001_name",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "fleshy_tail",
+        "name": "Item_Vera_Harvest_014_name",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "rice",
+        "name": "Item_Condiment_06",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701029",
+    "id": "cold_fish_mint",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "fish_mint",
+        "name": "71173FAD428D64FE2E005CA1B128D2AA",
+        "amount": 2,
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701031",
+    "id": "oyster_tofu_soup",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "oyster",
+        "name": "3AEC8A064BFE73433784BEA8925F3FEC",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "soy",
+        "name": "Item_Condiment_02",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701032",
+    "id": "scramble_egg_with_fish_mint",
+    "rarity": 3,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "fish_mint",
+        "name": "71173FAD428D64FE2E005CA1B128D2AA",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 3,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2019",
+    "id": "nut_tea",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "hazelnut",
+        "name": "7E70E8FB44F80AF5289419B3F6CC3B9C",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "pinecone",
+        "name": "5E5A543C40FA93BDFA06FDAD37EAC468",
+        "amount": 2,
+        "rarity": 3
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2020",
+    "id": "purple_yam_pie",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "purple_yam",
+        "name": "62C4B75B426EF28898310E9DD2960C50",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 3,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2021",
+    "id": "snow_lotus_soup",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "snow_lotus",
+        "name": "6BE3F4DA477EA42F83888AAA064639FA",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2022",
+    "id": "truffle_fried_rice",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "black_truffle",
+        "name": "F1E97AC346794B3BB6E62AB36C99A783",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "onion",
+        "name": "Item_Condiment_05",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "rice",
+        "name": "Item_Condiment_06",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2023",
+    "id": "caterpillar_fungus_noodles",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "caterpillar_fungus",
+        "name": "A057C7C3480FC7ED30DB8BA649A52AFA",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 3,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2026",
+    "id": "grilled_steak",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "prime_cut",
+        "name": "Item_Meats_004_1",
+        "amount": 1,
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2028",
+    "id": "braised_meat",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "fatty_cut",
+        "name": "Harvest_Meat_005_1",
+        "amount": 1,
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_0219",
+    "id": "juicy_meat_sandwich",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "fatty_cut",
+        "name": "Harvest_Meat_005_1",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 2,
+        "rarity": 2
+      },
+      {
+        "id": "poultry_egg",
+        "name": "5FA52AD84D148BF1A7F070A1D64B06D4",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2030",
+    "id": "salmon_sashimi",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "lake_bass",
+        "name": "418E6A59431F0C482F7E0490CF403B54",
+        "amount": 1,
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "_locid": "Item_Cooking_2031",
+    "id": "snail_baked_rice",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "carrion_snail",
+        "name": "Harvest_Shells_003_1",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "rice",
+        "name": "Item_Condiment_06",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701003",
+    "id": "aloe_yogurt",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "aloe",
+        "name": "Item_Vera_Harvest_003_name",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 1,
+        "rarity": 2
+      },
+      {
+        "id": "milk",
+        "name": "Item_Condiment_07",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701004",
+    "id": "rose_tea",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "rose_petal",
+        "name": "Item_Vera_Harvest_004_name",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "honey",
+        "name": "96EE3FF746B490DA30C3EB9D20965FBC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701009",
+    "id": "radish_soup",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "white_jade_radish",
+        "name": "Item_Vera_Harvest_011_name",
+        "amount": 1,
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701016",
+    "id": "rose_bread",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "rose_petal",
+        "name": "Item_Vera_Harvest_004_name",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "brown_rice",
+        "name": "4B71FA6A4BABD295545041BFCA8A57CC",
+        "amount": 2,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701021",
+    "id": "chicken_soup",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "white_jade_radish",
+        "name": "Item_Vera_Harvest_011_name",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "poultry_meat",
+        "name": "Harvest_Meat_002_1",
+        "amount": 1,
+        "rarity": 1
+      },
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701022",
+    "id": "spicy_bbq_noodles",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "fatty_cut",
+        "name": "Harvest_Meat_005_1",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "chilis",
+        "name": "Item_Vera_Harvest_001_name",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "homi_grain",
+        "name": "24A7F9984EB746FC848558B641F957BC",
+        "amount": 2,
+        "rarity": 1
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701024",
+    "id": "grilled_combo_plate",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "prime_cut",
+        "name": "Item_Meats_004_1",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "chilis",
+        "name": "Item_Vera_Harvest_001_name",
+        "amount": 1,
+        "rarity": 3
+      },
+      {
+        "id": "fleshy_tail",
+        "name": "Item_Vera_Harvest_014_name",
+        "amount": 1,
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701025",
+    "id": "radish_and_pork_chop_soup",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "white_jade_radish",
+        "name": "Item_Vera_Harvest_011_name",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "rib",
+        "name": "Item_Vera_Harvest_015_name",
+        "amount": 1,
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701027",
+    "id": "crispy_lard_gourd",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "lard_gourd",
+        "name": "1DA5760F4E14F0E097BDAEB22B545DE5",
+        "amount": 1,
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "_locid": "achievement_title_0701030",
+    "id": "spicy_lard_gourd_strip",
+    "rarity": 4,
+    "stars": 2,
+    "ingredients": [
+      {
+        "id": "lard_gourd",
+        "name": "1DA5760F4E14F0E097BDAEB22B545DE5",
+        "amount": 1,
+        "rarity": 4
+      },
+      {
+        "id": "chilis",
+        "name": "Item_Vera_Harvest_001_name",
+        "amount": 2,
+        "rarity": 3
+      }
+    ]
+  }
+]

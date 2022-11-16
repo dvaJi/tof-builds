@@ -1,0 +1,34 @@
+{
+  "_id": 30,
+  "id": "saki_fuwa",
+  "name": "Saki Fuwa",
+  "suitName": "Hyper flux",
+  "hash": "SSR17",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Lorsque la Résonance de givre est activée : toutes les 3 secondes, infligez des dégâts équivalant à 60%/100%/150%/220% de l'ATQ de givre aux ennemis dans un rayon de 10 mètres, et infligez-leur un effet de givre. Effet de givre : ralentit la cible de 3.5% pendant 5 secondes, et gèle la cible pendant 3 secondes après 3 cumuls. Impossible de geler le boss. Augmentez les dégâts de givre subis par la cible de 5%. Durée : 18 secondes. L'effet de cette Matrice est également actif dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet."
+    },
+    {
+      "count": 4,
+      "value": "Attaquez la cible 10 fois pour lui infliger une marque de Gel rapide de 12 secondes. Gel rapide : augmente les dégâts de givre subis par la cible marquée de 11%/28%/31%/34%. L'effet de cette Matrice est également actif dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet."
+    }
+  ],
+  "mind": {
+    "name": "Immersion",
+    "desc": "Une action immersive."
+  },
+  "memory": {
+    "name": "Défi",
+    "desc": "Une action stimulante."
+  },
+  "belief": {
+    "name": "Anti-stress",
+    "desc": "Une action qui soulage l'anxiété."
+  },
+  "emotion": {
+    "name": "Sous contrôle",
+    "desc": "Une action qui donne l'impression que tout est sous contrôle."
+  }
+}

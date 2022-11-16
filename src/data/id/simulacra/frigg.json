@@ -19,11 +19,11 @@
   "charge": 8,
   "skills": [
     {
-      "name": "Normal Attack",
+      "name": "Serangan Biasa",
       "type": [
         "Attack"
       ],
-      "description": "Memulai 5 serangan berturut-turut dengan Balmung saat di darat.\nSerangan yang pertama menimpakan damage sebanyak <b>62.1%</b> ATK + <b>3</b> dan memberikan Knockback kecil.\nSerangan yang kedua menimpakan damage sebanyak <b>46.2%</b> ATK + <b>2</b> dan memberikan Knockback kecil.\nSerangan yang ketiga menimpakan damage sebanyak <b>91.1%</b> ATK + <b>5</b> dan memberikan Knockback kecil.\nSerangan yang keempat menimpakan damage sebanyak <b>55.8%</b> ATK + <b>3</b> dan memberikan Knockback kecil.\nSerangan yang kelima menimpakan damage sebanyak <b>218.4%</b> ATK + <b>11</b> dan menjatuhkan target."
+      "description": "Saat di darat, mulai 5 serangan berturut-turut dengan Balmung.\nSerangan Pertama: Menimbulkan damage sebesar <b>62.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebesar <b>46.2%</b> ATK + <b>2</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebesar <b>91.1%</b> ATK + <b>5</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebesar <b>55.8%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kelima: Menimbulkan damage sebesar <b>218.4%</b> ATK + <b>11</b> dan memukul jatuh target."
     },
     {
       "name": "Aerial Discharge",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat mengudara atau setelah melompat satu kali, ketuk Normal Attack untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebanyak <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebanyak <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Timpakan damage sebanyak <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Timpakan damage sebanyak <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Timpakan damage sebanyak <b>168.3%</b> ATK + <b>9</b>."
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimbulkan DMG sebesar <b>168.3%</b> ATK + <b>9</b>."
     },
     {
       "name": "Soaring Slash",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Saat melakukan Normal Attack, tahan Normal Attack untuk mengaktifkan Soaring Slash.\nTerjang maju dengan Swipe Horizontal, lalu lontarkan target ke udara sebelum membumbung tinggi bersama target. Menimpakan maksimum <b>134.3%</b> ATK + <b>7</b> damage."
+      "description": "Saat menggunakan Serangan Biasa, tahan Serangan Biasa untuk mengaktifkan Soaring Slash.\nTerjang maju dengan sabetan horizontal, lalu buat target terkena Suspend saat Mid-Air sebelum Airborne dengannya. Menimbulkan maksimum <b>134.3%</b> ATK + <b>7</b> damage."
     },
     {
       "name": "Helix Slash",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Ketuk dan tahan Normal Attack saat Airborne, atau ketuk Normal Attack saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimpakan damage sebanyak <b>19.8%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimpakan damage sebanyak <b>185.7%</b> ATK + <b>10</b> ke target di sekitar."
+      "description": "Tekan dan tahan Serangan Biasa saat Airborne, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimbulkan damage sebesar <b>19.8%</b> ATK + <b>1</b> tiap mengenai. Saat mendarat, menimbulkan damage sebesar <b>185.7%</b> ATK + <b>10</b> kepada target di sekitar."
     },
     {
       "name": "Multislash",
@@ -55,47 +55,47 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Ketuk Normal Attack dalam jangka waktu Perfect Attack yang singkat untuk mengaktifkan Multislash.\nLepaskan banyak tebasan sejauh jarak tertentu di depan pengguna, menimpakan damage total sebanyak <b>{4}%</b> ATK + <b>{5}</b>."
+      "description": "Tekan Serangan Biasa selama durasi singkat Perfect Dodge Window untuk mengaktifkan Multislash.\nMelepaskan tebasan beruntun sejauh jarak tertentu di depan pemain, menimbulkan Total DMG sebesar <b>143.9%</b> ATK + <b>8</b>."
     },
     {
       "name": "Fimbulwinter",
       "type": [
         "Skill"
       ],
-      "description": "Menebas area di sekitar Wanderer, dan menimpakan Total Damage setara dengan <b>577.5%</b> ATK + <b>30</b>. Bisa mengakibatkan Suspend dan melontarkan target, dan memberikan Damage Immunity saat skill ini digunakan. Cooldown <b>30</b>detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, suatu Frost Domain yang luas akan terbentuk di sekitarmu selama <b>25</b> detik. Jumlah Dodge yang bisa kamu lakukan tidak akan dikurangi saat kamu melakukan Balmung Dodge dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain, dan meningkatkan Shatter sebesar <b>25%</b> saat menggunakan Frost Weapon."
+      "description": "Menebas area di sekitar Wanderer, dan menimbulkan DMG sebesar <b>577.5%</b> ATK + <b>30</b> sehingga mengakibatkan Launch dan Suspend kepada target dan memberikan DMG Immunity kepada pemain selama durasi skill ini. CD: <b>30</b> detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, Frost Domain yang luas akan terbentuk di sekitar Wanderer selama <b>25</b> detik. Upaya Dodge tidak akan berkurang saat kamu menghindar dengan Balmung dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain: Saat menggunakan Frost Weapon, Shatter akan meningkat sebesar <b>25%</b> dan Frost ATK akan meningkat sebesar <b>15%</b>."
     },
     {
       "name": "Frigid Fracture",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan,<b>menghilangkan semua debuff dari penggunanya</b> dan melesat maju setelah beralih ke senjata ini, mengendalikan lawan di suatu area untuk sementara sebelum melepaskan slash raksasa. Menimpakan damage sebanyak <b>618.2%</b>ATK + <b>33</b> dan melontarkan musuh ke udara."
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke depan, mengendalikan musuh di suatu area untuk sementara, kemudian melancarkan tebasan raksasa. Mengakibatkan Launch kepada target ke udara dan menimbulkan DMG sebesar <b>618.2%</b>ATK + <b>33</b>."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Senjata yang terisi penuh akan membuat target <b>Freeze</b> selama <b>2</b> detik dan membiarkannya mengalami Frostbite selama <b>6</b> detik. Memecahkan Ice Shell menyebabkan damage tambahan sebanyak <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang sebesar <b>50%</b>."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Frost Resonance",
-    "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Frost Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata dari slot dadakan. Efek tidak bisa ditumpuk."
+    "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> senjata Frost atau lebih. Efek set ini berfungsi di slot off-hand. Tak bisa bertumpuk dengan efek dari tipe yang sama"
   },
   "advancement": [
-    "Mendapatkan <b>1</b> poin Frostiness setiap kali kamu menerima damage sebesar <b>550%</b> x Frost ATK dalam Frost Domain. Frost bisa diakumulasikan maks <b>10</b> poin.\nSaat Frost Domain habis, Blast Damage sebesar poin Frostiness x Frost ATK x <b>95%</b> akan ditimpakan kepada musuh yang ada di dalam Frost Domain. Setelah keluar dari Frost Domain, <b>1</b> poin Frostiness akan hilang setiap <b>3</b> detik.",
+    "Mendapatkan <b>1</b> poin Frostiness setiap kali kamu menimbulkan DMG sebesar <b>550%</b> x Frost ATK dalam Frost Domain. Frostiness bisa diakumulasikan maks <b>10</b> poin.\nSaat Frost Domain habis, Blast DMG sebesar poin Frostiness x Frost ATK x <b>95%</b> akan ditimbulkan kepada musuh yang ada di dalam Frost Domain. Setelah keluar dari Frost Domain, <b>1</b> poin Frostiness akan hilang setiap <b>3</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
-    "Meningkatkan batas Frostiness menjadi <b>15</b>. Penggunaan Discharge Skill dengan Frost Weapon di dalam Frost Domain akan menimpakan damage setara dengan <b>20%</b> Frost ATK x (Frostiness saat ini +5) kepada semua target di Frost Domain.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Penghancuran perisai dengan menggunakan Frost Weapon di dalam Frost Domain akan membekukan target selama <b>2</b> detik dan menimpakan damage tambahan sebesar poin Frostiness x Frost ATK x <b>35%</b> (jika target tidak bisa dibekukan, damage tambahan yang ditimpakan akan digandakan).",
+    "Meningkatkan batas Frostiness menjadi <b>15</b>. Penggunaan Discharge Skill dengan Frost Weapon di dalam Frost Domain akan menimbulkan DMG sebesar <b>25%</b> Frost ATK x (Frostiness saat ini + 5) kepada semua target di Frost Domain.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
+    "Selama dalam Frost Domain, saat menghancurkan Shield target menggunakan senjata Frost, target akan membeku selama <b>2</b> dtk dan menerima DMG tambahan sesuai dengan Frostiness x <b>35%</b> x Frost ATK. Jika target tak bisa dibekukan, DMG tambahan yang ditimpakan menjadi dua kali lipat.",
     "Saat Frostiness mencapai <b>15</b> poin dan kamu berada dalam Frost Domain, kamu akan mendapatkan tambahan \"Domain of Frost II\" yang akan meningkatkan Frost ATK sebesar <b>25%</b> saat Frost Weapon digunakan."
   ],
   "traits": [
     {
       "name": "Freeze",
-      "description": "Meningkatkan Frost ATK sebanyak <b>1,5%</b> setiap <b>3</b> detik setelah memasuki pertempuran. Bisa ditumpuk hingga <b>10</b> kali. Bertahan selama <b>5</b> detik."
+      "description": "Saat memasuki pertempuran, mendapatkan tambahan <b>1,5%</b> Frost ATK setiap <b>3</b> detik hingga maks <b>10</b> tumpuk selama <b>5</b> detik."
     },
     {
       "name": "Icebound",
-      "description": "Frost ATK ditingkatkan sebesar <b>2,4%</b> setiap <b>3</b> detik setelah memasuki pertempuran. Bisa ditumpuk maks <b>10</b> kali. Bertahan <b>5</b> detik. Selain itu, pemain juga akan mendapatkan Hyperbody dan menjadi kebal terhadap Control Effect di Frost Domain."
+      "description": "Saat memasuki pertempuran, mendapatkan tambahan <b>2,4%</b> Frost ATK setiap <b>3</b> detik hingga maks <b>10</b> tumpuk selama <b>5</b> detik, serta mendapatkan Hyperbody dan kebal terhadap efek kontrol selama ada di dalam Frost Domain."
     }
   ],
   "ascension": [

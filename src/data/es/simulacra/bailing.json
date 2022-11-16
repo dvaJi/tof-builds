@@ -2,7 +2,7 @@
   "_id": 1,
   "id": "bailing",
   "name": "Bai Ling",
-  "weapon": "Pluma de ruiseñor",
+  "weapon": "Pluma de Ruiseñor",
   "weapon_id": "nightingales_feather",
   "birthday": "8 de mayo (Tauro)",
   "birthplace": "Refugio HT201",
@@ -19,68 +19,68 @@
   "charge": 10,
   "skills": [
     {
-      "name": "Reflejos rápidos",
+      "name": "Reflejos Rápidos",
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, lanza con el arco reiteradamente y ataca 5 veces.\nPrimer ataque: inflige daño equivalente al <b>33.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>30.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>54.3%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>83.5%</b> del ATQ + <b>4</b>.\nQuinto ataque: inflige daño equivalente al <b>77.7%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo."
+      "description": "En el suelo, lanza con el arco reiteradamente y ataca 5 veces.\nPrimer ataque: inflige daño equivalente al <b>33.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>30.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>54.3%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>83.5%</b> del ATQ + <b>4</b>.\nQuinto ataque: inflige daño equivalente al <b>77.7%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo."
     },
     {
-      "name": "Flecha cargada",
+      "name": "Flecha Cargada",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal para cargar. Inflige daño básico equivalente al <b>60.5%</b> del ATQ + <b>3</b>, y un <b>50%</b> adicional por cada <b>1</b> segundo utilizado para cargar, hasta <b>3</b> segundos. Inflige daño doble al acertar a la cabeza o a los puntos débiles del objetivo y lo derriba (los disparos a la cabeza no son efectivos contra nómadas)."
+      "description": "Mantén pulsado el ataque normal para cargar. Inflige daño básico equivalente al <b>60.5%</b> del ATQ + <b>3</b>, y <b>50%</b> más por cada <b>1</b> segundo utilizado para cargar, hasta <b>3</b> segundos. Inflige daño doble al acertar a la cabeza o al punto débil del enemigo y derriba al objetivo (los disparos a la cabeza no son efectivos contra nómadas)."
     },
     {
-      "name": "Lluvia de flechas",
+      "name": "Lluvia de Flechas",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Después de cualquier ataque normal, mantén pulsado el ataque normal para desatar Lluvia de flechas que inflige hasta el <b>198.7%</b> del ATQ + <b>10</b> de daño de área a los objetivos."
+      "description": "Después de cualquier ataque normal, mantén pulsado el ataque normal para desatar Lluvia de Flechas que inflige hasta el <b>198.7%</b> del ATQ + <b>10</b> de daño de área a los objetivos."
     },
     {
-      "name": "Descarga aérea",
+      "name": "Descarga Aérea",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire, pulsa el ataque normal y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>38.8%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>51%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>77.7%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>117%</b> del ATQ + <b>6</b>."
+      "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>38.8%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>51%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>77.7%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>117%</b> del ATQ + <b>6</b>."
     },
     {
-      "name": "Flecha equipada",
+      "name": "Flecha Equipada",
       "type": [
         "Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque tras esquivar para activar una Flecha equipada, que hace retroceder un poco al objetivo e inflige daño equivalente al <b>85.5%</b> del ATQ + <b>5</b>."
+      "description": "Pulsa el ataque tras esquivar para activar una Flecha Equipada, que hacer retroceder un poco al objetivo e inflige daño equivalente al <b>85.5%</b> del ATQ + <b>5</b>."
     },
     {
-      "name": "Disparo perforante",
+      "name": "Disparo Perforante",
       "type": [
         "Skill"
       ],
       "description": "Retrocede en una voltereta y realiza <b>1</b> disparo perforante hacia adelante, lo que inflige daño equivalente al <b>154.8%</b> del ATQ + <b>8</b> y hace retroceder al objetivo. <b>12</b> segundos de enfriamiento."
     },
     {
-      "name": "Ráfaga explosiva",
+      "name": "Ráfaga Explosiva",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Fantasía</span>, <b>remueve todas las desventajas del portador</b>, y desata Ráfaga explosiva sobre el objetivo tras cambiar a esta arma, lo que inflige daño equivalente al <b>486.6%</b> del ATQ + <b>26</b>."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b>, y desata Ráfaga Explosiva sobre el objetivo tras cambiar a esta arma, lo que inflige daño equivalente al <b>486.6%</b> del ATQ + <b>26</b>."
     }
   ],
   "weapon_type": {
     "name": "Grave",
-    "description": "Las armas completamente cargadas infligirán daño equivalente al <b>100%</b> del ATQ con el siguiente ataque, y causarán el estado grave en el objetivo por <b>7</b> segundos, por lo que recibirá un <b>20%</b> de daño adicional."
+    "description": "Cuando el arma está completamente cargada, el próximo ataque infligirá daño equivalente al <b>100%</b> del ATQ y causará el estado grave por <b>7</b> segundos, lo que causa que reciba <b>20%</b> de daño adicional."
   },
   "advancement": [
-    "Restaura 1 intento de esquivar cada cinco ataques normales o después de usar <span class=\"text-green\">Disparo perforante</span>.",
+    "Restaura 1 intento de evasión cada cinco ataques normales o después de usar <span class=\"text-green\">Disparo Perforante</span>.",
     "Aumenta el crecimiento de ATQ base del arma actual en un <b>10%</b>.",
-    "Aumenta el daño por tiro a la cabeza en un <b>30%</b>.",
+    "Aumenta el daño por tiro en la cabeza en un <b>30%</b>.",
     "Aumenta el crecimiento de ATQ base del arma actual en un <b>20%</b>.",
-    "Las habilidades de esquivar infligen grave a los objetivos durante <b>7</b> segundos.",
+    "Las habilidades de evasión infligen un efecto grave en los objetivos por <b>7</b> segundos.",
     "Aumenta la tasa de críticos a objetivos graves en un <b>30%</b> y el daño crítico en un <b>50%</b>."
   ],
   "traits": [
@@ -102,7 +102,7 @@
       "cost": 250,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 1
       }
@@ -113,7 +113,7 @@
       "cost": 500,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 2
       }
@@ -124,13 +124,13 @@
       "cost": 750,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 2
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 2
       }
@@ -141,19 +141,19 @@
       "cost": 1000,
       "mat1": {
         "id": "rockcore",
-        "name": "Núcleo de roca",
+        "name": "Núcleo de Roca",
         "rarity": "N",
         "amount": 2
       },
       "mat2": {
         "id": "acidproof_glaze_i",
-        "name": "Esmaltado antiácido I",
+        "name": "Esmaltado Antiácido I",
         "rarity": "R",
         "amount": 3
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Armazón de nanofibras I",
+        "name": "Armazón de Nanofibras I",
         "rarity": "SR",
         "amount": 2
       }

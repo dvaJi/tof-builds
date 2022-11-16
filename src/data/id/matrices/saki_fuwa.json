@@ -1,0 +1,34 @@
+{
+  "_id": 30,
+  "id": "saki_fuwa",
+  "name": "Saki Fuwa",
+  "suitName": "Super Flow",
+  "hash": "SSR17",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Selama Frost Resonance aktif: Untuk setiap 3 detik, menimbulkan DMG sebesar 60%/100%/150%/220% Frost ATK kepada musuh dalam radius 10 meter dan mengakibatkan efek Frost. Efek Frost: Memperlambat target sebesar 3.5% selama 5 detik, dan membekukan target selama 3 detik setelah mencapai 3 tumpuk, tetapi tidak bisa membekukan Boss. Meningkatkan Frost DMG yang diterima target sebesar 5%. Bertahan selama 18 detik. Efek Matrix ini juga aktif di slot sampingan, tetapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
+    },
+    {
+      "count": 4,
+      "value": "Menyerang target 10 kali untuk mengakibatkan tanda Flashfreeze selama 12 detik. Flashfreeze: Meningkatkan Frost DMG yang ditimpakan pada target bertanda sebesar 11%/28%/31%/34%. Efek Matrix ini juga aktif di slot sampingan, tetapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
+    }
+  ],
+  "mind": {
+    "name": "Immersed",
+    "desc": "Aksi yang mengesankan."
+  },
+  "memory": {
+    "name": "Challenge",
+    "desc": "Aksi yang menantang."
+  },
+  "belief": {
+    "name": "Anxiety Reliever",
+    "desc": "Aksi yang mampu meredakan kecemasan."
+  },
+  "emotion": {
+    "name": "In Control",
+    "desc": "Aksi yang membuat semuanya terasa bisa dikendalikan."
+  }
+}

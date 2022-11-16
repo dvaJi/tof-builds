@@ -2,7 +2,7 @@
   "_id": 12,
   "id": "pepper",
   "name": "Pepper",
-  "weapon": "Vara de cicatrices",
+  "weapon": "Vara de Cicatrices",
   "weapon_id": "staff_of_scars",
   "birthday": "9 de julio (Cáncer)",
   "birthplace": "Departamento Médico de Hykros",
@@ -23,26 +23,26 @@
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, blande la vara y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>25.1%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>18.8%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>30.4%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>41.4%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>73.2%</b> del ATQ + <b>4</b>."
+      "description": "En el suelo, blande el bastón y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>25.1%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>18.8%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>30.4%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>41.4%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>73.2%</b> del ATQ + <b>4</b>."
     },
     {
-      "name": "Ráfaga elevada",
+      "name": "Ráfaga Elevada",
       "type": [
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, pulsa el ataque normal y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>32.5%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.5%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>25.5%</b> del ATQ + <b>1</b>.\nCuarto ataque: inflige daño equivalente al <b>45.6%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>47.7%</b> del ATQ + <b>3</b>."
+      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>32.5%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.5%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>25.5%</b> del ATQ + <b>1</b>.\nCuarto ataque: inflige daño equivalente al <b>45.6%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>47.7%</b> del ATQ + <b>3</b>."
     },
     {
-      "name": "Cascada lunar",
+      "name": "Cascada Lunar",
       "type": [
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal en el aire para activar Cascada lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> segundos, por un total de daño equivalente al <b>57.2%</b> del ATQ + <b>3</b>."
+      "description": "Mantén pulsado el ataque normal en el aire para activar Cascada Lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> segundos, por un total de daño equivalente al <b>57.2%</b> del ATQ + <b>3</b>."
     },
     {
-      "name": "Asalto enfocado",
+      "name": "Asalto Enfocado",
       "type": [
         "Attack",
         "Hold: Attack"
@@ -55,7 +55,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar (pulsa el botón de flecha antes de esquivar) para activar Sobrecarga.\nCada ola de energía inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
+      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Sobrecarga.\nCada pulso de energía inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
     },
     {
       "name": "Teseracto",
@@ -70,14 +70,14 @@
       "type": [
         "Skill"
       ],
-      "description": "Crea un escudo de energía en la posición del nómada. Cura a los aliados dentro del escudo el equivalente al <b>81.7%</b> del ATQ + <b>4</b> cada segundo y reduce el daño recibido en un <b>3%</b> durante <b>10</b> segundos. <b>60</b> segundos de enfriamiento."
+      "description": "Crea un escudo de energía en la posición del Nómada. Cura a los aliados dentro del escudo el equivalente al <b>81.7%</b> del ATQ + <b>4</b> cada segundo y reduce el daño recibido en un <b>3%</b> durante <b>10</b> segundos. <b>60</b> segundos de enfriamiento."
     },
     {
-      "name": "Liberación rápida",
+      "name": "Liberación Rápida",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y el bastón continúa removiendo desventajas del nómada y los aliados, y además cura un <b>{2}%</b> del ATQ + <b>{3}</b> de sus PS durante <b>7</b> segundos."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y el bastón continúa removiendo desventajas del Nómada y los aliados, y además cura un <b>79%</b> del ATQ + <b>4</b> de sus PS durante <b>7</b> segundos."
     }
   ],
   "weapon_type": {
@@ -85,7 +85,7 @@
     "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>106%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
   },
   "advancement": [
-    "Cura a todos los compañeros de grupo en un radio de <b>10</b> metros por <b>100%</b> del ATQ luego de utilizar una habilidad para esquivar.",
+    "Cura a todos los compañeros en un radio de <b>10</b> metros por un <b>100%</b> del ATQ luego de utilizar una habilidad de evasión.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>10%</b>.",
     "Los ataques normales también lanzan dos misiles, cada uno de los cuales inflige daño equivalente al <b>5%</b> del ATQ del objetivo y recuperan <b>5</b> puntos de carga de arma.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>20%</b>.",
@@ -96,12 +96,12 @@
     {
       "name": "Resurrección",
       "icon": true,
-      "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>100%</b>."
+      "description": "Cuando Pepper utiliza saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>100%</b>."
     },
     {
       "name": "Fuente",
       "icon": true,
-      "description": "Cuando Pepper utiliza Saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>200%</b>."
+      "description": "Cuando Pepper utiliza saciedad para restaurar sus PS, aumenta el efecto de restauración en un <b>200%</b>."
     }
   ],
   "ascension": [
@@ -111,7 +111,7 @@
       "cost": 250,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 1
       }
@@ -122,7 +122,7 @@
       "cost": 500,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       }
@@ -133,7 +133,7 @@
       "cost": 750,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       },
@@ -150,7 +150,7 @@
       "cost": 1000,
       "mat1": {
         "id": "magcore",
-        "name": "Núcleo magnético",
+        "name": "Núcleo Magnético",
         "rarity": "N",
         "amount": 2
       },
@@ -162,7 +162,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Armazón reforzado I",
+        "name": "Armazón Reforzado I",
         "rarity": "SR",
         "amount": 2
       }
