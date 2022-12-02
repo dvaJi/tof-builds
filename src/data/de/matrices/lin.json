@@ -1,0 +1,34 @@
+{
+  "_id": 31,
+  "id": "lin",
+  "name": "Lin",
+  "suitName": "Die Nachtstadt schläft nie",
+  "hash": "SSR18",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht bei einem Treffer für 18 Sek. ANG um 3%/3,7%/4,3%/5%. Dieser Effekt kann bis zu 5-mal gestapelt werden. Es gilt immer nur der Effekt mit der höchsten Stufe."
+    },
+    {
+      "count": 4,
+      "value": "Je 5 Meter, die im Reich des Mondlichts zurückgelegt werden, wird 1 Stapel „Mondlicht“ gewährt. Erhöht für 15 Sek. Endschaden um 7%/8,3%/9,6%/11%. Kann bis zu 3-mal gestapelt werden. Dieser Matrixeffekt wird auch im Nebenhand-Slot aktiviert, aber nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+    }
+  ],
+  "mind": {
+    "name": "Verbeugen",
+    "desc": "Verantwortung, die mit der Identität kommt, eine Last und eine Prüfung."
+  },
+  "memory": {
+    "name": "Lichtverschmutzung",
+    "desc": "Licht, das durch jede Ecke der Stadt strömt … und darüber."
+  },
+  "belief": {
+    "name": "Das Spiegelbild",
+    "desc": "Eine makellose und glänzende Figur, egal aus welchem Blickwinkel."
+  },
+  "emotion": {
+    "name": "Schwarzfuchs-Maske",
+    "desc": "Manchmal verwandelt sie sich in einen Schatten, der sich frei zwischen den Gebäuden bewegt."
+  }
+}

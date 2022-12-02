@@ -1,0 +1,34 @@
+{
+  "_id": 31,
+  "id": "lin",
+  "name": "Lin",
+  "suitName": "Lin : Noctipolis ne dort jamais",
+  "hash": "SSR18",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Augmente l'ATQ de 3%/3,7%/4,3%/5% pendant 18 secondes. Cet effet peut se cumuler jusqu'à 5 fois et s'il est obtenu plusieurs fois, seul l'effet au niveau le plus élevé s'appliquera."
+    },
+    {
+      "count": 4,
+      "value": "Confère 1 cumul de Clair de lune tous les 5 m parcourus dans le Royaume du Clair de lune, ce qui augmente les dégâts finaux de 7%/8,3%/9,6%/11% pendant 15 secondes. Peut se cumuler jusqu'à 3 fois. L'effet de cette matrice est également actif dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet."
+    }
+  ],
+  "mind": {
+    "name": "Révérence",
+    "desc": "La responsabilité qui vient avec l'identité, un fardeau et une épreuve."
+  },
+  "memory": {
+    "name": "Pollution légère",
+    "desc": "La lumière qui inonde les moindres recoins de la ville et au-dessus…"
+  },
+  "belief": {
+    "name": "Face au miroir",
+    "desc": "Une forme impeccable et éblouissante, peu importe l'angle."
+  },
+  "emotion": {
+    "name": "Masque du renard noir",
+    "desc": "Elle se transforme parfois en ombre qui se déplace librement entre les bâtiments."
+  }
+}

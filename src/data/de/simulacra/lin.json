@@ -1,0 +1,306 @@
+{
+  "_id": 21,
+  "id": "lin",
+  "name": "Lin",
+  "weapon": "Schattenweben",
+  "weapon_id": "shadoweave",
+  "birthday": "3. September (Jungfrau)",
+  "birthplace": "Hykros – Distrikt 7",
+  "gender": "Weiblich",
+  "info": "Eine junge Offizierin, deren Auftreten Eindruck macht.\nSie ist eine Sauberkeitsfanatikerin, die kein Staubkorn liegen lassen kann, und hat hohe Ansprüche an sich und andere. Dementsprechend hält sie sich gern strikt an Regeln, ist aber auch für Diskussionen offen.\nIhre gehobene Erziehung hat sie zu der gemacht, die sie heute ist: eine entschlossene und fähige Perfektionistin.",
+  "description": "Die einzige Tochter von Harunobu, dem letzten örtlichen Archon. Sie wurde zu seiner Nachfolgerin erzogen. Obwohl sie das Amt noch nicht übernommen hat, steht für die Öffentlichkeit bereits fest, dass sie in die Fußstapfen ihres Vaters treten wird.\nSeit ihrer Kindheit wird sie strengstens im Kampf ausgebildet, sodass sie im Gefecht an der Front viel eher zu Hause wäre als bei dem Papierkram im Büro, was ihre Ergebnisse noch unterstreichen.\nEgal ob im zentralen Distrikt oder in der Unterstadt – Lin ist überall unfassbar beliebt.",
+  "like": "Tee, der Duft von Waschmittel, frittierter Tofu",
+  "dislike": "Keime, hartnäckige Flecken",
+  "element": "Altered",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Benutze „Schattenweben“, während du auf dem Boden stehst, um 5 Angriffe hintereinander zu entfesseln.\nErster Angriff: Verursacht Schaden in Höhe von <b>59.9%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>57.1%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>49.5%</b> des ANG + <b>3</b>. \nVierter Angriff: Verursacht Schaden in Höhe von <b>114.2%</b> des ANG + <b>6</b> und lässt Ziel in der Luft schweben.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>152.2%</b> des ANG + <b>8</b>."
+    },
+    {
+      "name": "Luftsprengung",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Setze in der Luft einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>30.6%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>55.6%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>48.2%</b> des ANG + <b>3</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>111.2%</b> des ANG + <b>6</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>148.3%</b> des ANG + <b>8</b>."
+    },
+    {
+      "name": "Verstreuter Boden",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Nach dem zweiten normalen Angriff am Boden oder in der Luft die normale Angriffstaste gedrückt halten, um „Verstreuter Boden“ auszulösen.\nDie Zielposition wird angegriffen und Schaden in Höhe von <b>83.2%</b> des ANG + <b>4</b> verursacht. Außerdem wird das Ziel zu Boden gestoßen.\nPassiv: Nachdem „Verstreuter Boden“ am Boden ausgelöst wurde, wird ein wiederholtes schnelles Tippen auf die normale Angriffstaste sofort „Kurze Blüte“ auslösen (der dritte Stapel)."
+    },
+    {
+      "name": "Kurze Blüte",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Drücke und halte die normale Angriffstaste gedrückt, um „Kurze Blüte“ auszulösen, was bis zu 3 Stapeln aufgeladen werden kann. Gewährt während der Ladung Immunität gegen alle Kontrolleffekte und gegen Hyperkörper.\nErster Stapel: Verursacht Schaden in Höhe von <b>73.9%</b> des ANG + <b>4</b>.\nZweiter Stapel: Verursacht Schaden in Höhe von <b>146.8%</b> des ANG + <b>246.4</b>.\nDritter Stapel: Verursacht Schaden in Höhe von <b>13%</b> des ANG + <b>{5}</b>."
+    },
+    {
+      "name": "Fallschatten",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Drücke und halte die normale Angriffstaste in der Luft gedrückt, um „Fallschatten“ auszulösen.\nStampfe aus dem Himmel fallend auf den Boden, dies verursacht Schaden in Höhe von <b>160%</b> des ANG + <b>8</b> und bringt das Ziel zu Fall."
+    },
+    {
+      "name": "Ausweichen",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Weiche kurz bevor du getroffen wirst aus, um Trugbild auszulösen. Dies verlangsamt die Gegner im Gebiet und gewährt für <b>0,5</b> Sek. Immunität gegen Lähmungsangriff."
+    },
+    {
+      "name": "Blattgrün",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Führe einen Rückwärtssalto aus und entfessle dabei „Blattgrün“ auf das Ziel. Bei einem Treffer wird Schaden in Höhe von <b>70%</b> des ANG + <b>4</b> verursacht und <b>1 bis 3</b> Epiphyllen erzeugt, die ein „Grünes Feld“ bilden, das <b>5</b> Sek. lang bestehen bleibt. Die Bewegungsgeschwindigkeit des Gegners wird um <b>50%</b> verringert, wenn er den Wanderer innerhalb des Felds anvisiert.\nPassiv: Kann sowohl am Boden als auch in der Luft eingesetzt werden.\nPassiv: Steht man unter einem Kontrolleffekt, wird dieser sofort aufgelöst und automatisch „Blattgrün“ entfesselt, ohne einen Ausweichversuch zu verbrauchen. Die Abklingzeit der Fähigkeit beträgt <b>20</b> Sek."
+    },
+    {
+      "name": "Aufgeregter Flow: Rauschender Strom",
+      "type": [
+        "Skill"
+      ],
+      "description": "Erschaffe um dich herum für <b>15</b> Sek. ein „Reich des Mondlichts“. Der von dir verursachte Schaden im Reich ist um <b>10%</b> erhöht, die Sprungfähigkeit ist um <b>20%</b> erhöht und der Ausdauerverbrauch ist um <b>50%</b> verringert. Abklingzeit: <b>30</b> Sek. \nTritt in den speziellen Zustand „Luftblüten“ ein, wenn „Schattenweben“ im Reich des Mondlichts eingesetzt wird. Deine Fallgeschwindigkeit ist stark reduziert und du kannst mehrere Doppelsprünge durchführen. Benutze in diesem Zustand die Richtungssteuerung oder die Sprungtaste, während du dich in der Luft befindest, um zu „Durchstreifen“ und einen Angriff auf das Ziel durchzuführen. Bei einem Treffer wird Schaden in Höhe von <b>66%</b> des ANG + <b>3</b> verursacht und es werden zufällig <b>1–3</b> Epiphyllum generiert.\n \nPassiv: Im Reich des Mondlichts wird alle <b>0,8</b> Sek. <b>1</b> Epiphyllum in der Nähe von 1 Ziel generiert. \nPassiv: Wenn du „Schattenweben“ im Reich des Mondlichts einsetzt, werden Gegnern, deren LP niedriger als <b>20%</b> ist, zusätzliche <b>50%</b> Schaden zugefügt.\nPassiv: Wenn du „Schattenweben“ im Reich des Mondlichts einsetzt, wird erlittener Schaden erkannt und du teleportierst dich von dem Ort eines Ziels weg. Abklingzeit: <b>10</b> Sek.\n \nPassiv: Waffenmeister\nFlamme: Wenn Schattenweben mit 2 Flammenwaffen kombiniert wird, wird das Reich des Mondlichts zu „Flamme: Reich des Mondlichts“, welches für zusätzliche <b>4</b> Sek. anhält, wenn Ziele verbrannt werden. Ziele mit einem Schild nehmen zusätzliche <b>15%</b> Flammenschaden.\n\nVolt: Wenn „Schattenweben“ mit 2 Voltwaffen kombiniert wird, wird das Reich des Mondlichts zu „Volt: Reich des Mondlichts“, welches eine Chance von <b>65%</b> bietet, beim Ausweichen keinen Ausweichversuch zu verbrauchen. Außerdem besitzen Ausweichangriffe einen Schadensbonus von <b>35%</b>. Wenn Voltresonanz aktiviert ist, gibt es einen Bonus auf Voltschaden in Höhe von zusätzlichen <b>30%</b>.\n \nFrost: Wenn „Schattenweben“ mit 2 Frostwaffen kombiniert wird, wird das Reich des Mondlichts zu „Frost: Reich des Mondlichts“. Ziele innerhalb des Reichs leiden für <b>15</b> Sek. an „Erfrierung“, nachdem sie <b>10</b>-mal Frostschaden erlitten haben und nehmen während dieses Zeitraums zusätzlich <b>22%</b> Schaden. Die Anzahl der Angriffe ist nicht stapelbar, wenn das Ziel bereits im Zustand „Erfrierung“ ist. \n\nPhysisch: Wenn „Schattenweben“ mit 2 physischen Waffen kombiniert wird, wird Reich des Mondlichts zu „Physisch: Reich des Mondlichts“. Wenn du einen LP-Schild besitzt, fügst du Zielen innerhalb der Reichweite jede Sekunde Schaden in Höhe von <b>50%</b> ANG + <b>3</b> zu.\n\nBalance: Wenn „Schattenweben“ mit zwei unterschiedlichen Elementarwaffen (darunter Flamme, Volt, Frost, Physisch), wird der ANG des Wanderers im Reich des Mondlichts um <b>15%</b> erhöht und so angesehen, als würden Flamme-, Volt-, Frost- und physische Resonanz ohne Resonanzeffekte aktiviert."
+    },
+    {
+      "name": "Schwerkraftwoge",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Waffenwechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und „Schwerkraftwoge“ mit einer stärkeren Absorptionskraft losgelassen. Dies verursacht Schaden in Höhe von <b>368.5%</b> des ANG + <b>19</b>. Dann explodiert sie und erschafft in <b>5</b> Sek. eine weitreichende Ausbreitungswelle, die Schaden in Höhe von <b>184.3%</b> + <b>10</b> verursacht. Während dieser Zeit dauert die Schadensimmunität <b>2,6</b> Sek. lang an, wenn die Fähigkeit aktiv ist (nicht in der Apex-Liga verfügbar)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Veränderter Schaden",
+    "description": "Wenn die Waffe voll geladen ist, markiert der nächste Angriff das Ziel und verursacht nach <b>5</b> Sek. eine Explosion. Verursacht zusätzlichen Schaden in Höhe von <b>25%</b> des vom Ziel während der Markierung erlittenen Schadens (bis zu <b>560%</b> des ANG). Ein Ziel kann nur eine Markierung gleichzeitig haben."
+  },
+  "weapon_resonance": {
+    "name": "Fusionskern des Schattenwebens",
+    "description": "Die Kombination von „Schattenweben“ mit anderen Waffen kann den Effekt <b>Waffenmeister</b> erzeugen.\nEpiphyllum erscheint zufällig beim Ziel und explodiert innerhalb von <b>1–3</b> Sek. und verursacht dabei <b>60%</b> Flächenschaden."
+  },
+  "advancement": [
+    "Normale Angriffe verursachen bei Treffern Schaden im Zielgebiet.\nWenn es ein weiteres Epiphyllum im Explosionsbereich des Epiphyllums gibt, erhöht sich der Schaden jeder der folgenden Epiphyllum-Explosionen um <b>10%</b>, bis zu maximal <b>50%</b>.\nDas Intervall, in dem Epiphyllum durch <b>Reich des Mondlichtes</b> entsteht, ist jetzt auf <b>0,5</b> Sek. reduziert.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Das Intervall, in dem Epiphyllum durch <b>„Reich des Mondlichtes“</b> entsteht ist jetzt auf <b>0,3</b> Sek. reduziert.\nEpiphyllum bindet sich an Gegner.\nDie Dauer von <b>„Reich des Mondlichtes“</b> wurde auf <b>20</b> Sek. erhöht.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Erhalte, während du unter dem Effekt von <b>Reich des Mondlichtes</b> stehst, jede Sek. <b>30</b> Waffenladungspunkte und erhöhe den durch Entladungsfähigkeiten verursachten Schaden um <b>15%</b>.",
+    "Wechsle die Modi vom <b>Reich des Mondlichtes</b> bis zu <b>2</b> Mal. Erhalte <b>1</b> Versuch nach Fähigkeiten-Abklingzeit und <b>1</b> weiteren Versuch durch Ladungsentladung.\nVerwende eine beliebige Waffenentladung <b>3</b> Mal, um <b>+1</b> auf die <b>Reich des Mondlichtes</b>-Anzahl zu erhalten. Wirkt auch wenn sich „Schattenweben“ im Nebenhand-Slot befindet.\nUnter dem Effekt von <b>Reich des Mondlichtes</b> erhöht sich der Schaden um <b>15%</b>."
+  ],
+  "traits": [
+    {
+      "name": "Epiphyllumblüte",
+      "description": "Erhöht den Explosionsschaden des Epiphyllums um <b>15%</b>."
+    },
+    {
+      "name": "Epiphyllum-Glamour",
+      "description": "Erhöht den Explosionsschaden des Epiphyllums um <b>20%</b>. Verringert bei einem Treffer durch Epiphyllen den Widerstand um <b>7%</b> und hält <b>7</b> Sekunden an. Nicht stapelbar."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

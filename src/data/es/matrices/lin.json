@@ -1,0 +1,34 @@
+{
+  "_id": 31,
+  "id": "lin",
+  "name": "Lin",
+  "suitName": "Night City nunca duerme",
+  "hash": "SSR18",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta el ATQ un 3%/3.7%/4.3%/5% al impacto por 18 segundos. Este efecto se puede acumular hasta 5 veces, y solo se aplica el efecto del nivel más alto cuando se obtiene repetidamente."
+    },
+    {
+      "count": 4,
+      "value": "Cada 5 m viajados en el Reino de luz lunar otorgan 1 acumulación de Luz lunar, lo que aumenta el daño final un 7%/8.3%/9.6%/11% por 15 segundos. Se acumula hasta 3 veces. Este efecto de matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con la clasificación de estrellas más alta."
+    }
+  ],
+  "mind": {
+    "name": "reverencia",
+    "desc": "La responsabilidad llega con identidad, una carga y un juicio."
+  },
+  "memory": {
+    "name": "contaminación lumínica",
+    "desc": "La luz fluye a través de cada esquina de la ciudad, y sobre ella..."
+  },
+  "belief": {
+    "name": "en el espejo",
+    "desc": "Una figura implacable e impresionante, sin importar el ángulo."
+  },
+  "emotion": {
+    "name": "máscara de zorro negro",
+    "desc": "A veces se transforma en una sombra que se mueve libremente en el edificio."
+  }
+}

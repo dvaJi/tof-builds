@@ -449,5 +449,22 @@
         "value": ["MatrixSuit_SSR17_des2", [12, 11, 28, 31, 34]]
       }
     ]
+  },
+  {
+    "_id": "SSR18",
+    "name": "Nitai_linye_SSR",
+    "id": "lin",
+    "suitName": "MatrixSuit_SSR18_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": ["MatrixSuit_SSR18_des1", [3, 5, 3.5, 3, 5, 18]]
+      },
+      {
+        "count": 4,
+        "value": ["MatrixSuit_SSR18_des2", [12, 11, 28, 31, 34]]
+      }
+    ]
   }
 ]

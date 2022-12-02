@@ -1,0 +1,34 @@
+{
+  "_id": 31,
+  "id": "lin",
+  "name": "Lin",
+  "suitName": "Night City Never Sleeps",
+  "hash": "SSR18",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan ATK sebanyak 3%/3,7%/4,3%/5% selama 18 detik saat mengenai target. Efek ini bisa ditumpuk maks 5 kali. Jika didapatkan berulang kali, yang akan berlaku hanyalah efek yang levelnya paling tinggi."
+    },
+    {
+      "count": 4,
+      "value": "Untuk setiap 5 m yang ditempuh dengan Moonlight Realm, pemain akan mendapatkan 1 tumpuk Moonlight, yang akan meningkatkan Final DMG sebesar 7%/8,3%/9,6%/11% selama 15 detik. Efek ini bisa ditumpuk maks 3 kali. Efek Matrix ini juga aktif di slot sampingan, tetapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
+    }
+  ],
+  "mind": {
+    "name": "Bow Down",
+    "desc": "Tanggung jawab yang menyertai identitas. Ini adalah beban sekaligus ujian."
+  },
+  "memory": {
+    "name": "Light Pollution",
+    "desc": "Cahaya yang mengalir menembus semua sudut kota, dan di atasnya..."
+  },
+  "belief": {
+    "name": "Standing in a Mirror",
+    "desc": "Dari sudut mana pun, sosok ini sempurna dan memukau."
+  },
+  "emotion": {
+    "name": "Black Fox Mask",
+    "desc": "Kadang, dia berubah menjadi bayangan yang bergerak bebas di antara bangunan-bangunan."
+  }
+}

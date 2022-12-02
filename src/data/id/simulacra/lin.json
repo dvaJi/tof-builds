@@ -1,0 +1,306 @@
+{
+  "_id": 21,
+  "id": "lin",
+  "name": "Lin",
+  "weapon": "Shadoweave",
+  "weapon_id": "shadoweave",
+  "birthday": "3 September (Virgo)",
+  "birthplace": "Hykros District 7",
+  "gender": "Perempuan",
+  "info": "Seorang perwira muda dengan aura yang berkarisma.\nPenggila kebersihan yang sama sekali tidak suka dengan kotoran. Dia juga menjunjung tinggi martabat dirinya sendiri dan orang lain dengan standar yang tinggi. Ini membuatnya tampak sangat terpaku pada aturan, walau sebenarnya dia tetap bisa diajak diskusi.\nPendidikan elite yang dia jalani menjadikan dirinya seperti sekarang ini: Seorang perfeksionis yang tegas dan kompeten.",
+  "description": "Putri semata wayang Harunobu, Archon wilayah setempat sebelumnya. Dia dipersiapkan untuk menjadi penerus ayahnya. Meskipun belum menduduki posisi itu, dia sudah mendapatkan dukungan penuh dari masyarakat untuk menjadi Archon berikutnya.\nSejak kecil, dia terbiasa mengikuti latihan tempur yang berat. Karena itu, dia jauh lebih cocok bertarung di garis depan dibanding mengurus dokumen di kantor, dan ini jelas terbukti dari hasil kerjanya.\nNamanya sangat populer di antara para penduduk, mulai dari distrik pusat hingga ke kota bawah.",
+  "like": "Teh, aroma deterjen, tahu goreng",
+  "dislike": "Kuman, noda membandel",
+  "element": "Altered",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Serangan Biasa",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, gunakan Shadoweave untuk melakukan 5 serangan beruntun.\nSerangan Pertama: Menimpakan DMG sebesar <b>59.9%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>57.1%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>49.5%</b> ATK + <b>3</b>. \nSerangan Keempat: Menimpakan DMG sebesar <b>114.2%</b> ATK + <b>6</b> dan menerapkan Suspend pada target.\nSerangan Kelima: Menimpakan DMG sebesar <b>152.2%</b> ATK + <b>8</b>."
+    },
+    {
+      "name": "Aerial Discharge",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>30.6%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>55.6%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>48.2%</b> ATK + <b>3</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>111.2%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimbulkan DMG sebesar <b>148.3%</b> ATK + <b>8</b>."
+    },
+    {
+      "name": "Scattered Soil",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Setelah melakukan Serangan Biasa di darat atau di udara, tahan Serangan Biasa untuk mengaktifkan Scattered Soil.\nSerang posisi target, menimpakan DMG sebesar <b>83.2%</b> ATK + <b>4</b> dan menjatuhkan target.\nPassive: Setelah mengeluarkan Scattered Soil di darat, menekan Serangan Biasa dengan cepat bisa langsung mengeluarkan Brief Bloom (tumpukan ke-3)."
+    },
+    {
+      "name": "Brief Bloom",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tahan Serangan Biasa untuk mengeluarkan Brief Bloom. Bisa ditahan hingga terkumpul 3 Charge dan akan mendapatkan Hyperbody dan Control efek Immunity selama proses ini.\nCharge Pertama: Menimpakan DMG sebesar <b>73.9%</b> ATK + <b>4</b>.\nCharge Kedua: Menimpakan DMG sebesar <b>146.8%</b> ATK + <b>246.4</b>.\nCharge Ketiga: Menimpakan DMG sebesar <b>13%</b> ATK + <b>{5}</b>."
+    },
+    {
+      "name": "Falling Shadow",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tahan Serangan Biasa untuk mengaktifkan Falling Shadow.\nMenghantam dari angkasa, menimpakan DMG sebesar <b>160%</b> ATK + <b>8</b> dan menjatuhkan target."
+    },
+    {
+      "name": "Dodge",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Menjadi kebal terhadap Hitstun selama <b>0,5</b> detik saat menghindar."
+    },
+    {
+      "name": "Leafy Green",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Menembakkan Leafy Green ke target sambil salto ke belakang, menimpakan DMG sebesar <b>70%</b> ATK + <b>4</b>, menghasilkan <b>1 sampai 3</b> Epiphyllum saat kena dan membentuk Green Field yang aktif selama <b>5</b> detik. Saat musuh dalam Green Field mengincar Wanderer, kecepatan geraknya berkurang <b>50%</b>.\nPassive: Bisa dikeluarkan di darat atau di udara.\nPassive: Langsung melenyapkan efek kontrol yang dimiliki jika ada dan langsung menembakkan Leafy Green tanpa mengonsumsi Dodge. CD Skill ini <b>20</b> detik."
+    },
+    {
+      "name": "Excited Flow: Flashing Stream",
+      "type": [
+        "Skill"
+      ],
+      "description": "Ciptakan Moonlight Realm di sekelilingmu selama <b>15</b> detik. DMG yang kamu timpakan dalam Realm ini meningkat <b>10%</b>, tinggi lompatan meningkat <b>20%</b>, dan konsumsi Stamina berkurang <b>50%</b>. CD: <b>30</b> detik.\nMemasuki kondisi Airbloom saat menggunakan Shadoweave di dalam Realm, di mana kecepatan jatuh akan berkurang drastis dan bisa melakukan Double-Jump berkali-kali. Dalam kondisi ini, menggunakan tombol arah atau lompat saat di udara akan mengaktifkan Roam dan menyerang target. Saat kena, menimpakan DMG sebesar <b>66%</b> ATK + <b>3</b> dan menciptakan <b>1– 3</b> Epiphyllum secara acak.\n\nPassive: Dalam Moonlight Realm, sebuah Epiphyllum akan tercipta di dekat target dalam interval tertentu, maks <b>1</b> Epiphyllum setiap <b>0,8</b> detik. \nPassive: Saat menggunakan Shadoweave dalam Moonlight Realm, menimpakan <b>50%</b> DMG tambahan kepada musuh dengan HP kurang dari <b>20%</b>.\nPassive: Saat menggunakan Shadoweave dalam Moonlight Realm, DMG yang diterima akan terdeteksi dan kamu akan berpindah ke lokasi target. CD: <b>10</b> detik.\n\nPassive: Weapons Master\nFlame: Saat Shadoweave dipasangkan dengan 2 Flame Weapon, Moonlight Realm dikonversi menjadi Flame: Moonlight Realm, yang aktif selama <b>4</b> detik lebih lama saat membakar target. Target dengan Shield menerima <b>15%</b> Flame DMG tambahan. \n\nVolt: Saat Shadoweave dipasangkan dengan 2 Volt Weapon, Moonlight Realm dikonversi menjadi Volt: Moonlight Realm, dengan peluang <b>65%</b> tidak mengonsumsi Dodge saat melakukan Dodge, dan peningkatan <b>35%</b> DMG untuk Dodge Attack. Saat Volt Resonance diaktifkan, Volt DMG meningkat <b>30%</b>.\n\nFrost: Saat Shadoweave dipasangkan dengan 2 Frost Weapon, Moonlight Realm dikonversi menjadi Frost: Moonlight Realm. Target di dalam Realm akan terkena Frostbite selama <b>15</b> detik saat menerima Frost DMG <b>10</b> kali dan menerima <b>22%</b> Frost DMG tambahan. Jumlah serangan tidak bertumpuk dalam status Frostbite. \n\nPhysical: Saat Shadoweave dipasangkan dengan 2 Physical Weapon, Moonlight Realm dikonversi menjadi Physical: Moonlight Realm. Saat kamu memiliki HP Shield, menimpakan DMG sebesar <b>50%</b> ATK + <b>3</b> kepada target dalam jangkauan setiap detik.\n\nBalance: Saat Shadoweave dipasangkan dengan dua Weapon dengan elemen berbeda (antara Flame, Volt, Frost, dan Physical Weapon), ATK milik Wanderer meningkat <b>15%</b> di dalam Realm, dan dianggap sebagai mengaktifkan Flame, Volt, Frost, dan Physical Resonance tanpa efek Resonance."
+    },
+    {
+      "name": "Gravity Weave",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke Weapon ini dari Weapon lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan mengeluarkan Gravity Weave dengan kekuatan tarikan yang lebih besar, menimpakan DMG sebesar <b>368.5%</b> ATK + <b>19</b>. Kemudian, ia meledak dan menciptakan gelombang yang menyebar luas selama <b>5</b> detik, menimpakan DMG sebesar <b>184.3%</b> + <b>10</b>. Kebal terhadap DMG selama <b>2,6</b> detik saat Skill ini aktif (tak bisa digunakan di Apex League)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Altered DMG",
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menandai target, mengakibatkan ledakan setelah <b>5</b> detik. Selain itu, menimpakan <b>25%</b> dari semua DMG yang diterima target selama tanda itu aktif, maks <b>560%</b> ATK milikmu. Hanya satu tanda yang bisa ditambahkan ke target dalam satu waktu."
+  },
+  "weapon_resonance": {
+    "name": "Shadoweave Fusion Core",
+    "description": "Saat memasangkan Shadoweave dengan senjata lain, efek <b>Weapon Master</b> akan tercipta.\nEpiphyllum akan muncul di sekitar target secara acak dan meledak dalam waktu <b>1–3</b> detik, sehingga menimbulkan <b>60%</b> Area Damage."
+  },
+  "advancement": [
+    "Serangan Biasa menimpakan damage dia area target.\nSaat ada epiphyllum lain di area ledakan epiphyllum, damage setiap ledakan epiphyllum berikutnya meningkat <b>10%</b>, maks <b>50%</b>.\nInterval kemunculan epiphyllum dari <b>Moonlight Realm</b> kini berkurang menjadi <b>0,5</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
+    "Interval kemunculan epiphyllum dari <b>Moonlight Realm</b> kini berkurang menjadi <b>0,3</b> detik.\nEpiphyllum akan menempel pada musuh.\nDurasi <b>Moonlight Realm</b> kini meningkat menjadi <b>20</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
+    "Saat dalam efek <b>Moonlight Realm</b>, memperoleh <b>30</b> Weapon Charge Point setiap detik dan meningkatkan Discharge Skill sebanyak <b>15%</b>.",
+    "Beralih mode pada <b>Moonlight Realm</b> maks <b>2</b> kali. Memperoleh <b>1</b> upaya lewat skill cooldown dan <b>1</b> upaya lagi lewat Charging Discharge.\nGunakan Weapon Discharge <b>3</b> kali, untuk mendapatkan <b>+1</b> jumlah <b>Moonlight Realm</b>. Berlaku bahkan saat Shadoweave ada di slot off-hand.\nSaat dalam efek <b>Moonlight Realm</b>, damage akan meningkat <b>15%</b>."
+  ],
+  "traits": [
+    {
+      "name": "Epiphyllum Blossom",
+      "description": "Meningkatkan Epiphyllum Explosion Damage sebesar <b>15%</b>."
+    },
+    {
+      "name": "Epiphyllum Glamour",
+      "description": "Meningkatkan Epiphyllum Explosion Damage sebesar <b>20%</b>. Mengurangi semua Resistance sebanyak <b>7%</b> saat terkena Epiphyllum dan bertahan selama <b>7</b> detik. Tidak bisa ditumpuk."
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

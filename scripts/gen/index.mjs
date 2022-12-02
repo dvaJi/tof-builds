@@ -35,12 +35,12 @@ async function main() {
       const textMap = JSON.parse(
         fs.readFileSync(path.join(OFFICIALLOC_PATH, locale, `Game.json`))
       );
-      await mainItems(textMap, locale, ENtextMap);
-      await mainMatrices(textMap, locale, ENtextMap);
-      await mainSimulacra(textMap, locale, ENtextMap);
-      await mainMounts(textMap, locale, ENtextMap);
-      await mainGifts(textMap, locale, ENtextMap);
-      await mainTeams(textMap, locale, ENtextMap);
+      await mainItems(textMap, locale, { ...ENtextMap });
+      await mainMatrices(textMap, locale, { ...ENtextMap });
+      await mainSimulacra(textMap, locale, { ...ENtextMap });
+      await mainMounts(textMap, locale, { ...ENtextMap });
+      await mainGifts(textMap, locale, { ...ENtextMap });
+      await mainTeams(textMap, locale, { ...ENtextMap });
     }
   }
 

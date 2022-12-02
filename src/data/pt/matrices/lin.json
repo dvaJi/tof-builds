@@ -1,0 +1,34 @@
+{
+  "_id": 31,
+  "id": "lin",
+  "name": "Lin",
+  "suitName": "A Cidade Noturna nunca dorme",
+  "hash": "SSR18",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Ao atingir, aumenta o ATQ em 3%/3,7%/4,3%/5% durante 18 segundos. Esse efeito se acumula até 5 vezes, e somente o efeito de nível mais alto é aplicado quando obtido repetidamente."
+    },
+    {
+      "count": 4,
+      "value": "Cada 5 metros percorridos dentro do Reino do Luar conferem 1 acúmulo de luar, o que aumenta o dano final em 7%/8,3%/9,6%/11% durante 15 segundos. Acumula até 3 vezes. O efeito desta Matriz também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
+    }
+  ],
+  "mind": {
+    "name": "Reverência",
+    "desc": "Responsabilidade que vem com identidade, um fardo e uma provação."
+  },
+  "memory": {
+    "name": "Poluição Visual",
+    "desc": "Luz que permeia cada canto da cidade e acima dela..."
+  },
+  "belief": {
+    "name": "Sobre um Espelho",
+    "desc": "Uma silhueta impecável e deslumbrante, qualquer que seja o ângulo."
+  },
+  "emotion": {
+    "name": "Máscara da Raposa Preta",
+    "desc": "Às vezes, ela se transforma em uma sombra que se move livremente entre os prédios."
+  }
+}

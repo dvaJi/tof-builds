@@ -1,0 +1,34 @@
+{
+  "_id": 31,
+  "id": "lin",
+  "name": "Lin",
+  "suitName": "Night City Never Sleeps",
+  "hash": "SSR18",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increases ATK by 3%/3.7%/4.3%/5% on hit for 18 seconds. This effect can be stacked up to 5 times, and only the highest level's effect is applied when obtained repeatedly."
+    },
+    {
+      "count": 4,
+      "value": "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by 7%/8.3%/9.6%/11% for 15 seconds. Stack up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Bow Down",
+    "desc": "Responsibility that comes with identity, a burden and a trial."
+  },
+  "memory": {
+    "name": "Light Pollution",
+    "desc": "Light that flows through every corner of the city, and above it..."
+  },
+  "belief": {
+    "name": "Standing in a Mirror",
+    "desc": "An impeccable and dazzling figure, regardless of the angle."
+  },
+  "emotion": {
+    "name": "Black Fox Mask",
+    "desc": "Sometimes, she transforms into a shadow that moves freely between the building."
+  }
+}

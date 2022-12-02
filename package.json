@@ -31,6 +31,7 @@
     "generate": "node ./scripts/gen/index.mjs",
     "check-missing": "npm run generate && npm run build && node ./scripts/check-missing.js",
     "format-data": "prettier --loglevel warn --write \"src/data/**/*.json\"",
+    "gen": "node scripts/gen/index.mjs",
     "prepublishOnly": "npm run generate && npm run build"
   },
   "devDependencies": {
