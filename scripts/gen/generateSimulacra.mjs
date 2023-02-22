@@ -97,13 +97,13 @@ export async function main(textMap, locale) {
         const mat3Id = ascension.mat3?.id ?? ascension.mat3?.name;
 
         if (!allItemsMap[mat1Id]) {
-          console.log(`Mat ${mat1Id} not found`);
+          console.log(chalk.red(`Mat ${mat1Id} not found`));
         }
         if (mat2Id && !allItemsMap[mat2Id]) {
-          console.log(`Mat ${mat2Id} not found`);
+          console.log(chalk.red(`Mat ${mat2Id} not found`));
         }
         if (mat3Id && !allItemsMap[mat3Id]) {
-          console.log(`Mat ${mat3Id} not found`);
+          console.log(chalk.red(`Mat ${mat3Id} not found`));
         }
 
         return {
