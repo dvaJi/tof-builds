@@ -7,7 +7,7 @@
   "birthday": "20 mai (Taureau)",
   "birthplace": "Hykros",
   "gender": "Féminin",
-  "info": "Fainéante et égocentrique, Samir apprécie les blagues et les farces inoffensives.\nMalgré son statut d'Exécutante d'Hykros et son incroyable force, Samir présente une personnalité paresseuse et non fiable qui pose problème. À cause de son habitude à jouer des tours à ses collègues, tous ceux qui travaillent avec elle sont à cran et sa réputation n'est pas totalement positive. Cependant, Samir ne semble pas s'en préoccuper.",
+  "info": "Samir fait ce qu'elle veut, quand elle veut. Et il se trouve qu'elle adore jouer des tours aux gens.\nC'est une Exécutante d'Hykros dont les capacités ne sont plus à démontrer, mais sa personnalité peu fiable et son penchant pour les canulars l'empêchent de se faire des amis. Cela n'a toutefois pas l'air de la déranger…",
   "description": "Son passé est parsemé d'interrogations.\nActuellement, on sait qu'elle était une orpheline adoptée par un résident de Banges. À l'âge adulte, elle a rejoint Hykros et elle est devenue Exécutante après une formation.\n\nElle est très douée et fait même partie des Exécutants d'élite. Hykros a déjà envisagé de lui demander de devenir la formatrice pour les nouvelles recrues, mais a fini par y renoncer parce que sa personnalité ne correspondait pas à ce rôle.",
   "like": "Résoudre des énigmes et des meurtres mystérieux",
   "dislike": "Inconnu",
@@ -153,7 +153,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 3
       }
@@ -176,7 +176,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 4
       }
@@ -199,7 +199,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 6
       }
@@ -222,7 +222,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 8
       }
@@ -245,7 +245,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 11
       }
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Cadre en nanofibres II",
+        "name": "Cadre en nanofibres II",
         "rarity": "SSR",
         "amount": 5
       }

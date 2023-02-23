@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>32.5%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.5%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>25.5%</b> de l'ATQ + <b>1</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>45.6%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>47.7%</b> de l'ATQ + <b>3</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attdans les airsaque : inflige des dégâts équivalant à <b>32.5%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.5%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>25.5%</b> de l'ATQ + <b>1</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>45.6%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>47.7%</b> de l'ATQ + <b>3</b>."
     },
     {
       "name": "Tombelune",
@@ -162,7 +162,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 2
       }

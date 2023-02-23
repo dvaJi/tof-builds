@@ -1,14 +1,13 @@
 {
   "_id": 9,
   "id": "king",
-  "name": "KING",
   "weapon": "Scythe of the Crow",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "November 3 (Scorpio)",
   "birthplace": "Ravagers",
   "gender": "Male",
-  "info": "Unruly and flamboyantly-dressed, KING's powerful presence can be felt wherever he goes. With a bite far worse than his bark, he exudes pure intimidation and aggression every minute of every day. Though his temper can be problematic, communicating with KING is far from difficult.\nConstantly seeking stimulation, KING prioritizes the satisfaction of material desires; to that end, he prizes concision and the clear monetary value of things, and hates liars and pretentious people.\nKING often resorts to violence in order to solve problems and obtain what he wants, and is not particularly fond of elaborate strategies (in combat, or otherwise).\nThose who spend a small amount of time with KING may realize that he is nothing more than a strong and simple man; they would do well to keep those thoughts to themselves, even if they mean no harm by saying so.",
-  "description": "Out of all those stupid enough to saddle themselves with Banges Business Association's high interest rates, KING is the most unique case. Usually, anyone unable to afford payment gets sent to work in the mines, but he never got such treatment.\nIt's not that the Association didn't want to, but even if they did post big bounties and spare no arms or efforts, they still couldn't touch him.\nAs a merc famous for his combat prowess, KING is touted as the personification of violence. He's been fighting since childhood and is a veteran brawler specializing in one-against-many. He would get lucrative pays for each job, only to supposedly blow it all immediately.",
+  "info": "Untamed and flashy, KING is someone who leaves a lasting impression because he fights more than he talks, and he's always giving off a menacing vibe. He may have a temper, but he's open to communication... sometimes.\nKING lives for excitement and opts to put his materialism along with his values, which is measured in currency, on full display. He is a man of few words and dislikes those who talk more than they should, as well as those who try too hard to be morally superior.\nHe prefers solving problems and getting what he wants through brute force over complex considerations and meticulous strategies.\nWhen it comes to KING, it is almost always better to keep questions about his personality to yourself.",
+  "description": "Out of all the unfortunate souls that owe the Banges Chamber of Commerce a lot of money at a high interest rate, something they did to themselves, KINGis a special case. He is the only one not sent to the mines to dig for the rest of his life, which is what the Chamber did to those who couldn't repay their debt.\nIt wasn't that the Chamber didn't want to. There simply wasn't anything they could do, even if they put a massive bounty on his head or deployed armed forces.\nAs a mercenary known for his aggressiveness, KINGis often called the personification of violence. He has been picking fights since he was young, and has what it takes to fight outnumbered. He makes a lot of money from each of his requests, but then spends the commission immediately...",
   "like": "Money, Spending Money, Simple things",
   "dislike": "Priceless Items",
   "element": "Fire",
@@ -31,7 +30,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne or after jumping once, attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>63.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>68.8%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>190.5%</b> of ATK + <b>10</b>.\nFourth Attack: Deal damage equal to <b>213.6%</b> of ATK + <b>11</b>.\nFifth Attack: Deal damage equal to <b>173.9%</b> of ATK + <b>9</b> and knock the target down. The higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+      "description": "While airborne or after jumping once, attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>63.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>68.8%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>190.5%</b> of ATK + <b>10</b>.\nFourth Attack: Deal damage equal to <b>213.6%</b> of ATK + <b>11</b>.\nFifth Attack: Deal damage equal to <b>173.9%</b> of ATK + <b>9</b> and knock the target down. The higher the location is when triggered, the more damage is dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Asunder",
@@ -170,7 +169,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -193,7 +192,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -216,7 +215,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -239,7 +238,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -262,7 +261,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -285,7 +284,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

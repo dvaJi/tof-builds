@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tippe und halte die normale Angriffstaste gedrückt oder führe diese Aktion aus, nachdem Sperrzone ausgelöst wurde, um kontinuierlich sengende Energiestrahlen auf Gegner in der Zielrichtung abzufeuern, die Schaden in Höhe von <b>40%</b> des ANG + <b>2</b> verursachen. Verbraucht die Ausdauer des Wanderers."
+      "description": "Tippe und halte den normalen Angriff oder führe diese Aktion aus, nachdem „Sperrzone“ ausgelöst wurde, um kontinuierlich sengende Energiestrahlen auf Gegner in der Zielrichtung abzufeuern, die Schaden in Höhe von <b>40%</b> des ANG + <b>2</b> verursachen. Verbraucht die Ausdauer des Wanderers."
     },
     {
       "name": "Lohensturz",
@@ -69,7 +69,7 @@
       "type": [
         "Skill"
       ],
-      "description": "Spark versprüht Funken, die 15 Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für <b>4</b> Sek. (Abklingzeit: <b>15</b> Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu <b>350%</b> des ANG + <b>37</b> zu und belegen es für <b>25</b> Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von <b>50%</b> des ANG + <b>3</b> zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen <b>110%</b> mehr Schaden zu. Wenn Spark ein selbstentzündetes Ziel trifft, verbrennt oder entzündet es das Ziel einmal und fügt zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens zu (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek und die Abklingzeit der Fähigkeit beträgt <b>30</b> Sek.\n<b>Passiv</b>: Wenn Spark aktiv ist, erhält der Wanderer jedes Mal, wenn der Spark-Angriff Schaden verursacht, <b>1</b> Hitzepunkt. (Abklingzeit: <b>0,9</b> Sek.; bis zu <b>8</b> Hitzepunkte). Erreicht die Hitze das Maximum, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für <b>25</b> Sek. um <b>25%</b> erhöht."
+      "description": "Spark versprüht Funken, die 15 Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für <b>4</b> Sek. (Abklingzeit: <b>15</b> Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu <b>350%</b> des ANG + <b>37</b> zu und belegen es für <b>25</b> Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von <b>50%</b> des ANG + <b>3</b> zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen <b>110%</b> mehr Schaden zu. Wenn Funken Ziele treffen, die unter einem „Verbrennen“-Effekt vom Wanderer leiden, werden einmal verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Abklingzeit der Fähigkeit beträgt <b>30</b> Sek.\n<b>Passiv</b>: Während Funken aktiv sind, erhält der Wanderer <b>1</b> Hitzepunkt, wenn Spark-Angriff Schaden verursacht (Abklingzeit: <b>0,9</b> Sek.; bis zu <b>8</b> Hitzepunkte). Wenn die Hitzepunkte voll sind, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für <b>25</b> Sek. um <b>25%</b> erhöht."
     },
     {
       "name": "Supernova",
@@ -90,7 +90,7 @@
   "advancement": [
     "„Lodern“ erhöht den Schaden von Spark-Angriff um <b>80%</b>. Die Fähigkeits-Abklingzeit wird auf <b>24</b> Sek. verringert.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
-    "„Lodern“ erhöht den Flammenbonus um <b>8%</b> und den Verbrennen-Multiplikator auf <b>75%</b>.",
+    "„Lodern“ erhöht den Flammenbonus um <b>8%</b> und den Verbrennen-Multiplikator auf <b>150%</b>.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
     "Wenn „Spark-Angriff“ einen Gegner trifft, werden zusätzlich <b>75</b> Waffenladungspunkte wiederhergestellt. Abklingzeit: 0,9 Sek. Wenn „Ultimative Hitze“ aktiv ist, wird „Zertrümmern“ um <b>25%</b> erhöht.",
     "„Lodern“ erhöht den Schaden von Spark-Angriff um <b>160%</b> und die Effizienz bei der Hitzegewinnung wird verdoppelt. Die Fähigkeits-Abklingzeit wird auf <b>16</b> Sek. verringert."
@@ -98,11 +98,11 @@
   "traits": [
     {
       "name": "Traumfänger",
-      "description": "Erhöht den erlittenen Flammenschaden von allen Gegnern innerhalb von <b>5</b> Metern um Dolly herum um <b>8%</b>. Nicht stapelbar."
+      "description": "Erhöht den erlittenen Flammenschaden von allen Gegnern innerhalb von <b>5</b> Metern um Dolly herum um <b>8%</b>. Dieser Effekt kann nicht gestapelt werden."
     },
     {
       "name": "Dollys Reich",
-      "description": "Erhöht den erlittenen Flammenschaden von allen Gegnern innerhalb von 5 Metern um Dolly herum um <b>8%</b>. Nicht stapelbar. Sobald Dolly geworfen wurde, wird der Flammen-ANG für <b>10 Sek.</b> um <b>12%</b> erhöht. Nicht stapelbar."
+      "description": "Erhöht den erlittenen Flammenschaden von allen Gegnern innerhalb von 5 Metern um Dolly herum um <b>8%</b>. Nicht stapelbar. Sobald Dolly geworfen wurde, wird der Flammen-ANG für <b>10</b> Sek. um <b>12%</b> erhöht. Dieser Effekt kann nicht gestapelt werden."
     }
   ],
   "ascension": [

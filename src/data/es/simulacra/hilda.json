@@ -7,8 +7,8 @@
   "birthday": "11 de abril (Aries)",
   "birthplace": "Banges",
   "gender": "Femenino",
-  "info": "Una joven apasionada y sincera. Despreocupada y casual. Muy popular.\nNo discrimina a nadie según edad o género y trata a todos como iguales. Se lleva bien con todos al instante sin importar la edad; considera a Theo, el hijo del director de Tecnología Banges, su amigo cercano.\nA veces es un poco grosera e insensible y suele olvidarse cosas (incluidas sus propias armas).",
-  "description": "Hilda, la \"superestrella\" del Puerto de Banges, no es una desconocida para la gente del pueblo.\nSiente un profundo amor por su ciudad natal y hará todo lo posible por protegerla.\nHilda no tiene una carrera establecida y prefiere vagar por el puerto haciendo esto y aquello para las tiendas a cambio de dinero; de vez en cuando, acepta tareas más peligrosas, como patrullas o guardias. Siempre que se siente cansada, se toma uno o dos días libres para comer y comprar a gusto.",
+  "info": "Es una chica alegre, apasionada y simpática, despreocupada y poco meticulosa.\nNo le importa el género, la edad o la posición social, y trata a todos por igual. Incluso Theo, el hijo del propietario de Tecnología Banges, es un buen amigo de ella.\nPero también es descuidada y olvidadiza; a veces, hasta deja su arma en casa...",
+  "description": "Hilda es la \"estrella\" del Puerto de Banges, donde todo el mundo conoce su nombre.\nBanges es su hogar, y siente que debe protegerlo.\nNo tiene un trabajo fijo, y solo trabaja a tiempo parcial en las tiendas del puerto; ocasionalmente, incursiona en el patrullaje y la seguridad. Cuando está cansada, se toma un tiempo libre para ir de compras y disfrutar buena comida.",
   "like": "Pollo frito, celebraciones, negociar",
   "dislike": "Planes de vida",
   "element": "Ice",
@@ -30,7 +30,7 @@
       "type": [
         "Skill"
       ],
-      "description": "Activa el modo de torreta para disparar grandes esferas de energía, cada una de las cuales inflige daño equivalente al <b>213.3%</b> del ATQ + <b>11</b> y lanza el objetivo al aire. Te volverás inmune a la conmoción y a efectos de control mientras preparas la Torreta. <b>3.5</b> segundos de enfriamiento."
+      "description": "Activa el modo torreta y dispara grandes orbes de energía, cada uno de los cuales inflige daño igual a <b>213.3%</b> del ATQ + <b>11</b> y lanza al objetivo por el aire. Te vuelves inmune a la conmoción y a los efectos de control mientras preparas la torreta. Enfriamiento: <b>3.5</b> segundos."
     },
     {
       "name": "Rayo Ártico",
@@ -42,7 +42,7 @@
   ],
   "weapon_type": {
     "name": "Caparazón de Hielo",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>111%</b> del ATQ. Mientras esté congelado, la tasa de carga de arma del objetivo se reduce un <b>50%</b>."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>111%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
   },
   "advancement": [
     "Cada ataque normal exitoso aumenta el daño un <b>1%</b> por <b>2</b> segundos. Se puede acumular hasta <b>15</b> veces. Aumenta la cantidad de munición a <b>60</b>.",

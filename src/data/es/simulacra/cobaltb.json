@@ -7,7 +7,7 @@
   "birthday": "26 de junio (Cáncer)",
   "birthplace": "Tecnología Banges",
   "gender": "Femenino",
-  "info": "Parece el estereotipo de científica seria, pero en realidad es un antiestereotipo flexible.\nApenas muestra alguna expresión como si no tuviera músculos faciales. Pero es obvio que puedes decir que no es distante después de acercarte, con muchas emociones y pensamientos propios, como cuando infla las mejillas al enojarse.\nA pesar de ser una científica líder en el desarrollo de la cibernética, a menudo se guía por el instinto más que por la lógica.\nSe basa en fuertes intuiciones para modificar las máquinas, aunque no está por encima de agregar aditamentos completamente inútiles solo por preferencia.",
+  "info": "Puede parecer seria y solemne, pero en realidad es bastante inusual y extravagante.\nNo tiene muchas expresiones faciales, pero cuando la conozcas, verás que es amable y está llena de ideas y emociones. Incluso puede poner cara de enfado cuando está irritada.\nEs una maestra de la mecánica, pero trabaja con sentimientos y no con teorías.\nAfina sus creaciones con su \"sexto sentido\", y a menudo añade módulos completamente inútiles porque le apetece...",
   "description": "Cobalt-B, que no es su verdadero nombre, es una ingeniera mecánica del equipo de desarrollo de armas de Tecnología Banges. Su puesto no es demasiado alto en la escala corporativa, porque sus resultados en las pruebas no son muy buenos.\nSolo las personas con las que trabaja saben que ella es, de hecho, el as de todo el equipo. No le importan las teorías básicas, y solo crea armas extremadamente eficaces basándose en su instinto.\nPara probar estas armas y recopilar datos de combate, de vez en cuando acude a operaciones con otros soldados y prueba sus armas con las desafortunadas Hienas.",
   "like": "Maquinaria, lluvias de ideas, rock artístico",
   "dislike": "Estudiar, los exámenes",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal para cargar un disparo y suéltalo para disparar proyectiles, lo que inflige <b>95.4%</b> de ATQ + <b>5</b> de daño, más una explosión 3 segundos después (o si el objetivo muere), que inflige <b>23.9%</b> del ATQ como daño a los enemigos cercanos. Cada vez que se inflige daño al objetivo antes de la explosión (hasta <b>4</b> veces), el daño de área se duplica y aumenta el daño."
+      "description": "Pulsa y mantén pulsado un ataque normal para cargar un ataque y suéltalo para disparar proyectiles, lo que inflige <b>95.4%</b> del ATQ + <b>5</b> de daño, más una explosión 3 segundos después (o si el objetivo muere), lo que inflige <b>23.9%</b> del ATQ como daño a los enemigos cercanos. Cada vez que se inflige daño al objetivo antes de la explosión (hasta <b>4</b> veces), duplica el área de efecto y aumenta el daño."
     },
     {
       "name": "Ráfaga de Salto",
@@ -38,14 +38,14 @@
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, lanza Ráfaga de salto.\nLanza una bomba que inflige daño equivalente al <b>90.8%</b> del ATQ + <b>5</b> a los enemigos en un círculo adelante, y los hace retroceder un poco. Consume <b>250</b> de resistencia."
+      "description": "Mientras estás en el aire o después de saltar una vez, lanza Ráfaga de Salto.\nLanza una bomba que inflige daño igual a <b>90.8%</b> del ATQ + <b>5</b> a los enemigos en un círculo por delante, lo que los hace retroceder una corta distancia. Consume <b>250</b> de resistencia."
     },
     {
       "name": "Descarga Aérea",
       "type": [
         "Double Jump"
       ],
-      "description": "Después de un doble salto, lanza una Ráfaga de Salto en el aire.\nDispara un rayo de Omnio hacia abajo. El rayo se desplaza hacia adelante e inflige daño equivalente al <b>33.8%</b> del ATQ + <b>2</b>."
+      "description": "Después de un salto doble, lanza una Descarga Aérea en el aire.\nDispara un rayo de Omnio hacia abajo. Luego, el rayo barre hacia delante, lo que inflige daño igual a <b>33.8%</b> del ATQ + <b>2</b>."
     },
     {
       "name": "Bombardeo Pesado",
@@ -92,7 +92,7 @@
     "La habilidad de rama, Bombardeo Pesado, y el ataque de evasión, Corta Distancia, infligen <span class=\"text-green\">Incineración Iónica</span> a los objetivos que ya están quemados, lo que inflige daño de fuego igual a <b>40%</b> del ATQ cada segundo por <b>10</b> segundos.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
     "Aumenta el daño de <span class=\"text-green\">Incineración Iónica</span> a <b>60%</b> del ATQ. Los ataques exitosos con la habilidad de evasión de cualquier arma reinician la duración de <span class=\"text-green\">Incineración Iónica</span>.",
-    "<span class=\"text-green\">Ráfaga</span> tiene un efecto de quemadura de <b>15</b> segundos. Los ataques exitosos con las habilidades de evasión de cualquier arma reducen el enfriamiento de <span class=\"text-green\">Cortina de Fuego</span> en <b>4</b> segundos. Enfriamiento del efecto: <b>1.5 [@$segundo|segundos]</b>. El daño prolongado de las habilidades de evasión también desencadena el efecto de la reducción de enfriamiento."
+    "<span class=\"text-green\">Ráfaga</span> tiene un efecto de quemadura de <b>15</b> segundos. Los ataques exitosos con la habilidad de evasión de cualquier arma reducen el enfriamiento de <span class=\"text-green\">Ráfaga</span> en <b>4</b> segundos. Enfriamiento del efecto: <b>1.5</b> segundos. La quemadura del daño prolongado por la habilidad de evasión también activa un efecto de reducción de enfriamiento."
   ],
   "traits": [
     {

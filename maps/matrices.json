@@ -2,7 +2,7 @@
   {
     "_id": "SR2",
     "id": "apophis",
-    "name": "439DDA164AA5BF033C6C5780D3DC31B3",
+    "name": "Mappoint_Boss_A2",
     "suitName": "MatrixSuit_SR2_SuitName",
     "rarity": "SR",
     "bonus": [
@@ -14,7 +14,7 @@
   },
   {
     "_id": "SR9",
-    "name": "A97D48EC4413DFE2FAEA789F8467AD7A",
+    "name": "Nitrai_bailin_SR",
     "id": "bailing",
     "suitName": "MatrixSuit_SR9_SuitName",
     "rarity": "SR",
@@ -40,7 +40,7 @@
   },
   {
     "_id": "SSR6",
-    "name": "45AE75AA463FDA2929EF37B3D4221227",
+    "name": "Nitai_kelaodiya_SSR",
     "id": "claudia",
     "suitName": "MatrixSuit_SSR6_SuitName",
     "rarity": "SSR",
@@ -57,7 +57,7 @@
   },
   {
     "_id": "SSR3",
-    "name": "AE4BC3D645017EE94DB86D857A93139C",
+    "name": "Nitai_kekelite_SSR",
     "id": "cocoritter",
     "suitName": "MatrixSuit_SSR3_SuitName",
     "rarity": "SSR",
@@ -68,14 +68,14 @@
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR3_des2_OS"
+        "value": "MatrixSuit_SSR3_des2"
       }
     ]
   },
   {
     "_id": "SR11",
     "hash": "SSR11",
-    "name": "209AADD1444A2ECE6848D5BF590031D7",
+    "name": "Nitai_wuwan_SSR",
     "id": "crow",
     "suitName": "MatrixSuit_SR11_SuitName",
     "rarity": "SSR",
@@ -125,11 +125,11 @@
     "bonus": [
       {
         "count": 2,
-        "value": "MatrixSuit_SSR15_des1_OS"
+        "value": "MatrixSuit_SSR15_des1"
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR15_des2_OS"
+        "value": "MatrixSuit_SSR15_des2"
       }
     ]
   },
@@ -185,7 +185,7 @@
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR10_des2_OS"
+        "value": "MatrixSuit_SSR10_des2"
       }
     ]
   },
@@ -198,7 +198,7 @@
     "bonus": [
       {
         "count": 2,
-        "value": "MatrixSuit_SSR4_Sea_des1"
+        "value": "MatrixSuit_SSR4_des1"
       },
       {
         "count": 4,
@@ -219,7 +219,7 @@
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR1_Sea_des2"
+        "value": "MatrixSuit_SSR1_des2"
       }
     ]
   },
@@ -288,11 +288,11 @@
     "bonus": [
       {
         "count": 2,
-        "value": "MatrixSuit_SSR9_Sea_des1"
+        "value": "MatrixSuit_SSR9_des1"
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR9_Sea_des2"
+        "value": "MatrixSuit_SSR9_des2"
       }
     ]
   },
@@ -361,7 +361,7 @@
     "bonus": [
       {
         "count": 2,
-        "value": "MatrixSuit_SSR2_des1_OS"
+        "value": "MatrixSuit_SSR2_des1"
       },
       {
         "count": 4,
@@ -408,11 +408,11 @@
     "bonus": [
       {
         "count": 2,
-        "value": "MatrixSuit_SSR5_Sea_des1"
+        "value": "MatrixSuit_SSR5_des1"
       },
       {
         "count": 4,
-        "value": "MatrixSuit_SSR5_Sea_des2"
+        "value": "MatrixSuit_SSR5_des2"
       }
     ]
   },

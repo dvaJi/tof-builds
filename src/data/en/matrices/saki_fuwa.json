@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "While Frost Resonance is activated: For every 3 seconds, deal damage equal to 60%/100%/150%/220% of frost ATK to enemies in a 10-meter radius and inflict the Frost effect. Frost effect: Slow the target by 3.5% for 5 seconds, and freeze the target for 3 seconds upon reaching 3 stacks, but unable to freeze the boss. Increase the frost damage the target received by 5%. Last for 18 seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+      "value": "When Frost Resonance gets triggered: Every 3 seconds, deal frost damage equal to 60%/100%/150%/220% of frost ATK to enemies within a 10-meter radius and apply the Frost effect: Inflict 3.5% slow effect that lasts for 5 seconds, freeze targets for 3 seconds at 3 stacks (does not apply to bosses), and increase frost damage taken by the target by 5% for 18 seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
     },
     {
       "count": 4,

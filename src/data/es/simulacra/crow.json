@@ -7,7 +7,7 @@
   "birthday": "17 de diciembre (Sagitario)",
   "birthplace": "Desconocido",
   "gender": "Masculino",
-  "info": "Una personalidad viva y alegre que ilumina cualquier habitación. Franco y extrovertido, es optimista en cualquier situación, pero a veces puede ser demasiado orgulloso.\nA menudo practica algunos trucos de daga llamativos y tiene un repertorio de chistes secos que le resultan divertidísimos. Le gusta contar estos chistes como si estuviera en el escenario.\nLo que hay debajo de su actitud alegre y despreocupada, son una fuerza de voluntad y una determinación inquebrantables. Está dispuesto a alcanzar sus objetivos sin importar lo que se interponga en su camino. A veces se esfuerza demasiado.",
+  "info": "Es alegre y siempre intenta animar a los demás. Extrovertido, honesto, optimista y demasiado animado a veces.\nSiempre practica impresionantes trucos con dagas y colecciona bromas malas que suele contar.\nBajo su apariencia despreocupada yace una fuerte determinación. Cuando se decide por algo, no se detiene hasta conseguirlo, y por eso suele ser duro consigo mismo.",
   "description": "Como antiguo Ejecutor, Cuervo mantiene una buena relación con Hykros. No cometió grandes errores ni fue despedido por bajo rendimiento. Solo descubrió que deseaba una vida con menos reglas tras trabajar con el equipo local por un tiempo y decidió que eso funcionaba para él.\nAhora viaja libremente durante largos periodos. Su personalidad alegre deja una gran primera impresión en quienes lo conocen y siempre juega nuevos trucos o bromas cuando llega a un sitio nuevo. Lo llaman Crowy, lo cual no le desagrada.",
   "like": "Gatos, todo tipo de dagas",
   "dislike": "Alcohol, historias de fantasmas",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "En el suelo, blande las cuchillas dobles para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>73%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>90.9%</b> del ATQ + <b>5</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>96.8%</b> del ATQ + <b>5</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>202.2%</b> del ATQ + <b>11</b> y hacer retroceder un poco al objetivo."
+      "description": "Mientras estás en el suelo, blandes el par de cuchillas dobles para lanzar hasta 5 ataques consecutivos.\nPrimer ataque: Inflige daño igual a <b>60.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>73%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>90.9%</b> del ATQ + <b>5</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>96.8%</b> del ATQ + <b>5</b> y hace retroceder un poco al objetivo.\nQuinto ataque: Inflige daño igual a <b>202.2%</b> del ATQ + <b>11</b> y hace retroceder un poco al objetivo."
     },
     {
       "name": "Ráfaga de Aire",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>144%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas las mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> segundos."
   },
   "advancement": [
     "Atacar objetivos por la espalda aumenta la tasa crítica de cualquier ataque de cuchillas dobles en un <b>40%</b>. La puñalada a un objetivo electrificado aumenta la tasa crítica en un <b>100%</b> y el daño crítico en un <b>30%</b>.",
@@ -277,7 +277,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

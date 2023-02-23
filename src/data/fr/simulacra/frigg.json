@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>64.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>72.6%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>76.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>107.9%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>168.3%</b> de l'ATQ + <b>9</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attdans les airsaque : inflige des dégâts équivalant à <b>64.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>72.6%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>76.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>107.9%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>168.3%</b> de l'ATQ + <b>9</b>."
     },
     {
       "name": "Taillade aérienne",
@@ -83,19 +83,19 @@
   "advancement": [
     "Confère <b>1</b> point de froideur chaque fois que vous infligez <b>550%</b> x ATQ de givre de dégâts dans le domaine de givre. Jusqu'à <b>10</b> points de froideur peuvent être cumulés.\nLorsque le domaine de givre se termine, les points de froideur x ATQ de givre x <b>95%</b> de dégâts d'onde de choc sont infligés à tous les ennemis dans le domaine de givre. Après avoir quitté le domaine de givre, vous perdez <b>1</b> point de froideur toutes les <b>3</b> secondes.",
     "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
-    "Repousse la limite de froideur à <b>15</b>. Lorsque vous utilisez la compétence de décharge d'une arme de givre dans le domaine de givre, vous infligez des dégâts équivalents à <b>20%</b> de l'ATQ de givre x (froideur actuelle +5) à toutes les cibles se trouvant dans le domaine de givre.",
+    "Repousse la limite de froideur à <b>15</b>. Lorsque vous utilisez la compétence de décharge d'une arme de givre dans le domaine de givre, vous infligez des dégâts équivalents à <b>25%</b> de l'ATQ de givre x (froideur actuelle +5) à toutes les cibles se trouvant dans le domaine de givre.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
-    "Fracturer un bouclier à l'aide d'une arme de givre dans le domaine de givre gèle la cible pendant <b>2</b> secondes et inflige des dégâts supplémentaires équivalant aux points de froideur x ATQ de givre x <b>35%</b> (si la cible ne peut pas être gelée, les dégâts supplémentaires sont doublés).",
-    "Lorsque la froideur atteint <b>15</b> points alors que vous vous trouvez dans le domaine de givre, vous recevez \"Zone de givre II\", ce qui accroît l'ATQ de givre de <b>25%</b> lorsque vous utilisez des armes de givre."
+    "Fracturer un bouclier à l'aide d'une arme de givre dans le domaine de givre gèle la cible pendant <b>2</b> secondes et inflige des dégâts supplémentaires équivalant aux points de froideur x <b>35%</b> de l'ATQ de givre. Si la cible ne peut pas être gelée, les dégâts supplémentaires sont doublés.",
+    "Lorsque la froideur atteint <b>15</b> points alors que vous trouvez dans le domaine de givre, vous recevez Zone de givre II. Accroît l'ATQ de givre de <b>25%</b> lorsque vous utilisez des armes de givre."
   ],
   "traits": [
     {
       "name": "Gel",
-      "description": "Au début d'un combat, augmente l'ATQ de givre de <b>1,5%</b> toutes les <b>3</b> secondes jusqu'à <b>10</b> fois pendant <b>5</b> secondes."
+      "description": "Lorsque vous rejoignez un combat, accroît l'ATQ de givre de <b>1,5%</b> pendant <b>5</b> secondes toutes les <b>3</b> secondes. Cumulable jusqu'à <b>10</b> fois."
     },
     {
       "name": "Lien de glace",
-      "description": "L'ATQ de givre reçoit un bonus de <b>2,4%</b> toutes les <b>3</b> secondes après le début d'un combat. Se cumule jusqu'à <b>10</b> fois. Dure <b>5</b> secondes. De plus, confère Hypercorps et immunise contre les effets de contrôle dans le domaine de givre."
+      "description": "Lorsque vous rejoignez un combat, accroît l'ATQ de givre de <b>2,4%</b> pendant <b>5</b> secondes toutes les <b>3</b> secondes. Cumulable jusqu'à <b>10</b> fois. Confère également Hypercorps et immunise contre les effets de contrôle dans le domaine de givre."
     }
   ],
   "ascension": [
@@ -156,7 +156,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 3
       }
@@ -179,7 +179,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 4
       }
@@ -202,7 +202,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 6
       }
@@ -225,7 +225,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 8
       }
@@ -248,7 +248,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 11
       }
@@ -271,7 +271,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Cadre d'amplification II",
+        "name": "Cadre d'amplification II",
         "rarity": "SSR",
         "amount": 5
       }

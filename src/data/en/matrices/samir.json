@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase damage progressively by 1% upon hitting a target. Stack up to 10/13/16/20 times. Last for 1.5 seconds."
+      "value": "Deal more damage upon hitting a target, each time by 1.5%, up to 10/13/16/20 stacks. Buff stacking time: 2 seconds."
     },
     {
       "count": 4,
-      "value": "Increase Dual EM Stars' electrical explosion damage by 16%/22%/30%/40% of ATK."
+      "value": "Each attack onto locked-on targets deals extra damage equal to 10%/12.5%/15%/17.5% of ATK."
     }
   ],
   "mind": {

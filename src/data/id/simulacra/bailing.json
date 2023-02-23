@@ -5,10 +5,10 @@
   "weapon": "Nightingale's Feather",
   "weapon_id": "nightingales_feather",
   "birthday": "8 Mei (Taurus)",
-  "birthplace": "HT201 Shelter",
+  "birthplace": "Shelter HT201",
   "gender": "Perempuan",
   "info": "Kurang percaya diri dan terlalu banyak cemas. Dia lebih peduli dengan pikiran orang lain daripada ide-idenya sendiri sehingga jadi sensitif dan khawatir tentang hal-hal kecil. Di sisi lain, dia juga rendah hati, baik hati, sopan, dan cermat.\nDia masih belajar dan bertumbuh. Setelah menyadari masalahnya sendiri, dia perlahan coba menjadi orang yang bisa memimpin.",
-  "description": "Sebagai pemimpin HT201 Shelter, Bai Ling bertanggung jawab atas operasi harian dan komando tempurnya. Dia baru saja mengambil alih kepemimpinannya, jadi masih tampak sedikit kewalahan dan bingung mengerjakan tugasnya.\nKematian mendadak pemimpin sebelumnya membuat Bai Ling syok, dan kepribadiannya yang mudah khawatir dan gelisah itu juga dipertanyakan beberapa anggota Shelter. Dia menganggap kedudukannya itu beban yang berat dan sering cemas karena ingin memastikan semua berjalan lancar.\nNamun, dia juga sosok yang perhatian, bertanggung jawab, teliti, dan pandai dalam pembukuan, jadi saat ini, HT201 Shelter tampaknya ada di tangan yang tepat.",
+  "description": "Sebagai pemimpin Shelter HT201, Bai Ling bertanggung jawab atas operasi harian dan komando tempurnya. Dia baru saja mengambil alih kepemimpinannya, jadi masih tampak sedikit kewalahan dan bingung mengerjakan tugasnya.\nKematian mendadak pemimpin sebelumnya membuat Bai Ling syok, dan kepribadiannya yang mudah khawatir dan gelisah itu juga dipertanyakan beberapa anggota Shelter. Dia menganggap kedudukannya itu beban yang berat dan sering cemas karena ingin memastikan semua berjalan lancar.\nNamun, dia juga sosok yang perhatian, bertanggung jawab, teliti, dan pandai dalam pembukuan, jadi saat ini, Shelter HT201 tampaknya ada di tangan yang tepat.",
   "like": "Akuntansi, manajemen keuangan, menghitung stok",
   "dislike": "Harus berurusan dengan orang aneh dan jahat",
   "element": "Physical",
@@ -38,7 +38,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Setelah Serangan Biasa, tahan tombol Serangan Biasa untuk melepaskan Arrow Rain, yang akan menimpakan damage hingga <b>198.7%</b> ATK + <b>10</b> Area Damage kepada target."
+      "description": "Setelah Serangan Biasa, tahan tombol Serangan Biasa untuk melepaskan Arrow Rain, yang akan menimpakan damage hingga <b>198.7%</b> ATK + <b>10</b> DMG area kepada target."
     },
     {
       "name": "Air Volley",
@@ -61,38 +61,38 @@
       "type": [
         "Skill"
       ],
-      "description": "Melakukan jungkir balik dan menembakkan <b>1</b> Piercing Shot ke depan, menimpakan damage sebesar <b>154.8%</b> ATK + <b>8</b> dan memukul mundur target. Cooldown <b>12</b> detik."
+      "description": "Melakukan jungkir balik dan menembakkan <b>1</b> Piercing Shot ke depan, menimpakan damage sebesar <b>154.8%</b> ATK + <b>8</b> dan memukul mundur target. CD <b>12</b> detik."
     },
     {
       "name": "Explosive Barrage",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Explosive Barrage ke arah target setelah beralih ke senjata ini, dan akan menimpakan damage sebesar <b>486.6%</b> ATK + <b>26</b>."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Explosive Barrage ke arah target setelah beralih ke senjata ini, dan akan menimpakan damage sebesar <b>486.6%</b> ATK + <b>26</b>."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan damage sebesar <b>100%</b> ATK dan membuat target terkena efek Grievous selama <b>7</b> detik sehingga menerima <b>20%</b> damage ekstra."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menimpakan DMG sebesar <b>100%</b> ATK dan membuat target terkena efek Grievous selama <b>7</b> detik, mengakibatkan mereka menerima <b>20%</b> DMG tambahan."
   },
   "advancement": [
     "Memulihkan 1 upaya Dodge untuk setiap Serangan Biasa kelima atau setelah menggunakan <span class=\"text-green\">Piercing Shot</span>.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>10%</b>.",
-    "Meningkatkan Headshot Damage sebesar <b>30%</b>.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
-    "Dodge Skill mengakibatkan efek Grievous kepada target selama <b>7</b> detik.",
-    "Meningkatkan Crit Rate untuk target yang terkena Grievous sebanyak <b>30%</b> dan Crit Damage sebesar <b>50%</b>."
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar <b>10%</b>.",
+    "Meningkatkan Headshot DMG sebesar <b>30%</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar <b>20%</b>.",
+    "Skill Dodge mengakibatkan efek Grievous kepada target selama <b>7</b> detik.",
+    "Meningkatkan Crit Rate untuk target yang terkena Grievous sebesar <b>30%</b> dan Crit DMG sebesar <b>50%</b>."
   ],
   "traits": [
     {
       "name": "Valor",
       "icon": true,
-      "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>8%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
+      "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebesar <b>8%</b> selama <b>12</b> detik. CD: <b>60</b> detik."
     },
     {
       "name": "Resoluteness",
       "icon": true,
-      "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebanyak <b>15%</b> selama <b>12</b> detik. Cooldown: <b>60</b> detik."
+      "description": "Saat Bai Ling menyingkirkan Glider atau Jetboard, meningkatkan kecepatan sebesar <b>15%</b> selama <b>12</b> detik. CD: <b>60</b> detik."
     }
   ],
   "ascension": [

@@ -7,8 +7,8 @@
   "birthday": "1.º de junho (Gêmeos)",
   "birthplace": "Desconhecido",
   "gender": "Feminino",
-  "info": "Uma garota inocente e romântica, que está sempre de bom humor. Confia demais nas pessoas, o que passa a impressão de que é inocente demais.\nAma doces, mas consegue manter um equilíbrio delicado entre açúcar e comida saudável. Tem dificuldade para se localizar, mas possui a habilidade de não se perder depois que encontra a direção certa. É difícil não se preocupar com ela, mesmo que, na realidade, ela seja muito capaz de tomar conta de si mesma.",
-  "description": "Filha de pesquisadores médicos da Hykros, Cocoritter começou a exibir talentos para a cura ainda jovem e foi para o laboratório de trabalho dos pais para absorver todo o conhecimento médico possível.\nEla tem visitado vários abrigos mundo afora para tratar os feridos. Leva este dever muito a sério e o vê como a experiência necessária para se tornar parte efetiva da equipe médica.",
+  "info": "Uma garota ingênua de alto astral. Ela sempre conta com os outros, às vezes até a ponto de acharem que é boba ou confia muito fácil em desconhecidos.\nEla adora doces, mas consegue manter uma dieta balanceada. É péssima com direções, mas quando achar seu caminho, nunca mais vai se perder. É difícil não se preocupar com ela, mas é perfeitamente capaz de cuidar de si mesma.",
+  "description": "Filha de pesquisadores médicos da Hykros, Cocoritter começou a exibir talentos para a cura ainda jovem e foi para o laboratório de trabalho dos pais para absorver todo o conhecimento médico possível.\n\nEla tem visitado vários abrigos mundo afora para tratar os feridos. Leva este dever muito a sério e o vê como a experiência necessária para se tornar parte efetiva da equipe médica.",
   "like": "Doces, qualquer coisa fofa",
   "dislike": "Desconhecido",
   "element": "Ice",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome <b>300</b> de vigor.\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os <b>suspende</b> e causa dano de <b>34.9%</b> do ATQ + <b>2</b> a cada <b>0,3</b> segundo (no máximo <b>4</b> vezes).\nSegundo ataque: A cada <b>0,3</b> segundo, causa dano de <b>40.4%</b> do ATQ + <b>2</b> ao alvo e a alvos próximos."
+      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome <b>300</b> de vigor.\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os <b>suspende muito</b> e causa dano de <b>34.9%</b> do ATQ + <b>2</b> a cada <b>0,3</b> segundo (no máximo <b>4</b> vezes).\nSegundo ataque: A cada <b>0,3</b> segundo, causa dano de <b>40.4%</b> do ATQ + <b>2</b> ao alvo e a alvos próximos."
     },
     {
       "name": "Ondulação",

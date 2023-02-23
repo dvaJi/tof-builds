@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Erhöht den Schaden von „Wirbelsturm“ um 36%/45%/54%/63% und stellt LP in Höhe von 30%/38%/44%/50% des verursachten Schadens wieder her, solange „Wirbelsturm“ aktiv ist. Es können alle 0,5 Sek. max. LP in Höhe von 60%/72%/81%/90% des ANG wiederhergestellt werden."
+      "value": "Während der Schild aktiv ist, werden LP in Höhe von 60%/75%/90%/105% des ausgeteilten Schadens wiederhergestellt. Es können alle 0,5 Sek. maximal LP in Höhe von 105%/127,5%/150%/172,5% des ANG wiederhergestellt werden."
     }
   ],
   "mind": {

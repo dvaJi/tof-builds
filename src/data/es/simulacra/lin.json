@@ -8,7 +8,7 @@
   "birthplace": "Distrito 7 de Hykros",
   "gender": "Femenino",
   "info": "Una oficial joven que transmite un aura imponente.\nUna loca de la limpieza que no puede soportar una sola mancha de polvo. Además, impone estándares muy altos tanto para ella como para los demás. Esto hace que parezca que está obsesionada con las reglas, pero siempre está abierta al diálogo.\nSu educación de élite la convirtió en lo que hoy es: una perfeccionista competente y determinada.",
-  "description": "La única hija de Harunobu, el anterior Arconte local, ha sido preparada para ser la sucesora. A pesar de no haber empezado todavía, la opinión popular la favorece como la próxima Arconte.\nDesde la infancia ha recibido un riguroso entrenamiento de combate, lo que la vuelve mucho más adecuada para pelear que para estar haciendo papeleo en una oficina, y sus resultados definitivamente lo respaldan.\nDesde el Distrito Central, hasta la parte baja de la ciudad, es increíblemente popular entre toda la gente.",
+  "description": "La única hija de Harunobu, el anterior arconte local. La prepararon para ser sucesora. A pesar de no haber ocupado aún el puesto, la opinión popular ya la favorece como próxima arconte en la línea.\nHa recibido un riguroso entrenamiento de combate desde la infancia, lo que la hace mucho más adecuada para combatir en primera línea que para sellar papeles en una oficina, y sus resultados definitivamente lo respaldan.\nDesde el Distrito Central hasta la parte baja de la ciudad, es increíblemente popular entre la gente.",
   "like": "Té, el aroma del jabón para lavar la ropa, tofu frito",
   "dislike": "Gérmenes, manchas difíciles de quitar",
   "element": "Altered",
@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tras lanzar el segundo ataque normal en el suelo o en el aire, mantén pulsado el botón de ataque normal para activar Suelo Disperso.\nAtaca la posición del objetivo, lo que inflige daño igual a <b>83.2%</b> del ATQ + <b>4</b> y derriba al objetivo.\nPasiva: Después de soltar Suelo Disperso en el suelo, al pulsar rápidamente el ataque normal inmediatamente soltará Floración Breve (la 3.ª acumulación)."
+      "description": "Tras el segundo ataque normal en el suelo o en el aire, mantén el ataque normal para activar Suelo Disperso.\nAtaca la posición del objetivo, lo que inflige daño igual a <b>83.2%</b> del ATQ + <b>4</b> y derriba al objetivo.\nPasiva: Después de desatar Suelo Disperso en el suelo, al pulsar rápidamente el ataque normal, se desatará inmediatamente Floración Breve (la 3.a acumulación)."
     },
     {
       "name": "Floración Breve",
@@ -46,7 +46,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el botón de ataque normal para desatar Floración Breve. Se puede acumular hasta 3 veces, con Hipercuerpo e inmunidad al efecto de control durante la carga.\nPrimera acumulación: Inflige daño igual a <b>73.9%</b> del ATQ + <b>4</b>.\nSegunda acumulación: Inflige daño igual a <b>146.8%</b> del ATQ + <b>246.4</b>.\nTercera acumulación: Inflige <b>13%</b> del ATQ + <b>{5}</b> como daño."
+      "description": "Mantén pulsado el ataque normal para desatar Floración Breve. Se puede acumular hasta 3 veces, lo que otorga Hipercuerpo e inmunidad al control durante la carga.\nPrimera acumulación: Inflige daño igual a un <b>73.9%</b> del ATQ + <b>4</b>.\nSegunda acumulación: Inflige daño igual a un <b>146.8%</b> del ATQ + <b>246.4</b>.\nTercera acumulación: Inflige un <b>13%</b> del ATQ + <b>{5}</b> como daño."
     },
     {
       "name": "Sombra Caída",
@@ -54,7 +54,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el botón de ataque normal en el aire para activar Sombra Caída.\nCae en picada desde los cielos, lo que inflige daño igual a <b>160%</b> del ATQ + <b>8</b> y derriba al objetivo."
+      "description": "Mantén pulsado el ataque normal en el aire para activar Sombra Caída.\nCae en picada desde los cielos, lo que inflige daño igual a <b>160%</b> del ATQ + <b>8</b> y derriba al objetivo."
     },
     {
       "name": "Evasión",
@@ -69,38 +69,38 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Desata Verde Hoja sobre el objetivo mientras realiza una voltereta, lo que inflige daño igual a <b>70%</b> del ATQ + <b>4</b> y genera de <b>1 a 3</b> epífilos al impacto; también forma un Campo Verde que dura <b>5</b> segundos. Cuando los enemigos del Campo Verde bloquean al nómada, su velocidad de movimiento se reduce un <b>50%</b>.\nPasiva: Se puede soltar en el suelo o en el aire.\nPasiva: Disipa inmediatamente los efectos de control y usa automáticamente Verde Hoja sin costo de evasión. El enfriamiento de la habilidad dura <b>20</b> segundos."
+      "description": "Desata Verde Hoja sobre el objetivo mientras realiza una voltereta, lo que inflige daño igual a <b>70%</b> del ATQ + <b>4</b> y genera de <b>1 a 3</b> epífilos al impacto; también forma un Campo Verde que dura <b>5</b> segundos. Cuando los enemigos del Campo Verde bloquean al nómada, su velocidad de movimiento se reduce en un <b>50%</b>.\nPasiva: Se puede soltar en el suelo o en el aire.\nPasiva: Rompe inmediatamente los efectos de control y usa automáticamente Verde Hoja sin consumir ningún intento de evasión. El enfriamiento de la habilidad dura <b>20</b> segundos."
     },
     {
       "name": "Flujo Emocionado: Flujo Intermitente",
       "type": [
         "Skill"
       ],
-      "description": "Crea un Reino de Luz Lunar a tu alrededor por <b>15</b> segundos. Tu daño infligido en el reino aumenta un <b>10%</b>, la capacidad de salto aumenta un <b>20%</b>, y el consumo de resistencia se reduce un <b>50%</b>. Enfriamiento: <b>30</b> segundos.\nEntra en el estado especial Estallido Aéreo al usar Tejesombras en Reino de luz lunar. Tu velocidad de caída se reduce y puedes realizar múltiples saltos dobles. En este estado, si utilizas los controles de dirección o el botón de salto mientras estás en el aire, realizarás Recorrer y lanzarás un ataque al objetivo. Al impacto, inflige daño igual a <b>66%</b> del ATQ + <b>3</b> y genera aleatoriamente de <b>1 a 3</b> epífilos.\n\nPasiva: En el Reino de Luz Lunar, se genera<b>1</b> epífilo cerca de 1 objetivo cada <b>0.8</b> segundos. Pasiva: Cuando usas Tejesombras en el Reino de Luz Lunar, inflige un <b>50%</b> de daño adicional a los enemigos con PS inferiores a <b>20%</b>.\nPasiva: Cuando utilices Tejesombras en el Reino de Luz Lunar, se detectará el daño entrante y te transportas a una ubicación alejada del objetivo. Enfriamiento: <b>10</b> segundos.\n\nPasiva: Maestre de Armas\nFuego: Cuando Tejesombras se empareja con 2 armas de fuego, Reino de Luz Lunar se convierte en Fuego: Reino de Luz Lunar, lo que dura <b>4</b> segundos adicionales al quemar objetivos. Los objetivos con el escudo reciben daño de fuego adicional igual a <b>15%</b>. \n\nEléctrico: Cuando Tejesombras se empareja con 2 armas eléctricas, Reino de Luz Lunar se convierte en Eléctrico: Reino de Luz Lunar, con una probabilidad de <b>65%</b> de no consumir un intento de evasión al evadir, y un impulso de <b>35%</b> al daño de los ataques de evasión. Cuando se activa la Resonancia Eléctrica, potencia el daño eléctrico un <b>30%</b> adicional.\n\nHielo: Cuando Tejesombras se empareja con 2 armas de hielo, Reino de Luz Lunar se convierte en Hielo: Reino de Luz Lunar. Los objetivos del reino quedarán congelados por <b>15</b> segundos luego de recibir daño de hielo <b>10</b> veces, y recibirán un <b>22%</b> de daño de ataques de hielo durante este periodo. El número de ataques no se acumula cuando el objetivo está en estado de Congelamiento. \n\nFísico: Cuando Tejesombras se empareja con 2 armas físicas, Reino de Luz Lunar se convierte en Físico: Reino de Luz Lunar. Cuando tienes un escudo de PS, inflige daño igual a <b>50%</b> del ATQ + <b>3</b> sobre objetivos dentro del alcance cada segundo.\n\nEquilibrio: Cuando Tejesombras se empareja con dos armas elementales diferentes (entre armas de fuego, eléctricas, de hielo y físicas), el ATQ del nómada aumenta un <b>15%</b> en el Reino de luz lunar, y se considera como la activación de la resonancia de fuego, electricidad, hielo y física sin efectos de resonancia."
+      "description": "Crea un Reino de Luz Lunar a tu alrededor por <b>15</b> segundos. Tu daño infligido en el reino aumenta un <b>10%</b>, la capacidad de salto aumenta un <b>20%</b>, y el consumo de resistencia se reduce un <b>50%</b>. Enfriamiento: <b>30</b> segundos.\nEntra en el estado especial Estallido Aéreo al usar Tejesombras en el reino. Tu velocidad de caída se reduce considerablemente y puedes realizar múltiples saltos dobles. En este estado, si utilizas los controles de dirección y el botón de salto mientras estás en el aire, realizarás un Recorrido y lanzarás un ataque al objetivo. Al impacto, inflige daño igual a <b>66%</b> del ATQ + <b>3</b> y genera aleatoriamente de <b>1 a 3</b> epífilos.\n\nPasiva: En el Reino de Luz Lunar, se generará <b>1</b> epífilo cerca de 1 objetivo cada <b>0.8</b> segundos. \nPasiva: Cuando usas Tejesombras en el Reino de Luz Lunar, inflige <b>50%</b> de daño adicional a los enemigos con menos de <b>20%</b> de PS.\nPasiva: Cuando utilices Tejesombras en el Reino de Luz Lunar, se detectará el daño entrante y te teletransporta lejos de la ubicación del objetivo. Enfriamiento: <b>10</b> segundos.\n\nPasiva: Maestre de Armas\nFuego: Cuando Tejesombras se empareja con 2 armas de fuego, el Reino de Luz Lunar se convierte en Fuego: Reino de Luz Lunar, el cual dura <b>4</b> segundos adicionales al quemar objetivos. Los objetivos con escudo reciben <b>15%</b> de daño de fuego adicional. \n\nEléctrico: Cuando Tejesombras se empareja con 2 armas eléctricas, Reino de Luz Lunar se convierte en Eléctrico: Reino de Luz Lunar, con un <b>65%</b> probabilidad de no consumir un intento de evasión al evadir, y un impulso del <b>35%</b> al daño de los ataques de evasión. Cuando se activa Resonancia Eléctrica, aumenta el daño eléctrico un <b>30%</b>.\n \nHielo: Cuando Tejesombras se empareja con 2 armas de hielo, Reino de Luz Lunar se convierte en Escarcha: Reino de Luz Lunar. Los objetivos del reino sufrirán Congelamiento por <b>15</b> segundos después de recibir daño de hielo <b>10</b> veces, y recibirán un <b>22%</b> daño adicional de los ataques de hielo durante este periodo. El número de ataques no se acumula cuando un objetivo ya está afligido de congelación. \n\nFísico: Cuando Tejesombras se empareja con 2 armas físicas, Reino de Luz Lunar se convierte en Físico: Reino de Luz Lunar. Cuando tienes un escudo de PS, inflige daño igual a <b>50%</b> del ATQ + <b>3</b> a los objetivos dentro del alcance cada segundo.\n\nEquilibrio: Cuando Tejesombras se empareja con dos armas elementales diferentes (entre armas de fuego, eléctricas, de escarcha y físicas), el ATQ del nómada aumenta un <b>15%</b> en el reino, y se considera que activa la resonancia de fuego, eléctrica, hielo y física sin efectos de resonancia."
     },
     {
       "name": "Tejido de Gravedad",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando <span class=\"text-red\">carga de arma</span> está llena o <span class=\"text-red\">Phantasia</span> se activa, al cambiar a esta arma desde otra <b>se eliminan todas las desventajas del portador</b> y desata Tejido de Gravedad con una mayor fuerza de absorción, lo que inflige daño igual a <b>368.5%</b> del ATQ + <b>19</b>. A continuación, explota y crea una onda de difusión a distancia en <b>5</b> segundos, lo que inflige daño igual a <b>184.3%</b> + <b>10</b>. La inmunidad al daño dura <b>2.6</b> segundos cuando la habilidad está activa (no disponible en la Liga Ápex)."
+      "description": "Cuando <span class=\"text-red\">carga de arma</span> está llena o <span class=\"text-red\">Phantasia</span> se activa, al cambiar a esta arma desde otra <b>se eliminan todas las desventajas del portador</b> y desata Tejido de Gravedad con una mayor fuerza de absorción, lo que inflige daño igual a un <b>368.5%</b> del ATQ + <b>19</b>. A continuación, explota y crea una onda de difusión a distancia tras <b>5</b> segundos, lo que inflige daño igual a un <b>184.3%</b> + <b>10</b>. La inmunidad al daño dura <b>2.6</b> segundos cuando la habilidad está activa (no disponible en la Liga Ápex)."
     }
   ],
   "weapon_type": {
     "name": "Daño alterado",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque marcará el objetivo, causando una explosión después de <b>5</b> segundos. Además, inflige un <b>25%</b> de todo el daño recibido por el objetivo mientras esté marcado, hasta un total de <b>560%</b> de tu ATQ. Solo se puede marcar a un objetivo a la vez."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque marcará al objetivo, lo que provocará una explosión después de <b>5</b> segundos. Además, inflige <b>25%</b> de todo el daño que el objetivo recibió mientras tenía la marca, hasta un total de <b>560%</b> de su ATQ. Solo se puede añadir 1 marca en un objetivo a la vez."
   },
   "weapon_resonance": {
-    "name": "Núcleo de fusión de Tejesombras",
+    "name": "",
     "description": "Al emparejar Tejesombras con otras armas, se puede crear el efecto <b>Maestre de Armas</b>.\nEl epífilo aparecerá alrededor del objetivo de forma aleatoria y explotará dentro de <b>1 a 3</b> segundos, lo que inflige un <b>60%</b> de daño de área."
   },
   "advancement": [
-    "El ataque normal inflige daño en un área objetivo al impacto.\nCuando hay otro epífilo dentro del área de explosión de epífilo, el daño de cada una de las siguientes explosiones de epífilo aumenta un <b>10%</b>, hasta un <b>50%</b> en total.\nEl intervalo de generación de epífilo de <b>Reino de luz lunar</b> se reduce a <b>0.5</b> segundos.",
+    "Los ataques normales ahora infligen daño de área al impacto.\nCuando hay otro epífilo dentro del área de explosión de epífilo, aumenta el daño de cada una de las explosiones de epífilo posteriores en <b>{0}%</b>, hasta <b>{1}%</b> en total.\nEl intervalo de generación de epífilos de <b>Reino de Luz Lunar</b> se vuelve de <b>0.5</b> segundos.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
-    "El intervalo de generación de epífilo de <b>Reino de Luz Lunar</b> se reduce a <b>0.3</b> segundos.\nEl epífilo se unirá al enemigo.\nLa duración de <b>Reino de luz lunar</b> aumenta a <b>20</b> segundos.",
+    "El intervalo de generación de epífilo de <b>Reino de Luz Lunar</b> se reduce a <b>0.3</b> segundos.\nLos epífilos se unirán al enemigo.\nAumenta la duración de <b>Reino de Luz Lunar</b> a <b>20</b> segundos.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
-    "Cuando estás bajo el efecto de <b>Reino de luz lunar</b>, obtienes <b>30</b> puntos de carga de arma cada segundo y el daño de la habilidad de descarga aumenta un <b>15%</b>.",
-    "Cambia de modo en el <b>Reino de luz lunar</b> hasta <b>2</b> veces. Obtienes <b>1</b> intento después del enfriamiento de la habilidad y <b>1</b> intento al cargar la descarga.\nUsa cualquier descarga de arma <b>3</b> veces para ganar <b>+1</b> en el recuento de <b>Reino de luz lunar</b>. Eficaz incluso cuando Tejesombras está en la ranura secundaria.\nCuando estás bajo el efecto de <b>Reino de Luz Lunar</b>, aumenta el daño un <b>15%</b>."
+    "Cuando estás bajo el efecto de <b>Reino de Luz Lunar</b>, obtienes <b>30</b> de carga de arma cada segundo y el daño de la habilidad de descarga aumenta un <b>{0}%</b>.",
+    "Cambia de modo en <b>Reino de Luz Lunar</b> hasta <b>2</b> veces. Gana <b>1</b> intento después del enfriamiento de la habilidad y <b>1</b> intento más cargando la descarga.\nUsa cualquier descarga de arma <b>3</b> veces para ganar <b>+1</b> en la cuenta de <b>Reino de Luz Lunar</b>. Tiene efecto incluso cuando Tejesombras está en la ranura secundaria.\nCuando estás bajo el efecto de <b>Reino de Luz Lunar</b>, aumenta el daño en <b>{0}%</b>."
   ],
   "traits": [
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "Encanto de Epífilo",
-      "description": "Aumenta el daño de explosión de epífilo en un <b>20%</b>. Reduce todas las resistencias en un <b>7%</b> al impactar las epifitas y dura <b>7</b> segundos. No puede acumularse."
+      "description": "Aumenta el daño de explosión de epífilo un <b>20%</b>. Reduce todas las resistencias en <b>7%</b> al impacto con epífilos durante <b>7</b> segundos. Este efecto no se acumula."
     }
   ],
   "ascension": [
@@ -291,7 +291,7 @@
       },
       "mat2": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 9
       },

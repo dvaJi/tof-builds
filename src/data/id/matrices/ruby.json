@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Setelah melakukan Skill Senjata, meningkatkan Flame ATK sebesar 8%/10%/12%/15% selama 25 detik. Terpicu setelah rating bintang yang berbeda aktif. Efek ini tak bisa bertumpuk."
+      "value": "Setelah mengaktifkan Skill Senjata, meningkatkan Flame ATK sebesar 8%/10%/12%/15% selama 25 detik. Jika ada beberapa efek dengan rating yang berbeda, yang berlaku adalah yang aktif terakhir. Efek ini tak bisa bertumpuk."
     },
     {
       "count": 4,
-      "value": "Setelah melakukan Skill Senjata, memberikan Mastery selama 15 detik dengan CD 15 detik (CD Mastery dibagi ke seluruh level). Mastery tak bisa bertumpuk. Meningkatkan Flame DMG sebesar 2%/2.5%/3%/3.5% setiap kali target diserang dengan Serangan Biasa, hingga Mastery berakhir. Bisa ditumpuk maks 6 kali, dan menambahkan maks 1 tumpuk setiap 0,2 detik. Saat mencapai 6 tumpuk, akan mendapat 1 Perisai yang bisa menahan DMG satu kali."
+      "value": "Setelah mengaktifkan Skill Senjata, memberikan Mastery selama 15 detik dengan CD 15 detik (CD Mastery dibagi ke seluruh level). Mastery tak bisa bertumpuk. Meningkatkan Flame DMG sebesar 2%/2.5%/3%/3.5% hingga Mastery berakhir setiap kali ada target yang diserang dengan Serangan Biasa. Bisa ditumpuk maks 6 kali, dan menambahkan maks 1 tumpuk setiap 0,2 detik. Saat mencapai 6 tumpuk, akan mendapat Perisai yang bisa menahan DMG 1 kali."
     }
   ],
   "mind": {

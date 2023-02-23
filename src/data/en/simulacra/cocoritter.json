@@ -7,8 +7,8 @@
   "birthday": "June 1 (Gemini)",
   "birthplace": "Unknown",
   "gender": "Female",
-  "info": "An innocent, romantic girl who is always upbeat. Too trusting of others, thus giving off the impression of being naive.\nLoves sweets, yet manages to keep a delicate balance between sugar and healthy food. Directionally challenged, but has the knack to not get lost ever once she's found her way. One cannot help to be concerned for her, though in reality, she's very capable of taking care of herself.",
-  "description": "Being the daughter of a Hykros medical researcher, Cocoritter started showing her talents in the art of healing at a young age, and joined the lab where her parents worked, absorbing as much medical knowledge as possible.\nShe's been roaming the land, traveling from one shelter to another and treating the injured. She takes this duty very seriously, and considers the experience necessary for becoming a veteran medical staff.",
+  "info": "A naive girl with a positive attitude. She's always relying on others, sometimes to the point where they think she's gullible or trusts strangers too easily.\nShe has a sweet tooth, but somehow maintains a balanced diet. She is terrible with directions, but once she finds her way, she will never get lost again. It's hard to not worry about her, but she is perfectly capable of taking care of herself.",
+  "description": "Being the daughter of a Hykros medical researcher, Cocoritter started showing her talents in the art of healing at a young age, and joined the lab where her parents worked, absorbing as much medical knowledge as possible.\n\nShe's been roaming the land, traveling from one shelter to another and treating the injured. She takes this duty very seriously, and considers the experience necessary for becoming a veteran medical staff.",
   "like": "Candy, anything cute",
   "dislike": "Unknown",
   "element": "Ice",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>70.5%</b> of ATK + <b>4</b>.\nSecond Attack: Deal damage equal to <b>50.8%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>55.1%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>99.1%</b> of ATK + <b>5</b>.\nFifth Attack: Deal damage equal to <b>103.2%</b> of ATK + <b>5</b>."
+      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>70.5%</b> of ATK + <b>4</b>.\nSecond Attack: Deal damage equal to <b>50.8%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>55.1%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>99.1%</b> of ATK + <b>5</b>.\nFifth Attack: Deal damage equal to <b>103.2%</b> of ATK + <b>5</b>."
     },
     {
       "name": "Moonfall",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "After the third normal attack, hold the normal attack button to trigger branch attacks, consuming <b>300</b> points of endurance.\nFirst Attack: Pull in enemies in front of the user, <b>suspending them</b> and dealing damage equal to <b>34.9%</b> of ATK + <b>2</b> every <b>0.3</b> seconds (up to <b>4</b> times).\nSecond Attack: Deal damage equal to <b>40.4%</b> of ATK + <b>2</b> at the target location and to nearby enemies every <b>0.3</b> seconds."
+      "description": "After the third normal attack, hold the normal attack button to trigger branch attacks, consuming <b>300</b> points of endurance.\nFirst Attack: Pull in enemies in front of the user, <b>strongly suspending</b> them and deal damage equal to <b>34.9%</b> of ATK + <b>2</b> every <b>0.3</b> seconds (up to <b>4</b> times).\nSecond Attack: Deal damage equal to <b>40.4%</b> of ATK + <b>2</b> at the target location and to nearby enemies every <b>0.3</b> seconds."
     },
     {
       "name": "Surge",
@@ -162,7 +162,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -185,7 +185,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -208,7 +208,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -231,7 +231,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -254,7 +254,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -277,7 +277,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

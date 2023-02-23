@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When a target is shattered, grant 8%/10%/12%/14% damage boost for 25 seconds. Only the highest level's effect is applied when obtained repeatedly."
+      "value": "For every 10% shatter applied to a target, increase damage dealt by 4%/5%/6%/7% for 25 seconds, up to 3 stacks."
     },
     {
       "count": 4,

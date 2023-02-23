@@ -1,6 +1,7 @@
 {
   "_id": 10,
   "id": "booster_frame_iv",
-  "name": "Armazón reforzado IV",
+  "name": "Armazón Reforzado IV",
+  "description": "",
   "usage": "Para aumentar las armas."
 }

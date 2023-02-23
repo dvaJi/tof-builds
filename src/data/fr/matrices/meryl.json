@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Accroît les dégâts de Tourbillon de 36%/45%/54%/63% et régénère des PV équivalant à 30%/38%/44%/50% des dégâts infligés lorsque Tourbillon est actif. Le nombre maximal de PV régénérés toutes les 0,5 seconde ne peut dépasser 60%/72%/81%/90% de l'ATQ."
+      "value": "Pendant la durée d’effet de ce bouclier, régénérez des PV équivalant à 60%/75%/90%/105% des dégâts infligés. Le nombre maximal de PV régénéré toutes les 0,5 seconde ne peut dépasser 105%/127,5%/150%/172,5% de l’ATQ."
     }
   ],
   "mind": {

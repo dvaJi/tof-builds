@@ -6,9 +6,9 @@
   "weapon_id": "thunderblades",
   "birthday": "17 Desember (Sagittarius)",
   "birthplace": "Unknown",
-  "gender": "Pria",
-  "info": "Pribadi energik dan ceria yang selalu menghidupkan suasana. Dengan sifat lugas dan terbuka, dia selalu optimistis dalam segala situasi, tapi kadang sedikit besar kepala.\nKerap mempertunjukkan trik atraktif dengan belatinya dan punya segudang lawakan receh yang dianggapnya lucu. Dia senang melempar guyonan layaknya sedang di atas panggung.\nNamun, di balik perilakunya yang riang gembira, dia punya kemauan dan tekad yang kuat. Antusias dalam meraih tujuannya tanpa peduli rintangan yang menghadang. Terkadang suka memaksakan diri.",
-  "description": "Sebagai mantan Executor, Crow menjaga hubungan baiknya dengan Hykros. Dia tidak pernah membuat kesalahan fatal, atau didepak karena kinerja buruk. Setelah bekerja bersama tim di sana selama sementara waktu, dia menyadari bahwa yang diinginkannya adalah kehidupan tanpa banyak aturan. Dia lantas membuat keputusan yang tepat bagi dirinya.\nKini, dia bertualang bebas dalam waktu yang lama. Kepribadiannya yang ceria meninggalkan kesan pertama yang dalam bagi siapa pun yang ditemuinya. Dia juga suka mempertontonkan trik atau melontarkan lelucon saat tiba di tempat baru. Nama panggilannya Crowy, dan dia tak keberatan dipanggil demikian.",
+  "gender": "Laki-Laki",
+  "info": "Periang yang juga berusaha membuat orang lain ceria. Ekstrover, jujur, optimistis, dan sesekali terlalu gembira.\nDia selalu melatih trik pisau yang memukau, dan mengumpulkan lelucon garing yang sering dia lemparkan.\nPenampilannya cuek, tapi kemauannya kuat. Begitu berkomitmen untuk melakukan sesuatu, dia tidak akan berhenti sampai hal itu selesai. Itulah kenapa dia terkadang terlalu keras terhadap diri sendiri.",
+  "description": "Sebagai mantan Eksekutor, Crow menjaga hubungan baiknya dengan Hykros. Dia tidak pernah membuat kesalahan fatal, atau didepak karena kinerja buruk. Setelah bekerja bersama tim di sana selama sementara waktu, dia menyadari bahwa yang diinginkannya adalah kehidupan tanpa banyak aturan. Dia lantas membuat keputusan yang tepat bagi dirinya.\nKini, dia bertualang bebas dalam waktu yang lama. Kepribadiannya yang ceria meninggalkan kesan pertama yang dalam bagi siapa pun yang ditemuinya. Dia juga suka mempertontonkan trik atau melontarkan lelucon saat tiba di tempat baru. Nama panggilannya Crowy, dan dia tak keberatan dipanggil demikian.",
   "like": "Kucing, segala macam pisau",
   "dislike": "Alkohol, cerita hantu",
   "element": "Volt",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, ayunkan Dual Blade untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>60.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>73%</b> ATK + <b>4</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>90.9%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>96.8%</b> ATK + <b>5</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebesar <b>202.2%</b> ATK + <b>11</b> dan memukul mundur target dalam jarak dekat."
+      "description": "Saat di darat, ayunkan sepasang Dual Blade untuk menyerang hingga 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>60.1%</b> ATK + <b>3</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Kedua: Menimpakan DMG sebesar <b>73%</b> ATK + <b>4</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Ketiga: Menimpakan DMG sebesar <b>90.9%</b> ATK + <b>5</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Keempat: Menimpakan DMG sebesar <b>96.8%</b> ATK + <b>5</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Kelima: Menimpakan DMG sebesar <b>202.2%</b> ATK + <b>11</b> dan membuat target terpukul mundur dalam jarak dekat."
     },
     {
       "name": "Sky Flurry",
@@ -63,45 +63,45 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tekan Serangan Biasa selama jendela Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebesar <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap efek kontrol saat proses phasing."
+      "description": "Tekan Serangan Biasa selama Waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebesar <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap efek kontrol saat proses phasing."
     },
     {
       "name": "Returning Blades",
       "type": [
         "Skill"
       ],
-      "description": "Melontarkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebesar <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. Cooldown <b>45</b> detik."
+      "description": "Melontarkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebesar <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. CD <b>45</b> detik."
     },
     {
       "name": "Orbiting Blades",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke lokasi target dan menyerang, menimbulkan DMG sebesar <b>86.9%</b> ATK + <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimbulkan Volt DMG sebesar <b>15%</b> dari DMG yang ditimbulkan, maks <b>350%</b> dari ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 mata pisau akan muncul dan mengitari Wanderer serta menimbulkan DMG sebesar <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke lokasi target dan menyerang, menimbulkan DMG sebesar <b>86.9%</b> ATK + <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimbulkan Volt DMG sebesar <b>15%</b> dari DMG yang ditimbulkan, maks <b>350%</b> dari ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 mata pisau akan muncul dan mengitari Wanderer serta menimbulkan DMG sebesar <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebesar <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik, menetralkan semua buff dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
   },
   "advancement": [
-    "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebanyak <b>40%</b>. Melakukan Backstab pada target yang kena Electrify akan meningkatkan Crit Rate sebanyak <b>100%</b> dan Crit Damage sebesar <b>30%</b>.",
+    "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebesar <b>40%</b>. Melakukan Backstab pada target yang kena Electrify akan meningkatkan Crit Rate sebesar <b>100%</b> dan Crit DMG sebesar <b>30%</b>.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
-    "Meningkatkan damage sebesar <b>30%</b> kepada target yang punya HP kurang dari <b>60%</b>.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Mengaktifkan Back Attack akan memberikan 100% peluang Crit selama <b>4</b> detik berikutnya dan meningkatkan Crit Damage sebesar <b>50%</b>. Cooldown: <b>10</b> detik.",
-    "Setelah menggunakan skill, meningkatkan Volt Damage yang ditimpakan kepada target sebanyak <b>20%</b> selama <b>20</b> detik."
+    "Meningkatkan DMG sebesar <b>30%</b> kepada target yang punya HP kurang dari <b>60%</b>.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
+    "Mengaktifkan Back Attack akan memberikan 100% peluang Crit selama <b>4</b> detik berikutnya dan meningkatkan Crit DMG sebesar <b>50%</b>. Cooldown: <b>10</b> detik.",
+    "Setelah menggunakan skill, meningkatkan Volt Damage yang ditimpakan kepada target sebesar <b>20%</b> selama <b>20</b> detik."
   ],
   "traits": [
     {
       "name": "Loner",
       "icon": true,
-      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>6%</b> dan mengurangi damage yang diterima sebanyak <b>4%</b>."
+      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebesar <b>6%</b> dan mengurangi damage yang diterima sebesar <b>4%</b>."
     },
     {
       "name": "Silent Night",
       "icon": true,
-      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebanyak <b>10%</b> dan mengurangi damage yang diterima sebanyak <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan damage yang ditimbulkan sebanyak <b>12%</b> selama <b>12</b> detik."
+      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebesar <b>10%</b> dan mengurangi damage yang diterima sebesar <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan damage yang ditimbulkan sebesar <b>12%</b> selama <b>12</b> detik."
     }
   ],
   "ascension": [

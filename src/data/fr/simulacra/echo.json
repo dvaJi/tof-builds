@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Après la troisième attaque normale, maintenez le bouton d'attaque normale enfoncé pour déclencher Déluge de lances.\nLorsque vous touchez la cible, la <b>suspend longuement</b>, lui infligeant des dégâts équivalant à <b>49.2%</b> de l'ATQ + <b>3</b>. Appuyez à nouveau pour continuer à attaquer la cible suspendue, et lui infliger jusqu'à <b>98%</b> de l'ATQ + <b>5</b> de dégâts."
+      "description": "Après la troisième attaque normale, maintenez le bouton d'attaque normale enfoncé pour déclencher Déluge de lances.\nLorsque vous touchez la cible, la <b>suspend longuement</b>, lui infligeant des dégâts équivalant à <b>49.2%</b> de l'ATQ + <b>3</b>. Appuyez à nouveau pour continuer à attaquer la cible dans les airs, et infliger jusqu'à <b>98%</b> de l'ATQ + <b>5</b> de dégâts à une seule cible."
     },
     {
       "name": "Attaque furtive",
@@ -71,7 +71,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Appuyez sur Attaque normale immédiatement après avoir esquivé pour déclencher Frappe en fente.\nHeurte le sol avec la lance longue pour infliger aux cibles des dégâts équivalant à <b>52.8%</b> de l'ATQ + <b>3</b> et les <b>suspendre longuement</b>."
+      "description": "Appuyez sur Attaque normale immédiatement après avoir esquivé pour déclencher Frappe en fente.\nHeurte le sol avec la lance longue pour infliger aux cibles des dégâts équivalant à <b>52.8%</b> de l'ATQ + <b>3</b> et les <b>suspendre longuement dans les airs</b>."
     },
     {
       "name": "Chasselune",
@@ -85,7 +85,7 @@
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, qui saute dans les airs et projette une lance d'éclair qui provoque une explosion de zone, infligeant à la cible des dégâts équivalant à <b>296.7%</b> de l'ATQ + <b>16</b> et un effet de <b>paralysie</b> pendant <b>1</b> seconde."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, qui saute dans les airs et projette une lance foudroyante qui provoque une explosion de zone, infligeant aux cibles des dégâts équivalant à <b>296.7%</b> de l'ATQ + <b>16</b> et un effet de <b>paralysie</b> pendant <b>1</b> seconde."
     }
   ],
   "weapon_type": {
@@ -170,7 +170,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 2
       }

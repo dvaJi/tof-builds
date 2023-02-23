@@ -8,20 +8,20 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase damage against debuffed targets by 14%/16%/18%/20%."
+      "value": "Restore 1 dodge attempt every 4 dodges. Dodge attacks burn targets, dealing damage equal to {0}%/{1}%/{2}%/{3}% of ATK every second for {4} [@$second|seconds]."
     },
     {
       "count": 4,
-      "value": "Restore 1 dodge attempt every 3 dodges. Dodge skills inflict burn upon hit, dealing damage equal to 24%/30%/36%/42% of ATK every 0.5 seconds for 4 seconds."
+      "value": "Increase damage against debuffed targets by {0}%/{1}%/{2}%/{3}%."
     }
   ],
   "mind": {
     "name": "Sixth Sense",
-    "desc": "It feels like forced static observation from another plane."
+    "desc": "It's as keen as forced static observation upon various planes, with some strong luck to boot."
   },
   "memory": {
     "name": "Starting Capital",
-    "desc": "Two collaterals that were never collected even after the debt had been paid off."
+    "desc": "Two pieces of collateral, uncollected even after the debt had been repaid, were seemingly left as a sort of generous memento... or perhaps they were simply forgotten."
   },
   "belief": {
     "name": "Master Artist",

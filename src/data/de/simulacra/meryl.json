@@ -7,8 +7,8 @@
   "birthday": "10. Oktober (Waage)",
   "birthplace": "Hykros",
   "gender": "Weiblich",
-  "info": "Reserviert, unnahbar und einzelgängerisch. Es gibt kaum etwas, das Meryl eine Reaktion abgewinnt. Sie zeigt keine Emotionen, aber nicht, weil sie gefühllos ist, sondern weil sie niemanden an sich heranlassen möchte.",
-  "description": "Eine hochrangige Hykros-Vollstreckerin. Alter und Geburtsort sind unbekannt. Den wenigen öffentlich zugänglichen Informationen zufolge zeichnete sich Meryl bei vielen Hykros-Missionen des S-Rangs durch ihre außergewöhnlichen Schwert- und Kampffähigkeiten aus. In nur wenigen Jahren wurde sie von einer einfachen Administratorin zur hochrangigen Vollstreckerin befördert.\nMeryls kalte und undurchschaubare Haltung bedeutet, dass sich niemand jemals ihrer wahren Absichten sicher sein kann. Diese Kälte und ihre gnadenlose Art, mit Gegnern umzugehen, sorgen dafür, dass sich alle von ihr fernhalten.\nDie Vollstrecker-Datenbank zeigt zwar, dass Meryl einen Zwillingsbruder hat, zu dem sie eine enge Beziehung pflegt, aber es gibt keine offiziellen Aufzeichnungen oder Informationen über ihn.",
+  "info": "Kaltblütig, unnahbar und knochentrocken. Meryl lässt sich ihre Gefühle niemals anmerken. Das liegt nicht etwa daran, dass sie keine hat, sie weigert sich nur, mit anderen Beziehungen zu knüpfen.",
+  "description": "Eine hochrangige Hykros-Vollstreckerin unbekannter Abstammung und unbekannten Alters. Laut den verfügbaren Informationen zeichnete Meryl sich bei Missionen der Stufe S durch ihre Schwert- und Kampffähigkeiten aus und stieg innerhalb weniger Jahre von einer einfachen Offizierin zur hochrangigen Vollstreckerin auf.\nSie bringt allem eine gewisse Gleichgültigkeit entgegen, und niemand weiß so recht, was sie denkt. Hinzu kommt, dass sie mit ihren Feinden absolut gnadenlos verfährt. Daher halten sich andere möglichst von ihr fern.\nIn der Vollstrecker-Datenbank steht, dass Meryl einen Zwillingsbruder hat, der ihr nahesteht. Es gibt jedoch keinerlei Aufzeichnungen über diesen Bruder.",
   "like": "Verschneite Tage, Kristalle",
   "dislike": "Pflanzen",
   "element": "Ice",
@@ -97,7 +97,7 @@
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Erhöht „Zertrümmern“ um <b>15%</b> und stellt <b>10%</b> der LP wieder her, wenn der Schild des Ziels zertrümmert wurde.",

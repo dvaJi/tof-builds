@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Accroît de 13%/17%/20%/23% les dégâts sur une cible en l'air ou lors d'une attaque aérienne. Réinitialise le double-saut lorsque vous touchez la cible en l'air."
+      "value": "Accroît de 13%/17%/20%/23% les dégâts lorsque vous touchez une cible en l'air ou lorsque vous lancez une attaque aérienne. Réinitialise le double-saut lorsque vous touchez la cible en l'air."
     },
     {
       "count": 4,

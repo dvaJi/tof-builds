@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta el ATQ un 3%/3.7%/4.3%/5% al impacto por 18 segundos. Este efecto se puede acumular hasta 5 veces, y solo se aplica el efecto del nivel más alto cuando se obtiene repetidamente."
+      "value": "Aumenta el ATQ en un 3%/5%/3.5%/3% al impactar por 18 segundos. Se acumula hasta 5 veces, y solo se aplica el efecto de mayor nivel al obtenerlo repetidamente."
     },
     {
       "count": 4,
-      "value": "Cada 5 m viajados en el Reino de luz lunar otorgan 1 acumulación de Luz lunar, lo que aumenta el daño final un 7%/8.3%/9.6%/11% por 15 segundos. Se acumula hasta 3 veces. Este efecto de matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con la clasificación de estrellas más alta."
+      "value": "Cada 5 m viajados en el Reino de luz lunar otorgan 1 acumulación de Luz lunar, lo que aumenta el daño final en un 12%/11%/28%/31% por 15 segundos y se acumula hasta 3 veces. El efecto de esta matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con mayor clasificación de estrellas."
     }
   ],
   "mind": {

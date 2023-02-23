@@ -7,7 +7,7 @@
   "birthday": "20 de mayo (Tauro)",
   "birthplace": "Hykros",
   "gender": "Femenino",
-  "info": "Perezosa y autocomplaciente, a Samir le gustan las bromas inocentes.\nAunque técnicamente es una Ejecutora de Hykros, y a pesar de poseer una fuerza extraordinaria, la personalidad vaga y poco confiable de Samir representa un problema. La costumbre de hacerle bromas a sus colegas altera a todos aquellos que trabajan con ella, y su reputación no es del todo favorable. Sin embargo, a Samir no le importa.",
+  "info": "Samir hace lo que quiere cuando quiere, y le encanta hacer bromas inofensivas a los demás.\nEs una ejecutora de Hykros y tiene madera para demostrarlo, pero su personalidad poco fiable y su afición por las bromas no le han hecho ganar muchos amigos. Sin embargo, a ella no parece importarle...",
   "description": "Su pasado está plagado de interrogantes.\nHasta ahora se sabe que fue una huérfana adoptada por un residente de Banges. Cuando alcanzó la edad adulta, se unió a Hykros y se convirtió en Ejecutora después del entrenamiento correspondiente.\n\nEs una integrante destacada, incluso entre los Ejecutores de élite. Hykros alguna vez consideró nombrarla instructora de los reclutas nuevos, pero desistió de la idea porque su personalidad no era apta para la tarea.",
   "like": "Resolver rompecabezas y asesinatos misteriosos",
   "dislike": "Desconocido",
@@ -73,7 +73,7 @@
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>144%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas las mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> segundos."
   },
   "advancement": [
     "Activa una explosión eléctrica en el objetivo después de asestar un golpe crítico, lo que inflige daño adicional equivalente al <b>30%</b> del ATQ al objetivo y a los enemigos cercanos. Enfriamiento: <b>0.2</b> segundos.",
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

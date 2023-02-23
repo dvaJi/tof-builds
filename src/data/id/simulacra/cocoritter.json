@@ -7,8 +7,8 @@
   "birthday": "1 Juni (Gemini)",
   "birthplace": "Unknown",
   "gender": "Perempuan",
-  "info": "Seorang gadis lugu dan romantis yang selalu ceria. Terlalu percaya dengan orang lain sehingga terkesan naif.\nSuka permen, tapi bisa menjaga keseimbangan antara gula dan makanan sehat. Kesulitan dengan arah, tapi tidak pernah tersesat begitu dia tahu jalan. Orang cenderung mencemaskannya, walau sebenarnya dia sangat mampu untuk menjaga diri.",
-  "description": "Sebagai putri peneliti medis Hykros, Cocoritter mulai menunjukkan bakatnya di bidang pengobatan saat masih muda. Dia bergabung dengan lab tempat orang tuanya bekerja untuk menimba ilmu medis sebanyak mungkin.\nDia berkeliling ke mana-mana, berpindah dari satu shelter ke shelter lainnya dan mengobati yang cedera. Dia bertugas dengan penuh kesungguhan dan menganggap pengalamannya penting demi menjadi staf medis kawakan.",
+  "info": "Gadis polos dengan sifat yang optimis. Dia selalu mengandalkan orang lain. Kadang, orang-orang sampai berpikir kalau dia itu mudah tertipu atau terlalu mudah percaya pada orang asing.\nDia suka makanan manis, tapi entah bagaimana dia masih bisa menjaga pola makan yang seimbang. Dia sama sekali buta arah, tapi begitu dia menemukan rutenya, dia tidak akan tersesat lagi. Sulit untuk tidak merasa khawatir kepadanya, walaupun sebenarnya dia sangat mampu untuk menjaga dirinya sendiri.",
+  "description": "Sebagai putri peneliti medis Hykros, Cocoritter menunjukkan bakatnya di bidang pengobatan sejak dini. Dia bergabung dengan lab tempat orang tuanya bekerja untuk menimba ilmu medis lebih dalam.\n\nDia bepergian ke seluruh pelosok negeri, berpindah dari satu shelter ke shelter lainnya untuk mengobati yang sakit. Dia bertugas dengan penuh kesungguhan dan menganggap pengalamannya itu sangatlah penting agar menjadi ahli medis ternama.",
   "like": "Permen, apa pun yang imut",
   "dislike": "Unknown",
   "element": "Ice",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>70.5%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>50.8%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>55.1%</b> ATK + <b>3</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>99.1%</b> ATK + <b>5</b>.\nSerangan Kelima: Menimbulkan DMG sebesar <b>103.2%</b> ATK + <b>5</b>."
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>70.5%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>50.8%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>55.1%</b> ATK + <b>3</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>99.1%</b> ATK + <b>5</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>103.2%</b> ATK + <b>5</b>."
     },
     {
       "name": "Moonfall",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Branch Attack, yang akan mengonsumsi <b>300</b> Stamina.\nSerangan Pertama: Menarik musuh di depan pengguna dan mengakibatkan <b>Suspend</b> kepada mereka serta menimpakan DMG sebesar <b>34.9%</b> ATK + <b>2</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimpakan DMG sebesar <b>40.4%</b> ATK + <b>2</b> di lokasi target dan kepada musuh di sekitarnya setiap <b>0,3</b> detik."
+      "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Branch Attack, yang akan mengonsumsi <b>300</b> Stamina.\nSerangan Pertama: Menarik musuh di depan pengguna dan mengakibatkan <b>Suspend Keras</b> kepada mereka serta menimpakan DMG sebesar <b>34.9%</b> ATK + <b>2</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimpakan DMG sebesar <b>40.4%</b> ATK + <b>2</b> di lokasi target dan kepada musuh di sekitarnya setiap <b>0,3</b> detik."
     },
     {
       "name": "Surge",
@@ -55,7 +55,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap Energy Pulse akan menimbulkan DMG sebesar <b>45.9%</b> ATK + <b>2</b> kepada target.\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+      "description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap Energy Pulse akan menimbulkan DMG sebesar <b>45.9%</b> ATK + <b>2</b> kepada target.\nMemberikan <b>75</b> poin Charge Senjata saat digunakan."
     },
     {
       "name": "Tesseract",
@@ -63,7 +63,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tekan tombol Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebesar <b>66.4%</b> ATK + <b>3</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Weapon Charge saat digunakan."
+      "description": "Tekan tombol Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebesar <b>66.4%</b> ATK + <b>3</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Charge Senjata saat digunakan."
     },
     {
       "name": "Sanctuary",
@@ -77,31 +77,31 @@
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebanyak <b>118.8%</b> ATK + <b>6</b> HP selama <b>7</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebesar <b>118.8%</b> ATK + <b>6</b> HP selama <b>7</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang <b>50%</b>."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
   },
   "advancement": [
-    "Setelah menghindar, memanggil Healing Bee yang akan mengikuti pengguna dan menyembuhkan teman yang punya persentase HP paling rendah dalam radius <b>15</b> meter. Menyembuhkan sebanyak <b>25%</b> ATK dan memulihkan <b>50</b> poin Weapon Charge setiap kalinya, dan bertahan <b>25</b> detik. Cooldown: <b>25</b> detik.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
-    "Menggunakan <span class=\"text-yellow\">Sanctuary</span> atau Discharge Skill untuk menghilangkan debuff dari target. Bisa digunakan saat terkena efek kontrol. Meningkatkan Shatter dan damage yang ditimpakan untuk semua rekan tim dalam jangkauan sebanyak <b>20%</b>, dan memberi mereka kekebalan terhadap efek kontrol dan Shatter.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Meningkatkan efek penyembuhan sebanyak <b>15%</b>, ditambah <b>20%</b> lagi saat menyembuhkan target yang punya HP kurang dari <b>60%</b>.",
-    "Setiap kali Healing Bee dipanggil atau menghilang dari pertempuran, semua sekutu akan menerima penyembuhan sebanyak <b>100%</b> dari ATK pengguna. Semua sekutu dalam radius <b>10</b> meter dari Healing Bee juga akan mendapatkan <b>15%</b> Damage Boost (tidak bisa ditumpuk)."
+    "Setelah menghindar, memanggil Healing Bee yang akan mengikuti pengguna dan menyembuhkan teman yang punya persentase HP paling rendah dalam radius <b>15</b> meter. Menyembuhkan sebesar <b>25%</b> ATK dan memulihkan <b>50</b> poin Charge Senjata setiap kalinya, dan bertahan <b>25</b> detik. Cooldown: <b>25</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
+    "Menggunakan <span class=\"text-yellow\">Sanctuary</span> atau Skill Discharge untuk menghilangkan debuff dari target. Bisa digunakan saat terkena efek kontrol. Meningkatkan Shatter dan damage yang ditimpakan untuk semua rekan tim dalam jangkauan sebesar <b>20%</b>, dan memberi mereka kekebalan terhadap efek kontrol dan Shatter.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
+    "Meningkatkan efek penyembuhan sebesar <b>15%</b>, ditambah <b>20%</b> lagi saat menyembuhkan target yang punya HP kurang dari <b>60%</b>.",
+    "Setiap kali Healing Bee dipanggil atau menghilang dari pertempuran, semua kawan akan menerima penyembuhan sebesar <b>100%</b> dari ATK pengguna. Semua kawan dalam radius <b>10</b> meter dari Healing Bee juga akan mendapatkan <b>15%</b> Damage Boost (tidak bisa ditumpuk)."
   ],
   "traits": [
     {
       "name": "Assistance",
       "icon": true,
-      "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan efek penyembuhan yang ditimpakannya pada orang lain dan yang diterimanya sebanyak <b>20%</b>."
+      "description": "Saat Cocoritter menggunakan Senjata Support, meningkatkan efek penyembuhan yang ditimpakannya pada orang lain dan yang diterimanya sebesar <b>20%</b>."
     },
     {
       "name": "Trust",
       "icon": true,
-      "description": "Saat Cocoritter menggunakan Support Weapon, meningkatkan penyembuhan dan Healing yang diterima sebanyak <b>20%</b>. Kemudian, pada saat Cocoritter menggunakan Discharge Skill atau Weapon Skill tipe support, meningkatkan ATK teman di sekitar sebanyak <b>15%</b> selama <b>5</b> detik."
+      "description": "Saat Cocoritter menggunakan Senjata Support, meningkatkan penyembuhan dan Healing yang diterima sebesar <b>20%</b>. Kemudian, pada saat Cocoritter menggunakan Skill Discharge atau Skill Senjata tipe support, meningkatkan ATK teman di sekitar sebesar <b>15%</b> selama <b>5</b> detik."
     }
   ],
   "ascension": [

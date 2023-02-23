@@ -7,7 +7,7 @@
   "birthday": "May 20 (Taurus)",
   "birthplace": "Hykros",
   "gender": "Female",
-  "info": "Lazy and self-indulgent, Samir enjoys harmless jokes and pranks.\nWhile technically a Hykros Executor, and even though she possesses extraordinary strength, Samir's lazy and unreliable personality is an issue. Her habit of playing jokes on colleagues leaves everyone who works with her on edge, and her reputation is not wholly positive. Samir herself, however, doesn't seem to care.",
+  "info": "Samir does what she wants when she wants, and she loves to play harmless tricks on others.\nShe's a Hykros Executor and has the chops to show, but her unreliable personality and penchant to play tricks haven't earned her a lot of friends. She doesn't seem to care, though...",
   "description": "Her past is riddled with questions.\nCurrently, it is known that she was an orphan adopted by a Banges resident. She joined Hykros after reaching adulthood, and became an Executor after training.\n\nShe's a great shot, even among the elite Executors. Hykros once considered asking her to become the instructor for new recruits, but gave up on the idea because her personality just didn't match.",
   "like": "Solving puzzles and murder mysteries",
   "dislike": "Unknown",
@@ -73,7 +73,7 @@
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
   },
   "advancement": [
     "Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <b>30%</b> of ATK to the target and nearby enemies. Cooldown: <b>0.2</b> seconds.",
@@ -153,7 +153,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -176,7 +176,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -199,7 +199,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -222,7 +222,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -245,7 +245,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

@@ -7,7 +7,7 @@
   "birthday": "17 décembre (Sagittaire)",
   "birthplace": "Inconnu",
   "gender": "Masculin",
-  "info": "Une personnalité vivante et joyeuse qui illumine toute pièce. Franc et extraverti, il est optimiste dans toute situation, mais il peut être un peu trop fier parfois.\nIl pratique souvent des tours époustouflants avec sa dague et il a un répertoire de blagues qu'il trouve hilarantes. Il aime raconter ces blagues comme s'il était sur scène.\nMais sous son attitude gaie et insouciante se cachent volonté et détermination. Il est motivé à atteindre ses objectifs, quels que soient les obstacles sur son chemin. Il repousse parfois un peu trop ses limites.",
+  "info": "Une personne enjouée qui essaie également de rendre tout le monde heureux. Extraverti, honnête, optimiste et un peu trop débordant de joie par moments.\nIl s'entraîne toujours à faire des tours avec ses dagues pour épater la galerie et collectionne les mauvaises blagues qu'il raconte souvent.\nDerrière son apparence insouciante se cache une forte détermination. Une fois qu'il s'investit dans quelque chose, il ne s'arrête pas tant qu'il n'a pas terminé, et c'est la raison pour laquelle il est parfois trop dur avec lui-même.",
   "description": "En tant qu'ancien Exécutant, Crow conserve une bonne relation avec Hykros. Il n'a commis aucune erreur grave et il n'a pas été renvoyé à cause de mauvais résultats. Il a simplement réalisé qu'il aspirait à une vie moins réglementée après avoir passé un certain temps au sein de l'équipe, et il a pris la décision qui lui convenait le mieux.\nDésormais, il voyage librement pendant de longues périodes. Sa personnalité enjouée laisse une excellente première impression aux personnes qu'il croise, il montre toujours de nouvelles techniques et fait toujours de nouvelles blagues lorsqu'il arrive dans un nouvel endroit. Tout le monde l'appelle Crowy, et cela ne le gêne pas.",
   "like": "Chats, toutes sortes de dagues",
   "dislike": "Alcool, histoires de fantômes",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec les lames doubles.\nPremière attaque : vous infligez des dégâts équivalant à <b>60.1%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts équivalant à <b>73%</b> de l'ATQ + <b>4</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts équivalant à <b>90.9%</b> de l'ATQ + <b>5</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts équivalant à <b>96.8%</b> de l'ATQ + <b>5</b>, et repoussez la cible sur une courte distance.\nCinquième attaque : vous infligez des dégâts équivalant à <b>202.2%</b> de l'ATQ + <b>11</b>, et repoussez la cible sur une courte distance."
+      "description": "Lorsque vous êtes au sol, brandissez la paire de lames doubles pour lancer jusqu'à 5 attaques consécutives.\nPremière attaque : inflige des dégâts équivalant à <b>60.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>73%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>90.9%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>96.8%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nCinquième attaque : inflige des dégâts équivalant à <b>202.2%</b> de l'ATQ + <b>11</b> et repousse la cible sur une courte distance."
     },
     {
       "name": "Déluge céleste",
@@ -162,7 +162,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 3
       }
@@ -185,7 +185,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 4
       }
@@ -208,7 +208,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 6
       }
@@ -231,7 +231,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 8
       }
@@ -254,7 +254,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 11
       }
@@ -277,7 +277,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Cadre en nanofibres II",
+        "name": "Cadre en nanofibres II",
         "rarity": "SSR",
         "amount": 5
       }

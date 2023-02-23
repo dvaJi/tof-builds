@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Speerhagel“ auszulösen.\nLässt das Ziel bei einem Treffer <b>länger schweben</b> und verursacht Schaden in Höhe von <b>49.2%</b> des ANG + <b>3</b>. Tippe erneut, um das schwebende Ziel weiter anzugreifen und ihm Schaden in Höhe von bis zu <b>98%</b> des ANG + <b>5</b> zuzufügen."
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Speerhagel“ auszulösen.\nLässt das Ziel bei einem Treffer <b>länger schweben</b> und verursacht Schaden in Höhe von <b>49.2%</b> des ANG + <b>3</b>. Tippe erneut, um das Ziel in der Luft weiter anzugreifen und ihm Schaden in Höhe von bis zu <b>98%</b> des ANG + <b>5</b> zuzufügen."
     },
     {
       "name": "Schleichattacke",
@@ -71,7 +71,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um „Stürzender Aufprall“ auszulösen.\nDies treibt den Langspeer in den Boden, lässt Ziele <b>länger schweben</b> und verursacht Schaden in Höhe von <b>52.8%</b> des ANG + <b>3</b>."
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um „Stürzender Aufprall“ auszulösen.\nDies treibt den Langspeer in den Boden, verursacht Schaden in Höhe von <b>52.8%</b> des ANG + <b>3</b> und lässt Ziele <b>länger schweben</b>."
     },
     {
       "name": "Mondjäger",
@@ -85,12 +85,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>, er springt in die Luft und wirft einen Blitzspeer. Dies verursacht eine Flächenexplosion sowie Schaden in Höhe von <b>296.7%</b> des ANG + <b>16</b> und <b>betäubt</b> das Ziel <b>1</b> Sek. lang."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>, er springt in die Luft und wirft einen donnernden Speer. Dies verursacht eine Flächenexplosion sowie Schaden in Höhe von <b>296.7%</b> des ANG + <b>16</b> und <b>betäubt</b> das Ziel stark für <b>1</b> Sek."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
   },
   "advancement": [
     "Erhöht Zertrümmern um <b>15%</b>. Wenn der Schild des Ziels zertrümmert wurde, wird der ANG aller Teammitglieder für <b>30 Sek.</b> um <b>15%</b> erhöht. Kann nicht gestapelt werden.",

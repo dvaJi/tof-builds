@@ -1,9 +1,12 @@
 import fs from 'fs';
 import path from 'path';
-import chalk from 'chalk';
 import { fileURLToPath } from 'url';
-import { formatDescription, removeSimulacraName } from '../utils.mjs';
-import { ENtextMap } from './texmap.mjs';
+import {
+  formatDescription,
+  removeSimulacraName,
+  safeGetTmap,
+} from '../utils.mjs';
+import { logger } from '../logger.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -20,14 +23,16 @@ export async function main(textMap, locale) {
     fs.readFileSync(path.join(MapsDATA_PATH, `matrices.json`))
   );
 
-  console.log(`Getting matrix [${locale}]`);
+  logger.info(`Getting matrix [${locale}]`);
   for await (const item of matrices) {
-    console.log(`> Getting matrix [${locale}] ${item.id}`);
+    logger.debug(`> Getting matrix [${locale}] ${item.id}`);
     const data = {
       _id: Object.values(allMatricesMap).length + 1,
       id: item.id,
-      name: textMap[''][item.name],
-      suitName: textMap[''][item.suitName],
+      name:
+        safeGetTmap(textMap, 'QRSLCommon_ST', item.name, false) ||
+        safeGetTmap(textMap, 'ST_Item', item.name),
+      suitName: safeGetTmap(textMap, 'ST_Item', item.suitName),
       hash: item.hash || item._id,
       rarity: item.rarity,
       bonus: item.bonus.map((b) => ({
@@ -35,26 +40,42 @@ export async function main(textMap, locale) {
         value:
           b.value.length === 2
             ? formatDescription(
-                safeGetTmap(textMap, '', b.value[0]),
+                safeGetTmap(textMap, 'ST_Item', b.value[0]),
                 b.value[1]
               )
-            : formatDescription(safeGetTmap(textMap, '', b.value)),
+            : formatDescription(safeGetTmap(textMap, 'ST_Item', b.value)),
       })),
       mind: {
-        name: removeSimulacraName(textMap[''][`matrix_${item._id}_1`]),
-        desc: formatDescription(textMap[''][`matrix_${item._id}_1_1`]),
+        name: removeSimulacraName(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_1`)
+        ),
+        desc: formatDescription(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_1_1`)
+        ),
       },
       memory: {
-        name: removeSimulacraName(textMap[''][`matrix_${item._id}_2`]),
-        desc: formatDescription(textMap[''][`matrix_${item._id}_2_1`]),
+        name: removeSimulacraName(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_2`)
+        ),
+        desc: formatDescription(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_2_1`)
+        ),
       },
       belief: {
-        name: removeSimulacraName(textMap[''][`matrix_${item._id}_3`]),
-        desc: formatDescription(textMap[''][`matrix_${item._id}_3_1`]),
+        name: removeSimulacraName(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_3`)
+        ),
+        desc: formatDescription(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_3_1`)
+        ),
       },
       emotion: {
-        name: removeSimulacraName(textMap[''][`matrix_${item._id}_4`]),
-        desc: formatDescription(textMap[''][`matrix_${item._id}_4_1`]),
+        name: removeSimulacraName(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_4`)
+        ),
+        desc: formatDescription(
+          safeGetTmap(textMap, 'ST_Item', `matrix_${item._id}_4_1`)
+        ),
       },
     };
 
@@ -73,18 +94,4 @@ export async function main(textMap, locale) {
 
     fs.writeFileSync(filePath, JSON.stringify(data, undefined, 2));
   }
-}
-
-function safeGetTmap(tmap, fistKey, key) {
-  let finalText = '';
-
-  if (tmap[fistKey][key]) {
-    finalText = tmap[fistKey][key];
-  } else {
-    console.log(chalk.bold.red(`Missing text for [${fistKey}][${key}]`));
-    // Fall back to english
-    finalText = ENtextMap[fistKey][key];
-  }
-
-  return finalText;
 }

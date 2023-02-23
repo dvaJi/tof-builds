@@ -7,8 +7,8 @@
   "birthday": "24. März (Widder)",
   "birthplace": "Erben von Aida",
   "gender": "Weiblich",
-  "info": "Opportunistisch ohne Ende. Hyperaktiv, redselig, liebt große Menschenansammlungen.\nGesellig im Übermaß. Wird nicht einmal bei Beschimpfungen oder Geschrei wütend. Toleriert alle Meinungen und schließt im Nu Freunde.\nAls so ein Freigeist leider zuverlässig unzuverlässig.",
-  "description": "Aus Tsubasas Lebenslauf geht hervor, dass sie einst in der Astra-Zuflucht lebte, eine Hyänen-Offizierin war und für Hykros arbeitete – das ist der Eintrag, den wir für ihr Simulacrum verwenden.\nSpäter entschied sie sich, Hykros zu verraten und lief zu den Erben von Aida über.\nDas kann man nur als alarmierenden Zug bezeichnen. Ihr aktueller Status ist unbekannt, aber man kann mit Sicherheit sagen, dass sie angesichts ihrer Fähigkeiten kein niederer Lakai der Erben ist.\nSie verlässt sich nie auf Philosophie, Moral, Ziele oder Regeln, um zu entscheiden, zu welcher Seite sie sich neigt, als ob nichts davon sie etwas angeht. Sie war Teil vieler Organisationen, gehörte aber nie wirklich zu einer von ihnen.",
+  "info": "Eine Opportunistin, die ihre Segel nach dem Wind richtet. Sie ist proaktiv, gesprächig und gesellig.\nSie findet schnell Freunde und wird nicht leicht sauer, auch nicht, wenn jemand sie auf ihre opportunistischen Tendenzen hinweist. Darüber hinaus ist sie offen für neue und ungewöhnliche Ideen.\nAllerdings ist sie definitiv kein Mensch, der Sicherheit vermittelt.",
+  "description": "Hanes Lebenslauf zeigt, dass sie einige Zeit in der Astra-Zuflucht verbrachte und zeitweise Hyänen-Offizierin war. Schließlich arbeitete sie auch für Hykros und aus dieser Zeit stammen ihre Simulacrum-Daten.\nDanach beschloss sie, Hykros den Rücken zu kehren und sich den Erben von Aida anzuschließen.\nWenn man sie mit nur einem Wort beschreiben müsste, dann mit „unberechenbar“. Niemand weiß, was sie zurzeit macht, aber mit ihren Fähigkeiten ist sie sicherlich bei den Erben nicht nur eine einfache Soldatin.\nSie entscheidet sich nicht basierend auf Idealen, Zielen, Regeln oder einem Gefühl von richtig oder falsch für eine Partei. All das scheint für sie keine Rolle zu spielen. Sie hat schon für viele Organisationen gearbeitet, ohne sich je wirklich einer von ihnen zu verschreiben.",
   "like": "Wind, Schwerkraft, Freiheit, Kaugummi",
   "dislike": "Trägheit, Beständigkeit",
   "element": "Ice",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tippe und halte den normalen Angriff, um die Waffe aufzuladen. Fügt Grundschaden in Höhe von <b>87.8</b> des ANG + <b>5</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und das Ziel zu Fall bringst (Kopfschüsse sind gegen Wanderer unwirksam)."
+      "description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Fügt Grundschaden in Höhe von <b>87.8</b> des ANG + <b>5</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und das Ziel zu Fall bringst (Kopfschüsse sind gegen Wanderer unwirksam)."
     },
     {
       "name": "Pfeilhagel",
@@ -73,7 +73,7 @@
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Gewährt jedes Mal, wenn der durch einen Angriff mit „Ausweichen“ abgeschossene Pfeil ein Ziel trifft, einen Stapel von „Spitzer Pfeil“. Jeder Stapel erhöht den Schaden für <b>15</b> Sek. um <b>5%</b>. Der Effekt kann bis zu <b>3</b>-mal gestapelt werden.",

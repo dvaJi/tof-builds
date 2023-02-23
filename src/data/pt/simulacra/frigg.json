@@ -85,17 +85,17 @@
     "Aumenta o crescimento da vida mínima da arma atual em <b>16%</b>.",
     "Aumenta o limite de glacialidade para <b>15</b> pontos. Causa dano de <b>25%</b> do ATQ gélido x (pontos de glacialidade + 5) a todos os alvos na Área Gélida ao usar habilidades de descarga com armas gélidas na Área Gélida.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
-    "Ao despedaçar um escudo com uma arma gélida na Área Gélida, congela o alvo durante <b>2</b> segundos e causa dano adicional equivalente a glacialidade x <b>35%</b> x ATQ gélido. Se o alvo não puder ser congelado, o dano adicional causado é dobrado.",
-    "Recebe um domínio glacial II adicional que aumenta o ATQ gélido em <b>25%</b> ao usar armas gélidas quando estiver dentro da Área Gélida e glacialidade atingir <b>15</b> pontos."
+    "Ao despedaçar um escudo com uma arma gélida na Área Gélida, congela o alvo durante <b>2</b> segundos e causa dano adicional equivalente a glacialidade x <b>35%</b> do ATQ gélido. Se o alvo não puder ser congelado, o dano adicional causado é dobrado.",
+    "Quando acumular <b>15</b> pontos de glacialidade e você estiver na Área Gélida, você vai ganhar domínio glacial II adicional. Aumenta o ATQ gélido em <b>25%</b> ao usar armas gélidas."
   ],
   "traits": [
     {
       "name": "Congelamento",
-      "description": "Ao entrar em batalha, recebe um reforço de ATQ gélido de <b>1,5%</b> a cada <b>3</b> segundos. Acumula até <b>10</b> vezes durante <b>5</b> segundos."
+      "description": "Ao entrar em batalha, recebe um reforço de ATQ gélido de <b>1,5%</b> durante <b>5</b> segundos a cada <b>3</b> segundos. Acumula até <b>10</b> vezes."
     },
     {
       "name": "Bloqueado por gelo",
-      "description": "Ao entrar em batalha, recebe um reforço de ATQ gélido de <b>2,4%</b> a cada <b>3</b> segundos. Acumula até <b>10</b> vezes durante <b>5</b> segundos e recebe corpo de aço e imunidade a efeitos de controle dentro da Área Gélida."
+      "description": "Ao entrar em batalha, recebe um reforço de ATQ gélido de <b>2,4%</b> durante <b>5</b> segundos a cada <b>3</b> segundos. Acumula até <b>10</b> vezes. Além disso, recebe corpo de aço e imunidade a efeitos de controle dentro da Área Gélida."
     }
   ],
   "ascension": [

@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nAo aterrissar, suspende o alvo. Ciclone pode causar dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
+      "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nSuspende o alvo ao atingir. Ciclone causa dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
     },
     {
       "name": "Mergulho Lacerante",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b> ao alvo. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Ataque Furtivo",
@@ -86,7 +86,7 @@
   },
   "weapon_resonance": {
     "name": "Ressonância física",
-    "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>15%</b> e a resistência física em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas de dano físico. Esse efeito de conjunto também funciona com armas no espaço secundário e não se acumula repetidamente."
+    "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>15%</b> e a resistência física em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas de dano físico. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo."
   },
   "advancement": [
     "Atingir um alvo com uma habilidade ou habilidade de descarga confere 1 acúmulo deste efeito positivo: Aumenta o dano causado em <b>8%</b> durante <b>25</b> segundos. Esse efeito se acumula até <b>3</b> vezes, por no máximo 1 vez por cada uso de habilidade.",

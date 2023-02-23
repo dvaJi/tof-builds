@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Saat target menerima Healing, Volt ATK miliknya akan meningkat sebesar 15%/18%/21%/25% selama 20 detik. Efek ini tidak bertumpuk. Jika didapatkan berulang kali, efek yang berlaku hanyalah yang levelnya paling tinggi."
+      "value": "Saat target menerima penyembuhan, Volt ATK miliknya akan meningkat 15%/18%/21%/25% selama 20 detik. Efek ini tidak bisa ditumpuk. Jika didapatkan berulang kali, efek yang berlaku hanyalah yang levelnya paling tinggi."
     },
     {
       "count": 4,
-      "value": "Saat menyembuhkan dirimu sendiri atau Electrode milikmu, target Healing akan mendapatkan satu Charge \"Lightning\". Serangan berikutnya dalam waktu 30 detik akan mengandung \"Lightning\", yang akan menimbulkan DMG sebesar 300%/375%/450%/525% Volt ATK (DMG yang ditimbulkan Electrode akan berkurang 50%). Tidak bisa diaktifkan lebih dari satu kali dalam 10 detik. Charge untuk \"Lightning\" tidak bisa ditumpuk. Jika didapatkan berulang kali, yang akan berlaku hanyalah efek yang levelnya paling tinggi."
+      "value": "Saat menyembuhkan dirimu sendiri atau Electrode milikmu, target Healing akan mendapatkan satu \"Lightning\". Serangan berikutnya dalam waktu 30 detik akan mengandung \"Lightning\", yang akan menimbulkan DMG sebesar 300%/375%/450%/525% Volt ATK (DMG yang ditimbulkan Electrode akan berkurang 50%). Tidak bisa diaktifkan lebih dari satu kali dalam 10 detik. Charge untuk \"Lightning\" tidak bisa ditumpuk. Jika didapatkan berulang kali, yang akan berlaku hanyalah efek yang levelnya paling tinggi."
     }
   ],
   "mind": {

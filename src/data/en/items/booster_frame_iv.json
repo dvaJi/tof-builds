@@ -1,6 +1,7 @@
 {
   "_id": 10,
   "id": "booster_frame_iv",
-  "name": "Booster frame IV",
+  "name": "Booster Frame IV",
+  "description": "",
   "usage": "For augmenting weapons."
 }

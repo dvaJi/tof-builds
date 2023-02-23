@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Während Frostresonanz aktiviert ist: Alle 3 Sek. wird Gegnern in einem Umkreis von 10 Metern Schaden in Höhe von 60%/100%/150%/220% des Frost-ANG zugefügt und sie werden mit dem Frosteffekt belegt. Frosteffekt: Verlangsamt das Ziel 5 Sek. lang um 3.5% und friert das Ziel für 3 Sek. ein, wenn 3 Stapel erreicht werden (Boss kann nicht eingefroren werden). Erhöht den vom Ziel erlittenen Frostschaden um 5%. Hält 18 Sek. lang an. Dieser Matrixeffekt wird auch im Nebenhand-Slot aktiviert, aber nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+      "value": "Wenn Frostresonanz ausgelöst wird: Alle 3 Sek. wird Gegnern in einem Umkreis von 10 Metern Schaden in Höhe von 60%/100%/150%/220% des Frost-ANG zugefügt und sie werden mit dem Frosteffekt belegt: Das Ziel wird 5 Sek. lang um 3.5% verlangsamt und beim Erreichen von 3 Stapeln 3 Sek. lang eingefroren (Bosse können nicht eingefroren werden). Zudem wird der vom Ziel erlittene Frostschaden 18 Sek. lang um 5% erhöht. Der Effekt dieser Matrix funktioniert auch im Nebenhand-Slot, aber nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
     },
     {
       "count": 4,

@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Lorsque la Résonance de givre est activée : toutes les 3 secondes, infligez des dégâts équivalant à 60%/100%/150%/220% de l'ATQ de givre aux ennemis dans un rayon de 10 mètres, et infligez-leur un effet de givre. Effet de givre : ralentit la cible de 3.5% pendant 5 secondes, et gèle la cible pendant 3 secondes après 3 cumuls. Impossible de geler le boss. Augmentez les dégâts de givre subis par la cible de 5%. Durée : 18 secondes. L'effet de cette Matrice est également actif dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet."
+      "value": "Lorsque la Résonance de givre se déclenche : toutes les 3 secondes, vous infligez des dégâts de givre équivalant à 60%/100%/150%/220% de l'ATQ de givre aux ennemis dans un rayon de 10 mètres, et leur infligez un effet de givre. Cet effet ralentit la cible de 3.5% pendant 5 secondes, et la gèle pendant 3 secondes après 3 cumuls (ne s'applique pas aux boss). Les dégâts de givre subis par la cible sont également accrus de 5% pendant 18 secondes. L'effet de cette matrice est également actif dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet."
     },
     {
       "count": 4,

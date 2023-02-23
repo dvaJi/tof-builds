@@ -1,14 +1,13 @@
 {
   "_id": 9,
   "id": "king",
-  "name": "KING",
   "weapon": "Guadaña del Cuervo",
   "weapon_id": "scythe_of_the_crow",
-  "birthday": "3 de noviembre (Escorpión)",
+  "birthday": "3 de noviembre (Escorpio)",
   "birthplace": "Saqueadores",
   "gender": "Masculino",
-  "info": "Revoltoso y con una vestimenta extravagante, la poderosa presencia de KING se hace sentir allá donde va. Con una mordacidad mucho mayor que su ladrido, desprende pura intimidación y agresividad cada minuto del día. Aunque su temperamento puede ser problemático, comunicarse con KING no es nada difícil.\nBuscando constantemente estímulos, KING da prioridad a la satisfacción de los deseos materiales; para ello, valora la concisión y el claro valor monetario de todo, y odia a los mentirosos y a los pretenciosos.\nKING recurre a menudo a la violencia para resolver problemas y obtener lo que quiere, y no es especialmente aficionado a las estrategias elaboradas (en el combate, o de otro tipo).\nLos que pasan un poco de tiempo con KING pueden darse cuenta de que no es más que un hombre fuerte y sencillo; harían bien en guardarse esos pensamientos para sí mismos, aunque no tengan ninguna mala intención al decirlo.",
-  "description": "De todos los que son lo suficientemente estúpidos como para cargar con los altos tipos de interés de la Asociación de Negocios Banges, KING es el caso más singular. Normalmente, a quien no puede pagar se le envía a trabajar a las minas, pero él nunca recibió ese trato.\nNo es que la Asociación no quisiera, pero aunque pusieran grandes recompensas y no escatimaran brazos ni esfuerzos, no podrían tocarlo.\nComo mercenario famoso por su destreza en el combate, KING es considerado la personificación de la violencia. Lleva peleando desde la infancia y es un veterano pendenciero especializado en el uno contra muchos. Obtiene una lucrativa paga por cada trabajo, para supuestamente gastarlo todo inmediatamente.",
+  "info": "Indomable y escandaloso, KING es alguien que deja una gran impresión pues habla más con puños que con palabras y siempre emana un aura amenazante. Puede ser malhumorado pero está dispuesto a hablar... a veces.\nKING vive para la emoción y elige llevar su materialismo y valores a la par, lo cual mide en dinero, totalmente a la vista. Es un hombre de pocas palabras y aborrece a quienes hablan de más y a quienes se esfuerzan por ser moralmente superiores.\nPrefiere resolver problemas y obtener lo que quiere con fuerza bruta en lugar de estrategias meticulosas y reflexión profunda.\nCuando se trata de KING, casi siempre es mejor guardarse las preguntas sobre su personalidad.",
+  "description": "De todas las almas desafortunadas que deben a la Cámara de Comercio de Banges mucho dinero a un alto tipo de interés, algo que se hicieron ellos mismos, KING es un caso especial. Es el único al que no han enviado a las minas para cavar el resto de su vida, que es lo que la cámara hacía con los que no podían pagar sus deudas.\nNo es que la cámara no quisiera hacerlo. Sencillamente, no había nada que pudieran hacer, aunque pusieran una enorme recompensa por su cabeza o desplegaran fuerzas armadas.\nComo mercenario conocido por su agresividad, a KING a menudo lo llaman la personificación de la violencia. Lleva buscando peleas desde que era joven, y tiene las agallas para pelear incluso con inferioridad numérica. Gana mucho dinero con cada uno de sus encargos, pero luego se gasta la comisión inmediatamente...",
   "like": "Dinero, gastar dinero, cosas simples",
   "dislike": "Artículos invaluables",
   "element": "Fire",
@@ -31,7 +30,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>63.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>68.8%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>190.5%</b> del ATQ + <b>10</b>.\nCuarto ataque: inflige daño equivalente al <b>213.6%</b> del ATQ + <b>11</b>.\nQuinto ataque: inflige daño equivalente al <b>173.9%</b> del ATQ + <b>9</b> y derriba al objetivo. Cuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+      "description": "Mientras estás en el aire o después de saltar una vez, ataca 5 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>63.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>68.8%</b> del ATQ + <b>4</b>.\nTercer ataque: Inflige daño igual a <b>190.5%</b> del ATQ + <b>10</b>.\nCuarto ataque: Inflige daño igual a <b>213.6%</b> del ATQ + <b>11</b>.\nQuinto ataque: Inflige daño igual a <b>173.9%</b> del ATQ + <b>9</b> y derriba al objetivo. Cuanto más alta sea la ubicación al activarse, más daño inflige, hasta <b>600%</b> de daño."
     },
     {
       "name": "Separación",
@@ -285,7 +284,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

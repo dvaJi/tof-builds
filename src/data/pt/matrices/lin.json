@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Ao atingir, aumenta o ATQ em 3%/3,7%/4,3%/5% durante 18 segundos. Esse efeito se acumula até 5 vezes, e somente o efeito de nível mais alto é aplicado quando obtido repetidamente."
+      "value": "Aumenta o ATQ em 3%/5%/3.5%/3% ao atingir um inimigo durante 18 segundos. Acumula até 5 vezes. Somente o efeito de nível mais alto é aplicado quando obtido repetidamente."
     },
     {
       "count": 4,
-      "value": "Cada 5 metros percorridos dentro do Reino do Luar conferem 1 acúmulo de luar, o que aumenta o dano final em 7%/8,3%/9,6%/11% durante 15 segundos. Acumula até 3 vezes. O efeito desta Matriz também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
+      "value": "Cada 5 metros percorridos dentro do Reino do Luar conferem 1 acúmulo de luar, o que aumenta o dano final em 12%/11%/28%/31% durante 15 segundos. Acumula até 3 vezes. O efeito desta Matriz também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
     }
   ],
   "mind": {
@@ -24,7 +24,7 @@
     "desc": "Luz que permeia cada canto da cidade e acima dela..."
   },
   "belief": {
-    "name": "Sobre um Espelho",
+    "name": "Encarando o Espelho",
     "desc": "Uma silhueta impecável e deslumbrante, qualquer que seja o ângulo."
   },
   "emotion": {

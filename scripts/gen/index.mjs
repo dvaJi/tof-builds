@@ -5,9 +5,8 @@ import { main as mainItems } from './generateItems.mjs';
 import { main as mainMatrices } from './generateMatrices.mjs';
 import { main as mainMounts } from './generateMounts.mjs';
 import { main as mainSimulacra } from './generateSimulacra.mjs';
-import { main as mainGifts } from './generateGifts.mjs';
-import { main as mainTeams } from './generateTeams.mjs';
 import { ENtextMap } from './texmap.mjs';
+import { logger } from '../logger.mjs';
 
 import dotenv from 'dotenv';
 dotenv.config();
@@ -29,7 +28,7 @@ const OFFICIALLOC_PATH = path.join(
 const locales = ['en', 'es', 'de', 'fr', 'id', 'ja', 'pt', 'th'];
 
 async function main() {
-  console.log('Generating items...', process.env.MYCUSTOM_DEV_ENV);
+  logger.info('Generating items...', process.env.MYCUSTOM_DEV_ENV);
   if (process.env.MYCUSTOM_DEV_ENV === 'true') {
     for (const locale of locales) {
       const textMap = JSON.parse(
@@ -39,8 +38,6 @@ async function main() {
       await mainMatrices(textMap, locale, { ...ENtextMap });
       await mainSimulacra(textMap, locale, { ...ENtextMap });
       await mainMounts(textMap, locale, { ...ENtextMap });
-      await mainGifts(textMap, locale, { ...ENtextMap });
-      await mainTeams(textMap, locale, { ...ENtextMap });
     }
   }
 
@@ -82,7 +79,7 @@ async function generateBigFile() {
     }
 
     fs.writeFileSync(newFilePath, JSON.stringify(data));
-    console.log(path.join(MIN_PATH), `data_${lang}.min.json`);
+    logger.info(path.join(MIN_PATH), `data_${lang}.min.json`);
   }
 }
 

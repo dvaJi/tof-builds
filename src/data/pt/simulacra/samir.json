@@ -7,7 +7,7 @@
   "birthday": "20 de maio (Touro)",
   "birthplace": "Hykros",
   "gender": "Feminino",
-  "info": "Preguiçosa e autoindulgente, Samir gosta de brincadeiras e de pregar peças inofensivas.\nEmbora tecnicamente seja uma Executora da Hykros, a personalidade preguiçosa e não confiável é um problema. O hábito dela de pregar peças nos colegas deixa qualquer pessoa que trabalhe com ela aflita, e sua reputação não é completamente positiva. A própria Samir, no entanto, não parece se importar com isso.",
+  "info": "Samir faz o que quer e quando quer e adora pregar peças inofensivas nos outros.\nEla é uma Executora da Hykros e faz muito bem o trabalho, mas sua personalidade duvidosa e o gosto pelas pegadinhas não lhe conquistaram muitos amigos. Contudo, parece que ela não se incomoda com isso.",
   "description": "Seu passado está repleto de perguntas.\nAtualmente, sabe-se que Samir foi uma órfã adotada por uma residente de Banges. Ela ingressou na Hykros depois de chegar à idade adulta e se tornou uma Executora após o treinamento.\n\nEla é brilhante, mesmo entre os Executores de elite. A Hykros já considerou convidá-la para a posição de instrutora de novos recrutas, mas desistiu da ideia por causa de sua personalidade, que não combina com o cargo.",
   "like": "Resolver quebra-cabeças e mistérios de assassinatos",
   "dislike": "Desconhecido",
@@ -73,7 +73,7 @@
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Provoca uma explosão elétrica no alvo após desferir um golpe crítico, causando dano adicional de <b>30%</b> do ATQ ao alvo e inimigos próximos. Tempo de recarga: <b>0,2</b> seg.",

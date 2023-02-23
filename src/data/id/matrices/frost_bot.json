@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Saat HP kurang dari 40%, jika menggunakan Discharge Skill untuk beralih ke Weapon saat ini, HP akan dipulihkan sebesar 160%/200%/240% ATK."
+      "value": "Saat HP kurang dari 40%, jika menggunakan Skill Discharge untuk beralih ke Senjata saat ini, HP akan dipulihkan sebesar 160%/200%/240% ATK."
     }
   ],
   "mind": {

@@ -7,7 +7,7 @@
   "birthday": "17 de dezembro (Sagitário)",
   "birthplace": "Desconhecido",
   "gender": "Masculino",
-  "info": "Uma personalidade vívida e animada que ilumina qualquer ambiente. É sincero e extrovertido e otimista em qualquer situação, mas, às vezes, orgulhoso demais.\nCostuma fazer truques de adagas chamativos e tem um amplo repertório de piadas de tiozinho que ele acha hilárias. Crow gosta de contar essas piadas como se estivesse no palco.\nPor trás do jeito descontraído e despreocupado existem força de vontade e determinação inabaláveis. Não mede esforços para conquistar seus objetivos. Às vezes exige demais de si mesmo.",
+  "info": "Uma pessoa alegre, que tenta alegrar quem está ao redor. Extrovertido, honesto, otimista e, por vezes, um pouco alegre demais.\nEle está sempre praticando truques espalhafatosos com adagas e reunindo piadas ruins, que conta frequentemente.\nSob sua aparência despreocupada há uma firme determinação. Uma vez que se comprometa a fazer alguma coisa, ele não vai parar até que esteja feito, e é por isso que de vez em quando acaba exigindo demais de si mesmo.",
   "description": "Como ex-Executor, Crow mantém uma boa relação com a Hykros. Ele não cometeu nenhum erro crítico e não foi dispensado por mau desempenho. Simplesmente percebeu que queria uma vida menos regrada após trabalhar com a equipe de lá por um tempo e tomou a decisão que lhe parecia melhor.\nAtualmente, viaja livremente por longos períodos de tempo. Sua personalidade alegre causa uma ótima primeira impressão nas pessoas que cruzam o seu caminho, e ele sempre apresenta novos truques ou piadas quando chega em um lugar novo. As pessoas o chamam de Crowzinho, mas ele não liga.",
   "like": "Gatos, todo tipo de adagas",
   "dislike": "Álcool, histórias de fantasmas",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "No chão, branda as adagas para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>73%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>96.8%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>202.2%</b> do ATQ + <b>11</b> e repele o alvo uma curta distância."
+      "description": "No chão, branda um par de adagas para executar até 5 ataques consecutivos.\nPrimeiro ataque: Causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>73%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>96.8%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>202.2%</b> do ATQ + <b>11</b> e repele o alvo uma curta distância."
     },
     {
       "name": "Floreio Aéreo",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Atacar alvos por trás aumenta a taxa de crítico de todos os golpes de adagas em <b>40%</b>. Apunhalar um alvo eletrocutado pelas costas aumenta a taxa de crítico em <b>100%</b> e o dano crítico em <b>30%</b>.",

@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Maintenez le bouton d'attaque normale enfoncé après des attaques normales pour déclencher Cyclone.\nFrappe la cible et la suspend. Cyclone peut infliger des dégâts équivalant à <b>47.8%</b> de l'ATQ + <b>3</b> à une seule cible."
+      "description": "Maintenez la touche Attaque normale après des attaques normales pour déclencher Cyclone.\nLorsque vous touchez la cible, vous la suspendez. Cyclone peut infliger des dégâts équivalant à <b>47.8%</b> de l'ATQ + <b>3</b> à une seule cible."
     },
     {
       "name": "Lame plongeante",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Appuyez et maintenez Attaque normale en l'air, ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Lame plongeante.\nLorsque vous tombez, vous infligez des dégâts équivalant à <b>10%</b> de l'ATQ + <b>1</b> chaque fois que vous touchez la cible. À l'atterrissage, vous infligez des dégâts équivalant à <b>76.4%</b> de l'ATQ + <b>4</b>, et repoussez la cible.\nPlus l'altitude de l'utilisateur est élevée au moment où la compétence est déclenchée, plus les dégâts infligés sont importants, jusqu'à <b>600%</b> de dégâts."
+      "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Lame plongeante.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>10%</b> de l'ATQ + <b>1</b> à chaque coup sur la cible. À l'atterrissage, vous infligez des dégâts correspondant à <b>76.4%</b> de l'ATQ + <b>4</b>, et repoussez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
       "name": "Attaque furtive",
@@ -86,10 +86,10 @@
   },
   "weapon_resonance": {
     "name": "Résonance physique",
-    "description": "<b>Résonance physique</b> : augmente l'ATQ physique de <b>15%</b> et la résistance physique de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes de dégâts physiques. Les effets de ce kit fonctionnent également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé."
+    "description": "<b>Résonance physique</b> : accroît l'ATQ physique de <b>15%</b> et la résistance physique de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes physiques. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois."
   },
   "advancement": [
-    "Après avoir touché une cible avec une compétence standard ou une compétence de décharge, confère 1 cumul d'effet bénéfique qui accroît de <b>8%</b> les dégâts infligés pendant <b>25</b> secondes. Cet effet peut se cumuler jusqu'à <b>3</b> fois (1 cumul maximum par utilisation de la compétence).",
+    "Après avoir touché une cible avec une compétence standard ou de décharge, confère 1 cumul d'effet bénéfique qui accroît de <b>8%</b> les dégâts infligés pendant <b>25 secondes</b>. Cet effet peut se cumuler jusqu'à <b>3</b> fois (1 cumul maximum par utilisation de la compétence).",
     "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Toucher une cible avec une compétence standard ou une compétence de décharge lui inflige 1 cumul de Blessures de guerre, ce qui accroît de <b>10%</b> les dégâts physiques subis et la capacité de fracture des armes physiques pendant <b>15 secondes</b>. Cumulable jusqu'à <b>1</b> fois.",
     "Accroît de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
@@ -166,7 +166,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 3
       }
@@ -189,7 +189,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 4
       }
@@ -212,7 +212,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 6
       }
@@ -235,7 +235,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 8
       }
@@ -258,7 +258,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 11
       }
@@ -281,7 +281,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Cadre en nanofibres II",
+        "name": "Cadre en nanofibres II",
         "rarity": "SSR",
         "amount": 5
       }

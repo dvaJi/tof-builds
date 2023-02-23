@@ -7,7 +7,7 @@
   "birthday": "1er juin (Gémeaux)",
   "birthplace": "Inconnu",
   "gender": "Féminin",
-  "info": "Une jeune fille innocente et romantique qui est toujours optimiste. Fait trop confiance aux autres, donnant ainsi l'impression d'être naïve.\nAdore les bonbons, mais parvient à garder un équilibre délicat entre le sucre et les aliments sains. Possède un mauvais sens de l'orientation, mais a le chic pour ne jamais se perdre lorsqu'elle trouve son chemin. Impossible de ne pas s'inquiéter pour elle, même si en réalité, elle est parfaitement capable de prendre soin d'elle.",
+  "info": "Une jeune fille innocente et optimiste. Elle se repose toujours sur ceux qui l'entourent, à tel point qu'on la pense naïve et prête à faire confiance à n'importe qui.\nElle adore les sucreries, mais parvient tout de même à conserver une alimentation équilibrée. Elle a souvent du mal à s'orienter, mais une fois qu'elle sait où aller, elle ne lâche plus son objectif des yeux. Ses proches ont tendance à s'inquiéter pour elle, mais elle est parfaitement capable de se débrouiller toute seule.",
   "description": "Fille d'un chercheur médical d'Hykros, Cocoritter affiche un talent dans l'art de la guérison depuis son plus jeune âge et a rejoint le laboratoire où travaillaient ses parents, absorbant autant de connaissances médicales que possible.\nElle arpente aujourd'hui le monde, voyageant d'un refuge à un autre et soignant les blessés. Elle prend son devoir très au sérieux et voit l'expérience comme nécessaire pour intégrer le personnel médical vétéran.",
   "like": "Bonbons, tout ce qui est mignon",
   "dislike": "Inconnu",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>70.5%</b> de l'ATQ + <b>4</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>55.1%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>99.1%</b> de l'ATQ + <b>5</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>103.2%</b> de l'ATQ + <b>5</b>."
+      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attdans les airsaque : inflige des dégâts équivalant à <b>70.5%</b> de l'ATQ + <b>4</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>55.1%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>99.1%</b> de l'ATQ + <b>5</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>103.2%</b> de l'ATQ + <b>5</b>."
     },
     {
       "name": "Tombelune",
@@ -162,7 +162,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 3
       }
@@ -185,7 +185,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 4
       }
@@ -208,7 +208,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 6
       }
@@ -231,7 +231,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 8
       }
@@ -254,7 +254,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 11
       }
@@ -277,7 +277,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Cadre en nanofibres II",
+        "name": "Cadre en nanofibres II",
         "rarity": "SSR",
         "amount": 5
       }

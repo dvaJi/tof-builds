@@ -8,7 +8,7 @@
   "birthplace": "Keamanan Victoria",
   "gender": "Perempuan",
   "info": "Dia terlihat malas dan lesu saat tidak ada pekerjaan, tetapi sangat bersemangat dan kompetitif kalau bertempur.\nDia sangat bangga dengan badan robotnya, yang tangkas, kuat, dan tidak dimakan usia. Dia juga keras kepala dan suka menantang dirinya semaksimal mungkin, tidak mau menyerah kepada manusia biasa.\nSecara mental, dia masih anak kecil dan menunjukkan sisinya yang rapuh saat bersama ayahnya.",
-  "description": "Pada zaman Old Federation, Victoria, seorang kontraktor militer privat, pernah merancang serangkaian droid tempur, dan Ene adalah prototipe pertama proyek itu.\nTujuannya adalah membuat droid sempurna yang memiliki identitas dan kemampuan untuk berpikir, merasakan, dan memperhitungkan tindakan berikutnya sendiri. Sang pemilik, yang memberikan lampu hijau untuk proyek ini, mengunggah kesadaran cadangan almarhum putrinya pada Ene sebagai \"jiwa\" droid itu.\nPada akhirnya, Ene mendapat hak menjadi manusia sebagai putri sang pemilik.",
+  "description": "Di era Federasi Lama, kontraktor militer privat, Victoria, berencana mengembangkan serangkaian Droid tempur elite, dan Ene adalah prototipe pertama yang dihasilkan oleh program itu.\n\nTujuan desain awalnya adalah membuat droid yang sempurna: mampu mengenali dirinya sendiri, mandiri, dan mampu berpikir, merasakan, dan bertindak layaknya manusia. Eksekutif yang menyetujui program ini mengunggah kesadaran almarhum putrinya yang telah dia simpan ke dalam Ene sebagai \"jiwanya\".\n\nEne kemudian menerima haknya sebagai manusia, sebagai putri eksekutif Victoria.",
   "like": "Bersama ayahnya, manusia yang lebih kuat darinya",
   "dislike": "Sangat memahami kerapuhan hidup",
   "element": "Ice",
@@ -76,38 +76,38 @@
       "type": [
         "Skill"
       ],
-      "description": "Beralih ke Outburst, meningkatkan damage yang ditimbulkan selama <b>25</b> detik.\nSelama Outburst masih aktif, skill akan mengaktifkan Windfury, yang akan menimpakan damage sebesar <b>219%</b> ATK + <b>12</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan menciptakan aliran udara di tanah. Saat berdiri di tengah aliran itu, tidak butuh biaya apa pun untuk menghindar. Cooldown: <b>45</b> detik (cooldown untuk Windfury: <b>10</b> detik)."
+      "description": "Beralih ke Outburst, meningkatkan damage yang ditimbulkan selama <b>25</b> detik.\nSelama Outburst masih aktif, skill akan mengaktifkan Windfury, yang akan menimpakan damage sebesar <b>219%</b> ATK + <b>12</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan menciptakan aliran udara di tanah. Saat berdiri di tengah aliran itu, tidak butuh biaya apa pun untuk menghindar. CD: <b>45</b> detik (cooldown untuk Windfury: <b>10</b> detik)."
     },
     {
       "name": "Overwhelming Maul",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua Debuff dari penggunanya</b> dan mengakibatkan \n <b>Suspend Keras</b> kepada target di sekitar saat beralih ke Weapon ini, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>. Juga menciptakan palu yang akan jatuh menimpa target di sekitarnya, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua Debuff dari penggunanya</b> dan mengakibatkan <b>Suspend Keras</b> kepada target di sekitar saat beralih ke Senjata ini, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>. Juga menciptakan palu yang akan jatuh menimpa target di sekitarnya, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang <b>50%</b>."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
   },
   "advancement": [
     "Memberikan Taunt kepada target di dekatnya setelah beralih ke senjata ini, mencegah <b>1</b> damage dalam waktu <b>8</b> detik berikutnya, dan memberikan Hyperbody selama <b>8</b> detik berikutnya. Cooldown: <b>15</b> detik.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>10%</b>.",
-    "Setelah menerima damage, mengurangi semua damage yang diterima sebanyak <b>50%</b> selama <b>6</b> detik berikutnya. Cooldown: <b>20</b> detik.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>20%</b>.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>10%</b>.",
+    "Setelah menerima damage, mengurangi semua damage yang diterima sebesar <b>50%</b> selama <b>6</b> detik berikutnya. Cooldown: <b>20</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>20%</b>.",
     "Serangan Biasa akan mengakibatkan <b>Stun</b> kepada target selama <b>2,5</b> detik. Cooldown: <b>20</b> detik.",
-    "Discharge Skill menimpakan <b>10%</b> damage tambahan kepada target dan meningkatkan Frost Damage sebesar <b>10%</b> lagi selama <b>25</b> detik."
+    "Skill Discharge menimpakan <b>10%</b> damage tambahan kepada target dan meningkatkan Frost DMG sebesar <b>10%</b> lagi selama <b>25</b> detik."
   ],
   "traits": [
     {
       "name": "Fast Mode",
       "icon": true,
-      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Stamina sebanyak <b>12%</b>."
+      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Stamina sebesar <b>12%</b>."
     },
     {
       "name": "Beyond Limits Mode",
       "icon": true,
-      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Stamina sebanyak <b>20%</b>."
+      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Stamina sebesar <b>20%</b>."
     }
   ],
   "ascension": [

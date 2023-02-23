@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan damage sebesar 13%/17%/20%/23% saat mengenai target di udara atau memulai Aerial Attack. Mereset double jump setelah mengenai target di udara."
+      "value": "Meningkatkan DMG sebesar 13%/17%/20%/23% saat menghantam target di udara atau memulai Aerial Attack. Mereset Double Jump setelah menghantam target di udara."
     },
     {
       "count": 4,
-      "value": "Menghantam musuh dengan Skill mengurangi CD semua Weapon Skill selama 1,5/2/2,5/3 detik dan meningkatkan DMG Discharge Skill sebesar 58%/80%/103%/126% selama 15 detik."
+      "value": "Menghantam musuh dengan Skill mengurangi CD semua Skill Senjata selama 1,5/2/2,5/3 detik dan meningkatkan DMG Skill Discharge sebesar 58%/80%/103%/126% selama 15 detik."
     }
   ],
   "mind": {

@@ -7,8 +7,8 @@
   "birthday": "1 de junio (Géminis)",
   "birthplace": "Desconocido",
   "gender": "Femenino",
-  "info": "Una inocente niña romántica que siempre está alegre. Es muy confiada y eso le da un aire de ingenuidad.\nAma los dulces, pero logra mantener un delicado equilibrio entre el azúcar y los alimentos saludables. Se pierde con facilidad, pero una vez que encuentra su norte logra llegar a donde sea. Aunque es muy capaz de cuidarse por sí misma, es inevitable sentir preocupación por su bienestar.",
-  "description": "Al ser hija de un investigador médico de Hykros, Cocoritter comenzó a mostrar su talento en el arte de la curación a una edad temprana, y se unió al laboratorio donde trabajaban sus padres, donde absorbió todos los conocimientos médicos posibles.\nHa estado recorriendo la tierra, viajando de un refugio a otro y tratando a los heridos. Se toma este deber muy en serio, y considera que es la experiencia necesaria para convertirse en una veterana del personal médico.",
+  "info": "Una chica ingenua con una actitud positiva. Siempre confía en los demás, a veces hasta el punto de que piensan que es crédula o confía en los desconocidos con demasiada facilidad.\nLe encantan los dulces, pero, aun así, mantiene una dieta equilibrada. Tiene un mal sentido de la orientación, pero una vez que encuentre el camino, nunca más se perderá. Es difícil no preocuparse por ella, pero es perfectamente capaz de cuidarse.",
+  "description": "Al ser hija de un investigador médico de Hykros, Cocoritter empezó a mostrar su talento en el arte de la curación a una edad temprana, y se unió al laboratorio donde trabajaban sus padres, donde absorbió todos los conocimientos médicos posibles.\n\nHa estado viajando de un refugio a otro y atendiendo a los heridos. Se toma este deber muy en serio, y considera que la experiencia es necesaria para convertirse en personal médico veterano.",
   "like": "Dulces, cualquier cosa bonita",
   "dislike": "Desconocido",
   "element": "Ice",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>70.5%</b> del ATQ + <b>4</b>.\nSegundo ataque: inflige daño equivalente al <b>50.8%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>55.1%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>99.1%</b> del ATQ + <b>5</b>.\nQuinto ataque: inflige daño equivalente al <b>103.2%</b> del ATQ + <b>5</b>."
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>70.5%</b> del ATQ + <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>50.8%</b> del ATQ + <b>3</b>.\nTercer ataque: Inflige daño igual a <b>55.1%</b> del ATQ + <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>99.1%</b> del ATQ + <b>5</b>.\nQuinto ataque: Inflige daño igual a <b>103.2%</b> del ATQ + <b>5</b>."
     },
     {
       "name": "Cascada Lunar",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar ataques de ráfaga, que consumen <b>300</b> puntos de resistencia.\nPrimer ataque: atrae enemigos ubicados frente al usuario, los <b>suspende</b> e inflige daño equivalente al <b>34.9%</b> del ATQ + <b>2</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: inflige daño equivalente al <b>40.4%</b> del ATQ + <b>2</b> a la ubicación del objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
+      "description": "Después del tercer ataque normal, mantén pulsado el botón de ataque normal para activar los ataques de rama, lo que consume <b>300</b> puntos de resistencia.\nPrimer ataque: Atrae a los enemigos frente al usuario, los <b>suspende fuerte</b> e inflige daño igual a <b>34.9%</b> del ATQ + <b>2</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: Inflige daño igual a <b>40.4%</b> del ATQ + <b>2</b> en la ubicación objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
     },
     {
       "name": "Sobrecarga",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Caparazón de Hielo",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga de arma del objetivo se reduce un <b>50%</b>."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
   },
   "advancement": [
     "Luego de esquivar, invoca una abeja de curación que sigue al usuario y cura al aliado que tenga el menor porcentaje de PS en un radio de <b>15</b> metros. Cura un <b>25%</b> del ATQ y restaura <b>50</b> puntos de carga de arma en cada ocasión, y dura <b>25</b> segundos. Enfriamiento: <b>25</b> segundos.",
@@ -277,7 +277,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

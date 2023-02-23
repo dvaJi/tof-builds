@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben. „Zyklon“ kann einem einzelnen Ziel Schaden in Höhe von <b>47.8%</b> des ANG + <b>3</b> zufügen."
+      "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben und fügt ihm Schaden in Höhe von <b>47.8%</b> des ANG + <b>3</b> zu."
     },
     {
       "name": "Fallender Schwung",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> für jeden Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> und schlägst das Ziel zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> pro Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> und schlägst das Ziel zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Schleichattacke",
@@ -86,12 +86,12 @@
   },
   "weapon_resonance": {
     "name": "Physische Resonanz",
-    "description": "<b>Physische Resonanz</b>: Erhöht physischen ANG um <b>15%</b> und physischen Widerstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Physischer-Schaden-Waffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Dieser Effekt kann nicht mehrfach gestapelt werden."
+    "description": "<b>Physische Resonanz</b>: Erhöht physischen ANG um <b>15%</b> und physischen Widerstand um <b>25%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr physischen Waffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert. Kann nicht mit Effekten desselben Typs gestapelt werden."
   },
   "advancement": [
-    "Nachdem ein Ziel mit einer Fähigkeit oder Entladungsfähigkeit getroffen wurde, wird 1 Stapel des folgenden Buffs gewährt: Erhöht den verursachten Schaden <b>25</b> Sek. lang um <b>8%</b>. Der Effekt kann bis zu <b>3</b>-mal gestapelt werden (max. 1 Stapel pro Verwendung der Fähigkeit).",
+    "Nachdem ein Ziel mit einer Fähigkeit oder Entladungsfähigkeit getroffen wurde, wird 1 Stapel des folgenden Buffs gewährt: Erhöht den verursachten Schaden <b>25 Sek.</b> lang um <b>8%</b>. Der Effekt kann bis zu <b>3</b>-mal gestapelt werden (max. 1 Stapel pro Verwendung der Fähigkeit).",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
-    "Wenn ein Ziel mit Fähigkeiten oder Entladungsfähigkeiten getroffen wird, wird dem Ziel einen Stapel „Kriegswunden“ zugefügt: Erhöht den erlittenen physischen Schaden und Zertrümmern von physischen Waffen <b>15</b> Sek. lang um <b>10%</b>. Kann bis zu <b>1</b>-mal gestapelt werden.",
+    "Wenn ein Ziel mit Fähigkeiten oder Entladungsfähigkeiten getroffen wird, wird dem Ziel ein Stapel „Kriegswunden“ zugefügt: Erhöht den erlittenen physischen Schaden und Zertrümmern von physischen Waffen <b>15</b> Sek. lang um <b>10%</b>. Kann bis zu <b>1</b>-mal gestapelt werden.",
     "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>32%</b>.",
     "Werden Ziele mit Fähigkeiten oder Entladungsfähigkeiten getroffen, gewährt dies einen Schadensbonus, der allen Schaden <b>25</b> Sek. lang um <b>20%</b> erhöht. Dieser Effekt kann nicht gestapelt werden.",
     "Fähigkeiten, die das gleiche Ziel treffen, haben keinen verringerten Schaden mehr. Der Einsatz von „Guren-Klinge“ oder einer Entladungsfähigkeit fügt allen Zielen mit Kriegswunden im Umkreis von 8 Metern <b>1</b> weiteren Stapel „Kriegswunde“ zu."

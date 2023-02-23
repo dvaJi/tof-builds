@@ -7,8 +7,8 @@
   "birthday": "11 avril (Bélier)",
   "birthplace": "Banges",
   "gender": "Féminin",
-  "info": "Une jeune fille passionnée et sincère. Insouciante et décontractée. Populaire auprès des autres.\nNe discrimine pas les personnes sur la base de leur âge ou de leur sexe, et traite tout le monde sur un pied d'égalité. S'entend rapidement bien avec tout le monde, qu'il s'agisse d'enfants ou d'adultes ; considère Théo, le fils du directeur de Banges Tech, comme un ami proche.\nPeut parfois se montrer quelque peu rustre et insensible et oublie souvent des choses (notamment ses propres armes).",
-  "description": "Véritable star du port de Banges, Hilda connaît tout le monde en ville.\nElle aime profondément sa ville natale et la protègera quoi qu'il en coûte.\nHilda n'a pas fait carrière à proprement parler et préfère faire des petits boulots sur le port en échange d'un peu d'argent ; il lui arrive d'accepter des missions plus dangereuses de temps à autre, comme patrouiller ou monter la garde. Quand elle est fatiguée, elle prend un ou deux jours de congé pour manger comme un ogre.",
+  "info": "Une fille joyeuse, passionnée et amicale. Elle est insouciante et n'est pas méticuleuse pour un sou.\nElle traite tout le monde de la même manière, quel que soit l'âge, le genre ou le milieu social. Le fils du propriétaire de Banges Tech, Théo, fait partie de ses bons amis.\nMais elle est aussi négligente et distraite, allant parfois jusqu'à oublier son arme à la maison…",
+  "description": "Hilda est la \"star\" du port de Banges, où tout le monde connaît son nom.\nBanges est sa ville et elle considère qu'elle doit la protéger.\nElle n'a pas d'emploi stable et travaille simplement à temps partiel dans les magasins près du port, en acceptant parfois des missions de patrouilleuse ou d'agent de sécurité. Lorsqu'elle est fatiguée, elle prend un congé pour faire des courses et déguster de bons plats.",
   "like": "Poulet frit, célébrations, troc",
   "dislike": "Projets de vie",
   "element": "Ice",
@@ -30,7 +30,7 @@
       "type": [
         "Skill"
       ],
-      "description": "Vous activez le mode Tourelle et envoyez de grands orbes d'énergie. Chacun d'entre eux inflige des dégâts correspondant à <b>213.3%</b> de l'ATQ + <b>11</b>, et envoie la cible dans les airs. L'installation de la tourelle vous immunise contre l'hébétement et les effets de contrôle. <b>3.5</b> secondes de recharge."
+      "description": "Vous activez le mode Tourelle et envoyez de grands orbes d'énergie. Chacun d'entre eux inflige des dégâts équivalant à <b>213.3%</b> de l'ATQ + <b>11</b>, et projette la cible dans les airs. L'installation de la tourelle vous immunise contre l'hébétement et les effets de contrôle. Temps de recharge : <b>3.5</b> secondes."
     },
     {
       "name": "Rayon arctique",
@@ -122,7 +122,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 2
       }

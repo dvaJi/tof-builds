@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Forma de escudo: en el suelo, mantén pulsado el ataque normal para cambiar a forma de escudo (suelta para regresar) durante <b>3</b> segundos durante los cuales el Nómada no puede moverse y todo el daño recibido se reduce en un <b>50%</b>. En forma de escudo, soltar el botón de ataque normal luego de recibir daño o luego de mantenerlo pulsado durante <b>3</b> segundos libera una explosión flamígera que inflige daño equivalente al <b>167.3%</b> del ATQ + <b>9</b> y <b>aturde</b> al objetivo durante <b>1</b> segundo.\nForma de hacha: aplasta al objetivo e inflige daño equivalente al <b>122.2%</b> del ATQ + <b>6</b> y suspende al objetivo."
+      "description": "Forma de escudo Mientras estás en el suelo, Pulsa y mantén pulsado el ataque normal para entrar en forma de escudo (suéltalo para salir) durante <b>3</b> segundos, durante los cuales la Nómada no puede moverse, y todo el daño recibido se reduce un <b>50%</b>. Mientras estás en forma de escudo, al soltar el botón de ataque normal después de recibir daño o tras mantenerlo pulsado durante <b>3</b> segundos, se desata un choque de fuego, que inflige un daño igual a <b>167.3%</b> de ATQ + <b>9</b> e inflige un efecto de <b>1</b>-segundo <b>aturdimiento</b> al objetivo.\nForma de Hacha: Aplasta al objetivo, infligiendo daño igual a <b>122.2%</b> del ATQ + <b>6</b> y suspendiendo al objetivo."
     },
     {
       "name": "Valor",
@@ -76,7 +76,7 @@
     "description": "Cuando el arma esté completamente cargada, el siguiente ataque prenderá fuego al objetivo por <b>8</b> segundos, lo que causa daño igual a <b>58%</b> del ATQ cada segundo. Los objetivos encendidos tienen <b>50%</b> eficacia de curación reducida."
   },
   "advancement": [
-    "Obtén una acumulación de Escudo Resistente al usar descarga: Ira Llameante. Usar una habilidad de evasión o una habilidad de ráfaga con la forma de escudo activa una acumulación de Escudo Resistente, que otorga un <b>10%</b> de reducción de daño durante <b>15</b> segundos y se acumula hasta <b>3</b> veces. Cambiar a la forma de hacha convierte todas las acumulaciones de Escudo Resistente en acumulaciones de Hacha Afilada, cada una de las cuales aumenta el daño en un <b>15%</b> durante <b>15</b> segundos. Al cambiar de arma se cancela este efecto.",
+    "Obtén una acumulación de Escudo Resistente al usar descarga: Ira Llameante. Usar una habilidad de evasión o una habilidad de rama con la forma de escudo activa una acumulación de Escudo Resistente, que otorga un <b>10%</b> de reducción de daño durante <b>15</b> segundos y se acumula hasta <b>3</b> veces. Cambiar a la forma de hacha convierte todas las acumulaciones de Escudo Resistente en acumulaciones de Hacha Afilada, cada una de las cuales aumenta el daño en un <b>15%</b> durante <b>15</b> segundos. Al cambiar de arma se cancela este efecto.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
     "Mientras se está en forma de escudo, los ataques de ráfaga/evasión infligen un daño adicional a los objetivos igual al <b>4%</b> de los PS actuales del usuario.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta el daño progresivamente en un 1% al golpear a un objetivo. Se puede acumular hasta 10/13/16/20 veces. Dura 1.5 segundos."
+      "value": "Inflige daño adicional al golpear un objetivo, cada vez en un 1.5%, hasta 10/13/16/20 acumulaciones. Tiempo de acumulación de ventajas: 2 segundos."
     },
     {
       "count": 4,
-      "value": "Aumenta el daño por explosión eléctrica de las Estrellas Magnéticas Dobles un 16%/22%/30%/40% del ATQ."
+      "value": "Cada ataque a los objetivos fijados inflige daño adicional equivalente al 10%/12.5%/15%/17.5% del ATQ."
     }
   ],
   "mind": {

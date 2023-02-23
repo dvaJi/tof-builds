@@ -7,7 +7,7 @@
   "birthday": "26. Juni (Krebs)",
   "birthplace": "Banges-Technik",
   "gender": "Weiblich",
-  "info": "Sie wirkt wie eine ernste, regelkonforme Wissenschaftlerin, ist jedoch tatsächlich sehr flexibel und wenig stereotyp.\nSie zeigt kaum Gemütsregungen in ihrer Mimik, aber wer sie besser kennenlernt, merkt schon bald, dass sie durchaus Emotionen und eigene Gedanken hat, die sie jedoch nur selten zeigt.\nAuch wenn sie eine der führenden Wissenschaftlerinnen in der Kybernetik-Entwicklung ist, folgt sie eher ihrem Bauchgefühl als der Logik.\nSie verlässt sich darauf, um Maschinen zu modifizieren – und manchmal fügt sie sogar vollkommen nutzlose Elemente hinzu, einfach, weil es ihr Spaß macht.",
+  "info": "Sie mag ernst und steif wirken, aber tatsächlich ist sie ziemlich exzentrisch und eigenwillig.\nIhre Mimik ist nicht besonders ausdrucksstark, aber wenn man sie erst einmal kennenlernt, merkt man, wie liebenswürdig, einfallsreich und gefühlvoll sie ist. Wenn sie sich ärgert, macht sie auch einmal ein wütendes Gesicht.\nSie ist eine Meisterin des Maschinenbaus, verlässt sich aber eher auf ihr Bauchgefühl als auf Theorien.\nSie setzt bei ihren Kreationen auf ihren „sechsten Sinn“ und fügt oft komplett nutzlose Module hinzu, wenn ihr danach ist.",
   "description": "Cobalt-B – das ist nicht ihr richtiger Name – ist eine Maschinenbauingenieurin im Waffenentwicklungsteam von Banges Tech. Ihre Position auf der Karriereleiter ist nicht sehr hoch, da sie bei Tests nicht gut abschneidet.\nNur die Leute, die mit ihr zusammenarbeiten, wissen, dass sie in Wirklichkeit das Ass des gesamten Teams ist. Grundlegende Theorien bedeuten ihr nur wenig und bei der Entwicklung effektiver Waffen vertraut sie voll auf ihre Instinkte.\nUm diese Waffen zu testen und Kampfdaten zu sammeln, geht sie gelegentlich mit anderen Soldaten auf Einsätze und probiert ihre Waffen an armen Mitgliedern der Hyänen aus.",
   "like": "Maschinen, Brainstorming, Artrock",
   "dislike": "Lernen, Prüfungen",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tippe und halte die normale Angriffstaste gedrückt, um einen Schuss aufzuladen, und lasse sie los, um zu schießen. Dies verursacht Schaden in Höhe von <b>95.4%</b> des ANG + <b>5</b> und 3 Sek. später (oder wenn das Ziel stirbt) eine Explosion, die Gegnern in der Nähe Schaden in Höhe von <b>23.9%</b> des ANG zufügt. Jedes Mal, wenn das Ziel vor der Explosion Schaden erleidet, wird der Wirkungsbereich verdoppelt und der Schaden erhöht (bis zu <b>4</b>-mal)."
+      "description": "Tippe und halte die normale Angriffstaste gedrückt, um einen Angriff aufzuladen, und lasse sie los, um zu schießen. Dies verursacht Schaden in Höhe von <b>95.4%</b> des ANG + <b>5</b> und 3 Sek. später (oder wenn das Ziel stirbt) eine Explosion, die Gegnern in der Nähe Schaden in Höhe von <b>23.9%</b> des ANG zufügt. Jedes Mal, wenn das Ziel vor der Explosion Schaden erleidet, wird der Wirkungsbereich verdoppelt und der Schaden erhöht (bis zu <b>4</b>-mal)."
     },
     {
       "name": "Sprungbombe",
@@ -38,7 +38,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Zünde in der Luft oder nach einem Sprung eine Sprungbombe.\nWirft eine Bombe, die Gegnern in einem Kreis vor dem Anwender Schaden in Höhe von <b>90.8%</b> des ANG + <b>5</b> zufügt und sie eine kurze Distanz zurückstößt. Verbraucht <b>250</b> Ausdauer wird."
+      "description": "Zünde in der Luft oder nach einem Sprung eine Sprungbombe.\nWirft eine Bombe, die Gegnern in einem Kreis vor dem Anwender Schaden in Höhe von <b>90.8%</b> des ANG + <b>5</b> zufügt und sie eine kurze Distanz zurückstößt. Verbraucht <b>250</b> Ausdauer."
     },
     {
       "name": "Luftsprengung",
@@ -92,7 +92,7 @@
     "Die Variantenfähigkeit „Schweres Sperrfeuer“ und der Ausweichangriff „Nahkampf“ verursachen <span class=\"text-green\">Ionenversengung</span> bei Zielen, die bereits verbrannt wurden, und fügen ihnen für <b>10</b> Sek. pro Sek. Flammenschaden in Höhe von <b>40%</b> des ANG zu.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
     "Der von <span class=\"text-green\">Ionenversengung</span> verursachte Schaden wird auf <b>60%</b> des ANG erhöht. Erfolgreiche Angriffe mit der Ausweichfähigkeit einer beliebigen Waffe setzen die Dauer von <span class=\"text-green\">Ionenversengung</span> zurück.",
-    "<span class=\"text-green\">Sperrfeuer</span> verfügt über einen <b>15</b> Sek. anhaltenden „Verbrennen“-Effekt. Erfolgreiche Angriffe mit der Ausweichfähigkeit einer Waffen verringern die Abklingzeit von <span class=\"text-green\">Sperrfeuer</span> um <b>4</b> Sek. Abklingzeit dieses Effekts: <b>1.5</b> Sek. Der DoT der Ausweichfähigkeit aktiviert die Abklingzeitverringerung ebenfalls."
+    "<span class=\"text-green\">Sperrfeuer</span> verfügt über einen <b>15</b> Sek. anhaltenden Verbrenneneffekt. Erfolgreiche Angriffe mit den Ausweichfähigkeiten von Waffen verringern die Abklingzeit von <span class=\"text-green\">Sperrfeuer</span> um <b>4</b> Sek. Abklingzeit dieses Effekts: <b>1,5</b> Sek. Der DoT durch Verbrennungen der Ausweichfähigkeiten löst ebenfalls einen Effekt für Abklingzeitverringerung aus."
   ],
   "traits": [
     {

@@ -39,14 +39,14 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Após o segundo ataque normal, segure o botão para usar Perseguição Veloz.\nDispara um míssil guiado por laser contra o alvo. Causa dano de até <b>107.5%</b> do ATQ + <b>6</b>."
+      "description": "Após o segundo ataque normal, segure o ataque normal para usar Perseguição Veloz.\nDispara um míssil guiado por laser contra o alvo. Causa dano de até <b>107.5%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Foco Duplo",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal para carregar um tiro e disparar uma esfera eletrificada que explode ao atingir o alvo. Causa dano de <b>118.4%</b> do ATQ + <b>6</b> a inimigos próximos."
+      "description": "Segure o botão de ataque normal para carregar um ataque e lançar uma esfera eletrificada que explode ao atingir o alvo. Causa dano de <b>118.4%</b> do ATQ + <b>6</b> a inimigos próximos."
     },
     {
       "name": "Foco Gêmeo Giratório",
@@ -54,7 +54,7 @@
         "Perfect Attack",
         "Attack"
       ],
-      "description": "Use o botão de ataque normal durante o tempo de esquiva perfeita para ativar um campo magnético que causa lentidão.\nVênus dispara um orbe carregado que avança determinada distância e explode quando entra em contato com os alvos. Causa dano de <b>171.6%</b> do ATQ + <b>9</b> e gera um campo magnético que causa lentidão durante <b>3</b> segundos, que reduz a velocidade de movimento e de ataque de todos os inimigos dentro dele em <b>35%</b>.\nEsquivar-se desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do seu ATQ. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do seu ATQ. Esquivar-se concede <b>1</b> acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em <b>25%</b> (acumula até <b>5</b> vezes). Dura <b>30</b> segundos. Trocar de arma irá cancelar o efeito."
+      "description": "Use o botão de ataque normal durante o tempo de esquiva perfeita para ativar um campo magnético que causa lentidão.\nVênus dispara um orbe carregado que avança determinada distância e explode quando entra em contato com os alvos. Causa dano de <b>171.6%</b> do ATQ + <b>9</b> e gera um campo magnético que causa lentidão durante <b>3</b> segundos, que reduz a velocidade de movimento e de ataque de todos os inimigos dentro dele em <b>35%</b>.\nEsquivar desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em <b>25%</b>. Acumula até <b>5</b> vezes e dura <b>30</b> segundos. Trocar de arma não cancela o efeito."
     },
     {
       "name": "Raios Paralelos",
@@ -62,7 +62,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Raios Paralelos.\nVênus dispara um par de raios paralelos que causa dano perfurante de <b>171.6%</b> do ATQ + <b>9</b>.\nEsquivar-se desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em <b>25%</b> (acumula até <b>5</b> vezes). Dura <b>30</b> segundos. Trocar de arma irá cancelar o efeito."
+      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Raios Paralelos.\nVênus dispara um par de raios paralelos que causa dano perfurante de <b>171.6%</b> do ATQ + <b>9</b>.\nEsquivar-se desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em <b>25%</b> (acumula até <b>5</b> vezes). Dura <b>30</b> segundos. Trocar de arma não cancela o efeito."
     },
     {
       "name": "Pulso Travado",
@@ -81,7 +81,7 @@
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "weapon_resonance": {
     "name": "Ressonância Elétrica",
@@ -90,7 +90,7 @@
   "advancement": [
     "Cria <b>1</b> Eletrodo que confere <b>5</b> acúmulos de corrente de cura aprimorada imediatamente após usar <b>Pulso Travado</b> ou <b>Explosão de Raios de Partícula</b>. Além disso, desencadeia uma corrente de cura que cura os aliados próximos em <b>135%</b> do seu ATQ.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "O Eletrodo desencadeia um <b>Raio Circular</b> que causa, no máximo, <b>205%</b> do ATQ na área-alvo a cada <b>6</b> segundos.",
+    "A cada <b>6</b> segundos, o Eletrodo desencadeia um <b>Raio Circular</b> que causa dano de, no máximo, <b>205%</b> do ATQ na área-alvo.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
     "Aumenta o seu ATQ em (<b>6,5</b> + (quantidade de Eletrodos x <b>6,5</b>))% durante <b>25</b> segundos após usar <b>Pulso Travado</b>.",
     "Até <b>2</b> Eletrodos podem estar ativos ao mesmo tempo. Invocar mais Eletrodos substitui os mais distantes do usuário."

@@ -8,7 +8,7 @@
   "birthplace": "Desconocido",
   "gender": "Femenino",
   "info": "Una inocente niña introvertida que no conoce mucho del mundo. Está un tanto asustada de los extraños y prefiere estar sola. Tal vez por eso es algo miedosa y tímida frente a los extraños.\nComo siempre la llaman \"la chica que está con Madam Lin\", desarrolló un sentido de misión: debe trabajar más duro para no ser una carga para Lin ni dejar que se desperdicien las instrucciones de Lin.",
-  "description": "La hija de un viejo amigo de Lin. Y de alguna manera, ahora está bajo el cuidado Lin. La chica no parece fuerte, como una niña enferma y débil. \nActualmente está en entrenamiento de combate para su propia protección a petición de Lin. Aunque Ruby está aprendiendo algo bastante diferente al estilo de Lin, ella es, al menos, mucho más saludable que antes y lo suficientemente capaz para algunas situaciones bastante complicadas. \nTodavía tiene una vaga idea del mundo y de sí misma, creyendo en las instrucciones y descripciones de Lin ciegamente, y confiando en ella para casi cualquier decisión. En la situación actual, Lin comenta que cultivar su independencia es definitivamente una prioridad.",
+  "description": "Es la hija de una vieja amistad de Lin. De alguna manera, terminó bajo el cuidado de Lin, e incluso hacen equipo. La niña no parece fuerte, es enfermiza y débil. \nActualmente está en entrenamiento de habilidades de combate para su autoprotección a petición de Lin. Aunque Ruby está aprendiendo algo muy diferente al estilo de Lin, al menos está mucho más sana que antes y es lo suficientemente capaz de lidiar con algunas complicadas situaciones. \nTodavía no tiene más que una ligera idea sobre el mundo y sobre sí misma, y cree ciegamente en las instrucciones de Lin. Confía en ella para casi todas sus decisiones. En la situación actual, Lin comenta que cultivar su independencia definitivamente es la prioridad.",
   "like": "Dolly el conejo de peluche",
   "dislike": "Tomar medicina",
   "element": "Fire",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Mientras estás en el suelo, toca el botón de ataque normal para ordenar a Chispa que ataque 5 veces seguidas.\n\"Primer ataque: Inflige daño total igual a <b>84.6%</b> del ATQ + <b>4</b> contra cada objetivo.\n\"Segundo ataque: Inflige daño total igual a <b>93%</b> del ATQ + <b>5</b> contra cada objetivo.\n\"Tercer ataque: Inflige daño total igual a <b>101.5%</b> del ATQ + <b>5</b> contra cada objetivo.\n\"Cuarto ataque: Inflige daño total igual a <b>109.9%</b> del ATQ + <b>6</b> contra cada objetivo.\n\"Quinto ataque: Inflige daño total igual a <b>253.7%</b> del ATQ + <b>13</b> contra cada objetivo y <b>lanza</b> a los objetivos."
+      "description": "Mientras estás en el suelo, toca el botón de ataque normal para ordenar a Chispa que ataque 5 veces seguidas.\nPrimer ataque: Inflige daño total igual a <b>84.6%</b> del ATQ + <b>4</b> contra cada objetivo.\nSegundo ataque: Inflige daño total igual a <b>93%</b> del ATQ + <b>5</b> contra cada objetivo.\nTercer ataque: Inflige daño total igual a <b>101.5%</b> del ATQ + <b>5</b> contra cada objetivo.\nCuarto ataque: Inflige daño total igual a <b>109.9%</b> del ATQ + <b>6</b> contra cada objetivo.\nQuinto ataque: Inflige daño total igual a <b>253.7%</b> del ATQ + <b>13</b> contra cada objetivo y <b>lanza</b> a los objetivos."
     },
     {
       "name": "Descarga Aérea",
@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el botón de ataque normal o hazlo después de que se active la Zona Bloqueada para disparar continuamente rayos de energía abrasadores a los enemigos en una dirección objetivo, lo que inflige daño igual a <b>40%</b> del ATQ + <b>2</b>. Consume la resistencia de los nómadas."
+      "description": "Pulsa y mantén pulsado el ataque normal o hazlo después de que se active la Zona Bloqueada para disparar continuamente rayos de energía abrasadores a los enemigos en una dirección objetivo, lo que inflige daño igual a un <b>40%</b> del ATQ + <b>2</b>. Consume la resistencia de los nómadas."
     },
     {
       "name": "Buceo Abrasador",
@@ -62,14 +62,14 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Lanza a Dolly tras esquivar. Dolly permanece <b>10</b> segundos y absorbe a los enemigos cercanos, lo que les inflige daño equivalente al <b>84.6%</b> del ATQ + <b>4</b> y los provoca por <b>1.5</b> segundos para enfocar sus ataques en Dolly (en un equipo, no puede provocar a enemigos)."
+      "description": "Lanza a Dolly después de esquivar. Dolly permanece durante <b>10</b> segundos atrayendo a los enemigos cercanos e infligiendo daño igual a <b>84.6%</b> del ATQ + <b>4</b> contra ellos, además de provocarlos por <b>1.5</b> segundos, lo que hace que desvíen sus ataques hacia Dolly (no puede provocar a los enemigos cuando se está en un equipo)."
     },
     {
       "name": "Colisionador Chispeante",
       "type": [
         "Skill"
       ],
-      "description": "Chispa dispara Chispas que duran 15 segundos y rebotan entre el objetivo y el Nómada. Al impactar al objetivo, las Chispas lo ralentizan por <b>4</b> segundos con un enfriamiento de <b>15</b> segundos. Las Chispas infligen más daño al recorrer distancias más largas. Al impactar, infligen daño por hasta un <b>350%</b> del ATQ + <b>37</b> y marca al objetivo con Arder por <b>25</b> segundos. Al mismo tiempo, Chispa dispara 4 balas, cada una de las cuales inflige daño equivalente al <b>50%</b> del ATQ + <b>3</b> a su objetivo. Los ataques normales de Chispa infligen un <b>110%</b> de daño adicional a enemigos marcados con Arder. Cuando Chispas impacta objetivos autoincendidados, estos sufrirán quemaduras o se incendiarán, y recibirán daño adicional equivalente al <b>100%</b> del daño total restante (los efectos de quemadura o ignición múltiples se cuentan juntos). El enfriamiento calculado resultante es de <b>6</b> segundos y el enfriamiento de habilidad es de <b>30</b> segundos.\n<b>Pasiva</b>: cuando Chispas está activo, cada que Ataque de Chispa inflige daño, otorga al nómada <b>1</b> Punto de Calor con un enfriamiento de <b>0.9</b> segundos, por un máximo de <b>8</b> Puntos de Calor. Cuando el Calor llega a su límite máximo, el nómada obtiene el efecto Calor Definitivo, aumenta el ATQ de fuego en un <b>25%</b> durante <b>25</b> segundos."
+      "description": "Chispa dispara Chispas que duran 15 segundos y rebotan entre el objetivo y el nómada. Al impactar al objetivo, las Chispas lo ralentizan por <b>4</b> segundos con un enfriamiento de <b>15</b> segundos. Las Chispas infligen más daño cuanto más lejos se desplazan. Causan daño al impactar de hasta un <b>350%</b> del ATQ + <b>37</b> e infligen una marca de Arder de <b>25</b> segundos al objetivo. Al mismo tiempo, Chispa dispara 4 balas y cada una inflige daño igual a un <b>50%</b> del ATQ + <b>3</b> contra su objetivo. Los ataques normales de Chispa infligen un <b>110%</b> de daño adicional a los objetivos marcados con Arder. Cuando Chispas impacta en los objetivos quemados por el nómada, quema o enciende al objetivo una vez e inflige daño adicional igual a un <b>100%</b> del daño total restante (los efectos de quemadura o incendiarios múltiples se cuentan juntos). El enfriamiento del cálculo de resultados es de <b>6</b> segundos y el enfriamiento de las habilidades es de <b>30</b> segundos.\n\"<b>Pasiva</b>: Cuando Chispas está activado, cada vez que el ataque de Chispa inflige daño, el nómada obtiene <b>1</b> Punto de Calor con un enfriamiento de <b>0.9</b> segundos, hasta <b>8</b> Puntos de Calor. Cuando el Calor alcanza el máximo, el nómada obtiene el efecto Calor Definitivo, que aumenta el ATQ de Fuego en un <b>25%</b> por <b>25</b> segundos."
     },
     {
       "name": "Supernova",
@@ -90,7 +90,7 @@
   "advancement": [
     "Arder aumenta el daño del Ataque de Chispa a <b>80%</b>. El enfriamiento de habilidad baja a <b>24</b> segundos.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
-    "Arder aumenta el Refuerzo de Fuego en <b>8%</b> y el multiplicador de quemadura a <b>75%</b>.",
+    "Arder aumenta el Refuerzo de Fuego en <b>8%</b> y el multiplicador de quemadura a <b>150%</b>.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
     "Restablece <b>75</b> puntos adicionales de carga de arma cada vez que el Ataque de Chispa impacte a un enemigo. Enfriamiento: 0.9 segundos. La destrucción aumenta en <b>25%</b> cuando Calor Definitivo está activo.",
     "Arder aumenta el daño del Ataque de Chispa a <b>160%</b> y duplica la eficiencia de adquisición de Calor. El enfriamiento de habilidad baja a <b>16</b> segundos."
@@ -98,11 +98,11 @@
   "traits": [
     {
       "name": "Atrapasueños",
-      "description": "Aumenta el daño de fuego que reciben todos los enemigos en un radio de <b>5</b> metros de Dolly en <b>8%</b>. No se acumula."
+      "description": "Aumenta el daño de fuego que reciben todos los enemigos en un radio de <b>5</b> metros de Dolly en <b>8%</b>. Este efecto no se acumula."
     },
     {
       "name": "Dominio de Dolly",
-      "description": "Aumenta el daño de fuego recibido por todos los enemigos en un radio de 5 metros de Dolly en <b>8%</b>. No se acumula. Aumenta la ATQ de fuego tras lanzar a Dolly en <b>12%</b> por <b>10</b> segundos. No se acumula."
+      "description": "Aumenta el daño de fuego que reciben todos los enemigos en un radio de 5 metros de Dolly en <b>8%</b>. No se acumula. Aumenta el ATQ de fuego tras lanzar a Dolly en <b>12%</b> durante <b>10</b> segundos. Este efecto no se acumula."
     }
   ],
   "ascension": [
@@ -278,7 +278,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

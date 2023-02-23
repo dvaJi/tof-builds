@@ -7,8 +7,8 @@
   "birthday": "March 24 (Aries)",
   "birthplace": "Heirs of Aida",
   "gender": "Female",
-  "info": "The ultimate opportunist. Hyperactive, talkative, loves being part of a crowd.\nOverly gregarious. Does not get angry even when cursed or yelled at. Tolerant of all viewpoints and able to make friends at the drop of a hat.\nHowever, reliability from this free spirit is virtually nonexistent.",
-  "description": "Tsubasa's resume indicates she was once a resident of the Astra Shelter, a Hyena officer, a worker for Hykros—which is the record we use for her Simulacrum.\nAfterward, she chose to betray Hykros and defected to the Heirs of Aida.\nThat could only be described as an alarming move. Her current status is unknown, but it is certain she is not a lowly lackey within the Heirs, given her abilities.\nNever relies on philosophy, morals, goals, or rules to decide which side she will align with, as if she never cares for any of that. She's been with many organizations, yet never truly belonged to any of them.",
+  "info": "An opportunist who trims her sails with the wind. Proactive, talkative, and loves to hang out.\nShe makes friends easily and doesn't get angry even when someone points out her opportunistic tendencies. She also has an open mind that is always taking in new and different ideas.\nOn the other hand, she is definitely not the kind of person who provides a sense of security.",
+  "description": "Hane's résumé shows that she spent some time at the Astra Shelter, was once a Hyena officer, and was an employee at Hykros, which her Simulacrum data is based on.\nAfter that, she chose to betray Hykros and joined the Heirs of Aida.\nThe only word to describe her would be \"unstable.\" No one knows what she's up to right now, but we can be sure that with her abilities, she is definitely not just a foot soldier in the Heirs.\nShe does not pick sides according to ideals, right or wrong, objectives or rules, as if none of these matters to her. She belonged to so many organizations, but she also didn't belong in any of them.",
   "like": "Wind, gravity, freedom, bubblegum",
   "dislike": "Inertia, stability",
   "element": "Ice",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack to charge. Deal basic damage equal to <b>87.8%</b> of ATK + <b>5</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
+      "description": "Tap and hold normal attack to charge an attack. Deal basic damage equal to <b>87.8%</b> of ATK + <b>5</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
     },
     {
       "name": "Arrow Rain",
@@ -153,7 +153,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -176,7 +176,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -199,7 +199,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -222,7 +222,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -245,7 +245,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

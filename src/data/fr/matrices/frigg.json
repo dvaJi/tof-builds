@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Augmente l'ATQ de givre de 8%/10%/12%/15% pendant 10 secondes lorsque vous passez d'une arme de givre à une autre. Cet effet fonctionne également avec les armes dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet."
+      "value": "Accroît l'ATQ de givre de 15%/18%/21%/25% pendant 10 secondes lorsque vous passez d'une arme de givre à une autre. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet."
     },
     {
       "count": 4,
-      "value": "Lorsque vous créez un domaine de givre avec l'arme \"Balmung\", les ennemis se trouvant dans ce domaine subissent des dégâts de givre équivalant à 55%/65%/75%/85% de l'ATQ toutes les secondes."
+      "value": "Lorsque vous déclenchez un domaine de givre avec l'arme \"Balmung\", les ennemis situés dans le domaine reçoivent des dégâts de givre correspondant à 60%/75%/90%/105% de l'ATQ chaque seconde."
     }
   ],
   "mind": {

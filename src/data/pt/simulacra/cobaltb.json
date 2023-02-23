@@ -7,7 +7,7 @@
   "birthday": "26 de junho (Câncer)",
   "birthplace": "Banges Tech",
   "gender": "Feminino",
-  "info": "A aparência faz acreditar que é uma cientista muito séria e que segue tudo à risca, mas na verdade quebra os estereótipos e é bem versátil.\nDificilmente demonstra expressões, como se não tivesse músculos faciais. Porém, depois de conhecê-la melhor, é fácil perceber que não é tão desligada assim e tem várias emoções e pensamentos. Chega até a inflar as bochechas quanto está com raiva.\nApesar de ser uma cientista de destaque no desenvolvimento cibernético, ela segue mais a intuição do que a lógica.\nConfia nos seus instintos para modificar máquinas, mas sempre faz questão de adicionar acessórios completamente inúteis só porque sim.",
+  "info": "Embora tenha uma aparência séria e solene, ela está mais para incomum e excêntrica.\nNão tem muita expressão facial, mas, uma vez que se conquista alguma intimidade, nota-se que é gentil e cheia de ideias e emoções. Pode até mesmo fazer cara feia quando está irritada.\nEla é mestre em engenharia mecânica, mas trabalha com sentimentos ao invés de teorias.\nEla afina suas criações com o seu \"sexto sentido\" e frequentemente acrescenta módulos completamente inúteis só porque deu na telha...",
   "description": "Cobalt-B (que não é seu nome verdadeiro) é uma engenheira mecânica que trabalha no departamento de desenvolvimento de armas da Banges Tech. Ela não tem um cargo muito alto na hierarquia porque não conseguiu notas boas nas provas.\nPorém, as pessoas que trabalham com ela sabem que é, na verdade, o trunfo de toda a equipe. Cobalt-B não dá importância a teorias básicas e cria armas extremamente eficazes com base na intuição.\nEla costuma ir para o campo de vez em quando com as forças de combate para testar as armas em pobres membros dos hienas e coletar dados de combate pessoalmente.",
   "like": "Maquinário, troca de ideias, rock artístico",
   "dislike": "Estudar, provas",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal para concentrar um disparo, então solte para disparar projéteis que causam dano de <b>95.4%</b> do ATQ + <b>5</b> mais uma explosão três segundos depois (ou se o alvo for abatido). Causa dano de <b>23.9%</b> do ATQ a alvos próximos. O dano aumenta e a área de efeito duplica cada vez que um alvo sofre dano antes da explosão (até <b>4</b> vezes)."
+      "description": "Segure o botão de ataque normal para concentrar um ataque, então solte para disparar projéteis que causam dano de <b>95.4%</b> do ATQ + <b>5</b> mais uma explosão três segundos depois (ou se o alvo for abatido). Causa dano de <b>23.9%</b> do ATQ a alvos próximos. O dano aumenta e a área de efeito duplica cada vez que um alvo sofre dano antes da explosão (até <b>4</b> vezes)."
     },
     {
       "name": "Explosão Elevada",
@@ -84,15 +84,15 @@
   },
   "weapon_resonance": {
     "name": "Ressonância ígnea",
-    "description": "<b>Ressonância ígnea</b>: Aumenta o ATQ ígneo em <b>15%</b> e a resistência ígnea em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas ígneas. Esse efeito de conjunto funciona com armas no espaço secundário e não se acumula repetidamente."
+    "description": "<b>Ressonância ígnea</b>: Aumenta o ATQ ígneo em <b>15%</b> e a resistência ígnea em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo."
   },
   "advancement": [
     "Cada saraivada de tiros de Barragem Incinerante causa dano adicional equivalente a <b>2%</b> da vida atual do alvo (até <b>180%</b> do ATQ).",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "A habilidade encadeada Bombardeio Intenso e o ataque esquivado Curta Distância infligem <span class=\"text-green\">queima iônica</span> a alvos que já estejam queimando, causando dano ígneo equivalente a <b>40%</b> do ATQ deles por segundo durante <b>10</b> segundos.",
+    "A habilidade encadeada Bombardeio Intenso e o ataque de esquiva Curta Distância infligem <span class=\"text-green\">queima iônica</span> a alvos que já estejam queimando, causando dano ígneo equivalente a <b>40%</b> do ATQ deles por segundo durante <b>10</b> segundos.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
     "O dano da <span class=\"text-green\">queima iônica</span> aumenta em até <b>60%</b> do ATQ. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma irão atualizar a duração da <span class=\"text-green\">queima iônica</span>.",
-    "<span class=\"text-green\">Barragem Incinerante</span> tem <b>15</b> segundos de efeito de queimadura. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma reduzem o tempo de recarga de <span class=\"text-green\">Barragem Incinerante</span> em <b>4</b> segundos. Tempo de recarga do efeito: <b>1.5</b> seg. O dano prolongado da habilidade de esquiva também desencadeia redução de tempo de recarga."
+    "<span class=\"text-green\">Barragem Incinerante</span> tem <b>15</b> segundos de efeito de queimadura. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma reduzem o tempo de recarga de <span class=\"text-green\">Barragem Incinerante</span> em <b>4</b> segundos. Tempo de recarga do efeito: <b>1,5</b> seg. O dano prolongado da habilidade de esquiva também desencadeia um efeito de redução de tempo de recarga."
   ],
   "traits": [
     {

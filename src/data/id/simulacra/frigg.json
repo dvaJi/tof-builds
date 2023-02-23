@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimbulkan DMG sebesar <b>168.3%</b> ATK + <b>9</b>."
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>168.3%</b> ATK + <b>9</b>."
     },
     {
       "name": "Soaring Slash",
@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Saat menggunakan Serangan Biasa, tahan Serangan Biasa untuk mengaktifkan Soaring Slash.\nTerjang maju dengan sabetan horizontal, lalu buat target terkena Suspend saat Mid-Air sebelum Airborne dengannya. Menimbulkan maksimum <b>134.3%</b> ATK + <b>7</b> damage."
+      "description": "Saat menggunakan Serangan Biasa, tahan Serangan Biasa untuk mengaktifkan Soaring Slash.\nTerjang maju dengan sabetan horizontal, lalu buat target terkena Suspend saat Mid-Air sebelum Airborne dengannya. Menimbulkan maksimal <b>134.3%</b> ATK + <b>7</b> damage."
     },
     {
       "name": "Helix Slash",
@@ -62,40 +62,40 @@
       "type": [
         "Skill"
       ],
-      "description": "Menebas area di sekitar Wanderer, dan menimbulkan DMG sebesar <b>577.5%</b> ATK + <b>30</b> sehingga mengakibatkan Launch dan Suspend kepada target dan memberikan DMG Immunity kepada pemain selama durasi skill ini. CD: <b>30</b> detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, Frost Domain yang luas akan terbentuk di sekitar Wanderer selama <b>25</b> detik. Upaya Dodge tidak akan berkurang saat kamu menghindar dengan Balmung dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain: Saat menggunakan Frost Weapon, Shatter akan meningkat sebesar <b>25%</b> dan Frost ATK akan meningkat sebesar <b>15%</b>."
+      "description": "Menebas area di sekitar Wanderer, dan menimbulkan DMG sebesar <b>577.5%</b> ATK + <b>30</b> sehingga mengakibatkan Launch dan Suspend kepada target dan memberikan DMG Immunity kepada pemain selama durasi skill ini. CD: <b>30</b> detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, Frost Domain yang luas akan terbentuk di sekitar Wanderer selama <b>25</b> detik. Dodge tidak akan berkurang saat kamu menghindar dengan Balmung dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain: Saat menggunakan Senjata Frost, Shatter akan meningkat sebesar <b>25%</b> dan Frost ATK akan meningkat sebesar <b>15%</b>."
     },
     {
       "name": "Frigid Fracture",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke depan, mengendalikan musuh di suatu area untuk sementara, kemudian melancarkan tebasan raksasa. Mengakibatkan Launch kepada target ke udara dan menimbulkan DMG sebesar <b>618.2%</b>ATK + <b>33</b>."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke depan, mengendalikan musuh di suatu area untuk sementara, kemudian melancarkan tebasan raksasa. Mengakibatkan Launch kepada target ke udara dan menimbulkan DMG sebesar <b>618.2%</b>ATK + <b>33</b>."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang <b>50%</b>."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Frost Resonance",
-    "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> senjata Frost atau lebih. Efek set ini berfungsi di slot off-hand. Tak bisa bertumpuk dengan efek dari tipe yang sama"
+    "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Frost atau lebih. Efek set ini berfungsi di slot sampingan. Tak bisa bertumpuk dengan efek dari tipe yang sama"
   },
   "advancement": [
     "Mendapatkan <b>1</b> poin Frostiness setiap kali kamu menimbulkan DMG sebesar <b>550%</b> x Frost ATK dalam Frost Domain. Frostiness bisa diakumulasikan maks <b>10</b> poin.\nSaat Frost Domain habis, Blast DMG sebesar poin Frostiness x Frost ATK x <b>95%</b> akan ditimbulkan kepada musuh yang ada di dalam Frost Domain. Setelah keluar dari Frost Domain, <b>1</b> poin Frostiness akan hilang setiap <b>3</b> detik.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
-    "Meningkatkan batas Frostiness menjadi <b>15</b>. Penggunaan Discharge Skill dengan Frost Weapon di dalam Frost Domain akan menimbulkan DMG sebesar <b>25%</b> Frost ATK x (Frostiness saat ini + 5) kepada semua target di Frost Domain.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
+    "Meningkatkan batas Frostiness menjadi <b>15</b>. Penggunaan Skill Discharge dengan Senjata Frost di dalam Frost Domain akan menimbulkan DMG sebesar <b>25%</b> Frost ATK x (Frostiness saat ini + 5) kepada semua target di Frost Domain.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
-    "Selama dalam Frost Domain, saat menghancurkan Shield target menggunakan senjata Frost, target akan membeku selama <b>2</b> dtk dan menerima DMG tambahan sesuai dengan Frostiness x <b>35%</b> x Frost ATK. Jika target tak bisa dibekukan, DMG tambahan yang ditimpakan menjadi dua kali lipat.",
-    "Saat Frostiness mencapai <b>15</b> poin dan kamu berada dalam Frost Domain, kamu akan mendapatkan tambahan \"Domain of Frost II\" yang akan meningkatkan Frost ATK sebesar <b>25%</b> saat Frost Weapon digunakan."
+    "Selama dalam Frost Domain, saat menghancurkan Perisai target menggunakan Senjata Frost, target akan membeku selama <b>2</b> detik dan menerima DMG tambahan sesuai dengan Frostiness x <b>35%</b> Frost ATK. Jika target tak bisa dibekukan, DMG tambahan yang ditimpakan menjadi dua kali lipat.",
+    "Saat Frostiness mencapai <b>15</b> poin dan kamu berada dalam Frost Domain, kamu juga akan mendapatkan Domain of Frost II: Meningkatkan Frost ATK sebesar <b>25%</b> saat Senjata Frost digunakan."
   ],
   "traits": [
     {
       "name": "Freeze",
-      "description": "Saat memasuki pertempuran, mendapatkan tambahan <b>1,5%</b> Frost ATK setiap <b>3</b> detik hingga maks <b>10</b> tumpuk selama <b>5</b> detik."
+      "description": "Saat memasuki pertempuran, mendapatkan tambahan <b>1,5%</b> Frost ATK selama <b>5</b> detik setiap <b>3</b> detik. Maks <b>10</b> tumpuk."
     },
     {
       "name": "Icebound",
-      "description": "Saat memasuki pertempuran, mendapatkan tambahan <b>2,4%</b> Frost ATK setiap <b>3</b> detik hingga maks <b>10</b> tumpuk selama <b>5</b> detik, serta mendapatkan Hyperbody dan kebal terhadap efek kontrol selama ada di dalam Frost Domain."
+      "description": "Saat memasuki pertempuran, mendapatkan tambahan <b>2,4%</b> Frost ATK selama <b>5</b> detik setiap <b>3</b> detik hingga maks <b>10</b> tumpuk, serta mendapatkan Hyperbody dan kebal terhadap efek kontrol selama ada di dalam Frost Domain."
     }
   ],
   "ascension": [

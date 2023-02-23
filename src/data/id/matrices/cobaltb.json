@@ -8,20 +8,20 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan DMG pada target yang terkena Debuff sebesar 14%/16%/18%/20%."
+      "value": "Memulihkan 1 upaya Dodge untuk setiap 4 Dodge. Serangan Dodge akan mengakibatkan Burn pada target, menimpakan DMG sebesar {0}%/{1}%/{2}%/{3}% ATK setiap detik selama {4} detik."
     },
     {
       "count": 4,
-      "value": "Memulihkan 1 upaya Dodge untuk setiap 3 Dodge. Dodge Skill mengakibatkan Burn saat serangan mengenai target, menimpakan DMG sebesaar 24%/30%/36%/42% ATK setiap 0,5 detik selama 4 detik."
+      "value": "Meningkatkan DMG terhadap target yang kena Debuff sebesar {0}%/{1}%/{2}%/{3}%."
     }
   ],
   "mind": {
     "name": "Sixth Sense",
-    "desc": "Rasanya seperti pengamatan statis paksa dari pesawat lain."
+    "desc": "Sama tajamnya dengan pengamatan statis yang difokuskan pada berbagai bidang, ditambah sedikit keberuntungan."
   },
   "memory": {
     "name": "Starting Capital",
-    "desc": "Dua jaminan yang tak pernah ditagih bahkan setelah utangnya dilunasi."
+    "desc": "Dua unit jaminan yang tidak diambil kembali meskipun utangnya sudah lunas ini sepertinya ditinggalkan sebagai kenang-kenangan tanda kemurahan hati... atau mungkin karena pemiliknya lupa."
   },
   "belief": {
     "name": "Master Artist",

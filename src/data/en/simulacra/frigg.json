@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>64.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>72.6%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>76.7%</b> of ATK + <b>4</b>.\nFourth Attack: Deal damage equal to <b>107.9%</b> of ATK + <b>6</b>.\nFifth Attack: Deal damage equal to <b>168.3%</b> of ATK + <b>9</b>."
+      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>64.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>72.6%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>76.7%</b> of ATK + <b>4</b>.\nFourth Attack: Deal damage equal to <b>107.9%</b> of ATK + <b>6</b>.\nFifth Attack: Deal damage equal to <b>168.3%</b> of ATK + <b>9</b>."
     },
     {
       "name": "Soaring Slash",
@@ -86,7 +86,7 @@
     "Increase frostiness limit to <b>15</b>. When using discharge skills of frost weapons in the Frost Domain, deal damage equal to <b>25%</b> of frost ATK x (current frostiness + 5) to all the targets in the Frost Domain.",
     "Increase the current weapon's base ATK growth by <b>32%</b>.",
     "When shattering a shield with a frost weapon in the Frost Domain, freeze the target for <b>2</b> seconds and deal additional damage equal to frostiness x <b>35%</b> of frost ATK. If the target cannot be frozen, the additional damage dealt is doubled.",
-    "When frostiness reaches <b>15</b> points and you are in the Frost Domain, you will get an additional \"Domain of Frost II\" that increases frost ATK by <b>25%</b> when frost weapons are used."
+    "When frostiness reaches <b>15</b> points and you are in the Frost Domain, you will additionally gain Domain of Frost II: Increase frost ATK by <b>25%</b> when frost weapons are used."
   ],
   "traits": [
     {
@@ -156,7 +156,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -179,7 +179,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -202,7 +202,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -225,7 +225,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -248,7 +248,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -271,7 +271,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Booster frame II",
+        "name": "Booster Frame II",
         "rarity": "SSR",
         "amount": 5
       }

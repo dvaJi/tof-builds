@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta o dano em 1% de maneira progressiva ao acertar um alvo. Acumula até 10/13/16/20 vezes. Dura 1,5 segundo."
+      "value": "Causa 1,5% mais dano ao atingir um alvo a cada vez, acumulando até 10/13/16/20 vezes. Tempo de acúmulo do efeito positivo: 2 seg."
     },
     {
       "count": 4,
-      "value": "Aumenta o dano da explosão elétrica das Estrelas Eletromagnéticas em 16%/22%/30%/40% do ATQ."
+      "value": "Cada ataque em alvos travados causa dano adicional igual a 10%/12,5%/15%/17,5% do ATQ."
     }
   ],
   "mind": {

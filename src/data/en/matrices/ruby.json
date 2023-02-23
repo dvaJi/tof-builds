@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increases flame ATK after casting weapon skill by 8%/10%/12%/15% for 25 seconds. Triggers after a different star rating takes effect. This effect does not stack."
+      "value": "Increases flame ATK after casting weapon skill by 8%/10%/12%/15% for 25 seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack."
     },
     {
       "count": 4,

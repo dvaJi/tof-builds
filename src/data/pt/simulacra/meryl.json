@@ -7,8 +7,8 @@
   "birthday": "10 de outubro (Libra)",
   "birthplace": "Hykros",
   "gender": "Feminino",
-  "info": "Desinteressada, distante e associal. Pouquíssimas coisas são capazes de provocar uma reação na Meryl. Ela não demonstra emoções, não por ser insensível, mas sim por relutar em se aproximar de qualquer outra pessoa.",
-  "description": "Uma Executora de alto escalão da Hykros cujas idade e naturalidade são desconhecidas. De acordo com as informações disponíveis, Meryl se destacava em missões de nível S, com técnica com a espada e habilidades em combate excepcionais. Em poucos anos ela passou de simples administradora a Executora sênior.\nEla mantém uma atitude indiferente em relação a tudo, e ninguém sabe o que se passa realmente na cabeça dela. Essa frieza aliada à abordagem impiedosa ao enfrentar inimigos garante que todos mantenham distância.\nO banco de dados dos Executores mostra que Meryl tem um irmão gêmeo com quem é unida, mas não há informações formais deste irmão em lugar nenhum.",
+  "info": "Fria, distante e indiferente. Ela não demonstra emoções. Não é que seja insensível: apenas se recusa a criar laços com os outros.",
+  "description": "Uma Executora sênior da Hykros sem registro de nascimento ou idade. De acordo com as informações disponíveis, Meryl se destacava em missões de nível S, com a sua técnica com a espada e suas habilidades em combate, o que fez com que ela passasse de simples oficial a Executora sênior em poucos anos.\nEla mantém uma atitude indiferente em relação a tudo, e ninguém sabe o que se passa realmente na cabeça dela. O fala de piedade para com os inimigos não ajuda, de forma que as pessoas mantêm certa distância dela sempre que possível.\nO banco de dados de Executores mostra que Meryl possui um irmão gêmeo de quem é próxima, mas não há registros dele em parte alguma.",
   "like": "Dias de neve, cristais",
   "dislike": "Botânica",
   "element": "Ice",
@@ -116,7 +116,7 @@
     {
       "name": "Congelado",
       "icon": true,
-      "description": "Reduz em <b>25%</b> o dano gélido causado em Meryl, ganha imunidade à geladura e reduz a duração do congelamento em <b>50%</b>. O ar em torno de Meryl esfria e congela a água ao seu redor."
+      "description": "Reduz em <b>25%</b> o dano gélido sofrido por Meryl, dá imunidade a geladura e reduz a duração do congelamento em <b>50%</b>. O ar em torno de Meryl esfria e congela a água ao seu redor."
     }
   ],
   "ascension": [

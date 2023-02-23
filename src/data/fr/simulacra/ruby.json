@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour ordonner à Étincelle d'attaquer 5 fois de suite.\nPremière attaque : inflige un total de dégâts équivalant à <b>84.6%</b> de l'ATQ + <b>4</b> à toutes les cibles.\nDeuxième attaque : inflige un total de dégâts équivalant à <b>93%</b> de l'ATQ + <b>5</b> à toutes les cibles.\nTroisième attaque : inflige un total de dégâts équivalant à <b>101.5%</b> de l'ATQ + <b>5</b> à toutes les cibles.\nQuatrième attaque : inflige un total de dégâts équivalant à <b>109.9%</b> de l'ATQ + <b>6</b> à toutes les cibles.\nCinquième attaque : inflige un total de dégâts équivalant à <b>253.7%</b> de l'ATQ + <b>13</b> à toutes les cibles, et les <b>projette</b>."
+      "description": "Au sol, appuyez sur le bouton d'attaque normale pour ordonner à Étincelle d'attaquer 5 fois de suite. La première attaque inflige des dégâts totaux correspondant à <b>84.6%</b> de l'ATQ + <b>4</b> à chaque cible.\nLa deuxième attaque inflige des dégâts totaux correspondant à <b>93%</b> de l'ATQ + <b>5</b> à chaque cible.\nLa troisième attaque inflige des dégâts totaux correspondant à <b>101.5%</b> de l'ATQ + <b>5</b> à chaque cible.\nLa quatrième attaque inflige des dégâts totaux correspondant à <b>109.9%</b> de l'ATQ + <b>6</b> à chaque cible.\nLa cinquième attaque inflige des dégâts totaux correspondant à <b>253.7%</b> de l'ATQ + <b>13</b> à chaque cible et <b>projette</b> les cibles."
     },
     {
       "name": "Décharge aérienne",
@@ -31,14 +31,14 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs, appuyez sur Attaque normale pour ordonner à Étincelle d'attaquer 4 fois de suite.\nPremière attaque : inflige un total de dégâts équivalant à <b>97.1%</b> de l'ATQ + <b>5</b> à toutes les cibles.\nDeuxième attaque : inflige un total de dégâts équivalant à <b>106.8%</b> de l'ATQ + <b>6</b> à toutes les cibles.\nTroisième attaque : inflige un total de dégâts équivalant à <b>121.3%</b> de l'ATQ + <b>6</b> à toutes les cibles.\nQuatrième attaque : inflige un total de dégâts équivalant à <b>145.6%</b> de l'ATQ + <b>8</b> à toutes les cibles."
+      "description": "Dans les airs, appuyez sur le bouton d'attaque normale pour ordonner à Étincelle d'attaquer 4 fois de suite.\nLa première attaque inflige des dégâts totaux correspondant à <b>97.1%</b> de l'ATQ + <b>5</b> à chaque cible.\nLa deuxième attaque inflige des dégâts totaux correspondant à <b>106.8%</b> de l'ATQ + <b>6</b> à chaque cible.\nLa troisième attaque inflige des dégâts totaux correspondant à <b>121.3%</b> de l'ATQ + <b>6</b> à chaque cible.\nLa quatrième attaque inflige des dégâts totaux correspondants à <b>145.6%</b> de l'ATQ + <b>8</b> à chaque cible."
     },
     {
       "name": "Tu es à moi !",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Maintenez Attaque normale ou faites ceci après le déclenchement de Zone de confinement pour tirer des rayons d'énergie ardente en continu vers vos ennemis dans la direction visée, ce qui inflige des dégâts équivalant à <b>40%</b> de l'ATQ + <b>2</b> . Consomme l'endurance de l'Explorateur."
+      "description": "Maintenez Attaque normale ou faites ceci après le déclenchement de Zone d'isolement pour tirer des rayons d'énergie en continu vers vos ennemis dans la direction choisie, ce qui inflige des dégâts équivalant à <b>40%</b> de l'ATQ + <b>2</b>. Consomme l'endurance de l'Explorateur."
     },
     {
       "name": "Plongeon ardent",
@@ -62,14 +62,14 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Lance Dolly après une esquive. Dolly reste pendant <b>10</b> secondes, attire les ennemis proches et leur inflige des dégâts égaux à <b>\\84.6%</b> de l'ATQ + <b>4</b>, et les provoque pendant <b>1,5</b> seconde (ne peut pas provoquer les ennemis en équipe) afin de détourner leurs attaques vers Dolly."
+      "description": "Lance Dolly après une esquive. Dolly reste pendant <b>10</b> secondes, attire les ennemis proches et leur inflige des dégâts équivalant à <b>84.6%</b> de l'ATQ + <b>4</b>, et les provoque pendant <b>1,5</b> seconde (ne peut pas provoquer les ennemis en équipe) afin de détourner leurs attaques vers Dolly."
     },
     {
       "name": "Collisionneur d'étincelles",
       "type": [
         "Skill"
       ],
-      "description": "Étincelle lance des étincelles qui rebondissent entre les cibles et l'Explorateur pendant 15 secondes. Lorsqu'elles touchent une cible, les étincelles la ralentissent pendant <b>4</b> secondes avec un temps de recharge de <b>15</b> secondes. Plus les étincelles mettent de temps à atteindre leur cible, plus elles infligent de dégâts. À l'impact, elles infligent des dégâts équivalant à <b>350%</b> de l'ATQ + <b>37</b> et appliquent une marque d'Inflammation sur la cible qui persiste pendant <b>25</b> secondes. Au même moment, Étincelle tire 4 balles en direction de sa cible. Chacune de ces balles inflige des dégâts équivalant à <b>50%</b> de l'ATQ + <b>3</b>. Les attaques normales d'Étincelle infligent <b>110%</b> de dégâts supplémentaires aux cibles marquées par Inflammation. Quand les étincelles touchent une cible autocombustible, celle-ci brûle ou s'embrase, ce qui lui inflige des dégâts supplémentaires équivalant à <b>100%</b> du total de dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du calcul du résultat est de <b>6</b> secondes et le temps de recharge de la compétence est de <b>30</b> secondes.\n<b>Effet passif</b> : pendant toute la durée des étincelles, chaque fois que des dégâts sont infligés par les attaques d'Étincelle, l'Explorateur gagne <b>1</b> point de Chaleur (à intervalle de <b>0,9</b> seconde) jusqu'à un plafond de <b>8</b> points. Lorsque ce plafond est atteint, l'Explorateur reçoit l'effet Chaleur ultime qui augmente son ATQ de feu de <b>25%</b> pendant <b>25</b> secondes."
+      "description": "Étincelle lance l'attaque Étincelles, qui dure 15 secondes et rebondit entre les cibles et l'Explorateur. Lorsqu'elles touchent une cible, les étincelles la ralentissent pendant <b>4</b> secondes avec un temps de recharge de <b>15</b> secondes. Plus les étincelles mettent de temps à atteindre leur cible, plus elles infligent de dégâts. À l'impact, elles infligent des dégâts équivalant à <b>350%</b> de l'ATQ + <b>37</b> et appliquent une marque d'Inflammation sur la cible qui persiste pendant <b>25</b> secondes. Au même moment, Étincelle tire 4 balles en direction de sa cible. Chacune de ces balles inflige des dégâts équivalant à <b>50%</b> de l'ATQ + <b>3</b>. Les attaques normales d'Étincelle infligent <b>110%</b> de dégâts supplémentaires aux cibles marquées par Inflammation. Lorsque les étincelles atteignent des cibles brûlées par l'Explorateur, elles brûlent ou embrasent la cible une fois, ce qui inflige des dégâts supplémentaires équivalant à <b>100%</b> du total de dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du calcul du résultat est de <b>6</b> secondes. Le temps de recharge de la compétence est de <b>30</b> secondes.\n<b>Effet passif</b> : pendant toute la durée d'Étincelles, chaque fois que des dégâts sont infligés par Attaque d'étincelles, l'Explorateur gagne <b>1</b> point de Chaleur (à intervalle de <b>0,9</b> seconde) jusqu'à un plafond de <b>8</b> points. Lorsque ce plafond est atteint, l'Explorateur reçoit l'effet Chaleur ultime qui augmente son ATQ de feu de <b>10%</b> pendant <b>25</b> secondes."
     },
     {
       "name": "Supernova",
@@ -85,24 +85,24 @@
   },
   "weapon_resonance": {
     "name": "Résonance de feu",
-    "description": "Augmente l'ATQ de feu de <b>20%</b> et la résistance au feu de <b>40%</b>. S'active en équipant <b>2</b> ou plus d'armes de feu. Cet effet fonctionne également avec les armes dans l'emplacement main libre."
+    "description": "Augmente l'ATQ de feu de <b>20%</b> et la résistance au feu de <b>40%</b>. S'active en équipant au moins 2 armes de feu. Cet effet fonctionne également avec les armes dans l'emplacement main libre."
   },
   "advancement": [
     "Inflammation augmente les dégâts d'Attaque d'étincelles jusqu'à <b>80%</b>. Le temps de recharge de la compétence diminue pour atteindre <b>24</b> secondes.",
     "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
-    "Inflammation accroît le bonus de flammes de<b>8%</b>, ce qui augmente le multiplicateur de dégâts de brûlure de <b>75%</b>.",
+    "Inflammation accroît le bonus de flammes de <b>8%</b> et le multiplicateur de brûlure de <b>150%</b>.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Régénère <b>75</b> points supplémentaires de la recharge d'arme chaque fois qu'Attaque d'étincelles frappe un ennemi. Temps de recharge : 0,9 seconde. Fracture augmente de <b>25%</b> lorsque Chaleur ultime est active.",
-    "Inflammation augmente les dégâts d'Attaque d'étincelles jusqu'à <b>160%</b>. L'efficacité d'Acquisition de chaleur double. Le temps de recharge de la compétence diminue pour atteindre <b>16</b> secondes."
+    "Inflammation augmente les dégâts d'Attaque d'étincelles jusqu'à <b>160%</b> et double l'efficacité d'Acquisition de chaleur. Le temps de recharge de la compétence diminue pour atteindre <b>16</b> secondes."
   ],
   "traits": [
     {
       "name": "Attrape-rêves",
-      "description": "Accroît les dégâts de feu subis par tous les ennemis situés dans un rayon de <b>5</b> mètres autour de Dolly de <b>8%</b>. Non cumulable."
+      "description": "Accroît les dégâts de feu subis par tous les ennemis situés dans un rayon de <b>5</b> mètres autour de Dolly de <b>8%</b>. Effet non cumulable."
     },
     {
       "name": "Domaine de Dolly",
-      "description": "Accroît les dégâts de feu reçus par tous les ennemis situés dans un rayon de 5 mètres autour de Dolly de <b>8%</b>. Non cumulable. Après avoir projeté Dolly, accroît l'ATQ de feu de <b>12%</b> pendant <b>10</b> secondes. Non cumulable."
+      "description": "Accroît les dégâts de feu reçus par tous les ennemis situés dans un rayon de 5 mètres autour de Dolly de <b>8%</b>. Effet non cumulable. Après avoir projeté Dolly, accroît l'ATQ de feu de <b>12%</b> pendant <b>10</b> secondes. Effet non cumulable."
     }
   ],
   "ascension": [
@@ -163,7 +163,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 3
       }
@@ -186,7 +186,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 4
       }
@@ -209,7 +209,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 6
       }
@@ -232,7 +232,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 8
       }
@@ -255,7 +255,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 11
       }
@@ -278,7 +278,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Cadre en nanofibres II",
+        "name": "Cadre en nanofibres II",
         "rarity": "SSR",
         "amount": 5
       }

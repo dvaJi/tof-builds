@@ -8,7 +8,7 @@
   "birthplace": "Victoria Security",
   "gender": "Female",
   "info": "She looks lazy and unmotivated when there's nothing to do, but becomes extremely excited and competitive in battle.\nShe's extremely proud of her robotic body, which is agile, powerful, and does not age. She's also stubborn and pushes herself to the limit, unwilling to go down before those with bodies made of flesh.\nMentally, however, she's still a child and reveals her fragile side when she's with her father.",
-  "description": "During the Old Federation, Victoria, a private military contractor, once planned a series of combat droids, and Ene was the first prototype of the project.\nThe objective was to create a perfect droid with its own identity and the capability to think, feel, and calculate the next action. The owner that gave the green light on this project uploaded his late daughter's backup consciousness to Ene as the droid's \"soul.\"\nEventually, Ene earned the right to be a human as the daughter of the owner.",
+  "description": "During the Old Federation era, the private military contractor Victoria had planned to develop a series of elite battle droids. Ene was the prototype produced by the program.\nThe initial design aim was to make the perfect droid: self-aware, independent, and able to think, feel and act just like a human. The executive who approved the program uploaded a backup of his deceased daughter's consciousness into Ene as her \"soul.\"\nEne was later granted her rights as a human, as the daughter of the Victoria executive.",
   "like": "Being with her father, humans who are stronger than her",
   "dislike": "Fully comprehending the frailty of life",
   "element": "Ice",
@@ -168,7 +168,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 2
       }

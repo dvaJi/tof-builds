@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Após executar o segundo ataque normal no chão ou no ar, segure o botão de ataque normal para usar Solo Semeado.\nAtaca a área-alvo, causando dano de <b>83.2%</b> do ATQ + <b>4</b> e derrubando o alvo.\nPassiva: Logo após usar Solo Semeado no chão, usar o botão de ataque normal desencadeia Floração Sintética imediatamente (o 3.º acúmulo)."
+      "description": "Após executar o segundo ataque normal no chão ou no ar, segure o ataque normal para usar Solo Semeado.\nAtaca a área-alvo, causando dano de <b>83.2%</b> do ATQ + <b>4</b> e derrubando o alvo.\nPassiva: Logo após usar Solo Semeado no chão, usar o botão de ataque normal desencadeia Floração Sintética imediatamente (o 3.º acúmulo)."
     },
     {
       "name": "Floração Sintética",
@@ -46,7 +46,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal para usar Floração Sintética. Pode ser carregado até 3 acúmulos, e você ganha corpo de aço e imunidade a efeitos de controle enquanto carrega.\nPrimeiro acúmulo: Causa dano de <b>73.9%</b> do ATQ + <b>4</b>.\nSegundo acúmulo: Causa dano de <b>146.8%</b> do ATQ + <b>246.4</b>.\nTerceiro acúmulo: Causa dano de <b>13%</b> do ATQ + <b>{5}</b>."
+      "description": "Segure o ataque normal para usar Floração Sintética. Pode ser carregado até 3 acúmulos, e você ganha corpo de aço e imunidade a controle enquanto carrega.\nPrimeiro acúmulo: Causa dano de <b>73.9%</b> do ATQ + <b>4</b>.\nSegundo acúmulo: Causa dano de <b>146.8%</b> do ATQ + <b>246.4</b>.\nTerceiro acúmulo: Causa dano de <b>13%</b> do ATQ + <b>{5}</b>."
     },
     {
       "name": "Sombra Cadente",
@@ -54,7 +54,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal no ar para usar Sombra Cadente.\nMergulha dos ares, causa dano de <b>160%</b> do ATQ + <b>8</b> e derruba o alvo."
+      "description": "Segure o ataque normal no ar para usar Sombra Cadente.\nMergulha dos ares, causa dano de <b>160%</b> do ATQ + <b>8</b> e derruba o alvo."
     },
     {
       "name": "Esquiva",
@@ -69,21 +69,21 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Desencadeia Verde Frondoso contra o alvo enquanto dá um mortal para trás. Causa dano de <b>70%</b> do ATQ + <b>4</b>, gerando <b>1 a 3</b> damas-da-noite ao atingir e formando um campo verde que dura <b>5</b> segundos. Quando os inimigos no campo verde têm você como alvo, a velocidade de movimento deles é reduzida em <b>50%</b>.\nPassiva: Pode ser usado no chão ou no ar.\nPassiva: Dissipa efeitos de controle (caso haja) imediatamente e usa Verde Frondoso automaticamente sem consumir tentativa de esquiva. Tempo de recarga da habilidade: <b>20</b> seg."
+      "description": "Desencadeia Verde Frondoso contra o alvo enquanto dá um mortal para trás. Causa dano de <b>70%</b> do ATQ + <b>4</b>, gerando <b>1 a 3</b> damas-da-noite ao atingir e formando um campo verde que dura <b>5</b> segundos. Quando os inimigos no campo verde têm você como alvo, a velocidade de movimento deles é reduzida em <b>50%</b>.\nPassiva: Pode ser usado no chão ou no ar.\nPassiva: Dissipa efeitos de controle (caso haja) imediatamente e usa Verde Frondoso automaticamente sem consumir tentativas de esquiva. Tempo de recarga da habilidade: <b>20</b> seg."
     },
     {
       "name": "Flow agitado: Corrente transitória",
       "type": [
         "Skill"
       ],
-      "description": "Cria um Reino do Luar ao redor de si durante <b>15</b> segundos. O dano causado por você no Reino aumenta em <b>10%</b>, a altura do salto aumenta em <b>20%</b>, e o consumo de vigor diminui em <b>50%</b>. Tempo de recarga: <b>30</b> seg.\nEntra no estado especial de Florear ao usar a Malhasombria no Reino do Luar. A sua velocidade de queda diminui drasticamente, e você pode dar vários saltos duplos. Nesse estado, usar os controles direcionais ou o botão de pular enquanto estiver no ar fará você se teletransportar e desferir um ataque contra o alvo. Causa dano de <b>66%</b> do ATQ + <b>3</b> e gera aleatoriamente <b>1 a 3</b> damas-da-noite.\n\nPassiva: No Reino do Luar, até <b>1</b> dama-da-noite será gerada perto de 1 alvo a cada <b>0,8</b> segundo.\nPassiva: Ao usar a Malhasombria no Reino do Luar, inimigos com vida inferior a <b>20%</b> sofrem <b>50%</b> a mais de dano.\nPassiva: Ao usar a Malhasombria no Reino do Luar, golpes sofridos serão detectados antecipadamente, e você vai se teletransportar para uma posição-alvo. Tempo de recarga: <b>10</b> seg.\n\nPassiva: Mestre das armas\nFogo: Quando Malhasombria está equipada com 2 armas ígneas, o Reino do Luar se converte em Fogo: Reino do Luar, que dura <b>4</b> segundos a mais e queima alvos. Alvos com escudo sofrem <b>15%</b> a mais de dano ígneo.\n\nRaio: Quando Malhasombria está equipada com 2 armas elétricas, o Reino do Luar se converte em Raio: Reino do Luar, que possui <b>65%</b> de chance de não consumir tentativa de esquiva ao se esquivar e <b>35%</b> de chance de se esquivar de dano de ataque. Quando a ressonância elétrica está ativa, o dano elétrico aumenta em mais <b>30%</b>.\n\nGelo: Quando Malhasombria está equipada com 2 armas gélidas, o Reino do Luar se converte em Gelo: Reino do Luar. Os alvos dentro do Reino vão sofrer geladura durante <b>15</b> segundos ao sofrerem dano gélido <b>10</b> vezes, e o dano gélido causado a eles será <b>22%</b> maior nesse período. O número de ataques não se acumula quando um alvo já estiver sofrendo de geladura.\n\nFísico: Quando Malhasombria está equipada com 2 armas físicas, o Reino do Luar se converte em Físico: Reino do Luar. Quando você tem um escudo de vida, causa dano de <b>50%</b> do ATQ + <b>3</b> por segundo aos alvos ao alcance.\n\nEquilíbrio: Quando Malhasombria está equipada com duas armas de elementos diferentes (dentre fogo, raio, gelo e físico), o seu ATQ aumenta em <b>15%</b> dentro do Reino do Luar, e considera-se que as ressonâncias ígnea, elétrica, gélida e física foram ativadas sem efeitos de ressonância."
+      "description": "Cria um Reino do Luar ao redor de si durante <b>15</b> segundos. O dano causado por você no Reino aumenta em <b>10%</b>, a altura do salto aumenta em <b>20%</b>, e o consumo de vigor diminui em <b>50%</b>. Tempo de recarga: <b>30</b> seg.\nEntra no estado especial de Florear ao usar a Malhasombria no Reino do Luar. A sua velocidade de queda diminui drasticamente, e você pode dar vários saltos duplos. Nesse estado, usar os controles direcionais e o botão de pular enquanto estiver no ar fará você se teletransportar e desferir um ataque contra o alvo. Causa dano de <b>66%</b> do ATQ + <b>3</b> e gera aleatoriamente <b>1 a 3</b> damas-da-noite.\n\nPassiva: No Reino do Luar, até <b>1</b> dama-da-noite será gerada perto de 1 alvo a cada <b>0,8</b> segundo.\nPassiva: Ao usar a Malhasombria no Reino do Luar, inimigos com vida inferior a <b>20%</b> sofrem <b>50%</b> a mais de dano.\nPassiva: Ao usar a Malhasombria no Reino do Luar, golpes sofridos serão detectados antecipadamente, e você vai se teletransportar para longe da posição do alvo. Tempo de recarga: <b>10</b> seg.\n\nPassiva: Mestre das armas\nFogo: Quando Malhasombria está equipada com 2 armas ígneas, o Reino do Luar se converte em Fogo: Reino do Luar, que dura <b>4</b> segundos a mais e queima alvos. Alvos com escudo sofrem <b>15%</b> a mais de dano ígneo.\n\nRaio: Quando Malhasombria está equipada com 2 armas elétricas, o Reino do Luar se converte em Raio: Reino do Luar, que possui <b>65%</b> de chance de não consumir tentativa de esquiva ao se esquivar e <b>35%</b> de chance de se esquivar de dano de ataque. Quando a ressonância elétrica está ativa, o dano elétrico aumenta em mais <b>30%</b>.\n\nGelo: Quando Malhasombria está equipada com 2 armas gélidas, o Reino do Luar se converte em Gelo: Reino do Luar. Os alvos dentro do Reino vão sofrer geladura durante <b>15</b> segundos ao sofrerem dano gélido <b>10</b> vezes, e o dano gélido causado a eles será <b>22%</b> maior nesse período. O número de ataques não se acumula quando um alvo já estiver sofrendo de geladura.\n\nFísico: Quando Malhasombria está equipada com 2 armas físicas, o Reino do Luar se converte em Físico: Reino do Luar. Quando você tem um escudo de vida, causa dano de <b>50%</b> do ATQ + <b>3</b> por segundo aos alvos ao alcance.\n\nEquilíbrio: Quando Malhasombria está equipada com duas armas de elementos diferentes (dentre fogo, raio, gelo e físico), o seu ATQ aumenta em <b>15%</b> dentro do Reino do Luar, e considera-se que as ressonâncias ígnea, elétrica, gélida e física foram ativadas sem efeitos de ressonância."
     },
     {
       "name": "Tecelão Gravitacional",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e libera Tecelão Gravitacional com uma força de absorção mais potente ao trocar para esta arma, que causa dano de <b>368.5%</b> do ATQ + <b>19</b>. Depois, explode e cria uma onda de difusão em área em <b>5</b> segundos, que causa dano de <b>184.3%</b> do ATQ + <b>10</b>. A imunidade a dano dura <b>2,6</b> segundos quando a habilidade estiver ativa (indisponível na Liga do Apogeu)."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e libera Tecelão Gravitacional com uma força de absorção mais potente ao trocar para esta arma, que causa dano de <b>368.5%</b> do ATQ + <b>19</b>. Depois, explode e cria uma onda de difusão em área em <b>5</b> segundos, que causa dano de <b>184.3%</b> do ATQ + <b>10</b>. A imunidade a dano dura <b>2,6</b> segundos enquanto a habilidade estiver ativa (indisponível na Liga do Apogeu)."
     }
   ],
   "weapon_type": {
@@ -91,16 +91,16 @@
     "description": "Com carga completa, o ataque seguinte da arma marca o alvo, provocando uma explosão após <b>5</b> segundos. Além disso, causa <b>25%</b> de todo o dano sofrido pelo alvo durante a marca, limitado a <b>560%</b> do seu ATQ. Apenas uma marca pode ser adicionada a um alvo por vez."
   },
   "weapon_resonance": {
-    "name": "Núcleo de fusão de Malhasombria",
+    "name": "",
     "description": "Combinar a Malhasombria com outras armas cria o efeito <b>mestre das armas</b>.\nDamas-da-noite aparecem aleatoriamente ao redor do alvo e explodem dentro de <b>1 a 3</b> segundos, causando <b>60%</b> de dano em área."
   },
   "advancement": [
-    "O ataque normal causa dano em área.\nQuando há outra dama-da-noite na área da explosão, o dano de cada dama-da-noite subsequente aumenta em <b>10%</b>, limitado a um total de <b>50%</b>.\nO intervalo em que <b>Reino do Luar</b> gera damas-da-noite diminui para <b>0,5</b> segundo.",
+    "Ataques normais agora causam dano em área ao atingir um inimigo.\nQuando há outra dama-da-noite na área da explosão, o dano de cada dama-da-noite subsequente aumenta em <b>{0}%</b>, limitado a <b>{1}%</b>.\nO intervalo em que <b>Reino do Luar</b> gera damas-da-noite diminui para <b>0,5</b> segundo.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "O intervalo em que <b>Reino do Luar</b> gera damas-da-noite diminui para <b>0,3</b> segundo.\nA dama-da-noite vai se prender ao inimigo.\nA duração do <b>Reino do Luar</b> aumenta para <b>20</b> segundos.",
+    "O intervalo em que <b>Reino do Luar</b> gera damas-da-noite diminui para <b>0,3</b> segundo.\nAs damas-da-noite vão se prender ao inimigo.\nA duração do <b>Reino do Luar</b> aumenta para <b>20</b> segundos.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
-    "Sob o efeito do <b>Reino do Luar</b>, ganha <b>30</b> pontos de carga de arma por segundo e aumenta o dano causado por habilidades de descarga em <b>15%</b>.",
-    "Troque de modo no <b>Reino do Luar</b> até <b>2</b> vezes. Ganha <b>1</b> tentativa quando o tempo de recarga de habilidade termina e mais <b>1</b> tentativa por carregar a descarga.\nUsar a descarga de qualquer arma <b>3</b> vezes confere <b>+1</b> tentativa no <b>Reino do Luar</b>. Surte efeito mesmo quando Malhasombria estiver no espaço secundário.\nSob o efeito do <b>Reino do Luar</b>, aumenta o dano em <b>15%</b>."
+    "Sob o efeito do <b>Reino do Luar</b>, ganha <b>30</b> cargas de arma por segundo e aumenta o dano causado por habilidades de descarga em <b>{0}%</b>.",
+    "Troque de modo no <b>Reino do Luar</b> até <b>2</b> vezes. Ganha <b>1</b> tentativa quando o tempo de recarga de habilidade termina e mais <b>1</b> tentativa por carregar a descarga.\nUsar a descarga de qualquer arma <b>3</b> vezes confere <b>+1</b> tentativa no <b>Reino do Luar</b>. Surte efeito mesmo quando Malhasombria estiver no espaço secundário.\nSob o efeito do <b>Reino do Luar</b>, aumenta o dano em <b>{0}%</b>."
   ],
   "traits": [
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "Glamour da Dama-da-Noite",
-      "description": "Aumenta o dano de explosão da dama-da-noite em <b>20%</b>. Reduz todas as resistências dos alvos atingidos pelas damas-da-noite em <b>7%</b> e dura <b>7</b> segundos. Não acumula."
+      "description": "Aumenta o dano de explosão da dama-da-noite em <b>20%</b>. Reduz todas as resistências dos alvos atingidos pelas damas-da-noite em <b>7%</b> por <b>7</b> segundos. Este efeito não acumula."
     }
   ],
   "ascension": [

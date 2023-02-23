@@ -8,20 +8,20 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Erhöht den Schaden gegen Ziele mit Debuffs um 14%/16%/18%/20%."
+      "value": "Stellt nach 4 Ausweichversuchen 1 Ausweichen wieder her. Ausweichangriffe verbrennen Ziele, wodurch sie {4} Sek. lang jede Sek. Schaden in Höhe von {0}%/{1}%/{2}%/{3}% des ANG erleiden."
     },
     {
       "count": 4,
-      "value": "Stellt nach 3 Ausweichversuchen 1 Ausweichen wieder her. Erfolgreiche Ausweichfähigkeiten fügen „Verbrennen“ zu, wenn sie einen Gegner treffen. „Verbrennen“ verursacht 4 Sek. lang alle 0,5 Sek. Schaden in Höhe von 24%/30%/36%/42% des ANG zu."
+      "value": "Erhöht den Schaden an Zielen mit Debuffs um {0}%/{1}%/{2}%/{3}%."
     }
   ],
   "mind": {
     "name": "Sechster Sinn",
-    "desc": "Es fühlt sich wie eine erzwungene, statische Beobachtung von einer anderen Ebene an."
+    "desc": "So hochempfindlich, als würde es sich um ein statisches Überwachungsgerät handeln, das mehrere Ebenen gleichzeitig beobachtet. Darüber hinaus noch ein echter Glückspilz."
   },
   "memory": {
     "name": "Startkapital",
-    "desc": "Zwei Sicherheiten, die auch nach Tilgung der Schulden nie eingezogen wurden."
+    "desc": "Zwei Pfandgegenstände, die nie abgeholt wurden, obwohl die Schuld beglichen war. Scheinbar wurden sie als großzügiges Andenken zurückgelassen … oder einfach vergessen."
   },
   "belief": {
     "name": "Meisterkünstlerin",

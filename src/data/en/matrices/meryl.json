@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Increase Whirlwind's damage by 36%/45%/54%/63% and restore HP equal to 30%/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every 0.5 seconds cannot exceed 60%/72%/81%/90% of ATK."
+      "value": "Restore HP equal to 60%/75%/90%/105% of damage dealt while the shield is active. HP regained every 0.5 seconds cannot exceed 105%/127.5%/150%/172.5% of ATK."
     }
   ],
   "mind": {

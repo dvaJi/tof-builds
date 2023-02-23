@@ -1,9 +1,0 @@
-{
-  "{0} [@$day|days]": "days",
-  "{0}h {1}m": "hours_minutes",
-  "Remove": "unequip",
-  "Overview": "overall",
-  "No stats": "no_property",
-  "Permanent": "permanent",
-  "Equipment": "equip"
-}

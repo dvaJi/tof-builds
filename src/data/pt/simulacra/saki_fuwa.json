@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar.\nEnquanto cai, cada golpe causa dano de <b>30.4%</b> do ATQ + <b>2</b>. Ao aterrissar, causa dano de <b>76%</b> do ATQ + <b>4</b> a alvos próximos."
+      "description": "Toque e segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar.\nEnquanto cai, cada golpe causa dano de <b>30.4%</b> do ATQ + <b>2</b>. Ao aterrissar, causa dano de <b>76%</b> do ATQ + <b>4</b> a alvos próximos."
     },
     {
       "name": "Esquiva",
@@ -61,21 +61,21 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Toque no botão de ataque normal logo após se esquivar para a frente.\nArremete e se vira para atacar o alvo, causando dano de <b>277%</b> do ATQ + <b>15</b>."
+      "description": "Use o botão de ataque normal logo após se esquivar.\nArremete e gira para atacar o alvo, causando dano de <b>277%</b> do ATQ + <b>15</b>."
     },
     {
       "name": "Flow agitado: Corrente transitória",
       "type": [
         "Skill"
       ],
-      "description": "Arremete na direção do alvo e imobiliza inimigos temporariamente ao longo do caminho, causando dano atrasado de, no máximo, <b>445.3%</b> do ATQ + <b>23</b>. Tempo de recarga: <b>30</b> seg."
+      "description": "Arremete na direção do alvo e imobiliza inimigos temporariamente ao longo do caminho, causando dano atrasado de até <b>445.3%</b> do ATQ + <b>23</b>. Tempo de recarga: <b>30</b> seg."
     },
     {
       "name": "Flow silencioso: Corrente concentrada",
       "type": [
         "Discharge"
       ],
-      "description": "Use habilidades de Flow Silencioso para entrar em estado de carregamento por até <b>3</b> segundos, continuamente provocando alvos próximos e absorvendo dano equivalente a até <b>60%</b> da vida máxima. Ao final do estado de carregamento, causa dano gélido de <b>850%</b> do ATQ gélido + <b>50%</b> x o dano absorvido aos alvos, e <b>20%</b> do valor não consumido é convertido em recuperação de vida. Tempo de recarga: <b>30</b> seg.\n\nEntra no modo de Flow Silencioso quando a ressonância de coragem estiver ativa. <b>Flow agitado: Corrente transitória</b> é substituído por <b>Flow silencioso: Corrente concentrada</b>. Entra no estado de Flow Agitado quando a ressonância de coragem não estiver ativa.\nVocê pode ganhar sombra espádica, que acompanha você ao usar habilidades de Saki Fuwa. Sombra espádica gera ondulação quando você utilizar habilidades encadeadas ou habilidades de descarga de Saki Fuwa, causando dano a distância de <b>450%</b> do ATQ gélido. Tempo de recarga de ondulação: <b>10</b> seg.\nNo estado de Flow Agitado: Sombra espádica gera flow quando você causa dano com qualquer arma, causando dano de <b>125%</b> do ATQ gélido ao primeiro alvo atingido, e recupera vida equivalente a <b>57%</b> do dano. A vida máxima recuperada por vez não pode ultrapassar <b>100%</b> do ATQ. Tempo de recarga: <b>0,8</b> seg.\nNo estado de Flow Silencioso: Após sombra espádica gerar ondulação, você obtém <b>3</b> bloqueios durante <b>10</b> segundos, e a capacidade máxima de bloqueio não excede <b>15%</b> da vida máxima. A cada bloqueio bem-sucedido, causa dano de contra-ataque de <b>450%</b> do ATQ gélido ao alvo, e o despedaçar de ondulação aumenta em <b>100%</b> com o efeito de provocação adicionado."
+      "description": "Use habilidades de Flow Silencioso para entrar em estado de carregamento por até <b>3</b> segundos, continuamente provocando alvos próximos e absorvendo dano equivalente a até <b>60%</b> da vida máxima. Ao final do estado de carregamento, causa dano gélido de <b>850%</b> do ATQ gélido + <b>50%</b> do dano absorvido aos alvos, e <b>20%</b> do valor não consumido é convertido em recuperação de vida. Tempo de recarga: <b>30</b> seg.\n\nEntra no modo de Flow Silencioso quando a ressonância de coragem estiver ativa. <b>Flow agitado: Corrente transitória</b> é substituído por <b>Flow silencioso: Corrente concentrada</b>. Entra no estado de Flow Agitado quando a ressonância de coragem não estiver ativa.\nVocê pode ganhar sombra espádica, que acompanha você ao usar habilidades de Saki Fuwa. Sombra espádica gera ondulação quando você utilizar habilidades encadeadas ou habilidades de descarga de Saki Fuwa, causando dano a distância de <b>450%</b> do ATQ gélido. Tempo de recarga de ondulação: <b>10</b> seg.\nNo estado de Flow Agitado: Sombra espádica gera flow quando você causa dano com qualquer arma, causando dano de <b>125%</b> do ATQ gélido ao primeiro alvo atingido, e recupera vida equivalente a <b>57%</b> do dano. A vida máxima recuperada por vez não pode ultrapassar <b>100%</b> do ATQ. Tempo de recarga: <b>0,8</b> seg.\nNo estado de Flow Silencioso: Após sombra espádica gerar ondulação, você obtém <b>3</b> bloqueios durante <b>10</b> segundos, e a capacidade máxima de bloqueio não excede <b>15%</b> da vida máxima. A cada bloqueio bem-sucedido, causa dano de contra-ataque de <b>450%</b> do ATQ gélido ao alvo, e o despedaçar de ondulação aumenta em <b>100%</b> com o efeito de provocação adicionado."
     }
   ],
   "weapon_type": {
@@ -87,9 +87,9 @@
     "description": "<b>Ressonância gélida</b>: Aumenta o ATQ gélido em <b>15%</b> e a resistência gélida em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário."
   },
   "advancement": [
-    "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <b>5</b> times weapon skills are used, and the damage of Flow and Counterattack is increased by <b>1</b> time for the next <b>25</b> [@$second|seconds].",
+    "Quando ressonância gélida estiver ativa, o tempo de recarga da habilidade de todas as armas é zerado a cada <b>5</b> vezes que habilidades de arma são usadas, e o dano de flow e contra-ataque aumenta em <b>1</b> vez durante os próximos <b>25</b> segundos.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "Flow agitado: Aumenta o dano de sombra espádica: ondulação para <b>900%</b> do ATQ gélido.\nFlow silencioso: O tempo de recarga de sombra espádica: ondulação torna-se <b>5</b> segundos.",
+    "Flow agitado: Aumenta o dano de sombra espádica: ondulação para <b>900%</b> do ATQ gélido.\nFlow silencioso: O tempo de recarga de sombra espádica: ondulação torna-se <b>5 segundos</b>.",
     "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
     "Para o tempo e desencadeia Phantasia quando ondulação atingir um alvo. Compartilha tempo de recarga com a Phantasia desencadeada por esquivas.",
     "Ao atingir um alvo com ondulação, aumenta o dano gélido em <b>11%</b> durante <b>15</b> segundos.\nAo bloquear com sombra espádica, reduz o dano gélido sofrido em <b>25%</b> durante <b>12</b> segundos."
@@ -101,7 +101,7 @@
     },
     {
       "name": "Espada Protetora",
-      "description": "Quando a vida estiver abaixo de <b>70%</b>, aumenta a resistência em <b>40%</b> mais <b>60%</b> da resistência gélida. No estado de Flow Silencioso: Depois que a sombra espádica gerar ondulação e bloquear um ataque, o colega de porcentagem mais baixa de vida (excluindo você) vai receber 3 chances de bloqueio. Dura <b>10</b> segundos. O dano máximo de bloqueio não excede <b>15%</b> da vida máxima do colega."
+      "description": "Quando a vida estiver abaixo de <b>70%</b>, aumenta todas as resistências em <b>40%</b> mais <b>60%</b> da resistência gélida. No estado de Flow Silencioso: Depois que a sombra espádica gerar ondulação e bloquear um ataque, o colega de porcentagem mais baixa de vida (excluindo você) vai receber 3 chances de bloqueio. Dura <b>10</b> segundos. O dano máximo de bloqueio não excede <b>15%</b> da vida máxima do colega."
     }
   ],
   "ascension": [

@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When a target is being healed, their volt ATK is increased by 15%/18%/21%/25% for 20 seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly."
+      "value": "Lorsqu'une cible est soignée, son ATQ de foudre augmente de 15%/18%/21%/25% pendant 20 secondes. L'effet ne peut pas être cumulé. S'il est obtenu plusieurs fois, seul l'effet au niveau le plus élevé s'appliquera."
     },
     {
       "count": 4,

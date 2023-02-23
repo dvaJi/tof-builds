@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Forma de escudo: No chão, segure o botão de ataque normal para acionar a forma de escudo (solte para desativar) durante <b>3</b> segundos, durante os quais o Errante não pode se mexer e todo dano sofrido é reduzido em <b>50%</b>. Em forma de escudo, soltar o botão de ataque normal após sofrer dano ou após <b>3</b> segundos segurando desencadeia uma pancada ígnea, que causa dano de <b>167.3%</b> do ATQ + <b>9</b> e inflige <b>atordoamento</b> durante <b>1</b> segundo ao alvo.\nForma de machado: Esmaga o alvo, causando dano de <b>122.2%</b> do ATQ + <b>6</b> e suspendendo-o."
+      "description": "Forma de escudo: No chão, segure o botão de ataque normal para acionar a forma de escudo (solte para desativar) durante <b>3</b> segundos, durante os quais você não pode se mexer e todo dano sofrido é reduzido em <b>50%</b>. Em forma de escudo, soltar o botão de ataque normal após sofrer dano ou após <b>3</b> segundos segurando desencadeia uma pancada ígnea, que causa dano de <b>167.3%</b> do ATQ + <b>9</b> e inflige <b>atordoamento</b> durante <b>1</b> segundo ao alvo.\nForma de machado: Esmaga o alvo, causando dano de <b>122.2%</b> do ATQ + <b>6</b> e suspendendo-o."
     },
     {
       "name": "Valentia",

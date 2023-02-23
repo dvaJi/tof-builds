@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan damage secara bertahap sebanyak 1% setelah mengenai target. Bisa ditumpuk hingga 10/13/16/20 kali. Bertahan selama 1,5 detik."
+      "value": "Timpakan damage lebih besar setelah mengenai target, sebesar 1,5% setiap kali, hingga 10/13/16/20 tumpuk. Waktu penumpukan buff: 2 detik."
     },
     {
       "count": 4,
-      "value": "Meningkatkan damage ledakan listrik Dual EM Stars sebanyak 16%/22%/30%/40% ATK."
+      "value": "Setiap serangan pada target yang terbidik menimpakan damage ekstra sebesar 10%/12,5%/15%/17,5% ATK."
     }
   ],
   "mind": {

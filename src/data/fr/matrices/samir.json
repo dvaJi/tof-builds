@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Accroît progressivement les dégâts de 1% lorsque vous touchez une cible. Dure 1,5 seconde. Cumulable jusqu'à 10/13/16/20 fois."
+      "value": "Infligez plus de dégâts lorsque vous touchez une cible. Chaque cumul augmente les dégâts de 1,5%, cumulable jusqu'à 10/13/16/20 fois. Temps d’effet cumulable : 2 secondes."
     },
     {
       "count": 4,
-      "value": "Accroît de 16%/22%/30%/40% de l'ATQ les dégâts de l'explosion électrique des Étoiles EM doubles."
+      "value": "Chaque attaque verrouillée sur les cibles inflige des dégâts supplémentaires, d’une valeur égale à 10%/12,5%/15%/17,5% de l’ATQ."
     }
   ],
   "mind": {

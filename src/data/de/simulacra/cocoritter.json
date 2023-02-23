@@ -7,8 +7,8 @@
   "birthday": "1. Juni (Zwilling)",
   "birthplace": "Unbekannt",
   "gender": "Weiblich",
-  "info": "Ein unschuldiges, romantisches und immer gut gelauntes Mädchen. Sie vertraut anderen zu sehr und erweckt so manchmal den Eindruck, naiv zu sein.\nSie liebt Süßigkeiten, schafft es aber, ihren Zuckerkonsum mit gesunden Lebensmitteln aufzuwiegen. Sie hat zwar Orientierungsschwierigkeiten, aber wenn sie einmal ihren Weg gefunden hat, verirrt sie sich nie. Man kann nicht anders, als sich Sorgen um sie zu machen, wobei sie in Wahrheit sehr gut auf sich aufpassen kann.",
-  "description": "Als Tochter eines medizinischen Forschers aus Hykros zeigte Cocolita schon in jungen Jahren ihr Können in den Heilkünsten und trat dem Labor bei, in dem ihre Eltern arbeiteten, um so viel medizinisches Wissen wie möglich aufzunehmen.\nSie durchstreift das Land, reist von Zuflucht zu Zuflucht und behandelt die Verletzten. Sie nimmt diese Aufgabe sehr ernst und ist überzeugt, dass diese Erfahrung notwendig ist, um zu einer Veteranin unter dem medizinischen Personal zu werden.",
+  "info": "Cocolita ist ein naives Mädchen mit sonnigem Gemüt. Ihre Vertrauensseligkeit anderen gegenüber kann manchmal den Eindruck erwecken, dass sie allzu arglos und gutgläubig ist.\nObwohl sie eine Naschkatze ist, schafft sie es, eine ausgewogene Ernährung einzuhalten. Ihr Orientierungssinn ist wirklich schlecht, aber wenn sie einmal den richtigen Weg eingeschlagen hat, kommt sie nie wieder davon ab. Es fällt einem schwer, sich nicht um sie zu sorgen, aber sie kann sich sehr wohl um sich selbst kümmern.",
+  "description": "Als Tochter eines medizinischen Forschers aus Hykros zeigte Cocolita schon in jungen Jahren ihr Können in den Heilkünsten und trat dem Labor bei, in dem ihre Eltern arbeiteten, um so viel medizinisches Wissen wie möglich aufzunehmen.\n\nSie durchstreift das Land, reist von Zuflucht zu Zuflucht und behandelt die Verletzten. Sie nimmt diese Aufgabe sehr ernst und ist überzeugt, dass diese Erfahrung notwendig ist, um zu einer Veteranin unter dem medizinischen Personal zu werden.",
   "like": "Süßigkeiten; alles, was niedlich ist",
   "dislike": "Unbekannt",
   "element": "Ice",
@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>70.5%</b> des ANG + <b>4</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>50.8%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>55.1%</b> des ANG + <b>3</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>99.1%</b> des ANG + <b>5</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>103.2%</b> des ANG + <b>5</b>."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>70.5%</b> des ANG + <b>4</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>50.8%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>55.1%</b> des ANG + <b>3</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>99.1%</b> des ANG + <b>5</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>103.2%</b> des ANG + <b>5</b>."
     },
     {
       "name": "Mondfall",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, lässt <b>sie schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>34.9%</b> des ANG +<b>2</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>40.4%</b> des ANG +<b>2</b> am Zielort und an Gegnern in der Nähe."
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, <b>lässt sie länger schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>34.9%</b> des ANG + <b>2</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>40.4%</b> des ANG + <b>2</b> am Zielort und an Gegnern in der Nähe."
     },
     {
       "name": "Volt-Welle",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Beschwört nach dem Ausweichen eine heilende Biene, die dem Anwender folgt und den Verbündeten mit den prozentual niedrigsten LP innerhalb von <b>15</b> Metern heilt. Heilt jedes Mal um <b>25%</b> des ANG und stellt <b>50</b> Waffenladungspunkte wieder her. Hält <b>25</b> Sek. an. Abklingzeit: <b>25</b> Sek.",

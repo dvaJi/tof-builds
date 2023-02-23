@@ -7,8 +7,8 @@
   "birthday": "11 April (Aries)",
   "birthplace": "Banges",
   "gender": "Perempuan",
-  "info": "Gadis muda yang bersemangat dan tulus. Periang dan santai. Disukai orang-orang.\nTidak membedakan orang berdasarkan usia atau jenis kelamin, dan memperlakukan semua orang dengan cara yang sama. Mudah bergaul dengan semua orang, entah itu anak kecil ataupun orang dewasa. Menganggap Theo, anak dari kepala Banges Tech, sebagai teman dekat.\nTerkadang bisa agak kasar dan tidak sensitif dan sering lupa akan sesuatu (termasuk senjatanya sendiri).",
-  "description": "\"Superstar\" dari Banges Port, Hilda, sudah tak asing lagi bagi masyarakat di kota tersebut.\nDia sangat mencintai kampung halamannya dan akan melakukan apa pun untuk melindunginya.\nHilda tidak punya pekerjaan tetap dan lebih suka berjalan-jalan di sekitar pelabuhan membantu toko-toko dengan imbalan uang saku; sesekali, dia mengambil tugas yang lebih berbahaya, seperti patroli atau tugas jaga. Saat merasa lelah, dia mengambil libur satu atau dua hari untuk makan dan menghemat energi sepuasnya.",
+  "info": "Seorang gadis ceria, penuh semangat, ramah, dan periang, meskipun dia juga kurang teliti.\nDia tidak peduli tentang jenis kelamin, usia, atau status sosial, dan memperlakukan semua orang dengan setara. Dia bahkan berteman baik dengan Theo, putra pemilik Banges Tech.\nWalau begitu, dia ceroboh dan pelupa, bahkan senjatanya kadang tertinggal di rumah...",
+  "description": "Hilda adalah \"bintang\" di Pelabuhan Banges, tempat semua orang mengenal dirinya.\nBanges adalah rumahnya dan dia pun merasa harus melindunginya.\nDia tidak punya pekerjaan tetap dan hanya bekerja paruh waktu di toko-toko dekat pelabuhan. Dia sesekali juga ikut berpatroli dalam menjaga keamanan. Jika lelah, dia akan meluangkan waktu untuk makan makanan enak.",
   "like": "Ayam goreng, perayaan, barter",
   "dislike": "Rencana hidup",
   "element": "Ice",
@@ -30,27 +30,27 @@
       "type": [
         "Skill"
       ],
-      "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan damage sebesar <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental. Menjadi kebal terhadap Hitstun dan efek kontrol saat memasang Turret. Cooldown <b>3.5</b> detik."
+      "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan DMG sebesar <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental ke atas. Menjadi kebal terhadap Hitstun dan efek kontrol saat memasang Turret. CD: <b>3.5</b> detik."
     },
     {
       "name": "Arctic Beam",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebesar <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebanyak <b>50%</b> selama <b>10</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebesar <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebesar <b>50%</b> selama <b>10</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang <b>50%</b>."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
   },
   "advancement": [
     "Setiap Serangan Biasa yang berhasil akan meningkatkan damage sebesar <b>1%</b> selama <b>2</b> detik. Bisa ditumpuk maks <b>15</b> kali. Menambah jumlah amunisi menjadi <b>60</b>.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>10%</b>.",
-    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebanyak <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
-    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebanyak <b>20%</b>.",
-    "Mengurangi cooldown untuk Serangan Biasa selama dalam mode Turret sebanyak <b>2</b> detik.",
-    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebanyak <b>60%</b>. Cooldown: <b>25</b> detik."
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar <b>10%</b>.",
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebesar <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
+    "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar <b>20%</b>.",
+    "Mengurangi cooldown untuk Serangan Biasa selama dalam mode Turret sebesar <b>2</b> detik.",
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebesar <b>60%</b>. Cooldown: <b>25</b> detik."
   ],
   "traits": [
     {

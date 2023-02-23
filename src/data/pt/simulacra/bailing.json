@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal para carregar o disparo. Causa dano base de <b>60.5%</b> do ATQ + <b>3</b>, e mais <b>50%</b> por cada <b>1</b> segundo de concentração (máximo de <b>3</b> segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
+      "description": "Segure o botão de ataque normal para carregar um ataque. Causa dano base de <b>60.5%</b> do ATQ + <b>3</b>, e mais <b>50%</b> por cada <b>1</b> segundo de concentração (máximo de <b>3</b> segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
     },
     {
       "name": "Chuva de Flechas",

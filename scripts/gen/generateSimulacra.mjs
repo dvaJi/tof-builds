@@ -2,9 +2,15 @@ import fs from 'fs';
 import path from 'path';
 import chalk from 'chalk';
 import { fileURLToPath } from 'url';
-import { removeSimulacraName, formatDescription, slugify } from '../utils.mjs';
+import {
+  removeSimulacraName,
+  formatDescription,
+  slugify,
+  safeGetTmap,
+} from '../utils.mjs';
 import { allItemsMap } from './generateItems.mjs';
-import { ENtextMap } from './texmap.mjs';
+
+import { logger } from '../logger.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -22,30 +28,38 @@ export async function main(textMap, locale) {
     fs.readFileSync(path.join(MapsDATA_PATH, `simulacra.json`))
   );
 
-  console.log(`Getting simulacra [${locale}]`);
+  logger.info(`Getting simulacra [${locale}]`);
   for await (const simulacra of simulacras) {
-    console.log(`> Getting simulacra [${locale}] ${simulacra.id}`);
+    logger.debug(`> Getting simulacra [${locale}] ${simulacra.id}`);
 
     const data = {
       _id: allCharacters.length + 1,
       id: simulacra.id,
       name:
-        textMap['ST_'][simulacra._locid + '_EN'] ??
-        textMap['ST_'][simulacra._locid + '_CN'] ??
+        textMap['ST_Imitationtest'][simulacra._locid + '_EN'] ??
+        textMap['ST_Imitationtest'][simulacra._locid + '_CN'] ??
         textMap[''][simulacra._name],
-      weapon: textMap['ST_'][simulacra._locid + '_chenghao'],
+      weapon: textMap['ST_Imitationtest'][simulacra._locid + '_chenghao'],
       weapon_id: slugify(simulacra.weapon),
-      birthday: textMap['ST_'][simulacra._locid + '_birthday'],
-      birthplace: textMap['ST_'][simulacra._locid + '_zhenying'],
-      gender: textMap['ST_'][simulacra._locid + '_xingbie'],
+      birthday: textMap['ST_Imitationtest'][simulacra._locid + '_birthday'],
+      birthplace: textMap['ST_Imitationtest'][simulacra._locid + '_zhenying'],
+      gender: textMap['ST_Imitationtest'][simulacra._locid + '_xingbie'],
       info: formatDescription(
-        textMap['ST_'][simulacra._locid + '_xingge'] || ''
+        safeGetTmap(textMap, 'ST_Imitationtest', simulacra._locid + '_xingge')
       ),
       description: formatDescription(
-        textMap['ST_'][simulacra._locid + '_jibenxinxi']
+        safeGetTmap(
+          textMap,
+          'ST_Imitationtest',
+          simulacra._locid + '_jibenxinxi'
+        )
       ),
-      like: formatDescription(textMap['ST_'][simulacra._locid + '_like']),
-      dislike: formatDescription(textMap['ST_'][simulacra._locid + '_dislike']),
+      like: formatDescription(
+        safeGetTmap(textMap, 'ST_Imitationtest', simulacra._locid + '_like')
+      ),
+      dislike: formatDescription(
+        safeGetTmap(textMap, 'ST_Imitationtest', simulacra._locid + '_dislike')
+      ),
       element: simulacra.element,
       rarity: simulacra.rarity,
       role: simulacra.role,
@@ -53,25 +67,29 @@ export async function main(textMap, locale) {
       shatter: simulacra.shatter,
       charge: simulacra.charge,
       skills: simulacra.skills.map((skill) => ({
-        name: formatDescription(safeGetTmap(textMap, '', skill.name)),
+        name: formatDescription(safeGetTmap(textMap, 'SkillDes', skill.name)),
         type: skill.type,
         description: formatDescription(
-          textMap[''][skill.description],
+          safeGetTmap(textMap, 'SkillDes', skill.description),
           skill.values
         ),
       })),
       weapon_type: {
-        name: textMap[''][simulacra.weapon_type.name],
+        name: safeGetTmap(textMap, 'QRSLCommon_ST', simulacra.weapon_type.name),
         description: formatDescription(
-          textMap[''][simulacra.weapon_type.description],
+          safeGetTmap(
+            textMap,
+            'QRSLCommon_ST',
+            simulacra.weapon_type.description
+          ),
           simulacra.weapon_type.values
         ),
       },
       weapon_resonance: simulacra.weapon_resonance
         ? {
-            name: textMap[''][simulacra.weapon_resonance.name],
+            name: safeGetTmap(textMap, 'BuffDes', simulacra.weapon_resonance.name),
             description: formatDescription(
-              textMap[''][simulacra.weapon_resonance.description],
+              safeGetTmap(textMap, 'BuffDes', simulacra.weapon_resonance.description),
               simulacra.weapon_resonance.values
             ),
           }
@@ -79,16 +97,16 @@ export async function main(textMap, locale) {
       advancement: simulacra.advancement.map((advancement) =>
         advancement.length === 2
           ? formatDescription(
-              safeGetTmap(textMap, '', advancement[0]),
+              safeGetTmap(textMap, 'BuffDes', advancement[0]),
               advancement[1]
             )
-          : formatDescription(safeGetTmap(textMap, '', advancement))
+          : formatDescription(safeGetTmap(textMap, 'BuffDes', advancement))
       ),
       traits: simulacra.traits.map((trait) => ({
         ...trait,
-        name: removeSimulacraName(textMap[''][trait.name]),
+        name: removeSimulacraName(textMap['BuffDes'][trait.name]),
         description: formatDescription(
-          safeGetTmap(textMap, '', trait.description)
+          safeGetTmap(textMap, 'BuffDes', trait.description)
         ),
       })),
       ascension: simulacra.ascension.map((ascension) => {
@@ -152,20 +170,4 @@ export async function main(textMap, locale) {
     fs.writeFileSync(filePath, JSON.stringify(data, undefined, 2));
     allCharacters.push(data);
   }
-}
-
-function safeGetTmap(tmap, fistKey, key) {
-  let finalText = '';
-
-  if (tmap[fistKey][key + '_OS']) {
-    finalText = tmap[fistKey][key + '_OS'];
-  } else if (tmap[fistKey][key]) {
-    finalText = tmap[fistKey][key];
-  } else {
-    console.log(chalk.bold.red(`Missing text for [${fistKey}][${key}]`));
-    // Fall back to english
-    finalText = ENtextMap[fistKey][key];
-  }
-
-  return finalText;
 }

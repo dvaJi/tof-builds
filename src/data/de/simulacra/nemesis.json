@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>62.5%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>62%</b> des ANG + <b>5</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>3%</b> des ANG + <b>120</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>6%</b> des ANG + <b>71.2</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>4%</b> des ANG + <b>126</b>."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>62.5%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>62%</b> des ANG + <b>5</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>3%</b> des ANG + <b>120</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>6%</b> des ANG + <b>71.2</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>4%</b> des ANG + <b>126</b>."
     },
     {
       "name": "Schnelle Verfolgung",
@@ -54,7 +54,7 @@
         "Perfect Attack",
         "Attack"
       ],
-      "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Ausweichen erzeugt ein verlangsamendes Magnetfeld aus.\nVenus feuert eine aufgeladene Kugel ab, die eine bestimmte Strecke zurücklegt und beim Kontakt mit Zielen explodiert. Verursacht Schaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> und erzeugt für <b>3</b> Sek. ein verlangsamendes Magnetfeld, das die Bewegungs- und Angriffsgeschwindigkeit von Gegnern darin um <b>35%</b> verringert.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (bis zu <b>5</b>-mal stapelbar). Beim Waffenwechsel geht der Effekt verloren."
+      "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Ausweichen erzeugt ein verlangsamendes Magnetfeld.\nVenus feuert eine aufgeladene Kugel ab, die eine bestimmte Strecke zurücklegt und beim Kontakt mit Zielen explodiert. Verursacht Schaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> und erzeugt für <b>3</b> Sek. ein verlangsamendes Magnetfeld, das die Bewegungs- und Angriffsgeschwindigkeit von Gegnern darin um <b>35%</b> verringert.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, die den Effekt von „Heilkette“ um je <b>25%</b> erhöht; bis zu <b>5</b>-mal stapelbar. Beim Waffenwechsel bleibt der Effekt bestehen."
     },
     {
       "name": "Parallelstrahlen",
@@ -62,7 +62,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (vor dem Ausweichen auf eine Pfeiltaste tippen), um „Parallelstrahlen“ auszulösen.\nVenus feuert zwei parallele Energiestrahlen ab, die Durchschlagschaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> verursachen.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (stapelbar bis <b>5</b>-mal). Beim Waffenwechsel geht der Effekt verloren."
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (vor dem Ausweichen auf eine Pfeiltaste tippen), um „Parallelstrahlen“ auszulösen.\nVenus feuert zwei parallele Energiestrahlen ab, die Durchschlagschaden in Höhe von <b>171.6%</b> des ANG + <b>9</b> verursachen.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (stapelbar bis <b>5</b>-mal). Beim Waffenwechsel bleibt der Effekt bestehen."
     },
     {
       "name": "Impulsverschluss",
@@ -76,12 +76,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Venus feuert einen kreuzförmigen Strahl auf den Boden und erzeugt dort ein instabiles Feld, das Ziele für <b>5</b> Sek. um <b>70%</b> verlangsamt. Kurz darauf verursacht eine elektromagnetische Explosion Schaden in Höhe von <b>393.9%</b> des ANG + <b>21</b>.\nDer Einsatz eines Entladungsangriffs erzeugt in der Nähe des Gegner <b>1</b> Elektrode, die einmal alle <b>1,5</b> Sek. angreift und Schaden in Höhe von <b>39.9%</b> des ANG + <b>2</b> verursacht.\nDie Elektrode erhält <b>100%</b> der Werte des Wanderers, kann angegriffen und geheilt werden und verliert pro Sekunde <b>3%</b> ihrer max. LP.\nEs kann immer nur jeweils <b>1</b> Elektrode aktiv sein und das Herbeirufen einer neuer Elektrode ersetzt die vorherige."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Venus feuert einen kreuzförmigen Strahl auf den Boden und erzeugt dort ein instabiles Feld, das Ziele für <b>5</b> Sek. um <b>70%</b> verlangsamt. Kurz darauf verursacht eine elektromagnetische Explosion Schaden in Höhe von <b>393.9%</b> des ANG + <b>21</b>.\nDer Einsatz eines Entladungsangriffs erzeugt in der Nähe des Gegners <b>1</b> Elektrode, die einmal alle <b>1,5</b> Sek. angreift und Schaden in Höhe von <b>39.9%</b> des ANG + <b>2</b> verursacht.\nDie Elektrode erhält <b>100%</b> der Werte des Wanderers, kann angegriffen und geheilt werden und verliert pro Sekunde <b>3%</b> ihrer max. LP.\nEs kann immer nur jeweils <b>1</b> Elektrode aktiv sein und das Herbeirufen einer neuer Elektrode ersetzt die vorherige."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
   },
   "weapon_resonance": {
     "name": "Voltresonanz",
@@ -90,7 +90,7 @@
   "advancement": [
     "<b>Impulsverschluss</b> und <b>Teilchenstrahl-Explosion</b> erzeugen <b>1</b> Elektrode, die dem Anwender sofort <b>5</b> Stapel „Heilketten-Verbesserung“ gewährt. Außerdem wird eine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>135%</b> des ANG des Wanderers heilt.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
-    "Alle <b>6</b> Sek. entfesselt die Elektrode einen <b>Blitzring</b>, der im Zielbereich Schaden in Höhe von bis zu <b>205%</b> des ANG verursacht.",
+    "Alle <b>6</b> Sek. entfesselt die Elektrode einen <b>Blitzring</b>, der Schaden in Höhe von bis zu <b>205%</b> des ANG verursacht.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
     "Nach dem Einsatz von <b>Impulsverschluss</b> werden der ANG des Wanderers <b>25</b> Sek. lang um (<b>6,5</b> + (Anzahl der Elektroden x <b>6,5</b>))% erhöht.",
     "Es können bis zu <b>2</b> Elektrode gleichzeitig aktiv sein. Das Herbeirufen neuer Elektroden ersetzt die am weitesten entfernte."

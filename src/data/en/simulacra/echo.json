@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "After the third normal attack, hold the normal attack button to trigger Spear Flurry.\nUpon hit, <b>strongly suspend</b> the target, dealing damage equal to <b>49.2%</b> of ATK + <b>3</b>. Tap again to continue attacking the suspended target, dealing up to <b>98%</b> of ATK + <b>5</b> damage to a single target."
+      "description": "After the third normal attack, hold the normal attack button to trigger Spear Flurry.\nUpon hit, <b>strongly suspend</b> the target, dealing damage equal to <b>49.2%</b> of ATK + <b>3</b>. Tap again to continue attacking the airborne target, dealing up to <b>98%</b> of ATK + <b>5</b> damage to a single target."
     },
     {
       "name": "Sneak Attack",
@@ -71,7 +71,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tap normal attack during the short period after dodging to trigger Lunging Smash.\nSlam the long spear into the ground, <b>strongly suspending</b> targets, dealing damage equal to <b>52.8%</b> of ATK + <b>3</b>."
+      "description": "Tap normal attack during the short period after dodging to trigger Lunging Smash.\nSlam the long spear into the ground, dealing damage equal to <b>52.8%</b> of ATK + <b>3</b> and <b>strongly suspend</b> targets."
     },
     {
       "name": "Moonchaser",
@@ -85,12 +85,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, who jumps in the air and throws a lightning spear that causes area explosion to deal <b>296.7%</b> of ATK + <b>16</b>damage plus <b>paralyzing</b> the target for <b>1</b> second."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, who jumps in the air and throws a thunderous spear that causes an explosion to an area, dealing <b>296.7%</b> of ATK plus <b>16</b> damage and <b>strongly paralyzes</b> targets for <b>1</b> second."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>106%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all buffs and dealing damage equal to <b>106%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
   },
   "advancement": [
     "Increase shatter by <b>15%</b>. After shattering the target's shield, increase all teammates' ATK by <b>15%</b> for <b>30</b> seconds. This cannot be stacked.",
@@ -170,7 +170,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 2
       }

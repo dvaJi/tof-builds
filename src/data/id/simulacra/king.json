@@ -1,14 +1,13 @@
 {
   "_id": 9,
   "id": "king",
-  "name": "KING",
   "weapon": "Scythe of the Crow",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "3 November (Scorpio)",
   "birthplace": "Ravager",
-  "gender": "Pria",
-  "info": "Urakan dan bergaya flamboyan, KING memancarkan aura yang kuat ke mana pun dia pergi. Dengan nyali besarnya, dia senantiasa membersitkan watak yang intimidatif dan agresif. Meski perangainya bisa menimbulkan masalah, KING tak sulit diajak berkomunikasi.\nSebagai biang caper, KING adalah seorang materialis; karena itu, dia lugas dan mata duitan. Pembual dan orang yang sok-sokan adalah karakter yang dibencinya.\nKING kerap menggunakan kekerasan untuk menyelesaikan masalah dan meraih keinginannya. Dia juga tak suka muluk-muluk dalam berstrategi (dalam bertarung maupun lainnya).\nMereka yang baru bertemu sejenak dengan KING mungkin berpendapat bahwa dia cuma seorang pria perkasa yang simpel; meskipun bisa saja mengutarakan anggapan itu tanpa niat apa pun, mereka lebih memilih menyimpannya dalam hati.",
-  "description": "Dari semua orang yang mau-maunya berurusan dengan bunga mencekik Banges Business Association, KING adalah kasus paling unik. Biasanya, orang yang tak mampu membayar akan dipaksa bekerja di tambang, tetapi dia tak pernah diperlakukan seperti itu.\nBukannya Association tidak mau, tetapi walaupun sudah menawarkan hadiah besar agar tidak perlu repot berusaha, mereka tetap tidak dapat menangkapnya.\nSebagai seorang tentara bayaran yang ternama akan keahlian bertarungnya, KING memang lekat dengan kekerasan. Sejak kecil, dia suka berkelahi. Kini, dia jadi jagoan ulung satu lawan banyak. Setiap kali dia dapat pekerjaan, bayarannya besar, tapi juga cepat dihabiskannya.",
+  "gender": "Laki-Laki",
+  "info": "Liar dan suka pamer, KING adalah orang yang selalu meninggalkan kesan karena dia lebih banyak bertempur daripada bicara, dan dia selalu memancarkan aura ganas. Dia mungkin mudah marah, tapi dia mau berkomunikasi... kadang-kadang.\nKING selalu mencari tantangan dan senang memamerkan semua kekayaannya. Dia tidak banyak bicara dan tidak suka orang yang terlalu cerewet, serta orang yang berusaha terlalu keras untuk terlihat lebih bermoral.\nDia lebih suka memecahkan masalah dan mendapatkan keinginannya dengan kekerasan daripada dengan pertimbangan yang rumit dan strategi yang tajam.\nDengan KING, sebaiknya jangan pernah menanyakan apa pun tentang kepribadiannya.",
+  "description": "Di antara orang-orang yang berutang banyak uang kepada Banges Chamber of Commerce dengan bunga tinggi akibat ulah mereka sendiri, KING adalah kasus istimewa. Chamber menjatuhkan hukuman kepada orang-orang yang tak bisa membayar utang dengan bekerja di tambang seumur hidup, namun KING adalah satu-satunya yang tidak mengalaminya.\nBukan karena Chamber tidak mau. Mereka cuma tidak bisa berbuat apa-apa lagi, bahkan setelah memasang imbalan mahal untuk kepalanya atau mengirim pasukan bersenjata.\nSebagai prajurit bayaran yang dikenal karena keagresifannya, KING sering disebut sebagai perwujudan kekerasan. Dia terlibat perkelahian sejak masih muda dan punya kemampuan untuk menang dari pertarungan yang jumlahnya tak seimbang. Dia menghasilkan banyak uang dari setiap misi yang dijalaninya, tapi langsung menghabiskan upahnya...",
   "like": "Uang, Menghabiskan Uang, Hal sederhana",
   "dislike": "Item Tak Ternilai",
   "element": "Fire",
@@ -31,7 +30,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat di udara atau setelah melompat satu kali, serang 5 kali berturut-turut.\\\nSerangan Pertama: Timpakan damage sebesar <b>63.4%</b> ATK + <b>3</b>.\\\nSerangan Kedua: Timpakan damage sebesar <b>68.8%</b> ATK + <b>4</b>.\\\nSerangan Ketiga: Timpakan damage sebesar <b>190.5%</b> ATK + <b>10</b>.\\\nSerangan Keempat: Timpakan damage sebesar <b>213.6%</b> ATK + <b>11</b>.\\\nSerangan Kelima: Timpakan damage sebesar <b>173.9%</b> ATK + <b>9</b> dan menjatuhkan target. Makin tinggi ketinggian saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      "description": "Saat di udara atau setelah melompat satu kali, menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>63.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>68.8%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>190.5%</b> ATK + <b>10</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>213.6%</b> ATK + <b>11</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>173.9%</b> ATK + <b>9</b> dan menjatuhkan target. Makin tinggi posisi saat mengaktifkannya, makin besar DMG yang ditimpakan, hingga <b>600%</b> ATK."
     },
     {
       "name": "Asunder",
@@ -78,38 +77,38 @@
       "type": [
         "Skill"
       ],
-      "description": "Ayunkan Scythe untuk menimpakan damage sebesar <b>499.9%</b> ATK + <b>26</b>. Cooldown: <b>45</b> detik."
+      "description": "Ayunkan Scythe untuk menimpakan damage sebesar <b>499.9%</b> ATK + <b>26</b>. CD: <b>45</b> detik."
     },
     {
       "name": "Flaming Scythe",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menciptakan Flaming Scythe saat beralih ke senjata ini, menimpakan damage sebesar <b>398.3%</b> ATK + <b>21</b> dan bertahan selama <b>10</b> detik. Selain itu, memunculkan Flaming Scythe Domain setiap <b>2</b> detik. Scythe akan memanggil letusan gunung berapi dari tanah, yang menimpakan damage sebesar <b>66%</b> ATK + <b>3</b> kepada target dan mengakibatkan Suspend kepada mereka."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menciptakan Flaming Scythe saat beralih ke senjata ini, menimpakan damage sebesar <b>398.3%</b> ATK + <b>21</b> dan bertahan selama <b>10</b> detik. Selain itu, memunculkan Flaming Scythe Domain setiap <b>2</b> detik. Scythe akan memanggil letusan gunung berapi dari tanah, yang menimpakan damage sebesar <b>66%</b> ATK + <b>3</b> kepada target dan mengakibatkan Suspend kepada mereka."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat charge senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "advancement": [
-    "Meningkatkan Shatter sebanyak <b>15%</b>. Setelah menghancurkan perisai musuh, menimbulkan Burn Damage sebesar <b>120%</b> ATK kepada target setiap detik selama <b>15</b> detik.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
-    "Meningkatkan damage yang ditimpakan sebanyak <b>10%</b> untuk setiap musuh dalam radius <b>6</b> meter, maks <b>30%</b>.",
+    "Meningkatkan Shatter sebesar <b>15%</b>. Setelah menghancurkan perisai musuh, menimbulkan Burn DMG sebesar <b>120%</b> ATK kepada target setiap detik selama <b>15</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
+    "Meningkatkan damage yang ditimpakan sebesar <b>10%</b> untuk setiap musuh dalam radius <b>6</b> meter, maks <b>30%</b>.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
-    "Meningkatkan damage yang ditimpakan terhadap HP Shield atau musuh dengan Shield sebanyak <b>100%</b>.",
-    "Meningkatkan damage yang ditimbulkan sebanyak <b>10%</b> selama <b>30</b> detik untuk setiap musuh yang dibantai (bisa ditumpuk maks <b>3</b> kali)."
+    "Meningkatkan damage yang ditimpakan terhadap Perisai HP atau musuh dengan Shield sebesar <b>100%</b>.",
+    "Meningkatkan damage yang ditimbulkan sebesar <b>10%</b> selama <b>30</b> detik untuk setiap musuh yang dibantai (bisa ditumpuk maks <b>3</b> kali)."
   ],
   "traits": [
     {
       "name": "Coldblooded Swipe",
       "icon": true,
-      "description": "Setiap <b>7</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>8%</b> Max HP."
+      "description": "Setiap <b>7</b> musuh yang dikalahkan oleh KING, HP akan pulih sebesar <b>8%</b> Max HP."
     },
     {
       "name": "Fear Reaper",
       "icon": true,
-      "description": "Setiap <b>5</b> musuh yang dikalahkan oleh KING, HP akan pulih sebanyak <b>10%</b> Max HP."
+      "description": "Setiap <b>5</b> musuh yang dikalahkan oleh KING, HP akan pulih sebesar <b>10%</b> Max HP."
     }
   ],
   "ascension": [

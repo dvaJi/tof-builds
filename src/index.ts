@@ -135,13 +135,13 @@ export default class GenshinData {
   ): Promise<T | undefined> {
     const results = await this.findByFolder(lang, folder, query);
 
-    return results.find((r: T) => (r as any)['id'] === id);
+    return results.find((r: T) => r['id' as keyof T] === id);
   }
 
   private selectProps<T>(results: T[], query: QueryOpts<T>): T[] {
     if (query.select) {
       return results.map((result) => {
-        let obj: Partial<T> = {};
+        const obj: Partial<T> = {};
         query.select?.forEach((key) => {
           obj[key] = result[key];
         });

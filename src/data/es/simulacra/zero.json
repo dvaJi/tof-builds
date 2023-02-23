@@ -82,7 +82,7 @@
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y obtiene <b>5</b> cubos tras cambiar a esta arma, después desata los <b>5</b> cubos junto con Onda de Choque, la que inflige daño equivalente al <b>171%</b> del ATQ + <b>9</b> a los objetivos cercanos y los <b>lanza fuerte</b> al aire. Cada cubo también inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b>. Si hay aliados cerca, los aliados y el portador obtienen inmunidad al daño durante <b>3</b> segundos."
+      "description": "Cuando <span class=\"text-red\">carga de arma</span> está llena o <span class=\"text-red\">Phantasia</span> se activa, <b>elimina todas las desventajas del portador</b> y otorga <b>5</b> cubos después de cambiar a esta arma; entonces, desata los <b>5</b> cubos junto con una Onda de Choque. Esta Onda de Choque causa daño igual a <b>171%</b> del ATQ + <b>9</b> a los objetivos cercanos, y <b>los lanza fuerte</b> al aire. Además, cada cubo inflige daño igual a <b>48.5%</b> del ATQ + <b>3</b>. Si hay aliados cerca, los aliados y el portador obtienen inmunidad al daño por <b>3</b> segundos."
     }
   ],
   "weapon_type": {
@@ -282,7 +282,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

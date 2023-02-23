@@ -6,7 +6,7 @@
   "weapon_id": "negating_cube",
   "birthday": "6 Juni (Gemini)",
   "birthplace": "Unknown",
-  "gender": "Pria",
+  "gender": "Laki-Laki",
   "info": "Berlidah tajam, bermuka dua, kompetitif, dan arogan, terutama saat menghadapi tugas yang dia anggap mudah. Terkadang, dia menunjukkan kedewasaan dan kedisiplinan melebihi usianya, dan dia sangat peka. Namun biasanya, dia sama sekali tidak peduli kata-kata orang lain, dan tidak mau mengingat apa pun yang tidak berguna untuknya.",
   "description": "Seorang pintar yang genius di bidang komputer, tampak berumur sekitar 15 tahun, lahir di Banges dengan julukan \"Zero\". Namun, nama asli dan identitas pribadinya sudah hilang, sengaja dimusnahkannya sendiri.\nDengan keterampilan di bidang pemrosesan kecerdasan, komunikasi elektronik, dan manajemen data, Zero dapat mencari dan mengambil sejumlah banyak informasi melalui komputer dan analisis jaringan. Dia pernah menggegerkan Hykros dengan menembus sistem keamanannya dalam sebuah serangan siber yang berani. Karena insiden itu, dia ditetapkan sebagai \"orang yang mencurigakan\". Kini, Zero berada di bawah kontrol ketat dan pengawasan Hykros di lokasi rahasia. Di sana, dia menjalankan operasi terkait kecerdasan.",
   "like": "Teknologi, game",
@@ -75,38 +75,38 @@
       "type": [
         "Skill"
       ],
-      "description": "Menciptakan Shield untuk diri sendiri dan rekan di sekitar yang akan memblokir DMG sebesar maks <b>800%</b> ATK selama <b>10</b> detik, dan menimbulkan DMG sebesar <b>124.9%</b> ATK + <b>8</b> dan mengakibatkan <b>Launch Keras</b> kepada target di sekitar. Saat skill ini digunakan, setiap Cube yang dimiliki akan meningkatkan Shield maks sebesar <b>160%</b> ATK dan akan menghabiskan Cube. CD: <b>60</b> detik."
+      "description": "Menciptakan Perisai untuk diri sendiri dan rekan di sekitar yang akan memblokir DMG sebesar maks <b>800%</b> ATK selama <b>10</b> detik, dan menimbulkan DMG sebesar <b>124.9%</b> ATK + <b>8</b> dan mengakibatkan <b>Launch Keras</b> kepada target di sekitar. Saat skill ini digunakan, setiap Cube yang dimiliki akan meningkatkan Shield maks sebesar <b>160%</b> ATK dan akan menghabiskan Cube. CD: <b>60</b> detik."
     },
     {
       "name": "Omnium Wave",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari penggunanya,</b> dan pengguna akan mendapatkan <b>5</b> Cube setelah beralih ke senjata ini, kemudian melepaskan <b>5</b> Cube bersama Shockwave. Shockwave akan menimbulkan damage sebesar <b>171%</b> ATK + <b>9</b> kepada target di sekitar, dan mengakibatkan <b>Launch Keras</b> kepada mereka ke udara. Setiap Cube juga akan menimbulkan damage sebesar <b>48.5%</b> ATK + <b>3</b>. Jika ada teman di sekitar, mereka akan mendapatkan Imunitas DMGselama <b>3</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari penggunanya,</b> dan pengguna akan mendapatkan <b>5</b> Cube setelah beralih ke senjata ini, kemudian melepaskan <b>5</b> Cube bersama Shockwave. Shockwave akan menimbulkan DMG sebesar <b>171%</b> ATK + <b>9</b> kepada target di sekitar, dan mengakibatkan <b>Launch Keras</b> kepada mereka ke udara. Setiap Cube juga akan menimbulkan DMG sebesar <b>48.5%</b> ATK + <b>3</b>. Jika ada teman di sekitar, teman tersebut dan penggunanya akan mendapatkan Imunitas DMG selama <b>3</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat charge senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "advancement": [
-    "Timpakan damage dan menghasilkan Healing Orb, yang akan bertahan <b>20</b> detik, dan memulihkan HP rekan tim yang mengambilnya sebanyak <b>60%</b> ATK. Cooldown <b>2</b> detik.",
+    "Timpakan damage dan menghasilkan Healing Orb, yang akan bertahan <b>20</b> detik, dan memulihkan HP rekan tim yang mengambilnya sebesar <b>60%</b> ATK. Cooldown <b>2</b> detik.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
-    "Mengurangi cooldown skill dari <b>60</b> detik menjadi <b>30</b> detik. Memulihkan HP sebanyak <b>30%</b> ATK setiap detik selama perisai masih aktif.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Jika berhasil menimbulkan damage pada musuh, Damage Orb juga akan dihasilkan, yang akan bertahan <b>20</b> detik dan meningkatkan semua Damage dan Healing untuk sembarang rekan tim yang mengambilnya sebanyak <b>2%</b> selama <b>30</b> detik (bisa ditumpuk maks <b>10</b> kali). Skill cooldown <b>2,5</b> detik.",
-    "Dengan menggunakan Skill, teman akan mendapatkan Healing Orb dan Damage Orb sebanyak jumlah Omnium Cube."
+    "Mengurangi cooldown skill dari <b>60</b> detik menjadi <b>30</b> detik. Memulihkan HP sebesar <b>30%</b> ATK setiap detik selama perisai masih aktif.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
+    "Jika berhasil menimbulkan damage pada musuh, Damage Orb juga akan dihasilkan, yang akan bertahan <b>20</b> detik dan meningkatkan semua Damage dan Healing untuk sembarang rekan tim yang mengambilnya sebesar <b>2%</b> selama <b>30</b> detik (bisa ditumpuk maks <b>10</b> kali). Skill cooldown <b>2,5</b> detik.",
+    "Dengan menggunakan Skill, teman akan mendapatkan Healing Orb dan Damage Orb sebesar jumlah Omnium Cube."
   ],
   "traits": [
     {
       "name": "Accurate Calculation",
       "icon": true,
-      "description": "Saat Zero menggunakan Weapon Skill, mengurangi waktu cooldown Relic yang sedang cooldown sebanyak <b>1,5</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
+      "description": "Saat Zero menggunakan Skill Senjata, mengurangi waktu cooldown Relik yang Sedang CD sebesar <b>1,5</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
     },
     {
       "name": "Overall Planning",
       "icon": true,
-      "description": "Saat Zero menggunakan Weapon Skill, mengurangi waktu cooldown Relic yang sedang cooldown sebanyak <b>3</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
+      "description": "Saat Zero menggunakan Skill Senjata, mengurangi waktu cooldown Relik yang Sedang CD sebesar <b>3</b> detik. Cuma bisa diaktifkan untuk senjata yang sama <b>1</b> kali setiap <b>5</b> detik."
     }
   ],
   "ascension": [

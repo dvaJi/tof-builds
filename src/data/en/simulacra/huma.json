@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Shield Form: While on the ground, tap and hold normal attack to enter shield form (release to exit) for <b>3</b> seconds, during which the Wanderer is unable to move, and all damage taken is reduced by <b>50%</b>. While in shield form, releasing the normal attack button after taking damage or after holding the button for <b>3</b> seconds, unleash fire crash, dealing damage equal to <b>167.3%</b> of ATK + <b>9</b> and inflicting a <b>1</b>-second <b>stun</b> effect on the target.\nAxe Form: Smash the target, dealing damage equal to <b>122.2%</b> of ATK + <b>6</b> and suspending the target."
+      "description": "Shield Form: While on the ground, tap and hold normal attack to enter shield form (release to exit) for <b>3</b> seconds, during which the Wanderer is unable to move, and all damage taken is reduced by <b>50%</b>. While in shield form, releasing the normal attack button after taking damage or after holding the button for <b>3</b> seconds unleashes fire crash, dealing damage equal to <b>167.3%</b> of ATK + <b>9</b> and inflicting a <b>1</b>-second <b>stun</b> effect on the target.\nAxe Form: Smash the target, dealing damage equal to <b>122.2%</b> of ATK + <b>6</b> and suspending the target."
     },
     {
       "name": "Valor",
@@ -153,7 +153,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -176,7 +176,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -199,7 +199,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -222,7 +222,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -245,7 +245,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

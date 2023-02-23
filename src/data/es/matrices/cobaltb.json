@@ -8,20 +8,20 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta el daño contra objetivos con desventajas un 14%/16%/18%/20%."
+      "value": "Restaura 1 intento de evasión cada 4 evasiones. Los ataques de evasión quemarán a los objetivos, lo que inflige daño equivalente al {0}%/{1}%/{2}%/{3}% del ATQ cada segundo por {4} [@$segundo|segundos]."
     },
     {
       "count": 4,
-      "value": "Restablece 1 intento de evasión cada 3 evasiones. Las habilidades de evasión infligen quemaduras al impacto, lo que inflige daño igual a 24%/30%/36%/42% de ATQ cada 0.5 segundos por 4 segundos."
+      "value": "Aumenta el daño contra objetivos con desventajas en un {0}%/{1}%/{2}%/{3}%."
     }
   ],
   "mind": {
     "name": "Sexto Sentido",
-    "desc": "Se siente como una observación estática forzada desde otro plano."
+    "desc": "Es tan perspicaz como la observación estática forzada sobre varios planos, con algo de suerte."
   },
   "memory": {
     "name": "Capital Inicial",
-    "desc": "Dos garantías que nunca fueron cobradas, incluso después de haber pagado la deuda."
+    "desc": "Dos piezas de garantía, sin recolectar incluso tras haberse pagado la deuda, se dejaron como una especie de recuerdo, al parecer... o quizás simplemente las olvidaron."
   },
   "belief": {
     "name": "Maestría Artística",

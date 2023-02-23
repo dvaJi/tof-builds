@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>32.5%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>23.5%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>25.5%</b> del ATQ + <b>1</b>.\nCuarto ataque: inflige daño equivalente al <b>45.6%</b> del ATQ + <b>2</b>.\nQuinto ataque: inflige daño equivalente al <b>47.7%</b> del ATQ + <b>3</b>."
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>32.5%</b> del ATQ + <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>23.5%</b> del ATQ + <b>1</b>.\nTercer ataque: Inflige daño igual a <b>25.5%</b> del ATQ + <b>1</b>.\nCuarto ataque: Inflige daño igual a <b>45.6%</b> del ATQ + <b>2</b>.\nQuinto ataque: Inflige daño igual a <b>47.7%</b> del ATQ + <b>3</b>."
     },
     {
       "name": "Cascada Lunar",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar ataques de ráfaga, que consumen <b>300</b> puntos de resistencia.\nPrimer ataque: atrae enemigos ubicados frente al usuario, los <b>suspende</b> e inflige daño equivalente al <b>16.1%</b> del ATQ + <b>1</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: inflige daño equivalente al <b>18.6%</b> del ATQ + <b>1</b> a la ubicación del objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
+      "description": "Después del tercer ataque normal, mantén pulsado el botón de ataque normal para activar los ataques de rama, lo que consume <b>300</b> puntos de resistencia.\nPrimer ataque: Atrae a los enemigos frente al usuario, los <b>suspende fuerte</b> e inflige daño igual a <b>16.1%</b> del ATQ + <b>1</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: Inflige daño igual a <b>18.6%</b> del ATQ + <b>1</b> en la ubicación objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
     },
     {
       "name": "Sobrecarga",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>106%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas las mejoras e inflige daño igual a <b>106%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> segundos."
   },
   "advancement": [
     "Cura a todos los compañeros en un radio de <b>10</b> metros por un <b>100%</b> del ATQ luego de utilizar una habilidad de evasión.",

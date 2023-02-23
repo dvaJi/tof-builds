@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Meningkatkan kecepatan untuk memperoleh Weapon Charge sebesar 10%/12,5%/15%."
+      "value": "Meningkatkan kecepatan untuk memperoleh Charge Senjata sebesar 10%/12,5%/15%."
     }
   ],
   "mind": {
@@ -17,7 +17,7 @@
   },
   "memory": {
     "name": "Surgical Scar",
-    "desc": "Aberration tidak dapat dibalikkan. Sama seperti bekas luka setelah operasi, kamu tak akan bisa menghilangkannya."
+    "desc": "Aberasi tidak dapat dibalikkan. Sama seperti bekas luka setelah operasi, kamu tak akan bisa menghilangkannya."
   },
   "belief": {
     "name": "Armband",

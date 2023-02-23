@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal para cargar. Inflige daño básico equivalente al <b>60.5%</b> del ATQ + <b>3</b>, y <b>50%</b> más por cada <b>1</b> segundo utilizado para cargar, hasta <b>3</b> segundos. Inflige daño doble al acertar a la cabeza o al punto débil del enemigo y derriba al objetivo (los disparos a la cabeza no son efectivos contra nómadas)."
+      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño básico igual a <b>60.5%</b> del ATQ + <b>3</b>, y <b>50%</b> más por cada <b>segundo</b> de carga, hasta <b>3 segundos</b>. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
     },
     {
       "name": "Lluvia de Flechas",

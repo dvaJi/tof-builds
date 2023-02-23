@@ -7,8 +7,8 @@
   "birthday": "10 octobre (balance)",
   "birthplace": "Hykros",
   "gender": "Féminin",
-  "info": "Détachée, à l'écart et asociale. Il y a très peu de choses qui provoqueront une réaction chez Meryl. Elle n'affiche aucune émotion, non pas parce qu'elle est insensible, mais parce qu'elle refuse d'être proche de qui que ce soit.",
-  "description": "Exécutante d'Hykros de haut rang, mais d'âge et d'origine inconnus. D'après le peu d'informations disponibles pour le grand public, Meryl s'est distinguée dans de nombreuses missions de grade S pour Hykros en raison de ses talents exceptionnels à l'épée et de ses prouesses au combat. En seulement quelques années, elle a été promue, passant de simple administratrice à Exécutante senior.\nL'attitude froide et impénétrable de Meryl fait que personne n'est jamais sûr de ses véritables intentions. Cette froideur, ainsi que son approche sans pitié quand il s'agit de faire face aux ennemis, assurent que tout le monde garde ses distances avec elle.\nLa base de données des Exécutants montre bien que Meryl a un frère jumeau duquel elle est très proche, mais il n'y a aucune information ni aucuns renseignements formels à son sujet.",
+  "info": "Froide, distante et indifférente. Elle ne montre aucune émotion, mais n'est pas insensible pour autant. Elle refuse simplement de tisser des liens avec les personnes qui l'entourent.",
+  "description": "Une exécutante d'Hykros confirmée sans acte de naissance ou d'âge. Selon les informations disponibles, Meryl a excellé dans des missions de niveau S avec son épée et ses compétences de combat, passant d'officière ordinaire à exécutante confirmée en l'espace de quelques années seulement.\nElle affiche une attitude indifférente envers tout ce qui l'entoure, et personne ne sait ce qu'elle pense vraiment. De plus, elle ne fait preuve d'aucune pitié envers ses ennemis. C'est pourquoi les gens gardent au maximum leurs distances vis-à-vis d'elle.\nLa base de données des exécutants montre que Meryl a un frère jumeau dont elle est proche, mais il n'y a aucune trace de ce frère.",
   "like": "Journées enneigées, cristaux",
   "dislike": "La botanique",
   "element": "Ice",
@@ -177,7 +177,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 3
       }
@@ -200,7 +200,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 4
       }
@@ -223,7 +223,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 6
       }
@@ -246,7 +246,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 8
       }
@@ -269,7 +269,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 11
       }
@@ -292,7 +292,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Cadre d'amplification II",
+        "name": "Cadre d'amplification II",
         "rarity": "SSR",
         "amount": 5
       }

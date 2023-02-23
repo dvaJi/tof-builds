@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tippe und halte den normalen Angriff, um die Waffe aufzuladen. Fügt Grundschaden in Höhe von <b>60.5</b> des ANG + <b>3</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und das Ziel zu Fall bringst (Kopfschüsse sind gegen Wanderer unwirksam)."
+      "description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Fügt Grundschaden in Höhe von <b>60.5</b> des ANG + <b>3</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und das Ziel zu Fall bringst (Kopfschüsse sind gegen Wanderer unwirksam)."
     },
     {
       "name": "Pfeilhagel",

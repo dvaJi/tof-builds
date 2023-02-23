@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Após usar a habilidade da arma, aumenta o ATQ ígneo em 8%/10%/12%/15% durante 25 segundos. É acionado após uma classificação estelar diferente surtir efeito. Este efeito não se acumula."
+      "value": "Após usar uma habilidade de arma, aumenta o ATQ ígneo em 8%/10%/12%/15% durante 25 segundos. Se vários efeitos diferentes de classificação estelar forem acionados, prevalece o que for acionado por último. Esse efeito não se acumula."
     },
     {
       "count": 4,

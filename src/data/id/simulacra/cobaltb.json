@@ -7,7 +7,7 @@
   "birthday": "26 Juni (Cancer)",
   "birthplace": "Banges Tech",
   "gender": "Perempuan",
-  "info": "Meski perawakannya seperti ilmuwan yang sangat serius dan konservatif, dia tidak kaku.\nWajahnya nyaris tanpa ekspresi, seakan-akan dia tak punya otot wajah. Tapi, kalau sudah kenal dekat, dia akan menunjukkan sifat aslinya yang ramah dan ekspresif, misalnya, dia akan menggembungkan pipi saat marah.\nMeskipun berperan sebagai ilmuwan kepala dalam bidang pengembangan sibernetika, dia kerap mengedepankan naluri dibanding logika.\nSaat memodifikasi mesin, dia mengandalkan intuisi kuatnya dan enggan menambahkan komponen yang tak berguna.",
+  "info": "Dia mungkin tampak serius dan tidak ramah, tapi sebenarnya sifatnya unik dan menarik.\nDia tidak menunjukkan banyak ekspresi wajah, tapi begitu kau mengenalnya, kau akan tahu bahwa dia baik hati dan penuh ide dan emosi. Dia mungkin akan menunjukkan wajah marah saat jengkel.\nDia seorang teknisi mekanis yang ahli, tapi dia bekerja dengan perasaan dan bukan teori.\nDia menangani kreasinya dengan \"indra keenam\", dan sering kali menambahkan modul yang sama sekali tidak berguna cuma karena dia suka...",
   "description": "Cobalt-B (bukan nama asli) adalah teknisi mekanis untuk tim pengembangan senjata Banges Tech. Posisinya tidak terlalu tinggi di hierarki perusahaan karena hasil tesnya tidak terlalu bagus.\nHanya rekan kerjanya yang tahu bahwa dia sesungguhnya figur yang paling ulung dalam tim. Dia tak peduli soal teori dasar dan hanya membuat senjata yang sangat efektif dengan berbekal naluri.\nUntuk menguji senjata ini dan mengumpulkan data tempur, dia kadang ikut dengan operasi bersama tentara lain dan menjajal senjatanya ke anggota Hyena.",
   "like": "Permesinan, mencari ide, batu artistik",
   "dislike": "Belajar, ujian",
@@ -23,14 +23,14 @@
       "type": [
         "Attack"
       ],
-      "description": "Saat di darat, gunakan tombol Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan pertama menimbulkan <b>52.3%</b> ATK + <b>3</b> damage.\nSerangan kedua menimbulkan <b>75.6%</b> ATK + <b>4</b> damage.\nSerangan ketiga menimbulkan <b>94.5%</b> x ATK + <b>5</b> damage.\nSerangan keempat menimbulkan <b>142.8%</b> ATK + <b>8</b> damage.\nSerangan kelima menimbulkan <b>137.8%</b> ATK + <b>7</b> damage."
+      "description": "Saat di darat, gunakan tombol Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan pertama menimbulkan <b>52.3%</b> ATK + <b>3</b> DMG.\nSerangan kedua menimbulkan <b>75.6%</b> ATK + <b>4</b> DMG.\nSerangan ketiga menimbulkan <b>94.5%</b> ATK + <b>5</b> DMG.\nSerangan keempat menimbulkan <b>142.8%</b> ATK + <b>8</b> DMG.\nSerangan kelima menimbulkan <b>137.8%</b> ATK + <b>7</b> DMG."
     },
     {
       "name": "Charged Shot",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga dan lepas untuk menembakkan peluru, menimpakan <b>95.4%</b> ATK + <b>5</b> DMG, plus sebuah ledakan 3 detik kemudian (atau jika target mati), menimpakan <b>23.9%</b> ATK sebagai DMG kepada musuh di sekitarnya. Setiap kali target menerima DMG sebelum meledak (maks <b>4</b> kali), areanya menjadi dua kali lipat dan DMG meningkat."
+      "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga dan lepas untuk menembakkan peluru, menimpakan DMG sebesar <b>95.4%</b> ATK + <b>5</b>, plus sebuah ledakan 3 detik kemudian (atau jika target mati), menimpakan DMG sebesar <b>23.9%</b> ATK kepada musuh di sekitarnya. Setiap kali target menerima DMG sebelum ledakan (maks <b>4</b> kali), areanya menjadi dua kali lipat dan DMG meningkat."
     },
     {
       "name": "Jumping Blast",
@@ -45,7 +45,7 @@
       "type": [
         "Double Jump"
       ],
-      "description": "Setelah Double-Jump, gunakan Serangan Pergantian di udara.\nMenembakkan laser Omnium ke bawah. Laser itu kemudian menyapu ke depan, menimpakan DMG sebesar <b>33.8%</b> ATK + <b>2</b>."
+      "description": "Setelah Double-Jump, gunakan Serangan Discharge di udara.\nMenembakkan laser Omnium ke bawah. Laser itu kemudian menyapu ke depan, menimpakan DMG sebesar <b>33.8%</b> ATK + <b>2</b>."
     },
     {
       "name": "Heavy Bombardment",
@@ -75,12 +75,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, beralih ke Weapon ini dari Weapon lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melemparkan <b>3</b> granat ke depan, menimpakan <b>570%</b> ATK + <b>30</b> DMG area dan membuat target <b>terpental</b>."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, beralih ke Senjata ini dari Senjata lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melemparkan <b>3</b> granat ke depan, menimpakan <b>570%</b> ATK + <b>30</b> DMG area dan membuat target <b>terpental</b>."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat charge senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Flame Resonance",
@@ -89,21 +89,21 @@
   "advancement": [
     "Setiap serangan Barrage akan menimpakan DMG tambahan sebesar <b>2%</b> dari HP target saat ini (tak bisa melebihi <b>180%</b> ATK).",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
-    "Branch Skill dari Heavy Bombardment dan Dodge Attack dari Close Quarters mengakibatkan <span class=\"text-green\">Ion Scorch</span> kepada target yang sudah terkena Burn, menimpakan Flame DMG sebesar <b>40%</b> ATK setiap detik selama <b>10</b> detik.",
+    "Branch Skill dari Heavy Bombardment dan Serangan Dodge dari Close Quarters mengakibatkan <span class=\"text-green\">Ion Scorch</span> kepada target yang sudah terkena Burn, menimpakan Flame DMG sebesar <b>40%</b> ATK setiap detik selama <b>10</b> detik.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
-    "DMG dari <span class=\"text-green\">Ion Scorch</span> meningkat menjadi <b>60%</b> ATK. Serangan yang berhasil didaratkan dengan Dodge Skill dari senjata apa pun akan memperbarui durasi <span class=\"text-green\">Ion Scorch</span>.",
-    "<span class=\"text-green\">Barrage</span> mengakibatkan efek Burn selama <b>15</b> detik. Jika berhasil mendaratkan Skill Menghindar menggunakan senjata apa pun, CD <span class=\"text-green\">Barrage</span> berkurang <b>4</b> detik. CD efek ini: <b>1,5</b> detik. DoT dari Skill Menghindar juga akan mengaktifkan efek pengurangan CD."
+    "DMG dari <span class=\"text-green\">Ion Scorch</span> meningkat menjadi <b>60%</b> ATK. Serangan yang berhasil didaratkan dengan Skill Dodge dari senjata apa pun akan memperbarui durasi <span class=\"text-green\">Ion Scorch</span>.",
+    "<span class=\"text-green\">Barrage</span> mengakibatkan efek Burn selama <b>15</b> detik. Jika berhasil mendaratkan Skill Dodge menggunakan senjata apa pun, CD <span class=\"text-green\">Barrage</span> berkurang <b>4</b> detik. CD efek ini: <b>1,5</b> detik. DoT dari Skill Dodge juga akan mengaktifkan efek pengurangan CD."
   ],
   "traits": [
     {
       "name": "Lingering Warmth",
       "icon": true,
-      "description": "Setelah Cobalt-B menggunakan Discharge Skill, memulihkan Weapon Charge dengan jumlah acak antara <b>50</b> hingga <b>120</b> poin."
+      "description": "Setelah Cobalt-B menggunakan Skill Discharge, memulihkan Charge Senjata dengan jumlah acak antara <b>50</b> hingga <b>120</b> poin."
     },
     {
       "name": "Sparks",
       "icon": true,
-      "description": "Setelah Cobalt-B menggunakan Discharge Skill, memulihkan Weapon Charge dengan jumlah acak antara <b>90</b> hingga <b>180</b> poin."
+      "description": "Setelah Cobalt-B menggunakan Skill Discharge, memulihkan Charge Senjata dengan jumlah acak antara <b>90</b> hingga <b>180</b> poin."
     }
   ],
   "ascension": [

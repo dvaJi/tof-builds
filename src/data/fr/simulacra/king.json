@@ -1,14 +1,13 @@
 {
   "_id": 9,
   "id": "king",
-  "name": "KING",
   "weapon": "Faux du corbeau",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "3 novembre (scorpion)",
   "birthplace": "Ravageurs",
   "gender": "Masculin",
-  "info": "Turbulent et habillé avec splendeur, l'incroyable prestance de KING peut être perçue partout où il va. Il est bien pire qu'il n'en a l'air, et affiche un air intimidant et agressif à tout moment. Bien que son tempérament puisse être problématique, il n'est pas difficile de communiquer avec KING.\nCherchant constamment à être stimulé, KING donne la priorité à la satisfaction de ses désirs matériels. Ainsi, il apprécie particulièrement la concision et la valeur monétaire claire des choses. Il déteste les menteurs et les prétentieux.\\\r\\KING a souvent recourt à la violence afin de résoudre ses problèmes et obtenir ce qu'il veut, il n'est pas très friand des stratégies élaborées (au combat ou ailleurs).\nCeux qui passent un peu de temps avec KING peuvent se rendre compte qu'il n'est qu'un homme ordinaire, bien que plus fort que la moyenne. Cela dit, ils feraient mieux de garder cette pensée pour eux, même s'ils ne cherchent pas à le vexer.",
-  "description": "De tous ceux qui ont été assez stupides pour accepter les taux d'intérêt exorbitants de l'Association des entreprises de Banges, KING est un cas vraiment unique. Normalement, quiconque ne peut payer est envoyé au travail dans les mines, mais il n'a jamais écopé d'un tel traitement.\nCe n'est pas que l'Association ne voulait pas, mais même en ayant posté des avis de recherche avec de juteuses récompenses et n'ayant épargné aucun effort, ils ne l'ont pas trouvé.\nMercenaire célèbre pour ses prouesses au combat, KING est vu comme l'incarnation de la violence. Il se bat depuis sa plus tendre enfance et est un bagarreur vétéran spécialisé dans les combats de type seul contre tous. Il reçoit des paies bien lucratives pour chaque mission, mais il dépense tout en un clin d'œil.",
+  "info": "Sauvage et tape-à-l'œil, KING est une personne qui laisse une impression durable, car il consacre plus de temps aux combats qu'aux discussions et il dégage des ondes menaçantes. Même s'il a du caractère, il est ouvert à la communication… parfois.\nKING mène une vie effervescente et choisit d'inclure le matérialisme à ses valeurs, un matérialisme monétaire affiché à la vue de tous. C'est un homme assez peu bavard qui n'aime pas ceux qui parlent trop, ainsi que ceux qui s'efforcent d'être moralement supérieurs.\nIl préfère résoudre des problèmes et obtenir ce qu'il veut en usant de force brute plutôt que de considérations complexes et de stratégies méticuleuses.\nEn ce qui concerne KING, il est toujours préférable de s'abstenir de lui poser des questions sur sa personnalité.",
+  "description": "Parmi tous les malheureux qui doivent beaucoup d'argent à la chambre de commerce de Banges à un taux d'intérêt élevé (un malheur qu'ils se sont eux-mêmes infligé), KING est un cas unique. C'est le seul qui n'a pas été envoyé travailler dans les mines pour le restant de ses jours, la sentence normalement infligée par la chambre aux mauvais payeurs.\nNon pas que la chambre n'ait pas souhaité le faire. Elle n'a tout simplement rien pu faire, bien qu'ayant mis sa tête à prix ou déployé des forces armées.\nKING, un mercenaire connu pour son agressivité, est souvent considéré comme la violence incarnée. Il cherche la bagarre depuis qu'il est jeune et est capable de se battre seul face à plusieurs adversaires. Il gagne beaucoup d'argent pour chacune des missions qui lui sont confiées, mais dépense immédiatement sa commission…",
   "like": "Argent, dépenser de l'argent, choses simples",
   "dislike": "Articles inestimables",
   "element": "Fire",
@@ -31,7 +30,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, attaquez 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>63.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>68.8%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>190.5%</b> de l'ATQ + <b>10</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>213.6%</b> de l'ATQ + <b>11</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>173.9%</b> de l'ATQ + <b>9</b>, et vous renversez la cible. Inflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts.Lorsque vous êtes dans les airs ou après un saut, attaquez 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>63.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>68.8%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>190.5%</b> de l'ATQ + <b>10</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>213.6%</b> de l'ATQ + <b>11</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>173.9%</b> de l'ATQ + <b>9</b>, et vous renversez la cible. Inflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
+      "description": "Lorsque vous êtes en l'air ou après un saut, attaquez 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>63.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>68.8%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>190.5%</b> de l'ATQ + <b>10</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>213.6%</b> de l'ATQ + <b>11</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>173.9%</b> de l'ATQ + <b>9</b>, et renverse la cible. Inflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
       "name": "Déchirement",
@@ -170,7 +169,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 3
       }
@@ -193,7 +192,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 4
       }
@@ -216,7 +215,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 6
       }
@@ -239,7 +238,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 8
       }
@@ -262,7 +261,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 11
       }
@@ -285,7 +284,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Cadre en nanofibres II",
+        "name": "Cadre en nanofibres II",
         "rarity": "SSR",
         "amount": 5
       }

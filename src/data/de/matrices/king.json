@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Gewährt für 25 Sek. einen Schadensbonus von 8%/10%/12%/14%, wenn ein Ziel von „Zertrümmern“ betroffen ist. Es gilt immer nur der Effekt mit der höchsten Stufe."
+      "value": "Je 10% „Zertrümmern“, die aktiv sind, erhöht sich der Schaden für 25 Sek. um 4%/5%/6%/7%, der Effekt kann bis zu 3-mal gestapelt werden."
     },
     {
       "count": 4,

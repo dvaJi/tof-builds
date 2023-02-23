@@ -7,8 +7,8 @@
   "birthday": "20 Mei (Taurus)",
   "birthplace": "Hykros",
   "gender": "Perempuan",
-  "info": "Malas dan jahil, Samir suka bercanda dan mengerjai orang dengan cara yang tidak berbahaya.\nWalau sebenarnya seorang Executor di Hykros, dan meski dia punya kekuatan luar biasa, kepribadian Samir yang pemalas dan tidak bisa dipercaya menjadi masalah. Kesenangannya mengerjai rekan membuat setiap orang yang bekerja dengannya jengkel, dan reputasinya tidak sepenuhnya positif. Namun, Samir sendiri sepertinya tidak peduli.",
-  "description": "Masa lalunya dipenuhi misteri.\nSaat ini, diketahui bahwa dia adalah seorang anak yatim piatu yang diadopsi oleh penduduk Banges. Dia bergabung dengan Hykros setelah dewasa dan menjadi Executor setelah menjalani latihan.\n\nDia mahir menembak, bahkan di antara Executor elite. Hykros pernah mempertimbangkan untuk memintanya menjadi instruktur bagi anggota baru, tetapi menyerah karena kepribadiannya tidak cocok untuk tugas itu.",
+  "info": "Samir melakukan apa pun yang dia inginkan sesukanya dan dia senang menjahili orang.\nDia adalah seorang Eksekutor Hykros dan punya keahlian yang patut diakui, tapi sifatnya yang kurang bisa diandalkan dan hobinya bersikap usil membuat orang kurang suka berteman dengannya. Dia sendiri tidak begitu memedulikannya...",
+  "description": "Masa lalunya dipenuhi misteri.\nSaat ini, diketahui bahwa dia adalah seorang anak yatim piatu yang diadopsi oleh penduduk Banges. Dia bergabung dengan Hykros setelah dewasa dan menjadi Eksekutor setelah menjalani latihan.\n\nDia mahir menembak, bahkan di antara Eksekutor elite. Hykros pernah mempertimbangkan untuk memintanya menjadi instruktur bagi anggota baru, tetapi menyerah karena kepribadiannya tidak cocok untuk tugas itu.",
   "like": "Memecahkan teka-teki dan misteri pembunuhan",
   "dislike": "Unknown",
   "element": "Volt",
@@ -61,38 +61,38 @@
       "type": [
         "Skill"
       ],
-      "description": "Menembakkan Energy Shield ke lokasi target, memantulkan sinar dalam Barrier. Timpakan damage sebesar <b>269.8%</b> ATK + <b>14</b>, dan serangan terakhir akan mengakibatkan <b>Suspend Keras</b> kepada target. Cooldown: <b>45</b> detik."
+      "description": "Menembakkan Perisai Energi ke lokasi target, memantulkan sinar dalam Barrier. Timpakan damage sebesar <b>269.8%</b> ATK + <b>14</b>, dan serangan terakhir akan mengakibatkan <b>Suspend Keras</b> kepada target. CD: <b>45</b> detik."
     },
     {
       "name": "Domain of Thunder",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghapus semua debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target setelah beralih ke senjata ini, mengakibatkan <b>Suspend Keras</b> kepada target dalam area dan menimbulkan total <b>238.3%</b> ATK + <b>13</b> damage setelah 3 kali menyerang target sambil menangkal buff mereka. Domain bertahan selama <b>3,5</b> detik dan menimpakan damage sebesar <b>42.4%</b> ATK + <b>2</b> kepada target setiap <b>0,5</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghapus semua debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target setelah beralih ke senjata ini, mengakibatkan <b>Suspend Keras</b> kepada target dalam area dan menimbulkan total <b>238.3%</b> ATK + <b>13</b> damage setelah 3 kali menyerang target sambil menangkal buff mereka. Domain bertahan selama <b>3,5</b> detik dan menimpakan damage sebesar <b>42.4%</b> ATK + <b>2</b> kepada target setiap <b>0,5</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik sehingga menetralkan semua buff dan menimpakan damage sebesar <b>144%</b> ATK. Target tidak bisa menerima buff selama <b>6</b> detik berikutnya."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik, menetralkan semua buff dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
   },
   "advancement": [
-    "Mengaktifkan ledakan listrik pada target setelah mendaratkan Critical Hit sehingga menimbulkan damage tambahan sebanyak <b>30%</b> ATK kepada target dan musuh di dekatnya. Cooldown: <b>0,2</b> detik.",
+    "Mengaktifkan ledakan listrik pada target setelah mendaratkan Critical Hit sehingga menimbulkan damage tambahan sebesar <b>30%</b> ATK kepada target dan musuh di dekatnya. CD: <b>0,2</b> detik.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
-    "Meningkatkan Crit Rate sebanyak <b>40%</b> kepada target yang terkena Electrify. Ledakan elektrik akan memperpanjang durasi efek Electrify selama <b>0,5</b> detik, maks <b>5</b> detik.",
+    "Meningkatkan Crit Rate sebesar <b>40%</b> kepada target yang terkena Electrify. Ledakan elektrik akan memperpanjang durasi efek Electrify selama <b>0,5</b> detik, maks <b>5</b> detik.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
     "Menggandakan durasi Electro Field dan menarik target ke tengah serangan.",
-    "Mengaktifkan ledakan elektrik akan mengurangi skill cooldown sebanyak <b>1</b> detik."
+    "Mengaktifkan ledakan elektrik akan mengurangi skill cooldown sebesar <b>1</b> detik."
   ],
   "traits": [
     {
       "name": "Trickery",
       "icon": true,
-      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>3%</b>, dan bisa ditumpuk hingga <b>4</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>1</b> detik."
+      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebesar <b>3%</b>, dan bisa ditumpuk hingga <b>4</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>1</b> detik."
     },
     {
       "name": "Shadow",
       "icon": true,
-      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebanyak <b>4%</b>, dan bisa ditumpuk hingga <b>5</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>2</b> detik."
+      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebesar <b>4%</b>, dan bisa ditumpuk hingga <b>5</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>2</b> detik."
     }
   ],
   "ascension": [

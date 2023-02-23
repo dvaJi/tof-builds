@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target. Cyclone can deal <b>47.8%</b> of ATK + <b>3</b> to a single target."
+      "description": "Hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target and deal <b>47.8%</b> of ATK + <b>3</b> to a single target."
     },
     {
       "name": "Diving Edge",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\nWhile falling, deal damage equal to <b>10%</b> of ATK + <b>1</b> for each hit to the target. Upon landing, deal damage equal to <b>76.4%</b> of ATK + <b>4</b> and knock the target back.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+      "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\nWhile falling, deal damage equal to <b>10%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>76.4%</b> of ATK + <b>4</b> and knock the target back.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Sneak Attack",
@@ -86,10 +86,10 @@
   },
   "weapon_resonance": {
     "name": "Physical Resonance",
-    "description": "<b>Physical Resonance</b>: Increase physical ATK by <b>15%</b> and physical resistance by <b>25%</b>. Activate by equipping <b>2</b> or more physical-damage weapons. This set effect also works with weapons in the off-hand slot. This effect does not stack repeatedly."
+    "description": "<b>Physical Resonance</b>: Increase physical ATK by <b>15%</b> and physical resistance by <b>25%</b>. Activate by equipping <b>2</b> or more physical-damage weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type."
   },
   "advancement": [
-    "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <b>8%</b> for <b>25</b> seconds, stacking up to <b>3</b> times for a maximum of 1 stack per skill use.",
+    "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <b>8%</b> for <b>25 seconds</b>, stacking up to <b>3</b> times for a maximum of 1 stack per skill use.",
     "Increase the current weapon's base ATK growth by <b>16%</b>.",
     "When hitting a target with a skill or discharge skill, apply 1 stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <b>10%</b> for <b>15 seconds</b>. Stack up to <b>1</b> time.",
     "Increase the current weapon's base HP growth by <b>32%</b>.",
@@ -166,7 +166,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -189,7 +189,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -212,7 +212,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -235,7 +235,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -258,7 +258,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -281,7 +281,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

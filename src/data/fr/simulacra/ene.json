@@ -2,13 +2,13 @@
   "_id": 5,
   "id": "ene",
   "name": "Ene",
-  "weapon": "Pilonneur",
+  "weapon": "Pilon",
   "weapon_id": "pummeler",
   "birthday": "17 août (lion)",
   "birthplace": "Victoria Security",
   "gender": "Féminin",
   "info": "Elle semble paresseuse et non motivée lorsqu'il n'y a rien à faire, mais adopte un esprit très compétitif et enthousiaste au combat.\nElle est extrêmement fière de son corps robotique qui est agile, puissant et qui ne vieillit pas. Elle est également têtue et repousse ses propres limites, refusant de tomber avant les corps qui sont faits de chair.\nMentalement, toutefois, elle est restée une enfant et elle dévoile son côté fragile lorsqu'elle est en compagnie de son père.",
-  "description": "À l'époque de l'Ancienne Fédération, Victoria, une entrepreneuse militaire privée, a autrefois programmé une série de droïdes de combat et Ene a été le premier prototype du projet.\nL'objectif était de créer un droïde parfait avec sa propre identité et la capacité de penser, ressentir et calculer la prochaine action. Le propriétaire qui a donné le feu vert pour ce projet a chargé la sauvegarde de la conscience de sa défunte fille dans Ene en guise \"d'âme\" du droïde.\nFinalement, Ene a gagné le droit d'être une humaine et de devenir la fille du propriétaire.",
+  "description": "À l'époque de l'Ancienne Fédération, Victoria, une société militaire privée, avait prévu de construire une série de droïdes de combat d'élite. Ene en a été le prototype.\nL'objectif était de créer le droïde parfait, doté d'une conscience, indépendant, et capable de penser, de ressentir et d'agir comme tout humain. L'\"âme\" d'Ene n'est autre qu'une sauvegarde de la conscience de la défunte fille du responsable du programme.\nEne a ensuite obtenu les mêmes droits que les humains, en tant que fille du cadre de Victoria.",
   "like": "Être avec son père, les humains qui sont plus forts qu'elle",
   "dislike": "Comprendre parfaitement la fragilité de la vie",
   "element": "Ice",
@@ -168,7 +168,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 2
       }

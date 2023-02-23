@@ -70,25 +70,25 @@
       "type": [
         "Skill"
       ],
-      "description": "Membuat Chakram Domain dengan Wanderer di pusatnya selama <b>8</b> detik. Pada waktu bersamaan, musuh akan ditarik, dan kecepatan mereka berkurang <b>30%</b> selama <b>8</b> detik. Melontarkan <b>5</b> Chakram yang memantul di antara musuh, menimpakan damage sebesar <b>24.2%</b> ATK + <b>1</b> kepada target di jalurnya, memantul maks <b>5</b> kali. <span class=\"text-red\">Cakram terbelah yang diaktifkan oleh Waning Moon juga memantul maks 5 kali.</span> Cooldown: <b>45</b> detik."
+      "description": "Membuat Chakram Domain dengan Wanderer di pusatnya selama <b>8</b> detik. Pada waktu bersamaan, musuh akan ditarik, dan kecepatan mereka berkurang <b>30%</b> selama <b>8</b> detik. Melontarkan <b>5</b> Chakram yang memantul di antara musuh, menimpakan damage sebesar <b>24.2%</b> ATK + <b>1</b> kepada target di jalurnya, memantul maks <b>5</b> kali. <span class=\"text-red\">Cakram terbelah yang diaktifkan oleh Waning Moon juga memantul maks 5 kali.</span> CD: <b>45</b> detik."
     },
     {
       "name": "Spirit of the Air",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b> dan akan melepaskan Chakram of the Seas kepada target. Target yang kena akan mengalami AOE <b>Stun</b> selama <b>1</b> detik, dan masing-masing <b>1</b> serangan kepadanya, maks <b>3</b> unit per detik (setiap serangan punya peluang <b>10%</b> untuk mengakibatkan <b>Stun</b> kepada target selama <b>1,5</b> detik), dan menimbulkan <b>41.4%</b> ATK + <b>2</b> damage selama <b>10</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b> dan akan melepaskan Chakram of the Seas kepada target. Target yang kena akan mengalami AOE <b>Stun</b> selama <b>1</b> detik, dan masing-masing <b>1</b> serangan kepadanya, maks <b>3</b> unit per detik (setiap serangan punya peluang <b>10%</b> untuk mengakibatkan <b>Stun</b> kepada target selama <b>1,5</b> detik), dan menimbulkan <b>41.4%</b> ATK + <b>2</b> damage selama <b>10</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan damage sebesar <b>137%</b> ATK dan membuat target terkena efek Grievous selama <b>7</b> detik sehingga menerima <b>20%</b> damage ekstra."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menimpakan DMG sebesar <b>137%</b> ATK dan membuat target terkena efek Grievous selama <b>7</b> detik, mengakibatkan mereka menerima <b>20%</b> DMG tambahan."
   },
   "advancement": [
-    "Meningkatkan damage yang ditimpakan dan semua efek Shatter elemental yang dihasilkan kepada target dalam jarak <span class=\"text-green\">Full Bloom</span> sebanyak <b>30%</b>.",
+    "Meningkatkan damage yang ditimpakan dan semua efek Shatter elemental yang dihasilkan kepada target dalam jarak <span class=\"text-green\">Full Bloom</span> sebesar <b>30%</b>.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
-    "Meningkatkan Shatter sebanyak <b>15%</b> dan mereset cooldown untuk semua Weapon Skill setelah menghancurkan Shield musuh. Hanya bisa diaktifkan sekali setiap <b>30</b> detik.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
+    "Meningkatkan Shatter sebesar <b>15%</b> dan mereset cooldown untuk semua Skill Senjata setelah menghancurkan Perisai musuh. Hanya bisa diaktifkan sekali setiap <b>30</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
     "Menyerang target yang terkena Grievous akan memperpanjang durasi Grievous selama <b>7</b> detik lagi (hanya menerima efek satu kali untuk efek yang sama).",
     "Setelah menggunakan <span class=\"text-green\">Full Bloom</span>, memberikan 100% peluang Crit untuk <b>8</b> detik berikutnya."
   ],
@@ -96,12 +96,12 @@
     {
       "name": "Security Alert",
       "icon": true,
-      "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>10%</b> dan Physical ATK sebanyak <b>7%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
+      "description": "Saat Shiro menggunakan Skill Senjata/Skill Discharge, meningkatkan semua jenis ATK sebesar <b>10%</b> dan Physical ATK sebesar <b>7%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
     },
     {
       "name": "Red Alarm",
       "icon": true,
-      "description": "Saat Shiro menggunakan Weapon Skill/Discharge Skill, meningkatkan semua jenis ATK sebanyak <b>16%</b> dan Physical ATK sebanyak <b>10%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
+      "description": "Saat Shiro menggunakan Skill Senjata/Skill Discharge, meningkatkan semua jenis ATK sebesar <b>16%</b> dan Physical ATK sebesar <b>10%</b> lagi selama <b>8</b> detik. Cooldown: <b>16</b> detik."
     }
   ],
   "ascension": [

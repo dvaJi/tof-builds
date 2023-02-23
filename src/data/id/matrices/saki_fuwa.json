@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Selama Frost Resonance aktif: Untuk setiap 3 detik, menimbulkan DMG sebesar 60%/100%/150%/220% Frost ATK kepada musuh dalam radius 10 meter dan mengakibatkan efek Frost. Efek Frost: Memperlambat target sebesar 3.5% selama 5 detik, dan membekukan target selama 3 detik setelah mencapai 3 tumpuk, tetapi tidak bisa membekukan Boss. Meningkatkan Frost DMG yang diterima target sebesar 5%. Bertahan selama 18 detik. Efek Matrix ini juga aktif di slot sampingan, tetapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
+      "value": "Saat Frost Resonance terpicu: Setiap 3 detik, menimpakan Frost DMG sebesar 60%/100%/150%/220% Frost ATK kepada musuh dalam radius 10 meter dan mengakibatkan efek Frost: Memperlambat target sebesar 3.5% selama 5 detik, membekukan target selama 3 detik setelah mencapai 3 tumpuk (tidak bisa membekukan Boss), dan meningkatkan Frost DMG yang diterima target sebesar 5% selama 18 detik. Efek set ini berfungsi di slot sampingan, tetapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
     },
     {
       "count": 4,

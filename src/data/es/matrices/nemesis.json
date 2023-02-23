@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Al curar a un objetivo, su ATQ Eléctrico aumenta un 15%/18%/21%/25% por 20 segundos. Este efecto no se acumula, y solo se aplica el efecto del nivel más alto cuando se obtiene repetidamente."
+      "value": "Cuando curas a un objetivo, aumenta su ATQ eléctrico en 15%/18%/21%/25% por 20 segundos. Este efecto no se acumula, y solo se aplica el efecto del nivel más alto cuando se obtiene repetidamente."
     },
     {
       "count": 4,
-      "value": "Al curarte o al curar a tu Electrodo, el objetivo de la curación obtiene una carga de \"Rayo\". El siguiente ataque realizado en 30 segundos está impregnado de \"Rayo\" que inflige daño equivalente al 300%/375%/450%/525% del ATQ eléctrico (el daño causado por Electrodos se reduce un 50%). No se puede activar más de una vez en 10 segundos. Las cargas de \"Rayo\" no se acumulan. Solo se aplica el efecto del nivel más alto cuando se obtiene repetidamente."
+      "value": "Cuando te curas a ti o a tu Electrodo, el objetivo de la curación obtiene una carga de \"Rayo\". El siguiente ataque en 30 segundos está imbuido de \"Rayo\", lo que inflige daño igual a 300%/375%/450%/525% del ATQ eléctrico (el daño causado por los Electrodos se reduce un 50%). No se puede activar más de una vez en 10 segundos. Las cargas de \"Rayo\" no se acumulan. Solo se aplica el efecto del nivel más alto cuando se obtiene repetidamente."
     }
   ],
   "mind": {

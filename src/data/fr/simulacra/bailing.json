@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>60.5%</b> de l'ATQ + <b>3</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi, et renverse la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+      "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>60.5%</b> de l'ATQ + <b>3</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi, et renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
     },
     {
       "name": "Pluie de flèches",
@@ -153,7 +153,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Cadre en nanofibres I",
+        "name": "Cadre en nanofibres I",
         "rarity": "SR",
         "amount": 2
       }

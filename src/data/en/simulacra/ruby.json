@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tap and hold the normal attack button or do this after Lockdown Zone is triggered to continuously fire searing energy beams at enemies in a target direction, dealing damage equal to <b>40%</b> of ATK + <b>2</b>. Consumes Wanderer's endurance."
+      "description": "Tap and hold normal attack or do this after Lockdown Zone is triggered to continuously fire searing energy beams at enemies in a target direction, dealing damage equal to <b>40%</b> of ATK + <b>2</b>. Consumes Wanderer's endurance."
     },
     {
       "name": "Blazing Dive",
@@ -69,7 +69,7 @@
       "type": [
         "Skill"
       ],
-      "description": "Spark fires out Sparks that last for 15 seconds and bounces between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for <b>4</b> seconds with a <b>15</b>-second cooldown. Sparks deals more damage the further it travels. On hit, it deals damage up to <b>350%</b> of ATK + <b>37</b> and inflicts a <b>25</b>-second Emblazen mark on the target. At the same time, Spark fires 4 bullets with each bullet dealing damage equal to <b>50%</b> of ATK + <b>3</b> against its target. Spark's normal attacks deal <b>110%</b> more damage to Emblazen-marked targets. When Sparks hits targets burned by the Wanderer, it burns or ignites the target once and deals additional damage equal to <b>100%</b> of the total remaining damage (multiple burn or incendiary effects are counted together). The Result calculation cooldown is <b>6</b> seconds and the skill cooldown is <b>30</b> seconds.\n\"<b>Passive</b>: When Sparks is active, each time Spark Attack deals damage, the Wanderer gains <b>1</b> point of Heat with a <b>0.9</b>-second cooldown, for up to <b>8</b> points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by <b>25%</b> for <b>25</b> seconds."
+      "description": "Spark fires out Sparks that last for 15 seconds and bounce between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for <b>4</b> seconds with a <b>15</b>-second cooldown. Sparks deals more damage the further they travel. On hit, they deal damage up to <b>350%</b> of ATK + <b>37</b> and inflict a <b>25</b>-second Emblazen mark on the target. At the same time, Spark fires 4 bullets with each bullet dealing damage equal to <b>50%</b> of ATK + <b>3</b> against its target. Spark's normal attacks deal <b>110%</b> more damage to Emblazen-marked targets. When Sparks hit targets burned by the Wanderer, they burn or ignite the target once and deal additional damage equal to <b>100%</b> of the total remaining damage (multiple burn or incendiary effects are counted together). The Result calculation cooldown is <b>6</b> seconds and the skill cooldown is <b>30</b> seconds.\n\"<b>Passive</b>: When Sparks is active, each time Spark Attack deals damage, the Wanderer gains <b>1</b> point of Heat with a <b>0.9</b>-second cooldown, for up to <b>8</b> points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by <b>25%</b> for <b>25</b> seconds."
     },
     {
       "name": "Supernova",
@@ -90,7 +90,7 @@
   "advancement": [
     "Emblazen boosts the damage of Spark Attack to <b>80%</b>. Skill cooldown drops to <b>24</b> seconds.",
     "Increase the current weapon's base ATK growth by <b>16%</b>.",
-    "Emblazen increases flame boost by <b>8%</b> and the burn multiplier to <b>75%</b>.",
+    "Emblazen increases flame boost by <b>8%</b> and the burn multiplier to <b>150%</b>.",
     "Increase the current weapon's base ATK growth by <b>32%</b>.",
     "Restore an additional <b>75</b> points of weapon charge each time Spark Attack hits an enemy. Cooldown: 0.9 seconds. Shatter increases by <b>25%</b> when Ultimate Heat is active.",
     "Emblazen boosts the damage of Spark Attack to <b>160%</b> and doubles Heat acquisition efficiency. Skill cooldown drops to <b>16</b> seconds."
@@ -98,11 +98,11 @@
   "traits": [
     {
       "name": "Dreamcatcher",
-      "description": "Increases the flame damage taken by all enemies within <b>5</b> meters of Dolly by <b>8%</b>. Not stackable."
+      "description": "Increases the flame damage taken by all enemies within <b>5</b> meters of Dolly by <b>8%</b>. This effect does not stack."
     },
     {
       "name": "Dolly's Domain",
-      "description": "Increases the flame damage received by all enemies within 5 meters of Dolly by <b>8%</b>. Not stackable. Increases flame ATK after throwing Dolly by <b>12%</b> for <b>10</b> seconds. Not stackable."
+      "description": "Increases the flame damage received by all enemies within 5 meters of Dolly by <b>8%</b>. Not stackable. Increases flame ATK after throwing Dolly by <b>12%</b> for <b>10</b> seconds. This effect does not stack."
     }
   ],
   "ascension": [
@@ -163,7 +163,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -186,7 +186,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -209,7 +209,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -232,7 +232,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -255,7 +255,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -278,7 +278,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

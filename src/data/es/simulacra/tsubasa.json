@@ -7,8 +7,8 @@
   "birthday": "24 de marzo (Aries)",
   "birthplace": "Herederos de Aida",
   "gender": "Femenino",
-  "info": "La oportunista por excelencia. Hiperactiva, habladora, le encanta formar parte de una multitud.\nDemasiado sociable. No se enfada ni siquiera cuando le insultan o le gritan. Tolerante con todos los puntos de vista y capaz de hacer amigos a la primera de cambio.\nSin embargo, la fiabilidad de este espíritu libre es prácticamente inexistente.",
-  "description": "El currículum de Tsubasa indica que una vez fue residente del Refugio de Astra, una oficial de las Hienas y una trabajadora de Hykros, que es el registro que usamos para su Simulacrum.\nDespués, optó por traicionar a Hykros y desertó a los Herederos de Aida.\nEso solo podría describirse como un movimiento alarmante. Su estatus actual es desconocido, pero seguramente no es una lacaya de poca monta dentro de los Herederos, dadas sus habilidades.\nNunca se basa en la filosofía, la moral, los objetivos o las reglas para decidir con qué bando se alineará, como si nunca le importara nada de eso. Ha estado en muchas organizaciones, pero nunca ha pertenecido realmente a ninguna de ellas.",
+  "info": "Una oportunista que vuela con el viento. Proactiva y parlanchina, le gusta pasar el rato.\nHace amigos con facilidad y no se enoja incluso si alguien le señala su tendencia oportunista. Tiene una mente abierta que constantemente acepta ideas novedosas y diferentes.\nPor otro lado, no es la clase de persona que ofrece seguridad.",
+  "description": "El currículum de Hane muestra que pasó un tiempo en el Refugio de Astra, que en su día fue Oficial de las Hienas, y luego, empleada de Hykros, en lo que se basan los datos de su Simulacrum.\nDespués, decidió traicionar a Hykros y se unió a los Herederos de Aida.\nLa única palabra para describirla sería \"inestable\". Nadie sabe lo que está haciendo ahora, pero podemos estar seguros de que, con sus habilidades, definitivamente no es un simple peón de los Herederos.\nNo elige un bando según ideales, el bien o el mal, objetivos o reglas; es como si nada de eso le importara. Pertenecía a muchas organizaciones, pero tampoco pertenecía a ninguna.",
   "like": "Viento, gravedad, libertad, goma de mascar",
   "dislike": "Inercia, estabilidad",
   "element": "Ice",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el ataque normal para cargar. Inflige daño básico equivalente al <b>87.8%</b> del ATQ + <b>5</b>, y <b>50%</b> más por cada <b>1</b> segundo utilizado para cargar, hasta <b>3</b> segundos. Inflige daño doble al acertar a la cabeza o al punto débil del enemigo y derriba al objetivo (los disparos a la cabeza no son efectivos contra nómadas)."
+      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño básico igual a <b>87.8%</b> del ATQ + <b>5</b>, y <b>50%</b> más por cada <b>segundo</b> de carga, hasta <b>3 segundos</b>. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
     },
     {
       "name": "Lluvia de Flechas",
@@ -73,7 +73,7 @@
   ],
   "weapon_type": {
     "name": "Caparazón de hielo",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga de arma del objetivo se reduce un <b>50%</b>."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
   },
   "advancement": [
     "Otorga una acumulación de Flecha Aguda cada vez que una flecha disparada durante un ataque de evasión golpea a un enemigo. Cada acumulación aumenta el daño en un <b>5%</b> por <b>15</b> segundos. Se acumula hasta <b>3</b> veces.",
@@ -268,7 +268,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

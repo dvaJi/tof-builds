@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Erhöht nach Einsetzen der Waffenfähigkeit den Flammen-ANG 25 Sek. lang um 8%/10%/12%/15%. Wird ausgelöst, nachdem eine andere Sternenbewertung aktiviert wurde. Dieser Effekt kann nicht gestapelt werden."
+      "value": "Erhöht nach Einsetzen der Waffenfähigkeit den Flammen-ANG 25 Sek. lang um 8%/10%/12%/15%. Wenn mehrere Sternenbewertungseffekte ausgelöst werden, hat der zuletzt ausgelöste Effekt Vorrang. Dieser Effekt kann nicht gestapelt werden."
     },
     {
       "count": 4,

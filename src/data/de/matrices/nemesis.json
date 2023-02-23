@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Wenn ein Ziel geheilt wird, wird sein Volt-ANG 20 Sekunden lang um 15%/18%/21%/25% erhöht. Dieser Effekt kann nicht gestapelt werden. Bei wiederholter Erlangung wird nur die Wirkung der höchsten Stufe angewandt."
+      "value": "Wenn ein Ziel geheilt wird, wird sein Volt-ANG für 20 Sek. um 15%/18%/21%/25% erhöht. Dieser Effekt kann nicht gestapelt werden. Es gilt immer nur der Effekt mit der höchsten Stufe."
     },
     {
       "count": 4,

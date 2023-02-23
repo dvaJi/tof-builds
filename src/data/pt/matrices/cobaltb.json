@@ -8,20 +8,20 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta em 14%/16%/18%/20% o dano causado a alvos sofrendo efeitos negativos."
+      "value": "Restaura 1 tentativa de esquiva a cada 4 esquivas. Ataques de esquiva queimam os alvos, causando dano de {0}%/{1}%/{2}%/{3}% do ATQ a cada segundo durante {4} segundos."
     },
     {
       "count": 4,
-      "value": "Restaura 1 tentativa de esquiva a cada 3 esquivas. Habilidades de esquiva infligem queimadura ao atingir, causando dano de 24%/30%/36%/42% do ATQ a cada 0,5 segundo durante 4 segundos."
+      "value": "Aumenta em {0}%/{1}%/{2}%/{3}% o dano causado a alvos sofrendo efeitos negativos."
     }
   ],
   "mind": {
     "name": "Sexto Sentido",
-    "desc": "É como ser forçada a observar de outra dimensão sem se mover."
+    "desc": "É tão aguçado quanto observação estática de diversos planos, somado a muita sorte."
   },
   "memory": {
     "name": "Capital Inicial",
-    "desc": "Duas garantias que nunca foram confiscadas, mesmo depois de a dívida ter sido paga."
+    "desc": "Duas garantias, não recolhidas mesmo após a quitação da dívida, aparentemente foram deixadas como um tipo de lembrete generoso... ou talvez só tenham sido esquecidas, mesmo."
   },
   "belief": {
     "name": "Mestra da Arte",

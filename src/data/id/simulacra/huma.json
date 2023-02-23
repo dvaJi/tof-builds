@@ -8,7 +8,7 @@
   "birthplace": "Hykros",
   "gender": "Perempuan",
   "info": "Terkadang terlihat bingung atau linglung karena kehilangan sebagian ingatan dan data identitasnya. Sering mengenakan masker di mulutnya, membuat komunikasi bertambah sulit. Sangat pendiam dan penyendiri.\nDengan sedikit pengalaman di dunia luar, dia lugu seperti anak burung dan memancarkan aura yang dingin.",
-  "description": "Gadis dengan penyakit yang menganugerahinya kekuatan aneh, tengah mendapat perawatan di Hykros.\nUntuk alasan tertentu, Huma kehilangan semua ingatan masa lalunya, juga kepribadiannya dulu. Sejak tersadar, pengetahuan Huma tentang dunia hanya sebatas Hykros. Lainnya hanya akan membuatnya agak takut dan gelisah.\nSaat ini, hubungan pribadi Huma hanya terjalin dengan peneliti medis yang telah dikenalnya selama dia dirawat. Para peneliti ini menyarankan kepada Huma untuk menemani yang lain menjelajahi dunia luar. Harapannya, dia bisa berangsur kembali ke kehidupan normalnya. Namun, Huma membuat keputusan yang mencengangkan — memilih dilatih menjadi Executor Hykros.\nAlasannya sederhana dan lugu — dia merasa aman saat berada di tengah-tengah Executor, dan ingin menggunakan kemampuannya untuk membalas kebaikan Hykros.",
+  "description": "Gadis dengan penyakit yang menganugerahinya kekuatan aneh, tengah mendapat perawatan di Hykros.\nUntuk alasan tertentu, Huma kehilangan semua ingatan masa lalunya, juga kepribadiannya dulu. Sejak tersadar, pengetahuan Huma tentang dunia hanya sebatas Hykros. Lainnya hanya akan membuatnya agak takut dan gelisah.\nSaat ini, hubungan pribadi Huma hanya terjalin dengan peneliti medis yang telah dikenalnya selama dia dirawat. Para peneliti ini menyarankan kepada Huma untuk menemani yang lain menjelajahi dunia luar. Harapannya, dia bisa berangsur kembali ke kehidupan normalnya. Namun, Huma membuat keputusan yang mencengangkan — memilih dilatih menjadi Eksekutor Hykros.\nAlasannya sederhana dan lugu — dia merasa aman saat berada di tengah-tengah Eksekutor, dan ingin menggunakan kemampuannya untuk membalas kebaikan Hykros.",
   "like": "Membaca, damai dan tenang, berkebun",
   "dislike": "Unknown",
   "element": "Fire",
@@ -54,45 +54,45 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Dodge Attack.\nShield Form: Melontarkan perisai api yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan memukul mundur target. Lalu, memicu ledakan yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b>, memberikan efek <b>Stun</b> kepada target selama <b>0,5</b> detik, dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik.\nAxe Form: Mengayunkan kapak yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik."
+      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Serangan Dodge.\nShield Form: Melontarkan perisai api yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan memukul mundur target. Lalu, memicu ledakan yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b>, memberikan efek <b>Stun</b> kepada target selama <b>0,5</b> detik, dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik.\nAxe Form: Mengayunkan kapak yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik."
     },
     {
       "name": "Fission",
       "type": [
         "Skill"
       ],
-      "description": "Shield Conversion: Beralih dari Shield Form ke Axe Form dan menghantam tanah, menimpakan damage sebesar <b>373.8%</b> ATK + <b>20</b> dan mengakibatkan <b>Suspend Keras</b> kepada target. Meninggalkan zona api besar selama <b>5</b> detik yang akan membakar target, dan menimbulkan damage terus-menerus sebanyak <b>233.6%</b> ATK + <b>12</b>.\nAxe Conversion: Beralih dari bentuk kapak ke bentuk perisai dan menghantamkannya ke tanah, menimpakan damage sebesar <b>309.5%</b> ATK + <b>16</b> kepada target dan memukul mereka mundur. Membuat target tidak bisa berganti senjata selama <b>5</b> detik.\nCooldown: <b>25</b> detik untuk Shield Conversion sekaligus Axe Conversion."
+      "description": "Shield Conversion: Beralih dari Shield Form ke Axe Form dan menghantam tanah, menimpakan damage sebesar <b>373.8%</b> ATK + <b>20</b> dan mengakibatkan <b>Suspend Keras</b> kepada target. Meninggalkan zona api besar selama <b>5</b> detik yang akan membakar target, dan menimbulkan damage terus-menerus sebesar <b>233.6%</b> ATK + <b>12</b>.\nAxe Conversion: Beralih dari bentuk kapak ke bentuk perisai dan menghantamkannya ke tanah, menimpakan damage sebesar <b>309.5%</b> ATK + <b>16</b> kepada target dan memukul mereka mundur. Membuat target tidak bisa berganti senjata selama <b>5</b> detik.\nCD: <b>25</b> detik untuk Shield Conversion sekaligus Axe Conversion."
     },
     {
       "name": "Seething Rage",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Flame Shockwave setelah beralih ke senjata ini, menimpakan damage sebesar <b>352%</b> ATK + <b>19</b>. Memberikan Taunt kepada musuh selama <b>5</b> detik, dan selama itu akan mendapatkan <b>15%</b> Damage Reduction. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek bertahan <b>20</b> detik dan selama <b>10</b> detik akan memberikan <b>5%</b> Damage Reduction (bisa ditumpuk), dan memulihkan Dodge sebanyak 1."
+      "description": "Saat <span class=\"text-red\">Charge Senjata penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Flame Shockwave setelah beralih ke senjata ini, menimpakan damage sebesar <b>352%</b> ATK + <b>19</b>. Memberikan Taunt kepada musuh selama <b>5</b> detik, dan selama itu akan mendapatkan <b>15%</b> Damage Reduction. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek bertahan <b>20</b> detik dan selama <b>10</b> detik akan memberikan <b>5%</b> Damage Reduction (bisa ditumpuk), dan memulihkan Dodge sebesar 1."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat charge senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "advancement": [
-    "Mendapatkan Perisai Kuat setelah menggunakan Discharge: Seething Rage. Jika menggunakan Skill Menghindar atau Skill Branch selama dalam Bentuk Perisai, akan mendapatkan satu tumpuk Perisai Kuat, yang memberikan <b>10%</b> Pengurangan DMG selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Bentuk Kapak, semua tumpukan Perisai Kuat akan berubah menjadi tumpukan Kapak Tajam, yang masing-masing akan meningkatkan damage sebesar <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
-    "Selama dalam wujud perisai, Branch/Dodge Attack akan menimpakan damage tambahan kepada target sebanyak <b>4%</b> dari HP saat ini pengguna.",
+    "Mendapatkan Perisai Kuat setelah menggunakan Discharge: Seething Rage. Jika menggunakan Skill Dodge atau Skill Branch selama dalam Bentuk Perisai, akan mendapatkan satu tumpuk Perisai Kuat, yang memberikan <b>10%</b> Pengurangan DMG selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Bentuk Kapak, semua tumpukan Perisai Kuat akan berubah menjadi tumpukan Kapak Tajam, yang masing-masing akan meningkatkan DMG sebesar <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
+    "Selama dalam wujud perisai, Branch/Serangan Dodge akan menimpakan damage tambahan kepada target sebesar <b>4%</b> dari HP saat ini pengguna.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
-    "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang <b>10%</b> setiap <b>3</b> detik, hingga minimum <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
-    "Meningkatkan Conversion Skill.\nShield Conversion Enhancement: Meningkatkan damage yang ditimbulkan sebanyak <b>60%</b> dan memperluas radius zona Flame sebanyak <b>30%</b>.\nAxe Conversion Enhancement: Cooldown tidak sama dengan Shield Conversion. Selama <b>5</b> detik berikutnya setelah menggunakan skill ini, semua damage yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
+    "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang <b>10%</b> setiap <b>3</b> detik, hingga minimal <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
+    "Meningkatkan Conversion Skill.\nShield Conversion Enhancement: Meningkatkan damage yang ditimbulkan sebesar <b>60%</b> dan memperluas radius zona Flame sebesar <b>30%</b>.\nAxe Conversion Enhancement: Cooldown tidak sama dengan Shield Conversion. Selama <b>5</b> detik berikutnya setelah menggunakan skill ini, semua damage yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
   ],
   "traits": [
     {
       "name": "Fortitude",
       "icon": true,
-      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP."
+      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Skill Senjata, gunakan Fortitude Mark dan dapatkan Perisai HP sebesar jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan Perisai HP sebesar jumlah tanda x<b>0,6%</b> HP."
     },
     {
       "name": "Iron Screen",
       "icon": true,
-      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Weapon Skill, gunakan Fortitude Mark dan dapatkan HP Shield sebanyak jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan HP Shield sebanyak jumlah tanda x<b>0,9%</b> HP."
+      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Skill Senjata, gunakan Fortitude Mark dan dapatkan Perisai HP sebesar jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan Perisai HP sebesar jumlah tanda x<b>0,9%</b> HP."
     }
   ],
   "ascension": [

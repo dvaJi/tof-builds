@@ -8,7 +8,7 @@
   "birthplace": "Victoria Security",
   "gender": "Weiblich",
   "info": "Sie ist zwar faul und träge, wenn es nichts zu tun gibt, aber im Kampf entwickelt sie großen Enthusiasmus und Ehrgeiz.\nSie ist ausgesprochen stolz auf ihren agilen und starken Roboterkörper, der nicht altert. Zudem ist sie sehr stur und geht an ihre Grenzen, um nicht gegen Menschen aus Fleisch und Blut zu verlieren.\nGeistig ist sie jedoch noch immer ein Kind. Wenn sie bei ihrem Vater ist, zeigt sie ihre verletzliche Seite.",
-  "description": "Während der alten Föderation plante die private militärische Vertragsfirma Victoria eine Reihe von Kampfandroiden, und Ene war der erste Prototyp des Projekts.\nZiel dabei war, einen perfekten Androiden mit eigener Identität zu schaffen, der denken, fühlen und folgerichtige Handlungen berechnen konnte. Der Firmeninhaber, der das Projekt bewilligt hatte, übertrug das Backup-Bewusstsein seiner verstorbenen Tochter in Ene, um dem Androiden eine „Seele“ zu geben.\nAls seine Tochter erhielt Ene schließlich den Status als Mensch.",
+  "description": "Während der Ära der alten Föderation hatte das private Militärunternehmen Victoria geplant, eine Reihe von Elite-Kampfandroiden zu entwickeln. Ene war der Prototyp des Programms.\nUrsprünglich wollte man den perfekten Androiden anfertigen: unabhängig, mit Selbstbewusstsein und der Fähigkeit, wie ein Mensch zu denken, zu fühlen und zu handeln. Das Mitglied der Geschäftsleitung, das das Programm genehmigte, lud eine Sicherungskopie des Bewusstseins seiner verstorbenen Tochter als „Seele“ in Ene hoch.\nSpäter dann erhielt Ene als Tochter des Victoria-Geschäftsführers ihre Rechte als Mensch.",
   "like": "Zeit mit ihrem Vater verbringen; Menschen, die stärker als sie sind",
   "dislike": "Sich der Zerbrechlichkeit des Lebens bewusst sein",
   "element": "Ice",
@@ -69,7 +69,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um Weltenspalter auszulösen. Dadurch werden <b>3</b> Schockwellen nach vorne geschickt, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG + <b>3</b> verursachen und die Ziele schweben lassen.\nWährend du in Rage bist, feuerst du <b>5</b> Schockwellen nach vorne, die jeweils Schaden in Höhe von <b>52.4%</b> des <b>3</b> verursachen und das Ziel schweben lassen."
+      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um Weltenspalter auszulösen. Dadurch werden <b>3</b> Schockwellen nach vorne geschickt, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG + <b>3</b> verursachen und die Ziele schweben lassen.\nWährend du in Rage bist, feuerst du <b>5</b> Schockwellen nach vorne, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG + <b>3</b> verursachen und das Ziel schweben lassen."
     },
     {
       "name": "Rage",
@@ -88,7 +88,7 @@
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Verspottet Ziele in der Nähe nach dem Wechsel zu dieser Waffe, verhindert innerhalb der nächsten <b>8</b> Sek. <b>1</b>-mal eingehenden Schaden und gewährt Hyperkörper für die nächsten <b>8</b> Sek. Abklingzeit: <b>15</b> Sek.",

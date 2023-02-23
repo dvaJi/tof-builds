@@ -38,7 +38,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Segure o botão de ataque normal ou após ativar Zona de Quarentena para disparar raios de energia causticante continuamente em alvos na direção selecionada. Causa dano de <b>40%</b> do ATQ + <b>2</b> e reduz o vigor do Errante."
+      "description": "Segure o botão de ataque normal ou após ativar Zona de Quarentena para disparar raios de energia causticante continuamente em alvos na direção selecionada. Causa dano de <b>40%</b> do ATQ + <b>2</b> e consome vigor do Errante."
     },
     {
       "name": "Mergulho Abrasador",
@@ -69,7 +69,7 @@
       "type": [
         "Skill"
       ],
-      "description": "Faísca dispara centelhas, que dura 15 segundos e ricocheteia entre o alvo e você. Ao atingir o alvo, centelhas o desacelera durante <b>4</b> segundos. Tempo de recarga: <b>15</b> seg. Centelhas causa mais dano quanto maior for a distância. Ao atingir, causa dano de até <b>350%</b> do ATQ + <b>37</b> e inflige uma marca de esbrasear de <b>25</b> segundos ao alvo. Ao mesmo tempo, Faísca dispara 4 balas. Cada uma causa dano de <b>50%</b> do ATQ + <b>3</b> ao alvo. O ataque normal de Faísca causa <b>110%</b> mais dano a alvos marcados com esbrasear. Quando centelhas atinge alvos autoincendiados, ela queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incêndio são contados juntos). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. Tempo de recarga da habilidade: <b>30</b> seg.\n<b>Passiva</b>: Quando centelhas está ativo, você ganha <b>1</b> ponto de calor com tempo de recarga de <b>0,9</b> segundo cada vez que Ataque do Faísca causa dano. Pode acumular até <b>8</b> pontos de calor. Quando atinge o limite de calor, você ganha o efeito calor de rachar, que aumenta o ATQ ígneo em <b>25%</b> durante <b>25</b> segundos."
+      "description": "Faísca dispara centelhas, que dura 15 segundos e ricocheteia entre o alvo e você. Ao atingir o alvo, centelhas o desacelera durante <b>4</b> segundos. Tempo de recarga: <b>15</b> seg. Centelhas causa mais dano quanto maior for a distância percorrida. Ao atingir, causa dano de até <b>350%</b> do ATQ + <b>37</b> e inflige uma marca de esbrasear de <b>25</b> segundos ao alvo. Ao mesmo tempo, Faísca dispara 4 balas. Cada uma causa dano de <b>50%</b> do ATQ + <b>3</b> ao alvo. O ataque normal de Faísca causa <b>110%</b> mais dano a alvos marcados com esbrasear. Quando centelhas atinge alvos queimados por você, ela queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incêndio são contados juntos). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. Tempo de recarga da habilidade: <b>30</b> seg.\n<b>Passiva</b>: Quando centelhas está ativo, você ganha <b>1</b> ponto de calor com tempo de recarga de <b>0,9</b> segundo cada vez que Ataque do Faísca causa dano. Pode acumular até <b>8</b> pontos de calor. Quando atinge o limite de calor, você ganha o efeito calor de rachar, que aumenta o ATQ ígneo em <b>25%</b> durante <b>25</b> segundos."
     },
     {
       "name": "Supernova",
@@ -90,19 +90,19 @@
   "advancement": [
     "Esbrasear reforça o dano de Ataque do Faísca em <b>80%</b>. O tempo de recarga da habilidade diminui para <b>24</b> segundos.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
-    "Esbrasear aumenta o reforço ígneo em <b>8%</b> e o multiplicador de queimadura em <b>75%</b>.",
+    "Esbrasear aumenta o reforço ígneo em <b>8%</b> e o multiplicador de queimadura para <b>150%</b>.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
-    "Cada vez que os ataques normais do Faísca acertam um inimigo, restaura <b>75</b> pontos de carga de arma a mais. Tempo de recarga: 0,9 seg. Despedaçar aumenta em <b>25%</b> quando Calor de rachar estiver ativo.",
-    "Esbrasear reforça o dano de Ataque do Faísca em <b>160%</b>. Dobra a eficiência de aquisição de calor. O tempo de recarga da habilidade diminui para <b>16</b> segundos."
+    "Cada vez que Ataque do Faísca acerta um inimigo, restaura <b>75</b> pontos de carga de arma a mais. Tempo de recarga: 0,9 seg. Quando calor de rachar estiver ativo, despedaçar aumenta em <b>25%</b>.",
+    "Esbrasear reforça o dano de Ataque do Faísca para <b>160%</b> e dobra a eficiência de aquisição de calor. O tempo de recarga da habilidade diminui para <b>16</b> segundos."
   ],
   "traits": [
     {
       "name": "Pegador de Sonhos",
-      "description": "Aumenta o dano ígneo sofrido por todos os inimigos dentro de <b>5</b> metros de Lilica em <b>8%</b>. Não acumula."
+      "description": "Aumenta o dano ígneo sofrido por todos os inimigos dentro de <b>5</b> metros de Lilica em <b>8%</b>. Esse efeito não se acumula."
     },
     {
       "name": "Domínio de Lilica",
-      "description": "Aumenta o dano ígneo sofrido por todos os inimigos dentro de 5 metros de Lilica em <b>8%</b>. Não acumula. Depois de arremessar Lilica, aumenta o ATQ ígneo em <b>12%</b> durante <b>10</b> segundos. Não acumula."
+      "description": "Aumenta o dano ígneo sofrido por todos os inimigos dentro de 5 metros de Lilica em <b>8%</b>. Não acumula. Depois de arremessar Lilica, aumenta o ATQ ígneo em <b>12%</b> durante <b>10</b> segundos. Esse efeito não se acumula."
     }
   ],
   "ascension": [

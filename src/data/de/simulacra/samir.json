@@ -7,7 +7,7 @@
   "birthday": "20. Mai (Stier)",
   "birthplace": "Hykros",
   "gender": "Weiblich",
-  "info": "Die faule und selbstverliebte Samira mag harmlose Witze und Streiche.\nObwohl sie eine Hykros-Vollstreckerin ist und über außergewöhnliche Kraft verfügt, machen Samiras Faulheit und Unzuverlässigkeit immer wieder Probleme. Ihre Angewohnheit, sich über Kollegen lustig zu machen, sorgt für Spannungen, und ihr Ruf ist nicht der Beste. Samira selbst scheint das jedoch nicht zu kümmern.",
+  "info": "Samira setzt immer ihren Kopf durch und treibt liebend gern ihre Späße mit anderen.\nAls Hykros-Vollstreckerin hätte sie es echt drauf, aber mit ihrer unzuverlässigen Art und ihrem Faible für Streiche hat sie sich nicht nur Freunde gemacht. Nicht, dass sie das interessieren würde …",
   "description": "Samiras Vergangenheit ist voller Rätsel.\nEs ist bekannt, dass sie als Waisenkind von einem Bewohner von Banges adoptiert wurde. Als sie erwachsen war, schloss sie sich Hykros an und wurde zu einer Vollstreckerin ausgebildet.\n\nSelbst unter Elite-Vollstreckern zählt sie zu den besten Schützen. Hykros zog in Erwägung, sie als Ausbilderin für neue Rekruten einzusetzen, verwarf die Idee aber wieder, weil es einfach nicht ihrer Persönlichkeit entsprach.",
   "like": "Rätsel lösen, Krimis",
   "dislike": "Unbekannt",
@@ -73,7 +73,7 @@
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
   },
   "advancement": [
     "Löst eine elektrische Explosion auf dem Ziel aus, wenn es kritisch getroffen wird, die dem Ziel und Gegnern in der Nähe zusätzlichen Schaden in Höhe von <b>30%</b> des ANG zufügt. Abklingzeit: <b>0,2</b> Sek.",

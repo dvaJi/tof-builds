@@ -7,7 +7,7 @@
   "birthday": "June 26 (Cancer)",
   "birthplace": "Banges Tech",
   "gender": "Female",
-  "info": "Appeared as a very serious, by-the-book scientist, but actually a flexible anti-stereotype.\nHardly shows any expression as if she had no facial muscles. But one can obviously tell she is not aloof after getting to know her, with many emotions and thoughts of her own, such as puffing her cheeks out when she's angry.\nDespite being a leading scientist in the development of cybernetics, she often goes by instinct rather than logic.\nRelies on strong intuitions to modify machines, though not above adding completely useless attachments just for preference.",
+  "info": "She might look serious and solemn, but she's actually rather unusual and quirky.\nShe doesn't have a lot of facial expressions, but once you get to know her, you will see that she's kind and full of ideas and emotions. She might even make an angry face when she's irritated.\nShe is a master mechanical engineer, but she works with feelings and not theories.\nShe tunes her creations with her \"sixth sense,\" and often adds completely useless modules because she feels like it...",
   "description": "Cobalt-B, which is not her real name, is a mechanical engineer on the Banges Tech weapon development team. Her position isn't too high up on the corporate ladder, because her test results aren't very good.\nOnly the people that she works with know that she is, in fact, the ace of the entire team. She doesn't care about basic theories, and only creates extremely effective weapons based on her instinct.\nTo test these weapons and collect combat data, she occasionally goes on operations with other soldiers and tries her weapons on poor Hyena members.",
   "like": "Machinery, brainstorming, artistic rock",
   "dislike": "Studying, exams",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Tap and hold normal attack to charge a shot and release to fire rounds, dealing <b>95.4%</b> of ATK + <b>5</b> damage, plus an explosion 3 seconds later (or if the target dies), dealing <b>23.9%</b> of ATK as damage to nearby enemies. Each time the target is dealt damage before the explosion (up to <b>4</b> times), AOE is doubled and damage is increased."
+      "description": "Tap and hold normal attack to charge an attack and release to fire rounds, dealing <b>95.4%</b> of ATK + <b>5</b> damage, plus an explosion 3 seconds later (or if the target dies), dealing <b>23.9%</b> of ATK as damage to nearby enemies. Each time the target is dealt damage before the explosion (up to <b>4</b> times), AOE is doubled and damage is increased."
     },
     {
       "name": "Jumping Blast",
@@ -164,7 +164,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -187,7 +187,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -210,7 +210,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -233,7 +233,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -256,7 +256,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -279,7 +279,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Booster frame II",
+        "name": "Booster Frame II",
         "rarity": "SSR",
         "amount": 5
       }

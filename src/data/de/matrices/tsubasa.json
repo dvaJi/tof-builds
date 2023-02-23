@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Erhöht den verursachten Schaden um 14%/16%/18%/20%, wenn sich im Umkreis von 4 Metern keine Gegner befinden."
+      "value": "Erhöht den verursachten Schaden um 12,5%/15%/17,5%/20%, wenn sich im Umkreis von 4 Metern keine Gegner befinden."
     },
     {
       "count": 4,

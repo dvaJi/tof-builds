@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>32.5%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>23.5%</b> des ANG + <b>1</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>25.5%</b> des ANG + <b>1</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>45.6%</b> des ANG + <b>2</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>47.7%</b> des ANG + <b>3</b>."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>32.5%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>23.5%</b> des ANG + <b>1</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>25.5%</b> des ANG + <b>1</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>45.6%</b> des ANG + <b>2</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>47.7%</b> des ANG + <b>3</b>."
     },
     {
       "name": "Mondfall",
@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, lässt <b>sie schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>16.1%</b> des ANG +<b>1</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>18.6%</b> des ANG +<b>1</b> am Zielort und an Gegnern in der Nähe."
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, <b>lässt sie länger schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>16.1%</b> des ANG + <b>1</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>18.6%</b> des ANG + <b>1</b> am Zielort und an Gegnern in der Nähe."
     },
     {
       "name": "Volt-Welle",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
   },
   "advancement": [
     "Heilt alle Teammitglieder innerhalb von <b>10</b> Metern nach Einsetzen einer Ausweichfähigkeit um <b>100%</b> des ANG.",

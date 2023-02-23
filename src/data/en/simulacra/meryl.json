@@ -7,8 +7,8 @@
   "birthday": "October 10 (Libra)",
   "birthplace": "Hykros",
   "gender": "Female",
-  "info": "Detached, aloof, and asocial. There are very few things that will elicit a reaction from Meryl. She displays no emotion, not because she is unfeeling, but because she is unwilling to get close to any other person.",
-  "description": "A high-ranking Hykros Executor of unknown age or place of birth. According to the little publicly-available information, Meryl distinguished herself in many Hykros S Grade missions due to her exceptional sword skills and combat prowess. In just a few short years, she was promoted from ordinary administrator to senior Executor.\nMeryl's cold and inscrutable attitude means that no one can ever be sure of her true intentions. This frostiness, along with her merciless approach to dealing with enemies, ensures that everyone maintains their distance from her.\nThe Executor database does show that Meryl has a twin brother, with whom she has a close relationship, but there is no formal record or information about him.",
+  "info": "Cold, aloof, and indifferent. She doesn't show any emotions at all. It's not that she's emotionless, she just refuses to build relationships with others.",
+  "description": "A senior Hykros Executor with no record of birth or age. According to the information available, Meryl excelled at S-level missions with her sword and combat skills, ascending from an ordinary officer to a senior Executor in just a few years.\nShe keeps an indifferent attitude toward everything, and no one knows what's really on her mind. It doesn't help that she has no mercy against her enemies, so people keep their distance from her whenever possible.\nThe database of Executors shows that Meryl has a close twin brother, but there are no records of this brother anywhere.",
   "like": "Snowy days, crystals",
   "dislike": "Botany",
   "element": "Ice",
@@ -177,7 +177,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -200,7 +200,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -223,7 +223,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -246,7 +246,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -269,7 +269,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Booster frame I",
+        "name": "Booster Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -292,7 +292,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Booster frame II",
+        "name": "Booster Frame II",
         "rarity": "SSR",
         "amount": 5
       }

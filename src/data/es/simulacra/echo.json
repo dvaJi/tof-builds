@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\nAl golpear, <b>suspensión fuerte</b> al objetivo e inflige daño equivalente al <b>49.2%</b> del ATQ + <b>3</b>. Pulsa de nuevo para seguir atacando al enemigo suspendido, lo que inflige hasta un <b>98%</b> del ATQ + <b>5</b> de daño a un objetivo individual."
+      "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\nAl impactar, <b>suspende fuerte</b> al objetivo, lo que inflige daño igual a <b>49.2%</b> del ATQ + <b>3</b>. Pulsa de nuevo para continuar atacando al objetivo en el aire, lo que inflige hasta <b>98%</b> del ATQ + <b>5</b> de daño a un solo objetivo."
     },
     {
       "name": "Ataque Sorpresa",
@@ -71,7 +71,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Embestida Aplastante.\nClava la lanza larga en el suelo, lo cual <b>suspensión fuerte</b> a los objetivos e inflige daño equivalente al <b>52.8%</b> del ATQ + <b>3</b>."
+      "description": "Pulsa el ataque normal durante el breve periodo después de evadir para activar Embestida Aplastante.\nAzota la lanza larga contra el suelo, lo que inflige daño igual a <b>52.8%</b> del ATQ + <b>3</b> y <b>suspende fuerte</b> a los objetivos."
     },
     {
       "name": "Cazalunas",
@@ -85,12 +85,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté completa o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b>, que salta al aire y arroja una lanza que genera un área de explosión e inflige daño equivalente al <b>296.7%</b> del ATQ + <b>16</b> y <b>paraliza</b> al objetivo durante <b>1</b> segundo."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está llena o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma desde otra, <b>se eliminan todas las desventajas del portador</b>. Este salta en el aire y arroja una Lanza de Trueno que causa una explosión en un área, lo que inflige <b>296.7%</b> del ATQ más <b>16</b> de daño y <b>paraliza contundentemente</b> a los objetivos por <b>1</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>paralizará</b> a los objetivos por <b>1</b> segundo y los electrificará por <b>6</b> segundos, lo que anula todas las ventajas e inflige daño equivalente al <b>106%</b> del ATQ. El objetivo no puede recibir ninguna mejora por los siguientes <b>6</b> segundos."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas las mejoras e inflige daño igual a <b>106%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> segundos."
   },
   "advancement": [
     "Aumenta la destrucción en un <b>15%</b>. Luego de destruir el escudo del objetivo, aumenta el ATQ de todos los compañeros de grupo en un <b>15%</b> durante <b>30</b> segundos. No puede acumularse.",

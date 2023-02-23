@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome <b>300</b> de vigor.\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os <b>suspende</b> e causa dano de <b>16.1%</b> do ATQ + <b>1</b> a cada <b>0,3</b> segundo (no máximo <b>4</b> vezes).\nSegundo ataque: A cada <b>0,3</b> segundo, causa dano de <b>18.6%</b> do ATQ + <b>1</b> ao alvo e a alvos próximos."
+      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome <b>300</b> de vigor.\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os <b>suspende muito</b> e causa dano de <b>16.1%</b> do ATQ + <b>1</b> a cada <b>0,3</b> segundo (no máximo <b>4</b> vezes).\nSegundo ataque: A cada <b>0,3</b> segundo, causa dano de <b>18.6%</b> do ATQ + <b>1</b> ao alvo e a alvos próximos."
     },
     {
       "name": "Ondulação",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Cura todos os colegas em um raio de <b>10</b> metros em <b>100%</b> do ATQ após usar uma habilidade de esquiva.",

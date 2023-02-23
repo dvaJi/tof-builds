@@ -7,7 +7,7 @@
   "birthday": "December 17 (Sagittarius)",
   "birthplace": "Unknown",
   "gender": "Male",
-  "info": "A lively and cheerful personality who brightens up any room. Frank and extroverted, he is optimistic in any situation but can be overly proud at times\nOften practices some eye-catching dagger tricks and has a repertoire of dry jokes that he finds hilarious. He likes delivering these jokes as though he were on stage.\nWhat beneath his cheery and carefree attitude, are unshakeable willpower and determination. Keen to achieve his goals no matter what is in his way. Sometimes pushes himself too hard.",
+  "info": "A cheerful one who also tries to cheer everyone else up. Extroverted, honest, optimistic, and a little over joyous at times.\nHe's always practicing flashy dagger tricks, and collecting bad jokes that he tells often.\nUnder his carefree appearance lies strong determination. Once he commits to something, he will not stop until it's done, and it's also why he's sometimes too hard on himself.",
   "description": "As an ex-Executor, Crow maintains a good relationship with Hykros. He didn't make any critical mistakes, and he was not let go due to poor performance. He simply realized that he longed for a life with fewer rules after working with the team there for a while, and made the decision that worked for him.\nHe now travels freely over long periods of time. His cheerful personality leaves a great first impression on those who he comes across, and he always performs new tricks or jokes when he arrives at a new place. They call him Crowy, and he doesn't mind.",
   "like": "Cats, all kinds of daggers",
   "dislike": "Alcohol, ghost stories",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "While on the ground, swing the dual blades to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>60.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>73%</b> of ATK + <b>4</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>90.9%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>96.8%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>202.2%</b> of ATK + <b>11</b> and knock the target back a short distance."
+      "description": "While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks.\nFirst Attack: Deal damage equal to <b>60.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>73%</b> of ATK + <b>4</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>90.9%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>96.8%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>202.2%</b> of ATK + <b>11</b> and knock the target back a short distance."
     },
     {
       "name": "Sky Flurry",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "When the weapon is fully charged, the next attack will <b>paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, negating all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
   },
   "advancement": [
     "Attacking targets from behind increases crit rate of all dual blades attacks by <b>40%</b>. Backstabbing an electrified target increases crit rate by <b>100%</b> and crit damage by <b>30%</b>.",
@@ -162,7 +162,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 3
       }
@@ -185,7 +185,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 4
       }
@@ -208,7 +208,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 6
       }
@@ -231,7 +231,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 8
       }
@@ -254,7 +254,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 11
       }
@@ -277,7 +277,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Nanofiber frame II",
+        "name": "Nanofiber Frame II",
         "rarity": "SSR",
         "amount": 5
       }

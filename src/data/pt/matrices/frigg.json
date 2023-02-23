@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta o ATQ gélido em 8%/10%/12%/15% durante 10 segundos ao trocar entre armas gélidas. O efeito deste conjunto funciona no espaço secundário, mas apenas o conjunto de classificação estelar mais alta surtirá efeito."
+      "value": "Aumenta o ATQ gélido em 15%/18%/21%/25% durante 10 segundos ao trocar entre armas gélidas. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
     },
     {
       "count": 4,
-      "value": "Ao desencadear uma Área Gélida com a arma Balmung, inimigos dentro dela sofrem dano gélido de 55%/65%/75%/85% do ATQ a cada segundo."
+      "value": "Ao desencadear uma Área Gélida com a arma Balmung, inimigos dentro dela sofrem dano gélido de 60%/75%/90%/105% do ATQ a cada segundo."
     }
   ],
   "mind": {

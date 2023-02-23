@@ -7,8 +7,8 @@
   "birthday": "11. April (Widder)",
   "birthplace": "Banges",
   "gender": "Weiblich",
-  "info": "Ein leidenschaftliches und aufrichtiges junges Mädchen, unbekümmert, unkompliziert und beliebt.\nSie diskriminiert niemanden aufgrund seines Alters oder Geschlechts, sondern behandelt alle gleich. Ob Alt oder Jung, sie versteht sich mit jedem auf Anhieb. Theo, der Sohn des Leiters von Banges Tech, ist ein enger Freund.\nSie kann gelegentlich schroff und unsensibel wirken und vergisst viel (sogar ihre eigenen Waffen).",
-  "description": "Hilda ist der „Superstar“ im Hafen von Banges und unter den Menschen in der Stadt nicht unbekannt.\nSie liebt ihre Heimatstadt sehr und würde alles tun, um sie zu beschützen.\nHilda hat keine feste Berufung und zieht es vor, im Hafen umherzuziehen. Dabei erledigt sie dies und das für die Shops, um etwas Taschengeld zu verdienen; gelegentlich übernimmt sie auch gefährlichere Aufgaben, wie Patrouillen- oder Wachdienst. Wenn sie sich müde fühlt, nimmt sie sich ein oder zwei Tage frei, um nach Herzenslust zu essen und einzukaufen.",
+  "info": "Hilda ist aufgewecktes, nettes Mädchen voller Leidenschaft und von unbeschwertem und gutmütigem Charakter.\nGeschlecht, Alter und soziale Stellung interessieren sie nicht – sie behandelt alle gleich. Selbst Theo, der Sohn des Besitzers von Banges Tech, zählt zu ihren Freunden.\nDoch ihre sorglose Frohnatur hat auch Schattenseiten: Manchmal vergisst sie deswegen sogar, ihre Waffe mitzunehmen …",
+  "description": "Hilda ist der „Star“ vom Hafen von Banges, wo jeder ihren Namen kennt.\nBanges ist ihre Heimat, und sie will sie beschützen.\nSie hat keinen festen Job und arbeitet nur gelegentlich in den Läden am Hafen, beim Streifendienst oder als Sicherheitspersonal. Wenn sie müde ist, nimmt sie sich eine Auszeit, geht einkaufen und gönnt sich etwas Gutes zu essen.",
   "like": "Brathähnchen, Feiern, Schnäppchenjagd",
   "dislike": "Lebenspläne",
   "element": "Ice",
@@ -30,7 +30,7 @@
       "type": [
         "Skill"
       ],
-      "description": "Aktiviere das Geschützmodus und feuere große Energiekugeln ab, die jeweils Schaden in Höhe von <b>213.3%</b> des ANG + <b>11</b> verursachen und das Ziel in die Luft schleudern. Du bist gegen Lähmungsangriffe und Kontroll-Effekte immun, während du den Geschützturm aufstellst. <b>3.5</b> Sekunden Abklingzeit."
+      "description": "Aktiviere das Geschützmodus und feuere große Energiekugeln ab, die jeweils Schaden in Höhe von <b>213.3%</b> des ANG + <b>11</b> verursachen und das Ziel in die Luft schleudern. Du bist gegen Trefferlähmung und Kontrolleffekte immun, während du den Geschützturm aufstellst. Abklingzeit: <b>3.5</b> Sek."
     },
     {
       "name": "Arktischer Strahl",
@@ -42,7 +42,7 @@
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Erhöht mit jedem Treffer eines normalen Angriffs den Schaden um <b>1%</b>. Der Effekt hält <b>2</b> Sek. an. Kann bis zu <b>15</b>-mal gestapelt werden. Erhöht die Munition auf <b>60</b>.",

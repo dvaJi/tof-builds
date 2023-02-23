@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increases ATK by 3%/3.7%/4.3%/5% on hit for 18 seconds. This effect can be stacked up to 5 times, and only the highest level's effect is applied when obtained repeatedly."
+      "value": "Increase ATK by 3%/5%/3.5%/3% on hit for 18 seconds, stacking up to 5 times. Only the effect of the highest level is applied when obtained repeatedly."
     },
     {
       "count": 4,
-      "value": "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by 7%/8.3%/9.6%/11% for 15 seconds. Stack up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+      "value": "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by 12%/11%/28%/31% for 15 second, stacking up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
     }
   ],
   "mind": {

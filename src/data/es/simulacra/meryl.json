@@ -7,8 +7,8 @@
   "birthday": "10 de octubre (Libra)",
   "birthplace": "Hykros",
   "gender": "Femenino",
-  "info": "Indiferente, distante y antisocial. Hay muy pocas cosas capaces de provocar una reacción en Meryl. No muestra ningún tipo de emoción, no porque sea insensible, sino porque no está dispuesta a crear lazos cercanos con otras personas.",
-  "description": "Ejecutora de alto rango de Hykros de edad y lugar de nacimiento desconocidos. Según la poca información disponible públicamente, Meryl se distinguió en muchas misiones de grado S de Hykros por su excepcional habilidad con la espada y su destreza en el combate. En pocos años, fue ascendida de gerente ordinaria a ejecutora superior.\nLa actitud fría e inescrutable de Meryl hace que nadie pueda estar seguro de sus verdaderas intenciones. Esta frialdad, junto con su enfoque despiadado a la hora de tratar con los enemigos, hace que todos mantengan distancia con ella.\nLa base de datos de los Ejecutores sí muestra que Meryl tiene un hermano gemelo, con el que mantiene una estrecha relación, pero no hay ningún registro ni información formal sobre él.",
+  "info": "Fría, distante e indiferente. No muestra ninguna emoción en absoluto. No es que no tenga emociones, sino que se niega a establecer relaciones con los demás.",
+  "description": "Una Ejecutora experimentada de Hykros sin registro de nacimiento ni edad. Según la información disponible, Meryl destacó en las misiones nivel S con su espada y habilidades de combate, lo que le valió el ascenso de ser una oficial común y corriente a una Ejecutora en pocos años.\nMantiene una actitud indiferente frente a todo y nadie sabe con certeza qué pasa por su mente. Tampoco ayuda el hecho de que no tiene piedad por sus enemigos, así que las personas se mantienen alejadas de ella en la medida de lo posible.\nLa base de datos de los Ejecutores muestra que Meryl tiene un hermano mellizo, pero no hay registros de él en ningún lado.",
   "like": "Días de nieve, cristales",
   "dislike": "Botánica",
   "element": "Ice",
@@ -97,7 +97,7 @@
   ],
   "weapon_type": {
     "name": "Caparazón de Hielo",
-    "description": "Cuando el arma está completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación por <b>6</b> segundos. Romper el caparazón de hielo inflige daño adicional equivalente al <b>151%</b> del ATQ. Mientras esté congelado, la tasa de carga de arma del objetivo se reduce un <b>50%</b>."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
   },
   "advancement": [
     "Aumenta la destrucción en un <b>15%</b> y recupera <b>10%</b> de los PS luego de destruir el escudo del objetivo.",

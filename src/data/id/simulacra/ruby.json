@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Saat berada di darat, tekan tombol Serangan Biasa Attack untuk memerintahkan Spark menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan total DMG sebesar <b>84.6%</b> ATK + <b>4</b> kepada setiap target.\nSerangan Kedua: Menimpakan total DMG sebesar <b>93%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Ketiga: Menimpakan total DMG sebesar <b>101.5%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Keempat: Menimpakan total DMG sebesar <b>109.9%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Kelima: Menimpakan total DMG sebesar <b>253.7%</b> ATK + <b>13</b> kepada setiap target dan membuat target <b>terpental ke atas</b>."
+      "description": "Saat berada di darat, tekan tombol Serangan Biasa untuk memerintahkan Spark menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan total DMG sebesar <b>84.6%</b> ATK + <b>4</b> kepada setiap target.\nSerangan Kedua: Menimpakan total DMG sebesar <b>93%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Ketiga: Menimpakan total DMG sebesar <b>101.5%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Keempat: Menimpakan total DMG sebesar <b>109.9%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Kelima: Menimpakan total DMG sebesar <b>253.7%</b> ATK + <b>13</b> kepada setiap target dan membuat target <b>terpental ke atas</b>."
     },
     {
       "name": "Aerial Discharge",
@@ -31,14 +31,14 @@
         "Jump",
         "Attack"
       ],
-      "description": "Saat di udara, ketuk tombol Serangan Biasa untuk memerintahkan Spark menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan total DMG sebesar <b>97.1%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Kedua: Menimpakan total DMG sebesar <b>106.8%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Ketiga: Menimpakan total DMG sebesar <b>121.3%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Keempat: Menimpakan total DMG sebesar <b>145.6%</b> ATK + <b>8</b> kepada setiap target."
+      "description": "Saat di udara, tekan tombol Serangan Biasa untuk memerintahkan Spark menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan total DMG sebesar <b>97.1%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Kedua: Menimpakan total DMG sebesar <b>106.8%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Ketiga: Menimpakan total DMG sebesar <b>121.3%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Keempat: Menimpakan total DMG sebesar <b>145.6%</b> ATK + <b>8</b> kepada setiap target."
     },
     {
       "name": "Kena kau!",
       "type": [
         "Hold: Attack"
       ],
-      "description": "Lempar Dolly setelah menghindar. Dolly akan aktif selama <b>10</b> detik, menarik musuh di dekatnya dan menimpakan DMG sebesar <b>40%</b> ATK + <b>2</b> kepada mereka, serta melakukan Taunt selama <b>1,5</b> detik, menyebabkan musuh mengalihkan serangan mereka ke Dolly (tidak dapat Taunt musuh saat berada dalam tim)."
+      "description": "Tekan dan tahan Serangan Biasa atau lakukan ini setelah Lockdown Zone terpicu untuk menembakkan sinar energi secara terus menerus yang membakar musuh yang tertembak, menimpakan DMG sebesar <b>40%</b> ATK + <b>2</b>. Mengonsumsi Stamina Wanderer."
     },
     {
       "name": "Blazing Dive",
@@ -46,7 +46,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Tekan dan tahan tombol Serangan Biasa saat di udara untuk mengaktifkan Blazing Dive.\nTubuh akan energi, kemudian terjun bebas ke tanah, menimpakan damage sebesar <b>172.1%</b> ATK + <b>9</b> kepada target di sekitar."
+      "description": "Tekan dan tahan Serangan Biasa saat di udara untuk memicu Blazing Dive.\nMenyelimuti tubuh dalam energi, lalu terjun ke tanah dengan cepat, menimpakan DMG sebesar <b>172.1%</b> ATK + <b>9</b> ke target di sekitar."
     },
     {
       "name": "Lockdown Zone",
@@ -62,35 +62,35 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Lempar Dolly setelah menghindar. Dolly akan bertahan selama <b>10</b> detik, menarik musuh di dekatnya dan memberikan DMG sebesar <b>84.6%</b> ATK + <b>4</b> terhadap mereka, serta taunt mereka selama <b>1.5</b> detik, menyebabkan mereka mengalihkan serangan mereka ke Dolly (tidak dapat taunt musuh saat berada dalam tim)."
+      "description": "Lempar Dolly setelah menghindar. Dolly akan aktif selama <b>10</b> detik, menarik musuh di dekatnya dan menimpakan DMG sebesar <b>84.6%</b> ATK + <b>4</b> kepada mereka, serta melakukan Taunt selama <b>1,5</b> detik, menyebabkan musuh mengalihkan serangan mereka ke Dolly (tidak dapat Taunt musuh saat berada dalam tim)."
     },
     {
       "name": "Sparkling Collider",
       "type": [
         "Skill"
       ],
-      "description": "Spark menembakkan Spark yang aktif 15 detik dan memantul di antara target dan Wanderer. Saat mengenai target, Spark akan memperlambatnya selama <b>4</b> detik dengan CD <b>15</b> detik. Makin jauh jarak yang ditempuh Spark, makin besar DMG yang ditimpakannya. Saat mengenai target, ia akan menimpakan DMG maks <b>350%</b> ATK + <b>37</b> dan mengakibatkan Emblazen selama <b>25</b> detik pada target. Pada saat bersamaan, Spark juga akan menembakkan 4 peluru, yang setiap peluru menimpakan DMG sebesar <b>50%</b> ATK + <b>3</b> kepada targetnya. Serangan Biasa Spark menimpakan DMG <b>110%</b> lebih besar kepada target yang terkena Emblazen. Jika target terkena Burn yang ditimbulkannya sendiri, saat Spark menghantam target, target akan terkena efek Burn atau Ignite satu kali dan menimpakan DMG tambahan sebesar <b>150%</b> dari total DMG yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). CD penghitungan hasil adalah <b>6</b> detik. CD Skill ini adalah <b>30</b> detik.\n<b>Passive</b>: Saat Spark aktif, setiap kali Serangan Biasa Spark menimpakan DMG, Wanderer akan mendapatkan <b>1</b> Heat dengan CD <b>0,9</b> detik, maks <b>8</b> Heat. Setelah Heat mencapai batas tertingginya, Wanderer akan mendapatkan Ultimate Heat, yang akan meningkatkan Flame ATK sebesar <b>25%</b> selama <b>25</b> detik."
+      "description": "Spark menembakkan Spark yang aktif 15 detik dan memantul di antara target dan Wanderer. Saat mengenai target, Spark akan memperlambatnya selama <b>4</b> detik dengan CD <b>15</b> detik. Makin jauh jarak yang ditempuh Spark, makin besar DMG yang ditimpakannya. Saat mengenai target, ia akan menimpakan DMG maks <b>350%</b> ATK + <b>37</b> dan mengakibatkan Emblazen selama <b>25</b> detik pada target. Pada saat bersamaan, Spark juga akan menembakkan 4 peluru, yang setiap peluru menimpakan DMG sebesar <b>50%</b> ATK + <b>3</b> kepada targetnya. Serangan Biasa Spark menimpakan DMG <b>110%</b> lebih besar kepada target yang terkena Emblazen. Saat Spark menyerang target yang dibakar oleh Wanderer, ia akan membakar target satu kali dan menimpakan DMG tambahan sebesar <b>100%</b> dari total DMG yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). CD penghitungan hasil adalah <b>6</b> detik dan CD Skill ini adalah <b>30</b> detik.\n<b>Pasif</b>: Saat Spark aktif, setiap kali Spark Attack menimpakan DMG, Wanderer akan mendapatkan <b>1</b> Heat dengan CD <b>0,9</b> detik, maks <b>8</b> Heat. Setelah Heat mencapai batas tertingginya, Wanderer akan mendapatkan Ultimate Heat yang akan meningkatkan Flame ATK sebesar <b>25%</b> selama <b>25</b> detik."
     },
     {
       "name": "Supernova",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>. Spark memasuki status Charged, dan terus menembakkan sinar energi menyilaukan ke lokasi target, sebelum akhirnya meledak. Timpakan damage sebesar <b>750%</b> ATK + <b>39</b>. Jika target punya efek terbakar yang ditimbulkannya sendiri, target akan kena efek Burn atau Ignite satu kali dan menimbulkan damage tambahan sebanyak <b>100%</b> dari total damage yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). Cooldown penghitungan hasil adalah <b>6</b> detik. Damage Immunity bertahan selama <b>2,6</b> detik selama skill ini masih aktif (tidak tersedia di Apex League)."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>. Spark memasuki status Charged, dan terus menembakkan sinar energi menyilaukan ke lokasi target, sebelum akhirnya meledak. Timpakan damage sebesar <b>750%</b> ATK + <b>39</b>. Jika target punya efek terbakar yang ditimbulkannya sendiri, target akan kena efek Burn atau Ignite satu kali dan menimbulkan damage tambahan sebesar <b>100%</b> dari total damage yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). CD penghitungan hasil adalah <b>6</b> detik. Damage Immunity bertahan selama <b>2,6</b> detik selama skill ini masih aktif (tidak tersedia di Apex League)."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat charge senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Flame Resonance",
-    "description": "Meningkatkan Flame ATK sebanyak <b>20%</b> dan Flame Resistance sebanyak <b>40%</b>. Aktifkan dengan cara memakai 2 Flame Weapon atau lebih. Efek set ini juga bisa digunakan dengan senjata yang ada di slot off-hand."
+    "description": "Meningkatkan Flame ATK sebesar <b>20%</b> dan Flame Resistance sebesar <b>40%</b>. Aktifkan dengan cara memakai 2 Senjata Flame atau lebih. Efek set ini juga bisa digunakan dengan senjata yang ada di slot sampingan."
   },
   "advancement": [
     "Emblazen meningkatkan DMG Spark Attack menjadi <b>80%</b>. CD skill turun menjadi <b>24</b> detik.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
-    "Emblazen meningkatkan Flame Boost sebesar <b>8%</b> dan pengali Burn menjadi <b>75%</b>.",
+    "Emblazen meningkatkan Flame Boost sebesar <b>8%</b> dan meningkatkan pengganda Burn sebesar <b>150%</b>.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
     "Memulihkan <b>75</b> Poin Charge Senjata lebih banyak setiap Spark Attack mengenai musuh. CD: 0,9 detik. Shatter meningkat <b>25%</b> saat Ultimate Heat aktif.",
     "Emblazen meningkatkan DMG Spark Attack menjadi <b>160%</b> dan melipatgandakan efisiensi akuisisi Heat menjadi dua kali lipat. CD skill turun menjadi <b>16</b> detik."
@@ -98,11 +98,11 @@
   "traits": [
     {
       "name": "Dreamcatcher",
-      "description": "Meningkatkan Flame DMG yang diterima oleh semua musuh dalam radius <b>5</b> meter dari Dolly sebesar <b>8%</b>. Tidak bisa ditumpuk."
+      "description": "Meningkatkan Flame DMG yang diterima oleh semua musuh dalam radius <b>5</b> meter dari Dolly sebesar <b>8%</b>. Efek ini tak bisa bertumpuk."
     },
     {
       "name": "Dolly's Domain",
-      "description": "Meningkatkan Flame DMG yang diterima oleh semua musuh dalam radius 5 meter dari Dolly sebanyak <b>8%</b>. Tidak bisa ditumpuk. Setelah melempar Dolly, meningkatkan Flame ATK sebesar <b>12%</b> selama <b>10</b> detik. Tidak bisa ditumpuk."
+      "description": "Meningkatkan Flame DMG yang diterima oleh semua musuh dalam radius 5 meter dari Dolly sebesar <b>8%</b>. Tidak bisa ditumpuk. Setelah melempar Dolly, meningkatkan Flame ATK sebesar <b>12%</b> selama <b>10</b> detik. Efek ini tak bisa bertumpuk."
     }
   ],
   "ascension": [

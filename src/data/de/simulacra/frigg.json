@@ -31,7 +31,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>64.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>72.6%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>76.7%</b> des ANG + <b>4</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>107.9%</b> des ANG + <b>6</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>168.3%</b> des ANG + <b>9</b>."
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>64.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>72.6%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>76.7%</b> des ANG + <b>4</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>107.9%</b> des ANG + <b>6</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>168.3%</b> des ANG + <b>9</b>."
     },
     {
       "name": "Schwungschnitt",
@@ -74,7 +74,7 @@
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während des Frostschadens ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>111%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "weapon_resonance": {
     "name": "Frostresonanz",
@@ -85,8 +85,8 @@
     "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>16%</b>.",
     "Erhöht das Frostigkeit-Limit auf <b>15</b>. Der Einsatz von Entladungsfähigkeit von Frostwaffen innerhalb des Froststurms fügt Gegnern darin Schaden in Höhe von <b>25%</b> des Frost-ANG x (aktuelle Frostigkeit +5) zu.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
-    "Das durch Frostwaffen verursachte „Zertrümmern“ von Schilden innerhalb des Froststurms friert das Ziel für <b>2</b> Sek. ein und fügt ihm zusätzlichen Schaden in Höhe von Frostigkeit x Frost-ANG x <b>35%</b> zu. Der zusätzliche Schaden wird verdoppelt, falls das Ziel nicht eingefroren werden kann.",
-    "Wenn die Frostigkeit <b>15</b> Punkte erreicht und der Anwender sich innerhalb eines Froststurms befindet, erhält er zusätzlich „Froststurm II“, wodurch beim Verwenden von Frostwaffen der Frost-ANG um <b>25%</b> erhöht wird."
+    "Das durch Frostwaffen verursachte „Zertrümmern“ von Schilden innerhalb des Froststurms friert das Ziel für <b>2</b> Sek. ein und fügt ihm zusätzlichen Schaden in Höhe von Frostigkeit x <b>35%</b> des Frost-ANG zu. Der zusätzliche Schaden wird verdoppelt, falls das Ziel nicht eingefroren werden kann.",
+    "Wenn die Frostigkeit <b>15</b> Punkte erreicht und der Anwender sich innerhalb eines Froststurms befindet, erhält er zusätzlich „Froststurm II“: Erhöht beim Verwenden von Frostwaffen den Frost-ANG um <b>25%</b>."
   ],
   "traits": [
     {
@@ -95,7 +95,7 @@
     },
     {
       "name": "Vereisung",
-      "description": "Erhöht bei Kampfbeginn den Frost-ANG alle <b>3</b> Sek. um <b>2,4%</b>. Hält <b>5</b> Sek. an und ist bis zu <b>10</b>-mal stapelbar. Gewährt innerhalb des Froststurms „Hyperkörper“ und Immunität gegen Kontrolleffekte."
+      "description": "Erhöht bei Kampfbeginn den Frost-ANG alle <b>3</b> Sek. um <b>2,4%</b>. Hält <b>5</b> Sek. an und ist bis zu <b>10</b>-mal stapelbar. Gewährt innerhalb des Froststurms zusätzlich „Hyperkörper“ und Immunität gegen Kontrolleffekte."
     }
   ],
   "ascension": [

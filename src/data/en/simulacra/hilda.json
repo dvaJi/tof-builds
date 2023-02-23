@@ -7,8 +7,8 @@
   "birthday": "April 11 (Aries)",
   "birthplace": "Banges",
   "gender": "Female",
-  "info": "A passionate and sincere young girl. Carefree and casual. Popular with others.\nDoes not discriminate against people based on age or gender, and treats everyone the same. Quickly get along with everybody, no matter kids or adults; sees Theo, the son of the head of Banges Tech, as a close friend.\nCan be somewhat crude and insensitive at times and often forgets things (including her own weapons).",
-  "description": "The \"superstar\" of Banges Port, Hilda is no stranger to the people in town.\nShe has a deep love for her hometown and will go to any lengths to protect it.\nHilda has no established career and prefers roaming around the port doing this and that for the stores in exchange for pocket money; once in a while, she takes on more dangerous assignments, like patrol or guard duty. Whenever she feels tired, she takes off a day or two to eat and store to her heart's content.",
+  "info": "A cheerful, passionate, and friendly girl who is carefree and not meticulous.\nShe doesn't care about gender, age, or social standing, and treats everyone the same. Even Theo, the son of Banges Tech's owner, is a good friend.\nBut she is also careless and forgetful, sometimes even leaving her weapon at home...",
+  "description": "Hilda is the \"star\" of Banges Port, where everyone knows her name.\nBanges is her home, and she feels that she must protect it.\nShe doesn't have a steady job, and just works part-time at the shops by the port, occasionally dabbling in patrolling and security. When she's tired, she takes time off to shop and enjoy good food.",
   "like": "Fried chicken, celebrations, bartering",
   "dislike": "Life plans",
   "element": "Ice",
@@ -30,7 +30,7 @@
       "type": [
         "Skill"
       ],
-      "description": "Enable turret mode and fire large energy orbs, each dealing damage equal to <b>213.3%</b> of ATK + <b>11</b> and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. <b>3.5</b>-second cooldown."
+      "description": "Enable turret mode and fire large energy orbs, each dealing damage equal to <b>213.3%</b> of ATK + <b>11</b> and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. Cooldown: <b>3.5</b> seconds."
     },
     {
       "name": "Arctic Beam",
@@ -122,7 +122,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_i",
-        "name": "Nanofiber frame I",
+        "name": "Nanofiber Frame I",
         "rarity": "SR",
         "amount": 2
       }

@@ -39,7 +39,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Mantén pulsado el botón de ataque normal después de los ataques normales para activar Ciclón.\nSuspende al objetivo al impacto. Ciclón puede infligir <b>47.8%</b> del ATQ + <b>3</b> a un solo objetivo."
+      "description": "Mantén pulsado el botón de ataque normal después de los ataques normales para activar Ciclón.\nAl impactar, suspende al objetivo e inflige <b>47.8%</b> del ATQ + <b>3</b> a un solo objetivo."
     },
     {
       "name": "Borde de Inmersión",
@@ -47,7 +47,7 @@
         "Jump",
         "Hold: Attack"
       ],
-      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o usa el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Borde de Inmersión.\nMientras caes, infliges daño equivalente al <b>10%</b> del ATQ + <b>1</b> por cada impacto al objetivo. Al aterrizar, inflige daño equivalente al <b>76.4%</b> del ATQ + <b>4</b> y repele al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
+      "description": "Mantén pulsado el ataque normal mientras estás en el aire, o utiliza el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Borde de Inmersión.\nMientras caes, inflige daño igual a <b>10%</b> del ATQ + <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>76.4%</b> del ATQ + <b>4</b> y repele al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
       "name": "Ataque Sorpresa",
@@ -86,10 +86,10 @@
   },
   "weapon_resonance": {
     "name": "Resonancia física",
-    "description": "<b>Resonancia Física</b>: Aumenta el ATQ físico un <b>15%</b> y la resistencia física un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de daño físico. Este efecto de set también funciona con armas en la ranura secundaria. Este efecto no se acumula de forma repetida."
+    "description": "<b>Resonancia Física</b>: Aumenta el ATQ físico en <b>15%</b> y la resistencia física en <b>25%</b>. Se activa equipando <b>2</b> o más armas de daño físico. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
   },
   "advancement": [
-    "Después de impactar a un objetivo con una habilidad o habilidad de descarga, obtienes 1 acumulación de la siguiente mejora: Aumenta el daño infligido un <b>8%</b> por <b>25</b> segundos, se acumula hasta hasta <b>3</b> veces para un máximo de 1 acumulación por uso de habilidad.",
+    "Tras impactar a un objetivo con una habilidad o habilidad de descarga, otorga 1 acumulación de la siguiente mejora: Aumenta el daño infligido un <b>8%</b> durante <b>25 segundos</b>, se acumula hasta <b>3</b> veces para un máximo de 1 acumulación por uso de habilidad.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
     "Al impactar a un objetivo con una habilidad o habilidad de descarga, aplica 1 acumulación de Heridas de Guerra al objetivo: Aumenta el daño físico recibido y la destrucción de las armas físicas en <b>10%</b> por <b>15 segundos</b>. Se acumula <b>1</b> vez.",
     "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
@@ -281,7 +281,7 @@
       },
       "mat3": {
         "id": "nanofiber_frame_ii",
-        "name": "Armazón de Nanofibras II",
+        "name": "Armazón de nanofibras II",
         "rarity": "SSR",
         "amount": 5
       }

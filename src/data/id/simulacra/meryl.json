@@ -7,8 +7,8 @@
   "birthday": "10 Oktober (Libra)",
   "birthplace": "Hykros",
   "gender": "Perempuan",
-  "info": "Dingin, penyendiri, dan asosial. Cuma sedikit hal yang bisa membuat Meryl bereaksi. Dia tidak menunjukkan emosi, bukan karena tidak punya perasaan, tapi karena dia tidak mau dekat dengan orang lain.",
-  "description": "Executor Hykros yang memiliki jabatan tinggi dengan umur atau tempat lahir yang tak diketahui. Dari informasi publik yang minim, Meryl terkenal dalam banyak misi Hykros S Grade berkat kelihaiannya dalam memakai pedang dan bertarung. Dalam beberapa tahun saja, dia telah dipromosikan dari administrator biasa menjadi Executor senior.\nSikap Meryl yang dingin dan tak terduga mampu menyamarkan niat sesungguhnya. Perangainya yang acuh tak acuh serta pendekatannya yang tanpa ampun terhadap musuh membuat siapa pun jaga jarak dengannya.\nDari basis data Executor, Meryl punya saudara kembar yang dekat dengannya. Namun, tak ada data atau informasi resmi tentang kembarannya itu.",
+  "info": "Dingin, penyendiri, dan cuek. Dia tidak menunjukkan emosinya sama sekali. Bukannya dia itu tak punya emosi, dia cuma tidak mau menjalin hubungan dengan orang lain.",
+  "description": "Seorang Eksekutor Hykros yang tidak punya informasi tentang tanggal lahir maupun usia. Menurut informasi yang tersedia, Meryl unggul dalam misi level S dengan pedang dan skill tempurnya, berhasil naik dari officer biasa menjadi Eksekutor senior dalam beberapa tahun saja.\nDia bersikap acuh tak acuh terhadap segalanya, dan tak ada yang tahu apa yang sebenarnya ada dalam pikirannya. Apalagi, dia tak punya belas kasihan pada musuhnya sehingga orang-orang selalu berusaha menjaga jarak darinya.\nDatabase para Eksekutor menunjukkan bahwa Meryl punya saudara kembar yang dekat, tapi tak ada catatan tentang saudaranya ini tak ada di mana pun.",
   "like": "Hari bersalju, kristal",
   "dislike": "Tumbuh-tumbuhan",
   "element": "Ice",
@@ -70,7 +70,7 @@
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Tekan Serangan Biasa selama jendela Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\nTimpakan damage sebesar <b>65.9%</b> ATK + <b>3</b> setiap kena sasaran dan buat target <b>terpental</b>."
+      "description": "Tekan Serangan Biasa selama Waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\nTimpakan damage sebesar <b>65.9%</b> ATK + <b>3</b> setiap kena sasaran dan buat target <b>terpental</b>."
     },
     {
       "name": "Crescent Slash",
@@ -85,33 +85,33 @@
       "type": [
         "Skill"
       ],
-      "description": "Ayunkan Greatsword untuk melepaskan Sword Aura ke depan, masing-masing menimpakan damage sebesar <b>141.7%</b> ATK + <b>7</b> dan meningkatkan damage yang ditimbulkan sebanyak <b>5%</b> setiap kena. Kebal terhadap efek kontrol saat aktif. Cooldown <b>45</b> detik."
+      "description": "Ayunkan Greatsword untuk melepaskan Sword Aura ke depan, masing-masing menimpakan damage sebesar <b>141.7%</b> ATK + <b>7</b> dan meningkatkan damage yang ditimbulkan sebesar <b>5%</b> setiap kena. Kebal terhadap efek kontrol saat aktif. CD <b>45</b> detik."
     },
     {
       "name": "Frost Barrier",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Weapon Charge</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, setelah beralih ke senjata ini, <b>menghilangkan semua debuff dari penggunanya</b> dan menghantam tanah untuk menghasilkan Barrier yang akan menimpakan damage sebesar <b>503.2%</b> ATK + <b>26</b> kepada musuh di sekitar dan mengakibatkan Suspend kepada target. Ini akan memperlambat mereka sebanyak <b>50%</b> dan menghalangi agar mereka tidak menghindar atau melompat. Barrier bertahan <b>5</b> detik dan memblokir proyektil."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, setelah beralih ke senjata ini, <b>menghilangkan semua debuff dari penggunanya</b> dan menghantam tanah untuk menghasilkan Barrier yang akan menimpakan damage sebesar <b>503.2%</b> ATK + <b>26</b> kepada musuh di sekitar dan mengakibatkan Suspend kepada target. Ini akan memperlambat mereka sebesar <b>50%</b> dan menghalangi agar mereka tidak menghindar atau melompat. Barrier bertahan <b>5</b> detik dan memblokir proyektil."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, Weapon Charge target berkurang <b>50%</b>."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
   },
   "advancement": [
-    "Meningkatkan Shatter sebanyak <b>15%</b> dan memulihkan <b>10%</b> HP setelah menghancurkan Shield musuh.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>16%</b>.",
-    "Setelah berganti senjata, pemain akan mendapatkan Ice Shield sebanyak <b>10%</b> Max HP. Cooldown: <b>20</b> detik. Ice Shield bertahan maks <b>10</b> detik.",
-    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebanyak <b>32%</b>.",
-    "Meningkatkan damage dan Shatter sebanyak <b>50%</b> selama Shield masih aktif.",
-    "Jika beralih ke senjata ini, akan mendapatkan Ice Shield sebanyak <b>20%</b> Max HP dan kebal terhadap kontrol selama perisai masih aktif. Cooldown: <b>20</b> detik. Ice Shield bertahan maks <b>10</b> detik."
+    "Meningkatkan Shatter sebesar <b>15%</b> dan memulihkan <b>10%</b> HP setelah menghancurkan Perisai musuh.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
+    "Setelah berganti senjata, pemain akan mendapatkan Ice Shield sebesar <b>10%</b> Max HP. CD: <b>20</b> detik. Ice Shield bertahan maks <b>10</b> detik.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
+    "Meningkatkan damage dan Shatter sebesar <b>50%</b> selama Perisai masih aktif.",
+    "Jika beralih ke senjata ini, akan mendapatkan Ice Shield sebesar <b>20%</b> Max HP dan kebal terhadap kontrol selama perisai masih aktif. CD: <b>20</b> detik. Ice Shield bertahan maks <b>10</b> detik."
   ],
   "traits": [
     {
       "name": "Cool Rose",
       "icon": true,
-      "description": "Mengurangi Frost Damage yang diterima oleh Meryl sebanyak <b>20%</b>, memperoleh kekebalan terhadap efek Frostbite, dan mengurangi durasi terkena Freeze sebanyak <b>50%</b>."
+      "description": "Mengurangi Frost Damage yang diterima oleh Meryl sebesar <b>20%</b>, memperoleh kekebalan terhadap efek Frostbite, dan mengurangi durasi terkena Freeze sebesar <b>50%</b>."
     },
     {
       "name": "Frosted",

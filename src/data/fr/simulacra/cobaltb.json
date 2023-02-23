@@ -7,7 +7,7 @@
   "birthday": "26 juin (Cancer)",
   "birthplace": "Banges Tech",
   "gender": "Féminin",
-  "info": "Malgré son apparence de scientifique très sérieuse qui ne déroge jamais aux règles, c'est en fait tout le contraire de ce stéréotype.\nElle change rarement d'expression, comme si elle n'avait pas de muscles faciaux. Mais en apprenant à la connaître, il devient évident qu'elle n'est pas réservée, et qu'elle a de nombreuses émotions et pensées bien à elle. Par exemple, elle gonfle les joues quand elle est énervée.\nBien qu'elle soit une scientifique phare dans le développement de la cybernétique, elle suit plus souvent son instinct que la logique.\nElle se repose sur de fortes intuitions pour modifier des machines, mais elle peut aussi ajouter des pièces complètement inutiles juste par préférence.",
+  "info": "Elle a beau paraître sérieuse et solennelle, elle est en fait plutôt originale et excentrique.\nSon visage montre peu d'expression, mais lorsque vous apprendrez à la connaître, vous verrez qu'elle est sympathique et qu'elle ne manque pas d'idées ni d'émotions. Elle pourrait même afficher un visage en colère lorsqu'elle est agacée.\nC'est une ingénieur en mécanique d'élite, mais elle travaille en suivant son instinct et non des théories.\nElle affine ses créations avec son \"sixième sens\", et ajoute souvent des modules complètement inutiles parce qu'elle en a envie…",
   "description": "Elle se fait appeler Cobalt-B, mais ce n'est pas son vrai nom. C'est une ingénieure mécanique de l'équipe de développement d'armes de Banges Tech. Sa position n'est pas très élevée au sein de l'entreprise, car les résultats de ses tests ne sont pas très bons.\nSeuls les gens qui travaillent avec elle savent qu'elle est en réalité l'atout principal de l'équipe. Elle se fiche des théories basiques et ne crée que des armes extrêmement efficaces en se basant sur son instinct.\nPour tester ces armes et collecter des données de combat, elle part parfois en opération avec des soldats et les essaie sur de pauvres membres des Hyènes.",
   "like": "Machine, brainstorming, rock artistique",
   "dislike": "Études, examens",
@@ -30,7 +30,7 @@
       "type": [
         "Hold: Attack"
       ],
-      "description": "Appuyez sur Attaque normale et maintenez pour charger un tir, puis relâchez pour tirer des balles enflammées qui infligent des dégâts équivalant à <b>95.4%</b> de l'ATQ + <b>5</b>, suivies d'une explosion trois secondes plus tard (ou si la cible est éliminée) qui inflige des dégâts équivalant à <b>23.9%</b> de l'ATQ aux ennemis proches, avec une zone d'effet qui double à chaque fois qu'une cible dans la zone subit des dégâts (jusqu'à <b>4</b> fois), ainsi que des dégâts accrus."
+      "description": "Appuyez sur Attaque normale et maintenez pour charger une attaque, puis relâchez pour tirer des balles qui infligent des dégâts équivalant à <b>95.4%</b> de l'ATQ + <b>5</b>, suivies d'une explosion trois secondes plus tard (ou si la cible est éliminée) qui inflige des dégâts équivalant à <b>23.9%</b> de l'ATQ aux ennemis proches. Chaque fois que la cible subit des dégâts avant l'explosion (jusqu'à <b>4</b> fois) la zone d'effet est doublée et les dégâts accrus."
     },
     {
       "name": "Explosion sautée",
@@ -92,7 +92,7 @@
     "La compétence ramifiée Bombardement dévastateur et l'attaque d'esquive Proximité infligent une <span class=\"text-green\">Brûlure ionique</span> aux cibles déjà brûlées, infligeant des dégâts de feu correspondant à <b>40%</b> de l'ATQ chaque seconde pendant <b>10</b> secondes.",
     "Augmente de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
     "Les dégâts de la <span class=\"text-green\">Brûlure ionique</span> augmentent jusqu'à devenir équivalents à <b>60%</b> de l'ATQ. Les attaques réussies avec les compétences d'esquive de n'importe quelle arme réinitialisent la durée de la <span class=\"text-green\">Brûlure ionique</span>.",
-    "<span class=\"text-green\">Barrage</span> a un effet de brûlure de <b>15</b> [@$seconde|secondes]. Les attaques réussies avec les compétences d'esquive de n'importe quelle arme réduisent le temps de recharge de <span class=\"text-green\">Barrage</span> de <b>4</b> secondes. Temps de recharge de l'effet : <b>1.5 [@$seconde|secondes]</b>. Les dégâts sur la durée des compétences d'esquive entraînent également la réduction du temps de recharge."
+    "<span class=\"text-green\">Barrage</span> a un effet de brûlure de <b>15</b> secondes. Les attaques réussies avec la compétence d'esquive de n'importe quelle arme réduisent le temps de recharge de <span class=\"text-green\">Barrage</span> de <b>4</b> secondes. Temps de recharge de l'effet : <b>1,5</b> seconde. Les dégâts de brûlure sur la durée de la compétence d'esquive déclenchent également un effet de réduction du temps de recharge."
   ],
   "traits": [
     {
@@ -164,7 +164,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 3
       }
@@ -187,7 +187,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 4
       }
@@ -210,7 +210,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 4
       }
@@ -233,7 +233,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 4
       }
@@ -256,7 +256,7 @@
       },
       "mat3": {
         "id": "booster_frame_i",
-        "name": "Cadre d'amplification I",
+        "name": "Cadre d'amplification I",
         "rarity": "SR",
         "amount": 4
       }
@@ -279,7 +279,7 @@
       },
       "mat3": {
         "id": "booster_frame_ii",
-        "name": "Cadre d'amplification II",
+        "name": "Cadre d'amplification II",
         "rarity": "SSR",
         "amount": 5
       }

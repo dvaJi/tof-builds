@@ -7,7 +7,7 @@
   "birthday": "17. Dezember (Schütze)",
   "birthplace": "Unbekannt",
   "gender": "Männlich",
-  "info": "Er ist eine Frohnatur und erhellt jeden Raum, ist extrovertiert, ehrlich, optimistisch und manchmal ein wenig zu stolz.\nWenn er nicht gerade bewundernswerte Dolchtricks übt, sammelt er schlechte Witze, die er urkomisch findet und oft und gern vorträgt wie ein Komödiant.\nHinter seinem fröhlichen, unbekümmerten Auftreten verbergen sich jedoch viel Willensstärke und Entschlossenheit. Wenn er sich einmal etwas vorgenommen hat, gibt er keine Ruhe, bis er es erreicht hat. Deshalb ist er manchmal auch zu streng mit sich selbst.",
+  "info": "Er ist eine Frohnatur und versucht immer, andere aufzuheitern, ist extrovertiert, ehrlich, optimistisch und manchmal ein wenig übermütig.\nWenn er nicht gerade Dolchtricks übt, sammelt er schlechte Witze, die er oft und gern erzählt.\nHinter seinem unbekümmerten Auftreten verbirgt sich eine große Willensstärke. Wenn er sich einmal etwas vorgenommen hat, gibt er keine Ruhe, bis er es erreicht hat. Deshalb ist er manchmal auch zu streng mit sich selbst.",
   "description": "Als ehemaliger Vollstrecker pflegt Crow gute Beziehungen zu Hykros. Er wurde nicht etwa entlassen, weil er Fehler begangen oder schlechte Leistungen abgeliefert hätte. Nachdem er eine Weile im dortigen Team gearbeitet hatte, merkte er einfach nur, dass er sich nach einem Leben mit weniger Regeln sehnte, und traf die für ihn beste Entscheidung.\nJetzt verbringt er viel Zeit mit ausgedehnten Reisen. Seine fröhliche Art hinterlässt einen positiven ersten Eindruck, und er hat immer neue Tricks oder Witze auf Lager, wenn er an einen neuen Ort kommt. Andere nennen ihn Crowy, aber das macht ihm nichts aus.",
   "like": "Katzen; alle Arten von Dolchwaffen",
   "dislike": "Alkohol, Gespenstergeschichten",
@@ -23,7 +23,7 @@
       "type": [
         "Attack"
       ],
-      "description": "Wenn der Anwender auf dem Boden steht und die Zwillingsklingen schwingt, greift er 5-mal hintereinander an.\nErster Angriff: verursacht Schaden in Höhe von <b>60.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>73%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>90.9%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>96.8%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>202.2%</b> des ANG + <b>11</b> und stößt das Ziel eine kurze Strecke zurück."
+      "description": "Wenn der Anwender auf dem Boden steht und die Zwillingsklingen schwingt, kann er bis zu 5-mal hintereinander angreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>60.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>73%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>90.9%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>96.8%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>202.2%</b> des ANG + <b>11</b> und stößt das Ziel eine kurze Strecke zurück."
     },
     {
       "name": "Himmelssturm",
@@ -82,7 +82,7 @@
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>paralysiert</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden außer Kraft gesetzt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
   },
   "advancement": [
     "Der Angriff auf Ziele von hinten erhöht die kritische Trefferrate aller Zwillingsklingen um <b>40%</b>. Meuchelangriffe auf elektrisierte Ziele erhöhen die kritische Trefferrate um <b>100%</b> und den kritischen Schaden um <b>30%</b>.",

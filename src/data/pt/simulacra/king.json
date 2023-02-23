@@ -1,14 +1,13 @@
 {
   "_id": 9,
   "id": "king",
-  "name": "KING",
   "weapon": "Gadanha do Corvo",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "3 de novembro (Escorpião)",
   "birthplace": "Devastadores",
   "gender": "Masculino",
-  "info": "A presença imponente de KING, insubordinado e vestido com extravagância, preenche qualquer ambiente. Como um cão que ladra pouco e morde muito, ele exala uma aura intimidante e agressiva a cada segundo. Ainda que seu gênio possa ser problemático, comunicar-se com KING não tem nada de difícil.\nEm busca constante por estímulos, ele prioriza a satisfação através dos desejos materiais; para isso, preza por objetividade e o valor monetário claro das coisas e abomina mentirosos e arrogantes.\nKING costuma recorrer à violência para resolver problemas e conseguir o que quer e não é muito chegado a estratégias elaboradas (nem em combate nem em nada).\nQuem passa algum tempo com ele pode perceber que é só um homem forte e simples, mas é melhor guardar isso para si, mesmo que não queira ofender.",
-  "description": "Dentre todos os estúpidos o bastante para aceitarem as taxas de juros altas da Junta Comercial de Banges, KING é o caso mais singular. Geralmente, qualquer pessoa que não consiga quitar a dívida é enviada para trabalhar nas minas, mas ele nunca recebeu esse tratamento.\nNão que a Junta não quisesse, mas mesmo que ela oferecesse grandes recompensas e não poupasse esforços, ainda não conseguia pôr as mãos nele.\nComo mercenário famoso por sua habilidade em combate, KING é conhecido como a personificação da violência. Ele luta desde criança e é especializado em combate sem armas de um contra vários. Cada serviço lhe rendia pagamentos generosos, mas ia lá e gastava tudo de uma vez só.",
+  "info": "Indômito e espalhafatoso, KING é uma pessoa que deixa uma impressão duradoura, pois luta mais do que fala e emana sempre uma aura ameaçadora. Ele pode ser temperamental, mas está aberto à comunicação... de vez em quando.\nKING vive pela emoção e coloca o materialismo entre seus valores, o que é medido em dinheiro, na cara dura. É um homem de poucas palavras e não gosta de pessoas que falam mais do que deveriam, bem como daquelas que se esforçam demais para serem moralmente superiores.\nEle prefere resolver os problemas e conseguir o que quer através da força bruta do que mergulhar em considerações complexas e elaborar estratégias meticulosas.\nQuando se trata do KING, quase sempre é melhor evitar fazer perguntas sobre sua personalidade.",
+  "description": "De todos os azarados que devem muito dinheiro a juros altíssimos à Junta Comercial de Banges, uma desgraça pela qual não podem culpar ninguém além de si mesmos, King é um caso especial. Ele é o único não enviado às minas para escavar durante o resto de sua vida, que é o que a Junta costuma fazer com inadimplentes.\nE não foi por falta de vontade. Eles simplesmente não podiam fazer nada a respeito, mesmo que colocassem uma recompensa bem chamativa por sua cabeça ou que enviassem forças armadas para buscá-lo.\nUm mercenário conhecido por sua agressividade, King é frequentemente considerado a personificação da violência. Ele começou a provocar brigas ainda criança e é plenamente capaz de lutar em desvantagem numérica. Normalmente, cobra muito caro pelos seus serviços, mas gasta toda a sua comissão logo em seguida...",
   "like": "Dinheiro, gastar dinheiro, coisas simples",
   "dislike": "Objetos Valiosíssimos",
   "element": "Fire",
@@ -31,7 +30,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>63.4%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>68.8%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>190.5%</b> do ATQ + <b>10</b>.\nQuarto ataque: Causa dano de <b>213.6%</b> do ATQ + <b>11</b>.\nQuinto ataque: Causa dano de <b>173.9%</b> do ATQ + <b>9</b> e derruba o alvo. Quanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "description": "No ar ou após pular uma vez, toque no botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>63.4%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>68.8%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>190.5%</b> do ATQ + <b>10</b>.\nQuarto ataque: Causa dano de <b>213.6%</b> do ATQ + <b>11</b>.\nQuinto ataque: Causa dano de <b>173.9%</b> do ATQ + <b>9</b> e derruba o alvo. Quanto maior a altura de ativação, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Gadanha Cadente",

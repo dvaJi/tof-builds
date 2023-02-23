@@ -47,7 +47,7 @@
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Floreio Arremessante.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano de <b>49.2%</b> do ATQ + <b>3</b>. Toque novamente para continuar atacando o alvo suspenso e causar dano de até <b>98%</b> do ATQ + <b>5</b>."
+      "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Floreio Arremessante.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano de <b>49.2%</b> do ATQ + <b>3</b>. Toque novamente para continuar atacando o alvo no ar e causar dano de até <b>98%</b> do ATQ + <b>5</b>."
     },
     {
       "name": "Ataque Furtivo",
@@ -71,7 +71,7 @@
         "Dodge",
         "Attack"
       ],
-      "description": "Toque no botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\nBate a lança no chão, <b>suspendendo muito</b> os alvos e causando dano de <b>52.8%</b> do ATQ + <b>3</b>."
+      "description": "Toque no botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\nBate a lança no chão, causando dano de <b>52.8%</b> do ATQ + <b>3</b> e <b>suspendendo muito</b> os alvos no ar."
     },
     {
       "name": "Combate nas Alturas",
@@ -85,12 +85,12 @@
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, que pula no ar e arremessa uma lança relampejante que explode. Causa dano em área de <b>296.7%</b> do ATQ + <b>16</b> e <b>paralisa</b> o alvo durante <b>1</b> segundo."
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, que pula no ar e arremessa uma lança relampejante que explode. Causa dano em área de <b>296.7%</b> do ATQ mais <b>16</b> e <b>paralisia forte</b> nos alvos durante <b>1</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma <b>paralisa</b> alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, anulando todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Durante os <b>6</b> segundos seguintes, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Aumenta o despedaçar em <b>15%</b>. Após despedaçar o escudo do alvo, aumenta o ATQ de todos os colegas de equipe em <b>15%</b> durante <b>30</b> segundos. Não acumula.",

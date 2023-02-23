@@ -1,14 +1,13 @@
 {
   "_id": 9,
   "id": "king",
-  "name": "KING",
   "weapon": "Sense der Krähe",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "3. November (Skorpion)",
   "birthplace": "Ravager",
   "gender": "Männlich",
-  "info": "Der widerspenstige und extravagant gekleidete KING ist unübersehbar. Er lässt lieber seine Fäuste als sein Mundwerk sprechen – jeder, der ihm begegnet, wird sofort eingeschüchtert von seiner Aggression. Seine Laune ist mehr als wankelmütig; um so überraschender ist es, dass man gut mit ihm kommunizieren kann.\nKING ist stets auf der Suche nach neuen Abenteuern und ihm sind irdische Güter wichtig. So weiß er Prägnanz und den Wert von Dingen zu schätzen und hasst Lügner und Angeber.\nOft greift KING auf Gewalt zurück, um Probleme zu lösen und zu bekommen, was er haben will. Komplizierte Strategien (ob nun im Kampf oder im Leben) gefallen ihm nicht.\nWer ein wenig Zeit mit KING verbringt erkennt, dass er ein einfacher, starker Kerl ist. Allerdings sollte man ihm dies nicht unbedingt sagen, auch wenn es nicht böse gemeint ist.",
-  "description": "Von allen, die dumm genug waren, die hohen Zinsen des Banges-Unternehmensverbands aufzunehmen, ist KING der einzigartigste Fall. Normalerweise wird jeder, der eine Zahlung nicht begleichen kann, zur Arbeit in die Minen geschickt – aber nicht er.\nEs ist nicht so, dass der Verband es nicht wollte, aber selbst wenn sie hohe Kopfgelder aussetzten und keine Waffen oder Mühen scheuten, konnten sie ihm nichts anhaben.\nAls Söldner, der für seine Kampffähigkeiten bekannt ist, gilt KING als die Verkörperung von Gewalt. Zu kämpfen ist schon seit seiner Kindheit ein Teil von ihm und er ist ein erfahrener Schläger, der sich auf den Kampf gegen viele spezialisiert hat. Er wird für jeden Auftrag reichlich entlohnt, verspielt es aber angeblich sofort.",
+  "info": "Der zügellose und angeberische King lässt lieber die Fäuste als die Worte sprechen und hinterlässt so einen bleibenden Eindruck. Er wirkt stets bedrohlich und kann sehr aufbrausend sein, aber man kann auch mit ihm reden … zumindest manchmal.\nKing lebt für den Nervenkitzel und stellt seinen Materialismus und seine Werte, die er in Geld misst, offen zur Schau. Er ist ein Mann weniger Worte und verabscheut Menschen, die zu viel reden oder moralische Überlegenheit vorgeben.\nRohe Gewalt ist ihm lieber als komplexe Überlegungen und ausgeklügelte Strategien, um seine Probleme zu lösen und seine Ziele zu erreichen.\nEs ist wohl besser, King keine zu persönlichen Fragen zu stellen.",
+  "description": "Unter all den bedauernswerten Seelen, die den Fehler gemacht haben, sich bei der Handelskammer von Banges mit hohen Zinsen zu verschulden, ist KING ein Sonderfall. Er ist der Einzige, den die Kammer nicht in die Minen geschickt hat, um dort bis ans Lebensende zu schuften.\nNicht, dass die Kammer das nicht gewollt hätte. Es ist ihr nur einfach nicht gelungen. Auch nicht, indem sie ein hohes Kopfgeld auf ihn aussetzte oder Streitkräfte entsendete.\nKING ist ein Söldner, der für seine Aggressivität berüchtigt ist, und wird oft als „personifizierte Gewalt“ bezeichnet. Seit seiner Kindheit weicht er keiner Auseinandersetzung aus und weiß sich auch gegen eine Übermacht zu behaupten. Er verdient mit seinen Aufträgen viel Geld, wirft es aber gleich wieder zum Fenster hinaus.",
   "like": "Geld; Geld ausgeben; die einfachen Dinge im Leben",
   "dislike": "Produkte ohne Preisschild",
   "element": "Fire",
@@ -31,7 +30,7 @@
         "Jump",
         "Attack"
       ],
-      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, greife 5 Mal hintereinander an.\nErster Angriff: verursacht Schaden in Höhe von <b>63.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>68.8%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>190.5%</b> des ANG + <b>10</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>213.6%</b> des ANG + <b>11</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>173.9%</b> des ANG + <b>9</b> und schlägt das Ziel nieder. Je höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
+      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, greifst du 5-mal hintereinander an.\nErster Angriff: verursacht Schaden in Höhe von <b>63.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>68.8%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>190.5%</b> des ANG + <b>10</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>213.6%</b> des ANG + <b>11</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>173.9%</b> des ANG + <b>9</b> und bringt das Ziel zu Fall. Je höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Zerschlagen",

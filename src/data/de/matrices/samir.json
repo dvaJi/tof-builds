@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Erhöht den Schaden um 1%, wenn ein Ziel getroffen wird. Bis zu 10/13/16/20-mal stapelbar. Hält 1,5 Sek. an."
+      "value": "Für jeden Treffer, den der Anwender bei einem Ziel landet, erhält er einen Schadensbonus von 1,5%. Dieser Effekt ist bis zu 10-/13-/16-/20-mal stapelbar. Buff-Stapelzeit: 2 Sek."
     },
     {
       "count": 4,
-      "value": "Erhöht den Schaden der elektrischen Explosion von Doppel-EM-Sterne um 16%/22%/30%/40% des ANG."
+      "value": "Jeder Angriff an einem anvisierten Ziel verursacht Bonusschaden in Höhe von 10%/12,5%/15%/17,5% des ANG."
     }
   ],
   "mind": {
