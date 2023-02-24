@@ -5,10 +5,7 @@
   "description": "Von der Krone geprägte Erinnerungsmünze in kleiner Auflage, mit einem Porträt des Mineneigentümers auf der Vorderseite und einem stilisierten „K“ auf der Rückseite. Sammle sieben dieser Münzen und du kriegst einen Tag bezahlten Urlaub – vielleicht. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cobaltb",
-    "king"
-  ],
+  "favorite": ["cobaltb", "king"],
   "characters": [
     "crow",
     "meryl",

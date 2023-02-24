@@ -20,61 +20,42 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Setze auf dem Boden einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nDer erste Angriff verursacht Schaden in Höhe von <b>52.3%</b> des ANG + <b>3</b>.\nDer zweite Angriff verursacht Schaden in Höhe von <b>75.6%</b> des ANG + <b>4</b>.\nDer dritte Angriff verursacht Schaden in Höhe von <b>94.5%</b> von ANG + <b>5</b>.\nDer vierte Angriff verursacht Schaden in Höhe von <b>142.8%</b> des ANG + <b>8</b>.\nDer fünfte Angriff verursacht Schaden in Höhe von <b>137.8%</b> des ANG + <b>7</b>."
     },
     {
       "name": "Aufgeladener Schuss",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tippe und halte die normale Angriffstaste gedrückt, um einen Angriff aufzuladen, und lasse sie los, um zu schießen. Dies verursacht Schaden in Höhe von <b>95.4%</b> des ANG + <b>5</b> und 3 Sek. später (oder wenn das Ziel stirbt) eine Explosion, die Gegnern in der Nähe Schaden in Höhe von <b>23.9%</b> des ANG zufügt. Jedes Mal, wenn das Ziel vor der Explosion Schaden erleidet, wird der Wirkungsbereich verdoppelt und der Schaden erhöht (bis zu <b>4</b>-mal)."
     },
     {
       "name": "Sprungbombe",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Zünde in der Luft oder nach einem Sprung eine Sprungbombe.\nWirft eine Bombe, die Gegnern in einem Kreis vor dem Anwender Schaden in Höhe von <b>90.8%</b> des ANG + <b>5</b> zufügt und sie eine kurze Distanz zurückstößt. Verbraucht <b>250</b> Ausdauer."
     },
     {
       "name": "Luftsprengung",
-      "type": [
-        "Double Jump"
-      ],
+      "type": ["Double Jump"],
       "description": "Zünde nach einem Doppelsprung eine Luftsprengung in der Luft.\nSchieße einen Omnium-Strahl nach unten. Der Strahl schwingt dann nach vorne und verursacht Schaden in Höhe von <b>33.8%</b> des ANG + <b>2</b>."
     },
     {
       "name": "Schweres Sperrfeuer",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Halte die Angriffstaste während eines normalen Angriffs gedrückt, um „Suppressionsfeuer“ nach vorne zu entfesseln. Fügt Gegnern Flächenschaden in Höhe von <b>102%</b> des ANG + <b>5</b> zu."
     },
     {
       "name": "Nahkampf",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Verwende den normalen Angriff direkt nach dem Ausweichen, um „Nahkampf“ auszulösen.\nVerursacht Schaden in Höhe von <b>156.1%</b> des ANG + <b>8</b> an Zielen in einem frontalen Kegelbereich."
     },
     {
       "name": "Sperrfeuer",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Schießt kontinuierlich in einem frontalen Kegelbereich und verursacht Schaden in Höhe von <b>666%</b> des ANG + <b>35</b>. Abklingzeit: <b>60</b> Sek."
     },
     {
       "name": "Feuerregen",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b> und <b>3</b> Granaten nach vorne gefeuert. Dies verursacht Flächenschaden in Höhe von insgesamt <b>570%</b> des ANG + <b>30</b> und <b>schleudert</b> Ziele weg."
     }
   ],

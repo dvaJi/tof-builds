@@ -20,23 +20,17 @@
   "skills": [
     {
       "name": "Normal Attack",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Tap normal attack to enter aiming mode. Hold normal attack to fire continuously, up to <b>40</b> rounds. Each shot deals damage equal to <b>11.4%</b> of ATK + <b>1</b>. Deal double damage when scoring a headshot or hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
     },
     {
       "name": "Turret",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Enable turret mode and fire large energy orbs, each dealing damage equal to <b>213.3%</b> of ATK + <b>11</b> and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. Cooldown: <b>3.5</b> seconds."
     },
     {
       "name": "Arctic Beam",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and fire an arctic beam upon switching to this weapon, dealing damage equal to <b>329.2%</b> of ATK + <b>17</b> and inflict a <b>3</b>-second <b>freeze</b> effect. Also reduce the target's frost resistance by <b>50%</b> for <b>10</b> seconds."
     }
   ],

@@ -5,11 +5,5 @@
   "description": "Agar benar-benar menyerupai Alf asli, para pembuatnya membuat yang ini dari logam. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "SR",
   "value": 60,
-  "characters": [
-    "cobaltb",
-    "crow",
-    "shiro",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["cobaltb", "crow", "shiro", "tsubasa", "hilda"]
 }

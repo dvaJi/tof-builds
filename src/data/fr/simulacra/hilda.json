@@ -20,23 +20,17 @@
   "skills": [
     {
       "name": "Attaque normale",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Appuyez sur Attaque normale pour entrer en mode Visée. Maintenez Attaque normale pour tirer en continu, jusqu'à <b>40</b> cartouches. Chaque tir inflige des dégâts de base équivalant à <b>11.4%</b> de l'ATQ + <b>1</b>. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible d'un ennemi, et renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
     },
     {
       "name": "Tourelle",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Vous activez le mode Tourelle et envoyez de grands orbes d'énergie. Chacun d'entre eux inflige des dégâts équivalant à <b>213.3%</b> de l'ATQ + <b>11</b>, et projette la cible dans les airs. L'installation de la tourelle vous immunise contre l'hébétement et les effets de contrôle. Temps de recharge : <b>3.5</b> secondes."
     },
     {
       "name": "Rayon arctique",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et tire un rayon arctique au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>329.2%</b> de l'ATQ + <b>17</b>, ainsi qu'un effet de <b>congélation</b> de <b>3</b> secondes. Réduit aussi de <b>50%</b> la résistance au givre de la cible pendant <b>10</b> secondes."
     }
   ],

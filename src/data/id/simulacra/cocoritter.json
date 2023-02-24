@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, ayunkan tongkat untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>54.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebesar <b>40.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebesar <b>65.6%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebesar <b>89.7%</b> ATK + <b>5</b>.\nSerangan Kelima: Timpakan damage sebesar <b>158.4%</b> ATK + <b>8</b>."
     },
     {
       "name": "Soaring Barrage",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>70.5%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>50.8%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>55.1%</b> ATK + <b>3</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>99.1%</b> ATK + <b>5</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>103.2%</b> ATK + <b>5</b>."
     },
     {
       "name": "Moonfall",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tekan dan tahan Serangan Biasa saat mengudara untuk mengaktifkan Moonfall.\nSaat mendarat, timpakan damage satu kali setiap <b>0,2</b> detik, dengan total <b>123.8%</b> ATK + <b>7</b> damage."
     },
     {
       "name": "Focused Assault",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Branch Attack, yang akan mengonsumsi <b>300</b> Stamina.\nSerangan Pertama: Menarik musuh di depan pengguna dan mengakibatkan <b>Suspend Keras</b> kepada mereka serta menimpakan DMG sebesar <b>34.9%</b> ATK + <b>2</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimpakan DMG sebesar <b>40.4%</b> ATK + <b>2</b> di lokasi target dan kepada musuh di sekitarnya setiap <b>0,3</b> detik."
     },
     {
       "name": "Surge",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap Energy Pulse akan menimbulkan DMG sebesar <b>45.9%</b> ATK + <b>2</b> kepada target.\nMemberikan <b>75</b> poin Charge Senjata saat digunakan."
     },
     {
       "name": "Tesseract",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tekan tombol Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Evasive Blast.\nMenembakkan Energy Orb ke depan, dan menimpakan damage sebesar <b>66.4%</b> ATK + <b>3</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nMemberikan <b>75</b> poin Charge Senjata saat digunakan."
     },
     {
       "name": "Sanctuary",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Buat zona penyembuhan yang bergerak bersama Wanderer dan menyembuhkan teman terdekat dengan <b>95%</b> ATK + <b>5</b> satu kali setiap <b>0,5</b> detik selama <b>6</b> detik. Cooldown <b>60</b> detik."
     },
     {
       "name": "Swift Deliverance",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, dan Staff akan terus menghilangkan debuff dari Wanderer dan teman-temannya, dan menyembuhkan Wanderer dan teman di sekitar sebesar <b>118.8%</b> ATK + <b>6</b> HP selama <b>7</b> detik."
     }
   ],

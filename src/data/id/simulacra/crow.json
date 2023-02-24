@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Twin Blades",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, ayunkan sepasang Dual Blade untuk menyerang hingga 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>60.1%</b> ATK + <b>3</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Kedua: Menimpakan DMG sebesar <b>73%</b> ATK + <b>4</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Ketiga: Menimpakan DMG sebesar <b>90.9%</b> ATK + <b>5</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Keempat: Menimpakan DMG sebesar <b>96.8%</b> ATK + <b>5</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Kelima: Menimpakan DMG sebesar <b>202.2%</b> ATK + <b>11</b> dan membuat target terpukul mundur dalam jarak dekat."
     },
     {
       "name": "Sky Flurry",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>65.6%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>38.4%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>92%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>138%</b> ATK + <b>7</b>."
     },
     {
       "name": "Rapid Lunge",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Rapid Lunge.\nSetelah kena, akan mengakibatkan <b>Suspend Keras</b> kepada target dan menimpakan damage sebesar <b>116.8%</b> ATK + <b>6</b>."
     },
     {
       "name": "Spiral Drive",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target terkunci), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nSaat terjun, menimbulkan DMG sebesar <b>42%</b> ATK + <b>2</b> setiap kali berhasil mengenai target."
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk melakukan Sneak Attack yang menimpakan DMG sebesar <b>570%</b> ATK + <b>30</b>."
     },
     {
       "name": "Flying Blades",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tekan Serangan Biasa selama Waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebesar <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap efek kontrol saat proses phasing."
     },
     {
       "name": "Returning Blades",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Melontarkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebesar <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. CD <b>45</b> detik."
     },
     {
       "name": "Orbiting Blades",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke lokasi target dan menyerang, menimbulkan DMG sebesar <b>86.9%</b> ATK + <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimbulkan Volt DMG sebesar <b>15%</b> dari DMG yang ditimbulkan, maks <b>350%</b> dari ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 mata pisau akan muncul dan mengitari Wanderer serta menimbulkan DMG sebesar <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
     }
   ],

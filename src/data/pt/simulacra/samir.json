@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Tiro Duplo",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\nPrimeiro ataque: Causa dano total de <b>47.1%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano total de <b>35.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano total de <b>119.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano total de <b>113.1%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano total de <b>154%</b> do ATQ + <b>8</b> e <b>lança o alvo no ar</b>."
     },
     {
       "name": "Chuva de Balas",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar, use o botão de ataque normal para atirar sem parar no chão. Cada disparo causa dano de <b>50.6%</b> do ATQ + <b>3</b> e custa <b>150</b> de vigor."
     },
     {
       "name": "Rajada de Energia",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Segure o botão de ataque para continuar atirando. Cada acerto causa dano mínimo de <b>23%</b> do ATQ + <b>1</b>."
     },
     {
       "name": "Chute Fantasma",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "No ar, segure o botão de ataque normal para usar Chute Fantasma. Derruba o alvo e causa dano de <b>70.5%</b> do ATQ + <b>4</b>. Ao aterrissar, causa dano de <b>98.7%</b> do ATQ + <b>5</b> a alvos próximos e os <b>lança alto no ar</b>."
     },
     {
       "name": "Esquiva Desacelerante",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toque no botão de ataque normal após se esquivar para <b>suspender muito</b> os alvos e causar dano de <b>122.6%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Campo Elétrico",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Gera um escudo energético na posição do alvo que emite feixes dentro da barreira. Causa dano de <b>269.8%</b> do ATQ + <b>14</b>. O último golpe <b>suspende muito</b> os alvos. Tempo de recarga: <b>45</b> seg."
     },
     {
       "name": "Área Relampejante",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos dentro da área, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
     }
   ],

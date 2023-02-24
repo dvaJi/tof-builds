@@ -5,9 +5,7 @@
   "description": "A miniature figurine based on the Void Angel. It's white all over and requires special care to keep spotless. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "claudia",
     "crow",

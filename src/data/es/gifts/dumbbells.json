@@ -5,9 +5,5 @@
   "description": "Un instrumento para entrenamiento con pesas utilizado comúnmente para ejercitarse... excepto en ciertas ocasiones drásticas... Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "frigg",
-    "shiro"
-  ]
+  "characters": ["cobaltb", "frigg", "shiro"]
 }

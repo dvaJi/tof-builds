@@ -20,69 +20,47 @@
   "skills": [
     {
       "name": "Attaque normale",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Lorsque vous êtes au sol, lancez Tissombre et envoyez 5 attaques consécutives.\nPremière attaque : inflige des dégâts équivalant à <b>59.9%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>57.1%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>49.5%</b> de l'ATQ + <b>3</b>. \nQuatrième attaque : inflige des dégâts équivalant à <b>114.2%</b> de l'ATQ + <b>6</b> et suspend la cible dans les airs.\nCinquième attaque : inflige des dégâts équivalant à <b>152.2%</b> de l'ATQ + <b>8</b>."
     },
     {
       "name": "Décharge aérienne",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>30.6%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>55.6%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>48.2%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>111.2%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>148.3%</b> de l'ATQ + <b>8</b>."
     },
     {
       "name": "Sol dispersé",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Après avoir effectué deux attaques normales au sol ou dans les airs, maintenez Attaque normale pour déclencher Sol dispersé.\nAttaque la position de la cible, inflige des dégâts équivalant à <b>83.2%</b> de l'ATQ + <b>4</b> et renverse la cible.\nEffet passif : après avoir lancé Sol dispersé au sol, toucher rapidement le bouton d'attaque normale lance immédiatement Floraison rapide (au 3e cumul)."
     },
     {
       "name": "Floraison rapide",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Maintenez Attaque normale pour lancer Floraison rapide. L'effet peut être chargé jusqu'à 3 cumuls, octroie Hypercorps et une immunité au contrôle pendant le chargement.\nPremier cumul : inflige des dégâts équivalant à <b>73.9%</b> de l'ATQ + <b>4</b>.\nDeuxième cumul : inflige des dégâts équivalant à <b>146.8%</b> de l'ATQ + <b>246.4</b>.\nTroisième cumul : inflige des dégâts équivalant à <b>13%</b> de l'ATQ + <b>{5}</b>."
     },
     {
       "name": "Ombre tombante",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Maintenez Attaque normale lorsque vous êtes en l'air pour déclencher Ombre tombante.\nEn tombant des cieux, vous infligez des dégâts équivalant à <b>160%</b> de l'ATQ + <b>8</b> et renversez la cible."
     },
     {
       "name": "Esquive",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Devient immunisé contre l'hébétement pendant <b>0,5</b> seconde lors d'une esquive."
     },
     {
       "name": "Vert feuille",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Envoie Vert feuille sur la cible tout en effectuant un salto arrière, infligeant des dégâts équivalant à <b>70%</b> de l'ATQ + <b>4</b>, générant entre <b>1 et 3</b> épicactus en cas d'impact et formant un champ vert qui dure <b>5</b> secondes. La vitesse de déplacement des ennemis est réduite de <b>50%</b> lorsqu'ils verrouillent l'Explorateur.\nEffet passif : disponible à la fois au sol et dans les airs.\nEffet passif : rompt immédiatement les effets de contrôle actifs et libère Vert feuille sans dépenser de tentative d'esquive. Le temps de recharge de la compétence est de <b>20</b> secondes."
     },
     {
       "name": "Flot agité : flux étincelant",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Crée un Royaume du Clair de lune autour de vous pendant <b>15</b> secondes. Les dégâts que vous infligez dans le royaume sont accrus de <b>10%</b>, la capacité de saut de <b>20%</b> et la consommation d'endurance est réduite de <b>50%</b>. Temps de recharge : <b>30</b> secondes.\nEntrez dans l'état spécial Fleur d'air lorsque Tissombre est déclenché dans le royaume, permettant des doubles sauts multiples et une réduction importante de la vitesse de chute. Dans cet état, utiliser les touches directionnelles ou le bouton de saut lorsque vous êtes en l'air entraine Itinérance et lance une attaque sur la cible. Au contact, inflige des dégâts équivalant à <b>66%</b> de l'ATQ + <b>3</b> et génére de manière aléatoire <b>1 à 3</b> épicactus.\n\nEffet passif : dans le Royaume du Clair de lune, <b>1</b> épicactus apparaît près de 1 cible toutes les <b>0,8</b> seconde.\nEffet passif : lorsque vous utilisez Tissombre dans le Royaume du Clair de lune, vous infligez <b>50%</b> de dégâts supplémentaires aux ennemis dont les PV sont inférieurs à <b>20%</b>.\nEffet passif : lorsque vous utilisez Tissombre dans le Royaume du Clair de lune, les dégâts subis seront détectés et vous vous déplacerez vers un emplacement ciblé. Temps de recharge : <b>10</b> secondes.\n\nEffet passif : Maître d'armes\nFeu : lorsque Tissombre est associé à deux armes de feu, le Royaume du Clair de lune se transforme en Royaume du Clair de feu et dure <b>4</b> secondes supplémentaires lorsque vous brûlez les cibles. Les cibles dotées d'un bouclier subissent <b>15%</b> de dégâts de feu supplémentaires.\n\nFoudre : lorsque Tissombre est associé à 2 armes de foudre, le Royaume du Clair de lune se transforme en Royaume du Clair de foudre, avec <b>65%</b> de chances de ne pas utiliser de tentative d'esquive pendant une esquive et un bonus de <b>35%</b> aux dégâts issus des attaques d'esquive. Lorsque Résonance de foudre est activé, les dégâts de foudre gagnent encore <b>30%</b> supplémentaires.\n\nLorsque Tissombre est associé à 2 armes de givre, le Royaume du Clair de lune se transforme en Royaume du Clair de givre. Les cibles du royaume subissent l'effet de gelure pendant <b>15</b> secondes lorsqu'ils encaissent <b>10</b> fois des dégâts de givre et reçoivent <b>22%</b> de dégâts de givre supplémentaires. Le nombre d'attaques n'est pas cumulable lorsque le statut Gelure est actif. \n\nPhysique : lorsque Tissombre est associé à 2 armes physiques, le Royaume du Clair de lune se transforme en Royaume du Clair physique. Si vous avez un bouclier de PV, celui-ci inflige chaque seconde des dégâts équivalant à <b>50%</b> de l'ATQ + <b>3</b> aux cibles à portée.\n\nÉquilibre : lorsque Tissombre est associé à deux armes élémentaires différentes (parmi les armes de feu, de foudre, de givre et physiques), l'ATQ de l'Explorateur augmente de <b>15%</b> dans le royaume et active une résonance de feu, de foudre, de givre et physique sans les effets de résonance."
     },
     {
       "name": "Gravitisse",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et déclenche Gravitisse avec une force d'absorption supérieure au moment où vous changez d'arme pour en utiliser une autre, infligeant des dégâts équivalant à <b>368.5%</b> de l'ATQ + <b>19</b>. Après <b>5</b> secondes, cela crée une explosion et une onde de diffusion à distance, infligeant des dégâts équivalant à <b>184.3%</b> + <b>10</b>. L'immunité aux dégâts dure <b>2,6</b> secondes lorsque la compétence est activée (non disponible en Ligue ultime)."
     }
   ],

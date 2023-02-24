@@ -5,9 +5,7 @@
   "description": "La peluche préférée des enfants. Adorable, et qui sent bon la belle journée au soleil. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "cocoritter",
     "samir",

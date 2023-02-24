@@ -5,13 +5,5 @@
   "description": "Uma caixa de salgadinhos e doces inventada por Fennie, em Astra. Tem vários beliscos irresistíveis. Um presente muito popular no geral. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "crow",
-    "king",
-    "tsubasa",
-    "zero",
-    "echo",
-    "hilda"
-  ]
+  "characters": ["cobaltb", "crow", "king", "tsubasa", "zero", "echo", "hilda"]
 }

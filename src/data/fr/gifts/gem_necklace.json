@@ -5,12 +5,5 @@
   "description": "Combien vaut ce collier de pierres précieuses ? Arrêtez de spéculer, occupez-vous plutôt de le garder à l'abri ! Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cobaltb",
-    "king",
-    "meryl",
-    "shiro",
-    "bailing",
-    "pepper"
-  ]
+  "characters": ["cobaltb", "king", "meryl", "shiro", "bailing", "pepper"]
 }

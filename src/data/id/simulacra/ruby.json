@@ -20,62 +20,42 @@
   "skills": [
     {
       "name": "Spark Attack",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat berada di darat, tekan tombol Serangan Biasa untuk memerintahkan Spark menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan total DMG sebesar <b>84.6%</b> ATK + <b>4</b> kepada setiap target.\nSerangan Kedua: Menimpakan total DMG sebesar <b>93%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Ketiga: Menimpakan total DMG sebesar <b>101.5%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Keempat: Menimpakan total DMG sebesar <b>109.9%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Kelima: Menimpakan total DMG sebesar <b>253.7%</b> ATK + <b>13</b> kepada setiap target dan membuat target <b>terpental ke atas</b>."
     },
     {
       "name": "Aerial Discharge",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara, tekan tombol Serangan Biasa untuk memerintahkan Spark menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan total DMG sebesar <b>97.1%</b> ATK + <b>5</b> kepada setiap target.\nSerangan Kedua: Menimpakan total DMG sebesar <b>106.8%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Ketiga: Menimpakan total DMG sebesar <b>121.3%</b> ATK + <b>6</b> kepada setiap target.\nSerangan Keempat: Menimpakan total DMG sebesar <b>145.6%</b> ATK + <b>8</b> kepada setiap target."
     },
     {
       "name": "Kena kau!",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tekan dan tahan Serangan Biasa atau lakukan ini setelah Lockdown Zone terpicu untuk menembakkan sinar energi secara terus menerus yang membakar musuh yang tertembak, menimpakan DMG sebesar <b>40%</b> ATK + <b>2</b>. Mengonsumsi Stamina Wanderer."
     },
     {
       "name": "Blazing Dive",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tekan dan tahan Serangan Biasa saat di udara untuk memicu Blazing Dive.\nMenyelimuti tubuh dalam energi, lalu terjun ke tanah dengan cepat, menimpakan DMG sebesar <b>172.1%</b> ATK + <b>9</b> ke target di sekitar."
     },
     {
       "name": "Lockdown Zone",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Setelah Serangan Biasa kedua, tahan tombol selama serangan apa pun untuk menimpakan DMG sebesar <b>40%</b> ATK + <b>2</b> kepada target. Target yang terkunci akan terkurung dan terbakar selama <b>3</b> detik, dan DMG sebesar <b>26.2%</b> ATK + <b>1</b> akan ditimpakan kepada target setiap detiknya (tidak berlaku pada bos)."
     },
     {
       "name": "Ayo, Dolly!",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Lempar Dolly setelah menghindar. Dolly akan aktif selama <b>10</b> detik, menarik musuh di dekatnya dan menimpakan DMG sebesar <b>84.6%</b> ATK + <b>4</b> kepada mereka, serta melakukan Taunt selama <b>1,5</b> detik, menyebabkan musuh mengalihkan serangan mereka ke Dolly (tidak dapat Taunt musuh saat berada dalam tim)."
     },
     {
       "name": "Sparkling Collider",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Spark menembakkan Spark yang aktif 15 detik dan memantul di antara target dan Wanderer. Saat mengenai target, Spark akan memperlambatnya selama <b>4</b> detik dengan CD <b>15</b> detik. Makin jauh jarak yang ditempuh Spark, makin besar DMG yang ditimpakannya. Saat mengenai target, ia akan menimpakan DMG maks <b>350%</b> ATK + <b>37</b> dan mengakibatkan Emblazen selama <b>25</b> detik pada target. Pada saat bersamaan, Spark juga akan menembakkan 4 peluru, yang setiap peluru menimpakan DMG sebesar <b>50%</b> ATK + <b>3</b> kepada targetnya. Serangan Biasa Spark menimpakan DMG <b>110%</b> lebih besar kepada target yang terkena Emblazen. Saat Spark menyerang target yang dibakar oleh Wanderer, ia akan membakar target satu kali dan menimpakan DMG tambahan sebesar <b>100%</b> dari total DMG yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). CD penghitungan hasil adalah <b>6</b> detik dan CD Skill ini adalah <b>30</b> detik.\n<b>Pasif</b>: Saat Spark aktif, setiap kali Spark Attack menimpakan DMG, Wanderer akan mendapatkan <b>1</b> Heat dengan CD <b>0,9</b> detik, maks <b>8</b> Heat. Setelah Heat mencapai batas tertingginya, Wanderer akan mendapatkan Ultimate Heat yang akan meningkatkan Flame ATK sebesar <b>25%</b> selama <b>25</b> detik."
     },
     {
       "name": "Supernova",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>. Spark memasuki status Charged, dan terus menembakkan sinar energi menyilaukan ke lokasi target, sebelum akhirnya meledak. Timpakan damage sebesar <b>750%</b> ATK + <b>39</b>. Jika target punya efek terbakar yang ditimbulkannya sendiri, target akan kena efek Burn atau Ignite satu kali dan menimbulkan damage tambahan sebesar <b>100%</b> dari total damage yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu). CD penghitungan hasil adalah <b>6</b> detik. Damage Immunity bertahan selama <b>2,6</b> detik selama skill ini masih aktif (tidak tersedia di Apex League)."
     }
   ],

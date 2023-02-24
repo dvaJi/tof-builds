@@ -5,12 +5,5 @@
   "description": "2人対戦型のボードゲームだが、時々人生を賭けてしまう人もいる。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

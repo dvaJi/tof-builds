@@ -5,17 +5,6 @@
   "description": "ซากดึกดำบรรพ์ที่ถูกปิดผนึกอยู่ในน้ำแข็งซึ่งถูกค้นพบในทุ่งหิมะวอร์เรน มันหายากมากและเหมาะแก่การสะสมเป็นอย่างยิ่ง มันถูกผลิตขึ้นในแอสเพอเรีย และซิมูลาครัมจากภูมิภาคอื่นก็ไม่น่าจะสนใจมันสักเท่าไหร่",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "king",
-    "meryl",
-    "shiro",
-    "bailing"
-  ],
-  "characters": [
-    "cobaltb",
-    "claudia",
-    "cocoritter",
-    "tsubasa",
-    "pepper"
-  ]
+  "favorite": ["king", "meryl", "shiro", "bailing"],
+  "characters": ["cobaltb", "claudia", "cocoritter", "tsubasa", "pepper"]
 }

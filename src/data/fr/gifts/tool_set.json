@@ -5,9 +5,5 @@
   "description": "Conçu à des fins pratiques et prêt à l'emploi. Peut également être utilisé comme pièce de rechange. Il est apprécié par les techniciens pour sa polyvalence. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cobaltb",
-    "frigg",
-    "shiro"
-  ]
+  "characters": ["cobaltb", "frigg", "shiro"]
 }

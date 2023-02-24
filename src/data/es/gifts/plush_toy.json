@@ -5,9 +5,7 @@
   "description": "Un juguete muy popular entre los niños. Tiene una adorable fragancia que recuerda a una cálida tarde bajo el sol. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "cocoritter",
     "samir",

@@ -20,69 +20,47 @@
   "skills": [
     {
       "name": "Ataque Normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, branda o martelo para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>76.3%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>62.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>157.4%</b> do ATQ + <b>8</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>263.8%</b> do ATQ + <b>14</b> e lança o alvo no ar.\nNo modo Irrupção, branda o martelo para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>{8}%</b> do ATQ + <b>{9}</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>{10}%</b> do ATQ + <b>{11}</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>{12}%</b> do ATQ + <b>{13}</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>{14}%</b> do ATQ + <b>{15}</b> e <b>suspende muito</b> o alvo."
     },
     {
       "name": "Bordoada",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para executar Explosão Elevada. Causa dano de <b>121.7%</b> do ATQ + <b>6</b> e suspende o alvo.\nDurante Irrupção, causa dano de <b>133.9%</b> do ATQ + <b>7</b> e <b>suspende muito</b> o alvo.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Abalo Sísmico",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Segurar o botão de ataque normal enquanto estiver no ar, der salto duplo, tocar brevemente no ar quando houver alvos por perto, escalar, pular para trás ou atacar enquanto usa a mochila a jato desencadeia Abalo Sísmico. <b>Suspende muito</b> o alvo <b>4</b> vezes. Cada vez causa dano de <b>34.8%</b> do ATQ + <b>2</b>. Custa <b>250</b> de vigor.\nDurante Irrupção, Abalo Sísmico <b>suspende muito</b> o alvo <b>5</b> vezes. Cada vez causa dano de <b>38.3%</b> do ATQ + <b>2</b>.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Ataque Furtivo",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>427.5%</b> do ATQ + <b>23</b>."
     },
     {
       "name": "Pancada Repulsora",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Segure o botão de ataque normal para usar Pancada Repulsora. (O ataque pode ser concentrado até 3 acúmulos.) Recebe corpo de aço e imunidade a todos os efeitos de controle enquanto carrega.\nPrimeiro acúmulo: Causa dano de <b>110%</b> do ATQ + <b>6</b> e suspende o alvo.\nSegundo acúmulo: Causa dano de <b>276%</b> do ATQ + <b>15</b> e <b>suspende muito</b> o alvo.\nTerceiro ataque: Causa dano de <b>518%</b> do ATQ + <b>27</b> e <b>suspende muito</b> o alvo.\nDurante Irrupção, segure o botão de ataque normal para usar Golpes Furiosos, que causa dano de <b>501.6%</b> do ATQ + <b>26</b> e <b>suspende muito</b> o alvo."
     },
     {
       "name": "Esquiva Sísmica",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Esquive-se para usar Esquiva Sísmica. Gera uma onda sísmica que suspende o alvo <b>4</b> vezes e causa dano de <b>161.6%</b> do ATQ + <b>9</b>."
     },
     {
       "name": "Divide-Mundos",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toque no botão de ataque normal logo após se esquivar para usar Divide-Mundos. Gera <b>3</b> ondas sísmicas para frente; cada uma causa dano de <b>52.4%</b> do ATQ + <b>3</b> e suspende os alvos.\nNo modo Irrupção, gera <b>5</b> ondas sísmicas para frente; cada uma causa dano de <b>52.4%</b> do ATQ + <b>3</b> e suspende os alvos."
     },
     {
       "name": "Irrupção",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Troque para ativar Irrupção, que aumenta o dano causado durante <b>25</b> segundos.\nDurante Irrupção, habilidades geram Ventania, que causa dano de <b>219%</b> do ATQ + <b>12</b>, <b>suspende muito</b> o alvo e cria uma corrente de ar no chão. Enquanto estiver na corrente, a esquiva não tem custo. Tempo de recarga: <b>45</b> seg. (tempo de recarga de Ventania: <b>10</b> seg.)."
     },
     {
       "name": "Marretada Impiedosa",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e <b>suspende muito</b> os alvos próximos ao trocar para esta arma. Causa dano de <b>153.3%</b> do ATQ + <b>8</b>. Além disso, materializa uma marreta que cai sobre alvos próximos e causa dano de <b>153.3%</b> do ATQ + <b>8</b>."
     }
   ],

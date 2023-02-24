@@ -5,12 +5,5 @@
   "description": "Un coussin décoratif en forme de chat. Très relaxant et thérapeutique à serrer dans ses bras. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

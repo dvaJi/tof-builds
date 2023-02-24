@@ -5,9 +5,7 @@
   "description": "Kids' favorite plush toy. Adorable with a scent reminiscent of a warm day under the sun. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "cocoritter",
     "samir",

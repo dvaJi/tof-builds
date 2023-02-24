@@ -20,55 +20,37 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, inicias 5 ataques seguidos con Balmung.\nPrimer ataque: Inflige daño equivalente al <b>62.1%</b> del ATQ + <b>3</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño equivalente al <b>46.2%</b> del ATQ + <b>2</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño equivalente al <b>91.1%</b> del ATQ + <b>5</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño equivalente al <b>55.8%</b> del ATQ + <b>3</b> y hace retroceder al objetivo.\nQuinto ataque: Inflige daño equivalente al <b>218.4%</b> del ATQ + <b>11</b> y derriba al objetivo."
     },
     {
       "name": "Descarga Aérea",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>64.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>72.6%</b> del ATQ + <b>4</b>.\nTercer ataque: Inflige daño igual a <b>76.7%</b> del ATQ + <b>4</b>.\nCuarto ataque: Inflige daño igual a <b>107.9%</b> del ATQ + <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>168.3%</b> del ATQ + <b>9</b>."
     },
     {
       "name": "Corte Elevado",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Al realizar un ataque normal, mantén pulsado el ataque normal para activar Corte Elevado.\nEmbiste hacia adelante con una barrida horizontal, luego suspende al objetivo en el aire antes de elevarte junto con él. Inflige un daño máximo del <b>134.3%</b> del ATQ + <b>7</b>."
     },
     {
       "name": "Corte Hélice",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Mantén pulsado el ataque normal en el aire o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Corte Hélice.\nEn el descenso, cada impacto inflige daño equivalente al <b>19.8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>185.7%</b> del ATQ + <b>10</b> a los objetivos cercanos."
     },
     {
       "name": "Multicorte",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta para activar Multicorte.\nLanza varios cortes a una distancia fija frente al usuario para infligir daño total equivalente al <b>143.9%</b> del ATQ + <b>8</b>."
     },
     {
       "name": "Fimbulwinter",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Corta el espacio alrededor del nómada, lo que inflige <b>577.5%</b> del ATQ + <b>30</b> como daño, lo que lanza y suspende objetivos, y te otorga inmunidad al daño mientras esta habilidad está en uso. Enfriamiento: <b>30</b> segundos.\nDespués de desatar <b>\"Fimbulwinter\"</b>, un gran Dominio de Hielo se formará alrededor del nómada por <b>25</b> segundos. Los intentos de evasión no se consumirán mientras evades con Balmung dentro del Dominio de Hielo.\nOtorga \"Dominio de Hielo I\" cuando estás en el Dominio de Hielo: Al usar un arma de hielo, potencia la destrucción un <b>25%</b> y el ATQ de hielo un <b>15%</b>."
     },
     {
       "name": "Fractura Gélida",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o se active <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del usuario</b> y lo desplaza hacia adelante al cambiar a esta arma. Controla temporalmente a los enemigos en un área antes de realizar un corte gigante. Lanza objetivos al aire e inflige <b>618.2%</b> del ATQ + <b>33</b> como daño."
     }
   ],

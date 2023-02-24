@@ -5,11 +5,5 @@
   "description": "To fully resemble the original Alf, the makers made this one out of metal. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "SR",
   "value": 60,
-  "characters": [
-    "cobaltb",
-    "crow",
-    "shiro",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["cobaltb", "crow", "shiro", "tsubasa", "hilda"]
 }

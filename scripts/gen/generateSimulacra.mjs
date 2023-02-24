@@ -38,7 +38,7 @@ export async function main(textMap, locale) {
       name:
         textMap['ST_Imitationtest'][simulacra._locid + '_EN'] ??
         textMap['ST_Imitationtest'][simulacra._locid + '_CN'] ??
-        textMap[''][simulacra._name],
+        textMap['QRSLCommon_ST'][simulacra._name],
       weapon: textMap['ST_Imitationtest'][simulacra._locid + '_chenghao'],
       weapon_id: slugify(simulacra.weapon),
       birthday: textMap['ST_Imitationtest'][simulacra._locid + '_birthday'],

@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Attaque normale",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Lorsque vous êtes au sol, brandissez le bâton pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>25.1%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>18.8%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>30.4%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>41.4%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>73.2%</b> de l'ATQ + <b>4</b>."
     },
     {
       "name": "Barrage aérien",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attdans les airsaque : inflige des dégâts équivalant à <b>32.5%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.5%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>25.5%</b> de l'ATQ + <b>1</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>45.6%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>47.7%</b> de l'ATQ + <b>3</b>."
     },
     {
       "name": "Tombelune",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Tombelune.\nÀ l'atterrissage, vous infligez des dégâts toutes les <b>0,2</b> seconde, pour un total de dégâts correspondant à <b>57.2%</b> de l'ATQ + <b>3</b>."
     },
     {
       "name": "Attaque concentrée",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Après la troisième attaque normale, maintenez le bouton d'attaque normale enfoncé pour déclencher des attaques ramifiées, consommant <b>300</b> points d'endurance.\nPremière attaque : attire les ennemis devant l'utilisateur, les <b>suspendant</b> et leur infligeant des dégâts équivalant à <b>16.1%</b> de l'ATQ + <b>1</b> chaque <b>0,3</b> seconde (jusqu'à <b>4</b> fois).\nDeuxième attaque : inflige des dégâts équivalant à <b>18.6%</b> de l'ATQ + <b>1</b> à l'emplacement ciblé et aux ennemis proches chaque <b>0,3</b> seconde."
     },
     {
       "name": "Déferlement",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Déferlement.\nChaque impulsion d'énergie inflige aux cibles des dégâts équivalant à <b>22.6%</b> de l'ATQ + <b>1</b>.\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
     },
     {
       "name": "Tesseract",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Explosion évasive.\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à <b>32.1%</b> de l'ATQ + <b>2</b> aux cibles sur sa trajectoire chaque <b>0,3</b> seconde (jusqu'à 5 fois).\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
     },
     {
       "name": "Sanctuaire",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Vous créez un bouclier d'énergie à l'endroit où se trouve l'Explorateur. Ce bouclier applique des soins aux alliés correspondant à <b>81.7%</b> de l'ATQ + <b>4</b> toutes les secondes, et réduit les dégâts reçus de <b>3%</b> pendant <b>10</b> secondes. <b>60</b> secondes de recharge."
     },
     {
       "name": "Délivrance rapide",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de <b>79%</b> de l'ATQ + <b>4</b> PV pendant <b>7</b> secondes."
     }
   ],

@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Reflejos Rápidos",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, lanza con el arco reiteradamente y ataca 5 veces.\nPrimer ataque: inflige daño equivalente al <b>48.8%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>43.7%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>78.6%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>121.2%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño equivalente al <b>112.5%</b> del ATQ + <b>6</b> y hacer retroceder un poco al objetivo."
     },
     {
       "name": "Flecha Cargada",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño básico igual a <b>87.8%</b> del ATQ + <b>5</b>, y <b>50%</b> más por cada <b>segundo</b> de carga, hasta <b>3 segundos</b>. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
     },
     {
       "name": "Lluvia de Flechas",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Después de cualquier ataque normal, mantén pulsado el ataque normal para desatar Lluvia de Flechas que inflige hasta el <b>287.2%</b> del ATQ + <b>15</b> de daño de área a los objetivos."
     },
     {
       "name": "Descarga Aérea",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>56.3%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>74%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>112.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>169.8%</b> del ATQ + <b>9</b>."
     },
     {
       "name": "Flecha Equipada",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Pulsa el ataque tras esquivar para activar una Flecha Equipada, que hace <b>retroceder al objetivo</b> e inflige daño equivalente al <b>124%</b> del ATQ + <b>7</b>."
     },
     {
       "name": "Disparo Perforante",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Retrocede en una voltereta y realiza <b>3</b> disparos perforantes. El disparo principal inflige daño equivalente al <b>258.3%</b> del ATQ + <b>14</b>, y los otros dos disparos infligen un 60% de daño. Además, <b>hace retroceder al objetivo</b> y lo aturde durante <b>5</b> segundos si impacta contra un obstáculo. Enfriamiento: <b>12</b> segundos."
     },
     {
       "name": "Ráfaga Explosiva",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea una ventisca en la ubicación objetivo tras cambiar a esta arma, la que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>. La ventisca tiene una probabilidad del <b>10%</b> de causar un <b>efecto de congelación</b> durante <b>2</b> segundos. Obtienes frente frío y la velocidad aumenta en un <b>45%</b> durante <b>7</b> segundos."
     }
   ],

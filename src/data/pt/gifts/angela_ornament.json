@@ -5,17 +5,6 @@
   "description": "Uma miniatura de Ângela, a serva inteligente, que tem até asas cor-de-rosa nas costas. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "claudia",
-    "huma",
-    "pepper",
-    "nemesis"
-  ],
-  "characters": [
-    "crow",
-    "bailing",
-    "echo",
-    "ene",
-    "frigg"
-  ]
+  "favorite": ["claudia", "huma", "pepper", "nemesis"],
+  "characters": ["crow", "bailing", "echo", "ene", "frigg"]
 }

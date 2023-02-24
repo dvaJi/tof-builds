@@ -20,78 +20,52 @@
   "skills": [
     {
       "name": "Heavy Cleave",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "While on the ground, swing a greatsword to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>72.9%</b> of ATK + <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>60.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>105.4%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>, <b>strongly launch</b> the target, then launch them upon landing."
     },
     {
       "name": "Aerial Strike",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>106.5%</b> of ATK + <b>6</b>.\nSecond Attack: Deal damage equal to <b>87.5%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>.\nFourth Attack: Deal damage equal to <b>140.5%</b> of ATK + <b>7</b> and deliver a <b>knockdown</b>, launch the target upon landing."
     },
     {
       "name": "Rising Slash",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "After the third normal attack, hold normal attack to trigger Rising Slash.\nUpon hit, <b>strongly suspend</b> the target and go airborne, dealing damage equal to <b>64.3%</b>of ATK + <b>3</b>."
     },
     {
       "name": "Moonset Slash",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Moonset Slash"
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
     },
     {
       "name": "Whirlwind",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to <b>132.8%</b> of ATK + <b>7</b> every <b>0.5</b> seconds to the target. Grant hitstun immunity while in use."
     },
     {
       "name": "Devastate",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate.\nDeal damage equal to <b>65.9%</b> of ATK + <b>3</b> each hit and <b>launch</b> targets."
     },
     {
       "name": "Crescent Slash",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tap normal attack during the short period after dodging to trigger Crescent Slash.\nSwing the greatsword to unleash sword auras forward, each dealing damage equal to <b>49.6%</b> of ATK + <b>3</b>."
     },
     {
       "name": "Blizzard",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Swing the greatsword to launch sword auras forward, each dealing damage equal to <b>141.7%</b> of ATK + <b>7</b> and increasing damage dealt by <b>5%</b> with each hit. While active, immune to control effects. Cooldown: <b>45</b> seconds."
     },
     {
       "name": "Frost Barrier",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and smash the ground to form a barrier, dealing damage equal to <b>503.2%</b> of ATK + <b>26</b> to nearby enemies, suspending the targets. This reduces their speed by <b>50%</b> and stops them from dodge or jump. The barrier lasts <b>5</b> seconds and blocks projectiles."
     }
   ],

@@ -5,18 +5,6 @@
   "description": "Entworfen für das 40. Jubiläum von „Schlachtfeld des Ultimativen Kriegers 40“. Ab sofort verfügbar. Kaufe jetzt und erhalte limitierte Fanartikel des mächtigen SSR-Otter.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cocoritter",
-    "ene",
-    "nemesis",
-    "ruby"
-  ],
-  "characters": [
-    "hilda",
-    "samir",
-    "bailing",
-    "claudia",
-    "huma",
-    "pepper"
-  ]
+  "favorite": ["cocoritter", "ene", "nemesis", "ruby"],
+  "characters": ["hilda", "samir", "bailing", "claudia", "huma", "pepper"]
 }

@@ -20,55 +20,37 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Greift auf dem Boden 5-mal hintereinander mit Balmung an.\nErster Angriff: verursacht Schaden in Höhe von <b>62.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>46.2%</b> des ANG + <b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>91.1%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>55.8%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>218.4%</b> des ANG + <b>11</b> und bringt das Ziel zu Fall."
     },
     {
       "name": "Luftsprengung",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>64.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>72.6%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>76.7%</b> des ANG + <b>4</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>107.9%</b> des ANG + <b>6</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>168.3%</b> des ANG + <b>9</b>."
     },
     {
       "name": "Schwungschnitt",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Tippe und halte den normalen Angriff während normaler Angriffe gedrückt, um „Schwungschnitt“ auszulösen.\nDer Anwender hechtet mit einem horizontalem Hieb vorwärts und schleudert das Ziel in die Luft, bevor er sich selbst in die Luft schwingt. Verursacht maximal <b>134.3%</b> des ANG + <b>7</b> Schaden."
     },
     {
       "name": "Spiralschnitt",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Spiralschnitt“ auszulösen.\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von <b>19.8%</b> des ANG + <b>1</b>. Bei der Landung fügst du Zielen in der Nähe Schaden in Höhe von <b>185.7%</b> des ANG + <b>10</b> zu."
     },
     {
       "name": "Mehrfachschlitzer",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Ausweichen löst „Mehrfachschlitzer“ aus.\nEntfesselt mehrere Hiebe in einem bestimmten Bereich vor dem Anwender, die Gesamtschaden in Höhe von <b>143.9%</b> des ANG + <b>8</b> verursachen."
     },
     {
       "name": "Fimbulwinter",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Der Wanderer schlägt wild um sich und verursacht Schaden in Höhe von <b>577.5%</b> des ANG + <b>30</b>. Schleudert Ziele in die Luft, lässt sie dort schweben und gewährt Schadensimmunität, während diese Fähigkeit eingesetzt wird. Abklingzeit: <b>30</b> Sek.\nDer Einsatz von <b>Fimbulwinter</b> erzeugt für <b>25</b> Sek. einen großen Froststurm um den Wanderer herum. Innerhalb des Froststurms verbraucht „Balmung-Ausweichen“ keine Ausweichversuche.\nGewährt innerhalb des Froststurms „Froststurm I“, wodurch beim Verwenden einer Frostwaffe der Frost-ANG um <b>25%</b> und „Zertrümmern“ um <b>15%</b> erhöht wird."
     },
     {
       "name": "Kälteeinbruch",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden <b>alle Debuffs vom Anwender entfernt</b> und er macht beim Wechsel zu dieser Waffe einen Satz nach vorne. Der Anwender kontrolliert Gegner in einem Bereich vorübergehend, um danach einen gewaltigen Hieb auszuführen. Wirft Gegnern in die Luft und fügt Schaden in Höhe von <b>618.2%</b> des ANG + <b>33</b> zu."
     }
   ],

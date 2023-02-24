@@ -5,9 +5,7 @@
   "description": "Boneka kesukaan anak-anak. Bentuknya menggemaskan dan aromanya mengingatkan kita pada hari yang hangat dan cerah. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "cocoritter",
     "samir",

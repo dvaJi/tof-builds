@@ -5,12 +5,5 @@
   "description": "No one knows who created this deck, but judging from the rules of play, the maker must have been a very interesting fellow. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

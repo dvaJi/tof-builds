@@ -5,9 +5,7 @@
   "description": "Uma miniatura baseada na Anja do Vazio. É toda branca, então precisa de muito cuidado para não manchar. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "claudia",
     "crow",

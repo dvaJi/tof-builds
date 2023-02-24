@@ -20,78 +20,52 @@
   "skills": [
     {
       "name": "Embate Potente",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, blande el espadón para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>72.9%</b> del ATQ + <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>60.1%</b> del ATQ + <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>105.4%</b> del ATQ + <b>6</b> y hace retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>, <b>lanza fuerte</b> al objetivo y luego lo lanza al aterrizar."
     },
     {
       "name": "Golpe Aéreo",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>106.5%</b> del ATQ + <b>6</b>.\nSegundo ataque: inflige daño equivalente al <b>87.5%</b> del ATQ + <b>5</b>.\nTercer ataque: inflige daño equivalente al <b>156%</b> del ATQ + <b>8</b>.\nCuarto ataque: inflige daño equivalente al <b>140.5%</b> del ATQ + <b>7</b> y <b>derriba</b>; lanza al objetivo al aterrizar."
     },
     {
       "name": "Corte Ascendente",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Luego del tercer ataque normal, mantén pulsado el ataque normal para activar Corte Ascendente.\nAl impactar, causa <b>suspensión fuerte</b> al objetivo y te eleva, lo que inflige daño equivalente al <b>64.3%</b> del ATQ + <b>3</b>."
     },
     {
       "name": "Corte Puesta Lunar",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Corte Puesta Lunar"
     },
     {
       "name": "Ataque Sorpresa",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
       "name": "Torbellino",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Al permanecer en el lugar o en movimiento, mantén pulsado el ataque normal para activar Torbellino e infligir daño equivalente al <b>132.8%</b> del ATQ + <b>7</b> cada <b>0.5</b> segundos al objetivo. Otorga inmunidad a la conmoción al usarlo."
     },
     {
       "name": "Arrasar",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante la corta oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Arrasar.\nCada golpe inflige daño equivalente al <b>65.9%</b> del ATQ + <b>3</b> y <b>lanza</b> a los objetivos."
     },
     {
       "name": "Corte Creciente",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante el corto periodo luego de esquivar para activar Corte Creciente.\nBlande el espadón para lanzar sus auras hacia adelante. Cada una inflige daño equivalente al <b>49.6%</b> del ATQ + <b>3</b>."
     },
     {
       "name": "Ventisca",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Blande el espadón para lanzar sus auras hacia adelante e infligir daño equivalente al <b>141.7%</b> del ATQ + <b>7</b> y aumentar el daño infligido en <b>5%</b> con cada golpe. Mientras está activa, otorga inmunidad a los efectos de control. Enfriamiento: <b>45</b> segundos."
     },
     {
       "name": "Barrera de Escarcha",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>remueve todas las desventajas del portador</b> y golpea el suelo para formar una barrera, la que inflige daño equivalente al <b>503.2%</b> del ATQ + <b>26</b> a los enemigos cercanos y los suspende. Esto reduce su velocidad en un <b>50%</b> y les impide evadir o saltar. La barrera dura <b>5</b> segundos y bloquea proyectiles."
     }
   ],

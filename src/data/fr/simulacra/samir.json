@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Double feu",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour attaquer 5 fois de suite avec les pistolets doubles.\nPremière attaque : inflige des dégâts équivalant à <b>47.1%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>35.8%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>119.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>113.1%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>154%</b> de l'ATQ + <b>8</b>, et <b>projette</b> la cible."
     },
     {
       "name": "Pluie de balles",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Utilisez l'attaque normale lorsque vous êtes dans les airs pour tirer continuellement au sol, et infliger des dégâts équivalant à <b>50.6%</b> de l'ATQ + <b>3</b>. Chaque frappe consomme <b>150</b> d'endurance."
     },
     {
       "name": "Explosion d'énergie",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Maintenez Attaque pour tirer de façon continue, chaque coup infligeant <b>23%</b> de l'ATQ + <b>1</b> dégâts de base."
     },
     {
       "name": "Coup de pied fantôme",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Lorsque vous êtes dans les airs, maintenez l'attaque normale enfoncée pour déclencher Coup de pied fantôme. Renverse la cible et inflige des dégâts équivalant à <b>70.5%</b> de l'ATQ + <b>4</b>. À l'atterrissage, inflige des dégâts équivalant à <b>98.7%</b> de l'ATQ + <b>5</b> aux cibles proches et les <b>projette fortement</b>."
     },
     {
       "name": "Coup de pied de foudre ascendant",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Après avoir esquivé, appuyez sur Attaque normale pour <b>suspendre longuement</b> les ennemis et leur infliger des dégâts équivalant à <b>122.6%</b> de l'ATQ + <b>6</b>."
     },
     {
       "name": "Champ électrique",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Lance un bouclier d'énergie à l'emplacement ciblé qui reflète les rayons dans la barrière. Inflige des dégâts équivalant à <b>269.8%</b> de l'ATQ + <b>14</b> ; le dernier coup <b>suspend longuement les cibles</b>. Temps de recharge : <b>45</b> secondes."
     },
     {
       "name": "Domaine du tonnerre",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et crée un Domaine du tonnerre à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, <b>suspendant longuement</b> les cibles dans la zone d'effet et infligeant un total de dégâts égal à <b>238.3%</b> de l'ATQ + <b>13</b> en 3 attaques, tout en dissipant leurs effets bénéfiques. Le domaine dure <b>3,5</b> secondes et inflige des dégâts équivalant à <b>42.4%</b> de l'ATQ + <b>2</b> à une cible chaque <b>0,5</b> seconde."
     }
   ],

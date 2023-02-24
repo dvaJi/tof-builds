@@ -5,13 +5,5 @@
   "description": "Die Snack-Box von Fennie auf Astra enthält verschiedene unwiderstehliche Leckereien. Ein beliebtes Geschenk in allen Sektoren. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "crow",
-    "king",
-    "tsubasa",
-    "zero",
-    "echo",
-    "hilda"
-  ]
+  "characters": ["cobaltb", "crow", "king", "tsubasa", "zero", "echo", "hilda"]
 }

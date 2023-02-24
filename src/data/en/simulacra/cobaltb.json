@@ -20,61 +20,42 @@
   "skills": [
     {
       "name": "Normal Attack",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "On the ground, use normal attack to launch 5 attacks in a row.\nThe first attack deals <b>52.3%</b> of ATK + <b>3</b> damage.\nThe second attack deals <b>75.6%</b> of ATK + <b>4</b> damage.\nThe third attack deals <b>94.5%</b> of ATK + <b>5</b> damage.\nThe fourth attack deals <b>142.8%</b> of ATK + <b>8</b> damage.\nThe fifth attack deals <b>137.8%</b> of ATK + <b>7</b> damage."
     },
     {
       "name": "Charged Shot",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tap and hold normal attack to charge an attack and release to fire rounds, dealing <b>95.4%</b> of ATK + <b>5</b> damage, plus an explosion 3 seconds later (or if the target dies), dealing <b>23.9%</b> of ATK as damage to nearby enemies. Each time the target is dealt damage before the explosion (up to <b>4</b> times), AOE is doubled and damage is increased."
     },
     {
       "name": "Jumping Blast",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne or after jumping once, launch Jumping Blast.\nToss a bomb that deals damage equal to <b>90.8%</b> of ATK + <b>5</b> to enemies in a circle ahead, knocking them back a short distance. Consumes <b>250</b> endurance."
     },
     {
       "name": "Aerial Discharge",
-      "type": [
-        "Double Jump"
-      ],
+      "type": ["Double Jump"],
       "description": "After double-jumping, launch Aerial Discharge in mid-air.\nFire an Omnium beam downward. The beam then sweeps forward, dealing damage equal to <b>33.8%</b> of ATK + <b>2</b>."
     },
     {
       "name": "Heavy Bombardment",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Hold attack button during a normal attack to unleash Suppressing Fire in front, dealing enemies <b>102%</b> of ATK + <b>5</b> AOE damage."
     },
     {
       "name": "Close Quarters",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Use normal attack right after dodging to trigger Close Quarters.\nDeal damage equal to <b>156.1%</b> of ATK + <b>8</b> to targets in a frontal cone area."
     },
     {
       "name": "Barrage",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Constant fire in a frontal cone area to deal <b>666%</b> of ATK + <b>35</b> damage. Cooldown: <b>60</b> seconds."
     },
     {
       "name": "Explosive Rain",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b> and unleashes <b>3</b> grenades forward, dealing <b>570%</b> of ATK + <b>30</b> AOE damage and causing <b>launch</b>."
     }
   ],

@@ -5,11 +5,5 @@
   "description": "Para asemejarse por completo al Alf original, los creadores de esta figura la hicieron completamente de metal. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "SR",
   "value": 60,
-  "characters": [
-    "cobaltb",
-    "crow",
-    "shiro",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["cobaltb", "crow", "shiro", "tsubasa", "hilda"]
 }

@@ -1,6 +1,7 @@
 {
   "_id": 9,
   "id": "king",
+  "name": "KING",
   "weapon": "Scythe of the Crow",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "3 November (Scorpio)",
@@ -19,71 +20,47 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, ayunkan Scythe untuk melancarkan serangan 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>57.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>49.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>106.8%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>109.5%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebesar <b>104.2%</b> ATK + <b>5</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan membuat Wanderer kena Airborne."
     },
     {
       "name": "Rising Scythe",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara atau setelah melompat satu kali, menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>63.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>68.8%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>190.5%</b> ATK + <b>10</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>213.6%</b> ATK + <b>11</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>173.9%</b> ATK + <b>9</b> dan menjatuhkan target. Makin tinggi posisi saat mengaktifkannya, makin besar DMG yang ditimpakan, hingga <b>600%</b> ATK."
     },
     {
       "name": "Asunder",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target dipilih), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Asunder.\nSaat terjun, menimbulkan DMG sebesar <b>12.5%</b> ATK + <b>1</b> tiap mengenai target. Saat mendarat, menimbulkan DMG sebesar <b>71.9%</b> ATK + <b>4</b> dan <b>Knockdown</b>.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula DMG yang ditimbulkan, maks <b>600%</b> DMG."
     },
     {
       "name": "Returning Chainblade",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Tekan Serangan Biasa selama durasi singkat Perfect Dodge (tekan tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>137.4%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
     },
     {
       "name": "Returning Chainblade",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tekan Serangan Biasa selama durasi singkat Perfect Dodge (tekan tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>126.9%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
     },
     {
       "name": "Domain of the Bat",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Saat menghindar, memanggil Domain of the Bat yang menarik target ke tengah. Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk mengayunkan Scythe, menimpakan hingga <b>114.3%</b> ATK + <b>6</b> damage kepada target."
     },
     {
       "name": "Mortal Coil",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Ayunkan Scythe untuk menimpakan damage sebesar <b>499.9%</b> ATK + <b>26</b>. CD: <b>45</b> detik."
     },
     {
       "name": "Flaming Scythe",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menciptakan Flaming Scythe saat beralih ke senjata ini, menimpakan damage sebesar <b>398.3%</b> ATK + <b>21</b> dan bertahan selama <b>10</b> detik. Selain itu, memunculkan Flaming Scythe Domain setiap <b>2</b> detik. Scythe akan memanggil letusan gunung berapi dari tanah, yang menimpakan damage sebesar <b>66%</b> ATK + <b>3</b> kepada target dan mengakibatkan Suspend kepada mereka."
     }
   ],

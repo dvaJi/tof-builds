@@ -20,69 +20,47 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, blande la maza y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>76.3%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>62.1%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>157.4%</b> del ATQ + <b>8</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>263.8%</b> del ATQ + <b>14</b> y lanza al objetivo.\nMientras Arrebato está activo, blande la maza y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>{8}%</b> del ATQ + <b>{9}</b> y hacre retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>{10}%</b> del ATQ + <b>{11}</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>{12}%</b> del ATQ + <b>{13}</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>{14}%</b> del ATQ + <b>{15}</b> y <b>suspensión fuerte</b> al objetivo."
     },
     {
       "name": "Vapuleador",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "En el aire o luego de saltar una vez, usa el ataque normal para activar Ráfaga de Salto. Inflige daño equivalente al <b>121.7%</b> del ATQ + <b>6</b> y suspende al objetivo.\nMientras Arrebato está activo, inflige daño equivalente al <b>133.9%</b> del ATQ + <b>7</b> y <b>suspende fuerte</b> al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b>."
     },
     {
       "name": "Onda de Choque",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Pulsar y mantener mientras estás en el aire, dar un salto doble, pulsar ligeramente en el aire cuando haya objetivos cerca, escalar, saltar hacia atrás o atacar al usar el Propulsor activa Onda de Choque. <b>Suspensión fuerte</b> al objetivo <b>4</b> veces e inflige daño equivalente al <b>34.8%</b> del ATQ + <b>2</b> cada vez. Cuesta <b>250</b> de resistencia.\nMientras Arrebato está activo, la Onda de Choque <b>suspensión fuerte</b> al objetivo <b>5</b> veces e inflige daño equivalente al <b>38.3%</b> del *ATQ + <b>2</b> cada vez.\nCuanta mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
     },
     {
       "name": "Ataque Sorpresa",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>427.5%</b> del ATQ + <b>23</b>."
     },
     {
       "name": "Embestida de Concentración",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Mantén pulsado el ataque normal para activar Embestida de Concentración (se puede cargar hasta 3 acumulaciones). Otorga inmunidad a todos los efectos de control e hipercuerpo al cargar.\nPrimera acumulación: inflige daño equivalente al <b>110%</b> del ATQ + <b>6</b> y suspende al objetivo.\nSegunda acumulación: inflige daño equivalente al <b>276%</b> del <b>15</b> y <b>suspensión fuerte</b> al objetivo.\nTercera acumulación: inflige daño equivalente al <b>518%</b> del ATQ + <b>27</b> y <b>suspensión fuerte</b> al objetivo.\nEn modo Arrebato, mantén pulsado el ataque normal para activar Golpes Furiosos e infligir daño equivalente al <b>501.6%</b> del ATQ + <b>26</b> y <b>suspensión fuerte</b> al objetivo."
     },
     {
       "name": "Embestida de Salto",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Usa los botones de flecha y el botón de evadir para activar Embestida de Salto y desatar una Onda de Choque que suspende al enemigo <b>4</b> veces e inflige daño equivalente al <b>161.6%</b> del ATQ + <b>9</b>."
     },
     {
       "name": "Rompemundos",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Rompemundos, que lanza <b>3</b> ondas de choque hacia adelante, cada una de las cuales inflige daño equivalente al <b>52.4%</b> del ATQ + <b>3</b> y suspende a los objetivos.\nEn modo Arrebato, dispara <b>5</b> ondas de choque hacia adelante, cada una de las cuales inflige daño equivalente al <b>52.4%</b> del ATQ + <b>3</b> y suspende al objetivo."
     },
     {
       "name": "Arrebato",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Entra en modo Arrebato e inflige daño aumentado por <b>25</b> segundos.\nEn modo Arrebato, las habilidades activan Furia del Viento, que inflige daño equivalente al <b>219%</b> del ATQ + <b>12</b>, <b>suspensión fuerte</b> al objetivo, y crea una corriente de aire en el suelo. Al estar sobre la corriente, evadir no tiene costo. Enfriamiento: <b>45</b> segundos (enfriamiento de Furia del Viento: <b>10</b> segundos)."
     },
     {
       "name": "Embate Arrollador",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y <b>suspende fuerte</b> a los enemigos cercanos tras cambiar a esta arma, lo que inflige daño equivalente al <b>153.3%</b> del ATQ + <b>8</b>. Además, invoca una maza que cae sobre los objetivos cercanos e inflige daño equivalente al <b>153.3%</b> del ATQ + <b>8</b>."
     }
   ],

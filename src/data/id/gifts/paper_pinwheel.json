@@ -5,12 +5,5 @@
   "description": "Meskipun benar-benar biasa, mainan ini tak pernah gagal memberikan kenyamanan dan kegembiraan. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

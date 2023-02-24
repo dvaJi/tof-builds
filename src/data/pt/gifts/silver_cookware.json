@@ -5,15 +5,6 @@
   "description": "Um jogo completo de utensílios de cozinha que parece caro. Dizem que era de um chef de cozinha neurótico que nunca deixava os outros encostarem nestes bens preciosos. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cobaltb",
-    "shiro"
-  ],
-  "characters": [
-    "king",
-    "meryl",
-    "bailing",
-    "frigg",
-    "pepper"
-  ]
+  "favorite": ["cobaltb", "shiro"],
+  "characters": ["king", "meryl", "bailing", "frigg", "pepper"]
 }

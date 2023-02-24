@@ -5,10 +5,7 @@
   "description": "フォラント雪原産の球状結晶。雪の季節になると球内に純白の雪が舞う。今ではインテリア用に生産されている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "claudia",
-    "bailing"
-  ],
+  "favorite": ["claudia", "bailing"],
   "characters": [
     "huma",
     "king",

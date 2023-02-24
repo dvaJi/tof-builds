@@ -20,69 +20,47 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>76.3%</b> ATK + <b>4</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>62.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>157.4%</b> ATK + <b>8</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>263.8%</b> ATK + <b>14</b> dan melontarkan target.\nSelama Outburst masih aktif, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>{8}%</b> ATK + <b>{9}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>{10}%</b> ATK + <b>{11}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>{12}%</b> ATK + <b>{13}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>{14}%</b> ATK + <b>{15}</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
     },
     {
       "name": "Pummel",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Jumping Blast. Menimbulkan DMG sebesar <b>121.7%</b> ATK + <b>6</b>dan mengakibatkan Suspend kepada target.\nSaat Outburst masih aktif, menimbulkan DMG sebesar <b>133.9%</b> ATK + <b>7</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula DMG yang ditimbulkan, maks <b>600%</b> DMG."
     },
     {
       "name": "Shockwave",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Shockwave akan diaktifkan dengan mengetuk dan menahan tombol saat di udara, melompat dua kali, mengetuk sebentar di udara saat ada target di sekitar, memanjat, melompat mundur, atau menyerang sambil menggunakan Jetpack. Mengakibatkan <b>Suspend Keras</b> kepada target <b>4</b> kali, dan menimpakan damage sebesar <b>34.8%</b> ATK + <b>2</b> setiap kalinya. Membutuhkan <b>250</b> Stamina.\nSelama Outburst masih aktif, Shockwave akan mengakibatkan <b>Suspend Keras</b> kepada target <b>5</b> kali, dan menimpakan damage sebesar <b>38.3%</b> *ATK + <b>2</b> setiap kalinya.\nMakin tinggi ketinggian saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>427.5%</b> ATK + <b>23</b>."
     },
     {
       "name": "Focus Smash",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Focus Smash (bisa diisi sampai maks 3 tumpuk). Jadi kebal terhadap efek kontrol dan Hyperbody saat diisi.\nTumpukan Pertama: Timpakan damage sebesar <b>110%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target.\nTumpukan Kedua: Timpakan damage sebesar <b>276%</b> ATK + <b>15</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nTumpukan Ketiga: Timpakan damage sebesar <b>518%</b> ATK + <b>27</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nSelama Outburst masih aktif, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Furious Strike, dan menimpakan damage sebesar <b>501.6%</b> ATK + <b>26</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
     },
     {
       "name": "Jumping Smash",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Gunakan tombol panah dan tombol menghindar untuk mengaktifkan Jumping Smash, melepaskan Shockwave yang mengakibatkan Suspend kepada musuh <b>4</b> kali, menimpakan damage sebesar <b>161.6%</b> dari ATK + <b>9</b>."
     },
     {
       "name": "Worldsplitter",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tekan Serangan Biasa dalam waktu sesaat setelah Dodge untuk mengaktifkan Worldsplitter, melepaskan <b>3</b> Shockwave ke depan, masing-masing menimpakan damage sebesar <b>52.4%</b> dari ATK + <b>3</b>, dan mengakibatkan Suspend kepada target.\nSaat di mode Outburst, tembakkan <b>5</b> Shockwave ke depan, masing-masing menimpakan damage sebesar <b>52.4%</b> dari ATK + <b>3</b> dan mengakibatkan Suspend kepada target."
     },
     {
       "name": "Outburst",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Beralih ke Outburst, meningkatkan damage yang ditimbulkan selama <b>25</b> detik.\nSelama Outburst masih aktif, skill akan mengaktifkan Windfury, yang akan menimpakan damage sebesar <b>219%</b> ATK + <b>12</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan menciptakan aliran udara di tanah. Saat berdiri di tengah aliran itu, tidak butuh biaya apa pun untuk menghindar. CD: <b>45</b> detik (cooldown untuk Windfury: <b>10</b> detik)."
     },
     {
       "name": "Overwhelming Maul",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua Debuff dari penggunanya</b> dan mengakibatkan <b>Suspend Keras</b> kepada target di sekitar saat beralih ke Senjata ini, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>. Juga menciptakan palu yang akan jatuh menimpa target di sekitarnya, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>."
     }
   ],

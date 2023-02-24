@@ -5,12 +5,5 @@
   "description": "Un simple juguete que, a pesar de ser tan común, nunca falla a la hora de traer felicidad y relajación. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

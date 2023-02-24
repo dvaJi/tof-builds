@@ -5,12 +5,5 @@
   "description": "Não se sabe quem inventou este baralho, mas, a julgar pelas regras de jogo, deve ter sido uma pessoa muito interessante. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

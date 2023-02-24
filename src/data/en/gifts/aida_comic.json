@@ -5,10 +5,7 @@
   "description": "Depicts the adventures of Tata on Aida in monthly issues. The limited quantity and popularity have led to fights over the comic book every release. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "crow",
-    "echo"
-  ],
+  "favorite": ["crow", "echo"],
   "characters": [
     "cobaltb",
     "claudia",

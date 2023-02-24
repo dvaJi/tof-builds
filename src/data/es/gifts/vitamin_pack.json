@@ -5,12 +5,5 @@
   "description": "Suplementos para la buena salud. Una necesidad para quienes trabajan demasiado o están tan concentrados en sus juegos que no tienen tiempo para alimentarse bien. Son producidos en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "claudia",
-    "frigg",
-    "huma",
-    "crow",
-    "echo",
-    "pepper"
-  ]
+  "characters": ["claudia", "frigg", "huma", "crow", "echo", "pepper"]
 }

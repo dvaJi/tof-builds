@@ -5,12 +5,5 @@
   "description": "Quem vendeu disse que pode ser trocado por um novo depois que colorir todas as páginas. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

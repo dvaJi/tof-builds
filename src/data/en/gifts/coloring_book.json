@@ -5,12 +5,5 @@
   "description": "The seller said once all the pages have been colored in, you can trade it in for a brand new one. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

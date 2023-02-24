@@ -5,12 +5,5 @@
   "description": "Berapa harga kalung permata ini? Sudah, tak perlu dipikirkan. Pokoknya, simpan saja benda berharga ini! Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cobaltb",
-    "king",
-    "meryl",
-    "shiro",
-    "bailing",
-    "pepper"
-  ]
+  "characters": ["cobaltb", "king", "meryl", "shiro", "bailing", "pepper"]
 }

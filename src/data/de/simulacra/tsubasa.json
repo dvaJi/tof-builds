@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Schnelles Ziehen",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Während du auf dem Boden stehst, spanne den Bogen wiederholt, um 5 Mal anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>48.8%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>43.7%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>78.6%</b> des ANG + <b>4</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>121.2%</b> des ANG + <b>6</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>112.5%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück."
     },
     {
       "name": "Aufgeladener Pfeil",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Fügt Grundschaden in Höhe von <b>87.8</b> des ANG + <b>5</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und das Ziel zu Fall bringst (Kopfschüsse sind gegen Wanderer unwirksam)."
     },
     {
       "name": "Pfeilhagel",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Halten des normalen Angriffs nach einem beliebigen normalen Angriff löst „Pfeilhagel“ aus. Dies verursacht Flächenschaden in Höhe von bis zu <b>287.2%</b> des ANG + <b>15</b> an Zielen."
     },
     {
       "name": "Luft-Salve",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>56.3%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>74%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>112.7%</b> des ANG + <b>6</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>169.8%</b> des ANG + <b>9</b>."
     },
     {
       "name": "Geladener Pfeil",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tippe nach dem Ausweichen auf den normalen Angriff, um einen geladenen Pfeil auszulösen. Dies <b>wirft das Ziel zurück</b> und verursacht Schaden in Höhe von <b>124%</b> des ANG + <b>7</b>."
     },
     {
       "name": "Durchdringender Schuss",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Schießt im Rückwärtssalto <b>3</b>-mal „Durchdringender Schuss“ ab. Der Hauptschuss verursacht Schaden in Höhe von <b>258.3%</b> des ANG + <b>14</b> und die anderen beiden Schüsse verursachen 60% Schaden. Außerdem werden <b>Ziele zurückgestoßen</b> und für <b>5</b> Sek. betäubt, wenn sie auf ein Hindernis prallen. Abklingzeit: <b>12</b> Sek."
     },
     {
       "name": "Explosives Sperrfeuer",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, <b>werden beim Wechsel zu dieser Waffe alle Debuffs vom Anwender entfernt</b> und am Zielort ein Hagelsturm erzeugt. Dies verursacht einen Schaden in Höhe von <b>570%</b> des ANG + <b>30</b>. Der Sturm bewirkt mit einer Chance von <b>10%</b> für <b>2</b> Sek. einen <b>Einfrieren-Effekt</b>. Der Wanderer erhält den Effekt „Kaltfront“ und seine Geschwindigkeit wird für <b>7</b> Sek. um <b>45%</b> erhöht."
     }
   ],

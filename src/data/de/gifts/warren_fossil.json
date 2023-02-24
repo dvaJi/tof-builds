@@ -5,17 +5,6 @@
   "description": "Uralte, in Eis eingeschlossene Überreste aus dem Warren-Schneefeld. Sehr selten und mit hohem Sammlerwert. Stammt aus Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "king",
-    "meryl",
-    "shiro",
-    "bailing"
-  ],
-  "characters": [
-    "cobaltb",
-    "claudia",
-    "cocoritter",
-    "tsubasa",
-    "pepper"
-  ]
+  "favorite": ["king", "meryl", "shiro", "bailing"],
+  "characters": ["cobaltb", "claudia", "cocoritter", "tsubasa", "pepper"]
 }

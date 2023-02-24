@@ -5,18 +5,6 @@
   "description": "Diseñado para el 40.º aniversario del Campo de Batalla del Guerrero Definitivo: Campo de Batalla del Guerrero Definitivo 40 ya está disponible. Cómpralo ahora y obtén productos limitados de la poderosa Nutria SSR.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cocoritter",
-    "ene",
-    "nemesis",
-    "ruby"
-  ],
-  "characters": [
-    "hilda",
-    "samir",
-    "bailing",
-    "claudia",
-    "huma",
-    "pepper"
-  ]
+  "favorite": ["cocoritter", "ene", "nemesis", "ruby"],
+  "characters": ["hilda", "samir", "bailing", "claudia", "huma", "pepper"]
 }

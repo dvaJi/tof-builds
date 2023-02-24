@@ -5,10 +5,7 @@
   "description": "Dépeint les aventures de Tata sur Aida dans des numéros mensuels. La quantité limitée et la popularité de cette B.D. ont provoqué des bagarres à chacune de ses sorties. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "crow",
-    "echo"
-  ],
+  "favorite": ["crow", "echo"],
   "characters": [
     "cobaltb",
     "claudia",

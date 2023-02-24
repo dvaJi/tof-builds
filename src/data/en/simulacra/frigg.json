@@ -20,55 +20,37 @@
   "skills": [
     {
       "name": "Normal Attack",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "While on the ground, initiate 5 attacks in a row with Balmung.\nFirst Attack: Deal damage equal to <b>62.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>46.2%</b> of ATK + <b>2</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>91.1%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>55.8%</b> of ATK + <b>3</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>218.4%</b> of ATK + <b>11</b> and knock the target down."
     },
     {
       "name": "Aerial Discharge",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>64.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>72.6%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>76.7%</b> of ATK + <b>4</b>.\nFourth Attack: Deal damage equal to <b>107.9%</b> of ATK + <b>6</b>.\nFifth Attack: Deal damage equal to <b>168.3%</b> of ATK + <b>9</b>."
     },
     {
       "name": "Soaring Slash",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "While using normal attack, hold normal attack to trigger Soaring Slash.\nLunge forward with a horizontal swipe, then suspend the target mid-air before going airborne with the target. Deal a maximum of <b>134.3%</b> of ATK + <b>7</b> damage."
     },
     {
       "name": "Helix Slash",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Helix Slash.\nWhile falling, deal damage equal to <b>19.8%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>185.7%</b> of ATK + <b>10</b> to nearby targets."
     },
     {
       "name": "Multislash",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tap normal attack during the short perfect dodge window to trigger Multislash.\nUnleash multiple slashes at a set distance in front of the user, dealing total damage equal to <b>143.9%</b> of ATK + <b>8</b>."
     },
     {
       "name": "Fimbulwinter",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Slash the space around the Wanderer, dealing damage equal to <b>577.5%</b> of ATK + <b>30</b>, launching and suspending targets and gaining damage immunity while this skill is in use. Cooldown: <b>30</b> seconds.\nAfter unleashing <b>\"Fimbulwinter\"</b>, a large Frost Domain will be formed around the Wanderer for <b>25</b> seconds. Dodge attempts will not be consumed while dodging with Balmung within the Frost Domain.\nGrant \"Domain of Frost I\" when you are in the Frost Domain: When using a frost weapon, shatter is increased by <b>25%</b> and frost ATK is increased by <b>15%</b>."
     },
     {
       "name": "Frigid Fracture",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>clear all debuffs from the user</b> and dash forward upon switching to this weapon, temporarily controlling enemies in an area before unleashing a gigantic slash. Launch targets into the air and deal damage equal to <b>618.2%</b>of ATK + <b>33</b>."
     }
   ],

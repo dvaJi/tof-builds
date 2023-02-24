@@ -5,9 +5,5 @@
   "description": "Ninguém sabe quando começou a febre pela miniatura do Dimon Louco, só que, do nada, todo mundo quer uma. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "crow",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["crow", "tsubasa", "hilda"]
 }

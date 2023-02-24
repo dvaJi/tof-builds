@@ -5,12 +5,5 @@
   "description": "Meskipun permainan ini untuk dua orang, beberapa orang sebenarnya lebih suka bermain sendiri. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

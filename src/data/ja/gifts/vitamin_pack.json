@@ -5,12 +5,5 @@
   "description": "生命維持に不可欠な栄養補給パック。徹夜で働く人、ゲームに夢中になってエネルギー補給を忘れがちな人には欠かせない食品。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "claudia",
-    "frigg",
-    "huma",
-    "crow",
-    "echo",
-    "pepper"
-  ]
+  "characters": ["claudia", "frigg", "huma", "crow", "echo", "pepper"]
 }

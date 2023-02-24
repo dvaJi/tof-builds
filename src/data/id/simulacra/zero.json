@@ -20,68 +20,47 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, manipulasi Cube untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>46.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebesar <b>38.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebesar <b>118.5%</b> ATK + <b>6</b>.\nSerangan Keempat: Timpakan damage sebesar <b>79.6%</b> ATK + <b>4</b>.\nSerangan Kelima: Timpakan damage sebesar <b>80.9%</b> ATK + <b>4</b> hingga 3 kali dan buat target <b>terpental</b>.\n<b>Pasif: Dapatkan 1 Cube jika Serangan Biasa mengenai target 6 kali. Bisa menyimpan hingga 5 Cube.</b>"
     },
     {
       "name": "Omnium Missile",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara, gunakan Serangan Biasa untuk mengaktifkan energi di dalam Cube dan menembakkan maks <b>5</b> misil dan menimbulkan Total DMG sebesar <b>59.3%</b> ATK + <b>3</b>. Butuh maks <b>250</b> Stamina.\n<b>Pasif: Jika Wanderer mempunyai Cube, semua Cube akan dipakai untuk menembakkan Omnium Missile ke arah target untuk menimbulkan DMG.</b>"
     },
     {
       "name": "Energy Overflow",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Energy Overflow.\nSaat mendarat, menembakkan gelombang kejut yang bergerak ke depan, menimbulkan maks <b>23.4%</b> ATK + <b>1</b> DMG pada target di sepanjang jalur."
     },
     {
       "name": "Omnium Shock",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Pada Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Omnium Shock.\nPilar energi membuat target terdekat terpental, ini menimpakan damage sebesar <b>68.4%</b> ATK + <b>4</b>. Pilar itu bertahan 5 detik dan menimpakan damage sebesar <b>28.5%</b> ATK + <b>2</b> pada target terdekat setiap detik."
     },
     {
       "name": "Energy Sentinel",
-      "type": [
-        "Passive"
-      ],
+      "type": ["Passive"],
       "description": "Cube yang mengitari Wanderer menimpakan damage sebesar <b>9.7%</b> ATK + <b>1</b> pada musuh."
     },
     {
       "name": "Energy Missile",
-      "type": [
-        "Passive"
-      ],
+      "type": ["Passive"],
       "description": "Saat Wanderer menggunakan Omnium Missile dan Energy Overflow, Cube yang mengitari juga ditembakkan, ini menimpakan damage sebesar <b>48.5%</b> ATK + <b>3</b> pada target."
     },
     {
       "name": "Soul Surge",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Dodge tepat sebelum terkena serangan untuk mengaktifkan Phantasia, yang memperlambat musuh dalam area dan memberikan Hitstun Immunity selama <b>0,5</b> detik.\nJika Cube yang dimiliki Wanderer kurang dari <b>5</b>, setiap Dodge yang berhasil berpeluang <b>40%</b> untuk memulihkan 1 upaya Dodge.\nDodge yang berhasil tidak akan mengganggu kombo Serangan Biasa.\n<b>Pasif: Dapatkan satu Cube setiap kali berhasil Dodge di udara.</b>"
     },
     {
       "name": "Omnium Shield",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Menciptakan Perisai untuk diri sendiri dan rekan di sekitar yang akan memblokir DMG sebesar maks <b>800%</b> ATK selama <b>10</b> detik, dan menimbulkan DMG sebesar <b>124.9%</b> ATK + <b>8</b> dan mengakibatkan <b>Launch Keras</b> kepada target di sekitar. Saat skill ini digunakan, setiap Cube yang dimiliki akan meningkatkan Shield maks sebesar <b>160%</b> ATK dan akan menghabiskan Cube. CD: <b>60</b> detik."
     },
     {
       "name": "Omnium Wave",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari penggunanya,</b> dan pengguna akan mendapatkan <b>5</b> Cube setelah beralih ke senjata ini, kemudian melepaskan <b>5</b> Cube bersama Shockwave. Shockwave akan menimbulkan DMG sebesar <b>171%</b> ATK + <b>9</b> kepada target di sekitar, dan mengakibatkan <b>Launch Keras</b> kepada mereka ke udara. Setiap Cube juga akan menimbulkan DMG sebesar <b>48.5%</b> ATK + <b>3</b>. Jika ada teman di sekitar, teman tersebut dan penggunanya akan mendapatkan Imunitas DMG selama <b>3</b> detik."
     }
   ],

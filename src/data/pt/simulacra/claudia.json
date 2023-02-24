@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Corte Rápido",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, branda a espada para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>46.8%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>59.3%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>104.1%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>177.8%</b> do ATQ + <b>9</b> e <b>lança</b> o alvo no ar."
     },
     {
       "name": "Ataque Suspenso",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.9%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>48.4%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>114.6%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano de <b>139%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Ciclone",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nSuspende o alvo ao atingir. Ciclone causa dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
     },
     {
       "name": "Mergulho Lacerante",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Ataque Furtivo",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Ataque Saltado",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toque no botão de ataque normal logo após se esquivar para usar Ataque Saltado.\nBrande a arma e causa dano de <b>37.9%</b> do ATQ + <b>2</b> ao alvo. <b>Suspende muito</b> o alvo e a si mesmo, então causa dano adicional de <b>56.8%</b> do ATQ + <b>3</b>."
     },
     {
       "name": "Passeio Doloroso",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Dança entre alvos enquanto brande a espada. Causa dano de <b>418%</b> do ATQ + <b>22</b> a até <b>5</b> alvos (acertos consecutivos a um mesmo alvo causam <b>20%</b> a menos de dano). Ao terminar a habilidade, faz um corte no espaço adiante. Causa dano de <b>264%</b> do ATQ + <b>14</b> aos alvos ao redor e os suspende. Dá imunidade a efeitos de controle e todo dano sofrido é reduzido em <b>50%</b> ao usar esta habilidade. Tempo de recarga: <b>15</b> seg."
     },
     {
       "name": "Ímpeto Desenfreado",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. Corre até um alvo e o <b>suspende muito</b>, causando dano de <b>523.3%</b> do ATQ + <b>28</b> e deixando para trás uma Tempestade de Espadas que causa dano de <b>209.6%</b> do ATQ + <b>11</b>. Você fica imune a lesão, congelamento, queimadura e eletrocussão durante <b>5</b> segundos."
     }
   ],

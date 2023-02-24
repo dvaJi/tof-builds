@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Attaque normale",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Lorsque vous êtes au sol, brandissez la hache bouclier pour attaquer 4 fois de suite.\nPremière attaque en forme Bouclier : vous infligez des dégâts correspondant à <b>77.7%</b> de l'ATQ + <b>4</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>56.9%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts correspondant à <b>62.8%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>184%</b> de l'ATQ + <b>10</b>, et <b>envoyez la cible dans les airs</b>.\nPremière attaque en forme Hache : vous infligez des dégâts correspondant à <b>135.2%</b> de l'ATQ + <b>7</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>79.4%</b> de l'ATQ + <b>4</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts correspondant à <b>119.9%</b> de l'ATQ + <b>6</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>221.3%</b> de l'ATQ + <b>12</b> et repoussez la cible."
     },
     {
       "name": "Frappe aérienne",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>75.9%</b> de l'ATQ + <b>4</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>80.2%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>103%</b> de l'ATQ + <b>5</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>118.6%</b> de l'ATQ + <b>6</b> et <b>renverse</b> la cible avant de la projeter dans les airs au moment de toucher le sol."
     },
     {
       "name": "Anticipation",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Forme Bouclier : lorsque vous êtes au sol, appuyez et maintenez Attaque normale pour adopter la forme Bouclier (relâchez pour en sortir) pendant <b>3</b> secondes, durant lesquelles l'Explorateur est immobilisé et tous les dégâts reçus sont réduits de <b>50%</b>. En forme Bouclier, si vous lâchez Attaque normale après avoir reçu des dégâts ou après avoir maintenu pendant <b>3</b> secondes, vous envoyez Impact de feu, qui inflige des dégâts correspondant à <b>167.3%</b> de l'ATQ + <b>9</b> et un <b>étourdissement</b> d'<b>1</b> seconde à la cible.\nForme Hache : vous assenez un coup violent sur la cible, lui infligeant des dégâts correspondant à <b>122.2%</b> de l'ATQ + <b>6</b> et la suspendant."
     },
     {
       "name": "Bravoure",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher des attaques ramifiées aériennes.\nForme bouclier : lorsque vous tombez, vous infligez des dégâts équivalant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>89.2%</b> de l'ATQ + <b>5</b> et suspendez la cible.\nForme hache : lorsque vous tombez, vous infligez des dégâts équivalant à <b>12.5%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>128.3%</b> de l'ATQ + <b>7</b> et suspendez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
       "name": "Éruption",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Attaque d'esquive.\nForme Bouclier : vous libérez un bouclier enflammé qui inflige des dégâts correspondant à <b>55.8%</b> de l'ATQ + <b>3</b>, et repousse la cible. De plus, vous déclenchez une explosion, qui inflige des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b> et <b>étourdit</b> les cibles pendant <b>0,5</b> seconde. Réduit les effets de soins reçus par les cibles de <b>30%</b> pendant <b>10</b> secondes.\nForme Hache : lancez un coup de hache pour infliger des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b>, et réduire les effets de soins reçus par les cibles de <b>30%</b> pendant <b>10</b> secondes."
     },
     {
       "name": "Fission",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Conversion de bouclier : passez de la forme bouclier à la forme hache pour frapper violemment le sol. Inflige des dégâts équivalant à <b>373.8%</b> de l'ATQ + <b>20</b> et <b>suspend longuement</b> la cible. Crée une vaste zone enflammée pendant <b>5</b> secondes qui brûle la cible et inflige des dégâts continus équivalant à <b>233.6%</b> de l'ATQ + <b>12</b>.\nConversion de hache : passez de la forme hache à la forme bouclier pour frapper le sol. Inflige des dégâts équivalant à <b>309.5%</b> de l'ATQ + <b>16</b> à la cible et la repousse. Empêche la cible de changer d'arme pendant <b>5</b> secondes.\nTemps de recharge : <b>25</b> secondes. Conversion en hache et Conversion en bouclier partagent le même temps de recharge."
     },
     {
       "name": "Rage ardente",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et déclenche une onde de choc enflammée au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>352%</b> de l'ATQ + <b>19</b>. Provoquez les ennemis pendant <b>5</b> secondes, pendant lesquelles vous gagnez <b>15%</b> de réduction des dégâts. Dispersez des objets en forme de bouclier en fonction du nombre de cibles provoquées. Les objets durent <b>20</b> secondes et prodiguent <b>5%</b> de réduction des dégâts (cumulable) pendant <b>10</b> secondes, vous faisant récupérer 1 esquive."
     }
   ],

@@ -5,12 +5,5 @@
   "description": "Un almohadón con forma de gato. Sostenerlo es muy relajante y terapéutico. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

@@ -20,69 +20,47 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, gunakan Shadoweave untuk melakukan 5 serangan beruntun.\nSerangan Pertama: Menimpakan DMG sebesar <b>59.9%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>57.1%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>49.5%</b> ATK + <b>3</b>. \nSerangan Keempat: Menimpakan DMG sebesar <b>114.2%</b> ATK + <b>6</b> dan menerapkan Suspend pada target.\nSerangan Kelima: Menimpakan DMG sebesar <b>152.2%</b> ATK + <b>8</b>."
     },
     {
       "name": "Aerial Discharge",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>30.6%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>55.6%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>48.2%</b> ATK + <b>3</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>111.2%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimbulkan DMG sebesar <b>148.3%</b> ATK + <b>8</b>."
     },
     {
       "name": "Scattered Soil",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Setelah melakukan Serangan Biasa kedua di darat atau di udara, tahan Serangan Biasa untuk mengaktifkan Scattered Soil.\nSerang posisi yang ditentukan, menimpakan DMG sebesar <b>83.2%</b> ATK + <b>4</b> dan menjatuhkan target.\nPasif: Setelah mengeluarkan Scattered Soil di darat, menekan Serangan Biasa dengan cepat bisa langsung mengeluarkan Brief Bloom (tumpukan ke-3)."
     },
     {
       "name": "Brief Bloom",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Tahan Serangan Biasa untuk mengeluarkan Brief Bloom. Bisa ditahan hingga terkumpul 3 tumpuk dan akan mendapatkan Hyperbody dan Control Immunity selama proses ini.\nTumpukan Pertama: Menimpakan DMG sebesar <b>73.9%</b> ATK + <b>4</b>.\nTumpukan Kedua: Menimpakan DMG sebesar <b>146.8%</b> ATK + <b>246.4</b>.\nTumpukan Ketiga: Menimpakan DMG sebesar <b>13%</b> ATK + <b>{5}</b>."
     },
     {
       "name": "Falling Shadow",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tahan Serangan Biasa di udara untuk mengaktifkan Falling Shadow.\nMenghantam dari angkasa, menimpakan DMG sebesar <b>160%</b> ATK + <b>8</b> dan menjatuhkan target."
     },
     {
       "name": "Dodge",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Menjadi kebal terhadap Hitstun selama <b>0,5</b> detik saat menghindar."
     },
     {
       "name": "Leafy Green",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Menembakkan Leafy Green ke target sambil salto ke belakang, menimpakan DMG sebesar <b>70%</b> ATK + <b>4</b>, menghasilkan <b>1–3</b> Epiphyllum saat menghantam target dan membentuk Green Field yang aktif selama <b>5</b> detik. Saat musuh dalam Green Field mengincar Wanderer, kecepatan geraknya berkurang <b>50%</b>.\nPasif: Bisa dikeluarkan di darat atau di udara.\nPasif: Langsung melenyapkan efek kontrol yang dimiliki jika ada dan secara otomatis menembakkan Leafy Green tanpa mengonsumsi jatah menghindar. CD: <b>20</b> detik."
     },
     {
       "name": "Excited Flow: Flashing Stream",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Menciptakan zona Moonlight Realm di sekelilingmu yang aktif selama <b>15</b> detik. Seranganmu di dalam zona ini meningkat <b>10%</b>, tinggi lompatan meningkat <b>20%</b>, dan konsumsi Stamina berkurang <b>50%</b>. CD: <b>30</b> detik.\nMemasuki kondisi Airbloom saat menggunakan Shadoweave di dalam zona ini. Kecepatan jatuhmu berkurang drastis dan kamu bisa lompat di udara berkali-kali. Dalam kondisi ini, menekan tombol arah dan lompat saat di udara akan mengaktifkan Roam dan melancarkan serangan kepada target. Jika serangan ini menghantam musuh, menimpakan DMG sebesar <b>66%</b> ATK + <b>3</b> dan memunculkan <b>1–3</b> Epiphyllum secara acak.\n\nPasif: Dalam zona Moonlight Realm, <b>1</b> Epiphyllum akan muncul di dekat 1 target setiap <b>0,8</b> detik. \nPasif: Saat menggunakan Shadoweave di dalam Moonlight Realm, menimpakan DMG <b>50%</b> lebih besar kepada musuh dengan HP kurang dari <b>20%</b>.\nPasif: Saat menggunakan Shadoweave di dalam Moonlight Realm, kamu akan langsung bergerak menjauh dari target saat ada DMG yang akan kamu terima. CD: <b>10</b> detik.\n\nPasif: Weapons Master\nFlame: Saat Shadoweave dipasangkan dengan 2 Senjata Flame, Moonlight Realm dikonversi menjadi Flame: Moonlight Realm, yang aktif selama <b>4</b> detik lebih lama saat membakar target. Target dengan Perisai menerima Flame DMG <b>15%</b> lebih besar. \n\nVolt: Saat Shadoweave dipasangkan dengan 2 Senjata Volt, Moonlight Realm dikonversi menjadi Volt: Moonlight Realm. Selama dalam Volt: Moonlight Realm, mendapatkan peluang <b>65%</b> untuk tidak memakai jatah menghindar saat menghindar, peningkatan <b>35%</b> pada DMG Serangan Menghindar, dan Volt DMG meningkat <b>30%</b> saat Resonansi Volt diaktifkan.\n\nFrost: Saat Shadoweave dipasangkan dengan 2 Senjata Frost, Moonlight Realm dikonversi menjadi Frost: Moonlight Realm. Dalam zona ini, target akan terkena Frostbite selama <b>15</b> detik setelah menerima Frost DMG <b>10</b> kali. Dalam periode ini, target juga menerima DMG <b>22%</b> lebih besar dari serangan Frost.\n\nPhysical: Saat Shadoweave dipasangkan dengan 2 Senjata Physical, Moonlight Realm dikonversi menjadi Physical: Moonlight Realm. Saat kau memiliki HP Shield, menimpakan DMG sebesar <b>50%</b> ATK + <b>3</b> tiap detik terhadap target dalam jangkauan.\n\nBalance: Saat Shadoweave dipasangkan dengan dua senjata dengan elemen berbeda (antara Senjata Flame, Volt, Frost, atau Physical), ATK Wanderer meningkat <b>15%</b> selama ada di dalam zona ini dan dianggap sedang mengaktifkan Resonansi Flame, Volt, Frost, dan Physical, namun tidak mendapatkan efek Resonansi."
     },
     {
       "name": "Gravity Weave",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke Senjata ini dari Senjata lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan mengeluarkan Gravity Weave dengan kekuatan tarikan yang lebih besar, menimpakan DMG sebesar <b>368.5%</b> ATK + <b>19</b>. Kemudian, ia meledak dan menciptakan gelombang yang menyebar luas setelah <b>5</b> detik, menimpakan DMG sebesar <b>184.3%</b> + <b>10</b>. Kebal terhadap DMG selama <b>2,6</b> detik saat Skill ini aktif (tak bisa digunakan di Apex League)."
     }
   ],

@@ -5,12 +5,5 @@
   "description": "Nadie sabe quién creó este mazo, pero a juzgar por las reglas de juego, quien lo haya hecho debe haber sido una persona muy interesante. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

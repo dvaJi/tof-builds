@@ -5,18 +5,6 @@
   "description": "Conçu pour le 40e anniversaire de Champ de bataille du guerrier ultime : Champ de bataille du guerrier ultime 40 est maintenant disponible. Achetez-le maintenant et obtenez des objets limités de la puissante loutre SSR.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cocoritter",
-    "ene",
-    "nemesis",
-    "ruby"
-  ],
-  "characters": [
-    "hilda",
-    "samir",
-    "bailing",
-    "claudia",
-    "huma",
-    "pepper"
-  ]
+  "favorite": ["cocoritter", "ene", "nemesis", "ruby"],
+  "characters": ["hilda", "samir", "bailing", "claudia", "huma", "pepper"]
 }

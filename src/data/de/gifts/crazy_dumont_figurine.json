@@ -5,9 +5,5 @@
   "description": "Niemand weiß, wann der Hype um die verrückte Dumont-Figur begonnen hat, aber auf einmal wollte jeder eine. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "crow",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["crow", "tsubasa", "hilda"]
 }

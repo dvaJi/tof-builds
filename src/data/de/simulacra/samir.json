@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Doppelfeuer",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Tippe auf dem Boden auf einen normalen Angriff, um mit den Zwillings-Pistolen bis zu 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Gesamtschaden in Höhe von <b>47.1%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Gesamtschaden in Höhe von <b>35.8%</b> des ANG + <b>2</b>.\nDritter Angriff: verursacht Gesamtschaden in Höhe von <b>119.7%</b> des ANG + <b>6</b>.\nVierter Angriff: verursacht Gesamtschaden in Höhe von <b>113.1%</b> des ANG + <b>6</b>.\nFünfter Angriff: verursacht Gesamtschaden in Höhe von <b>154%</b> des ANG + <b>8</b> und <b>schleudert</b> das Ziel hoch."
     },
     {
       "name": "Kugelhagel",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Setze in der Luft einen normalen Angriff ein, um kontinuierlich auf den Boden zu feuern. Dies verursacht pro Treffer Schaden in Höhe von <b>50.6%</b> des ANG + <b>3</b>. Jeder Treffer verbraucht <b>150</b> Ausdauer."
     },
     {
       "name": "Energieschub",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Halte die Angriffstaste gedrückt, um kontinuierlich zu schießen. Jeder Treffer verursacht Grundschaden in Höhe von <b>23%</b> des ANG +<b>1</b>."
     },
     {
       "name": "Phantomkick",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Drücke und halte in der Luft den normalen Angriff, um „Phantomkick“ auszulösen. Dadurch wird das Ziel zu Fall gebracht und Schaden in Höhe von <b>70.5%</b> des ANG + <b>4</b> verursacht. Nach der Landung erleiden Ziele in der Nähe Schaden in Höhe von <b>98.7%</b> des ANG + <b>5</b> und sie werden <b>stark hochgeschossen</b>."
     },
     {
       "name": "Blitztritt",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tippe nach dem Ausweichen auf den normalen Angriff, um <b>Ziele länger in der Luft schweben zu lassen</b> und Schaden in Höhe von <b>122.6%</b> des ANG + <b>6</b> zu verursachen."
     },
     {
       "name": "Volt-Schild",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Feuert einen Energieschild auf den Zielort, der die Strahlen innerhalb der Barriere reflektiert. Verursacht Schaden in Höhe von <b>269.8%</b> des ANG + <b>14</b>. Der letzte Treffer lässt Ziele <b>länger schweben</b>. Abklingzeit: <b>45</b> Sek."
     },
     {
       "name": "Donnerwetter",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und ein Donnerwetter am Zielort erzeugt. Dies lässt Ziele innerhalb des Bereichs <b>länger schweben</b> und verursacht über 3 Angriffe hinweg einen Gesamtschaden in Höhe von <b>238.3%</b> des ANG + <b>13</b>, während es gleichzeitig ihre Buffs aufhebt. Der Sturm hält <b>3,5</b> Sek. an und verursacht alle <b>0,5</b> Sek. Schaden in Höhe von <b>42.4%</b> des ANG + <b>2</b> an einem Ziel."
     }
   ],

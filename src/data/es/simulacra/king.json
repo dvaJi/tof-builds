@@ -1,6 +1,7 @@
 {
   "_id": 9,
   "id": "king",
+  "name": "KING",
   "weapon": "Guadaña del Cuervo",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "3 de noviembre (Escorpio)",
@@ -19,71 +20,47 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, blande la guadaña para lanzar 5 ataques consecutivos.\nPrimer ataque: inflige daño equivalente al <b>57.1%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>49.1%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>106.8%</b> del ATQ + <b>6</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>109.5%</b> del ATQ + <b>6</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>104.2%</b> del ATQ + <b>5</b>, <b>suspensión fuerte</b> al objetivo, y deja al Nómada en el aire."
     },
     {
       "name": "Guadaña Creciente",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Mientras estás en el aire o después de saltar una vez, ataca 5 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>63.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>68.8%</b> del ATQ + <b>4</b>.\nTercer ataque: Inflige daño igual a <b>190.5%</b> del ATQ + <b>10</b>.\nCuarto ataque: Inflige daño igual a <b>213.6%</b> del ATQ + <b>11</b>.\nQuinto ataque: Inflige daño igual a <b>173.9%</b> del ATQ + <b>9</b> y derriba al objetivo. Cuanto más alta sea la ubicación al activarse, más daño inflige, hasta <b>600%</b> de daño."
     },
     {
       "name": "Separación",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Separación.\nEn el descenso, cada impacto inflige daño equivalente al <b>12.5%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>71.9%</b> del ATQ + <b>4</b> y <b>derriba</b>.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
     },
     {
       "name": "Hoja con Cadena",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Pulsa el ataque normal durante la corta oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para lanzar Embestida Rápida.\nInflige daño equivalente hasta un <b>137.4%</b> del ATQ + <b>7</b> y atrae enemigos cercanos."
     },
     {
       "name": "Ataque Sorpresa",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
       "name": "Hoja con Cadena",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante la corta oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para lanzar Embestida Rápida.\nInflige daño equivalente hasta un <b>126.9%</b> del ATQ + <b>7</b> y atrae enemigos cercanos."
     },
     {
       "name": "Dominio del Murciélago",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Al esquivar, invoca Dominio del Murciélago, lo que arrastra al objetivo al centro. Pulsa el ataque normal durante el corto periodo luego de esquivar para blandir la guadaña e infligir daño equivalente hasta un <b>114.3%</b> del ATQ + <b>6</b> al objetivo."
     },
     {
       "name": "Espiral Mortal",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Blande la guadaña e inflige daño equivalente al <b>499.9%</b> del ATQ + <b>26</b>. Enfriamiento: <b>45</b> segundos."
     },
     {
       "name": "Guadaña Ardiente",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea una Guadaña Ardiente tras cambiar a esta arma, que inflige daño equivalente al <b>398.3%</b> del ATQ + <b>21</b> y dura <b>10</b> segundos. Además, engendra Dominio de las Guadañas Ardientes cada <b>2</b> segundos. Las guadañas invocan erupciones volcánicas que infligen daño equivalente al <b>66%</b> del ATQ + <b>3</b> a los objetivos y los suspende."
     }
   ],

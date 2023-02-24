@@ -20,78 +20,52 @@
   "skills": [
     {
       "name": "Frappe lourde",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Lorsque vous êtes au sol, brandissez une grande épée pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>72.9%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>60.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>105.4%</b> de l'ATQ + <b>6</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>, <b>projette fortement</b> la cible, puis la projette après l'atterrissage."
     },
     {
       "name": "Frappe aérienne",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>106.5%</b> de l'ATQ + <b>6</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>87.5%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>140.5%</b> de l'ATQ + <b>7</b> et <b>renverse</b> la cible avant de la projeter dans les airs au moment de toucher le sol."
     },
     {
       "name": "Taillade ascendante",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Taillade ascendante.\nAu contact, <b>suspend longuement</b> la cible et vous fait décoller du sol, infligeant des dégâts équivalant à <b>64.3%</b>de l'ATQ + <b>3</b>."
     },
     {
       "name": "Taillade crépusclunaire",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Taillade crépusclunaire"
     },
     {
       "name": "Attaque furtive",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
       "name": "Tourbillon",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Lorsque vous êtes debout ou lorsque vous vous déplacez, maintenez Attaque normale pour déclencher Tourbillon. Inflige à la cible des dégâts équivalant à <b>132.8%</b> de l'ATQ + <b>7</b> chaque <b>0,5</b> seconde. Confère une immunité à l'hébétement pendant que vous l'utilisez."
     },
     {
       "name": "Dévastation",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Dévastation.\nVous infligez des dégâts équivalant à <b>65.9%</b> de l'ATQ + <b>3</b> à chaque coup et <b>vous projetez</b> les cibles."
     },
     {
       "name": "Taillade en croissant",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Taillade en croissant.\nVous brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à <b>49.6%</b> de l'ATQ + <b>3</b>."
     },
     {
       "name": "Blizzard",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Brandissez la grande épée pour projeter des auras vers l'avant, chacune infligeant des dégâts équivalant à <b>141.7%</b> de l'ATQ + <b>7</b> et augmentant les dégâts infligés de <b>5%</b> à chaque coup. L'attaque vous immunise contre les effets de contrôle. Temps de recharge : <b>45</b> secondes."
     },
     {
       "name": "Barrière de givre",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est à son maximum, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, au moment où vous changez d'arme, <b>élimine toutes les altérations sur le porteur</b>, et frappe le sol pour former une barrière. Inflige des dégâts équivalant à <b>503.2%</b> de l'ATQ + <b>26</b> aux ennemis proches, et suspend les cibles. Ceci réduit leur vitesse de <b>50%</b> et les empêchant d'esquiver ou de sauter. La barrière dure <b>5</b> secondes et bloque les projectiles."
     }
   ],

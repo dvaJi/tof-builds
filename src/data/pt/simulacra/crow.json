@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Cutilada",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, branda um par de adagas para executar até 5 ataques consecutivos.\nPrimeiro ataque: Causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>73%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>96.8%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>202.2%</b> do ATQ + <b>11</b> e repele o alvo uma curta distância."
     },
     {
       "name": "Floreio Aéreo",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>38.4%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>92%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>138%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Lançamento Veloz",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Lançamento Veloz.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano total de <b>116.8%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Mergulho Espiralante",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Segure o botão de ataque normal enquanto estiver no ar (ou use com um alvo selecionado), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Espiralante.\nEnquanto cai, cada golpe causa dano de <b>42%</b> do ATQ + <b>2</b>."
     },
     {
       "name": "Ataque Furtivo",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Adagas Voadoras",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Adagas Voadoras.\nGolpeia um alvo <b>5</b> vezes. Cada golpe causa dano de <b>26.4%</b> do ATQ + <b>1</b>. Enquanto estiver ativo, fica imune a efeitos de controle."
     },
     {
       "name": "Adagas-Bumerangue",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Arremessa <b>6</b> adagas-bumerangue. Cada uma causa dano de <b>52.8%</b> do ATQ + <b>3</b>. Ganha <b>corpo de aço</b> durante até <b>8</b> segundos. O efeito acaba quando as adagas voltam. Tempo de recarga: <b>45</b> seg."
     },
     {
       "name": "Adagas Giratórias",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e arremete para o local do alvo ao trocar para esta arma e ataca. Causa dano de <b>86.9%</b> do ATQ + <b>5</b> e eletrocuta o alvo (após <b>5</b> segundos, causa dano elétrico equivalente a <b>15%</b> do dano causado, até <b>350%</b> do seu ATQ. Este é um status anormal que não pode ser anulado). Além disso, gera 3 adagas que giram em volta de você e causam dano de <b>65.2%</b> do ATQ + <b>3</b> a quem encostar nelas."
     }
   ],

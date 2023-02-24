@@ -20,71 +20,47 @@
   "skills": [
     {
       "name": "Thrust",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>24.7%</b> ATK + <b>1</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>22.6%</b> ATK + <b>1</b> memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>47.2%</b> ATK + <b>2</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>65.2%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebesar <b>114.95%</b> ATK + <b>6</b> dan memukul mundur target dalam jarak yang signifikan."
     },
     {
       "name": "Jumping Strike",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimbulkan DMG sebesar <b>27.4%</b> ATK + <b>1</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>23.2%</b> ATK + <b>1</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>45.8%</b> ATK + <b>2</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>110%</b> ATK + <b>6</b>."
     },
     {
       "name": "Crashing Drive",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target terkunci), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat terjun, menimbulkan DMG sebesar <b>8%</b> ATK + <b>1</b> tiap mengenai target. Saat mendarat, menimbulkan DMG sebesar <b>48.5%</b> ATK + <b>3</b> dan memukul jatuh target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula DMG yang ditimbulkan, maks <b>600%</b> DMG."
     },
     {
       "name": "Spear Flurry",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target, menimpakan DMG sebesar <b>49.2%</b> ATK + <b>3</b>. Tekan lagi untuk terus menyerang target yang tertahan di udara, menimpakan DMG maks <b>98%</b> ATK + <b>5</b> DMG kepada satu target."
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
     },
     {
       "name": "Flying Kick",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan damage sebesar <b>72%</b> ATK + <b>4</b>, memukul mundur target cukup jauh, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
     },
     {
       "name": "Lunging Smash",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Lunging Smash.\nHantamkan Long Spear ke tanah, menimpakan DMG sebesar <b>52.8%</b> ATK + <b>3</b> dan membuat target terkena <b>Suspend Keras</b>."
     },
     {
       "name": "Moonchaser",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengakibatkan Airborne, menimpakan damage sebesar <b>127.5%</b> ATK + <b>7</b>. CD: <b>25</b> detik."
     },
     {
       "name": "Thunderclap",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, yang melompat di udara dan melemparkan Thunderous Spear yang akan menyebabkan ledakan area dan menimbulkan DMG sebesar <b>296.7%</b> ATK + <b>16</b> dan mengakibatkan <b>Paralyze</b> keras kepada target selama <b>1</b> detik."
     }
   ],

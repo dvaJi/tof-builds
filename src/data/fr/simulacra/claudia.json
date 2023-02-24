@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Taillade rapide",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec la lame.\nPremière attaque : vous infligez des dégâts correspondant à <b>46.8%</b> de l'ATQ + <b>2</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>65.6%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts correspondant à <b>59.3%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>104.1%</b> de l'ATQ + <b>5</b>, et repoussez la cible sur une courte distance.\nCinquième attaque : vous infligez des dégâts correspondant à <b>177.8%</b> de l'ATQ + <b>9</b>, et <b>projetez</b> la cible."
     },
     {
       "name": "Coup sauté",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>27.9%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>48.4%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>114.6%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>139%</b> de l'ATQ + <b>7</b>."
     },
     {
       "name": "Cyclone",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Maintenez la touche Attaque normale après des attaques normales pour déclencher Cyclone.\nLorsque vous touchez la cible, vous la suspendez. Cyclone peut infliger des dégâts équivalant à <b>47.8%</b> de l'ATQ + <b>3</b> à une seule cible."
     },
     {
       "name": "Lame plongeante",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Lame plongeante.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>10%</b> de l'ATQ + <b>1</b> à chaque coup sur la cible. À l'atterrissage, vous infligez des dégâts correspondant à <b>76.4%</b> de l'ATQ + <b>4</b>, et repoussez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
       "name": "Attaque furtive",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
       "name": "Attaque bondissante",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Attaque bondissante.\nL'Explorateur brandit sa lame et inflige des dégâts équivalant à <b>37.9%</b> de l'ATQ + <b>2</b> à la cible. <b>Suspend longuement</b> la cible tout en s'envolant. Inflige ensuite des dégâts supplémentaires équivalant à <b>56.8%</b> de l'ATQ + <b>3</b> à la cible."
     },
     {
       "name": "Itinérance",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Vous dansez à travers les cibles en brandissant la lame, infligeant des dégâts équivalant à <b>418%</b> de l'ATQ + <b>22</b> à <b>5</b> cibles maximum (une cible touchée plusieurs fois de suite subit <b>20%</b> de dégâts en moins). Lorsque Itinérance prend fin, vous tailladez l'espace face à vous, infligeant des dégâts de zone équivalant à <b>264%</b> de l'ATQ + <b>14</b> aux cibles proches et les suspendant. Immunise contre les effets de contrôle tant que la compétence est en cours d'utilisation et réduit tous les dégâts subis de <b>50%</b>. Temps de recharge : <b>15</b> secondes."
     },
     {
       "name": "Déluge effréné",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur l'Explorateur</b>, qui fonce alors sur une cible et la <b>suspend longuement</b>. Inflige des dégâts équivalant à <b>523.3%</b> de l'ATQ + <b>28</b>, crée une tempête de lames qui inflige des dégâts équivalant à <b>209.6%</b> de l'ATQ + <b>11</b>, et vous confère une immunité contre les effets de blessures graves, de brûlure, de gel et d'électrocution pendant <b>5</b> secondes."
     }
   ],

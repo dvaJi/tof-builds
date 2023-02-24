@@ -5,9 +5,5 @@
   "description": "Usado para malhar, principalmente fazer musculação (a não ser em algumas situações drásticas)... Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "frigg",
-    "shiro"
-  ]
+  "characters": ["cobaltb", "frigg", "shiro"]
 }

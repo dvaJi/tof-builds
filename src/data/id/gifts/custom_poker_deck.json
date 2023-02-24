@@ -5,12 +5,5 @@
   "description": "Tak ada yang tahu siapa pembuat dek ini, tetapi menilai dari peraturan permainannya, pembuatnya pastilah orang yang sangat menarik. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

@@ -5,10 +5,7 @@
   "description": "最新の先端ゲーム機。あるパソコンの天才が製作に携わったためにコストが高騰し、ひとまず限定販売されることになった。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "zero",
-    "echo"
-  ],
+  "favorite": ["zero", "echo"],
   "characters": [
     "cobaltb",
     "huma",

@@ -5,12 +5,5 @@
   "description": "Ein Wurfkissen in Form eines Kätzchens. Es fühlt sich gut und entspannend an, es zu halten. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

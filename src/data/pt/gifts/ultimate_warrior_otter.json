@@ -5,18 +5,6 @@
   "description": "Criada para o aniversário de 40 anos da Batalha do Superguerreiro: a Batalha do Superguerreiro 40 já está disponível. Compre agora e obtenha produtos limitados da poderosa Lontra SSR.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cocoritter",
-    "ene",
-    "nemesis",
-    "ruby"
-  ],
-  "characters": [
-    "hilda",
-    "samir",
-    "bailing",
-    "claudia",
-    "huma",
-    "pepper"
-  ]
+  "favorite": ["cocoritter", "ene", "nemesis", "ruby"],
+  "characters": ["hilda", "samir", "bailing", "claudia", "huma", "pepper"]
 }

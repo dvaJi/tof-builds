@@ -20,23 +20,17 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Tekan Serangan Biasa untuk memasuki mode bidik. Tahan Serangan Biasa untuk terus menembak, maks <b>40</b> tembakan. Setiap tembakan menimbulkan DMG sebesar <b>11.4%</b> ATK + <b>1</b>. Menimbulkan Double DMG saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (Headshot tidak efektif pada Wanderer)."
     },
     {
       "name": "Turret",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan DMG sebesar <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental ke atas. Menjadi kebal terhadap Hitstun dan efek kontrol saat memasang Turret. CD: <b>3.5</b> detik."
     },
     {
       "name": "Arctic Beam",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebesar <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebesar <b>50%</b> selama <b>10</b> detik."
     }
   ],

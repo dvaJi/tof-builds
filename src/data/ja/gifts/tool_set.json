@@ -5,9 +5,5 @@
   "description": "そのまま使えて、部品として他の機械に差し込むこともできるフレキシブルな工具セット。実用性が高く、技術スタッフにも大好評。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cobaltb",
-    "frigg",
-    "shiro"
-  ]
+  "characters": ["cobaltb", "frigg", "shiro"]
 }

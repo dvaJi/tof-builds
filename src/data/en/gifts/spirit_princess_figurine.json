@@ -5,9 +5,5 @@
   "description": "Miniature figurine based on Spirit Princess, the smart servant. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "crow",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["crow", "tsubasa", "hilda"]
 }

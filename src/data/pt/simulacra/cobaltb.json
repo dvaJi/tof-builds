@@ -20,61 +20,42 @@
   "skills": [
     {
       "name": "Ataque Normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, use ataque normal para executar 5 ataques seguidos.\nPrimeiro ataque: Causa dano de <b>52.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>75.6%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>94.5%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>142.8%</b> do ATQ + <b>8</b>.\nQuinto ataque: Causa dano de <b>137.8%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Tiro Concentrado",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Segure o botão de ataque normal para concentrar um ataque, então solte para disparar projéteis que causam dano de <b>95.4%</b> do ATQ + <b>5</b> mais uma explosão três segundos depois (ou se o alvo for abatido). Causa dano de <b>23.9%</b> do ATQ a alvos próximos. O dano aumenta e a área de efeito duplica cada vez que um alvo sofre dano antes da explosão (até <b>4</b> vezes)."
     },
     {
       "name": "Explosão Elevada",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar ou após pular uma vez, use Explosão Elevada.\nArremessa uma bomba que causa dano de <b>90.8%</b> do ATQ + <b>5</b> a inimigos em um círculo adiante, repelindo-os uma curta distância. Consome <b>250</b> de vigor."
     },
     {
       "name": "Detonação Aérea",
-      "type": [
-        "Double Jump"
-      ],
+      "type": ["Double Jump"],
       "description": "Dê um salto duplo para usar Detonação Aérea.\nDispara um feixe de Omnium para baixo. O feixe se estende para frente e causa dano de <b>33.8%</b> do ATQ + <b>2</b>."
     },
     {
       "name": "Bombardeio Intenso",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Segure o botão de ataque durante um ataque normal para atirar adiante. Causa dano em área de <b>102%</b> do ATQ + <b>5</b> a inimigos."
     },
     {
       "name": "Curta Distância",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toque no botão de ataque normal logo após se esquivar para usar Curta Distância.\nCausa dano de <b>156.1%</b> do ATQ + <b>8</b> a alvos em uma área cônica frontal."
     },
     {
       "name": "Barragem Incinerante",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Atira sem parar em uma área cônica à frente. Causa dano de <b>666%</b> do ATQ + <b>35</b>. Tempo de recarga: <b>60</b> seg."
     },
     {
       "name": "Chuva de Bombas",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e arremessa <b>3</b> granadas para frente ao trocar para esta arma. Causa dano em área de <b>570%</b> do ATQ + <b>30</b> e <b>lançamento aéreo</b>."
     }
   ],

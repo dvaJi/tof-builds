@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Quickdraw",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "While on the ground, draw the bow repeatedly to attack 5 times.\nFirst Attack: Deal damage equal to <b>33.7%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>30.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>54.3%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>83.5%</b> of ATK + <b>4</b>.\nFifth Attack: Deal damage equal to <b>77.7%</b> of ATK + <b>4</b> and knock the target back a short distance."
     },
     {
       "name": "Charged Arrow",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tap and hold normal attack to charge an attack. Deal basic damage equal to <b>60.5%</b> of ATK + <b>3</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
     },
     {
       "name": "Arrow Rain",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to <b>198.7%</b> of ATK + <b>10</b> area damage to targets."
     },
     {
       "name": "Air Volley",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>38.8%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>51%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>77.7%</b> of ATK + <b>4</b>.\nFourth Attack: Deal damage equal to <b>117%</b> of ATK + <b>6</b>."
     },
     {
       "name": "Loaded Arrow",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tap attack after dodging to trigger Loaded Arrow, knocking the target back by a short distance and dealing damage equal to <b>85.5%</b> of ATK + <b>5</b>."
     },
     {
       "name": "Piercing Shot",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Backflips and fires <b>1</b> piercing shot forward, dealing damage equal to <b>154.8%</b> of ATK + <b>8</b> and knocking the target back. <b>12</b>-second cooldown."
     },
     {
       "name": "Explosive Barrage",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and unleashes Explosive Barrage on the target upon switching to this weapon, dealing damage equal to <b>486.6%</b> of ATK + <b>26</b>."
     }
   ],

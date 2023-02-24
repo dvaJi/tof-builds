@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Saque Ligeiro",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, saque o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>33.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>30.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>54.3%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>83.5%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância."
     },
     {
       "name": "Tiro Concentrado",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Segure o botão de ataque normal para carregar um ataque. Causa dano base de <b>60.5%</b> do ATQ + <b>3</b>, e mais <b>50%</b> por cada <b>1</b> segundo de concentração (máximo de <b>3</b> segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
     },
     {
       "name": "Chuva de Flechas",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Após qualquer ataque normal, segure o botão de ataque normal para desencadear Chuva de Flechas. Causa até <b>198.7%</b> do ATQ + <b>10</b> de dano em área a alvos."
     },
     {
       "name": "Saraivada Aérea",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>38.8%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>51%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>77.7%</b> do ATQ + <b>4</b>.\nQuarto ataque: Causa dano de <b>117%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Flecha Repulsora",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toque no botão de ataque após se esquivar para usar Flecha Repulsora. Repele o alvo uma curta distância e causa dano de <b>85.5%</b> do ATQ + <b>5</b>."
     },
     {
       "name": "Tiro Perfurante",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Dá um mortal para trás e dispara <b>1</b> tiro perfurante para frente. Causa dano de <b>154.8%</b> do ATQ + <b>8</b> e repele o alvo. Tempo de recarga: <b>12</b> seg."
     },
     {
       "name": "Salva Explosiva",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e lança uma Salva Explosiva sobre o alvo ao trocar para esta arma. Causa dano de <b>486.6%</b> do ATQ + <b>26</b>."
     }
   ],

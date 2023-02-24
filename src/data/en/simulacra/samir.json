@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Dual Fire",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols.\nFirst Attack: Deal total damage equal to <b>47.1%</b> of ATK + <b>2</b>.\nSecond Attack: Deal total damage equal to <b>35.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal total damage equal to <b>119.7%</b> of ATK + <b>6</b>.\nFourth attack: Deal total damage equal to <b>113.1%</b> of ATK + <b>6</b>.\nFifth Attack: Deal total damage equal to <b>154%</b> of ATK + <b>8</b> and <b>launch</b> the target."
     },
     {
       "name": "Bullet Rain",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne, use normal attack to fire continuously at the ground, dealing damage equal to <b>50.6%</b> of ATK + <b>3</b> damage, each hit consumes <b>150</b> endurance."
     },
     {
       "name": "Energy Burst",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Hold attack button to maintain constant fire, each hit dealing <b>23%</b> of ATK + <b>1</b> base damage."
     },
     {
       "name": "Phantom Kick",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to <b>70.5%</b> of ATK + <b>4</b>. Upon landing, deal damage equal to <b>98.7%</b> of ATK + <b>5</b> to nearby targets and <b>strongly launch</b> them."
     },
     {
       "name": "Rising Lightning Kick",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tap normal attack after dodging to <b>strongly suspend</b> targets and deal damage equal to <b>122.6%</b> of ATK + <b>6</b>."
     },
     {
       "name": "Electro Field",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to <b>269.8%</b> of ATK + <b>14</b>, and the last hit <b>strongly suspends</b> targets. Cooldown: <b>45</b>-seconds."
     },
     {
       "name": "Domain of Thunder",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and create a Domain of Thunder at the target location upon switching to this weapon, <b>strongly suspending</b> targets within the area and dealing a total of <b>238.3%</b> of ATK + <b>13</b> damage over 3 attacks to them while dispelling their buffs. The domain lasts for <b>3.5</b> seconds and deals damage equal to <b>42.4%</b> of ATK + <b>2</b> to a target every <b>0.5</b> seconds."
     }
   ],

@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, blande el bastón y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>54.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>40.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>89.7%</b> del ATQ + <b>5</b>.\nQuinto ataque: inflige daño equivalente al <b>158.4%</b> del ATQ + <b>8</b>."
     },
     {
       "name": "Ráfaga Elevada",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>70.5%</b> del ATQ + <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>50.8%</b> del ATQ + <b>3</b>.\nTercer ataque: Inflige daño igual a <b>55.1%</b> del ATQ + <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>99.1%</b> del ATQ + <b>5</b>.\nQuinto ataque: Inflige daño igual a <b>103.2%</b> del ATQ + <b>5</b>."
     },
     {
       "name": "Cascada Lunar",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Mantén pulsado el ataque normal en el aire para activar Cascada Lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> segundos, por un total de daño equivalente al <b>123.8%</b> del ATQ + <b>7</b>."
     },
     {
       "name": "Asalto Enfocado",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Después del tercer ataque normal, mantén pulsado el botón de ataque normal para activar los ataques de rama, lo que consume <b>300</b> puntos de resistencia.\nPrimer ataque: Atrae a los enemigos frente al usuario, los <b>suspende fuerte</b> e inflige daño igual a <b>34.9%</b> del ATQ + <b>2</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: Inflige daño igual a <b>40.4%</b> del ATQ + <b>2</b> en la ubicación objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
     },
     {
       "name": "Sobrecarga",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Sobrecarga.\nCada pulso de energía inflige daño equivalente al <b>45.9%</b> del ATQ + <b>2</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
     },
     {
       "name": "Teseracto",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Pulsa el ataque normal un poco después de esquivar para activar Explosión evasiva.\nDispara un orbe de energía hacia adelante, lo que inflige daño equivalente al <b>66.4%</b> del ATQ + <b>3</b> a los objetivos en el camino cada <b>0.3</b> segundos (hasta 5 veces).\nOtorga <b>75</b> puntos de carga de arma al usarse."
     },
     {
       "name": "Santuario",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Crea una zona de curación que se mueve con el Nómada y cura a los aliados cercanos el equivalente al <b>95%</b> del ATQ + <b>5</b> una vez cada <b>0.5</b> segundos durante <b>6</b> segundos. <b>60</b> segundos de enfriamiento."
     },
     {
       "name": "Liberación Rápida",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y el bastón continúa removiendo desventajas del Nómada y los aliados, y además cura un <b>118.8%</b> del ATQ + <b>6</b> de sus PS durante <b>7</b> segundos."
     }
   ],

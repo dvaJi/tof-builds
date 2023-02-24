@@ -5,13 +5,5 @@
   "description": "アストラ島のサミーが最初に売り出したおやつセット。魅力的なお菓子がぎっしり入っており、カジュアルな贈り物として各界から支持を集めている。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "crow",
-    "king",
-    "tsubasa",
-    "zero",
-    "echo",
-    "hilda"
-  ]
+  "characters": ["cobaltb", "crow", "king", "tsubasa", "zero", "echo", "hilda"]
 }

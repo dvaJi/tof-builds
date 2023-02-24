@@ -5,9 +5,5 @@
   "description": "Nobody knows when the fad for the Crazy Dumont figurine began, except everyone wants one all of a sudden. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "crow",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["crow", "tsubasa", "hilda"]
 }

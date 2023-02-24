@@ -5,9 +5,7 @@
   "description": "Une figurine miniature d'après l'Ange du néant. Elle est entièrement blanche et nécessite un soin particulier pour rester immaculée. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "claudia",
     "crow",

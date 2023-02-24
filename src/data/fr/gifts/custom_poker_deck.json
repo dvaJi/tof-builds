@@ -5,12 +5,5 @@
   "description": "Personne ne sait qui a créé ce jeu, mais à en juger par les règles, son créateur devait être quelqu'un de particulièrement intéressant. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "huma",
-    "samir",
-    "zero",
-    "echo",
-    "ene",
-    "ruby"
-  ]
+  "characters": ["huma", "samir", "zero", "echo", "ene", "ruby"]
 }

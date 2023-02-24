@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Quickdraw",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\nSerangan Pertama: Timpakan damage sebesar <b>48.8%</b> ATK + <b>3</b>.\nSerangan Kedua: Timpakan damage sebesar <b>43.7%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebesar <b>78.6%</b> ATK + <b>4</b>.\nSerangan Keempat: Timpakan damage sebesar <b>121.2%</b> ATK + <b>6</b>.\nSerangan Kelima: Timpakan damage sebesar <b>112.5%</b> ATK + <b>6</b> dan pukul mundur target dalam jarak dekat."
     },
     {
       "name": "Charged Arrow",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tahan Serangan Biasa untuk mengisi tenaga. Menimbulkan DMG dasar sebesar <b>87.8%</b> ATK + <b>5</b>, dan <b>50%</b> lagi untuk setiap <b>1</b> detik pengisian, maks <b>3</b> detik. Menimbulkan Double DMG saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (Headshot tidak efektif pada Wanderer)."
     },
     {
       "name": "Arrow Rain",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Setelah Serangan Biasa, tahan tombol Serangan Biasa untuk melepaskan Arrow Rain, yang akan menimpakan damage hingga <b>287.2%</b> ATK + <b>15</b> DMG area kepada target."
     },
     {
       "name": "Air Volley",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimbulkan DMG sebesar <b>56.3%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>74%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>112.7%</b> ATK + <b>6</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>169.8%</b> ATK + <b>9</b>."
     },
     {
       "name": "Loaded Arrow",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tekan Serang setelah Dodge untuk mengaktifkan Loaded Arrow, yang akan <b>memukul mundur target</b> dan menimpakan damage sebesar <b>124%</b> ATK + <b>7</b>."
     },
     {
       "name": "Piercing Shot",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Lakukan jungkir balik dan tembakkan <b>3</b> Piercing Shot. Tembakan utama akan menimpakan damage sebesar <b>258.3%</b> ATK + <b>14</b>, dan dua tembakan lainnya akan menimpakan 60% damage. Selain itu, <b>dan memukul mundur target</b> dan memberikan efek Stun selama <b>5</b> detik jika mereka menabrak rintangan. CD: <b>12</b> detik."
     },
     {
       "name": "Explosive Barrage",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b>, dan menghasilkan Hailstorm di lokasi target setelah beralih ke senjata ini, dan akan menimpakan damage sebesar <b>570%</b> ATK + <b>30</b>. Badai punya peluang <b>10%</b> untuk menimpakan <b>efek Freeze</b> selama <b>2</b> detik. Mendapatkan Cold Front, dan meningkatkan kecepatan sebesar <b>45%</b> selama <b>7</b> detik."
     }
   ],

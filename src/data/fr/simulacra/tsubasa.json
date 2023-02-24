@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Dégainement",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>48.8%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>43.7%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>78.6%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>121.2%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>112.5%</b> de l'ATQ + <b>6</b> et repoussez la cible sur une courte distance."
     },
     {
       "name": "Flèche chargée",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Appuyez et maintenez Attaque normale pour charger. Vous infligez des dégâts de base équivalant à <b>87.8%</b> de l'ATQ + <b>5</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi, et renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
     },
     {
       "name": "Pluie de flèches",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Après une attaque normale, maintenez Attaque normale pour déclencher Pluie de flèches, qui inflige aux cibles jusqu'à <b>287.2%</b> de l'ATQ + <b>15</b> dégâts de zone."
     },
     {
       "name": "Salve aérienne",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>56.3%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>74%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>112.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>169.8%</b> de l'ATQ + <b>9</b>."
     },
     {
       "name": "Flèche piégée",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Appuyez sur Attaque après une esquive pour déclencher Flèche piégée, qui <b>repousse la cible</b> et lui inflige des dégâts équivalant à <b>124%</b> de l'ATQ + <b>7</b>."
     },
     {
       "name": "Tir perçant",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Fait un salto arrière et tire <b>3</b> tirs perforants. Le tir principal inflige des dégâts équivalant à <b>258.3%</b> de l'ATQ + <b>14</b>, les deux autres infligent 60% de dégâts. <b>Repoussent également les cibles</b>, et les étourdit pendant <b>5</b> secondes si elles heurtent un obstacle. Temps de recharge : <b>12</b> secondes."
     },
     {
       "name": "Barrage explosif",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et crée une tempête de grêle sur l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>. La tempête a <b>10%</b> de chance d'infliger un <b>effet de gel</b> durant <b>2</b> secondes. Gagnez Front froid, qui augmente votre vitesse de <b>45%</b> pendant <b>7</b> secondes."
     }
   ],

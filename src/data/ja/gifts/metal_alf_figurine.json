@@ -5,11 +5,5 @@
   "description": "モデルのフクちゃんの姿を忠実に再現するため、金属で製作された。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "SR",
   "value": 60,
-  "characters": [
-    "cobaltb",
-    "crow",
-    "shiro",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["cobaltb", "crow", "shiro", "tsubasa", "hilda"]
 }

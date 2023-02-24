@@ -5,10 +5,7 @@
   "description": "Originated in the Warren Snowfield, it reflects pure driven snow during winter. It's now been remade into a household decoration. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "claudia",
-    "bailing"
-  ],
+  "favorite": ["claudia", "bailing"],
   "characters": [
     "huma",
     "king",

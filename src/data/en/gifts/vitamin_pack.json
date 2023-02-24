@@ -5,12 +5,5 @@
   "description": "Wellness supplement. A necessity for those working too long or too indulged in playing games to have proper meals. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "claudia",
-    "frigg",
-    "huma",
-    "crow",
-    "echo",
-    "pepper"
-  ]
+  "characters": ["claudia", "frigg", "huma", "crow", "echo", "pepper"]
 }

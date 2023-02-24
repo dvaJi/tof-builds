@@ -20,61 +20,42 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, gunakan tombol Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan pertama menimbulkan <b>52.3%</b> ATK + <b>3</b> DMG.\nSerangan kedua menimbulkan <b>75.6%</b> ATK + <b>4</b> DMG.\nSerangan ketiga menimbulkan <b>94.5%</b> ATK + <b>5</b> DMG.\nSerangan keempat menimbulkan <b>142.8%</b> ATK + <b>8</b> DMG.\nSerangan kelima menimbulkan <b>137.8%</b> ATK + <b>7</b> DMG."
     },
     {
       "name": "Charged Shot",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga dan lepas untuk menembakkan peluru, menimpakan DMG sebesar <b>95.4%</b> ATK + <b>5</b>, plus sebuah ledakan 3 detik kemudian (atau jika target mati), menimpakan DMG sebesar <b>23.9%</b> ATK kepada musuh di sekitarnya. Setiap kali target menerima DMG sebelum ledakan (maks <b>4</b> kali), areanya menjadi dua kali lipat dan DMG meningkat."
     },
     {
       "name": "Jumping Blast",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara atau setelah melompat sekali, Melancarkan Jumping Blast.\nMelempar bom yang menimpakan DMG sebesar <b>90.8%</b> ATK + <b>5</b> kepada musuh dalam area lingkaran di depan, mendorong mereka ke belakang. Mengonsumsi <b>250</b> Stamina."
     },
     {
       "name": "Aerial Discharge",
-      "type": [
-        "Double Jump"
-      ],
+      "type": ["Double Jump"],
       "description": "Setelah Double-Jump, gunakan Serangan Discharge di udara.\nMenembakkan laser Omnium ke bawah. Laser itu kemudian menyapu ke depan, menimpakan DMG sebesar <b>33.8%</b> ATK + <b>2</b>."
     },
     {
       "name": "Heavy Bombardment",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Tahan tombol Serang saat melakukan Serangan Biasa untuk menembakkan Suppressing Fire di depan, menimpakan <b>102%</b> ATK + <b>5</b> DMG area kepada musuh."
     },
     {
       "name": "Close Quarters",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Gunakan Serangan Biasa tepat setelah menghindar untuk mengaktifkan Close Quarters.\nMenimpakan DMG sebesar <b>156.1%</b> ATK + <b>8</b> kepada target di area kerucut di depan."
     },
     {
       "name": "Barrage",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Menembak terus-menerus ke area kerucut di depan untuk menimpakan <b>666%</b> ATK + <b>35</b> DMG. CD: <b>60</b> detik."
     },
     {
       "name": "Explosive Rain",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, beralih ke Senjata ini dari Senjata lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melemparkan <b>3</b> granat ke depan, menimpakan <b>570%</b> ATK + <b>30</b> DMG area dan membuat target <b>terpental</b>."
     }
   ],

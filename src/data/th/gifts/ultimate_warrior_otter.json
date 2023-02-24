@@ -5,18 +5,6 @@
   "description": "ออกแบบมาสำหรับวันครบรอบ 40 ปีของสมรภูมิสุดยอดนักรบ: สมรภูมิสุดยอดนักรบ 40 พร้อมให้ใช้งานแล้ว ซื้อตอนนี้และรับสินค้าจำนวนจำกัดของ SSR ออตเตอร์อันทรงพลัง",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cocoritter",
-    "ene",
-    "nemesis",
-    "ruby"
-  ],
-  "characters": [
-    "hilda",
-    "samir",
-    "bailing",
-    "claudia",
-    "huma",
-    "pepper"
-  ]
+  "favorite": ["cocoritter", "ene", "nemesis", "ruby"],
+  "characters": ["hilda", "samir", "bailing", "claudia", "huma", "pepper"]
 }

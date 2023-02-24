@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Schneller Schnitt",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Während du auf dem Boden stehst, schwinge die Klinge, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>46.8%</b> des ANG + <b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>59.3%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>104.1%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>177.8%</b> des ANG + <b>9</b> und <b>schleudert</b> das Ziel in die Luft."
     },
     {
       "name": "Sprungschlag",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>27.9%</b> des ANG + <b>1</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>48.4%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>114.6%</b> des ANG + <b>6</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>139%</b> des ANG + <b>7</b>."
     },
     {
       "name": "Zyklon",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben und fügt ihm Schaden in Höhe von <b>47.8%</b> des ANG + <b>3</b> zu."
     },
     {
       "name": "Fallender Schwung",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> pro Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> und schlägst das Ziel zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Schleichattacke",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
     },
     {
       "name": "Sprungangriff",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Sprungangriff“ auszulösen.\nDer Wanderer schwingt die Klinge und fügt dem Ziel Schaden in Höhe von <b>37.9%</b> des ANG + <b>2</b> zu, lässt das Ziel <b>länger schweben</b> und springt dabei selbst in die Luft. Dann fügt er dem Ziel zusätzlich Schaden in Höhe von <b>56.8%</b> des ANG + <b>3</b> zu."
     },
     {
       "name": "Durchstreifen",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Der Anwender tanzt zwischen den Gegnern hindurch, schwingt seine Klinge und fügt bis zu <b>5</b> Zielen Schaden in Höhe von <b>418%</b> des ANG + <b>22</b> zu (aufeinanderfolgende Treffer auf dasselbe Ziel verursachen <b>20%</b> weniger Schaden). Am Ende von „Durchstreifen“ fügt der Anwender Gegnern in der Nähe mit einem Hieb nach vorn Schaden in Höhe von <b>264%</b> des ANG + <b>14</b> zu und lässt sie schweben. Macht immun gegen Kontrolleffekte und verringert den erlittenen Schaden um <b>50%</b>. Abklingzeit: <b>15</b> Sek."
     },
     {
       "name": "Unbändiger Ansturm",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Wanderer entfernt</b> und er stürmt zum Ziel, lässt es <b>länger schweben</b> und verursacht Schaden in Höhe von <b>523.3%</b> des ANG + <b>28</b>. Dabei wird ein Klingensturm hinterlassen, der Schaden in Höhe von <b>209.6%</b> des ANG + <b>11</b> verursacht. Gewährt außerdem <b>5</b> Sek. lang Immunität gegen Verwunden/Einfrieren/Verbrennen/Elektrisieren."
     }
   ],

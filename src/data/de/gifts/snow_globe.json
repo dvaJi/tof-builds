@@ -5,10 +5,7 @@
   "description": "Diese Schneekugel, die aus dem Warren-Schneefeld stammt, stellt Schneetreiben im Winter dar. Mittlerweile wurde sie zu einer Haushaltsdekoration umfunktioniert. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "claudia",
-    "bailing"
-  ],
+  "favorite": ["claudia", "bailing"],
   "characters": [
     "huma",
     "king",

@@ -5,18 +5,6 @@
   "description": "Didesain untuk perayaan ke-40 Ultimate Warrior Battlefield: Ultimate Warrior Battlefield 40 kini tersedia. Beli sekarang juga dan dapatkan merchandise SSR Otter terbatas.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cocoritter",
-    "ene",
-    "nemesis",
-    "ruby"
-  ],
-  "characters": [
-    "hilda",
-    "samir",
-    "bailing",
-    "claudia",
-    "huma",
-    "pepper"
-  ]
+  "favorite": ["cocoritter", "ene", "nemesis", "ruby"],
+  "characters": ["hilda", "samir", "bailing", "claudia", "huma", "pepper"]
 }

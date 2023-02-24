@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Normal Attack",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "While on the ground, swing the staff to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>54.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>40.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>89.7%</b> of ATK + <b>5</b>.\nFifth Attack: Deal damage equal to <b>158.4%</b> of ATK + <b>8</b>."
     },
     {
       "name": "Soaring Barrage",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>70.5%</b> of ATK + <b>4</b>.\nSecond Attack: Deal damage equal to <b>50.8%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>55.1%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>99.1%</b> of ATK + <b>5</b>.\nFifth Attack: Deal damage equal to <b>103.2%</b> of ATK + <b>5</b>."
     },
     {
       "name": "Moonfall",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tap and hold normal attack while airborne to trigger Moonfall.\nUpon landing, deal damage once every <b>0.2</b> seconds, for a total of <b>123.8%</b> of ATK + <b>7</b> damage."
     },
     {
       "name": "Focused Assault",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "After the third normal attack, hold the normal attack button to trigger branch attacks, consuming <b>300</b> points of endurance.\nFirst Attack: Pull in enemies in front of the user, <b>strongly suspending</b> them and deal damage equal to <b>34.9%</b> of ATK + <b>2</b> every <b>0.3</b> seconds (up to <b>4</b> times).\nSecond Attack: Deal damage equal to <b>40.4%</b> of ATK + <b>2</b> at the target location and to nearby enemies every <b>0.3</b> seconds."
     },
     {
       "name": "Surge",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Surge.\nEach energy pulse deals damage equal to <b>45.9%</b> of ATK + <b>2</b> to targets.\nGrant <b>75</b> weapon charge points upon use."
     },
     {
       "name": "Tesseract",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tap normal attack during the short period after dodging to trigger Evasive Blast.\nFire an energy orb forward, dealing damage equal to <b>66.4%</b> of ATK + <b>3</b> to targets in its path every <b>0.3</b> seconds (up to 5 times).\nGrant <b>75</b> weapon charge points upon use."
     },
     {
       "name": "Sanctuary",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Create a healing zone that moves with the Wanderer and heals nearby allies for <b>95%</b> of ATK + <b>5</b> once every <b>0.5</b> seconds for <b>6</b> seconds. <b>60</b>-second cooldown."
     },
     {
       "name": "Swift Deliverance",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b>, and the staff continues to remove debuffs from the Wanderer and allies, plus healing nearby Wanderers and allies for <b>118.8%</b> of ATK + <b>6</b> HP for <b>7</b> seconds."
     }
   ],

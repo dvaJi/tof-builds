@@ -5,9 +5,5 @@
   "description": "Un accessoire de musculation utilisé surtout pour le fitness, sauf dans certains cas extrêmes… Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "frigg",
-    "shiro"
-  ]
+  "characters": ["cobaltb", "frigg", "shiro"]
 }

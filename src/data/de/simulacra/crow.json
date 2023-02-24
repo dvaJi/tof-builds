@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Zwillingsklingen",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Wenn der Anwender auf dem Boden steht und die Zwillingsklingen schwingt, kann er bis zu 5-mal hintereinander angreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>60.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>73%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>90.9%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>96.8%</b> des ANG + <b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>202.2%</b> des ANG + <b>11</b> und stößt das Ziel eine kurze Strecke zurück."
     },
     {
       "name": "Himmelssturm",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 4-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>65.6%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>38.4%</b> des ANG + <b>2</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>92%</b> des ANG + <b>5</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>138%</b> des ANG + <b>7</b>."
     },
     {
       "name": "Schneller Stoß",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Schneller Stoß“ auszulösen.\nDies lässt das Ziel beim Treffer <b>länger schweben</b> und verursacht einen Gesamtschaden in Höhe von <b>116.8%</b> des ANG + <b>6</b>."
     },
     {
       "name": "Wirbelangriff",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Wirbelangriff“ auszulösen.\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von <b>42%</b> des ANG + <b>2</b>."
     },
     {
       "name": "Schleichattacke",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
     },
     {
       "name": "Messerwurf",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Messerwurf auszulösen.\nSchlitze ein Ziel <b>5</b> mal, wobei du jeweils Schaden in Höhe von <b>26.4%</b> des ANG + <b>1</b> verursachst. Gewährt Immunität gegen Kontrolleffekte während des Phasenwechsels."
     },
     {
       "name": "Bumerang-Klingen",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Feuert <b>6</b> „Bumerang-Klingen“ ab, die jeweils Schaden in Höhe von <b>52.8%</b> des ANG + <b>3</b> verursachen. Gewährt für bis zu <b>8</b> Sek. <b>Hyperkörper</b>. Der Effekt wird entfernt, wenn die Klingen zurückkommen. Abklingzeit: <b>45</b> Sek."
     },
     {
       "name": "Tornadoklingen",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe und diesem Angriff <b>alle Debuffs vom Anwender entfernt</b> und der Anwender sprintet zum Zielort. Dies verursacht Schaden in Höhe von <b>86.9%</b> des ANG + <b>5</b> und versetzt dem Ziel einen Stromschlag. (Nach <b>5</b> Sek. erleidet das Ziel Voltschaden, der <b>15%</b> des verursachten Schadens und bis zu <b>350%</b> des ANG des Wanderers entspricht. Dabei handelt es sich um einen abnormalen Zustand, der behoben werden kann). Erzeugt außerdem 3 Klingen, die um den Wanderer kreisen und bei Berührung Schaden in Höhe von <b>65.2%</b> des ANG + <b>3</b> verursachen."
     }
   ],

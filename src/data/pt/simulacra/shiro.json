@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Arremesso Veloz",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, branda o chakram para executar 5 ataques giratórios.\nPrimeiro ataque: Causa dano de <b>30.7%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>23.8%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>34%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>30.7%</b> do ATQ + <b>2</b>.\nQuinto ataque: Causa dano de <b>53.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância."
     },
     {
       "name": "Detonação Aérea",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para executar 3 ataques giratórios seguidos.\nPrimeiro ataque: Causa dano de <b>26.2%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>29.2%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>37.2%</b> do ATQ + <b>2</b>."
     },
     {
       "name": "Chakrans Repulsores",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Após o segundo ataque normal, segure o botão de ataque para ativar Chakrans Repulsores.\nDispara cinco chakrans penetrantes para frente; cada acerto causa <b>43.5%</b> do ATQ + <b>2</b> do dano, com uma leve repulsão."
     },
     {
       "name": "Rodopio Aéreo",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "No ar, segure o botão de ataque normal para usar Rodopio Aéreo.\nDesfere um golpe poderoso que causa dano de <b>191.5%</b> do ATQ + <b>10</b> ao alvo e a alvos próximos e os suspende."
     },
     {
       "name": "Ataque Furtivo",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>427.5%</b> do ATQ + <b>23</b>."
     },
     {
       "name": "Lua Minguante",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toque no botão de ataque normal logo após se esquivar para usar Lua Minguante.\nArremessa um chakram giratório para frente que causa dano de <b>132.9%</b> do ATQ + <b>7</b> ao alvo e inflige <b>atordoamento</b> durante <b>0,5</b> segundo. Então, o chakram se divide em <b>3</b> e continua percorrendo seu trajeto, causando dano de <b>24.2%</b> do ATQ + <b>1</b> a alvos no caminho. <span class=\"text-red\">Chakrans divididos ricocheteiam durante Extermínio</span>."
     },
     {
       "name": "Extermínio",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Cria uma Área de Chakrans com você no centro durante <b>8</b> segundos. Ao mesmo tempo, os inimigos são sugados e a velocidade deles é reduzida em <b>30%</b> durante <b>8</b> segundos. Lança <b>5</b> chakrans que ricocheteiam entre alvos e causam dano de <b>24.2%</b> do ATQ + <b>1</b> a alvos no caminho, até no máximo <b>5</b> vezes. <span class=\"text-red\">Os chakrans divididos de Lua Minguante também ricocheteiam 5 vezes.</span> Tempo de recarga: <b>45</b> seg."
     },
     {
       "name": "Espírito do Ar",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e arremessa o Chakram dos Mares contra um alvo ao trocar para esta arma. Alvos atingidos causam <b>atordoamento</b> em área durante <b>1</b> segundo, mais <b>1</b> ataque cada contra até <b>3</b> alvos por segundo (cada ataque tem <b>10%</b> de chance de <b>atordoar</b> o alvo durante <b>1,5</b> segundo), causando dano de <b>41.4%</b> do ATQ + <b>2</b> durante <b>10</b> segundos."
     }
   ],

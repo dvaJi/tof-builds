@@ -20,78 +20,52 @@
   "skills": [
     {
       "name": "Heavy Cleave",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, ayunkan Greatsword untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>72.9%</b> ATK + <b>4</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan DMG sebesar <b>60.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>105.4%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan DMG sebesar <b>156%</b> ATK + <b>8</b>, mengakibatkan <b>Launch Keras</b> kepada target, dan melontarkan mereka saat mendarat."
     },
     {
       "name": "Aerial Strike",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>106.5%</b> ATK + <b>6</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>87.5%</b> ATK + <b>5</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>156%</b> ATK + <b>8</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>140.5%</b> ATK + <b>7</b> dan mengakibatkan <b>Knockdown</b> yang akan membuat musuh terpental setelah mendarat."
     },
     {
       "name": "Rising Slash",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Rising Slash.\nSetelah kena, target akan mengalami <b>Suspend Keras</b> dan Airborne, menimpakan damage sebesar <b>64.3%</b>ATK + <b>3</b>."
     },
     {
       "name": "Moonset Slash",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Moonset Slash"
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
     },
     {
       "name": "Whirlwind",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Saat berdiri atau bergerak, tekan dan tahan Serangan Biasa untuk mengaktifkan Whirlwind, yang akan menimpakan damage sebesar <b>132.8%</b> ATK + <b>7</b> setiap <b>0,5</b> detik pada target. Memberikan Hitstun Immunity saat digunakan."
     },
     {
       "name": "Devastate",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tekan Serangan Biasa selama Waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\nTimpakan damage sebesar <b>65.9%</b> ATK + <b>3</b> setiap kena sasaran dan buat target <b>terpental</b>."
     },
     {
       "name": "Crescent Slash",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Crescent Slash.\nAyunkan Greatsword untuk melepaskan Sword Aura ke depan, masing-masing menimpakan damage sebesar <b>49.6%</b> ATK + <b>3</b>."
     },
     {
       "name": "Blizzard",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Ayunkan Greatsword untuk melepaskan Sword Aura ke depan, masing-masing menimpakan damage sebesar <b>141.7%</b> ATK + <b>7</b> dan meningkatkan damage yang ditimbulkan sebesar <b>5%</b> setiap kena. Kebal terhadap efek kontrol saat aktif. CD <b>45</b> detik."
     },
     {
       "name": "Frost Barrier",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, setelah beralih ke senjata ini, <b>menghilangkan semua debuff dari penggunanya</b> dan menghantam tanah untuk menghasilkan Barrier yang akan menimpakan damage sebesar <b>503.2%</b> ATK + <b>26</b> kepada musuh di sekitar dan mengakibatkan Suspend kepada target. Ini akan memperlambat mereka sebesar <b>50%</b> dan menghalangi agar mereka tidak menghindar atau melompat. Barrier bertahan <b>5</b> detik dan memblokir proyektil."
     }
   ],

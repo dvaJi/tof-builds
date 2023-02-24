@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Corte Rápido",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, blande la espada y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>46.8%</b> del ATQ + <b>2</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>59.3%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>104.1%</b> del ATQ + <b>5</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>177.8%</b> del ATQ + <b>9</b> y <b>lanza</b> al objetivo."
     },
     {
       "name": "Golpe de Salto",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>27.9%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>48.4%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>114.6%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>139%</b> del ATQ + <b>7</b>."
     },
     {
       "name": "Ciclón",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Mantén pulsado el botón de ataque normal después de los ataques normales para activar Ciclón.\nAl impactar, suspende al objetivo e inflige <b>47.8%</b> del ATQ + <b>3</b> a un solo objetivo."
     },
     {
       "name": "Borde de Inmersión",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Mantén pulsado el ataque normal mientras estás en el aire, o utiliza el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Borde de Inmersión.\nMientras caes, inflige daño igual a <b>10%</b> del ATQ + <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>76.4%</b> del ATQ + <b>4</b> y repele al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
       "name": "Ataque Sorpresa",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
       "name": "Ataque de Salto",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toca el ataque normal durante el corto periodo después de evadir para activar Ataque de Salto.\nEl nómada ataca con la cuchilla y causa daño equivalente al <b>37.9%</b> del ATQ + <b>2</b> al objetivo, lo que también causa una <b>suspensión fuerte</b> en el aire. Luego, inflige daño adicional equivalente al <b>56.8%</b> del ATQ + <b>3</b> al objetivo."
     },
     {
       "name": "Recorrer",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Baila a través de objetivos mientras atacas con la cuchilla, lo que inflige daño equivalente al <b>418%</b> del ATQ + <b>22</b> hasta a <b>5</b> objetivos (los impactos consecutivos en el mismo objetivo infligen <b>20%</b> de daño reducido). Después de que termina Recorrer, cortas el espacio al frente, lo que inflige daño de área equivalente al <b>264%</b> del ATQ + <b>14</b> a los objetivos circundantes y los suspende. Otorga inmunidad a los efectos de control mientras la habilidad está en uso, y reduce todo el daño recibido en <b>50%</b>. Enfriamiento: <b>15</b> segundos."
     },
     {
       "name": "Ráfaga Desenfrenada",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra <b>remueve todas las desventajas del nómada</b>. Luego, corres y haces una <b>suspensión fuerte</b> al objetivo, lo que inflige <b>523.3%</b> del ATQ + <b>28</b> de daño y causa una Filotormenta que inflige <b>209.6%</b> del ATQ + <b>11</b> de daño, además de otorgar inmunidad a grave/congelación/quemadura/electrificar por <b>5</b> segundos."
     }
   ],

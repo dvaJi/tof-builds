@@ -5,15 +5,6 @@
   "description": "Un juego completo de valiosos utensilios de cocina. Supuestamente, pertenecían a un chef neurótico que nunca dejaba que nadie tocara sus preciadas herramientas. Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cobaltb",
-    "shiro"
-  ],
-  "characters": [
-    "king",
-    "meryl",
-    "bailing",
-    "frigg",
-    "pepper"
-  ]
+  "favorite": ["cobaltb", "shiro"],
+  "characters": ["king", "meryl", "bailing", "frigg", "pepper"]
 }

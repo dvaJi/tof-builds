@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Quick Slash",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, ayunkan pedang untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan DMG sebesar <b>46.8%</b> ATK + <b>2</b> dan buat target terpental sedikit ke belakang.\nSerangan Kedua: Timpakan DMG sebesar <b>65.6%</b> ATK + <b>3</b> dan buat target terpental sedikit ke belakang.\nSerangan Ketiga: Timpakan DMG sebesar <b>59.3%</b> ATK + <b>3</b> dan buat target terpental sedikit ke belakang.\nSerangan Keempat: Timpakan DMG sebesar <b>104.1%</b> ATK + <b>5</b> dan buat target terpental sedikit ke belakang.\nSerangan Kelima: Timpakan DMG sebesar <b>177.8%</b> ATK + <b>9</b> dan buat target <b>terpental</b>."
     },
     {
       "name": "Jumping Strike",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimbulkan DMG sebesar <b>27.9%</b> ATK + <b>1</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>48.4%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>114.6%</b> ATK + <b>6</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>139%</b> ATK + <b>7</b>."
     },
     {
       "name": "Cyclone",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Tahan tombol Serangan Biasa setelah melakukan Serangan Biasa untuk mengaktifkan Cyclone.\nSaat menghantam target, mengakibatkan Suspend kepada target dan menimpakan DMG sebesar <b>47.8%</b> ATK + <b>3</b> ke satu target."
     },
     {
       "name": "Diving Edge",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tekan dan tahan Serangan Biasa saat di udara atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Diving Edge.\nSaat turun, menimpakan DMG sebesar <b>10%</b> ATK + <b>1</b> setiap kali menghantam target. Saat mendarat, menimpakan DMG sebesar <b>76.4%</b> ATK + <b>4</b> dan membuat target terpental ke belakang.\nMakin tinggi posisi saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
     },
     {
       "name": "Leap Attack",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Leap Attack.\nWanderer mengayunkan pedang dan menimpakan DMG sebesar <b>37.9%</b> ATK + <b>2</b> kepada target, mengakibatkan <b>Suspend Keras</b> kepada mereka sambil melesat ke udara. Lalu, menimpakan DMG tambahan sebesar <b>56.8%</b> ATK + <b>3</b> kepada target."
     },
     {
       "name": "Roam",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Menari melewati target sambil mengayunkan pedang, menimpakan DMG sebesar <b>418%</b> ATK + <b>22</b> kepada maks <b>5</b> target (serangan beruntun pada target yang sama akan menimbulkan DMG <b>20%</b> lebih kecil). Setelah Roam selesai, menebas ke depan, menimpakan DMG area sebesar <b>264%</b> ATK + <b>14</b> kepada target di sekitar dan mengakibatkan Suspend kepada mereka. Kebal terhadap efek kontrol selama Skill ini digunakan dan semua DMG yang diterima berkurang <b>50%</b>. CD: <b>15</b> detik."
     },
     {
       "name": "Unbridled Flurry",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, beralih ke senjata ini dari senjata lain <b>akan menghilangkan semua Debuff dari Wanderer</b>, yang kemudian menerjang dan mengakibatkan <b>Suspend Keras</b> kepada target sambil menimpakan <b>523.3%</b> ATK + <b>28</b> DMG, meninggalkan Bladestorm yang menimpakan <b>209.6%</b> ATK + <b>11</b> DMG, serta membuat diri sendiri kebal terhadap efek Grievous/Freeze/Burn/Electrify selama <b>5</b> detik."
     }
   ],

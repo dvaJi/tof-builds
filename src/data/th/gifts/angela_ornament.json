@@ -5,17 +5,6 @@
   "description": "หุ่นจำลองของหุ่นยนต์รับใช้ชื่อแองเจลา ที่เก็บรายละเอียดถึงขั้นที่มีปีกคู่สีชมพูน่ารักติดไว้ที่หลังด้วย มันถูกผลิตขึ้นในแอสเพอเรีย และซิมูลาครัมจากภูมิภาคอื่นก็ไม่น่าจะสนใจมันสักเท่าไหร่",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "claudia",
-    "huma",
-    "pepper",
-    "nemesis"
-  ],
-  "characters": [
-    "crow",
-    "bailing",
-    "echo",
-    "ene",
-    "frigg"
-  ]
+  "favorite": ["claudia", "huma", "pepper", "nemesis"],
+  "characters": ["crow", "bailing", "echo", "ene", "frigg"]
 }

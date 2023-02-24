@@ -5,9 +5,5 @@
   "description": "筋肉のパワー増強を目的としたトレーニング器具。一般的にはフィットネスの時に使用されるが、ごくまれに不思議な用途で使用される。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "frigg",
-    "shiro"
-  ]
+  "characters": ["cobaltb", "frigg", "shiro"]
 }

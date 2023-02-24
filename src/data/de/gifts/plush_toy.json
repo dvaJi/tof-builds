@@ -5,9 +5,7 @@
   "description": "Das Lieblingsplüschtier von Kindern. Erinnert einfach nur an schöne Sonnentage. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "tsubasa"
-  ],
+  "favorite": ["tsubasa"],
   "characters": [
     "cocoritter",
     "samir",

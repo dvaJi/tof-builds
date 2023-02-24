@@ -5,10 +5,7 @@
   "description": "Una nueva consola de alta gama, diseñada por un genio de las computadoras. El alto costo de producción llevó a su escasez de existencias. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "zero",
-    "echo"
-  ],
+  "favorite": ["zero", "echo"],
   "characters": [
     "cobaltb",
     "huma",

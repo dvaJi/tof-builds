@@ -20,23 +20,17 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Tippe auf den normalen Angriff, um den Zielmodus zu aktivieren. Halte den normalen Angriff gedrückt, um kontinuierlich bis zu <b>40</b> Schüsse abzufeuern. Jeder Schuss verursacht Schaden in Höhe von <b>11.4%</b> des ANG + <b>1</b>. Bei Kopfschüssen oder einem Treffer an der Schwachstelle des Gegners wird der Schaden verdoppelt und der Gegner zu Fall gebracht (Kopfschüsse sind gegen Wanderer unwirksam)."
     },
     {
       "name": "Geschützturm",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Aktiviere das Geschützmodus und feuere große Energiekugeln ab, die jeweils Schaden in Höhe von <b>213.3%</b> des ANG + <b>11</b> verursachen und das Ziel in die Luft schleudern. Du bist gegen Trefferlähmung und Kontrolleffekte immun, während du den Geschützturm aufstellst. Abklingzeit: <b>3.5</b> Sek."
     },
     {
       "name": "Arktischer Strahl",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und ein arktischer Strahl abgefeuert. Dies verursacht Schaden in Höhe von <b>329.2%</b> des ANG + <b>17</b> und bewirkt einen <b>3</b> Sek. anhaltenden <b>Einfrieren</b>-Effekt. Außerdem sinkt der Frostwiderstand des Ziels für <b>10</b> Sek. um <b>50%</b>."
     }
   ],

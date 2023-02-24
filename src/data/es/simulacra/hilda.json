@@ -20,23 +20,17 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Toca el ataque normal para entrar en el modo de puntería. Mantén el ataque normal para disparar continuamente, hasta <b>40</b> disparos. Cada disparo causa daño equivalente al <b>11.4%</b> del ATQ + <b>1</b>. Inflige daño doble al acertar a la cabeza o al punto débil del enemigo y derriba al objetivo (los disparos a la cabeza no son efectivos contra nómadas)."
     },
     {
       "name": "Torreta",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Activa el modo torreta y dispara grandes orbes de energía, cada uno de los cuales inflige daño igual a <b>213.3%</b> del ATQ + <b>11</b> y lanza al objetivo por el aire. Te vuelves inmune a la conmoción y a los efectos de control mientras preparas la torreta. Enfriamiento: <b>3.5</b> segundos."
     },
     {
       "name": "Rayo Ártico",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y dispara un Rayo ártico tras cambiar a esta arma, que inflige daño equivalente al <b>329.2%</b> del ATQ + <b>17</b> y causa un efecto de <b>congelación</b> por <b>3</b> segundos. También reduce la resistencia al hielo del objetivo un <b>50%</b> durante <b>10</b> segundos."
     }
   ],

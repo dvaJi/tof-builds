@@ -5,10 +5,7 @@
   "description": "Nouvelle console de jeu haut de gamme, conçue par un génie de l'informatique. Son coût de production élevé a provoqué sa pénurie. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "zero",
-    "echo"
-  ],
+  "favorite": ["zero", "echo"],
   "characters": [
     "cobaltb",
     "huma",

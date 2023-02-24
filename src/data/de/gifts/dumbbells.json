@@ -5,9 +5,5 @@
   "description": "Werden fürs Krafttraining, Fitnessübungen und in bestimmten Ausnahmesituationen auch für andere Zwecke verwendet … Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cobaltb",
-    "frigg",
-    "shiro"
-  ]
+  "characters": ["cobaltb", "frigg", "shiro"]
 }

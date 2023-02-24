@@ -5,10 +5,7 @@
   "description": "New high-end game console, designed by a computer genius. The high production cost has caused its shortage. Produced in Aesperia, and Simulacra from other regions may not be interested in it.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "zero",
-    "echo"
-  ],
+  "favorite": ["zero", "echo"],
   "characters": [
     "cobaltb",
     "huma",

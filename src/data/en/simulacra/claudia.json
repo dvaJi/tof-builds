@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Quick Slash",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "While on the ground, swing the blade to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.8%</b> of ATK + <b>2</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>59.3%</b> of ATK + <b>3</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>104.1%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>177.8%</b> of ATK + <b>9</b> and <b>launch</b> the target."
     },
     {
       "name": "Jumping Strike",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.9%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>48.4%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>114.6%</b> of ATK + <b>6</b>.\nFourth Attack: Deal damage equal to <b>139%</b> of ATK + <b>7</b>."
     },
     {
       "name": "Cyclone",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target and deal <b>47.8%</b> of ATK + <b>3</b> to a single target."
     },
     {
       "name": "Diving Edge",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\nWhile falling, deal damage equal to <b>10%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>76.4%</b> of ATK + <b>4</b> and knock the target back.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
     },
     {
       "name": "Leap Attack",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tap normal attack during the short period after dodging to trigger Leap Attack.\nThe Wanderer swings their blade and deals damage equal to <b>37.9%</b> of ATK + <b>2</b> to the target, <b>strongly suspending</b> them while going airborne. Then, deal additional damage equal to <b>56.8%</b> of ATK + <b>3</b> to the target."
     },
     {
       "name": "Roam",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Dance through targets while swinging the blade, dealing damage equal to <b>418%</b> of ATK + <b>22</b> to up to <b>5</b> targets (consecutive hits on the same target deal <b>20%</b> reduced damage). After Roam has concluded, slash the space in front, dealing area damage equal to <b>264%</b> of ATK + <b>14</b> to surrounding targets and suspend them. Immune to control effects while skill is in use, and all damage taken is reduced by <b>50%</b>. Cooldown: <b>15</b> seconds."
     },
     {
       "name": "Unbridled Flurry",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the Wanderer</b>, who then rushes to and <b>strongly suspends</b> a target, dealing <b>523.3%</b> of ATK + <b>28</b> damage, leaving behind a Bladestorm that deals <b>209.6%</b> of ATK + <b>11</b> damage, while gaining immunity to grievous/freeze/burn/electrify effects for <b>5</b> seconds."
     }
   ],

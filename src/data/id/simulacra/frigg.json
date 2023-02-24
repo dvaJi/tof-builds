@@ -20,55 +20,37 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, mulai 5 serangan berturut-turut dengan Balmung.\nSerangan Pertama: Menimbulkan damage sebesar <b>62.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebesar <b>46.2%</b> ATK + <b>2</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebesar <b>91.1%</b> ATK + <b>5</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebesar <b>55.8%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kelima: Menimbulkan damage sebesar <b>218.4%</b> ATK + <b>11</b> dan memukul jatuh target."
     },
     {
       "name": "Aerial Discharge",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>168.3%</b> ATK + <b>9</b>."
     },
     {
       "name": "Soaring Slash",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Saat menggunakan Serangan Biasa, tahan Serangan Biasa untuk mengaktifkan Soaring Slash.\nTerjang maju dengan sabetan horizontal, lalu buat target terkena Suspend saat Mid-Air sebelum Airborne dengannya. Menimbulkan maksimal <b>134.3%</b> ATK + <b>7</b> damage."
     },
     {
       "name": "Helix Slash",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tekan dan tahan Serangan Biasa saat Airborne, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimbulkan damage sebesar <b>19.8%</b> ATK + <b>1</b> tiap mengenai. Saat mendarat, menimbulkan damage sebesar <b>185.7%</b> ATK + <b>10</b> kepada target di sekitar."
     },
     {
       "name": "Multislash",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tekan Serangan Biasa selama durasi singkat Perfect Dodge Window untuk mengaktifkan Multislash.\nMelepaskan tebasan beruntun sejauh jarak tertentu di depan pemain, menimbulkan Total DMG sebesar <b>143.9%</b> ATK + <b>8</b>."
     },
     {
       "name": "Fimbulwinter",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Menebas area di sekitar Wanderer, dan menimbulkan DMG sebesar <b>577.5%</b> ATK + <b>30</b> sehingga mengakibatkan Launch dan Suspend kepada target dan memberikan DMG Immunity kepada pemain selama durasi skill ini. CD: <b>30</b> detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, Frost Domain yang luas akan terbentuk di sekitar Wanderer selama <b>25</b> detik. Dodge tidak akan berkurang saat kamu menghindar dengan Balmung dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain: Saat menggunakan Senjata Frost, Shatter akan meningkat sebesar <b>25%</b> dan Frost ATK akan meningkat sebesar <b>15%</b>."
     },
     {
       "name": "Frigid Fracture",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke depan, mengendalikan musuh di suatu area untuk sementara, kemudian melancarkan tebasan raksasa. Mengakibatkan Launch kepada target ke udara dan menimbulkan DMG sebesar <b>618.2%</b>ATK + <b>33</b>."
     }
   ],

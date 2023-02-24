@@ -1,6 +1,7 @@
 {
   "_id": 9,
   "id": "king",
+  "name": "KING",
   "weapon": "Scythe of the Crow",
   "weapon_id": "scythe_of_the_crow",
   "birthday": "November 3 (Scorpio)",
@@ -19,71 +20,47 @@
   "skills": [
     {
       "name": "Normal Attack",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "While on the ground, swing the scythe to launch 5 consecutive attacks.\nFirst Attack: Deal damage equal to <b>57.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>49.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>106.8%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>109.5%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>104.2%</b> of ATK + <b>5</b>, <b>strongly suspend</b> the target, and cause the Wanderer to go airborne."
     },
     {
       "name": "Rising Scythe",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "While airborne or after jumping once, attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>63.4%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>68.8%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>190.5%</b> of ATK + <b>10</b>.\nFourth Attack: Deal damage equal to <b>213.6%</b> of ATK + <b>11</b>.\nFifth Attack: Deal damage equal to <b>173.9%</b> of ATK + <b>9</b> and knock the target down. The higher the location is when triggered, the more damage is dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Asunder",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Asunder.\nWhile falling, deal damage equal to <b>12.5%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>71.9%</b> of ATK + <b>4</b> and deliver a <b>knockdown</b>.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Returning Chainblade",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Rapid Lunge.\nDeal up to <b>137.4%</b> of ATK + <b>7</b> damage and pull in nearby enemies."
     },
     {
       "name": "Sneak Attack",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
     },
     {
       "name": "Returning Chainblade",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Rapid Lunge.\nDeal up to <b>126.9%</b> of ATK + <b>7</b> damage and pull in nearby enemies."
     },
     {
       "name": "Domain of the Bat",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "When dodging, summon a domain of the bat that pulls the target into the center. Tap normal attack during the short period after dodging to swing the scythe, dealing up to <b>114.3%</b> of ATK + <b>6</b> damage to the target."
     },
     {
       "name": "Mortal Coil",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Swing the scythe, dealing damage equal to <b>499.9%</b> of ATK + <b>26</b>. Cooldown: <b>45</b> seconds."
     },
     {
       "name": "Flaming Scythe",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and create a Flaming Scythe upon switching to this weapon, dealing damage equal to <b>398.3%</b> of ATK + <b>21</b> and lasts for <b>10</b> seconds. Additionally, spawn Flaming Scythes Domain every <b>2</b> seconds. The scythes summon volcanic eruptions from the ground, which deal damage equal to <b>66%</b> of ATK + <b>3</b> to targets and suspend them."
     }
   ],

@@ -5,12 +5,5 @@
   "description": "¿Cuánto cuesta este collar? ¡Olvídate de especular y solo asegúrate de mantenerlo a salvo! Es producido en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cobaltb",
-    "king",
-    "meryl",
-    "shiro",
-    "bailing",
-    "pepper"
-  ]
+  "characters": ["cobaltb", "king", "meryl", "shiro", "bailing", "pepper"]
 }

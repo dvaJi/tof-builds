@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Fuego Doble",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, pulsa el ataque normal para lanzar hasta 5 ataques consecutivos con las pistolas dobles.\nPrimer ataque: inflige daño total equivalente al <b>47.1%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño total equivalente al <b>35.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño total equivalente al <b>119.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>113.1%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño total equivalente al <b>154%</b> del ATQ + <b>8</b> y <b>lanza</b> al objetivo."
     },
     {
       "name": "Lluvia de Balas",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "En el aire, usa el ataque normal para disparar de forma continua hacia el suelo e infligir daño equivalente al <b>50.6%</b> del ATQ + <b>3</b>. Cada impacto consume <b>150</b> de resistencia."
     },
     {
       "name": "Explosión de Energía",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Mantén el botón de ataque para disparar de forma continua, y cada golpe inflige un <b>23%</b> del ATQ + <b>1</b> de daño base."
     },
     {
       "name": "Patada Fantasma",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "En el aire, mantén pulsado el ataque normal para activar Patada Fantasma. Derriba al objetivo e inflige daño equivalente al <b>70.5%</b> del ATQ + <b>4</b>. Al aterrizar, inflige daño equivalente al <b>98.7%</b> del ATQ + <b>5</b> a los objetivos cercanos y los <b>lanza fuerte</b>."
     },
     {
       "name": "Patada Relámpago Ascendente",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Pulsa el ataque normal tras evadir para <b>suspensión fuerte</b> a los objetivos cercanos e infligir daño equivalente al <b>122.6%</b> del ATQ + <b>6</b>."
     },
     {
       "name": "Campo Eléctrico",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Lanza un escudo energético a la ubicación objetivo y refleja los rayos dentro de la barrera. Inflige daño equivalente al <b>269.8%</b> del ATQ + <b>14</b>, y el último golpe <b>suspensión fuerte</b> a los objetivos. Enfriamiento: <b>45</b> segundos."
     },
     {
       "name": "Dominio del Trueno",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea un Dominio del Trueno en la ubicación objetivo tras cambiar a esta arma, lo que <b>suspensión fuerte</b> a los objetivos dentro del área e inflige un <b>238.3%</b> del ATQ + <b>13</b> de daño total a lo largo de 3 ataques mientras elimina sus mejoras. El dominio dura <b>3.5</b> segundos e inflige daño equivalente al <b>42.4%</b> del ATQ + <b>2</b> a un objetivo cada <b>0.5</b> segundos."
     }
   ],

@@ -5,10 +5,7 @@
   "description": "Neue Hochleistungsspielkonsole, die von einem Computergenie entwickelt wurde. Die hohen Produktionskosten sind die Ursache für die Knappheit. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "zero",
-    "echo"
-  ],
+  "favorite": ["zero", "echo"],
   "characters": [
     "cobaltb",
     "huma",

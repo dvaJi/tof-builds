@@ -5,9 +5,5 @@
   "description": "Tak ada yang tahu kapan tren patung Crazy Dumont dimulai. Pokoknya, tahu-tahu semua orang menginginkannya. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "crow",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["crow", "tsubasa", "hilda"]
 }

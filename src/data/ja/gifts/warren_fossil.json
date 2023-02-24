@@ -5,17 +5,6 @@
   "description": "時の回廊に冷凍保存された古生物が、長い時を経てフォラント雪原で発見された。収集価値のある超レアなアイテム。アーシャ地区の特産品なので、他地区のアバターは興味がないかもしれない",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "king",
-    "meryl",
-    "shiro",
-    "bailing"
-  ],
-  "characters": [
-    "cobaltb",
-    "claudia",
-    "cocoritter",
-    "tsubasa",
-    "pepper"
-  ]
+  "favorite": ["king", "meryl", "shiro", "bailing"],
+  "characters": ["cobaltb", "claudia", "cocoritter", "tsubasa", "pepper"]
 }

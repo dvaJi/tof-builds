@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Schwinge die Schildaxt während du auf dem Boden stehst, um 4 Mal hintereinander anzugreifen.\nErster Angriff in Schildform: Verursacht Schaden in Höhe von <b>77.7%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>56.9%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>62.8%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>184%</b> des ANG + <b>10</b> und <b>schleudert das Ziel in die Luft</b>.\nErster Angriff in Axtform: Verursacht Schaden in Höhe von <b>135.2%</b> des ANG + <b>7</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>79.4%</b> des ANG + <b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>119.9%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>221.3%</b> des ANG + <b>12</b> und stößt das Ziel zurück."
     },
     {
       "name": "Luftschlag",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 4-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>75.9%</b> des ANG + <b>4</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>80.2%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>103%</b> des ANG + <b>5</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>118.6%</b> des ANG + <b>6</b>, löst einen <b>Knockdown</b> aus und schleudert das Ziel bei der Landung in die Höhe."
     },
     {
       "name": "Das Unerwartete",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Schildform: Tippe und halte den normalen Angriff während du auf dem Boden stehst, um die Schildform für <b>3</b> Sek. einzunehmen (Taste loslassen, um sie zu verlassen). Während dieser Zeit kann sich der Wanderer nicht bewegen, und der erlittene Schaden wird um <b>50%</b> verringert. Wenn du in Schildform die normale Angriffstaste loslässt, nachdem du Schaden erlitten hast oder nachdem du die Taste <b>3</b> Sek. lang gehalten hast, entfesselst du einen Feuersturm, der Schaden in Höhe von <b>167.3%</b> des ANG + <b>9</b> verursacht und dem Ziel eine <b>1</b> Sek. andauernden <b>Betäubung</b> zufügt.\nAxtform: Zerschmettert das Ziel, um Schaden in Höhe von <b>122.2%</b> des ANG + <b>6</b> zu verursachen und lässt es schweben."
     },
     {
       "name": "Tapferkeit",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um Variantenangriffe in der Luft auszulösen.\nSchildform: Fügt beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer zu. Fügt bei der Landung Schaden in Höhe von <b>89.2%</b> des ANG + <b>5</b> zu und stößt das Ziel in die Luft.\nAxtform: Fügt beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer zu. Bei der Landung verursachst du Schaden in Höhe von <b>128.3%</b> des ANG + <b>7</b> und lässt das Ziel schweben.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
     },
     {
       "name": "Ausbruch",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um „Ausweichangriff“ auszulösen.\nSchildform: Entfesselt einen flammenden Schild, der Zielen Schaden in Höhe von <b>55.8%</b> des ANG + <b>3</b> zufügt und sie zurückstößt. Außerdem wird eine Explosion ausgelöst, die Zielen Schaden in Höhe von <b>55.8%</b> + <b>3</b> zufügt, sie für <b>0,5</b> Sek. <b>betäubt</b> und ihre erhaltene Heilung für <b>10</b> Sek. um <b>30%</b> verringert.\nAxtform: Schwingt eine Axt, um Zielen Schaden in Höhe von <b>55.8%</b> des ANG + <b>3</b> zuzufügen und ihre erhaltene Heilung für <b>10</b> Sek. um <b>30%</b> zu verringern."
     },
     {
       "name": "Spaltung",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Schildumwandlung: Wechselt von der Schildform zur Axtform und schmettert auf den Boden. Dies verursacht Schaden in Höhe von <b>373.8%</b> des ANG + <b>20</b> und lässt das Ziel <b>länger schweben</b>. Erzeugt außerdem für <b>5</b> Sek. eine große Flammenzone, die das Ziel verbrennt und kontinuierlich Schaden in Höhe von <b>233.6%</b> des ANG + <b>12</b> verursacht.\nAxtumwandlung: Wechselt von der Axtform in die Schildform und schlägt Gegner zu Boden. Dies verursacht Schaden in Höhe von <b>309.5%</b> des ANG + <b>16</b> am Ziel und stößt es zurück. Außerdem kann das Ziel für <b>5</b> Sek. seine Waffe nicht wechseln.\nAbklingzeit: <b>25</b> Sek. Schildumwandlung und Axtumwandlung haben die gleiche Abklingzeit."
     },
     {
       "name": "Brodelnder Zorn",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und eine Flammenschockwelle auf das Ziel losgelassen. Dies verursacht Schaden in Höhe von <b>352%</b> des ANG + <b>19</b>. Verspottet Gegner <b>5</b> Sek. lang und gewährt währenddessen <b>15%</b> Schaden-Reduktion. Verstreut schildförmige Objekte je nach Anzahl der verspotteten Ziele. Die Objekte halten <b>20</b> Sek. an, schützen <b>10</b> Sek. lang vor <b>5%</b> Schaden-Reduktion (stapelbar) und stellen 1 Ausweichen wieder her."
     }
   ],

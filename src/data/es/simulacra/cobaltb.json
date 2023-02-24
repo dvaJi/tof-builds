@@ -20,61 +20,42 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, usa el ataque normal para lanzar 5 ataques seguidos.\nEl primer ataque inflige un <b>52.3%</b> de tu ATQ + <b>3</b> de daño.\nEl segundo ataque inflige un <b>75.6%</b> de tu ATQ + <b>4</b> de daño.\nEl tercer ataque inflige un <b>94.5%</b> de tu ATQ + <b>5</b> de daño.\nEl cuarto ataque inflige un <b>142.8%</b> de tu ATQ + <b>8</b> de daño.\nEl quinto ataque inflige un <b>137.8%</b> de tu ATQ + <b>7</b> de daño."
     },
     {
       "name": "Disparo Cargado",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Pulsa y mantén pulsado un ataque normal para cargar un ataque y suéltalo para disparar proyectiles, lo que inflige <b>95.4%</b> del ATQ + <b>5</b> de daño, más una explosión 3 segundos después (o si el objetivo muere), lo que inflige <b>23.9%</b> del ATQ como daño a los enemigos cercanos. Cada vez que se inflige daño al objetivo antes de la explosión (hasta <b>4</b> veces), duplica el área de efecto y aumenta el daño."
     },
     {
       "name": "Ráfaga de Salto",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Mientras estás en el aire o después de saltar una vez, lanza Ráfaga de Salto.\nLanza una bomba que inflige daño igual a <b>90.8%</b> del ATQ + <b>5</b> a los enemigos en un círculo por delante, lo que los hace retroceder una corta distancia. Consume <b>250</b> de resistencia."
     },
     {
       "name": "Descarga Aérea",
-      "type": [
-        "Double Jump"
-      ],
+      "type": ["Double Jump"],
       "description": "Después de un salto doble, lanza una Descarga Aérea en el aire.\nDispara un rayo de Omnio hacia abajo. Luego, el rayo barre hacia delante, lo que inflige daño igual a <b>33.8%</b> del ATQ + <b>2</b>."
     },
     {
       "name": "Bombardeo Pesado",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Mantén pulsado el botón de ataque durante un ataque normal para desatar Fuego Sofocante al frente, lo que inflige un <b>102%</b> de ATQ + <b>5</b> de daño de área."
     },
     {
       "name": "Corta Distancia",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Utiliza el ataque normal justo después de esquivar para activar Corta Distancia.\nInflige daño igual a <b>156.1%</b> de ATQ + <b>8</b> a los objetivos en un área de cono frontal."
     },
     {
       "name": "Ráfaga",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Disparas constantemente en un área de cono frontal para infligir <b>666%</b> de ATQ + <b>35</b> daño. Enfriamiento: <b>60</b> segundos."
     },
     {
       "name": "Lluvia Explosiva",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando <span class=\"text-red\">carga de arma</span> está llena o <span class=\"text-red\">Phantasia</span> se activa, al cambiar a esta arma desde otra <b>se eliminan todas las desventajas del portador</b> y desata <b>3</b> granadas hacia adelante, lo que inflige <b>570%</b> de ATQ + <b>30</b> de daño de área y causa un <b>lanzamiento</b>."
     }
   ],

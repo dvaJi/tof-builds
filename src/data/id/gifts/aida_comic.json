@@ -5,10 +5,7 @@
   "description": "Berisi kisah petualangan Tata di Aida dalam terbitan bulanan. Jumlahnya yang terbatas dan kepopulerannya membuat orang berebutan setiap kali komik ini dirilis. Dibuat di Aesperia, dan Simulacra dari daerah lain mungkin tidak tertarik dengannya.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "crow",
-    "echo"
-  ],
+  "favorite": ["crow", "echo"],
   "characters": [
     "cobaltb",
     "claudia",

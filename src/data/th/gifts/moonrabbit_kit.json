@@ -5,12 +5,5 @@
   "description": "จำเป็นต้องประกอบ รูปลักษณ์ของมันอ้างอิงมาจากกระต่ายแห่งจันทรา มันถูกผลิตขึ้นในแอสเพอเรีย และซิมูลาครัมจากภูมิภาคอื่นก็ไม่น่าจะสนใจมันสักเท่าไหร่",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

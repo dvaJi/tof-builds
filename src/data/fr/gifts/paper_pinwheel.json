@@ -5,12 +5,5 @@
   "description": "Un jouet tout simple et on ne peut plus ordinaire, mais qui continue toujours d'apporter joie et réconfort. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "N",
   "value": 15,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

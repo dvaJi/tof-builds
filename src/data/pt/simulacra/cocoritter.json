@@ -20,63 +20,42 @@
   "skills": [
     {
       "name": "Ataque Normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "No chão, branda o cajado para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>54.4%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>40.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>65.6%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>89.7%</b> do ATQ + <b>5</b>.\nQuinto ataque: Causa dano de <b>158.4%</b> do ATQ + <b>8</b>."
     },
     {
       "name": "Cajadada Elevada",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>70.5%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>50.8%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>55.1%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>99.1%</b> do ATQ + <b>5</b>.\nQuinto ataque: Causa dano de <b>103.2%</b> do ATQ + <b>5</b>."
     },
     {
       "name": "Lua Cadente",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\nAo aterrissar, causa dano uma vez a cada <b>0,2</b> segundo, totalizando dano de <b>123.8%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Ataque Determinado",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome <b>300</b> de vigor.\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os <b>suspende muito</b> e causa dano de <b>34.9%</b> do ATQ + <b>2</b> a cada <b>0,3</b> segundo (no máximo <b>4</b> vezes).\nSegundo ataque: A cada <b>0,3</b> segundo, causa dano de <b>40.4%</b> do ATQ + <b>2</b> ao alvo e a alvos próximos."
     },
     {
       "name": "Ondulação",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Ondulação.\nCada pulso energético causa dano de <b>45.9%</b> do ATQ + <b>2</b> a alvos.\nRecupera <b>75</b> pontos de carga de arma ao usar."
     },
     {
       "name": "Tesserato",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Toque no botão de ataque normal logo após se esquivar para usar Explosão Evasiva.\nDispara um orbe de energia para frente. A cada <b>0,3</b> segundo, causa dano de <b>66.4%</b> do ATQ + <b>3</b> a alvos no caminho (no máximo 5 vezes).\nRecupera <b>75</b> pontos de carga de arma ao usar."
     },
     {
       "name": "Santuário",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Cria uma área de cura que acompanha o Errante e cura aliados próximos em <b>95%</b> do ATQ + <b>5</b> a cada <b>0,5</b> segundo durante <b>6</b> segundos. Tempo de recarga: <b>60</b> seg."
     },
     {
       "name": "Livramento",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>118.8%</b> do ATQ + <b>6</b> durante <b>7</b> segundos."
     }
   ],

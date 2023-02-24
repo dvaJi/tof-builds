@@ -5,12 +5,5 @@
   "description": "หมอนหนุนรูปแมว ถือแล้วจะรู้สึกผ่อนคลายมากและได้รับการเยียวยา มันถูกผลิตขึ้นในแอสเพอเรีย และซิมูลาครัมจากภูมิภาคอื่นก็ไม่น่าจะสนใจมันสักเท่าไหร่",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "cocoritter",
-    "samir",
-    "ene",
-    "hilda",
-    "nemesis",
-    "ruby"
-  ]
+  "characters": ["cocoritter", "samir", "ene", "hilda", "nemesis", "ruby"]
 }

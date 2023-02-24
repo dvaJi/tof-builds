@@ -5,10 +5,7 @@
   "description": "Erscheint einmal im Monat und handelt von Tatas Abenteuern auf dem Planeten Aida. Die geringe Auflage und ihre Beliebtheit haben dazu geführt, dass man sich um jede Ausgabe des Comics schlägt. Hergestellt in Aesperia. Simulacra aus anderen Regionen könnten daran nicht interessiert sein.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "crow",
-    "echo"
-  ],
+  "favorite": ["crow", "echo"],
   "characters": [
     "cobaltb",
     "claudia",

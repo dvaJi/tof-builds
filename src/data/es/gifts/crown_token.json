@@ -5,10 +5,7 @@
   "description": "Una moneda conmemorativa emitida por Corona, con un retrato del dueño de la mina en el frente y una K estilizada en el reverso. Colecciona siete de estas bellezas y recibe un día de vacaciones con paga... o algo así, quizás. Es producida en Aesperia, y a los Simulacrum de otras regiones podría no interesarles.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cobaltb",
-    "king"
-  ],
+  "favorite": ["cobaltb", "king"],
   "characters": [
     "crow",
     "meryl",

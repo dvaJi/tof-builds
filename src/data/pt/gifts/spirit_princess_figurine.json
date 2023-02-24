@@ -5,9 +5,5 @@
   "description": "Miniatura baseada na Princesa Espiritual, a serva inteligente. Produzido em Aesperia. Simulacros de outras regiões talvez não se interessem.",
   "rarity": "R",
   "value": 30,
-  "characters": [
-    "crow",
-    "tsubasa",
-    "hilda"
-  ]
+  "characters": ["crow", "tsubasa", "hilda"]
 }

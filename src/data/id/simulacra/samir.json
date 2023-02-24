@@ -20,54 +20,37 @@
   "skills": [
     {
       "name": "Dual Fire",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Saat di darat, tekan Serangan Biasa untuk menyerang 5 kali berturut-turut dengan Dual Pistols.\nSerangan Pertama: Menimbulkan Total DMG sebesar <b>47.1%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan Total DMG sebesar <b>35.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimbulkan Total DMG sebesar <b>119.7%</b> ATK + <b>6</b>.\nSerangan Keempat: Menimbulkan Total DMG sebesar <b>113.1%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimbulkan Total DMG sebesar <b>154%</b> ATK + <b>8</b> dan mengakibatkan <b>Launch</b> kepada target."
     },
     {
       "name": "Bullet Rain",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Saat di udara, tekan Serangan Biasa untuk melancarkan tembakan beruntun ke tanah, menimbulkan DMG sebesar <b>50.6%</b> ATK + <b>3</b> DMG. Setiap serangan yang mengenai target menghabiskan <b>150</b> Stamina."
     },
     {
       "name": "Energy Burst",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tahan tombol Serang untuk terus menembak secara konstan, setiap serangan yang kena akan menimbulkan <b>23%</b> ATK + <b>1</b> Base Damage."
     },
     {
       "name": "Phantom Kick",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Saat di udara, tahan Serangan Biasa untuk melancarkan Phantom Kick. Memukul jatuh target sembari menimbulkan DMG sebesar <b>70.5%</b> ATK + <b>4</b>. Saat mendarat, menimbulkan DMG sebesar <b>98.7%</b> ATK + <b>5</b> dan mengakibatkan <b>Launch Keras</b> kepada target di sekitar."
     },
     {
       "name": "Rising Lightning Kick",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Tekan Serangan Biasa setelah Dodge untuk mengakibatkan <b>Suspend Keras</b> kepada target dan menimpakan damage sebesar <b>122.6%</b> ATK + <b>6</b>."
     },
     {
       "name": "Electro Field",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Menembakkan Perisai Energi ke lokasi target, memantulkan sinar dalam Barrier. Timpakan damage sebesar <b>269.8%</b> ATK + <b>14</b>, dan serangan terakhir akan mengakibatkan <b>Suspend Keras</b> kepada target. CD: <b>45</b> detik."
     },
     {
       "name": "Domain of Thunder",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghapus semua debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target setelah beralih ke senjata ini, mengakibatkan <b>Suspend Keras</b> kepada target dalam area dan menimbulkan total <b>238.3%</b> ATK + <b>13</b> damage setelah 3 kali menyerang target sambil menangkal buff mereka. Domain bertahan selama <b>3,5</b> detik dan menimpakan damage sebesar <b>42.4%</b> ATK + <b>2</b> kepada target setiap <b>0,5</b> detik."
     }
   ],

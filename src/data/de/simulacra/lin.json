@@ -20,69 +20,47 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Benutze „Schattenweben“, während du auf dem Boden stehst, um 5 Angriffe hintereinander zu entfesseln.\nErster Angriff: Verursacht Schaden in Höhe von <b>59.9%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>57.1%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>49.5%</b> des ANG + <b>3</b>. \nVierter Angriff: Verursacht Schaden in Höhe von <b>114.2%</b> des ANG + <b>6</b> und lässt Ziel in der Luft schweben.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>152.2%</b> des ANG + <b>8</b>."
     },
     {
       "name": "Luftsprengung",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "Setze in der Luft einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>30.6%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>55.6%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>48.2%</b> des ANG + <b>3</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>111.2%</b> des ANG + <b>6</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>148.3%</b> des ANG + <b>8</b>."
     },
     {
       "name": "Verstreuter Boden",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Halte nach dem zweiten normalen Angriff am Boden oder in der Luft den normalen Angriff, um „Verstreute Erde“ auszulösen.\nGreift die Zielposition an und verursacht Schaden in Höhe von <b>83.2%</b> des ANG + <b>4</b>. Außerdem wird das Ziel zu Boden gestoßen.\nPassiv: Nachdem „Verstreute Erde“ den Boden bedeckt hat, löst ein wiederholtes schnelles Tippen auf den normalen Angriff sofort „Kurze Blüte“ aus (der 3. Stapel)."
     },
     {
       "name": "Kurze Blüte",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Halte den normalen Angriff, um „Kurze Blüte“ auszulösen. Ist während des Aufladens bis zu 3-mal stapelbar und gewährt währenddessen Hyperkörper und Kontrollimmunität.\nErster Stapel: Verursacht Schaden in Höhe von <b>73.9%</b> des ANG + <b>4</b>.\nZweiter Stapel: Verursacht Schaden in Höhe von <b>146.8%</b> des ANG + <b>246.4</b>.\nDritter Stapel: Verursacht Schaden in Höhe von <b>13%</b> des ANG + <b>{5}</b>."
     },
     {
       "name": "Fallschatten",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Halte den normalen Angriff in der Luft, um „Fallschatten“ auszulösen.\nStampfe aus dem Himmel fallend auf den Boden, um Schaden in Höhe von <b>160%</b> des ANG + <b>8</b> zu verursachen und das Ziel zu Fall zu bringen."
     },
     {
       "name": "Ausweichen",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Weiche kurz bevor du getroffen wirst aus, um „Trugbild“ auszulösen. Dies verlangsamt die Gegner im Gebiet und gewährt für <b>0,5</b> Sek. Immunität gegen Lähmungsangriff."
     },
     {
       "name": "Blattgrün",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Führe einen Rückwärtssalto aus und entfessle dabei „Blattgrün“ auf das Ziel. Bei einem Treffer wird Schaden in Höhe von <b>70%</b> des ANG + <b>4</b> verursacht und es werden <b>1–3</b> Epiphyllen erzeugt, die ein „Grünes Feld“ bilden, das <b>5</b> Sek. lang bestehen bleibt. Wenn Gegner innerhalb des Felds den Wanderer anvisieren, wird ihre Bewegungsgeschwindigkeit um <b>50%</b> verringert.\nPassiv: Kann sowohl am Boden als auch in der Luft entfesselt werden.\nPassiv: Besteht ein Kontrolleffekt, wird dieser sofort beendet und „Blattgrün“ wird ausgelöst, ohne einen Ausweichversuch zu verbrauchen. Abklingzeit: <b>20</b> Sek."
     },
     {
       "name": "Aufgeregter Flow: Rauschender Strom",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Erschaffe um dich herum für <b>15</b> Sek. ein „Reich des Mondlichts“. Der von dir verursachte Schaden im Reich ist um <b>10%</b> erhöht, die Sprungfähigkeit ist um <b>20%</b> erhöht und der Ausdauerverbrauch ist um <b>50%</b> verringert. Abklingzeit: <b>30</b> Sek.\nTritt in den speziellen Zustand „Luftblüten“ ein, wenn „Schattenweben“ im Reich eingesetzt wird. Deine Fallgeschwindigkeit ist stark reduziert und du kannst mehrere Doppelsprünge durchführen. Benutze in diesem Zustand die Richtungssteuerung und die Sprungtaste, während du dich in der Luft befindest, um „Durchstreifen“ und einen Angriff auf das Ziel auszuführen. Bei einem Treffer wird Schaden in Höhe von <b>66%</b> des ANG + <b>3</b> verursacht und es werden zufällig <b>1–3</b> Epiphyllen generiert.\n\nPassiv: Im „Reich des Mondlichts“ wird alle <b>0,8</b> Sek. <b>1</b> Epiphyllum in der Nähe von 1 Ziel generiert.\nPassiv: Wenn du „Schattenweben“ im „Reich des Mondlichts“ einsetzt, werden Gegnern, deren LP niedriger als <b>20%</b> sind, zusätzliche <b>50%</b> Schaden zugefügt.\nPassiv: Wenn du „Schattenweben“ im „Reich des Mondlichts“ einsetzt, wird erlittener Schaden erkannt und du teleportierst dich weg von der Position eines Ziels. Abklingzeit: <b>10</b> Sek.\n\nPassiv: Waffenmeister\nFlamme: Wenn „Schattenweben“ mit 2 Flammenwaffen kombiniert wird, wird „Reich des Mondlichts“ zu „Flamme: Reich des Mondlichts“, welches für zusätzliche <b>4</b> Sek. anhält, wenn Ziele verbrannt werden. Ziele mit einem Schild erleiden zusätzliche <b>15%</b> Flammenschaden.\n\nVolt: Wenn „Schattenweben“ mit 2 Voltwaffen kombiniert wird, wird „Reich des Mondlichts“ zu „Volt: Reich des Mondlichts“, welches eine Chance von <b>65%</b> bietet, beim Ausweichen keinen Ausweichversuch zu verbrauchen. Außerdem verfügen Ausweichangriffe über einen Schadensbonus von <b>35%</b>. Wenn Voltresonanz aktiviert ist, gibt es einen Bonus auf Voltschaden in Höhe von zusätzlichen <b>30%</b>.\n\nFrost: Wenn „Schattenweben“ mit 2 Frostwaffen kombiniert wird, wird „Reich des Mondlichts“ zu „Frost: Reich des Mondlichts“. Ziele innerhalb des Reichs leiden für <b>15</b> Sek. an „Erfrierung“, nachdem sie <b>10</b>-mal Frostschaden erlitten haben, und erleiden während dieses Zeitraums zusätzlich <b>22%</b> Schaden. Die Anzahl der Angriffe ist nicht stapelbar, wenn das Ziel bereits im Zustand „Erfrierung“ ist.\n\nPhysisch: Wenn „Schattenweben“ mit 2 physischen Waffen kombiniert wird, wird „Reich des Mondlichts“ zu „Physisch: Reich des Mondlichts“. Wenn du einen LP-Schild besitzt, fügst du Zielen innerhalb der Reichweite jede Sekunde Schaden in Höhe von <b>50%</b> ANG + <b>3</b> zu.\n\nBalance: Wenn „Schattenweben“ mit zwei unterschiedlichen Elementarwaffen (darunter Flamme, Volt, Frost, Physisch) kombiniert wird, wird der ANG des Wanderers im Reich um <b>15%</b> erhöht und so gewertet, als würden Flammen-, Volt-, Frost- und physische Resonanz ohne Resonanzeffekte aktiviert werden."
     },
     {
       "name": "Schwerkraftwoge",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Waffenwechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und „Schwerkraftwoge“ mit einer stärkeren Absorptionskraft losgelassen. Dies verursacht Schaden in Höhe von <b>368.5%</b> des ANG + <b>19</b>. Dann explodiert sie und erschafft nach <b>5</b> Sek. eine weitreichende Ausbreitungswelle, die Schaden in Höhe von <b>184.3%</b> + <b>10</b> verursacht. Die Schadensimmunität hält <b>2,6</b> Sek. lang an, wenn die Fähigkeit aktiv ist (nicht in der Apex-Liga verfügbar)."
     }
   ],

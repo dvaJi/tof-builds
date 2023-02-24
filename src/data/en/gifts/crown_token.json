@@ -5,10 +5,7 @@
   "description": "Limited commemorative coins minted by Crown with a portrait of the mines' owner on the front and a stylized \"K\" on the back. Collect seven of these babies and get a day off with pay—maybe. Produced in Aesperia, and Simulacra from other regions may not be interested in them.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "cobaltb",
-    "king"
-  ],
+  "favorite": ["cobaltb", "king"],
   "characters": [
     "crow",
     "meryl",

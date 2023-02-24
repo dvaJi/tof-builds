@@ -20,71 +20,47 @@
   "skills": [
     {
       "name": "Arremetida",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "En el suelo, blande la lanza larga para atacar 5 veces consecutivas.\nPrimer ataque: inflige daño equivalente al <b>24.7%</b> del ATQ + <b>1</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>22.6%</b> del ATQ + <b>1</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>47.2%</b> del ATQ + <b>2</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>65.2%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>114.95%</b> del ATQ + <b>6</b> y hacer retroceder mucho al objetivo."
     },
     {
       "name": "Golpe de Salto",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>27.4%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>23.2%</b> del ATQ + <b>1</b>.\nTercer ataque: inflige daño equivalente al <b>45.8%</b> del ATQ + <b>2</b>.\nCuarto ataque: inflige daño equivalente al <b>110%</b> del ATQ + <b>6</b>."
     },
     {
       "name": "Choque Propulsor",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Choque Propulsor.\nEn el descenso, cada impacto inflige daño equivalente al <b>8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>48.5%</b> del ATQ + <b>3</b> y derriba al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
     },
     {
       "name": "Ráfaga de Lanza",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\nAl impactar, <b>suspende fuerte</b> al objetivo, lo que inflige daño igual a <b>49.2%</b> del ATQ + <b>3</b>. Pulsa de nuevo para continuar atacando al objetivo en el aire, lo que inflige hasta <b>98%</b> del ATQ + <b>5</b> de daño a un solo objetivo."
     },
     {
       "name": "Ataque Sorpresa",
-      "type": [
-        "Croch",
-        "Attack"
-      ],
+      "type": ["Croch", "Attack"],
       "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
     },
     {
       "name": "Patada Voladora",
-      "type": [
-        "Perfect Dodge",
-        "Attack"
-      ],
+      "type": ["Perfect Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante la oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Patada Voladora.\nAl golpear al objetivo, inflige daño equivalente al <b>72%</b> del ATQ + <b>4</b>, lo hace retroceder mucho y <b>aturde</b> a los enemigos por <b>1</b> segundo o <b>0.5</b> segundos para nómadas."
     },
     {
       "name": "Embestida Aplastante",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Pulsa el ataque normal durante el breve periodo después de evadir para activar Embestida Aplastante.\nAzota la lanza larga contra el suelo, lo que inflige daño igual a <b>52.8%</b> del ATQ + <b>3</b> y <b>suspende fuerte</b> a los objetivos."
     },
     {
       "name": "Cazalunas",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "<b>Suspensión fuerte</b> a los objetivos y quedas en el aire, lo que inflige daño equivalente al <b>127.5%</b> del ATQ + <b>7</b>. Enfriamiento: <b>25</b> segundos."
     },
     {
       "name": "Trueno",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando la <span class=\"text-red\">carga de arma</span> está llena o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma desde otra, <b>se eliminan todas las desventajas del portador</b>. Este salta en el aire y arroja una Lanza de Trueno que causa una explosión en un área, lo que inflige <b>296.7%</b> del ATQ más <b>16</b> de daño y <b>paraliza contundentemente</b> a los objetivos por <b>1</b> segundo."
     }
   ],

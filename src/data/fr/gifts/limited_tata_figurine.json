@@ -5,13 +5,6 @@
   "description": "Figurine à collectionner en édition limitée, souvenir d'une bande dessinée d'Aida. Produit en Aesperia. Les simulacres d'autres régions pourraient ne pas trouver cet objet intéressant.",
   "rarity": "SR",
   "value": 60,
-  "favorite": [
-    "crow",
-    "hilda"
-  ],
-  "characters": [
-    "cobaltb",
-    "king",
-    "echo"
-  ]
+  "favorite": ["crow", "hilda"],
+  "characters": ["cobaltb", "king", "echo"]
 }

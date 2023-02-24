@@ -20,69 +20,47 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": [
-        "Attack"
-      ],
+      "type": ["Attack"],
       "description": "Mientras estás en el suelo, utiliza Tejesombras para lanzar 5 ataques consecutivos.\nPrimer ataque: Inflige daño igual a <b>59.9%</b> del ATQ + <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>57.1%</b> del ATQ + <b>3</b>.\nTercer ataque: Inflige daño igual a <b>49.5%</b> del ATQ + <b>3</b>. \nCuarto ataque: Inflige daño igual a <b>114.2%</b> del ATQ + <b>6</b> y suspende al objetivo.\nQuinto ataque: Inflige <b>152.2%</b> del ATQ + <b>8</b> como daño."
     },
     {
       "name": "Descarga Aérea",
-      "type": [
-        "Jump",
-        "Attack"
-      ],
+      "type": ["Jump", "Attack"],
       "description": "En el aire, usa el ataque normal para atacar 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>30.6%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>55.6%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>48.2%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>111.2%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño equivalente al <b>148.3%</b> del ATQ + <b>8</b>."
     },
     {
       "name": "Suelo Disperso",
-      "type": [
-        "Hold: Attack"
-      ],
+      "type": ["Hold: Attack"],
       "description": "Tras el segundo ataque normal en el suelo o en el aire, mantén el ataque normal para activar Suelo Disperso.\nAtaca la posición del objetivo, lo que inflige daño igual a <b>83.2%</b> del ATQ + <b>4</b> y derriba al objetivo.\nPasiva: Después de desatar Suelo Disperso en el suelo, al pulsar rápidamente el ataque normal, se desatará inmediatamente Floración Breve (la 3.a acumulación)."
     },
     {
       "name": "Floración Breve",
-      "type": [
-        "Attack",
-        "Hold: Attack"
-      ],
+      "type": ["Attack", "Hold: Attack"],
       "description": "Mantén pulsado el ataque normal para desatar Floración Breve. Se puede acumular hasta 3 veces, lo que otorga Hipercuerpo e inmunidad al control durante la carga.\nPrimera acumulación: Inflige daño igual a un <b>73.9%</b> del ATQ + <b>4</b>.\nSegunda acumulación: Inflige daño igual a un <b>146.8%</b> del ATQ + <b>246.4</b>.\nTercera acumulación: Inflige un <b>13%</b> del ATQ + <b>{5}</b> como daño."
     },
     {
       "name": "Sombra Caída",
-      "type": [
-        "Jump",
-        "Hold: Attack"
-      ],
+      "type": ["Jump", "Hold: Attack"],
       "description": "Mantén pulsado el ataque normal en el aire para activar Sombra Caída.\nCae en picada desde los cielos, lo que inflige daño igual a <b>160%</b> del ATQ + <b>8</b> y derriba al objetivo."
     },
     {
       "name": "Evasión",
-      "type": [
-        "Dodge"
-      ],
+      "type": ["Dodge"],
       "description": "Evade justo antes de que te impacten para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción por <b>0.5</b> segundos mientras evades."
     },
     {
       "name": "Verde Hoja",
-      "type": [
-        "Dodge",
-        "Attack"
-      ],
+      "type": ["Dodge", "Attack"],
       "description": "Desata Verde Hoja sobre el objetivo mientras realiza una voltereta, lo que inflige daño igual a <b>70%</b> del ATQ + <b>4</b> y genera de <b>1 a 3</b> epífilos al impacto; también forma un Campo Verde que dura <b>5</b> segundos. Cuando los enemigos del Campo Verde bloquean al nómada, su velocidad de movimiento se reduce en un <b>50%</b>.\nPasiva: Se puede soltar en el suelo o en el aire.\nPasiva: Rompe inmediatamente los efectos de control y usa automáticamente Verde Hoja sin consumir ningún intento de evasión. El enfriamiento de la habilidad dura <b>20</b> segundos."
     },
     {
       "name": "Flujo Emocionado: Flujo Intermitente",
-      "type": [
-        "Skill"
-      ],
+      "type": ["Skill"],
       "description": "Crea un Reino de Luz Lunar a tu alrededor por <b>15</b> segundos. Tu daño infligido en el reino aumenta un <b>10%</b>, la capacidad de salto aumenta un <b>20%</b>, y el consumo de resistencia se reduce un <b>50%</b>. Enfriamiento: <b>30</b> segundos.\nEntra en el estado especial Estallido Aéreo al usar Tejesombras en el reino. Tu velocidad de caída se reduce considerablemente y puedes realizar múltiples saltos dobles. En este estado, si utilizas los controles de dirección y el botón de salto mientras estás en el aire, realizarás un Recorrido y lanzarás un ataque al objetivo. Al impacto, inflige daño igual a <b>66%</b> del ATQ + <b>3</b> y genera aleatoriamente de <b>1 a 3</b> epífilos.\n\nPasiva: En el Reino de Luz Lunar, se generará <b>1</b> epífilo cerca de 1 objetivo cada <b>0.8</b> segundos. \nPasiva: Cuando usas Tejesombras en el Reino de Luz Lunar, inflige <b>50%</b> de daño adicional a los enemigos con menos de <b>20%</b> de PS.\nPasiva: Cuando utilices Tejesombras en el Reino de Luz Lunar, se detectará el daño entrante y te teletransporta lejos de la ubicación del objetivo. Enfriamiento: <b>10</b> segundos.\n\nPasiva: Maestre de Armas\nFuego: Cuando Tejesombras se empareja con 2 armas de fuego, el Reino de Luz Lunar se convierte en Fuego: Reino de Luz Lunar, el cual dura <b>4</b> segundos adicionales al quemar objetivos. Los objetivos con escudo reciben <b>15%</b> de daño de fuego adicional. \n\nEléctrico: Cuando Tejesombras se empareja con 2 armas eléctricas, Reino de Luz Lunar se convierte en Eléctrico: Reino de Luz Lunar, con un <b>65%</b> probabilidad de no consumir un intento de evasión al evadir, y un impulso del <b>35%</b> al daño de los ataques de evasión. Cuando se activa Resonancia Eléctrica, aumenta el daño eléctrico un <b>30%</b>.\n \nHielo: Cuando Tejesombras se empareja con 2 armas de hielo, Reino de Luz Lunar se convierte en Escarcha: Reino de Luz Lunar. Los objetivos del reino sufrirán Congelamiento por <b>15</b> segundos después de recibir daño de hielo <b>10</b> veces, y recibirán un <b>22%</b> daño adicional de los ataques de hielo durante este periodo. El número de ataques no se acumula cuando un objetivo ya está afligido de congelación. \n\nFísico: Cuando Tejesombras se empareja con 2 armas físicas, Reino de Luz Lunar se convierte en Físico: Reino de Luz Lunar. Cuando tienes un escudo de PS, inflige daño igual a <b>50%</b> del ATQ + <b>3</b> a los objetivos dentro del alcance cada segundo.\n\nEquilibrio: Cuando Tejesombras se empareja con dos armas elementales diferentes (entre armas de fuego, eléctricas, de escarcha y físicas), el ATQ del nómada aumenta un <b>15%</b> en el reino, y se considera que activa la resonancia de fuego, eléctrica, hielo y física sin efectos de resonancia."
     },
     {
       "name": "Tejido de Gravedad",
-      "type": [
-        "Discharge"
-      ],
+      "type": ["Discharge"],
       "description": "Cuando <span class=\"text-red\">carga de arma</span> está llena o <span class=\"text-red\">Phantasia</span> se activa, al cambiar a esta arma desde otra <b>se eliminan todas las desventajas del portador</b> y desata Tejido de Gravedad con una mayor fuerza de absorción, lo que inflige daño igual a un <b>368.5%</b> del ATQ + <b>19</b>. A continuación, explota y crea una onda de difusión a distancia tras <b>5</b> segundos, lo que inflige daño igual a un <b>184.3%</b> + <b>10</b>. La inmunidad al daño dura <b>2.6</b> segundos cuando la habilidad está activa (no disponible en la Liga Ápex)."
     }
   ],
