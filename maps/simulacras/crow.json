@@ -1,0 +1,270 @@
+{
+  "_id": 3,
+  "_locid": "CH11_Karasuma",
+  "name": "Crow",
+  "weapon": "Thunderblades",
+  "element": "Volt",
+  "rarity": "SSR",
+  "id": "crow",
+  "global": false,
+  "tier": 2,
+  "tier_constellation": 3,
+  "pvp": 2,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A high skill ceiling unit that relies on crit and excels at executing targets below 60% HP.",
+      "set1": ["Samir", "Claudia"],
+      "set2": ["Samir"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerDSMeleeThu_SSR_Melee_des",
+      "values": [60.1, 3, 73, 4, 90.9, 5, 96.8, 5, 202.2, 11]
+    },
+    {
+      "name": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerDSMeleeThu_SSR_AirAttack_des",
+      "values": [65.6, 3, 38.4, 2, 92, 5, 138, 7]
+    },
+    {
+      "name": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerDSMeleeThu_SSR_Branch_des",
+      "values": [116.8, 6]
+    },
+    {
+      "name": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_des",
+      "values": [42, 2]
+    },
+    {
+      "name": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
+      "icon": true,
+      "type": ["Croch", "Attack"],
+      "description": "GA_FPlayerSwordMelee_SSR_Sneak_des",
+      "values": [570, 30]
+    },
+    {
+      "name": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
+      "icon": true,
+      "type": ["Perfect Dodge", "Attack"],
+      "description": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_des",
+      "values": [26.4, 1]
+    },
+    {
+      "name": "GA_FPlayerDSSkillThu_SSR_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerDSSkillThu_SSR_des",
+      "values": [52.8, 3]
+    },
+    {
+      "name": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_des",
+      "values": [86.9, 5, 65.2, 3]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_element_type_4",
+    "type": "Volt",
+    "description": "ui_weapon_charge_4_desc_0",
+    "values": [0, 144]
+  },
+  "advancement": [
+    "Buff_DsThu_SSR_Level1_des",
+    "Weapon_level2_atkup_ssr",
+    "Buff_DsThu_SSR_Level3_des",
+    "Weapon_level4_hpup_ssr",
+    "Buff_DsThu_SSR_Level5_des",
+    "Buff_DsThu_SSR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_karasuma_level1_name",
+      "icon": true,
+      "description": "buff_karasuma_level1"
+    },
+    {
+      "name": "buff_karasuma_level2_name",
+      "icon": true,
+      "description": "buff_karasuma_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_lightning",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "nano_coating_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

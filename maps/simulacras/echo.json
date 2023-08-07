@@ -1,0 +1,177 @@
+{
+  "_id": 4,
+  "_locid": "CH13_Manaka",
+  "name": "Echo",
+  "weapon": "Thunderous Halberd",
+  "element": "Volt",
+  "rarity": "SR",
+  "id": "echo",
+  "global": false,
+  "tier": 5,
+  "tier_constellation": 1,
+  "pvp": 3,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Shieldbreaking",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A solid shieldbreaking unit with the third highest shatter stat currently in the game.",
+      "set1": ["King", "Shiro"],
+      "set2": ["Robarg"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerSpearMeleeThu_SSR_Melee_des",
+      "values": [24.7, 1, 22.6, 1, 47.2, 2, 65.2, 3, 114.95, 6]
+    },
+    {
+      "name": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_des",
+      "values": [27.4, 1, 23.2, 1, 45.8, 2, 110, 6]
+    },
+    {
+      "name": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_des",
+      "values": [8, 1, 48.5, 3]
+    },
+    {
+      "name": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerSpearMeleeThu_SSR_Branch_des",
+      "values": [49.2, 3, 98, 5]
+    },
+    {
+      "name": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
+      "icon": true,
+      "type": ["Croch", "Attack"],
+      "description": "GA_FPlayerDSMeleeThu_SSR_Sneak_des",
+      "values": [570, 30]
+    },
+    {
+      "name": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
+      "icon": true,
+      "type": ["Perfect Dodge", "Attack"],
+      "description": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_des",
+      "values": [72, 4]
+    },
+    {
+      "name": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_des",
+      "values": [52.8, 3]
+    },
+    {
+      "name": "GA_FPlayerSpearSkillThu_SSR_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerSpearSkillThu_SSR_des",
+      "values": [127.5, 7]
+    },
+    {
+      "name": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_des",
+      "values": [296.7, 16]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_elemental_type_3",
+    "type": "Volt",
+    "description": "ui_weapon_charge_4_desc_0",
+    "values": [0, 106]
+  },
+  "advancement": [
+    "Buff_SpearThu_SSR_Level1_des",
+    "Weapon_level2_hpup_sr",
+    "Buff_SpearThu_SSR_Level3_des",
+    "Weapon_level4_atkup_sr",
+    "Buff_SpearThu_SSR_Level5_des",
+    "Buff_SpearThu_SSR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_manaka_level1_name",
+      "icon": true,
+      "description": "buff_manaka_level1"
+    },
+    {
+      "name": "buff_manaka_level2_name",
+      "icon": true,
+      "description": "buff_manaka_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "250",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "1"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "500",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "750",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1000",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "2"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "2"
+      }
+    }
+  ]
+}

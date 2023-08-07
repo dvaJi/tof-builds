@@ -1,0 +1,270 @@
+{
+  "_id": 14,
+  "_locid": "CH04_Shiro",
+  "name": "Shiro",
+  "weapon": "Chakram of the Seas",
+  "element": "Physical",
+  "rarity": "SSR",
+  "id": "shiro",
+  "global": false,
+  "tier": 3,
+  "tier_constellation": 3,
+  "pvp": 3,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Sub DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 11.7,
+  "charge": 6,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A Sub DPS with great AOE capabilities thanks to her bouncing chakrams. She gets very powerful team-wide skill cooldown reset at her 3rd advancement.",
+      "set1": ["Shiro", "King"],
+      "set2": ["Shiro"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerDartsMelee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerDartsMelee_des",
+      "values": [30.7, 2, 23.8, 1, 34, 2, 30.7, 2, 53.8, 3]
+    },
+    {
+      "name": "GA_FPlayerDartsMelee_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerDartsMelee_AirAttack_des",
+      "values": [26.2, 1, 29.2, 2, 37.2, 2]
+    },
+    {
+      "name": "GA_FPlayerDartsMelee_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerDartsMelee_Branch_des",
+      "values": [43.5, 2]
+    },
+    {
+      "name": "GA_FPlayerDartsMelee_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_FPlayerDartsMelee_JumpAttack_des",
+      "values": [191.5, 10]
+    },
+    {
+      "name": "GA_FPlayerDartsSneak_name",
+      "icon": true,
+      "type": ["Croch", "Attack"],
+      "description": "GA_FPlayerDartsSneak_des",
+      "values": [427.5, 23]
+    },
+    {
+      "name": "GA_FPlayerDartsEvade_BackAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerDartsEvade_BackAttack_des",
+      "values": [132.9, 7, 24.2, 1]
+    },
+    {
+      "name": "GA_FPlayerDartsSkill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerDartsSkill_des",
+      "values": [24.2, 1]
+    },
+    {
+      "name": "GA_FPlayerDartsChangeSkill_New_Sucess_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerDartsChangeSkill_New_Sucess_des",
+      "values": [41.4, 2]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_1_0",
+    "type": "Physical",
+    "description": "ui_weapon_charge_1_desc_0",
+    "values": [0, 137]
+  },
+  "advancement": [
+    "Buff_DartsPhy_SSR_Level1_des",
+    "Weapon_level2_atkup_ssr",
+    "Buff_DartsPhy_SSR_Level3_des",
+    "Weapon_level4_hpup_ssr",
+    "Buff_DartsPhy_SSR_Level5_des",
+    "Buff_DartsPhy_SSR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_shiro_level1_name",
+      "icon": true,
+      "description": "buff_shiro_level1"
+    },
+    {
+      "name": "buff_shiro_level2_name",
+      "icon": true,
+      "description": "buff_shiro_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_summit",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "booster_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "_id": 15,
+  "_locid": "CH09_Hane",
+  "name": "Tsubasa",
+  "weapon": "Icewind Arrow",
+  "element": "Ice",
+  "rarity": "SSR",
+  "id": "tsubasa",
+  "global": false,
+  "tier": 2,
+  "tier_constellation": 3,
+  "pvp": 3,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 11.5,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "An engaging ranged Main DPS that revolves around keeping a series of damage buffs active, including one via her dodge attacks with her 1st advancement.",
+      "set1": ["Samir"],
+      "set2": ["Tsubasa"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerBowMeleeIce_SSR_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerBowMeleeIce_SSR_des",
+      "values": [48.8, 3, 43.7, 2, 78.6, 4, 121.2, 6, 112.5, 6]
+    },
+    {
+      "name": "GA_FPlayerBowMeleeIce_SSR_Powner_name",
+      "icon": true,
+      "type": ["Hold: Attack"],
+      "description": "GA_FPlayerBowMeleeIce_SSR_Powner_des",
+      "values": [87.8, 5]
+    },
+    {
+      "name": "GA_FPlayerBowMeleeIce_SSR_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerBowMeleeIce_SSR_Branch_des",
+      "values": [287.2, 15]
+    },
+    {
+      "name": "GA_FPlayerBowMeleeIce_SSR_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerBowMeleeIce_SSR_AirAttack_des",
+      "values": [56.3, 3, 74, 4, 112.7, 6, 169.8, 9]
+    },
+    {
+      "name": "GA_FPlayerBowEvadeIce_SSR_Attack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerBowEvadeIce_SSR_Attack_des",
+      "values": [124, 7]
+    },
+    {
+      "name": "GA_FPlayerBowSkillIce_SSR_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerBowSkillIce_SSR_des",
+      "values": [258.3, 14]
+    },
+    {
+      "name": "GA_FPlayerBowChangeSkillIce_SSR_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerBowChangeSkillIce_SSR_OS",
+      "values": [570, 30]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_3_0",
+    "type": "Ice",
+    "description": "ui_weapon_charge_3_desc_0",
+    "values": [0, 151]
+  },
+  "advancement": [
+    "Buff_BowIce_level1_des_OS",
+    "Weapon_level2_atkup_ssr",
+    "Buff_BowIce_Level3_des",
+    "Weapon_level4_atkup_ssr",
+    "Buff_BowIce_Level5_des",
+    "Buff_BowIce_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_hane_level1_name",
+      "icon": true,
+      "description": "buff_hane_level1"
+    },
+    {
+      "name": "buff_hane_level2_name",
+      "icon": true,
+      "description": "buff_hane_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_winter",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "nano_coating_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

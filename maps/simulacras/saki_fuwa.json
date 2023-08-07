@@ -1,0 +1,274 @@
+{
+  "_id": 20,
+  "_locid": "CH22_SakiFuwa",
+  "_name": "Avatar_bupoxiao_name",
+  "name": "Saki Fuwa",
+  "weapon": "Heartstream",
+  "element": "Ice",
+  "rarity": "SSR",
+  "id": "saki_fuwa",
+  "global": false,
+  "tier": 1,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Tank",
+  "soon": false,
+  "new": true,
+  "resonance": "Defense",
+  "shatter": 11.5,
+  "charge": 8,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "The premiere DPS for fire teams who excels against targets with burn.",
+      "set1": ["Ruby"],
+      "set2": ["Samir", "Crow"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_PlayerDkatanaMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_PlayerDkatanaMelee_Melee_des",
+      "values": [42.5, 2, 29.5, 2, 45, 2, 70.6, 4, 102.6, 5]
+    },
+    {
+      "name": "GA_PlayerDkatanaMelee_AirAttack_name",
+      "type": ["Jump", "Attack"],
+      "description": "GA_PlayerDkatanaMelee_AirAttack_des",
+      "values": [47.2, 2, 43.7, 2, 54.2, 3, 76.9, 4, 170.2, 9]
+    },
+    {
+      "name": "GA_PlayerDkatanaMelee_Branch1_name",
+      "icon": true,
+      "type": ["Hold: Attack"],
+      "description": "GA_PlayerDkatanaMelee_Branch1_des",
+      "values": [199.5, 11]
+    },
+    {
+      "name": "GA_PlayerDkatanaMelee_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_PlayerDkatanaMelee_JumpAttack_des",
+      "values": [30.4, 2, 76, 4]
+    },
+    {
+      "name": "GA_FPlayerDkatanaEvade_name",
+      "icon": true,
+      "type": ["Dodge"],
+      "description": "GA_FPlayerDkatanaEvade_des",
+      "values": [0.5]
+    },
+    {
+      "name": "GA_FPlayerDkatanaEvade_ForwardAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerDkatanaEvade_ForwardAttack_des",
+      "values": [277, 15]
+    },
+    {
+      "name": "GA_FPlayerDkatanaSkill_Skill1_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerDkatanaSkill_Skill1_des",
+      "values": [445.3, 23]
+    },
+    {
+      "name": "GA_FPlayerDkatanaSkill_Skill2_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerDkatanaSkill_Skill2_des",
+      "values": []
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_3_0",
+    "type": "ui_profession_department_3",
+    "description": "ui_weapon_charge_3_desc_0",
+    "values": [0, 151]
+  },
+  "weapon_resonance": {
+    "name": "Buff_Dkatana_Ice_Resonance_name",
+    "type": "ui_profession_department_2",
+    "description": "Buff_Dkatana_Ice_Resonance_des",
+    "values": [15, 25]
+  },
+  "advancement": [
+    ["Buff_Dkatana_SSR_Level1_des", [25]],
+    "Weapon_level2_atkup_ssr",
+    ["Buff_Dkatana_SSR_Level3_des", [5]],
+    "Weapon_level4_hpup_ssr",
+    "Buff_Dkatana_SSR_Level5_des",
+    ["Buff_Dkatana_SSR_Level6_des", [11, 15, 25, 12]]
+  ],
+  "traits": [
+    {
+      "name": "Buff_sakifuwa_level1_name",
+      "description": "Buff_sakifuwa_level1_des"
+    },
+    {
+      "name": "Buff_sakifuwa_level2_name",
+      "description": "Buff_sakifuwa_level2_des"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_winter",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "nano_coating_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "booster_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

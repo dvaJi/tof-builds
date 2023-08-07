@@ -1,0 +1,274 @@
+{
+  "_id": 17,
+  "_locid": "CH05_Claudia",
+  "name": "Claudia",
+  "weapon": "Guren Blade",
+  "element": "Physical",
+  "rarity": "SSR",
+  "id": "claudia",
+  "global": false,
+  "tier": 1,
+  "tier_constellation": 5,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Sub DPS",
+  "soon": false,
+  "new": true,
+  "resonance": "DPS",
+  "shatter": 7.5,
+  "charge": 12,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A strong sub DPS unit with a short cooldown skill that provides damage buffs with most of her advancements.",
+      "set1": ["Claudia"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerSwordMelee_SSR_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerSwordMelee_SSR_Melee_des",
+      "values": [46.8, 2, 65.6, 3, 59.3, 3, 104.1, 5, 177.8, 9]
+    },
+    {
+      "name": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_des",
+      "values": [27.9, 1, 48.4, 3, 114.6, 6, 139, 7]
+    },
+    {
+      "name": "GA_FPlayerSwordMeleeThu_R_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerSwordMeleeThu_R_Branch_des",
+      "values": [47.8, 3]
+    },
+    {
+      "name": "GA_FPlayerSwordMeleeThu_R_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_FPlayerSwordMeleeThu_R_JumpAttack_des",
+      "values": [10, 1, 76.4, 4]
+    },
+    {
+      "name": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
+      "icon": true,
+      "type": ["Croch", "Attack"],
+      "description": "GA_FPlayerDSMeleeThu_SSR_Sneak_des",
+      "values": [570, 30]
+    },
+    {
+      "name": "GA_FPlayerSwordEvadeThu_R_BackAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerSwordEvadeThu_R_BackAttack_des",
+      "values": [37.9, 2, 56.8, 3]
+    },
+    {
+      "name": "GA_FPlayerSwordSkillNew_SSR_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerSwordSkillNew_SSR_des",
+      "values": [418, 22, 264, 14]
+    },
+    {
+      "name": "GA_FPlayerSwordChangeSkill_SSR_Sucess_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerSwordChangeSkill_SSR_Sucess_des",
+      "values": [523.3, 28, 209.6, 11]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_1_0",
+    "type": "Physical",
+    "description": "ui_weapon_charge_1_desc_0",
+    "values": [0, 137]
+  },
+  "weapon_resonance": {
+    "name": "Buff_ArmPhy_SSR_Level0_name",
+    "type": "Physical",
+    "description": "Buff_SwordPhy_Phy_Resonance_Overseas_des"
+  },
+  "advancement": [
+    ["Buff_SwordPhy_SSR_Level1_des", [8, 25]],
+    "Weapon_level2_atkup_ssr",
+    ["Buff_SwordPhy_SSR_Level3_des", [10, 15]],
+    "Weapon_level4_hpup_ssr",
+    ["Buff_SwordPhy_SSR_Level5_OS_des", [20, 25]],
+    "Buff_SwordPhy_SSR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_claudia_level1_name",
+      "icon": true,
+      "description": "buff_claudia_level1"
+    },
+    {
+      "name": "buff_claudia_level2_name",
+      "icon": true,
+      "description": "buff_claudia_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "rockcore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_summit",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "nano_coating_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

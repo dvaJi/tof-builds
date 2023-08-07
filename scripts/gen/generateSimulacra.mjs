@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'fs-extra';
 import path from 'path';
 import chalk from 'chalk';
 import { fileURLToPath } from 'url';
@@ -24,8 +24,11 @@ export let allSimulacraMap = {};
 export async function main(textMap, locale) {
   allSimulacraMap = {};
   const allCharacters = [];
-  const simulacras = JSON.parse(
-    fs.readFileSync(path.join(MapsDATA_PATH, `simulacra.json`))
+  const simulacrasDir = await fs.readdir(path.join(MapsDATA_PATH, 'simulacras'));
+  const simulacras = simulacrasDir.map(async (file) =>
+    JSON.parse(
+      await fs.readFile(path.join(MapsDATA_PATH, 'simulacras', file), 'utf8')
+    )
   );
 
   logger.info(`Getting simulacra [${locale}]`);
@@ -33,7 +36,7 @@ export async function main(textMap, locale) {
     logger.debug(`> Getting simulacra [${locale}] ${simulacra.id}`);
 
     const data = {
-      _id: allCharacters.length + 1,
+      _id: simulacra._id || allCharacters.length + 1,
       id: simulacra.id,
       name:
         textMap['ST_Imitationtest'][simulacra._locid + '_EN'] ??
@@ -163,11 +166,11 @@ export async function main(textMap, locale) {
       data.id + '.json'
     );
 
-    if (!fs.existsSync(path.dirname(filePath))) {
-      fs.mkdirSync(path.dirname(filePath));
+    if (!(await fs.exists(path.dirname(filePath)))) {
+      await fs.mkdir(path.dirname(filePath));
     }
 
-    fs.writeFileSync(filePath, JSON.stringify(data, undefined, 2));
+    await fs.writeFile(filePath, JSON.stringify(data, undefined, 2));
     allCharacters.push(data);
   }
 }

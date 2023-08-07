@@ -1,0 +1,265 @@
+{
+  "_id": 8,
+  "_locid": "CH03_Huma",
+  "name": "Huma",
+  "weapon": "Molten Shield V2",
+  "element": "Fire",
+  "rarity": "SSR",
+  "id": "huma",
+  "global": false,
+  "tier": 3,
+  "tier_constellation": 1,
+  "pvp": 2,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Tank",
+  "soon": false,
+  "new": false,
+  "resonance": "Defense",
+  "shatter": 10,
+  "charge": 10,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A defensive unit that fills the tank role well thanks to her constant CC and damage reduction.",
+      "set1": ["Huma"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerShieldMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerShieldMelee_Melee_des",
+      "values": [
+        77.7, 4, 56.9, 3, 62.8, 3, 184, 10, 135.2, 7, 79.4, 4, 119.9, 6,
+        221.3, 12
+      ]
+    },
+    {
+      "name": "GA_FPlayerBigSwordMelee_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerBigSwordMelee_AirAttack_des",
+      "values": [75.9, 4, 80.2, 4, 103, 5, 118.6, 6, 91.1, 5, 277.9, 15]
+    },
+    {
+      "name": "GA_FPlayerShieldMelee_PowerAttack_name",
+      "icon": true,
+      "type": ["Hold: Attack"],
+      "description": "GA_FPlayerShieldMelee_PowerAttack_des",
+      "values": [167.3, 9, 122.2, 6]
+    },
+    {
+      "name": "GA_FPlayerShieldMelee_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_FPlayerShieldMelee_JumpAttack_des",
+      "values": [12.5, 1, 89.2, 5, 12.5, 1, 128.3, 7]
+    },
+    {
+      "name": "GA_FPlayerShieldEvade_EvadeAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerShieldEvade_EvadeAttack_OS_des",
+      "values": [55.8, 3, 55.8, 3, 226.3, 12]
+    },
+    {
+      "name": "GA_FPlayerShieldSkill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerShieldSkill_Des",
+      "values": [373.8, 20, 233.6, 12, 309.5, 16]
+    },
+    {
+      "name": "GA_FPlayerShieldChangeSkill_Success_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerShieldChangeSkill_Success_des",
+      "values": [352, 19]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_element_type_2",
+    "type": "Fire",
+    "description": "ui_weapon_charge_2_desc_0",
+    "values": [0, 58, 58, 58]
+  },
+  "advancement": [
+    "Buff_ShieldFire_SSR_Level1_des",
+    "Weapon_level2_hpup_ssr",
+    "Buff_ShieldFire_SSR_Level3_des",
+    "Weapon_level4_atkup_ssr",
+    "Buff_ShieldFire_SSR_Level5_des",
+    "Buff_ShieldFire_SSR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_huma_level1_name",
+      "icon": true,
+      "description": "buff_huma_level1"
+    },
+    {
+      "name": "buff_huma_level2_name",
+      "icon": true,
+      "description": "buff_huma_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_lava",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

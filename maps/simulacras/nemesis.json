@@ -1,0 +1,275 @@
+{
+  "_id": 11,
+  "_locid": "CH17_Nemasis",
+  "name": "Nemesis",
+  "weapon": "Venus",
+  "element": "Volt",
+  "rarity": "SSR",
+  "id": "nemesis",
+  "global": false,
+  "tier": 1,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Utility",
+  "soon": false,
+  "new": false,
+  "resonance": "Support",
+  "shatter": 6,
+  "charge": 8,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A staple in any volt team thanks to her Volt Resonance, Nemesis functions as a Sub DPS with access powerful healing with her Dodge.",
+      "set1": ["Nemesis"],
+      "set2": ["Cocoritter"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_PlayerFriggMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_PlayerFriggMelee_Melee_des",
+      "values": [50.8, 3, 36.3, 2, 98.3, 5, 67.3, 4, 148.3, 8]
+    },
+    {
+      "name": "GA_PlayerFriggMelee_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_PlayerFriggMelee_AirAttack_des",
+      "values": [62.5, 3, 62, 5, 3, 120, 6, 71.2, 4, 126, 7]
+    },
+    {
+      "name": "GA_PlayerSuspensionMelee_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_PlayerSuspensionMelee_Branch_des",
+      "values": [107.5, 6]
+    },
+    {
+      "name": "GA_PlayerSuspensionMelee_PowerAttack_name",
+      "icon": true,
+      "type": ["Hold: Attack"],
+      "description": "GA_PlayerSuspensionMelee_PowerAttack_des",
+      "values": [118.4, 6]
+    },
+    {
+      "name": "GA_FPlayerSuspensionEvade_BackAttack_name",
+      "icon": true,
+      "type": ["Perfect Attack", "Attack"],
+      "description": "GA_FPlayerSuspensionEvade_BackAttack_des",
+      "values": [171.6, 9]
+    },
+    {
+      "name": "GA_FPlayerSuspensionEvade_RollAttack_name",
+      "icon": true,
+      "type": ["Perfect Dodge", "Attack"],
+      "description": "GA_FPlayerSuspensionEvade_RollAttack_des",
+      "values": [171.6, 9]
+    },
+    {
+      "name": "GA_FPlayerSuspensionSkill_Skill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerSuspensionSkill_Skill_des",
+      "values": [233.2, 12]
+    },
+    {
+      "name": "GA_FPlayerSuspensionChangeSkill_Success_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerSuspensionChangeSkill_Success_des",
+      "values": [393.9, 21, 39.9, 2]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_elemental_type_3",
+    "type": "Volt",
+    "description": "ui_weapon_charge_4_desc_0",
+    "values": [0, 144]
+  },
+  "weapon_resonance": {
+    "name": "Buff_Suspension_Thunder_Resonance_Overseas_name",
+    "type": "Volt",
+    "description": "Buff_Suspension_Thunder_Resonance_Overseas_des"
+  },
+  "advancement": [
+    "Buff_SuspensionThu_SSR_Level1_des",
+    "Weapon_level2_atkup_ssr",
+    "Buff_SuspensionThu_SSR_Level3_des_OS",
+    "Weapon_level4_atkup_ssr",
+    "GE_SuspensionSkill_Buff_AttackUP_Level5_OS_des",
+    "Buff_SuspensionThu_SSR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "Buff_Sally_level1",
+      "icon": true,
+      "description": "Buff_Sally_level1_des"
+    },
+    {
+      "name": "Buff_Sally_level2",
+      "icon": true,
+      "description": "Buff_Sally_level2_des"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_lightning",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "nano_coating_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "_id": 13,
+  "_locid": "CH02_Samir",
+  "name": "Samir",
+  "weapon": "Dual EM Stars",
+  "element": "Volt",
+  "rarity": "SSR",
+  "id": "samir",
+  "global": false,
+  "tier": 1,
+  "tier_constellation": 0,
+  "pvp": 3,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10.7,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "Safe and reliable aerial damage dealer.",
+      "set1": ["Samir", "Claudia"],
+      "set2": ["Samir"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerDgunMeleeThu_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerDgunMeleeThu_Melee_des",
+      "values": [47.1, 2, 35.8, 2, 119.7, 6, 113.1, 6, 154, 8]
+    },
+    {
+      "name": "GA_FPlayerDgunMeleeThu_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerDgunMeleeThu_AirAttack_des",
+      "values": [50.6, 3]
+    },
+    {
+      "name": "GA_FPlayerDgunMeleeThu_PowerAttack_name",
+      "icon": true,
+      "type": ["Hold: Attack"],
+      "description": "GA_FPlayerDgunMeleeThu_PowerAttack_des",
+      "values": [23, 1]
+    },
+    {
+      "name": "GA_FPlayerDgunMeleeThu_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_FPlayerDgunMeleeThu_JumpAttack_des",
+      "values": [70.5, 4, 98.7, 5]
+    },
+    {
+      "name": "GA_FPlayeDgunEvadeThu_FrontAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayeDgunEvadeThu_FrontAttack_des",
+      "values": [122.6, 6]
+    },
+    {
+      "name": "GA_FPlayerDgunSkillThu_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerDgunSkillThu_des",
+      "values": [269.8, 14]
+    },
+    {
+      "name": "GA_FPlayerDgunChangeSkillThu_Sucess_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerDgunChangeSkillThu_Sucess_des",
+      "values": [238.3, 13, 42.4, 2]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_element_type_4",
+    "type": "Volt",
+    "description": "ui_weapon_charge_4_desc_0",
+    "values": [0, 144]
+  },
+  "advancement": [
+    "Buff_DgunThu_Level1_des",
+    "Weapon_level2_atkup_ssr",
+    "Buff_DgunThu_Level3_des",
+    "Weapon_level4_atkup_ssr",
+    "Buff_DgunThu_Level5_des",
+    "Buff_DgunThu_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_samir_level1_name",
+      "icon": true,
+      "description": "buff_samir_level1"
+    },
+    {
+      "name": "buff_samir_level2_name",
+      "icon": true,
+      "description": "buff_samir_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_lightning",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "nano_coating_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

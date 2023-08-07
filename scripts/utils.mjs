@@ -1,5 +1,6 @@
 import { ENtextMap } from './gen/texmap.mjs';
 import { logger } from './logger.mjs';
+import { distance } from 'fastest-levenshtein';
 
 /**
  *
@@ -61,6 +62,7 @@ export function safeGetTmap(tmap, firstKey, key, showError = true) {
   const firstKeyOverseas = firstKey + '_Oversea';
   const keyOverseas = key + '_OS';
   // console.log(firstKey, key, firstKeyOverseas, keyOverseas)
+  const keys = Object.keys(tmap[firstKey] || {});
 
   if (tmap[firstKey][keyOverseas]) {
     finalText = tmap[firstKey][keyOverseas];
@@ -78,8 +80,15 @@ export function safeGetTmap(tmap, firstKey, key, showError = true) {
     finalText = ENtextMap[firstKey][key];
   } else {
     // Fallback to empty text
-    if (showError)
+    if (showError) {
       logger.error(`Missing text for [${firstKey}][${key}], using empty text`);
+      // console.log('You might want ', closest(key, keys))
+      keys.forEach((k) => {
+        if (distance(key, k) <= 1) {
+          console.log(key, k, distance(key, k));
+        }
+      });
+    }
   }
 
   return finalText;

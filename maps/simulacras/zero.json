@@ -1,0 +1,277 @@
+{
+  "_id": 16,
+  "_locid": "CH08_Zero",
+  "name": "Zero",
+  "weapon": "Negating Cube",
+  "element": "Fire",
+  "rarity": "SSR",
+  "id": "zero",
+  "global": false,
+  "tier": 3,
+  "tier_constellation": 3,
+  "pvp": 2,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Utility",
+  "soon": false,
+  "new": false,
+  "resonance": "Support",
+  "shatter": 5,
+  "charge": 13,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A defense unit that focuses on shielding and healing his team, which gets much stronger with his 3rd advancement. He excels in group play where he can provide an AOE damage immunity buff (discharge) and damage increase buff (matrices).",
+      "set1": ["Zero"],
+      "set2": ["Cocoritter"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerCubeMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerCubeMelee_Melee_des",
+      "values": [46.7, 2, 38.2, 2, 118.5, 6, 79.6, 4, 80.9, 4]
+    },
+    {
+      "name": "GA_FPlayerCubeMelee_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerCubeMelee_AirAttack_des",
+      "values": [59.3, 3]
+    },
+    {
+      "name": "GA_FPlayerCubeMelee_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_FPlayerCubeMelee_JumpAttack_des",
+      "values": [23.4, 1]
+    },
+    {
+      "name": "GA_FPlayerCubeMelee_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerCubeMelee_Branch_des",
+      "values": [68.4, 4, 28.5, 2]
+    },
+    {
+      "name": "GA_FPlayerCubeMelee_Pas1_name",
+      "icon": true,
+      "type": ["Passive"],
+      "description": "GA_FPlayerCubeMelee_Pas1_des",
+      "values": [9.7, 1]
+    },
+    {
+      "name": "GA_FPlayerCubeMelee_Pas2_name",
+      "icon": true,
+      "type": ["Passive"],
+      "description": "GA_FPlayerCubeMelee_Pas2_des",
+      "values": [48.5, 3]
+    },
+    {
+      "name": "GA_FPlayerCubeEvade_Evade_name",
+      "icon": true,
+      "type": ["Dodge"],
+      "description": "GA_FPlayerCubeEvade_Evade_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerCubeSkill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerCubeSkill_des",
+      "values": [124.9, 8]
+    },
+    {
+      "name": "GA_FPlayerCubeChangeSkill_Success_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerCubeChangeSkill_Success_des",
+      "values": [171, 9, 48.5, 3]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_2_0",
+    "type": "Fire",
+    "description": "ui_weapon_charge_2_desc_0",
+    "values": [0, 58, 58, 58]
+  },
+  "advancement": [
+    "Buff_CubeFire_Level1_des",
+    "Weapon_level2_atkup_ssr",
+    "Buff_CubeFire_Level3_des",
+    "Weapon_level4_hpup_ssr",
+    "Buff_CubeFire_Level5_OS_des",
+    "Buff_CubeFire_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_zero_level1_name",
+      "icon": true,
+      "description": "buff_zero_level1"
+    },
+    {
+      "name": "buff_zero_level2_name",
+      "icon": true,
+      "description": "buff_zero_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "6"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "6"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "firecore",
+        "rarity": "N",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "heart_of_lava",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_ii",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "SSR",
+        "amount": "5"
+      }
+    }
+  ]
+}

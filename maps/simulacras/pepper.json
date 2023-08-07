@@ -1,0 +1,170 @@
+{
+  "_id": 12,
+  "_locid": "CH16_Peppa",
+  "name": "Pepper",
+  "weapon": "Staff of Scars",
+  "element": "Volt",
+  "rarity": "SR",
+  "id": "pepper",
+  "global": false,
+  "tier": 4,
+  "tier_constellation": 1,
+  "pvp": 4,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Utility",
+  "soon": false,
+  "new": false,
+  "resonance": "Support",
+  "shatter": 4,
+  "charge": 10,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A healer who relies on her first advancement for reliable heals, due to her long cooldown skill.",
+      "set1": ["Cocoritter"],
+      "set2": ["Pepper"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerStavesMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerStavesMelee_Melee_des",
+      "values": [25.1, 1, 18.8, 1, 30.4, 2, 41.4, 2, 73.2, 4]
+    },
+    {
+      "name": "GA_FPlayerStavesMelee_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerStavesMelee_AirAttack_des",
+      "values": [32.5, 2, 23.5, 1, 25.5, 1, 45.6, 2, 47.7, 3]
+    },
+    {
+      "name": "GA_FPlayerStavesMelee_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_FPlayerStavesMelee_JumpAttack_des",
+      "values": [57.2, 3]
+    },
+    {
+      "name": "GA_FPlayerStavesMelee_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_FPlayerStavesMelee_Branch_des",
+      "values": [16.1, 1, 18.6, 1]
+    },
+    {
+      "name": "GA_FPlayerStavesEvade_FrontAttack_name",
+      "icon": true,
+      "type": ["Perfect Dodge", "Attack"],
+      "description": "GA_FPlayerStavesEvade_FrontAttack_des",
+      "values": [22.6, 1]
+    },
+    {
+      "name": "GA_FPlayerStavesEvade_BackAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerStavesEvade_BackAttack_des",
+      "values": [32.1, 2]
+    },
+    {
+      "name": "GA_FPlayerStavesSkill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerStavesSkill_des",
+      "values": [3, 0, 0, 81.7, 4]
+    },
+    {
+      "name": "GA_FPlayerStavesChangeSkill_Sucess_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerStavesChangeSkill_Sucess_des",
+      "values": [79, 4, 79, 4]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_element_type_4",
+    "type": "Volt",
+    "description": "ui_weapon_charge_4_desc_0",
+    "values": [0, 106]
+  },
+  "advancement": [
+    "Buff_StavesThu_SR_Level1_des",
+    "Weapon_level2_hpup_sr",
+    "Buff_StavesThu_SR_Level3_des",
+    "Weapon_level4_hpup_sr",
+    "Buff_StavesThu_SR_Level5_des",
+    "Buff_StavesThu_SR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_peppa_level1_name",
+      "icon": true,
+      "description": "buff_peppa_level1"
+    },
+    {
+      "name": "buff_peppa_level2_name",
+      "icon": true,
+      "description": "buff_peppa_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "250",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "1"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "500",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "750",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1000",
+      "mat1": {
+        "name": "magcore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "2"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "2"
+      }
+    }
+  ]
+}

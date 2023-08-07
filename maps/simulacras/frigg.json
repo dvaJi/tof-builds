@@ -1,0 +1,239 @@
+{
+  "_id": 6,
+  "_locid": "CH28_Freyja",
+  "id": "frigg",
+  "element": "Ice",
+  "weapon": "Balmung",
+  "rarity": "SSR",
+  "tier": 1,
+  "tier_constellation": 0,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 8,
+  "charge": 8,
+  "builds": [
+    {
+      "set1": ["frigg"],
+      "set2": ["samir"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_PlayerFriggMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_PlayerFriggMelee_Melee_des",
+      "values": [62.1, 3, 46.2, 2, 91.1, 5, 55.8, 3, 218.4, 11]
+    },
+    {
+      "name": "GA_PlayerFriggMelee_AirAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_PlayerFriggMelee_AirAttack_des",
+      "values": [64.4, 3, 72.6, 4, 76.7, 4, 107.9, 6, 168.3, 9]
+    },
+    {
+      "name": "GA_PlayerFriggMelee_Branch_name",
+      "icon": true,
+      "type": ["Attack", "Hold: Attack"],
+      "description": "GA_PlayerFriggMelee_Branch_des",
+      "values": [134.3, 7]
+    },
+    {
+      "name": "GA_PlayerFriggMelee_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Hold: Attack"],
+      "description": "GA_PlayerFriggMelee_JumpAttack_des",
+      "values": [19.8, 1, 185.7, 10]
+    },
+    {
+      "name": "GA_FPlayerFriggEvade_BackAttack_name",
+      "icon": true,
+      "type": ["Perfect Dodge", "Attack"],
+      "description": "GA_FPlayerFriggEvade_BackAttack_des",
+      "values": [143.9, 8, 143.9, 8, 143.9, 8]
+    },
+    {
+      "name": "GA_FPlayerFriggSkill_Skill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerFriggSkill_Skill_Overseas_des_OS",
+      "values": [577.5, 30]
+    },
+    {
+      "name": "GA_FPlayerFriggChangeSkill_Success_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerFriggChangeSkill_Success_des",
+      "values": [618.2, 33]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_3_0",
+    "type": "Ice",
+    "description": "ui_weapon_charge_3_desc_0",
+    "values": [0, 111]
+  },
+  "weapon_resonance": {
+    "name": "Buff_Frigg_Ice_Resonance_Overseas_name",
+    "type": "Ice",
+    "description": "Buff_Frigg_Ice_Resonance_Overseas_des",
+    "values": []
+  },
+  "advancement": [
+    "Buff_FriggIce_SSR_Level1_des",
+    "Weapon_level2_hpup_ssr",
+    "Buff_FriggIce_SSR_Level3_des",
+    "Weapon_level4_atkup_ssr",
+    "Buff_FriggIce_SSR_Level5_des",
+    "Buff_FriggIce_SSR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "Buff_Frigg_level1_name",
+      "description": "Buff_Frigg_level1"
+    },
+    {
+      "name": "Buff_Frigg_level2_name",
+      "description": "Buff_Frigg_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "400",
+      "mat1": {
+        "id": "icecore",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "800",
+      "mat1": {
+        "id": "icecore",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "id": "icecore",
+        "amount": "3"
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "id": "icecore",
+        "amount": "3"
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "amount": "3"
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "id": "icecore",
+        "amount": "4"
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "amount": "4"
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "id": "icecore",
+        "amount": "6"
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "amount": "6"
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "amount": "6"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "id": "icecore",
+        "amount": "8"
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "amount": "8"
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "id": "icecore",
+        "amount": "11"
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "amount": "11"
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "id": "heart_of_winter",
+        "amount": "5"
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "amount": "5"
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "amount": "5"
+      }
+    }
+  ]
+}

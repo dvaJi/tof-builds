@@ -1,0 +1,135 @@
+{
+  "_id": 7,
+  "_locid": "CH14_Hilda",
+  "name": "Hilda",
+  "weapon": "The Terminator",
+  "element": "Ice",
+  "rarity": "SR",
+  "id": "hilda",
+  "global": false,
+  "tier": 5,
+  "tier_constellation": 6,
+  "pvp": 5,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Main DPS",
+  "soon": false,
+  "new": false,
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "A Main DPS unit that wants to stack normal attack damage via advancements and matrices.",
+      "set1": ["Samir"],
+      "set2": ["Samir", "Tsubasa"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "GA_FPlayerCannonMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerCannonMelee_Melee_des",
+      "values": [11.4, 1]
+    },
+    {
+      "name": "GA_FPlayerCannonSkill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerCannonSkill_des",
+      "values": [213.3, 11, 3.5]
+    },
+    {
+      "name": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerCannonChangeSkill_New_Sucess_des",
+      "values": [329.2, 17]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_element_type_3",
+    "type": "Ice",
+    "description": "ui_weapon_charge_3_desc_0",
+    "values": [0, 111]
+  },
+  "advancement": [
+    "Buff_CannonIce_SR_Level1_des",
+    "Weapon_level2_atkup_sr",
+    "Buff_CannonIce_SR_Level3_des",
+    "Weapon_level4_atkup_sr",
+    "Buff_CannonIce_SR_Level5_des",
+    "Buff_CannonIce_SR_Level6_des"
+  ],
+  "traits": [
+    {
+      "name": "buff_hilda_level1_name",
+      "icon": true,
+      "description": "buff_hilda_level1"
+    },
+    {
+      "name": "buff_hilda_level2_name",
+      "icon": true,
+      "description": "buff_hilda_level2"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "250",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "1"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "500",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "750",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "2"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1000",
+      "mat1": {
+        "name": "icecore",
+        "rarity": "N",
+        "amount": "2"
+      },
+      "mat2": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "2"
+      },
+      "mat3": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "2"
+      }
+    }
+  ]
+}
