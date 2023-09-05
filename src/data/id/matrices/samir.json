@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Timpakan damage lebih besar setelah mengenai target, sebesar 1,5% setiap kali, hingga 10/13/16/20 tumpuk. Waktu penumpukan buff: 2 detik."
+      "value": "Timpakan DMG lebih besar setelah mengenai target, sebesar 1,5% setiap kali, hingga 10/13/16/20 tumpuk. Waktu penumpukan buff: 2 detik."
     },
     {
       "count": 4,
-      "value": "Setiap serangan pada target yang terbidik menimpakan damage ekstra sebesar 10%/12,5%/15%/17,5% ATK."
+      "value": "Setiap serangan pada target yang terbidik menimpakan DMG ekstra sebesar 10%/12,5%/15%/17,5% ATK."
     }
   ],
   "mind": {

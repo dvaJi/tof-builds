@@ -17,18 +17,18 @@
   ],
   "mind": {
     "name": "Aislada",
-    "desc": "Desconfía de todo el mundo como un gato salvaje, aunque a veces se sienta junto a una piscina y juega con el agua, preguntándose por qué está sola."
+    "desc": "Al igual que a un gato salvaje, los demás la asustan. Sin embargo, a veces se sienta junto a un estanque y juega con el agua, preguntándose por qué se siente tan sola."
   },
   "memory": {
-    "name": "Nostalgia del Mar",
+    "name": "Nostalgia del mar",
     "desc": "Buena parte de la belleza del océano proviene del hecho de que nunca podrá comprenderse del todo."
   },
   "belief": {
-    "name": "Gran Cantante",
+    "name": "Gran cantante",
     "desc": "La prueba de su increíble voz, gracias a un investigador que desafió a la muerte para grabarla."
   },
   "emotion": {
-    "name": "Como una Gatita",
+    "name": "Como una gatita",
     "desc": "Movimientos precavidos y evitar todas las miradas... Ese es su humilde camino a la felicidad."
   }
 }

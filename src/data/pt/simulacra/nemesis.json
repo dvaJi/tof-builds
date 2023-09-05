@@ -4,7 +4,7 @@
   "name": "Nêmesis",
   "weapon": "Vênus",
   "weapon_id": "venus",
-  "birthday": "23 de maio (Gêmeos)",
+  "birthday": "23 de maio",
   "birthplace": "Anjo da Clemência",
   "gender": "Feminino",
   "info": "Após a reestruturação que compreendeu procedimentos de lavagem cerebral, apagamento de memória, implantação de uma segunda personalidade, entre outros, ela passou um tempo emocionalmente instável. \nA personalidade verdadeira de Shirli foi reprimida. Felizmente, algumas coisas voltaram aos eixos e uma ameaça potencial já quase não preocupa. \nClaro, ela nunca poderia voltar a ser aquela Shirli cheia de vida, mas já é quase uma garota normal de novo. \nA dúvida a respeito da própria existência ainda está lá, a qual dá forma à angústia e ao sofrimento dentro dela. Bom... Pelo menos ela teve coragem frente a tudo isso, o que já é um bom começo.",
@@ -20,52 +20,72 @@
   "skills": [
     {
       "name": "Ataque Normal",
-      "type": ["Attack"],
-      "description": "No chão, ataque 5 vezes seguidas com a Balmung.\nPrimeiro ataque: Causa dano de <b>50.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>36.3%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>98.3%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>67.3%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>148.3%</b> do ATQ + <b>8</b> e derruba o alvo."
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, ataque 5 vezes seguidas com a Balmung.\nPrimeiro ataque: causa dano de <b>50.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>36.3%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>98.3%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>67.3%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nQuinto ataque: causa dano de <b>148.3%</b> do ATQ + <b>8</b> e derruba o alvo."
     },
     {
       "name": "Detonação Aérea",
-      "type": ["Jump", "Attack"],
-      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>62.5%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>62%</b> do ATQ + <b>5</b>.\nTerceiro ataque: Causa dano de <b>3%</b> do ATQ + <b>120</b>.\nQuarto ataque: Causa dano de <b>6%</b> do ATQ + <b>71.2</b>.\nQuinto ataque: Causa dano de <b>4%</b> do ATQ + <b>126</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>62.5%</b> do ATQ + <b>3</b>.\nSegundo ataque: causa dano de <b>62%</b> do ATQ + <b>5</b>.\nTerceiro ataque: causa dano de <b>3%</b> do ATQ + <b>120</b>.\nQuarto ataque: causa dano de <b>6%</b> do ATQ + <b>71.2</b>.\nQuinto ataque: causa dano de <b>4%</b> do ATQ + <b>126</b>."
     },
     {
       "name": "Perseguição Veloz",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Após o segundo ataque normal, segure o ataque normal para usar Perseguição Veloz.\nDispara um míssil guiado por laser contra o alvo. Causa dano de até <b>107.5%</b> do ATQ + <b>6</b>."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Após o segundo ataque normal, segure o botão de ataque normal para usar Perseguição Veloz.\nDispara um míssil guiado por laser contra o alvo. Causa dano de até <b>107.5%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Foco Duplo",
-      "type": ["Hold: Attack"],
+      "type": [
+        "Hold: Attack"
+      ],
       "description": "Segure o botão de ataque normal para carregar um ataque e lançar uma esfera eletrificada que explode ao atingir o alvo. Causa dano de <b>118.4%</b> do ATQ + <b>6</b> a inimigos próximos."
     },
     {
       "name": "Foco Gêmeo Giratório",
-      "type": ["Perfect Attack", "Attack"],
-      "description": "Use o botão de ataque normal durante o tempo de esquiva perfeita para ativar um campo magnético que causa lentidão.\nVênus dispara um orbe carregado que avança determinada distância e explode quando entra em contato com os alvos. Causa dano de <b>171.6%</b> do ATQ + <b>9</b> e gera um campo magnético que causa lentidão durante <b>3</b> segundos, que reduz a velocidade de movimento e de ataque de todos os inimigos dentro dele em <b>35%</b>.\nEsquivar desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em <b>25%</b>. Acumula até <b>5</b> vezes e dura <b>30</b> segundos. Trocar de arma não cancela o efeito."
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal durante o tempo de esquiva perfeita para ativar um campo magnético que causa lentidão.\nVênus dispara um orbe carregado que explode após avançar uma determinada distância ou ao entrar em contato com os alvos. Causa dano de <b>171.6%</b> do ATQ + <b>9</b> e gera um campo magnético que causa lentidão durante <b>3</b> segundos, que reduz a velocidade de movimento e de ataque de todos os inimigos dentro dele em <b>35%</b>.\nEsquivar desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em <b>25%</b>. Acumula até <b>5</b> vezes e dura <b>30</b> segundos. Trocar de arma não cancela o efeito."
     },
     {
       "name": "Raios Paralelos",
-      "type": ["Perfect Dodge", "Attack"],
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
       "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Raios Paralelos.\nVênus dispara um par de raios paralelos que causa dano perfurante de <b>171.6%</b> do ATQ + <b>9</b>.\nEsquivar-se desencadeará uma corrente de cura que irá curar os aliados próximos em <b>67,7%</b> do ATQ do Errante. Além disso, durante os próximos <b>10</b> segundos, uma pequena corrente de cura será ativada a cada <b>2</b> segundos, curando os aliados próximos em <b>22,5%</b> do ATQ do Errante. Esquivar concede <b>1</b> acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em <b>25%</b> (acumula até <b>5</b> vezes). Dura <b>30</b> segundos. Trocar de arma não cancela o efeito."
     },
     {
       "name": "Pulso Travado",
-      "type": ["Skill"],
+      "type": [
+        "Skill"
+      ],
       "description": "Vênus dispara um míssil guiado que explode em contato com os alvos. Causa dano de <b>233.2%</b> do ATQ + <b>12</b> e derruba os alvos. Tempo de recarga: <b>25</b> seg."
     },
     {
       "name": "Explosão de Raios de Partícula",
-      "type": ["Discharge"],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e ordena a Vênus para disparar um raio em forma de cruz no chão ao trocar para esta arma, criando uma área instável e reduzindo a velocidade de movimento em <b>70%</b> durante <b>5</b> segundos. Após um pequeno atraso, libera uma explosão eletromagnética que causa dano de <b>393.9%</b> do ATQ + <b>21</b>.\nUsar um ataque de descarga irá gerar <b>1</b> eletrodo próximo ao inimigo, que ataca uma vez a cada <b>1,5</b> segundo. Causa dano de <b>39.9%</b> do ATQ + <b>2</b>.\nO eletrodo ganha <b>100%</b> dos atributos do Errante, não pode ser atacado e nem curado e perde <b>3%</b> da vida máxima a cada segundo.\nApenas <b>1</b> eletrodo pode existir por vez, e materializar um novo eletrodo substituirá o anterior."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e ordena que Vênus dispare um raio em forma de cruz no chão ao trocar para esta arma, criando uma área instável e reduzindo a velocidade de movimento em <b>70%</b> durante <b>5</b> segundos. Após um pequeno atraso, libera uma explosão eletromagnética que causa dano de <b>393.9%</b> do ATQ + <b>21</b>.\nUsar um ataque de descarga irá gerar <b>1</b> eletrodo próximo ao inimigo, que ataca uma vez a cada <b>1,5</b> segundo. Causa dano de <b>39.9%</b> do ATQ + <b>2</b>.\nO eletrodo ganha <b>100%</b> dos seus atributos, não pode ser atacado e nem curado e perde <b>3%</b> da vida máxima a cada segundo.\nApenas <b>1</b> eletrodo pode existir por vez, e materializar um novo eletrodo substituirá o anterior."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "weapon_resonance": {
     "name": "Ressonância Elétrica",
-    "description": "<b>Ressonância elétrica</b>: Aumenta o ATQ elétrico em <b>15%</b> e a resistência elétrica em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo."
+    "description": "<b>Ressonância Elétrica</b>: aumenta o ATQ elétrico em <b>15%</b> e a resistência elétrica em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com efeitos de mesmo tipo.\n<b>Bendição elétrica</b>: aumenta o ATQ elétrico de toda a equipe em <b>5%</b> enquanto ressonância de bendição estiver ativa."
   },
   "advancement": [
     "Cria <b>1</b> Eletrodo que confere <b>5</b> acúmulos de corrente de cura aprimorada imediatamente após usar <b>Pulso Travado</b> ou <b>Explosão de Raios de Partícula</b>. Além disso, desencadeia uma corrente de cura que cura os aliados próximos em <b>135%</b> do seu ATQ.",

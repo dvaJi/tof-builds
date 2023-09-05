@@ -1,0 +1,303 @@
+{
+  "_id": 1029,
+  "id": "tian_lang",
+  "name": "Tian Lang",
+  "weapon": "Brise-tonnerre",
+  "weapon_id": "thunderbreaker",
+  "birthday": "23 mars",
+  "birthplace": "Éco-centre de Mirroria",
+  "gender": "Masculin",
+  "info": "Il bâille souvent et semble désordonné, mais il joue souvent un rôle actif pour redonner le moral à l'équipe.\nEn réalité, c'est une personne très attentionnée avec un extérieur chaleureux et un intérieur froid, qui ne montre pas facilement ses vrais sentiments.",
+  "description": "Un amoureux des fleurs employé par l'Éco-centre de Mirroria. Chargé de la vente et de l'entretien des plantes au quotidien, il a tendance à être appelé \"le responsable\".\n\nEn réalité, c'est le meilleur Exécutant du district 7, et sa puissance est incommensurable. Peu sont au courant de sa véritable identité, et en tant que \"atout caché\" de son district, il n'intervient qu'en temps de crise à Mirroria.\n\nLors d'un combat, il a repoussé la vague d'énergie d'un Abîmien de sa main gauche et a été gravement brûlé. Depuis son opération de régénération des tissus, il porte un gant renforcé conforme aux caractéristiques de son arme, \"Brise-tonnerre\", afin de mieux se battre.",
+  "like": "Les fleurs, se détendre, l'Éco-centre de Mirroria",
+  "dislike": "Les désagréments, les opérations d'Exécutant",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Mizar",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, attaquez 6 fois de suite avec Brise-tonnerre.\nPremière attaque : inflige des dégâts équivalant à <b>90.5%</b> de l'ATQ + <b>5</b> et repousse la cible.\nDeuxième attaque : inflige des dégâts équivalant à <b>67.9%</b> de l'ATQ + <b>4</b> et repousse la cible.\nTroisième attaque : inflige des dégâts équivalant à <b>123%</b> de l'ATQ + <b>6</b> et repousse la cible.\nQuatrième attaque : inflige des dégâts équivalant à <b>217.9%</b> de l'ATQ + <b>11</b> et repousse la cible.\nCinquième attaque : inflige des dégâts équivalant à <b>222%</b> de l'ATQ + <b>12</b> et repousse la cible.\nSixième attaque : inflige des dégâts équivalant à <b>291.8%</b> de l'ATQ + <b>15</b> et projette la cible."
+    },
+    {
+      "name": "Megrez",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>87.4%</b> de l'ATQ + <b>5</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>83%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>126.7%</b> de l'ATQ + <b>7</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>229.4%</b> de l'ATQ + <b>12</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>256.5%</b> de l'ATQ + <b>14</b>."
+    },
+    {
+      "name": "Phecda",
+      "type": [
+        "Attack"
+      ],
+      "description": "Se déclenche en appuyant et en maintenant Attaque normale lorsque vous êtes au sol.\nInflige des dégâts équivalant à <b>342%</b> de l'ATQ + <b>18</b> à la cible et attire les ennemis autour de vous."
+    },
+    {
+      "name": "Merak",
+      "type": [
+        "Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>38%</b> de l'ATQ + <b>2</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>285%</b> de l'ATQ + <b>15</b> aux cibles proches."
+    },
+    {
+      "name": "Esquiver",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant <b>0,5</b> seconde."
+    },
+    {
+      "name": "Alioth",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale rapidement après une esquive.\nÉlancez-vous pour attaquer la cible, en infligeant des dégâts équivalant à <b>172.6%</b> de l'ATQ + <b>9</b>."
+    },
+    {
+      "name": "Dubhe",
+      "type": [
+        "Skill"
+      ],
+      "description": "Lance un barrage d'attaques infligeant des dégâts équivalant à <b>936.9%</b> de l'ATQ + <b>49</b> aux ennemis à portée, et transformant les ennemis et invocations se trouvant dans un rayon déterminé en entités électrifiées (jusqu'à 3 entités électrifiées peuvent être actives à la fois). Temps de recharge : <b>30</b> secondes.\n\nBénéficiez de Détection de foudre lors de l'utilisation de Dubhe : analyse les deux autres armes équipées lorsqu'une compétence est utilisée. Chaque fois qu'une arme de foudre est détectée, l'ATQ de foudre augmente de <b>6%</b> pendant <b>25</b> secondes.\n\nEntité électrifiée : lorsqu'une compétence d'arme de foudre ou une compétence de décharge est utilisée, les entités électrifiées infligent des dégâts de zone de foudre équivalant à <b>5%</b> des PV manquants (les dégâts infligés ne peuvent pas être inférieurs à <b>100%</b> ou supérieurs à <b>1 000%</b> de l'ATQ de foudre).\n\nLorsque vous brandissez Brise-tonnerre, l'utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge consomme <b>30%</b> des PV actuels pour infliger des dégâts de foudre supplémentaires équivalant à <b>50%</b> des PV consommés (les dégâts supplémentaires ne peuvent pas être inférieurs à <b>480%</b> ou supérieurs à <b>3 000%</b> de l'ATQ de foudre). Vous bénéficiez également d'une invincibilité temporaire (non disponible en Ligue ultime). Après <b>8</b> secondes, ou lorsque vos PV passent sous le seuil des <b>10%</b>, vous récupérez <b>5%</b> de vos PV manquants chaque seconde pendant <b>8</b> secondes (ignore les effets de soin). L'effet de récupération ne peut pas être cumulé."
+    },
+    {
+      "name": "Oblitérateur",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations du porteur</b> au moment où vous changez d'arme pour passer à celle-ci. Brise-tonnerre déchaîne des dégâts de foudre dans une zone de grande envergure, infligeant un total de dégâts équivalant à <b>844.6%</b> de l'ATQ + <b>44</b> et transformant les ennemis ou vos invocations se trouvant dans un rayon déterminé en entités électrifiées (jusqu'à 3 entités électrifiées peuvent être actives à la fois).\n\nEntité électrifiée : lorsqu'une compétence de décharge d'arme de foudre est utilisée, les entités électrifiées infligent des dégâts de zone de foudre équivalant à <b>5%</b> des PV manquants (les dégâts infligés ne peuvent pas être inférieurs à <b>100%</b> ou supérieurs à <b>1 000%</b> de l'ATQ de foudre).\n\nLorsque vous brandissez Brise-tonnerre, l'utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge consomme <b>30%</b> des PV actuels pour infliger des dégâts de foudre supplémentaires équivalant à <b>50%</b> des PV consommés (les dégâts supplémentaires ne peuvent pas être inférieurs à <b>480%</b> ou supérieurs à <b>3 000%</b> de l'ATQ de foudre). Vous bénéficiez également d'une invincibilité temporaire (non disponible en Ligue ultime). Après <b>8</b> secondes, ou lorsque vos PV passent sous le seuil des <b>10%</b>, vous récupérez <b>5%</b> de vos PV manquants chaque seconde pendant <b>8</b> secondes (ignore les effets de soin). L'effet de récupération ne peut pas être cumulé."
+    }
+  ],
+  "weapon_type": {
+    "name": "Foudre",
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse lourdement</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous leurs effets bénéfiques et inflige des dégâts équivalant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+  },
+  "weapon_resonance": {
+    "name": "Réaction de foudre",
+    "description": "<b>Réaction de foudre</b> : accroît l'ATQ de foudre de <b>20 %</b> et la résistance à la foudre de <b>40 %</b>. S'active en équipant au moins <b>2</b> armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de foudre ou de Réaction de foudre, et Résonance de foudre prévaut."
+  },
+  "advancement": [
+    "Vous obtenez 1 cumul de Superconducteur par charge : accroît les PV max de <b>7.5%</b> et les dégâts subis de <b>2%</b> (sauf si les PV actuels sont inférieurs à 8 fois l'ATQ de foudre et aucun bouclier de PV n'est équipé). Cumulable jusqu'à <b>8</b> fois. Vous perdrez 1 cumul si vous n'obtenez aucune charge de Superconducteur pendant <b>6</b> secondes.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Utilisez n'importe quelle compétence de décharge ou compétence d'arme de foudre pour obtenir <b>2</b> charges. Hypercorps vous est conféré lorsque vous atteignez <b>8</b> cumuls de Superconducteur.",
+    "Accroît de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
+    "Chaque cumul de Superconducteur accroît les dégâts finaux de <b>1%</b>.",
+    "Bonus de Détection de foudre de Dubhe : pour chaque arme de foudre détectée, octroie <b>10%</b> de bonus de dégâts de foudre pendant <b>25</b> secondes."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Chaque utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge octroie <b>1</b> tentative d'esquive gratuite, jusqu'à un maximum de <b>2</b> tentatives. Lorsqu'une compétence d'arme de foudre et une compétence de décharge sont utilisées simultanément, les dégâts de foudre sont accrus de <b>{0}%</b> pendant <b>8</b> secondes. L'effet ne peut pas être cumulé.",
+      "values": [
+        12
+      ]
+    },
+    {
+      "name": "",
+      "description": "Chaque utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge octroie <b>1</b> tentative d'esquive gratuite, jusqu'à un maximum de <b>3</b> tentatives. Lorsqu'une compétence d'arme de foudre et une compétence de décharge sont utilisées simultanément, les dégâts de foudre sont accrus de <b>{0}%</b> pendant <b>8</b> secondes. L'effet ne peut pas être cumulé.",
+      "values": [
+        18
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Cadre d'amplification II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

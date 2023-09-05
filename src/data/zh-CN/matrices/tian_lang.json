@@ -1,0 +1,34 @@
+{
+  "_id": 40020,
+  "id": "tian_lang",
+  "name": "天琅",
+  "suitName": "",
+  "hash": "SSR20",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Every time volt damage is dealt, there is a <b>40%</b> chance of triggering chain lightning, dealing damage equal to <b>50%</b>/65%/90%/120% of volt ATK to up to <b>7</b> targets. Cooldown: <b>2</b> seconds. Every time chain lightning is triggered, increase volt damage by <b>6%</b> for <b>6</b> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Every time a volt weapon's skill or discharge skill is used, increase volt damage by <b>12%</b>/14%/16%/18% for <b>15</b> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "将星",
+    "desc": "如果生在古代，可能是守土一方的大将。"
+  },
+  "memory": {
+    "name": "归源避争",
+    "desc": "比起战斗，更喜欢与花草作伴悠情闲怡。"
+  },
+  "belief": {
+    "name": "动荡",
+    "desc": "树欲静而风不止，无可奈何。"
+  },
+  "emotion": {
+    "name": "异力降服",
+    "desc": "什么东西，都影响不了我的意志。"
+  }
+}

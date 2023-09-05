@@ -4,7 +4,7 @@
   "name": "Meryl",
   "weapon": "Rosy Edge",
   "weapon_id": "rosy_edge",
-  "birthday": "October 10 (Libra)",
+  "birthday": "October 10",
   "birthplace": "Hykros",
   "gender": "Female",
   "info": "Cold, aloof, and indifferent. She doesn't show any emotions at all. It's not that she's emotionless, she just refuses to build relationships with others.",
@@ -20,58 +20,84 @@
   "skills": [
     {
       "name": "Heavy Cleave",
-      "type": ["Attack"],
-      "description": "While on the ground, swing a greatsword to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>72.9%</b> of ATK + <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>60.1%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>105.4%</b> of ATK + <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>, <b>strongly launch</b> the target, then launch them upon landing."
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing a greatsword to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>72.9%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>60.1%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>105.4%</b> of ATK plus <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>156%</b> of ATK plus <b>8</b>, <b>strongly launch</b> the target, then launch them upon landing."
     },
     {
       "name": "Aerial Strike",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>106.5%</b> of ATK + <b>6</b>.\nSecond Attack: Deal damage equal to <b>87.5%</b> of ATK + <b>5</b>.\nThird Attack: Deal damage equal to <b>156%</b> of ATK + <b>8</b>.\nFourth Attack: Deal damage equal to <b>140.5%</b> of ATK + <b>7</b> and deliver a <b>knockdown</b>, launch the target upon landing."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>106.5%</b> of ATK plus <b>6</b>.\nSecond Attack: Deal damage equal to <b>87.5%</b> of ATK plus <b>5</b>.\nThird Attack: Deal damage equal to <b>156%</b> of ATK plus <b>8</b>.\nFourth Attack: Deal damage equal to <b>140.5%</b> of ATK plus <b>7</b> and deliver a <b>knockdown</b>, launch the target upon landing."
     },
     {
       "name": "Rising Slash",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "After the third normal attack, hold normal attack to trigger Rising Slash.\nUpon hit, <b>strongly suspend</b> the target and go airborne, dealing damage equal to <b>64.3%</b>of ATK + <b>3</b>."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After the third normal attack, hold normal attack to trigger Rising Slash.\nUpon hit, <b>strongly suspend</b> the target and go airborne, dealing damage equal to <b>64.3%</b>of ATK plus <b>3</b>."
     },
     {
       "name": "Moonset Slash",
-      "type": ["Jump", "Hold: Attack"],
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
       "description": "Moonset Slash"
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>."
     },
     {
       "name": "Whirlwind",
-      "type": ["Hold: Attack"],
-      "description": "While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to <b>132.8%</b> of ATK + <b>7</b> every <b>0.5</b> seconds to the target. Grant hitstun immunity while in use."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to <b>132.8%</b> of ATK plus <b>7</b> every <b>0.5</b> seconds to the target. Grant hitstun immunity while in use."
     },
     {
       "name": "Devastate",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate.\nDeal damage equal to <b>65.9%</b> of ATK + <b>3</b> each hit and <b>launch</b> targets."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate.\nDeal damage equal to <b>65.9%</b> of ATK plus <b>3</b> each hit and <b>launch</b> targets."
     },
     {
       "name": "Crescent Slash",
-      "type": ["Dodge", "Attack"],
-      "description": "Tap normal attack during the short period after dodging to trigger Crescent Slash.\nSwing the greatsword to unleash sword auras forward, each dealing damage equal to <b>49.6%</b> of ATK + <b>3</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack during the short period after dodging to trigger Crescent Slash.\nSwing the greatsword to unleash sword auras forward, each dealing damage equal to <b>49.6%</b> of ATK plus <b>3</b>."
     },
     {
       "name": "Blizzard",
-      "type": ["Skill"],
-      "description": "Swing the greatsword to launch sword auras forward, each dealing damage equal to <b>141.7%</b> of ATK + <b>7</b> and increasing damage dealt by <b>5%</b> with each hit. While active, immune to control effects. Cooldown: <b>45</b> seconds."
+      "type": [
+        "Skill"
+      ],
+      "description": "Swing the greatsword to launch sword auras forward, each dealing damage equal to <b>141.7%</b> of ATK plus <b>7</b> and dealing increasing damage of <b>5%</b> with each hit. Immune to control effects while active. Cooldown: <b>30</b> seconds."
     },
     {
       "name": "Frost Barrier",
-      "type": ["Discharge"],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and smash the ground to form a barrier, dealing damage equal to <b>503.2%</b> of ATK + <b>26</b> to nearby enemies, suspending the targets. This reduces their speed by <b>50%</b> and stops them from dodge or jump. The barrier lasts <b>5</b> seconds and blocks projectiles."
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and smash the ground to form a barrier, dealing damage equal to <b>503.2%</b> of ATK plus <b>26</b> to nearby enemies, suspending the targets. This reduces their speed by <b>50%</b> and stops them from dodging or jumping. The barrier lasts <b>5</b> seconds and blocks projectiles."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "When the weapon is fully charged, the next attack will <b>freeze</b> targets for <b>2</b> seconds and leave them frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly freeze</b> targets for <b>2</b> seconds and leave them frostbitten for <b>6</b> seconds. Breaking the ice shell deals damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
   },
   "advancement": [
     "Increase shatter by <b>15%</b> and restore <b>10%</b> of HP after shattering the target's shield.",
@@ -79,7 +105,7 @@
     "Upon switching to the weapon, gain an Ice Shield equal to <b>10%</b> of Max HP. Cooldown: <b>20</b> seconds. The Ice Shield lasts up to <b>10</b> seconds.",
     "Increase the current weapon's base HP growth by <b>32%</b>.",
     "Increase damage and shatter by <b>50%</b> while the shield is active.",
-    "Upon switching to the weapon, gain an Ice Shield equal to <b>20%</b> of Max HP and immune to controls when shield is active. Cooldown: <b>20</b> seconds. The Ice Shield lasts up to <b>10</b> seconds."
+    "Upon switching to the weapon, gain an Ice Shield equal to <b>20%</b> of Max HP and immunity to being controlled when shield is active. Cooldown: <b>20</b> seconds. The Ice Shield lasts up to <b>10</b> seconds."
   ],
   "traits": [
     {
@@ -254,13 +280,13 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_winter",
-        "name": "Heart of winter",
+        "name": "Heart of Winter",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "nano_coating_ii",
-        "name": "Nano coating II",
+        "name": "Nano Coating II",
         "rarity": "SR",
         "amount": 5
       },

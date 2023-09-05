@@ -1,0 +1,34 @@
+{
+  "_id": 40026,
+  "id": "scylla",
+  "name": "Scylla",
+  "suitName": "Reverberating Drums",
+  "hash": "SSR26",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping this matrix on the current weapon increases crit damage by <b>13%</b>/16%/19%/23% and shatter by <b>13%</b>/16%/19%/23%."
+    },
+    {
+      "count": 4,
+      "value": "Equipping 2 or more weapons of different elements or types increases all elemental damage by <b>9.5%</b>/11.5%/13.5%/15.5%. The effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Rip",
+    "desc": "The barbaric gesture doesn't match its elegant appearance."
+  },
+  "memory": {
+    "name": "Improvise",
+    "desc": "A spur-of-the-moment performance."
+  },
+  "belief": {
+    "name": "Discord",
+    "desc": "This may be your final opportunity to listen to a melody."
+  },
+  "emotion": {
+    "name": "Rhythm",
+    "desc": "Heavy and sticky..."
+  }
+}

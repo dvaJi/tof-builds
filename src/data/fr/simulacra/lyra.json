@@ -1,0 +1,334 @@
+{
+  "_id": 13,
+  "id": "lyra",
+  "name": "Lyre",
+  "weapon": "Vesper",
+  "weapon_id": "vesper",
+  "birthday": "23 juin",
+  "birthplace": "Fonds de Maidelin",
+  "gender": "Féminin",
+  "info": "Bien plus de gens encore ignorent que la fondation Maidelin est dirigée par une personne distante, discrète et posée.\nElle n'est pas du genre à se mêler de ce qui ne la regarde pas, mais n'hésite pas à intervenir quand la situation part en vrille.\n\"Je ne fais que suivre la volonté de Mme Maidelin.\"",
+  "description": "Seule héritière de Mme Maidelin, contributrice de renom dans de nombreuses sphères technologiques, qui la considérait comme sa plus proche famille.\n\nRien ne permet de retracer exactement les dernières volontés de Mme Maidelin et ce qui a motivé ses décisions… Quoi qu'il en soit, Lyra fait preuve d'une attitude similaire à la sienne dans ses fonctions administratives.\n\nGrâce à son partenariat avec Hykros, Lyra bénéficie d'une certaine influence au sein de la hiérarchie que beaucoup ignorent à cause de son caractère discret.",
+  "like": "Le violon",
+  "dislike": "Les microbes et les taches tenaces",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Support",
+  "resonance": "DPS",
+  "shatter": 12,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Attaque Vesper normale passive",
+      "type": [
+        "Passive"
+      ],
+      "description": "<span class=\"text-green\">Illumination</span> : au contact, l'attaque normale de Vesper sans Résonance de Bénédiction inflige des dégâts supplémentaires aux cibles portant la <b>marque de l'Illumination</b>, équivalant au nombre de gardes que vous portez x <b>6,4%</b> de l'ATQ (sans dépasser 38,4% x ATQ au total). Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires et sont considérés comme des dégâts de compétences de décharge et de compétence d'arme.\n\nAu contact, l'attaque normale de Vesper sans Résonance de Bénédiction inflige des dégâts supplémentaires aux cibles portant la <b>marque de l'Illumination</b>, équivalant au nombre de gardes que vous et les membres de votre équipe portez x <b>4,6%</b> de l'ATQ (sans dépasser 36,8% x ATQ au total). Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires et sont considérés comme des dégâts de compétences de décharge et de compétence d'arme.\n<span class=\"text-green\">Rayonnement</span> : au contact, toutes les attaques normales de Vesper restaurent des PV équivalant à <b>15%</b> de l'ATQ.\n<span class=\"text-green\">Frappe sacrée</span> : l'attaque aérienne et l'Accumulateur de Vesper peuvent convertir 60% de la charge en fracture.\n<span class=\"text-green\">Garde</span> : pour chaque perte de <b>15%</b> des PV ou toutes les <b>300</b> recharges d'arme gagnées, obtenez jusqu'à <b>5</b> gardes de l'Illumination (peuvent apparaître dans l'emplacement main libre). Les gardes de l'Illumination durent <b>25</b> secondes. Si vous possédez le maximum de gardes de l'Illumination, les gardes nouvellement produites attaqueront les ennemis, en infligeant des dégâts physiques équivalant à <b>120%</b> de l'ATQ, avant de disparaître. Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires.\n\nRemarque : dans Fantasme révolu, Vesper n'est pas considérée comme une arme d'assistance."
+    },
+    {
+      "name": "Attaque Vesper normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, utilisez Vesper pour lancer 5 attaques consécutives.\nPremière attaque : inflige des dégâts équivalant à <b>81.6%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>59.1%</b> de l'ATQ + <b>3</b> et repousse la cible de manière significative.\nTroisième attaque : inflige des dégâts équivalant à <b>123.9%</b> de l'ATQ + <b>7</b> et fait reculer la cible d'une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>173%</b> de l'ATQ + <b>9</b> et suspend la cible.\nCinquième attaque : inflige des dégâts équivalant à <b>196.4%</b> de l'ATQ + <b>10</b> et projette la cible dans les airs."
+    },
+    {
+      "name": "Frustration",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes en l'air, appuyez sur Attaque normale pour utiliser Frustration. Chaque coup inflige des dégâts équivalant à <b>33.2%</b> de l'ATQ + <b>2</b> et consomme <b>10</b> points d'endurance. Le dernier coup inflige des dégâts équivalant à <b>556.6%</b> de l'ATQ + <b>29</b> et projette la cible dans les airs.\nLors du recours à Frustration, tentez de saisir la cible pour l'envoyer au sol et lui infliger des dégâts équivalant à <b>124.5%</b> de l'ATQ + <b>7</b> au total."
+    },
+    {
+      "name": "Accumulateur",
+      "type": [
+        "Attack"
+      ],
+      "description": "Maintenez Attaque normale pour déclencher jusqu'à <b>3</b> charges. Au contact, <b>suspendez longuement</b> la cible et gagnez l'immunité contre les dégâts et effets de contrôle pendant l'attaque de type Accumulateur. Relâcher avant d'être touché peut déclencher Fantaisie.\nPhase 1 de l'impact chargé : inflige des dégâts équivalant à <b>96%</b> de l'ATQ + <b>5</b>.\nPhase 2 de l'impact chargé : inflige des dégâts équivalant à <b>223%</b> de l'ATQ + <b>12</b>.\nPhase 3 de l'impact chargé : inflige des dégâts équivalant à <b>360.5%</b> de l'ATQ + <b>19</b>."
+    },
+    {
+      "name": "Scintillement",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale pendant les attaques normales ou après une esquive pour déclencher Scintillement. Chaque coup inflige des dégâts équivalant à <b>20%</b> de l'ATQ + <b>1</b> et consomme <b>10</b> points d'endurance. Relâchez le bouton pour déclencher Accumulateur."
+    },
+    {
+      "name": "Pilonner",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs, maintenez Attaque normale pour déclencher 3 charges en l'air. Relâchez pour pilonner le sol et <b>suspendre longuement</b> les cibles. Relâcher avant d'être touché peut déclencher Fantaisie.\nPhase 1 de l'attaque chargée : inflige des dégâts équivalant à <b>166.3%</b> de l'ATQ + <b>9</b>.\nPhase 2 de l'attaque chargée : inflige des dégâts équivalant à <b>288.2%</b> de l'ATQ + <b>15</b>.\nPhase 3 de l'attaque chargée : inflige des dégâts équivalant à <b>454.4%</b> de l'ATQ + <b>24</b>."
+    },
+    {
+      "name": "Capture d'esprit",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Après une esquive, appuyez sur Attaque normale pour attirer la cible à vous pendant <b>2</b> secondes et lui infliger des dégâts équivalant à <b>261.4%</b> de l'ATQ + <b>14</b>. Maintenir Attaque normale après une esquive peut déclencher <b>Scintillement</b> après avoir lancé <b>Capture d'esprit</b>."
+    },
+    {
+      "name": "Esquiver",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant <b>0,5</b> seconde et vous récupérez <b>250</b> d'endurance."
+    },
+    {
+      "name": "Garde du pardon",
+      "type": [
+        "Skill"
+      ],
+      "description": "<span class=\"text-green\">Garde du pardon</span> : en cas de surplus de l'effet de guérison, garantit un bouclier de PV pouvant aller jusqu'à <b>60%</b> des PV max. Lorsque Vesper est associé à une garde du pardon, différentes résonances vont activer différents effets de garde.\n<span class=\"text-green\">Garde de la bénédiction</span> : cette compétence est remplacée par <b>Lèvebrillance</b> et l'Explorateur ne remporte plus de garde de l'illumination, convertie en garde du pardon pour les membres du groupe. Rapporte une garde du pardon tous les <b>15%</b> de PV max soignés et rapporte jusqu'à 1 garde du pardon à chaque membre du groupe. Si chaque membre en possède une, la garde du pardon inflige à l'ennemi des dégâts physiques équivalant à <b>120%</b> de l'ATQ avant de disparaître. Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires. Accroît également les PV max de <b>12,5%</b> pour vous et les membres du groupe. Non cumulable.\n <span class=\"text-green\">Garde d'attaque</span> : lorsqu'une compétence de Vesper touche sa cible, gagne immédiatement un bouclier équivalant à <b>30%</b> des PV max, avec un temps de recharge de <b>30</b> secondes.\n<span class=\"text-green\">Garde de fortitude</span> : lorsqu'une compétence de Vesper touche sa cible, gagne immédiatement un soin restaurant <b>2%</b> des PV max par seconde pendant <b>20</b> secondes, avec un temps de recharge de <b>30</b> secondes.\n <span class=\"text-green\">Garde d'équilibre</span>: lorsque les PV sont supérieurs à <b>50%</b>, Fracture s'accroît de <b>20%</b>. Lorsque les PV sont inférieurs à <b>50%</b>, les dégâts finaux augmentent de <b>10%</b> et Fracture de <b>10%</b>."
+    },
+    {
+      "name": "Tombétoile",
+      "type": [
+        "Skill"
+      ],
+      "description": "Bondir sur la cible inflige des dégâts équivalant à <b>702.1%</b> de l'ATQ + <b>37</b> et la <b>suspend longuement</b>. Inflige une marque de l'Illumination sur la cible pendant <b>18</b> secondes. Temps de recharge : <b>20</b> secondes."
+    },
+    {
+      "name": "Lèvebrillance",
+      "type": [
+        "Skill"
+      ],
+      "description": "Pilonne le sol et <b>projette fortement</b> les cibles en face, infligeant des dégâts équivalant à <b>702.1%</b> de l'ATQ + <b>37</b> et invoque jusqu'à <b>3</b> <b>lames</b> pendant <b>75</b> secondes (jusqu'à 1 lame tous les 2 mètres). Cette compétence peut être utilisée jusqu'à <b>3</b> fois, avec un temps de recharge de <b>20</b> secondes à chaque fois. La coexistence de 2 <b>lames</b> sur le terrain crée une <b>Clairbrillance</b>. Lorsqu'une <b>lame</b> est touchée, elle soigne les cibles au sein du rayon de mouvement, restaurant des PV équivalant à <b>25%</b> de l'ATQ de la cible. La coexistence de 3 <b>lames</b> crée une <b>Nébuleuse</b>. Lorsqu'une <b>lame</b> est touchée, elle inflige des dégâts aux cibles se trouvant dans le rayon de mouvement équivalant à <b>150%</b> de l'ATQ x la distance de mouvement / <b>5</b> m."
+    },
+    {
+      "name": "Soupir chantant",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée,<b> supprime toutes les altérations sur le porteur</b> et déclenche un Soupir chantant sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>748.1%</b> de l'ATQ + <b>39</b> et ajoutant une marque de l'Illumination sur la cible pendant <b>18</b> secondes, au cours desquelles l'immunité aux dégâts dure <b>2,6</b> secondes (non disponible en Ligue ultime)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Blessure grave",
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque inflige blessure grave aux ennemis pendant <b>7</b> secondes, augmentant leurs dégâts subis de <b>20%</b> et infligeant des dégâts équivalant à <b>{1}%</b> de l'ATQ. En <yellow_lbl_14_1>jeu en équipe</>, les cibles gravement blessées subissent <b>20%</b> de dégâts physiques supplémentaires."
+  },
+  "weapon_resonance": {
+    "name": "Résonance physique",
+    "description": "<b>Résonance physique</b> : accroît l'ATQ physique de <b>15%</b> et la résistance physique de <b>25%</b>. Activez-la en équipant au moins <b>2</b> armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les autres effets de résonance physique ou réaction physique, et la résonance physique prend effet en premier.\n<b>Bénédiction physique</b> : accroît l'ATQ physique de <b>5%</b> quand Résonance de bénédiction est activée."
+  },
+  "advancement": [
+    "Lorsque vous déclenchez une compétence d'armes ou de décharge, si vos gardes sont au maximum, la durée de la garde sera réactualisée et infligera des dégâts physiques équivalant à <b>100%</b> de l'ATQ physique x le nombre de gardes contre l'ennemi. Jusqu'à 8 gardes avec l'effet de Bénédiction, et jusqu'à 6 sans.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Accroît tous les dégâts infligés par les gardes de <b>20%</b>, et les dégâts finaux de <b>15%</b> sur la cible en garde pendant <b>10 secondes</b> lorsque vous déclenchez une compétence d'armes ou de décharge sous l'effet de Résonance de bénédiction.",
+    "Accroît de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Garde du pardon : après avoir déclenché Résonance 5 fois, vous avez <b>1</b> chance d'annuler des dégâts fatals pour l'utilisateur et la cible en garde. Après qu'un membre du groupe annule des dégâts fatals, il consomme la garde du pardon et récupère <b>5%</b> des PV max. Non disponible en Ligue ultime.\nGarde de l'illumination : après avoir déclenché Résonance 5 fois et en présence de la garde de l'illumination, l'utilisateur a <b>2</b> chances d'annuler des dégâts fatals. Se cumule jusqu'à <b>5</b> fois. Après que l'utilisateur annule des dégâts fatals, il consomme 1 cumul de Garde de l'illumination et récupère <b>5%</b> des PV max. Non disponible en Ligue ultime.",
+    "Lorsque vous déclenchez une compétence d'arme ou de décharge, l'augmentation des dégâts finaux et des soins dépend du nombre de gardes. Chaque garde augmente de <b>1.6%</b> les dégâts finaux et les effets de soin, jusqu'à <b>8%</b> maximum pendant <b>25 secondes</b>."
+  ],
+  "traits": [
+    {
+      "name": "Changecœur",
+      "description": "Résonance de Bénédiction : accroît les PV max de {0}% pour l'ensemble du groupe. Non cumulable.",
+      "values": [
+        10
+      ]
+    },
+    {
+      "name": "Bénir",
+      "description": "Résonance de Bénédiction : accroît les PV max de {0}% pour l'ensemble du groupe. L'effet ne peut pas être cumulé. Augmente vos PV max de {1}% supplémentaires. Hypercorps est conféré aux alliés pendant {2} secondes chaque fois que la compétence est utilisée pendant que vous bénéficiez d'Hypercorps ou que vos PV sont supérieurs à 50%.",
+      "values": [
+        10,
+        50,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Cadre d'amplification II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

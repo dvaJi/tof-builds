@@ -4,7 +4,7 @@
   "name": "Tsubasa",
   "weapon": "Eiswind-Pfeil",
   "weapon_id": "icewind_arrow",
-  "birthday": "24. März (Widder)",
+  "birthday": "24. März",
   "birthplace": "Erben von Aida",
   "gender": "Weiblich",
   "info": "Eine Opportunistin, die ihre Segel nach dem Wind richtet. Sie ist proaktiv, gesprächig und gesellig.\nSie findet schnell Freunde und wird nicht leicht sauer, auch nicht, wenn jemand sie auf ihre opportunistischen Tendenzen hinweist. Darüber hinaus ist sie offen für neue und ungewöhnliche Ideen.\nAllerdings ist sie definitiv kein Mensch, der Sicherheit vermittelt.",
@@ -20,46 +20,63 @@
   "skills": [
     {
       "name": "Schnelles Ziehen",
-      "type": ["Attack"],
-      "description": "Während du auf dem Boden stehst, spanne den Bogen wiederholt, um 5 Mal anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>48.8%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>43.7%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>78.6%</b> des ANG + <b>4</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>121.2%</b> des ANG + <b>6</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>112.5%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück."
+      "type": [
+        "Attack"
+      ],
+      "description": "Der Anwender spannt den Bogen am Boden mehrfach, um 5-mal anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>48.8%</b> des ANG +<b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>43.7%</b> des ANG +<b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>78.6%</b> des ANG +<b>4</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>121.2%</b> des ANG +<b>6</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>112.5%</b> des ANG +<b>6</b> und stößt das Ziel eine kurze Strecke zurück."
     },
     {
       "name": "Aufgeladener Pfeil",
-      "type": ["Hold: Attack"],
-      "description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Fügt Grundschaden in Höhe von <b>87.8</b> des ANG + <b>5</b> zu, und <b>50%</b> mehr pro <b>1</b> Sek., die mit Aufladen verbracht wird, aber nur bis zu <b>3</b> Sek. Verursacht doppelten Schaden, wenn du einen Kopfschuss erzielst oder die Schwachstelle eines Gegners triffst und das Ziel zu Fall bringst (Kopfschüsse sind gegen Wanderer unwirksam)."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Verursacht Grundschaden in Höhe von <b>87.8</b> des ANG +<b>5</b>, der pro <b>1</b> Sek. Aufladen um <b>50%</b> steigt (bis zu <b>3</b> Sek.). Bei Kopfschüssen oder einem Treffer an der Schwachstelle des Gegners wird der Schaden verdoppelt und der Gegner zu Fall gebracht (Kopfschüsse sind gegen Wanderer unwirksam)."
     },
     {
       "name": "Pfeilhagel",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Halten des normalen Angriffs nach einem beliebigen normalen Angriff löst „Pfeilhagel“ aus. Dies verursacht Flächenschaden in Höhe von bis zu <b>287.2%</b> des ANG + <b>15</b> an Zielen."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte den normalen Angriff nach einem beliebigen normalen Angriff, um „Pfeilhagel“ auszulösen. Dies fügt Zielen Flächenschaden in Höhe von bis zu <b>287.2%</b> des ANG +<b>15</b>."
     },
     {
       "name": "Luft-Salve",
-      "type": ["Jump", "Attack"],
-      "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>56.3%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>74%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>112.7%</b> des ANG + <b>6</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>169.8%</b> des ANG + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>56.3%</b> des ANG +<b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>74%</b> des ANG +<b>4</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>112.7%</b> des ANG +<b>6</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>169.8%</b> des ANG +<b>9</b>."
     },
     {
       "name": "Geladener Pfeil",
-      "type": ["Dodge", "Attack"],
-      "description": "Tippe nach dem Ausweichen auf den normalen Angriff, um einen geladenen Pfeil auszulösen. Dies <b>wirft das Ziel zurück</b> und verursacht Schaden in Höhe von <b>124%</b> des ANG + <b>7</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe nach dem Ausweichen auf den normalen Angriff, um „Geladener Pfeil“ auszulösen. Dieser <b>stößt das Ziel zurück</b> und verursacht Schaden in Höhe von <b>124%</b> des ANG +<b>7</b>."
     },
     {
       "name": "Durchdringender Schuss",
-      "type": ["Skill"],
-      "description": "Schießt im Rückwärtssalto <b>3</b>-mal „Durchdringender Schuss“ ab. Der Hauptschuss verursacht Schaden in Höhe von <b>258.3%</b> des ANG + <b>14</b> und die anderen beiden Schüsse verursachen 60% Schaden. Außerdem werden <b>Ziele zurückgestoßen</b> und für <b>5</b> Sek. betäubt, wenn sie auf ein Hindernis prallen. Abklingzeit: <b>12</b> Sek."
+      "type": [
+        "Skill"
+      ],
+      "description": "Schießt im Rückwärtssalto <b>3</b>-mal „Durchdringender Schuss“ ab. Der Hauptschuss verursacht Schaden in Höhe von <b>258.3%</b> des ANG +<b>14</b> und die anderen beiden Schüsse verursachen 60% Schaden. Außerdem werden <b>Ziele zurückgestoßen</b> und für <b>5</b> Sek. betäubt, wenn sie auf ein Hindernis prallen. Abklingzeit: <b>12</b> Sek."
     },
     {
       "name": "Explosives Sperrfeuer",
-      "type": ["Discharge"],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, <b>werden beim Wechsel zu dieser Waffe alle Debuffs vom Anwender entfernt</b> und am Zielort ein Hagelsturm erzeugt. Dies verursacht einen Schaden in Höhe von <b>570%</b> des ANG + <b>30</b>. Der Sturm bewirkt mit einer Chance von <b>10%</b> für <b>2</b> Sek. einen <b>Einfrieren-Effekt</b>. Der Wanderer erhält den Effekt „Kaltfront“ und seine Geschwindigkeit wird für <b>7</b> Sek. um <b>45%</b> erhöht."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und am Zielort ein Hagelsturm erzeugt. Dies verursacht Schaden in Höhe von <b>570%</b> des ANG + <b>30</b>. Der Sturm bewirkt mit einer Chance von <b>10%</b> für <b>2</b> Sek. einen <b>starken Einfrieren-Effekt</b>. Der Wanderer erhält den Effekt „Kaltfront“ und seine Geschwindigkeit wird für <b>7</b> Sek. um <b>45%</b> erhöht."
     }
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, bewirkt der nächste Angriff für <b>2</b> Sek. einen <b>starken Einfrieren-Effekt</b> und verursacht bei Zielen <b>6</b> Sek. lang Erfrierungen. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während der Erfrierungen wird die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
-    "Gewährt jedes Mal, wenn der durch einen Angriff mit „Ausweichen“ abgeschossene Pfeil ein Ziel trifft, einen Stapel von „Spitzer Pfeil“. Jeder Stapel erhöht den Schaden für <b>15</b> Sek. um <b>5%</b>. Der Effekt kann bis zu <b>3</b>-mal gestapelt werden.",
+    "Gewährt jedes Mal, wenn der durch einen Ausweichangriff abgeschossene Pfeil ein Ziel trifft, einen Stapel von „Spitzer Pfeil“. Jeder Stapel erhöht den Schaden für <b>15</b> Sek. um <b>5%</b>. Der Effekt kann bis zu <b>3</b>-mal gestapelt werden.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
     "Bei Ausweichangriffen werden <b>3</b> aufgeladene Pfeile abgeschossen.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",

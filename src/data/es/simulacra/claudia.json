@@ -4,7 +4,7 @@
   "name": "Claudia",
   "weapon": "Espada Guren",
   "weapon_id": "guren_blade",
-  "birthday": "16 de enero (Capricornio)",
+  "birthday": "16 de enero",
   "birthplace": "Hykros",
   "gender": "Femenino",
   "info": "Confiable, tenaz y sumamente motivada en lo que respecta a la batalla. Puede parecer distante, pero es noble y apasionada con aquellos que la conocen. Claudia tiene un gran sentido de justicia, y siempre está lista para ayudar a los demás y combatir la injusticia adonde sea que vaya.",
@@ -20,52 +20,73 @@
   "skills": [
     {
       "name": "Corte Rápido",
-      "type": ["Attack"],
-      "description": "En el suelo, blande la espada y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>46.8%</b> del ATQ + <b>2</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>59.3%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>104.1%</b> del ATQ + <b>5</b> y hacer retroceder un poco al objetivo.\nQuinto ataque: inflige daño equivalente al <b>177.8%</b> del ATQ + <b>9</b> y <b>lanza</b> al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, blande la cuchilla para atacar 5 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>46.8%</b> del ATQ más <b>2</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>65.6%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>59.3%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>104.1%</b> del ATQ más <b>5</b> y hace retroceder un poco al objetivo.\nQuinto ataque: Inflige daño igual a <b>177.8%</b> del ATQ más <b>9</b> y <b>lanza</b> al objetivo."
     },
     {
       "name": "Golpe de Salto",
-      "type": ["Jump", "Attack"],
-      "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>27.9%</b> del ATQ + <b>1</b>.\nSegundo ataque: inflige daño equivalente al <b>48.4%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>114.6%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>139%</b> del ATQ + <b>7</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire, utiliza el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>27.9%</b> del ATQ más <b>1</b>.\nSegundo ataque: Inflige daño igual a <b>48.4%</b> del ATQ más <b>3</b>.\nTercer ataque: Inflige daño igual a <b>114.6%</b> del ATQ más <b>6</b>.\nCuarto ataque: Inflige daño igual a <b>139%</b> del ATQ más <b>7</b>."
     },
     {
-      "name": "Ciclón",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Mantén pulsado el botón de ataque normal después de los ataques normales para activar Ciclón.\nAl impactar, suspende al objetivo e inflige <b>47.8%</b> del ATQ + <b>3</b> a un solo objetivo."
+      "name": "Arenamar",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el botón de ataque normal después de los ataques normales para activar Ciclón.\nAl impactar, suspende al objetivo e inflige <b>47.8%</b> del ATQ más <b>3</b> a un solo objetivo."
     },
     {
       "name": "Borde de Inmersión",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Mantén pulsado el ataque normal mientras estás en el aire, o utiliza el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Borde de Inmersión.\nMientras caes, inflige daño igual a <b>10%</b> del ATQ + <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>76.4%</b> del ATQ + <b>4</b> y repele al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o utiliza el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Borde de Inmersión.\nMientras caes, inflige daño igual a <b>10%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>76.4%</b> del ATQ más <b>4</b> a los objetivos circundantes y los hace retroceder.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
       "name": "Ataque Sorpresa",
-      "type": ["Croch", "Attack"],
-      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño igual al <b>570%</b> del ATQ más <b>30</b>."
     },
     {
       "name": "Ataque de Salto",
-      "type": ["Dodge", "Attack"],
-      "description": "Toca el ataque normal durante el corto periodo después de evadir para activar Ataque de Salto.\nEl nómada ataca con la cuchilla y causa daño equivalente al <b>37.9%</b> del ATQ + <b>2</b> al objetivo, lo que también causa una <b>suspensión fuerte</b> en el aire. Luego, inflige daño adicional equivalente al <b>56.8%</b> del ATQ + <b>3</b> al objetivo."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Ataque de Salto.\nEl nómada balancea su cuchilla hacia adelante e inflige daño igual a <b>37.9%</b> del ATQ más <b>2</b> al objetivo y lo <b>suspende fuerte</b> en el aire. Luego, inflige daño adicional igual a <b>56.8%</b> del ATQ más <b>3</b> al objetivo."
     },
     {
       "name": "Recorrer",
-      "type": ["Skill"],
-      "description": "Baila a través de objetivos mientras atacas con la cuchilla, lo que inflige daño equivalente al <b>418%</b> del ATQ + <b>22</b> hasta a <b>5</b> objetivos (los impactos consecutivos en el mismo objetivo infligen <b>20%</b> de daño reducido). Después de que termina Recorrer, cortas el espacio al frente, lo que inflige daño de área equivalente al <b>264%</b> del ATQ + <b>14</b> a los objetivos circundantes y los suspende. Otorga inmunidad a los efectos de control mientras la habilidad está en uso, y reduce todo el daño recibido en <b>50%</b>. Enfriamiento: <b>15</b> segundos."
+      "type": [
+        "Skill"
+      ],
+      "description": "Recorre los objetivos mientras blandes la cuchilla, lo que inflige daño total igual a <b>418%</b> del ATQ más <b>22</b> hasta a <b>5</b> objetivos (el daño infligido por cada impacto consecutivo en el mismo objetivo se reducirá un <b>20%</b> del impacto anterior). Tras finalizar el Recorrido, acuchillas el espacio de enfrente, lo que inflige daño de área igual a <b>264%</b> del ATQ más <b>14</b> a los objetivos circundantes y los suspende. Te vuelves en inmune a los efectos de control mientras la habilidad está en uso, y reduce todo el daño recibido un <b>50%</b>. Enfriamiento: <b>15</b> seg."
     },
     {
       "name": "Ráfaga Desenfrenada",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra <b>remueve todas las desventajas del nómada</b>. Luego, corres y haces una <b>suspensión fuerte</b> al objetivo, lo que inflige <b>523.3%</b> del ATQ + <b>28</b> de daño y causa una Filotormenta que inflige <b>209.6%</b> del ATQ + <b>11</b> de daño, además de otorgar inmunidad a grave/congelación/quemadura/electrificar por <b>5</b> segundos."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b>. Luego, te desplazas hacia el objetivo y lo <b>suspendes fuerte</b>, lo que inflige <b>523.3%</b> del ATQ más <b>28</b> de daño y causa una Filotormenta que inflige <b>209.6%</b> del ATQ más <b>11</b> de daño, además de otorgarte inmunidad a los estados de gravedad/congelación/quemadura/electrificación por <b>5</b> seg."
     }
   ],
   "weapon_type": {
     "name": "Grave",
-    "description": "Cuando el arma está completamente cargada, el próximo ataque infligirá daño equivalente al <b>137%</b> del ATQ y causará el estado grave por <b>7</b> segundos, lo que causa que reciba <b>20%</b> de daño adicional."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque dejará graves a los enemigos por <b>7</b> seg, lo que aumenta su daño recibido un <b>20%</b> y les inflige daño igual a <b>137%</b> del ATQ. Cuando estás en <yellow_lbl_14_1>partidas en equipo</>, los objetivos graves reciben un <b>20%</b> de daño físico adicional."
   },
   "weapon_resonance": {
     "name": "Resonancia física",
-    "description": "<b>Resonancia Física</b>: Aumenta el ATQ físico en <b>15%</b> y la resistencia física en <b>25%</b>. Se activa equipando <b>2</b> o más armas de daño físico. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
+    "description": "<b>Resonancia Física</b>: Aumenta el ATQ físico un <b>15%</b> y la resistencia física un <b>25%</b>. Se activa equipando <b>2</b> o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
   },
   "advancement": [
     "Tras impactar a un objetivo con una habilidad o habilidad de descarga, otorga 1 acumulación de la siguiente mejora: Aumenta el daño infligido un <b>8%</b> durante <b>25 segundos</b>, se acumula hasta <b>3</b> veces para un máximo de 1 acumulación por uso de habilidad.",

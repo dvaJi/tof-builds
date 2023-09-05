@@ -4,7 +4,7 @@
   "name": "Claudia",
   "weapon": "Guren Blade",
   "weapon_id": "guren_blade",
-  "birthday": "January 16 (Capricorn)",
+  "birthday": "January 16",
   "birthplace": "Hykros",
   "gender": "Female",
   "info": "Dependable, tenacious, and overwhelmingly excited when it comes to battle. Comes across as aloof, but is kind and passionate once people get to know her. Claudia has a burning sense of justice, standing always ready to help others and fight injustice wherever she finds it.",
@@ -20,52 +20,73 @@
   "skills": [
     {
       "name": "Quick Slash",
-      "type": ["Attack"],
-      "description": "While on the ground, swing the blade to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.8%</b> of ATK + <b>2</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>65.6%</b> of ATK + <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>59.3%</b> of ATK + <b>3</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>104.1%</b> of ATK + <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>177.8%</b> of ATK + <b>9</b> and <b>launch</b> the target."
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, swing the blade to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.8%</b> of ATK plus <b>2</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>65.6%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>59.3%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>104.1%</b> of ATK plus <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>177.8%</b> of ATK plus <b>9</b> and <b>launch</b> the target."
     },
     {
       "name": "Jumping Strike",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.9%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>48.4%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>114.6%</b> of ATK + <b>6</b>.\nFourth Attack: Deal damage equal to <b>139%</b> of ATK + <b>7</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.9%</b> of ATK plus <b>1</b>.\nSecond Attack: Deal damage equal to <b>48.4%</b> of ATK plus <b>3</b>.\nThird Attack: Deal damage equal to <b>114.6%</b> of ATK plus <b>6</b>.\nFourth Attack: Deal damage equal to <b>139%</b> of ATK plus <b>7</b>."
     },
     {
       "name": "Cyclone",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target and deal <b>47.8%</b> of ATK + <b>3</b> to a single target."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target and deal <b>47.8%</b> of ATK plus <b>3</b> to a single target."
     },
     {
       "name": "Diving Edge",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\nWhile falling, deal damage equal to <b>10%</b> of ATK + <b>1</b> each hit. Upon landing, deal damage equal to <b>76.4%</b> of ATK + <b>4</b> and knock the target back.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\nWhile falling, deal damage equal to <b>10%</b> of ATK plus <b>1</b> each hit. Upon landing, deal damage equal to <b>76.4%</b> of ATK plus <b>4</b> to surrounding targets and knock them back.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>."
     },
     {
       "name": "Leap Attack",
-      "type": ["Dodge", "Attack"],
-      "description": "Tap normal attack during the short period after dodging to trigger Leap Attack.\nThe Wanderer swings their blade and deals damage equal to <b>37.9%</b> of ATK + <b>2</b> to the target, <b>strongly suspending</b> them while going airborne. Then, deal additional damage equal to <b>56.8%</b> of ATK + <b>3</b> to the target."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack during the short period after dodging to trigger Leap Attack.\nThe Wanderer swings their blade forward and deals damage equal to <b>37.9%</b> of ATK plus <b>2</b> to the target, <b>strongly suspending</b> them while going airborne. Then, deal additional damage equal to <b>56.8%</b> of ATK plus <b>3</b> to the target."
     },
     {
       "name": "Roam",
-      "type": ["Skill"],
-      "description": "Dance through targets while swinging the blade, dealing damage equal to <b>418%</b> of ATK + <b>22</b> to up to <b>5</b> targets (consecutive hits on the same target deal <b>20%</b> reduced damage). After Roam has concluded, slash the space in front, dealing area damage equal to <b>264%</b> of ATK + <b>14</b> to surrounding targets and suspend them. Immune to control effects while skill is in use, and all damage taken is reduced by <b>50%</b>. Cooldown: <b>15</b> seconds."
+      "type": [
+        "Skill"
+      ],
+      "description": "Roam through targets while swinging the blade, dealing total damage equal to <b>418%</b> of ATK plus <b>22</b> to up to <b>5</b> targets (damage dealt by each consecutive hit on the same target will be reduced by <b>20%</b> from the previous hit). After Roam has concluded, slash the space in front, dealing area damage equal to <b>264%</b> of ATK plus <b>14</b> to surrounding targets and suspending them. Become immune to control effects while skill is in use, and all damage taken is reduced by <b>50%</b>. Cooldown: <b>15</b> seconds."
     },
     {
       "name": "Unbridled Flurry",
-      "type": ["Discharge"],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the Wanderer</b>, who then rushes to and <b>strongly suspends</b> a target, dealing <b>523.3%</b> of ATK + <b>28</b> damage, leaving behind a Bladestorm that deals <b>209.6%</b> of ATK + <b>11</b> damage, while gaining immunity to grievous/freeze/burn/electrify effects for <b>5</b> seconds."
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b>, then rush to the target and <b>strongly suspend</b> them, dealing <b>523.3%</b> of ATK plus <b>28</b> damage, leaving behind a Bladestorm that deals <b>209.6%</b> of ATK plus <b>11</b> damage, while gaining immunity to grievous/freeze/burn/electrify effects for <b>5</b> seconds."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "When the weapon is fully charged, the next attack will inflict damage equal to <b>137%</b> of ATK, and make the target grievous for <b>7</b> seconds, taking <b>20%</b> extra damage."
+    "description": "When the weapon is fully charged, the next attack will cause enemies to become grievous for <b>7</b> seconds, increasing their damage received by <b>20%</b> and dealing damage equal to <b>137%</b> of ATK. When in <yellow_lbl_14_1>team play</>, grievous targets receive an additional <b>20%</b> physical damage."
   },
   "weapon_resonance": {
     "name": "Physical Resonance",
-    "description": "<b>Physical Resonance</b>: Increase physical ATK by <b>15%</b> and physical resistance by <b>25%</b>. Activate by equipping <b>2</b> or more physical-damage weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type."
+    "description": "<b>Physical Resonance</b>: Increase physical ATK by <b>15%</b> and physical resistance by <b>25%</b>. Activate by equipping <b>2</b> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type."
   },
   "advancement": [
     "After hitting a target with a skill or discharge skill, grant 1 stack of the following buff: Increase damage dealt by <b>8%</b> for <b>25 seconds</b>, stacking up to <b>3</b> times for a maximum of 1 stack per skill use.",
@@ -248,13 +269,13 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_summit",
-        "name": "Heart of summit",
+        "name": "Heart of Summit",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "nano_coating_ii",
-        "name": "Nano coating II",
+        "name": "Nano Coating II",
         "rarity": "SR",
         "amount": 5
       },

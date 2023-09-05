@@ -1,0 +1,34 @@
+{
+  "_id": 40023,
+  "id": "umi",
+  "name": "Уми",
+  "suitName": "Парный фокус",
+  "hash": "SSR23",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When dealing physical damage, increase final damage by <b>4%</b>/5%/6%/7% and physical damage by an additional <b>2%</b>/2.5%/3%/3.5% for <b>3</b> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When equipping <b>2</b> or more physical weapons, increase final damage by <b>15%</b>/17%/19%/21%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Очарование",
+    "desc": "Медленно и терпеливо вы вводите и зрителей, и себя в волшебную иллюзию."
+  },
+  "memory": {
+    "name": "Загадочность",
+    "desc": "Фундаментальные законы фокуса — обман, отвлечение внимания и манипуляция. Это я повторяю себе перед каждым выступлением."
+  },
+  "belief": {
+    "name": "Обольщение",
+    "desc": "Иногда она не может решить — оставаться в блаженном неведении или притвориться невеждой."
+  },
+  "emotion": {
+    "name": "Обман",
+    "desc": "Ей приходится обманывать всех, включая себя."
+  }
+}

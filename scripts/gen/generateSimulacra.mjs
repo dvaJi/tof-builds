@@ -1,6 +1,6 @@
 import fs from 'fs-extra';
 import path from 'path';
-import chalk from 'chalk';
+import { red } from 'colorette';
 import { fileURLToPath } from 'url';
 import {
   removeSimulacraName,
@@ -24,7 +24,9 @@ export let allSimulacraMap = {};
 export async function main(textMap, locale) {
   allSimulacraMap = {};
   const allCharacters = [];
-  const simulacrasDir = await fs.readdir(path.join(MapsDATA_PATH, 'simulacras'));
+  const simulacrasDir = await fs.readdir(
+    path.join(MapsDATA_PATH, 'simulacras')
+  );
   const simulacras = simulacrasDir.map(async (file) =>
     JSON.parse(
       await fs.readFile(path.join(MapsDATA_PATH, 'simulacras', file), 'utf8')
@@ -90,9 +92,17 @@ export async function main(textMap, locale) {
       },
       weapon_resonance: simulacra.weapon_resonance
         ? {
-            name: safeGetTmap(textMap, 'BuffDes', simulacra.weapon_resonance.name),
+            name: safeGetTmap(
+              textMap,
+              'BuffDes',
+              simulacra.weapon_resonance.name
+            ),
             description: formatDescription(
-              safeGetTmap(textMap, 'BuffDes', simulacra.weapon_resonance.description),
+              safeGetTmap(
+                textMap,
+                'BuffDes',
+                simulacra.weapon_resonance.description
+              ),
               simulacra.weapon_resonance.values
             ),
           }
@@ -118,13 +128,13 @@ export async function main(textMap, locale) {
         const mat3Id = ascension.mat3?.id ?? ascension.mat3?.name;
 
         if (!allItemsMap[mat1Id]) {
-          console.log(chalk.red(`Mat ${mat1Id} not found`));
+          console.log(red(`Mat ${mat1Id} not found`));
         }
         if (mat2Id && !allItemsMap[mat2Id]) {
-          console.log(chalk.red(`Mat ${mat2Id} not found`));
+          console.log(red(`Mat ${mat2Id} not found`));
         }
         if (mat3Id && !allItemsMap[mat3Id]) {
-          console.log(chalk.red(`Mat ${mat3Id} not found`));
+          console.log(red(`Mat ${mat3Id} not found`));
         }
 
         return {

@@ -1,0 +1,34 @@
+{
+  "_id": 40020,
+  "id": "tian_lang",
+  "name": "Tian Lang",
+  "suitName": "",
+  "hash": "SSR20",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Every time volt damage is dealt, there is a <b>40%</b> chance of triggering chain lightning, dealing damage equal to <b>50%</b>/65%/90%/120% of volt ATK to up to <b>7</b> targets. Cooldown: <b>2</b> seconds. Every time chain lightning is triggered, increase volt damage by <b>6%</b> for <b>6</b> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Every time a volt weapon's skill or discharge skill is used, increase volt damage by <b>12%</b>/14%/16%/18% for <b>15</b> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Jenderal Astral",
+    "desc": "Kalau saja ia hidup di zaman dahulu, pasti ia menjadi jenderal hebat yang melindungi wilayah kekuasaannya."
+  },
+  "memory": {
+    "name": "Menghindari Konflik",
+    "desc": "Ia lebih suka menikmati keindahan bunga dan tanaman dibanding bertarung."
+  },
+  "belief": {
+    "name": "Kekacauan",
+    "desc": "Semakin tinggi pohon menjulang, semakin kencang angin menerpa. Tak ada yang bisa dilakukan."
+  },
+  "emotion": {
+    "name": "Pantang Menyerah",
+    "desc": "Tak ada yang bisa menggoyahkan tekadku."
+  }
+}

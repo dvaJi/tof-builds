@@ -4,7 +4,7 @@
   "name": "Huma",
   "weapon": "Escudo Fundido V2",
   "weapon_id": "molten_shield_v2",
-  "birthday": "12 de enero (Capricornio)",
+  "birthday": "12 de enero",
   "birthplace": "Hykros",
   "gender": "Femenino",
   "info": "En ocasiones cae en un estado de confusión o mareo debido a la pérdida de sus recuerdos y algunas piezas de su identidad. Suele usar una mascarilla sobre la boca, lo que dificulta la comunicación aún más. Es sumamente callada e introvertida. Con tan poca experiencia en el mundo exterior, es tan inocente como un polluelo y tiene un aire indiferente.",
@@ -20,48 +20,65 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": ["Attack"],
-      "description": "En el suelo, blande el hacha escudo y ataca 4 veces seguidas.\nPrimer ataque en forma de escudo: inflige daño equivalente al <b>77.7%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>56.9%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>62.8%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>184%</b> del ATQ + <b>10</b> y <b>lanza al objetivo al aire</b>.\nPrimer ataque en forma de hacha: inflige daño equivalente al <b>135.2%</b> del ATQ + <b>7</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>79.4%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>119.9%</b> del ATQ + <b>6</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>221.3%</b> del ATQ + <b>12</b> y hacer retroceder al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, blande el hacha escudo para atacar 4 veces seguidas.\nPrimer ataque en Forma de Escudo: Inflige daño igual a <b>77.7%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>56.9%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>62.8%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>184%</b> del ATQ más <b>10</b> y <b>lanza al objetivo por el aire</b>.\nPrimer ataque en Forma de Hacha: Inflige daño igual a <b>135.2%</b> del ATQ más <b>7</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>79.4%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>119.9%</b> del ATQ más <b>6</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>221.3%</b> del ATQ más <b>12</b> y hace retroceder al objetivo."
     },
     {
       "name": "Golpe Aéreo",
-      "type": ["Jump", "Attack"],
-      "description": "En el aire o luego de saltar una vez, usa el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>75.9%</b> del ATQ + <b>4</b>.\nSegundo ataque: inflige daño equivalente al <b>80.2%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>103%</b> del ATQ + <b>5</b>.\nCuarto ataque: inflige daño equivalente al <b>118.6%</b> del ATQ + <b>6</b> y <b>derriba</b>; lanza al objetivo al aterrizar."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>75.9%</b> del ATQ más <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>80.2%</b> del ATQ más <b>4</b>.\nTercer ataque: Inflige daño igual a <b>103%</b> del ATQ más <b>5</b>.\nCuarto ataque: Inflige daño igual a <b>118.6%</b> del ATQ más <b>6</b> y provoca un <b>derribo</b>; lanza al objetivo al aterrizar."
     },
     {
       "name": "Anticipación",
-      "type": ["Hold: Attack"],
-      "description": "Forma de escudo Mientras estás en el suelo, Pulsa y mantén pulsado el ataque normal para entrar en forma de escudo (suéltalo para salir) durante <b>3</b> segundos, durante los cuales la Nómada no puede moverse, y todo el daño recibido se reduce un <b>50%</b>. Mientras estás en forma de escudo, al soltar el botón de ataque normal después de recibir daño o tras mantenerlo pulsado durante <b>3</b> segundos, se desata un choque de fuego, que inflige un daño igual a <b>167.3%</b> de ATQ + <b>9</b> e inflige un efecto de <b>1</b>-segundo <b>aturdimiento</b> al objetivo.\nForma de Hacha: Aplasta al objetivo, infligiendo daño igual a <b>122.2%</b> del ATQ + <b>6</b> y suspendiendo al objetivo."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Forma de Escudo: Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal para entrar en forma de escudo (suéltalo para salir) por <b>3</b> seg, durante los cuales el nómada no puede moverse, y todo el daño recibido se reduce un <b>50%</b>. Mientras estás en forma de escudo, al soltar el botón de ataque normal después de recibir daño o tras mantenerlo pulsado durante <b>3</b> seg, se desata un choque de fuego, lo que inflige daño igual a <b>167.3%</b> del ATQ más <b>9</b> e inflige <b>1</b> seg de <b>aturdimiento</b> al objetivo.\nForma de Hacha: Aplasta al objetivo, lo que inflige daño igual a <b>122.2%</b> del ATQ más <b>6</b> y suspende al objetivo."
     },
     {
       "name": "Valor",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Mantén pulsado el ataque normal en el aire (o púlsalo al seleccionar un objetivo), o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar ataques de ráfaga en el aire.\nForma de escudo: en descenso, inflige daño equivalente al <b>12.5%</b> del ATQ + <b>1</b> con cada impacto. Al aterrizar, inflige daño equivalente al <b>89.2%</b> del ATQ + <b>5</b> y suspende al objetivo.\nForma de hacha: en descenso, inflige daño equivalente al <b>12.5%</b> del ATQ + <b>1</b> con cada golpe. Al aterrizar, inflige daño equivalente al <b>128.3%</b> del ATQ + <b>7</b> y suspende al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar ataques divergentes aéreos.\nForma de Escudo: Al caer, inflige daño igual a <b>12.5%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>89.2%</b> del ATQ más <b>5</b> y suspende al objetivo.\nForma de Hacha: Al caer, inflige daño igual a <b>12.5%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>128.3%</b> del ATQ más <b>7</b> y suspende al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
       "name": "Erupción",
-      "type": ["Dodge", "Attack"],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Evasión.\nForma de escudo: libera un escudo flamígero que inflige daño equivalente al <b>55.8%</b> del ATQ + <b>3</b> y hace retroceder a los objetivos. Además, desencadena una explosión que inflige daño equivalente al <b>55.8%</b> del ATQ + <b>3</b>, <b>aturde</b> a los objetivos durante <b>0.5</b> segundos y reduce la curación recibida por los objetivos en un <b>30%</b> por <b>10</b> segundos.\nForma de hacha: blande un hacha e inflige daño equivalente al <b>55.8%</b> del ATQ + <b>3</b> y reduce la curación recibida por los objetivos en un <b>30%</b> durante <b>10</b> segundos."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar un ataque de evasión.\nForma de Escudo: Desata un escudo de fuego que inflige daño igual a <b>55.8%</b> del ATQ más <b>3</b> y hace retroceder a los objetivos. Además, desata una explosión que inflige daño igual a <b>55.8%</b> del ATQ más <b>3</b>, <b>aturde</b> a los objetivos durante <b>0.5</b> seg y reduce los efectos de curación recibidos en los objetivos un <b>30%</b> por <b>10</b> seg.\nForma de Hacha: Haces girar un hacha para infligir daño igual a <b>55.8%</b> del ATQ más <b>3</b> y reducir los efectos de curación recibidos en los objetivos un <b>30%</b> por <b>10</b> seg."
     },
     {
       "name": "Fisión",
-      "type": ["Skill"],
-      "description": "Conversión de Escudo: cambia de forma de escudo a forma de hacha con un golpe al suelo que inflige daño equivalente al <b>373.8%</b> del ATQ + <b>20</b> y <b>suspensión fuerte</b> al objetivo. Crea una zona de llamas grandes durante <b>5</b> segundos que quema al objetivo e inflige daño continuo equivalente al <b>233.6%</b> del ATQ + <b>12</b>.\nConversión de Hacha: cambia de forma de hacha a forma de escudo y lo planta en el suelo, inflige daño equivalente al <b>309.5%</b> del ATQ + <b>16</b> al objetivo y lo hace retroceder. También evita que el objetivo cambie de arma durante <b>5</b> segundos.\nEnfriamiento: <b>25</b> segundos. Conversión de Escudo y Conversión de Hacha comparten enfriamiento."
+      "type": [
+        "Skill"
+      ],
+      "description": "Conversión de Escudo: Cambia de Forma de Escudo a Forma de Hacha y aplasta el suelo, lo que inflige daño igual a <b>373.8%</b> del ATQ más <b>20</b> y <b>suspende fuerte</b> al objetivo. Deja una zona de llamas grandes por <b>5</b> seg que quema al objetivo, lo que inflige daño continuo igual a <b>233.6%</b> del ATQ más <b>12</b>.\nConversión de Hacha: Cambia de Forma de Hacha a Forma de Escudo y lo golpea contra el suelo, lo que inflige daño igual a <b>309.5%</b> del ATQ más <b>16</b> al objetivo y lo hace retroceder. Impide que el objetivo cambie de arma por <b>5</b> seg.\nEnfriamiento: <b>25</b> seg. Conversión de Escudo y Conversión de Hacha comparten enfriamiento."
     },
     {
       "name": "Ira Llameante",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y suelta una onda sísmica flamígera tras cambiar a esta arma, que inflige daño equivalente al <b>352%</b> del ATQ + <b>19</b>. Provoca a enemigos por <b>5</b> segundos, y el daño recibido se reduce en un <b>15%</b>. Esparce objetos con aspecto de escudo según la cantidad de objetivos provocados. Los objetos permanecen durante <b>20</b> segundos y otorgan durante <b>10</b> segundos una reducción de daño del <b>5%</b> (acumulable), y restaura 1 intento de evadir."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y desata una onda de fuego, lo que inflige daño igual a <b>352%</b> del ATQ más <b>19</b>. Provoca a los enemigos por <b>5</b> seg, durante los cuales obtienes un <b>15%</b> de reducción de daño. Dispersa objetos en forma de escudo según el número de objetivos provocados. Los objetos duran <b>20</b> seg y otorgan <b>10</b> seg de <b>5%</b> reducción de daño (se acumula), lo que restaura las evasiones en 1."
     }
   ],
   "weapon_type": {
     "name": "Fuego",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque prenderá fuego al objetivo por <b>8</b> segundos, lo que causa daño igual a <b>58%</b> del ATQ cada segundo. Los objetivos encendidos tienen <b>50%</b> eficacia de curación reducida."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque encenderá al objetivo por <b>8</b> seg, lo que inflige daño igual a <b>58%</b> del ATQ cada segundo. Mientras está encendido, los efectos de curación en el objetivo son <b>50%</b> menos efectivos."
   },
   "advancement": [
-    "Obtén una acumulación de Escudo Resistente al usar descarga: Ira Llameante. Usar una habilidad de evasión o una habilidad de rama con la forma de escudo activa una acumulación de Escudo Resistente, que otorga un <b>10%</b> de reducción de daño durante <b>15</b> segundos y se acumula hasta <b>3</b> veces. Cambiar a la forma de hacha convierte todas las acumulaciones de Escudo Resistente en acumulaciones de Hacha Afilada, cada una de las cuales aumenta el daño en un <b>15%</b> durante <b>15</b> segundos. Al cambiar de arma se cancela este efecto.",
+    "Obtienes una acumulación de Escudo Resistente al usar Descarga: Ira Llameante. Usar una habilidad de evasión o una habilidad divergente mientras estás en forma de escudo otorga una acumulación de Escudo resistente, lo que otorga un <b>10%</b> de reducción de daño por <b>15</b> seg y se acumula hasta <b>3</b> veces. Cambiar a Forma de Hacha convierte todas las acumulaciones de Escudo Resistente en acumulaciones de Hacha Afilada, cada una de las cuales aumenta el daño un <b>15%</b> por <b>15</b> seg. Cambiar de arma anula este efecto.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
-    "Mientras se está en forma de escudo, los ataques de ráfaga/evasión infligen un daño adicional a los objetivos igual al <b>4%</b> de los PS actuales del usuario.",
+    "Mientras se está en forma de escudo, los ataques divergentes/de evasión infligen un daño adicional a los objetivos igual al <b>4%</b> de los PS actuales del usuario.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
     "Luego de cambiar a un hacha escudo, otorga inmediatamente una reducción de daño del <b>30%</b> que disminuye en un <b>10%</b> cada <b>3</b> segundos, hasta un mínimo de <b>10%</b>. Cambiar de armas cancela este efecto. Enfriamiento: <b>30</b> segundos.",
     "Potencia las habilidades de conversión.\nPotenciación de Conversión de Escudo: aumenta el daño infligido un <b>60%</b> y expande el radio de la zona de fuego un <b>30%</b>.\nPotenciación de Conversión de Hacha: no comparte enfriamiento con Conversión de Escudo. Durante los próximos <b>5</b> segundos después de usar esta habilidad, convierte todo el daño recibido en PS (hasta un máximo del <b>15%</b> de los PS Máx. del usuario)."
@@ -245,7 +262,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_ii",
-        "name": "Esmaltado Antiácido II",
+        "name": "Esmaltado Antiácido I",
         "rarity": "SR",
         "amount": 5
       },

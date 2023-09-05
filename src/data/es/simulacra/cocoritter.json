@@ -4,7 +4,7 @@
   "name": "Coco",
   "weapon": "Cero Absoluto",
   "weapon_id": "absolute_zero",
-  "birthday": "1 de junio (Géminis)",
+  "birthday": "1 de junio",
   "birthplace": "Desconocido",
   "gender": "Femenino",
   "info": "Una chica ingenua con una actitud positiva. Siempre confía en los demás, a veces hasta el punto de que piensan que es crédula o confía en los desconocidos con demasiada facilidad.\nLe encantan los dulces, pero, aun así, mantiene una dieta equilibrada. Tiene un mal sentido de la orientación, pero una vez que encuentre el camino, nunca más se perderá. Es difícil no preocuparse por ella, pero es perfectamente capaz de cuidarse.",
@@ -20,51 +20,72 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": ["Attack"],
-      "description": "En el suelo, blande el bastón y ataca 5 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>54.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>40.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>65.6%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>89.7%</b> del ATQ + <b>5</b>.\nQuinto ataque: inflige daño equivalente al <b>158.4%</b> del ATQ + <b>8</b>."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, blande el bastón para atacar 5 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>54.4%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>40.8%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>65.6%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>89.7%</b> del ATQ más <b>5</b>.\nQuinto ataque: Inflige daño igual a <b>158.4%</b> del ATQ más <b>8</b>."
     },
     {
       "name": "Ráfaga Elevada",
-      "type": ["Jump", "Attack"],
-      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>70.5%</b> del ATQ + <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>50.8%</b> del ATQ + <b>3</b>.\nTercer ataque: Inflige daño igual a <b>55.1%</b> del ATQ + <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>99.1%</b> del ATQ + <b>5</b>.\nQuinto ataque: Inflige daño igual a <b>103.2%</b> del ATQ + <b>5</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>70.5%</b> del ATQ más <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>50.8%</b> del ATQ más <b>3</b>.\nTercer ataque: Inflige daño igual a <b>55.1%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>99.1%</b> del ATQ más <b>5</b>.\nQuinto ataque: Inflige daño igual a <b>103.2%</b> del ATQ más <b>5</b>."
     },
     {
       "name": "Cascada Lunar",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Mantén pulsado el ataque normal en el aire para activar Cascada Lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> segundos, por un total de daño equivalente al <b>123.8%</b> del ATQ + <b>7</b>."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal en el aire para activar Cascada Lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> seg, por un total de daño equivalente al <b>123.8%</b> del ATQ más <b>7</b>."
     },
     {
       "name": "Asalto Enfocado",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Después del tercer ataque normal, mantén pulsado el botón de ataque normal para activar los ataques de rama, lo que consume <b>300</b> puntos de resistencia.\nPrimer ataque: Atrae a los enemigos frente al usuario, los <b>suspende fuerte</b> e inflige daño igual a <b>34.9%</b> del ATQ + <b>2</b> cada <b>0.3</b> segundos (hasta <b>4</b> veces).\nSegundo ataque: Inflige daño igual a <b>40.4%</b> del ATQ + <b>2</b> en la ubicación objetivo y a los enemigos cercanos cada <b>0.3</b> segundos."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Después del tercer ataque normal, mantén pulsado el botón de ataque normal para activar los ataques divergentes, lo que consume <b>300</b> puntos de resistencia.\nPrimer ataque: Atrae a los enemigos frente al usuario, los <b>suspende fuerte</b> e inflige daño igual a <b>34.9%</b> del ATQ más <b>2</b> cada <b>0.3</b> seg (hasta <b>4</b> veces).\nSegundo ataque: Inflige daño igual a <b>40.4%</b> del ATQ más <b>2</b> en la ubicación objetivo y a los enemigos cercanos cada <b>0.3</b> seg."
     },
     {
       "name": "Sobrecarga",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Sobrecarga.\nCada pulso de energía inflige daño equivalente al <b>45.9%</b> del ATQ + <b>2</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Sobrecarga.\nCada pulso de energía inflige daño igual al <b>45.9%</b> del ATQ más <b>2</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
     },
     {
       "name": "Teseracto",
-      "type": ["Dodge", "Attack"],
-      "description": "Pulsa el ataque normal un poco después de esquivar para activar Explosión evasiva.\nDispara un orbe de energía hacia adelante, lo que inflige daño equivalente al <b>66.4%</b> del ATQ + <b>3</b> a los objetivos en el camino cada <b>0.3</b> segundos (hasta 5 veces).\nOtorga <b>75</b> puntos de carga de arma al usarse."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Explosión evasiva.\nDispara un orbe de energía hacia adelante, lo que inflige daño igual a <b>66.4%</b> del ATQ más <b>3</b> a los objetivos en el camino cada <b>0.3</b> seg (hasta 5 veces).\nOtorga <b>75</b> puntos de carga de arma al usarse."
     },
     {
       "name": "Santuario",
-      "type": ["Skill"],
-      "description": "Crea una zona de curación que se mueve con el Nómada y cura a los aliados cercanos el equivalente al <b>95%</b> del ATQ + <b>5</b> una vez cada <b>0.5</b> segundos durante <b>6</b> segundos. <b>60</b> segundos de enfriamiento."
+      "type": [
+        "Skill"
+      ],
+      "description": "Crea una zona de curación que se mueve con el nómada y cura a los aliados cercanos el equivalente al <b>95%</b> del ATQ más <b>5</b> una vez cada <b>0.5</b> seg durante <b>6</b> seg. <b>60</b> seg de enfriamiento."
     },
     {
       "name": "Liberación Rápida",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>remueve todas las desventajas del portador</b> y el bastón continúa removiendo desventajas del Nómada y los aliados, y además cura un <b>118.8%</b> del ATQ + <b>6</b> de sus PS durante <b>7</b> segundos."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b>; además, el bastón seguirá eliminando desventajas de nómadas y aliados, además de curar a los nómadas cercanos y a los aliados por <b>118.8%</b> del ATQ más <b>6</b> PS por <b>7</b> seg."
     }
   ],
   "weapon_type": {
-    "name": "Caparazón de Hielo",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
+    "name": "Caparazón de hielo",
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará con fuerza</b> a los objetivos por <b>2</b> seg y los dejará afligidos de congelación por <b>6</b> seg. Romper el caparazón de hielo inflige daño igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, reduce la tasa de carga de arma del objetivo un <b>50%</b>."
   },
   "advancement": [
-    "Luego de esquivar, invoca una abeja de curación que sigue al usuario y cura al aliado que tenga el menor porcentaje de PS en un radio de <b>15</b> metros. Cura un <b>25%</b> del ATQ y restaura <b>50</b> puntos de carga de arma en cada ocasión, y dura <b>25</b> segundos. Enfriamiento: <b>25</b> segundos.",
+    "Tras evadir, invoca una abeja de curación que sigue al usuario y cura al aliado con el porcentaje más bajo de PS en un radio de <b>15</b> metros. Cura un <b>25%</b> del ATQ y restaura <b>50</b> puntos de carga de arma cada vez, dura <b>25</b> seg. Enfriamiento: <b>25</b> seg.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
     "Usa <span class=\"text-yellow\">Santuario</span> o habilidades de descarga para quitar desventajas a los objetivos. Se puede usar bajo efectos de control. Aumenta la destrucción y el daño infligido por todos los compañeros de grupo dentro del rango en un <b>20%</b>, y les otorga inmunidad a los efectos de control y destrucción.",
     "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
@@ -250,7 +271,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_ii",
-        "name": "Esmaltado Antiácido II",
+        "name": "Esmaltado Antiácido I",
         "rarity": "SR",
         "amount": 5
       },

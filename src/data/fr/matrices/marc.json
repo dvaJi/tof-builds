@@ -1,0 +1,34 @@
+{
+  "_id": 40012,
+  "id": "marc",
+  "name": "Marc",
+  "suitName": "de l'Avant-garde",
+  "hash": "SSR12",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Upon attacking an enemy, grant a shield to all teammates equal to <b>15%</b> of the user's current HP. Last for <b>15</b> seconds, and reset after leaving the battle for <b>10</b> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is an <b>11%</b>/13%/15%/17% damage reduction and lasts for <b>15</b> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "After gaining an HP Shield, increase ATK by <b>6%</b>/7.5%/9%/11.5% and increase the ATK of allies by <b>3%</b>/3.5%/4.5%/5.75% for <b>15</b> seconds. Stack up to <b>3</b> times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Fardeau",
+    "desc": "Je suis le plus puissant des guerriers et les gens ici ont besoin de moi."
+  },
+  "memory": {
+    "name": "L'espoir d'une sœur",
+    "desc": "Je bois une bouteille de lait par jour maintenant… Ça se voit ?"
+  },
+  "belief": {
+    "name": "Monde équitable",
+    "desc": "Chacun de nous est une création unique."
+  },
+  "emotion": {
+    "name": "Monde imaginaire",
+    "desc": "Je rêve d'entrer dans la Salle avec vous un jour."
+  }
+}

@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "If HP is less than 30% after being attacked, gain a shield equal to 20%/26%/32%/40% of Max HP for 10 seconds. Cooldown: 90 seconds."
+      "value": "If HP is less than 30% after receiving damage, gain a shield equal to 20%/26%/32%/40% of Max HP for 10 seconds. Cooldown: 90 seconds."
     },
     {
       "count": 4,

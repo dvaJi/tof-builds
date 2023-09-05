@@ -4,7 +4,7 @@
   "name": "Samir",
   "weapon": "Dual EM Stars",
   "weapon_id": "dual_em_stars",
-  "birthday": "May 20 (Taurus)",
+  "birthday": "May 20",
   "birthplace": "Hykros",
   "gender": "Female",
   "info": "Samir does what she wants when she wants, and she loves to play harmless tricks on others.\nShe's a Hykros Executor and has the chops to show, but her unreliable personality and penchant to play tricks haven't earned her a lot of friends. She doesn't seem to care, though...",
@@ -20,43 +20,60 @@
   "skills": [
     {
       "name": "Dual Fire",
-      "type": ["Attack"],
-      "description": "Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols.\nFirst Attack: Deal total damage equal to <b>47.1%</b> of ATK + <b>2</b>.\nSecond Attack: Deal total damage equal to <b>35.8%</b> of ATK + <b>2</b>.\nThird Attack: Deal total damage equal to <b>119.7%</b> of ATK + <b>6</b>.\nFourth attack: Deal total damage equal to <b>113.1%</b> of ATK + <b>6</b>.\nFifth Attack: Deal total damage equal to <b>154%</b> of ATK + <b>8</b> and <b>launch</b> the target."
+      "type": [
+        "Attack"
+      ],
+      "description": "Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols.\nFirst Attack: Deal total damage equal to <b>47.1%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal total damage equal to <b>35.8%</b> of ATK plus <b>2</b>.\nThird Attack: Deal total damage equal to <b>119.7%</b> of ATK plus <b>6</b>.\nFourth attack: Deal total damage equal to <b>113.1%</b> of ATK plus <b>6</b>.\nFifth Attack: Deal total damage equal to <b>154%</b> of ATK plus <b>8</b> and <b>launch</b> the target."
     },
     {
       "name": "Bullet Rain",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne, use normal attack to fire continuously at the ground, dealing damage equal to <b>50.6%</b> of ATK + <b>3</b> damage, each hit consumes <b>150</b> endurance."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, use normal attack to fire continuously at the ground, dealing damage equal to <b>50.6%</b> of ATK plus <b>3</b> damage, each hit consumes <b>150</b> endurance."
     },
     {
       "name": "Energy Burst",
-      "type": ["Hold: Attack"],
-      "description": "Hold attack button to maintain constant fire, each hit dealing <b>23%</b> of ATK + <b>1</b> base damage."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Hold attack button to maintain constant fire, each hit dealing <b>23%</b> of ATK plus <b>1</b> base damage."
     },
     {
       "name": "Phantom Kick",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to <b>70.5%</b> of ATK + <b>4</b>. Upon landing, deal damage equal to <b>98.7%</b> of ATK + <b>5</b> to nearby targets and <b>strongly launch</b> them."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to <b>70.5%</b> of ATK plus <b>4</b>. Upon landing, deal damage equal to <b>98.7%</b> of ATK plus <b>5</b> to nearby targets and <b>strongly launch</b> them."
     },
     {
       "name": "Rising Lightning Kick",
-      "type": ["Dodge", "Attack"],
-      "description": "Tap normal attack after dodging to <b>strongly suspend</b> targets and deal damage equal to <b>122.6%</b> of ATK + <b>6</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack after dodging to <b>strongly suspend</b> targets and deal damage equal to <b>122.6%</b> of ATK plus <b>6</b>."
     },
     {
       "name": "Electro Field",
-      "type": ["Skill"],
-      "description": "Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to <b>269.8%</b> of ATK + <b>14</b>, and the last hit <b>strongly suspends</b> targets. Cooldown: <b>45</b>-seconds."
+      "type": [
+        "Skill"
+      ],
+      "description": "Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to <b>269.8%</b> of ATK plus <b>14</b>, and the last hit <b>strongly suspends</b> targets. Cooldown: <b>45</b>-seconds."
     },
     {
       "name": "Domain of Thunder",
-      "type": ["Discharge"],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and create a Domain of Thunder at the target location upon switching to this weapon, <b>strongly suspending</b> targets within the area and dealing a total of <b>238.3%</b> of ATK + <b>13</b> damage over 3 attacks to them while dispelling their buffs. The domain lasts for <b>3.5</b> seconds and deals damage equal to <b>42.4%</b> of ATK + <b>2</b> to a target every <b>0.5</b> seconds."
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and create a Domain of Thunder at the target location, <b>strongly suspending</b> targets within range and dealing a total of <b>238.3%</b> of ATK plus <b>13</b> damage over 3 attacks to them while dispelling their buffs. The domain lasts for <b>3.5</b> seconds and deals damage equal to <b>42.4%</b> of ATK plus <b>2</b> to a target every <b>0.5</b> seconds."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
   },
   "advancement": [
     "Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <b>30%</b> of ATK to the target and nearby enemies. Cooldown: <b>0.2</b> seconds.",
@@ -239,13 +256,13 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_lightning",
-        "name": "Heart of lightning",
+        "name": "Heart of Lightning",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "nano_coating_ii",
-        "name": "Nano coating II",
+        "name": "Nano Coating II",
         "rarity": "SR",
         "amount": 5
       },

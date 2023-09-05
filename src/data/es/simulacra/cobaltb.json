@@ -4,7 +4,7 @@
   "name": "Cobalt-B",
   "weapon": "Revólver Ardiente",
   "weapon_id": "flaming_revolver",
-  "birthday": "26 de junio (Cáncer)",
+  "birthday": "26 de junio",
   "birthplace": "Tecnología Banges",
   "gender": "Femenino",
   "info": "Puede parecer seria y solemne, pero en realidad es bastante inusual y extravagante.\nNo tiene muchas expresiones faciales, pero cuando la conozcas, verás que es amable y está llena de ideas y emociones. Incluso puede poner cara de enfado cuando está irritada.\nEs una maestra de la mecánica, pero trabaja con sentimientos y no con teorías.\nAfina sus creaciones con su \"sexto sentido\", y a menudo añade módulos completamente inútiles porque le apetece...",
@@ -20,48 +20,67 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": ["Attack"],
-      "description": "En el suelo, usa el ataque normal para lanzar 5 ataques seguidos.\nEl primer ataque inflige un <b>52.3%</b> de tu ATQ + <b>3</b> de daño.\nEl segundo ataque inflige un <b>75.6%</b> de tu ATQ + <b>4</b> de daño.\nEl tercer ataque inflige un <b>94.5%</b> de tu ATQ + <b>5</b> de daño.\nEl cuarto ataque inflige un <b>142.8%</b> de tu ATQ + <b>8</b> de daño.\nEl quinto ataque inflige un <b>137.8%</b> de tu ATQ + <b>7</b> de daño."
+      "type": [
+        "Attack"
+      ],
+      "description": "En el suelo, usa el ataque normal para lanzar 5 ataques seguidos.\nEl primer ataque inflige daño total igual a <b>52.3%</b> del ATQ + <b>3</b>.\nEl segundo ataque inflige daño total igual a <b>75.6%</b> del ATQ + <b>4</b>.\nEl tercer ataque inflige daño total igual a <b>94.5%</b> del ATQ + <b>5</b>.\nEl cuarto ataque inflige daño total igual al <b>142.8%</b> del ATQ +<b>8</b>.\nEl quinto ataque inflige daño total igual a <b>137.8%</b> del ATQ +<b>7</b>."
     },
     {
       "name": "Disparo Cargado",
-      "type": ["Hold: Attack"],
-      "description": "Pulsa y mantén pulsado un ataque normal para cargar un ataque y suéltalo para disparar proyectiles, lo que inflige <b>95.4%</b> del ATQ + <b>5</b> de daño, más una explosión 3 segundos después (o si el objetivo muere), lo que inflige <b>23.9%</b> del ATQ como daño a los enemigos cercanos. Cada vez que se inflige daño al objetivo antes de la explosión (hasta <b>4</b> veces), duplica el área de efecto y aumenta el daño."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque y suéltalo para disparar proyectiles, lo que inflige <b>95.4%</b> del ATQ más <b>5</b> de daño, más una explosión 3 seg después (o si el objetivo muere), lo que inflige <b>23.9%</b> del ATQ como daño a los enemigos cercanos. Cada vez que se inflige daño al objetivo durante la explosión (hasta <b>4</b> veces), el efecto de área de duplica y el daño aumenta."
     },
     {
       "name": "Ráfaga de Salto",
-      "type": ["Jump", "Attack"],
-      "description": "Mientras estás en el aire o después de saltar una vez, lanza Ráfaga de Salto.\nLanza una bomba que inflige daño igual a <b>90.8%</b> del ATQ + <b>5</b> a los enemigos en un círculo por delante, lo que los hace retroceder una corta distancia. Consume <b>250</b> de resistencia."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, lanza Ráfaga de Salto.\nLanza una bomba que inflige daño igual a <b>90.8%</b> del ATQ más <b>5</b> a los enemigos en un círculo por delante, lo que los hace retroceder una corta distancia. Consume <b>250</b> de resistencia."
     },
     {
       "name": "Descarga Aérea",
-      "type": ["Double Jump"],
-      "description": "Después de un salto doble, lanza una Descarga Aérea en el aire.\nDispara un rayo de Omnio hacia abajo. Luego, el rayo barre hacia delante, lo que inflige daño igual a <b>33.8%</b> del ATQ + <b>2</b>."
+      "type": [
+        "Double Jump"
+      ],
+      "description": "Después de un salto doble, lanza una Descarga Aérea en el aire.\nDispara un rayo de Omnio hacia abajo. Luego, el rayo barre hacia delante, lo que inflige daño igual a <b>33.8%</b> del ATQ más <b>2</b>."
     },
     {
       "name": "Bombardeo Pesado",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Mantén pulsado el botón de ataque durante un ataque normal para desatar Fuego Sofocante al frente, lo que inflige un <b>102%</b> de ATQ + <b>5</b> de daño de área."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el botón de ataque durante un ataque normal para desatar Fuego Sofocante al frente, lo que inflige daño de área igual al <b>102%</b> del ATQ más <b>5</b> en total."
     },
     {
       "name": "Corta Distancia",
-      "type": ["Dodge", "Attack"],
-      "description": "Utiliza el ataque normal justo después de esquivar para activar Corta Distancia.\nInflige daño igual a <b>156.1%</b> de ATQ + <b>8</b> a los objetivos en un área de cono frontal."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Utiliza el ataque normal justo después de esquivar para activar Corta Distancia.\nInflige daño igual a <b>156.1%</b> del ATQ más <b>8</b> a los objetivos en un área de cono frontal."
     },
     {
       "name": "Ráfaga",
-      "type": ["Skill"],
-      "description": "Disparas constantemente en un área de cono frontal para infligir <b>666%</b> de ATQ + <b>35</b> daño. Enfriamiento: <b>60</b> segundos."
+      "type": [
+        "Skill"
+      ],
+      "description": "Inflige daño continuamente en un área del cono frontal, lo que inflige daño total igual a <b>666%</b> del ATQ más <b>35</b>. Enfriamiento: <b>60</b> seg."
     },
     {
       "name": "Lluvia Explosiva",
-      "type": ["Discharge"],
-      "description": "Cuando <span class=\"text-red\">carga de arma</span> está llena o <span class=\"text-red\">Phantasia</span> se activa, al cambiar a esta arma desde otra <b>se eliminan todas las desventajas del portador</b> y desata <b>3</b> granadas hacia adelante, lo que inflige <b>570%</b> de ATQ + <b>30</b> de daño de área y causa un <b>lanzamiento</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y arroja <b>3</b> granadas hacia adelante, lo que inflige daño de área igual a <b>570%</b> del ATQ más <b>30</b> en total y <b>lanza</b> al objetivo."
     }
   ],
   "weapon_type": {
     "name": "Fuego",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque prenderá fuego al objetivo por <b>8</b> segundos, lo que causa daño igual a <b>58%</b> del ATQ cada segundo. Los objetivos encendidos tienen <b>50%</b> eficacia de curación reducida."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque encenderá al objetivo por <b>8</b> seg, lo que inflige daño igual a <b>58%</b> del ATQ cada segundo. Mientras está encendido, los efectos de curación en el objetivo son <b>50%</b> menos efectivos."
   },
   "weapon_resonance": {
     "name": "Resonancia de Fuego",
@@ -70,7 +89,7 @@
   "advancement": [
     "Cada ronda de Ráfaga inflige daño adicional igual a <b>2%</b> de los PS actuales del objetivo (no puede superar <b>180%</b> del ATQ).",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
-    "La habilidad de rama, Bombardeo Pesado, y el ataque de evasión, Corta Distancia, infligen <span class=\"text-green\">Incineración Iónica</span> a los objetivos que ya están quemados, lo que inflige daño de fuego igual a <b>40%</b> del ATQ cada segundo por <b>10</b> segundos.",
+    "La habilidad divergente, Bombardeo Pesado, y el ataque de evasión, Corta Distancia, infligen <span class=\"text-green\">Incineración Iónica</span> a los objetivos que ya están quemados, lo que inflige daño de fuego igual a <b>40%</b> del ATQ cada segundo por <b>10</b> seg.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
     "Aumenta el daño de <span class=\"text-green\">Incineración Iónica</span> a <b>60%</b> del ATQ. Los ataques exitosos con la habilidad de evasión de cualquier arma reinician la duración de <span class=\"text-green\">Incineración Iónica</span>.",
     "<span class=\"text-green\">Ráfaga</span> tiene un efecto de quemadura de <b>15</b> segundos. Los ataques exitosos con la habilidad de evasión de cualquier arma reducen el enfriamiento de <span class=\"text-green\">Ráfaga</span> en <b>4</b> segundos. Enfriamiento del efecto: <b>1.5</b> segundos. La quemadura del daño prolongado por la habilidad de evasión también activa un efecto de reducción de enfriamiento."

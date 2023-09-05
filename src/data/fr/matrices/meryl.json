@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Si, après avoir subi une attaque, vos PV sont inférieurs à 30%, vous gagnez un bouclier équivalant à 20%/26%/32%/40% de vos PV max pendant 10 secondes. Temps de recharge : 90 secondes."
+      "value": "Si, après avoir subi des dégâts, vos PV sont inférieurs à 30%, vous gagnez un bouclier équivalant à 20%/26%/32%/40% de vos PV max pendant 10 secondes. Temps de recharge : 90 secondes."
     },
     {
       "count": 4,

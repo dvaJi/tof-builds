@@ -4,8 +4,8 @@
   "name": "Frigg",
   "weapon": "Balmung",
   "weapon_id": "balmung",
-  "birthday": "1 de febrero (Acuario)",
-  "birthplace": "Herederos de Aida",
+  "birthday": "1 de febrero",
+  "birthplace": "Ángel de la Clemencia",
   "gender": "Femenino",
   "info": "Reservada y decidida en el trabajo. Tiene un entendimiento y filosofía de vida únicos, y reflexionará sobre el verdadero significado de la vida cuando el tiempo se lo permita.",
   "description": "Uno de los Ángeles de la Clemencia. Con su cuerpo reestructurado en maquinaria de metal viviente, podría enfrentarse a la invasión de la radiación sin un supresor.\n\nEs una gran ayuda del Guía, de quien obedece todas las órdenes sin objeciones. Como oficial central, Frigg tiene la autorización de liderar a las tropas de los Herederos de Aida, pero prefiere actuar sola la mayor parte del tiempo.",
@@ -20,64 +20,82 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": ["Attack"],
-      "description": "En el suelo, inicias 5 ataques seguidos con Balmung.\nPrimer ataque: Inflige daño equivalente al <b>62.1%</b> del ATQ + <b>3</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño equivalente al <b>46.2%</b> del ATQ + <b>2</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño equivalente al <b>91.1%</b> del ATQ + <b>5</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño equivalente al <b>55.8%</b> del ATQ + <b>3</b> y hace retroceder al objetivo.\nQuinto ataque: Inflige daño equivalente al <b>218.4%</b> del ATQ + <b>11</b> y derriba al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, inicia 5 ataques seguidos con Balmung.\nPrimer ataque: Inflige daño igual a <b>62.1%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>46.2%</b> del ATQ más <b>2</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>91.1%</b> del ATQ más <b>5</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>55.8%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nQuinto ataque: Inflige daño igual a <b>218.4%</b> del ATQ más <b>11</b> y derriba al objetivo."
     },
     {
       "name": "Descarga Aérea",
-      "type": ["Jump", "Attack"],
-      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>64.4%</b> del ATQ + <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>72.6%</b> del ATQ + <b>4</b>.\nTercer ataque: Inflige daño igual a <b>76.7%</b> del ATQ + <b>4</b>.\nCuarto ataque: Inflige daño igual a <b>107.9%</b> del ATQ + <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>168.3%</b> del ATQ + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>64.4%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>72.6%</b> del ATQ más <b>4</b>.\nTercer ataque: Inflige daño igual a <b>76.7%</b> del ATQ más <b>4</b>.\nCuarto ataque: Inflige daño igual a <b>107.9%</b> del ATQ más <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>168.3%</b> del ATQ más <b>9</b>."
     },
     {
       "name": "Corte Elevado",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Al realizar un ataque normal, mantén pulsado el ataque normal para activar Corte Elevado.\nEmbiste hacia adelante con una barrida horizontal, luego suspende al objetivo en el aire antes de elevarte junto con él. Inflige un daño máximo del <b>134.3%</b> del ATQ + <b>7</b>."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Al realizar un ataque normal, mantén pulsado el ataque normal para activar Corte Elevado.\nEmbiste hacia adelante con una barrida horizontal, luego suspende al objetivo en el aire antes de elevarte junto con él. Inflige un máximo de <b>134.3%</b> del ATQ más <b>7</b> de daño."
     },
     {
       "name": "Corte Hélice",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Mantén pulsado el ataque normal en el aire o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Corte Hélice.\nEn el descenso, cada impacto inflige daño equivalente al <b>19.8%</b> del ATQ + <b>1</b>. Al aterrizar, inflige daño equivalente al <b>185.7%</b> del ATQ + <b>10</b> a los objetivos cercanos."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o utiliza el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Corte Hélice.\nMientras caes, inflige daño igual a <b>19.8%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>185.7%</b> del ATQ más <b>10</b> a los objetivos cercanos."
     },
     {
       "name": "Multicorte",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta para activar Multicorte.\nLanza varios cortes a una distancia fija frente al usuario para infligir daño total equivalente al <b>143.9%</b> del ATQ + <b>8</b>."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta para activar Multicorte.\nLanza varios cortes a una distancia fija frente al usuario para infligir daño total equivalente al <b>143.9%</b> del ATQ más <b>8</b>."
     },
     {
       "name": "Fimbulwinter",
-      "type": ["Skill"],
-      "description": "Corta el espacio alrededor del nómada, lo que inflige <b>577.5%</b> del ATQ + <b>30</b> como daño, lo que lanza y suspende objetivos, y te otorga inmunidad al daño mientras esta habilidad está en uso. Enfriamiento: <b>30</b> segundos.\nDespués de desatar <b>\"Fimbulwinter\"</b>, un gran Dominio de Hielo se formará alrededor del nómada por <b>25</b> segundos. Los intentos de evasión no se consumirán mientras evades con Balmung dentro del Dominio de Hielo.\nOtorga \"Dominio de Hielo I\" cuando estás en el Dominio de Hielo: Al usar un arma de hielo, potencia la destrucción un <b>25%</b> y el ATQ de hielo un <b>15%</b>."
+      "type": [
+        "Skill"
+      ],
+      "description": "Corta el espacio que rodea al nómada, lo que inflige daño total igual a <b>577.5%</b> del ATQ más <b>30</b>, lanza y suspende a los objetivos, y otorga inmunidad al daño mientras esta habilidad está en uso. Enfriamiento: <b>30</b> seg.\nTras desatar <b>Fimbulwinter</b>, se formará un gran Dominio de Escarcha alrededor del nómada por <b>25</b> seg. Los intentos de evasión no se consumirán mientras evades con Balmung dentro del Dominio de Escarcha.\nOtorga Dominio de Escarcha I cuando estás en el Dominio de Escarcha: Al usar un arma de escarcha, potencia la destrucción un <b>25%</b> y el ATQ de escarcha un <b>15%</b>."
     },
     {
       "name": "Fractura Gélida",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o se active <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del usuario</b> y lo desplaza hacia adelante al cambiar a esta arma. Controla temporalmente a los enemigos en un área antes de realizar un corte gigante. Lanza objetivos al aire e inflige <b>618.2%</b> del ATQ + <b>33</b> como daño."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y te desplazas hacia delante para atacar, con lo que temporalmente controlas a los enemigos de alrededor antes de desatar un corte de área amplia. Lanza objetivos al aire e inflige daño total igual al <b>618.2%</b> del ATQ más <b>33</b>."
     }
   ],
   "weapon_type": {
     "name": "Caparazón de hielo",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>111%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará con fuerza</b> a los objetivos por <b>2</b> seg y los dejará afligidos de congelación por <b>6</b> seg. Romper el caparazón de hielo inflige daño igual a <b>111%</b> del ATQ. Mientras está afligido de congelación, reduce la tasa de carga de arma del objetivo un <b>50%</b>."
   },
   "weapon_resonance": {
-    "name": "Resonancia Helada",
-    "description": "<b>Resonancia Helada</b>: aumenta el ATQ de Hielo en un <b>15%</b> y la Resistencia al Hielo en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de hielo. El efecto de este set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
+    "name": "Resonancia de Escarcha",
+    "description": "<b>Resonancia de Escarcha</b>: aumenta el ATQ de Escarcha en un <b>15%</b> y la Resistencia a la Escarcha en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de escarcha. El efecto de este set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
   },
   "advancement": [
-    "Obtén <b>1</b> punto de escarcha cada vez que inflijas <b>550%</b> x ATQ de hielo como daño en el Dominio de Hielo. Puedes acumular hasta <b>10</b> puntos de escarcha.\nCuando el Dominio de Hielo termina, inflige los puntos de escarcha x ATQ de hielo x <b>95%</b> de daño de estallido a todos los enemigos en el Dominio de Hielo. Después de salir del Dominio de Hielo, pierdes <b>1</b> punto de escarcha cada <b>3</b> segundos.",
+    "Gana <b>1</b> punto de escarcha cada vez que infliges cualquier daño elemental igual a <b>550%</b> x el ATQ de escarcha en el Dominio de Escarcha. Se pueden acumular hasta <b>10</b> puntos de escarcha.\nCuando el Dominio de Escarcha termina, se infligirán los puntos de escarcha x el ATQ de escarcha x <b>95%</b> como daño de estallido a todos los enemigos que estaban en el dominio. Tras salir del Dominio de Escarcha, pierdes <b>1</b> punto de escarcha cada <b>3</b> seg.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
-    "Aumenta el límite de escarcha a <b>15</b>. Al usar habilidades de descarga de armas de hielo en el Dominio de Hielo, infliges daño igual al <b>25%</b> de tu ATQ de hielo x (escarcha actual + 5) a todos los objetivos en el Dominio de Hielo.",
+    "Aumenta el límite de escarcha a <b>15</b>. Al usar habilidades de descarga de armas de escarcha en el Dominio de Escarcha, infliges daño igual al <b>25%</b> de tu ATQ de escarcha x (escarcha actual + 5) a todos los objetivos en el Dominio de Escarcha.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
-    "Al destrozar un escudo con un arma de hielo en el Dominio de Hielo, congela al objetivo por <b>2</b> segundos e inflige un daño adicional igual a la escarcha x <b>35%</b> del ATQ de hielo. Si el objetivo no se puede congelar, duplica el daño adicional infligido.",
-    "Cuando la escarcha alcance <b>15</b> puntos de escarcha y estés en el Dominio de Hielo, obtendrás adicionalmente Dominio de Hielo II: Aumenta el ATQ de hielo en <b>25%</b> al usar armas de hielo."
+    "Al destrozar un escudo con un arma de escarcha en el Dominio de Escarcha, congela al objetivo por <b>2</b> segundos e inflige un daño adicional igual a la escarcha x <b>35%</b> del ATQ de escarcha. Si el objetivo no se puede congelar, duplica el daño adicional infligido.",
+    "Cuando la escarcha alcance <b>15</b> puntos de escarcha y estés en el Dominio de Escarcha, obtendrás adicionalmente Dominio de Escarcha II: Aumenta el ATQ de escarcha en <b>25%</b> al usar armas de escarcha."
   ],
   "traits": [
     {
       "name": "Congelación",
-      "description": "Al entrar en combate, obtienes <b>1.5%</b> de impulso de ATQ de hielo por <b>5</b> segundos cada <b>3</b> segundos. Se acumula hasta <b>10</b> veces."
+      "description": "Al entrar en combate, obtienes <b>1.5%</b> de impulso de ATQ de escarcha por <b>5</b> segundos cada <b>3</b> segundos. Se acumula hasta <b>10</b> veces."
     },
     {
       "name": "Helado",
-      "description": "Al entrar en combate, obtienes <b>2.4%</b> de impulso de ATQ de hielo por <b>5</b> segundos cada <b>3</b> segundos, con hasta <b>10</b> acumulaciones. Además, obtienes hipercuerpo e inmunidad a los efectos de control mientras estás en el Dominio de Hielo."
+      "description": "Al entrar en combate, obtienes <b>2.4%</b> de impulso de ATQ de escarcha por <b>5</b> segundos cada <b>3</b> segundos, con hasta <b>10</b> acumulaciones. Además, obtienes hipercuerpo e inmunidad a los efectos de control mientras estás en el Dominio de Escarcha."
     }
   ],
   "ascension": [

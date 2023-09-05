@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Ao acionar ressonância gélida: A cada 3 segundos, causa dano gélido de 60%/100%/150%/220% do ATQ gélido a inimigos em um raio de 10 metros e inflige o efeito gélido: Inflige um efeito de 3.5% de lentidão durante 5 segundos, congela alvos durante 3 segundos ao atingir 3 acúmulos (não se aplica a chefes) e aumenta o dano gélido sofrido pelo alvo em 5% durante 18 segundos. O efeito desta Matriz também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
+      "value": "Ao acionar ressonância gélida: A cada 3 segundos, causa dano gélido de 60%/100%/150%/220% do ATQ gélido a inimigos em um raio de 10 metros e inflige o efeito algidez: causa 3.5% de lentidão durante 5 segundos, congela alvos durante 3 segundos ao atingir 3 acúmulos (não se aplica a chefes) e aumenta o dano gélido sofrido pelo alvo em 5% durante 18 segundos. O efeito desta Matriz também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
     },
     {
       "count": 4,

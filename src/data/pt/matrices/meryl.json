@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Se a vida ficar abaixo de 30% após sofrer um ataque, ganha um escudo equivalente a 20%/26%/32%/40% da vida máxima durante 10 segundos. Tempo de recarga: 90 seg."
+      "value": "Se a vida ficar abaixo de 30% após sofrer dano, ganha um escudo equivalente a 20%/26%/32%/40% da vida máxima durante 10 segundos. Tempo de recarga: 90 seg."
     },
     {
       "count": 4,

@@ -4,7 +4,7 @@
   "name": "Samir",
   "weapon": "Estrelas Eletromagnéticas",
   "weapon_id": "dual_em_stars",
-  "birthday": "20 de maio (Touro)",
+  "birthday": "20 de maio",
   "birthplace": "Hykros",
   "gender": "Feminino",
   "info": "Samir faz o que quer e quando quer e adora pregar peças inofensivas nos outros.\nEla é uma Executora da Hykros e faz muito bem o trabalho, mas sua personalidade duvidosa e o gosto pelas pegadinhas não lhe conquistaram muitos amigos. Contudo, parece que ela não se incomoda com isso.",
@@ -20,43 +20,60 @@
   "skills": [
     {
       "name": "Tiro Duplo",
-      "type": ["Attack"],
-      "description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\nPrimeiro ataque: Causa dano total de <b>47.1%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano total de <b>35.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano total de <b>119.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: Causa dano total de <b>113.1%</b> do ATQ + <b>6</b>.\nQuinto ataque: Causa dano total de <b>154%</b> do ATQ + <b>8</b> e <b>lança o alvo no ar</b>."
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\nPrimeiro ataque: causa dano total de <b>47.1%</b> do ATQ + <b>2</b>.\nSegundo ataque: causa dano total de <b>35.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: causa dano total de <b>119.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: causa dano total de <b>113.1%</b> do ATQ + <b>6</b>.\nQuinto ataque: causa dano total de <b>154%</b> do ATQ + <b>8</b> e <b>lança o alvo no ar</b>."
     },
     {
       "name": "Chuva de Balas",
-      "type": ["Jump", "Attack"],
+      "type": [
+        "Jump",
+        "Attack"
+      ],
       "description": "No ar, use o botão de ataque normal para atirar sem parar no chão. Cada disparo causa dano de <b>50.6%</b> do ATQ + <b>3</b> e custa <b>150</b> de vigor."
     },
     {
       "name": "Rajada de Energia",
-      "type": ["Hold: Attack"],
+      "type": [
+        "Hold: Attack"
+      ],
       "description": "Segure o botão de ataque para continuar atirando. Cada acerto causa dano mínimo de <b>23%</b> do ATQ + <b>1</b>."
     },
     {
       "name": "Chute Fantasma",
-      "type": ["Jump", "Hold: Attack"],
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
       "description": "No ar, segure o botão de ataque normal para usar Chute Fantasma. Derruba o alvo e causa dano de <b>70.5%</b> do ATQ + <b>4</b>. Ao aterrissar, causa dano de <b>98.7%</b> do ATQ + <b>5</b> a alvos próximos e os <b>lança alto no ar</b>."
     },
     {
       "name": "Esquiva Desacelerante",
-      "type": ["Dodge", "Attack"],
-      "description": "Toque no botão de ataque normal após se esquivar para <b>suspender muito</b> os alvos e causar dano de <b>122.6%</b> do ATQ + <b>6</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal após se esquivar para <b>suspender muito</b> os alvos e causar dano de <b>122.6%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Campo Elétrico",
-      "type": ["Skill"],
+      "type": [
+        "Skill"
+      ],
       "description": "Gera um escudo energético na posição do alvo que emite feixes dentro da barreira. Causa dano de <b>269.8%</b> do ATQ + <b>14</b>. O último golpe <b>suspende muito</b> os alvos. Tempo de recarga: <b>45</b> seg."
     },
     {
       "name": "Área Relampejante",
-      "type": ["Discharge"],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos dentro da área, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos no alcance, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Provoca uma explosão elétrica no alvo após desferir um golpe crítico, causando dano adicional de <b>30%</b> do ATQ ao alvo e inimigos próximos. Tempo de recarga: <b>0,2</b> seg.",

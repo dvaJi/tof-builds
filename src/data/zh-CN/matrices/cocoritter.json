@@ -1,0 +1,38 @@
+{
+  "_id": 40003,
+  "id": "cocoritter",
+  "name": "可可丽特",
+  "suitName": "信赖之证",
+  "hash": "SSR3",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase healing capability and healing received by <b>10%</b>/12%/14%/16%."
+    },
+    {
+      "count": 4,
+      "value": "When you or your teammates are healed, increase ATK by <b>12.5%</b>/15%/17.5%/20% for <b>6</b> seconds. Only the highest level's effect is applied when obtained repeatedly."
+    }
+  ],
+  "mind": {
+    "name": "工艺直觉",
+    "desc": "制作手工时的创造思维同样可以运用在战斗上。"
+  },
+  "memory": {
+    "name": "背影重叠",
+    "desc": "她的背影渐渐与记忆中保护者的身影重叠。"
+  },
+  "belief": {
+    "name": "疗愈之心",
+    "desc": "她所期望的很简单，能够抚慰你的伤痛就好。"
+  },
+  "emotion": {
+    "name": "与你携手",
+    "desc": "相信我，辅助工作就交给我吧。"
+  },
+  "undefined": {
+    "name": "诚心正意",
+    "desc": "以诚待人，有时候也会产生误解。"
+  }
+}

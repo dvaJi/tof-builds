@@ -1,0 +1,33 @@
+{
+  "_id": 40019,
+  "id": "lyra",
+  "name": "Лира",
+  "suitName": "Признание памяти",
+  "hash": "SSR19",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Use this weapon to increase all attack types by <b>13%</b>/17%/21%/25%. The lower the HP, the higher the healing received, which can be increased by up to <b>1%</b>."
+    },
+    {
+      "count": 4,
+      "value": "When dealing physical damage, increase physical damage by <b>2.7%</b> with a cooldown of <b>0.1</b> seconds. Stack up to <b>5</b> times. Upon reaching the maximum stacks, increase physical damage by an additional <b>3.5%</b>/7%/10.5%/14% for <b>5</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly. Obtain 1 block for each dodge, blocking damage up to <b>60%</b> of current HP, but not less than <b>20%</b> of Max HP. Stack up to <b>3</b> blocks for <b>10 seconds</b>."
+    }
+  ],
+  "mind": {
+    "name": "Реконструкция ПО",
+    "desc": "Это называется «Обмен сердцами»."
+  },
+  "memory": {
+    "desc": "Даже самое совершенное и точное исполнение не сравнится с симфонией того дня..."
+  },
+  "belief": {
+    "name": "Свечной огонек",
+    "desc": "Защита мерцающего огня свечи — не просто желание."
+  },
+  "emotion": {
+    "name": "Бесконечное исследование",
+    "desc": "Чтобы раскрыть истинный смысл этой книги, может потребоваться целая жизнь."
+  }
+}

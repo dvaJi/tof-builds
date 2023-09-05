@@ -1,0 +1,34 @@
+{
+  "_id": 40028,
+  "id": "icarus",
+  "name": "Icarus",
+  "suitName": "Com Gelo",
+  "hash": "SSR28",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping Precious One, <b>2</b> or more weapons of different elements, or <b>2</b> or more types of weapons increases all elemental damage by <b>8%</b>/9%/10%/11%. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing frost damage, increase all elemental damage by <b>13%</b>/16%/19%/22% for <b>25</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Solipsismo",
+    "desc": "Estratégias e planos. O meu destino só depende de mim."
+  },
+  "memory": {
+    "name": "Perspicácia",
+    "desc": "Tudo se trata de identificar as indicações ao caminho."
+  },
+  "belief": {
+    "name": "Gelo Fino",
+    "desc": "Continue a marcha sobre gelo fino."
+  },
+  "emotion": {
+    "name": "Transeunte",
+    "desc": "Estranhos vêm e vão."
+  }
+}

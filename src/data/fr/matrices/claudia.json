@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Toucher un ennemi avec une compétence réduit de 1,5/2/2,5/3 secondes le temps de recharge de toutes les compétences d'arme et accroît de 58%/80%/103%/126% les dégâts des compétences de décharge pendant 15 [@$seconde|secondes]."
+      "value": "Toucher un ennemi avec une compétence réduit de 1,5/2/2,5/3 secondes le temps de recharge de toutes les compétences d'arme et accroît de 58%/80%/103%/126% les dégâts des compétences de décharge pendant 15 secondes."
     }
   ],
   "mind": {

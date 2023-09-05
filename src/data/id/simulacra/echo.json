@@ -4,7 +4,7 @@
   "name": "Echo",
   "weapon": "Thunderous Halberd",
   "weapon_id": "thunderous_halberd",
-  "birthday": "14 Agustus (Leo)",
+  "birthday": "14 Agustus",
   "birthplace": "Tidak Ada Riwayat",
   "gender": "Perempuan",
   "info": "Seorang gadis ceroboh yang sangat aktif dan ceplas-ceplos.\nSejak diselamatkan oleh seorang pedagang yang sedang lewat, dia ingin melakukan hal yang sama dengan melakukan kebaikan saat berkelana.\nDia tidak suka kejahatan, dan berpendapat bahwa kebaikan hanya bisa dilakukan dengan membasmi kejahatan. Muda dan kurang berpengalaman, dia sering menilai orang berdasarkan standar yang meragukan.",
@@ -20,53 +20,77 @@
   "skills": [
     {
       "name": "Thrust",
-      "type": ["Attack"],
-      "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>24.7%</b> ATK + <b>1</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>22.6%</b> ATK + <b>1</b> memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>47.2%</b> ATK + <b>2</b> dan memukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>65.2%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebesar <b>114.95%</b> ATK + <b>6</b> dan memukul mundur target dalam jarak yang signifikan."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>24.7%</b> ATK plus <b>1</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>22.6%</b> ATK plus <b>1</b> membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>47.2%</b> ATK plus <b>2</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>65.2%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>114.95%</b> ATK plus <b>6</b> dan membuat target terpental cukup jauh ke belakang."
     },
     {
       "name": "Jumping Strike",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimbulkan DMG sebesar <b>27.4%</b> ATK + <b>1</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>23.2%</b> ATK + <b>1</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>45.8%</b> ATK + <b>2</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>110%</b> ATK + <b>6</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, tekan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimpakan DMG sebesar <b>27.4%</b> ATK plus <b>1</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>23.2%</b> ATK plus <b>1</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>45.8%</b> ATK plus <b>2</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>110%</b> ATK plus <b>6</b>."
     },
     {
       "name": "Crashing Drive",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target terkunci), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat terjun, menimbulkan DMG sebesar <b>8%</b> ATK + <b>1</b> tiap mengenai target. Saat mendarat, menimbulkan DMG sebesar <b>48.5%</b> ATK + <b>3</b> dan memukul jatuh target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula DMG yang ditimbulkan, maks <b>600%</b> DMG."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tahan Serangan Biasa saat di udara (tekan saat ada target yang tersedia), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat terjun, menimpakan DMG sebesar <b>8%</b> ATK plus <b>1</b> tiap menghantam target. Saat mendarat, menimpakan DMG sebesar <b>48.5%</b> ATK plus <b>3</b> dan menjatuhkan target.\nMakin tinggi posisimu saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Spear Flurry",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target, menimpakan DMG sebesar <b>49.2%</b> ATK + <b>3</b>. Tekan lagi untuk terus menyerang target yang tertahan di udara, menimpakan DMG maks <b>98%</b> ATK + <b>5</b> DMG kepada satu target."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target, menimpakan DMG sebesar <b>49.2%</b> ATK plus <b>3</b>. Tekan lagi untuk terus menyerang target yang tertahan di udara, menimpakan DMG sebesar maks <b>98%</b> ATK plus <b>5</b> DMG kepada satu target."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
       "name": "Flying Kick",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan damage sebesar <b>72%</b> ATK + <b>4</b>, memukul mundur target cukup jauh, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan DMG sebesar <b>72%</b> ATK plus <b>4</b>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
     },
     {
       "name": "Lunging Smash",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Lunging Smash.\nHantamkan Long Spear ke tanah, menimpakan DMG sebesar <b>52.8%</b> ATK + <b>3</b> dan membuat target terkena <b>Suspend Keras</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Lunging Smash.\nHantamkan tombak panjang ke tanah, menimpakan DMG sebesar <b>52.8%</b> ATK plus <b>3</b> dan membuat target terkena <b>Suspend Keras</b>."
     },
     {
       "name": "Moonchaser",
-      "type": ["Skill"],
-      "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengakibatkan Airborne, menimpakan damage sebesar <b>127.5%</b> ATK + <b>7</b>. CD: <b>25</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengudara, menimpakan DMG sebesar <b>127.5%</b> ATK plus <b>7</b>. CD: <b>25</b> detik."
     },
     {
       "name": "Thunderclap",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b>, yang melompat di udara dan melemparkan Thunderous Spear yang akan menyebabkan ledakan area dan menimbulkan DMG sebesar <b>296.7%</b> ATK + <b>16</b> dan mengakibatkan <b>Paralyze</b> keras kepada target selama <b>1</b> detik."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>, lalu melompat ke udara dan melemparkan Thunderous Spear yang akan meledak saat menghantam tanah, menimpakan DMG sebesar <b>296.7%</b> ATK plus <b>16</b> dan mengakibatkan <b>Paralyze Keras</b> kepada target selama <b>1</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik, menetralkan semua buff dan menimpakan DMG sebesar <b>106%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>106%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
   },
   "advancement": [
     "Meningkatkan Shatter sebesar <b>15%</b>. Setelah menghancurkan Perisai musuh, meningkatkan ATK semua rekan tim sebesar <b>15%</b> selama <b>30</b> detik. Efek ini tidak bisa ditumpuk.",
@@ -74,7 +98,7 @@
     "Setelah menghantam target dengan <span class=\"text-green\">Moonchaser</span>, mengurangi ATK mereka sebesar <b>5%</b> dan meningkatkan ATK pengguna sebesar <b>5%</b> selama <b>15</b> detik (efek bisa ditumpuk maks <b>3</b> kali dengan menghantam beberapa target). Efek akan digandakan pada target yang terkena Grievous.",
     "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar <b>20%</b>.",
     "Menggandakan durasi Stun dari Skill Dodge.",
-    "Makin jauh laju Skill Discharge, damage yang ditimpakan pun makin besar, hingga <b>100%</b> damage lebih besar."
+    "Makin jauh laju Skill Discharge, DMG yang ditimpakan pun makin besar, hingga <b>100%</b> DMG lebih besar."
   ],
   "traits": [
     {

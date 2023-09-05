@@ -4,10 +4,10 @@
   "name": "Ene",
   "weapon": "Vapuleador",
   "weapon_id": "pummeler",
-  "birthday": "17 de agosto (Leo)",
+  "birthday": "17 de agosto",
   "birthplace": "Seguridad de Victoria",
   "gender": "Femenino",
-  "info": "De apariencia holgazana y desmotivada cuando no hay nada que hacer, se emociona en exceso y es muy competitiva en combate. Está muy orgullosa de su cuerpo robótico, el cual es ágil, poderoso y no envejece. También es terca y se esfuerza al límite, incapaz de soltar la toalla antes que quienes tienen cuerpos orgánicos. Sin embargo, su mente es la de una niña y muestra su lado vulnerable al estar con su padre.",
+  "info": "Se ve holgazana y desmotivada cuando no hay nada que hacer, pero se emociona mucho y es muy competitiva en combate.\nEstá muy orgullosa de su cuerpo robótico, el cual es ágil, poderoso y no envejece. También es terca y se esfuerza al límite, incapaz de rendirse antes que aquellos con cuerpos hechos de carne.\nSin embargo, mentalmente sigue siendo una niña y revela su lado frágil cuando está con su padre.",
   "description": "Durante la Era de la Antigua Federación, el contratista militar privado Victoria había planeado desarrollar una serie de droides de batalla de élite. Ene fue el prototipo producido por el programa.\nEl objetivo inicial del diseño era hacer el droide perfecto: consciente, independiente y capaz de pensar, sentir y actuar como un humano. El ejecutivo que aprobó el programa cargó una copia de seguridad de la conciencia de su hija fallecida en Ene como su \"alma\".\nMás tarde, a Ene se le concedieron sus derechos como humana, como hija del ejecutivo de Victoria.",
   "like": "Estar con su padre, los humanos más fuertes que ella",
   "dislike": "Entender por completo la fragilidad de la vida",
@@ -20,53 +20,75 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": ["Attack"],
-      "description": "En el suelo, blande la maza y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>76.3%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>62.1%</b> del ATQ + <b>3</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>157.4%</b> del ATQ + <b>8</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>263.8%</b> del ATQ + <b>14</b> y lanza al objetivo.\nMientras Arrebato está activo, blande la maza y ataca 4 veces seguidas.\nPrimer ataque: inflige daño equivalente al <b>{8}%</b> del ATQ + <b>{9}</b> y hacre retroceder un poco al objetivo.\nSegundo ataque: inflige daño equivalente al <b>{10}%</b> del ATQ + <b>{11}</b> y hacer retroceder un poco al objetivo.\nTercer ataque: inflige daño equivalente al <b>{12}%</b> del ATQ + <b>{13}</b> y hacer retroceder un poco al objetivo.\nCuarto ataque: inflige daño equivalente al <b>{14}%</b> del ATQ + <b>{15}</b> y <b>suspensión fuerte</b> al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, blande el mazo para atacar 4 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>76.3%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>62.1%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>157.4%</b> del ATQ más <b>8</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige un daño igual a <b>263.8%</b> del ATQ más <b>14</b> y lanza al objetivo.\nMientras Arrebato está activo, usa el mazo para atacar 4 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>{8}%</b> del ATQ más <b>{9}</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>{10}%</b> del ATQ más <b>{11}</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>{12}%</b> del ATQ más <b>{13}</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>{14}%</b> del ATQ más <b>{15}</b> y <b>suspende fuerte al objetivo</b>."
     },
     {
       "name": "Vapuleador",
-      "type": ["Jump", "Attack"],
-      "description": "En el aire o luego de saltar una vez, usa el ataque normal para activar Ráfaga de Salto. Inflige daño equivalente al <b>121.7%</b> del ATQ + <b>6</b> y suspende al objetivo.\nMientras Arrebato está activo, inflige daño equivalente al <b>133.9%</b> del ATQ + <b>7</b> y <b>suspende fuerte</b> al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, usa el ataque normal para activar Ráfaga de Salto. Inflige daño igual a <b>121.7%</b> del ATQ más <b>6</b> y suspende al objetivo.\nMientras Arrebato esté activo, inflige daño igual a <b>133.9%</b> del ATQ más <b>7</b> y <b>suspende fuerte</b> al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
       "name": "Onda de Choque",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Pulsar y mantener mientras estás en el aire, dar un salto doble, pulsar ligeramente en el aire cuando haya objetivos cerca, escalar, saltar hacia atrás o atacar al usar el Propulsor activa Onda de Choque. <b>Suspensión fuerte</b> al objetivo <b>4</b> veces e inflige daño equivalente al <b>34.8%</b> del ATQ + <b>2</b> cada vez. Cuesta <b>250</b> de resistencia.\nMientras Arrebato está activo, la Onda de Choque <b>suspensión fuerte</b> al objetivo <b>5</b> veces e inflige daño equivalente al <b>38.3%</b> del *ATQ + <b>2</b> cada vez.\nCuanta mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta un <b>600%</b> de daño."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado mientras estás en el aire, salta dos veces, pulsa brevemente en el aire cuando haya objetivos cerca, escala, salta hacia atrás o ataca mientras usas el propulsor y desencadenará una Onda de Choque. <b>Suspende fuerte</b> al objetivo <b>4</b> veces, lo que inflige daño igual a <b>34.8%</b> del ATQ más <b>2</b> cada vez. Cuesta <b>250</b> de resistencia.\nMientras Arrebato está activo, Onda de Choque <b>suspende fuerte</b> al objetivo <b>5</b> veces, lo que inflige daño igual a <b>38.3%</b> del ATQ más <b>2</b> cada vez.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
       "name": "Ataque Sorpresa",
-      "type": ["Croch", "Attack"],
-      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño equivalente al <b>427.5%</b> del ATQ + <b>23</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño igual al <b>427.5%</b> del ATQ más <b>23</b>."
     },
     {
       "name": "Embestida de Concentración",
-      "type": ["Hold: Attack"],
-      "description": "Mantén pulsado el ataque normal para activar Embestida de Concentración (se puede cargar hasta 3 acumulaciones). Otorga inmunidad a todos los efectos de control e hipercuerpo al cargar.\nPrimera acumulación: inflige daño equivalente al <b>110%</b> del ATQ + <b>6</b> y suspende al objetivo.\nSegunda acumulación: inflige daño equivalente al <b>276%</b> del <b>15</b> y <b>suspensión fuerte</b> al objetivo.\nTercera acumulación: inflige daño equivalente al <b>518%</b> del ATQ + <b>27</b> y <b>suspensión fuerte</b> al objetivo.\nEn modo Arrebato, mantén pulsado el ataque normal para activar Golpes Furiosos e infligir daño equivalente al <b>501.6%</b> del ATQ + <b>26</b> y <b>suspensión fuerte</b> al objetivo."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal para activar la Embestida de Concentración (se puede cargar hasta 3 acumulaciones). Otorga inmunidad a todos los efectos de control y al hipercuerpo mientras cargas.\nPrimera acumulación: Inflige daño igual a <b>110%</b> del ATQ más <b>6</b> y suspende al objetivo.\nSegunda acumulación: Inflige daño igual a <b>276%</b> del ATQ más <b>15</b> y <b>suspende fuerte al objetivo</b>.\nTercera acumulación: Inflige daño igual a <b>518%</b> del ATQ más <b>27</b> y <b>suspende fuerte</b> al objetivo.\nMientras Arrebato está activo, pulsa y mantén pulsado el ataque normal para activar Golpes Furiosos, lo que inflige daño igual a <b>501.6%</b> del ATQ más <b>26</b> y <b>suspende fuerte</b> al objetivo."
     },
     {
       "name": "Embestida de Salto",
-      "type": ["Dodge"],
-      "description": "Usa los botones de flecha y el botón de evadir para activar Embestida de Salto y desatar una Onda de Choque que suspende al enemigo <b>4</b> veces e inflige daño equivalente al <b>161.6%</b> del ATQ + <b>9</b>."
+      "type": [
+        "Dodge"
+      ],
+      "description": "Usa los botones de flecha y el botón de evadir para activar Embestida de Salto y desatar una Onda de Choque que suspende al enemigo <b>4</b> veces e inflige daño igual al <b>161.6%</b> del ATQ más <b>9</b>."
     },
     {
       "name": "Rompemundos",
-      "type": ["Dodge", "Attack"],
-      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Rompemundos, que lanza <b>3</b> ondas de choque hacia adelante, cada una de las cuales inflige daño equivalente al <b>52.4%</b> del ATQ + <b>3</b> y suspende a los objetivos.\nEn modo Arrebato, dispara <b>5</b> ondas de choque hacia adelante, cada una de las cuales inflige daño equivalente al <b>52.4%</b> del ATQ + <b>3</b> y suspende al objetivo."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Rompemundos, que lanza <b>3</b> ondas de choque hacia adelante, cada una de las cuales inflige daño igual al <b>52.4%</b> del ATQ más <b>3</b> y suspende a los objetivos.\nEn modo Arrebato, dispara <b>5</b> ondas de choque hacia adelante, cada una de las cuales inflige daño igual al <b>52.4%</b> del ATQ más <b>3</b> y suspende al objetivo."
     },
     {
       "name": "Arrebato",
-      "type": ["Skill"],
-      "description": "Entra en modo Arrebato e inflige daño aumentado por <b>25</b> segundos.\nEn modo Arrebato, las habilidades activan Furia del Viento, que inflige daño equivalente al <b>219%</b> del ATQ + <b>12</b>, <b>suspensión fuerte</b> al objetivo, y crea una corriente de aire en el suelo. Al estar sobre la corriente, evadir no tiene costo. Enfriamiento: <b>45</b> segundos (enfriamiento de Furia del Viento: <b>10</b> segundos)."
+      "type": [
+        "Skill"
+      ],
+      "description": "Enciende para activar Arrebato, lo que aumenta el daño infligido por <b>25</b> seg.\nMientras que Arrebato está activo, las habilidades activan Furia del Viento, lo que inflige daño igual a <b>219%</b> del ATQ más <b>12</b>; <b>suspende fuerte</b> al objetivo y crea una corriente de aire en el suelo. Al estar en la corriente, evadir no tiene costo. Enfriamiento: <b>45</b> seg (enfriamiento de Furia del Viento: <b>10</b> seg)."
     },
     {
       "name": "Embate Arrollador",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y <b>suspende fuerte</b> a los enemigos cercanos tras cambiar a esta arma, lo que inflige daño equivalente al <b>153.3%</b> del ATQ + <b>8</b>. Además, invoca una maza que cae sobre los objetivos cercanos e inflige daño equivalente al <b>153.3%</b> del ATQ + <b>8</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y <b>suspende fuerte</b> a los objetivos cercanos, lo que inflige daño igual a <b>153.3%</b> del ATQ más <b>8</b>. También invoca una maza que cae sobre los objetivos cercanos, lo que inflige daño igual a <b>153.3%</b> del ATQ más <b>8</b>."
     }
   ],
   "weapon_type": {
-    "name": "Caparazón de Hielo",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>111%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
+    "name": "Caparazón de hielo",
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará con fuerza</b> a los objetivos por <b>2</b> seg y los dejará afligidos de congelación por <b>6</b> seg. Romper el caparazón de hielo inflige daño igual a <b>111%</b> del ATQ. Mientras está afligido de congelación, reduce la tasa de carga de arma del objetivo un <b>50%</b>."
   },
   "advancement": [
     "Provoca a los objetivos cercanos después de cambiar a esta arma, lo que impide <b>1</b> instancia de daño en los próximos <b>8</b> segundos y te otorga hipercuerpo durante los próximos <b>8</b> segundos. Enfriamiento: <b>15</b> segundos.",
@@ -74,7 +96,7 @@
     "Después de recibir daño, reduce todo daño recibido en un <b>50%</b> durante los próximos <b>6</b> segundos. Enfriamiento: <b>20</b> segundos.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>20%</b>.",
     "Los ataques normales <b>aturden</b> a los objetivos durante <b>2.5</b> segundos. Enfriamiento: <b>20</b> segundos.",
-    "Las habilidades de descarga infligen un daño adicional del <b>10%</b> a los objetivos y aumentan el daño de hielo en un <b>10%</b> adicional durante <b>25</b> segundos."
+    "Las habilidades de descarga infligen un daño adicional del <b>10%</b> a los objetivos y aumentan el daño de escarcha en un <b>10%</b> adicional durante <b>25</b> segundos."
   ],
   "traits": [
     {

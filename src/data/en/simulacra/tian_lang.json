@@ -1,0 +1,303 @@
+{
+  "_id": 1029,
+  "id": "tian_lang",
+  "name": "Tian Lang",
+  "weapon": "Thunderbreaker",
+  "weapon_id": "thunderbreaker",
+  "birthday": "March 23",
+  "birthplace": "Mirroria Nursery",
+  "gender": "Male",
+  "info": "He often yawns and appears disorderly, and frequently plays an active part in revitalizing the team's spirits.\nThe fact is though, he's a very thoughtful person with a warm exterior and a cold interior, who does not easily reveal his true feelings.",
+  "description": "An employee of Mirroria Nursery and a lover of flowers. Because he's responsible for the promotion and daily care of the plants for the nursery, he earned the nickname, \"Manager.\"\n\nIn reality, he is the top Executor of District 7 with unfathomable strength. However, few know about this secret of his, being regarded as the \"Ace in the Hole\" of District 7, only acting when Mirroria is in crisis.\n\nDuring a battle with an Abyssant, he fended off an Abyssant's energy attack with his left hand, which left it severely burned. After undergoing tissue regeneration surgery, in order to fight better, he donned an armored glove that matched the combat characteristics of his weapon \"Thunderbreaker.\"",
+  "like": "Flowers, relaxing, Mirroria Nursery",
+  "dislike": "Inconveniences, Executor operations",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Mizar",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, initiate 6 attacks in a row with Thunderbreaker.\nFirst Attack: Deal damage equal to <b>90.5%</b> of ATK plus <b>5</b> and knock the target back.\nSecond Attack: Deal damage equal to <b>67.9%</b> of ATK plus <b>4</b> and knock the target back.\nThird Attack: Deal damage equal to <b>123%</b> of ATK plus <b>6</b> and knock the target back.\nFourth Attack: Deal damage equal to <b>217.9%</b> of ATK plus <b>11</b> and knock the target back.\nFifth Attack: Deal damage equal to <b>222%</b> of ATK plus <b>12</b> and knock the target back.\nSixth Attack: Deal damage equal to <b>291.8%</b> of ATK plus <b>15</b> and launch the target."
+    },
+    {
+      "name": "Megrez",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>87.4%</b> of ATK plus <b>5</b>.\nSecond Attack: Deal damage equal to <b>83%</b> of ATK plus <b>4</b>.\nThird Attack: Deal damage equal to <b>126.7%</b> of ATK plus <b>7</b>.\nFourth Attack: Deal damage equal to <b>229.4%</b> of ATK plus <b>12</b>.\nFifth Attack: Deal damage equal to <b>256.5%</b> of ATK plus <b>14</b>."
+    },
+    {
+      "name": "Phecda",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, tap and hold normal attack to trigger.\nDeal damage up to <b>342%</b> of ATK plus <b>18</b> to the target and gather enemies around you."
+    },
+    {
+      "name": "Merak",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger.\nWhile falling, deal damage equal to <b>38%</b> of ATK plus <b>2</b> each hit. Upon landing, deal damage equal to <b>285%</b> of ATK plus <b>15</b> to nearby targets."
+    },
+    {
+      "name": "Dodge",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun while dodging for <b>0.5</b> seconds."
+    },
+    {
+      "name": "Alioth",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short period after dodging.\nDash to attack the target, dealing total damage equal to <b>172.6%</b> of ATK plus <b>9</b>."
+    },
+    {
+      "name": "Dubhe",
+      "type": [
+        "Skill"
+      ],
+      "description": "Unleash a barrage of attacks, dealing damage equal to <b>936.9%</b> of ATK plus <b>49</b> to enemies in range, and transforms enemies and your summons within a certain range into Electrified Entities, which allow up to 3 Electrified Entities exist at a time. Cooldown: <b>30</b> seconds.\n\nGain Volt Sense when Dubhe is used: Scan the other two equipped weapons when unleashing skills. Each time a volt weapon is sensed, volt ATK increases by <b>6%</b> for <b>25</b> seconds.\n\nElectrified Entity: When unleashing any volt weapon skill or discharge, Electrified Entities unleash volt area damage equal to <b>5%</b> of missing HP (no less than <b>100%</b> volt ATK, no more than <b>1,000%</b> volt ATK).\n\nWhen using Thunderbreaker, unleashing any volt weapon skill or discharge skill consumes <b>30%</b> of current HP to deal additional volt damage equal to <b>50%</b> of the consumed HP (no less than <b>480%</b> volt ATK, no more than <b>3,000%</b> volt ATK) and gain temporary invincibility (unavailable in Apex League). <b>8</b> seconds later or when HP is lower than <b>10%</b>, recover <b>5%</b> missing HP every second for <b>8</b> seconds (not affected by healing effects). The recovery effect cannot be stacked."
+    },
+    {
+      "name": "Obliterator",
+      "type": [
+        "Dodge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b>. Thunderbreaker unleashes wide-range volt damage, dealing total damage equal to <b>844.6%</b> of ATK plus <b>44</b> and transforms enemies or your summons within a certain range into Electrified Entities. Up to 3 Electrified Entities can exist at a time.\n\nElectrified Entity: When unleashing any volt weapon discharge skill, Electrified Entities unleash volt area damage equal to <b>5%</b> of missing HP (no less than <b>100%</b> volt ATK, no more than <b>1,000%</b> volt ATK).\n\nWhen using Thunderbreaker, unleashing any volt weapon skill or discharge consumes <b>30%</b> of current HP to deal additional volt damage equal to <b>50%</b> of the consumed HP (no less than <b>480%</b> of volt ATK and no more than <b>3,000%</b> of volt ATK) and gain temporary invincibility (unavailable in Apex League). After <b>8</b> seconds or when HP is lower than <b>10%</b>, recover <b>5%</b> missing HP every second for <b>8</b> seconds (not affected by healing effects). The recovery effect cannot be stacked."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+  },
+  "weapon_resonance": {
+    "name": "Volt Reaction",
+    "description": "<b>Volt Reaction</b>: Increase volt ATK by <b>20%</b> and volt resistance by <b>40%</b>. Activate by equipping <b>2</b> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with other Volt Resonance or Volt Reaction effects, with Volt Resonance taking precedence."
+  },
+  "advancement": [
+    "Gain 1 stack of Superconductor per charge: Increase Max HP by <b>7.5%</b> but increase damage received by <b>2%</b> (except when the current HP is lower than 8 times of volt ATK and no HP Shield is equipped), stacking up to <b>8</b> times. Lose 1 stack if no Superconductor gets refreshed within <b>6</b> seconds.",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "Release any volt weapon skill or discharge skill to get <b>2</b> charges. Gain hyperbody at <b>8</b> Superconductor stacks.",
+    "Increase the current weapon's base HP growth by <b>32%</b>.",
+    "Each Superconductor stack increases final damage by <b>1%</b>.",
+    "Boost Dubhe's Volt Sense: For every 1 other volt weapon sensed, gain <b>10%</b> volt damage boost for <b>25</b> seconds."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Each use of volt weapon skill or discharge skill gains <b>1</b> free dodge attempt, up to <b>2</b> attempts. When volt weapon skill and discharge skill are used simultaneously, increase volt damage by <b>{0}%</b> for <b>8</b> seconds. This effect cannot be stacked.",
+      "values": [
+        12
+      ]
+    },
+    {
+      "name": "",
+      "description": "Each use of volt weapon skill or discharge skill gains <b>1</b> free dodge attempt, up to <b>3</b> attempts. When volt weapon skill and discharge skill are used simultaneously, increase volt damage by <b>{0}%</b> for <b>8</b> seconds. This effect cannot be stacked.",
+      "values": [
+        18
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

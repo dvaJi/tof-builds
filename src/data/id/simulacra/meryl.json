@@ -4,7 +4,7 @@
   "name": "Meryl",
   "weapon": "Rosy Edge",
   "weapon_id": "rosy_edge",
-  "birthday": "10 Oktober (Libra)",
+  "birthday": "10 Oktober",
   "birthplace": "Hykros",
   "gender": "Perempuan",
   "info": "Dingin, penyendiri, dan cuek. Dia tidak menunjukkan emosinya sama sekali. Bukannya dia itu tak punya emosi, dia cuma tidak mau menjalin hubungan dengan orang lain.",
@@ -20,66 +20,92 @@
   "skills": [
     {
       "name": "Heavy Cleave",
-      "type": ["Attack"],
-      "description": "Saat di darat, ayunkan Greatsword untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>72.9%</b> ATK + <b>4</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan DMG sebesar <b>60.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>105.4%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan DMG sebesar <b>156%</b> ATK + <b>8</b>, mengakibatkan <b>Launch Keras</b> kepada target, dan melontarkan mereka saat mendarat."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan pedang besar untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>72.9%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>60.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>105.4%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>156%</b> ATK plus <b>8</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Aerial Strike",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>106.5%</b> ATK + <b>6</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>87.5%</b> ATK + <b>5</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>156%</b> ATK + <b>8</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>140.5%</b> ATK + <b>7</b> dan mengakibatkan <b>Knockdown</b> yang akan membuat musuh terpental setelah mendarat."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>106.5%</b> ATK plus <b>6</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>87.5%</b> ATK plus <b>5</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>156%</b> ATK plus <b>8</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>140.5%</b> ATK plus <b>7</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Rising Slash",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Rising Slash.\nSetelah kena, target akan mengalami <b>Suspend Keras</b> dan Airborne, menimpakan damage sebesar <b>64.3%</b>ATK + <b>3</b>."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Rising Slash.\nSaat berhasil mendaratkan serangan ini, target akan mengalami <b>Suspend Keras</b> dan terpental ke atas, menimpakan DMG sebesar <b>64.3%</b>ATK plus <b>3</b>."
     },
     {
       "name": "Moonset Slash",
-      "type": ["Jump", "Hold: Attack"],
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
       "description": "Moonset Slash"
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
       "name": "Whirlwind",
-      "type": ["Hold: Attack"],
-      "description": "Saat berdiri atau bergerak, tekan dan tahan Serangan Biasa untuk mengaktifkan Whirlwind, yang akan menimpakan damage sebesar <b>132.8%</b> ATK + <b>7</b> setiap <b>0,5</b> detik pada target. Memberikan Hitstun Immunity saat digunakan."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Saat berdiri diam atau bergerak, tekan dan tahan Serangan Biasa untuk mengaktifkan Whirlwind, menimpakan DMG sebesar <b>132.8%</b> ATK plus <b>7</b> setiap <b>0,5</b> detik kepada target. Saat digunakan, kamu kebal terhadap Hitstun."
     },
     {
       "name": "Devastate",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa selama Waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\nTimpakan damage sebesar <b>65.9%</b> ATK + <b>3</b> setiap kena sasaran dan buat target <b>terpental</b>."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\nMenimpakan DMG sebesar <b>65.9%</b> ATK plus <b>3</b> setiap kena sasaran dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Crescent Slash",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Crescent Slash.\nAyunkan Greatsword untuk melepaskan Sword Aura ke depan, masing-masing menimpakan damage sebesar <b>49.6%</b> ATK + <b>3</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Crescent Slash.\nAyunkan pedang besar untuk menembakkan Sword Aura ke depan, masing-masing menimpakan DMG sebesar <b>49.6%</b> ATK plus <b>3</b>."
     },
     {
       "name": "Blizzard",
-      "type": ["Skill"],
-      "description": "Ayunkan Greatsword untuk melepaskan Sword Aura ke depan, masing-masing menimpakan damage sebesar <b>141.7%</b> ATK + <b>7</b> dan meningkatkan damage yang ditimbulkan sebesar <b>5%</b> setiap kena. Kebal terhadap efek kontrol saat aktif. CD <b>45</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Ayunkan pedang besar untuk menembakkan Sword Aura ke depan, masing-masing menimpakan DMG sebesar <b>141.7%</b> ATK plus <b>7</b>, di mana masing-masing hantaman meningkatkan DMG yang ditimpakan sebesar <b>5%</b>. Selama Skill ini aktif, kamu kebal terhadap efek kontrol. CD: <b>30</b> detik."
     },
     {
       "name": "Frost Barrier",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, setelah beralih ke senjata ini, <b>menghilangkan semua debuff dari penggunanya</b> dan menghantam tanah untuk menghasilkan Barrier yang akan menimpakan damage sebesar <b>503.2%</b> ATK + <b>26</b> kepada musuh di sekitar dan mengakibatkan Suspend kepada target. Ini akan memperlambat mereka sebesar <b>50%</b> dan menghalangi agar mereka tidak menghindar atau melompat. Barrier bertahan <b>5</b> detik dan memblokir proyektil."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini dari senjata lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan menghantam tanah untuk membentuk penghalang yang menimpakan DMG sebesar <b>503.2%</b> ATK plus <b>26</b> kepada musuh di sekitar dan menahan target di udara. Ini akan memperlambat mereka sebesar <b>50%</b> dan membuat mereka tidak bisa menghindar atau melompat. Penghalang ini aktif selama <b>5</b> detik dan memblokir proyektil."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze Kuat</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika lapisan es ini dipecahkan, target akan menerima DMG sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, kecepatan pengisian Charge Senjata target berkurang <b>50%</b>."
   },
   "advancement": [
     "Meningkatkan Shatter sebesar <b>15%</b> dan memulihkan <b>10%</b> HP setelah menghancurkan Perisai musuh.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
     "Setelah berganti senjata, pemain akan mendapatkan Ice Shield sebesar <b>10%</b> Max HP. CD: <b>20</b> detik. Ice Shield bertahan maks <b>10</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
-    "Meningkatkan damage dan Shatter sebesar <b>50%</b> selama Perisai masih aktif.",
-    "Jika beralih ke senjata ini, akan mendapatkan Ice Shield sebesar <b>20%</b> Max HP dan kebal terhadap kontrol selama perisai masih aktif. CD: <b>20</b> detik. Ice Shield bertahan maks <b>10</b> detik."
+    "Meningkatkan DMG dan Shatter sebesar <b>50%</b> selama Perisai masih aktif.",
+    "Ketika beralih ke senjata ini, mendapatkan Ice Shield sebesar <b>20%</b> Max HP dan kebal terhadap efek kontrol selama perisai masih aktif. CD: <b>20</b> detik. Ice Shield aktif selama maks <b>10</b> detik."
   ],
   "traits": [
     {

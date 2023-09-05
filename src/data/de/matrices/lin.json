@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Je 5 Meter, die im Reich des Mondlichts zurückgelegt werden, wird 1 Stapel „Mondlicht“ gewährt. Erhöht für 15 Sek. den Endschaden um 12%/11%/28%/31%. Kann bis zu 3-mal gestapelt werden. Diese Matrix wird auch im Nebenhand-Slot aktiviert, aber nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+      "value": "Je 5 Meter, die im „Reich des Mondlichts“ zurückgelegt werden, wird 1 Stapel „Mondlicht“ gewährt. Erhöht für 15 Sek. den Endschaden um 12%/11%/28%/31%. Kann bis zu 3-mal gestapelt werden. Diese Matrix wird auch im Nebenhand-Slot aktiviert. Dabei ist aber nur das Set mit der höchsten Sternebewertung aktiv."
     }
   ],
   "mind": {
@@ -20,7 +20,7 @@
     "desc": "Verantwortung, die mit der Identität kommt, eine Last und eine Prüfung."
   },
   "memory": {
-    "name": "Lichtverschmutzung",
+    "name": "Licht- verschmutzung",
     "desc": "Licht, das durch jede Ecke der Stadt strömt … und darüber."
   },
   "belief": {

@@ -4,7 +4,7 @@
   "name": "Tsubasa",
   "weapon": "Flecha Helada",
   "weapon_id": "icewind_arrow",
-  "birthday": "24 de marzo (Aries)",
+  "birthday": "24 de marzo",
   "birthplace": "Herederos de Aida",
   "gender": "Femenino",
   "info": "Una oportunista que vuela con el viento. Proactiva y parlanchina, le gusta pasar el rato.\nHace amigos con facilidad y no se enoja incluso si alguien le señala su tendencia oportunista. Tiene una mente abierta que constantemente acepta ideas novedosas y diferentes.\nPor otro lado, no es la clase de persona que ofrece seguridad.",
@@ -20,43 +20,60 @@
   "skills": [
     {
       "name": "Reflejos Rápidos",
-      "type": ["Attack"],
-      "description": "En el suelo, lanza con el arco reiteradamente y ataca 5 veces.\nPrimer ataque: inflige daño equivalente al <b>48.8%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>43.7%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>78.6%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>121.2%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño equivalente al <b>112.5%</b> del ATQ + <b>6</b> y hacer retroceder un poco al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, tira del arco repetidamente para atacar 5 veces.\nPrimer ataque: Inflige daño igual a <b>48.8%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>43.7%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>78.6%</b> del ATQ más <b>4</b>.\nCuarto ataque: Inflige daño igual a <b>121.2%</b> del ATQ más <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>112.5%</b> del ATQ más <b>6</b> y hace retroceder un poco al objetivo."
     },
     {
       "name": "Flecha Cargada",
-      "type": ["Hold: Attack"],
-      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño básico igual a <b>87.8%</b> del ATQ + <b>5</b>, y <b>50%</b> más por cada <b>segundo</b> de carga, hasta <b>3 segundos</b>. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño base igual a <b>87.8%</b> del ATQ más <b>5</b>, y <b>50%</b> más por cada <b>1</b> seg de carga, hasta <b>3</b> seg. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
     },
     {
       "name": "Lluvia de Flechas",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Después de cualquier ataque normal, mantén pulsado el ataque normal para desatar Lluvia de Flechas que inflige hasta el <b>287.2%</b> del ATQ + <b>15</b> de daño de área a los objetivos."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Después de cualquier ataque normal, mantén pulsado el botón de ataque normal para desatar Lluvia de Flechas que inflige hasta el <b>287.2%</b> del ATQ más <b>15</b> de daño de área a los objetivos."
     },
     {
       "name": "Descarga Aérea",
-      "type": ["Jump", "Attack"],
-      "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>56.3%</b> del ATQ + <b>3</b>.\nSegundo ataque: inflige daño equivalente al <b>74%</b> del ATQ + <b>4</b>.\nTercer ataque: inflige daño equivalente al <b>112.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>169.8%</b> del ATQ + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire, utiliza el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>56.3%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>74%</b> del ATQ más <b>4</b>.\nTercer ataque: Inflige daño igual a <b>112.7%</b> del ATQ más <b>6</b>.\nCuarto ataque: Inflige daño igual a <b>169.8%</b> del ATQ más <b>9</b>."
     },
     {
       "name": "Flecha Equipada",
-      "type": ["Dodge", "Attack"],
-      "description": "Pulsa el ataque tras esquivar para activar una Flecha Equipada, que hace <b>retroceder al objetivo</b> e inflige daño equivalente al <b>124%</b> del ATQ + <b>7</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque tras evadir para activar una Flecha Equipada, lo que <b>hace retroceder al objetivo</b> e inflige daño igual a <b>124%</b> del ATQ más <b>7</b>."
     },
     {
       "name": "Disparo Perforante",
-      "type": ["Skill"],
-      "description": "Retrocede en una voltereta y realiza <b>3</b> disparos perforantes. El disparo principal inflige daño equivalente al <b>258.3%</b> del ATQ + <b>14</b>, y los otros dos disparos infligen un 60% de daño. Además, <b>hace retroceder al objetivo</b> y lo aturde durante <b>5</b> segundos si impacta contra un obstáculo. Enfriamiento: <b>12</b> segundos."
+      "type": [
+        "Skill"
+      ],
+      "description": "Realiza una voltereta hacia atrás y <b>3</b> disparos perforantes, el principal inflige daño igual a <b>258.3%</b> del ATQ más <b>14</b>, y los otros dos infligen un 60% de daño. Además, <b>hace retroceder a los objetivos</b> y los aturde durante <b>5</b> seg si chocan con un obstáculo. Enfriamiento: <b>12</b> seg."
     },
     {
       "name": "Ráfaga Explosiva",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea una ventisca en la ubicación objetivo tras cambiar a esta arma, la que inflige daño equivalente al <b>570%</b> del ATQ + <b>30</b>. La ventisca tiene una probabilidad del <b>10%</b> de causar un <b>efecto de congelación</b> durante <b>2</b> segundos. Obtienes frente frío y la velocidad aumenta en un <b>45%</b> durante <b>7</b> segundos."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y crea una tormenta de granizo en la ubicación objetivo, lo que inflige daño igual a <b>570%</b> del ATQ más <b>30</b>. La tormenta tiene una probabilidad de <b>10%</b> de <b>congelar con fuerza</b> al objetivo por <b>2</b> seg. Obtienes Frente Frío y aumenta tu velocidad un <b>45%</b> por <b>7</b> seg."
     }
   ],
   "weapon_type": {
     "name": "Caparazón de hielo",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará con fuerza</b> a los objetivos por <b>2</b> seg y los dejará afligidos de congelación por <b>6</b> seg. Romper el caparazón de hielo inflige daño igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, reduce la tasa de carga de arma del objetivo un <b>50%</b>."
   },
   "advancement": [
     "Otorga una acumulación de Flecha Aguda cada vez que una flecha disparada durante un ataque de evasión golpea a un enemigo. Cada acumulación aumenta el daño en un <b>5%</b> por <b>15</b> segundos. Se acumula hasta <b>3</b> veces.",

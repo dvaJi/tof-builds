@@ -1,0 +1,34 @@
+{
+  "_id": 40024,
+  "id": "fenrir",
+  "name": "เฟนรีร์",
+  "suitName": "",
+  "hash": "SSR24",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase crit damage by <b>14%</b>/15%/16%/18%. This effect does not stack. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing volt damage, increase final damage by <b>2.75%</b> for <b>10</b> seconds, stacking up to <b>5</b>/6/7/8 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "ความฝัน",
+    "desc": "ความฝันถึงช็อกโกแลต จะเชื่อได้มั้ยว่านี่คือเรื่องจริง?"
+  },
+  "memory": {
+    "name": "สุนัขที่ถูกทิ้ง",
+    "desc": "อดีตที่ผูกพันและถูกจองจำ หายไปในโลกอันกว้างใหญ่"
+  },
+  "belief": {
+    "name": "บ้าน",
+    "desc": "จะมี... \"บ้าน\" มั้ยนะ?"
+  },
+  "emotion": {
+    "name": "พึ่งพา",
+    "desc": "ไม่อยากให้มีการบอกลากันอีก ถึงจะถูกหลอกใช้ก็ไม่เป็นไร"
+  }
+}

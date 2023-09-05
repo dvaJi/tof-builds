@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "Cuando hay 2 o más enemigos, los golpes restauran PS iguales al 14%/18%/22%/26% del daño infligido al atacar. Los PS máx restaurados cada 0.5 segundos no pueden exceder un 36%/42%/48%/54% del ATQ."
+      "value": "Cuando hay más de 2 enemigos, los impactos restauran PS iguales al 14%/18%/22%/26% del daño infligido al atacar. Los PS máximos restaurados cada 0.5 seg no pueden exceder un 36%/42%/48%/54% del ATQ."
     }
   ],
   "mind": {

@@ -1,0 +1,34 @@
+{
+  "_id": 40021,
+  "id": "annabella",
+  "name": "Annabella",
+  "suitName": "Bloody Anecdote",
+  "hash": "SSR21",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase final damage by <b>3%</b>/3.4%/3.8%/4.2% and final crit rate by <b>2%</b>/2%/2.4%/2.4% for <b>25</b> seconds when hitting a target with a flame weapon, stacking up to <b>2</b> times. Only the effect with the highest star rating is applied when obtained repeatedly."
+    },
+    {
+      "count": 4,
+      "value": "When equipping 2 or more flame weapons, gain Flowing Fire, which increases final damage by <b>7%</b>/8%/9%/10%, and increases crit damage by an additional <b>12%</b>/14%/16%/18% for <b>25</b> seconds after landing a critical hit. For every <b>3</b> charged attacks that hit the target, restore <b>1</b> dodge attempt. Cooldown: <b>2</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly."
+    }
+  ],
+  "mind": {
+    "name": "Declutter",
+    "desc": "Gosip yang membosankan, ssh."
+  },
+  "memory": {
+    "name": "Blank Command",
+    "desc": "Dengan mudah menjadi tidak responsif tanpa perintah."
+  },
+  "belief": {
+    "name": "Altruism",
+    "desc": "-Salah satu dari kata terakhir yang akan kamu gunakan untuk mendeskripsikan seorang vampir."
+  },
+  "emotion": {
+    "name": "Dead Leaves",
+    "desc": "Akan selalu ada orang yang hanya mau bertindak dalam zona nyaman mereka."
+  }
+}

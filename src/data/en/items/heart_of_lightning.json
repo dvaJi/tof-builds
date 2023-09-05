@@ -1,8 +1,8 @@
 {
   "_id": 24,
   "id": "heart_of_lightning",
-  "name": "Heart of lightning",
+  "name": "Heart of Lightning",
   "description": "Rare ore with volt elemental power. Flashes can be seen inside it in good lighting.",
-  "usage": "For augmenting weapons.",
+  "usage": "Random Weapon Augment Kit",
   "rarity": "R"
 }

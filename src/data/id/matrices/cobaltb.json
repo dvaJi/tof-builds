@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Memulihkan 1 upaya Dodge untuk setiap 4 Dodge. Serangan Dodge akan mengakibatkan Burn pada target, menimpakan DMG sebesar {0}%/{1}%/{2}%/{3}% ATK setiap detik selama {4} detik."
+      "value": "Setiap Menghindar 4 kali, memulihkan 1 jatah Menghindar. Serangan Menghindar akan membakar target, menimpakan DMG sebesar {0}%/{1}%/{2}%/{3}% ATK setiap detik selama {4} detik."
     },
     {
       "count": 4,

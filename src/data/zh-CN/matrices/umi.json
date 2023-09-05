@@ -1,0 +1,34 @@
+{
+  "_id": 40023,
+  "id": "umi",
+  "name": "乌米",
+  "suitName": "双重魔术",
+  "hash": "SSR23",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When dealing physical damage, increase final damage by <b>4%</b>/5%/6%/7% and physical damage by an additional <b>2%</b>/2.5%/3%/3.5% for <b>3</b> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When equipping <b>2</b> or more physical weapons, increase final damage by <b>15%</b>/17%/19%/21%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "蛊惑",
+    "desc": "循循善诱，引导观众以及自己踏入魔术幻境。"
+  },
+  "memory": {
+    "name": "蒙蔽",
+    "desc": "最根本的法则是「欺瞒」、「迷惑」与「蒙蔽」。每次演出开始前都会如此在心中默念。"
+  },
+  "belief": {
+    "name": "诱骗",
+    "desc": "是全然不觉还是佯装无知，有时候「她」也无法做出决断。"
+  },
+  "emotion": {
+    "name": "欺瞒",
+    "desc": "需要欺瞒的对象是所有人，自己也不例外。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": 40004,
+  "id": "king",
+  "name": "Кинг",
+  "suitName": "Адвокат насилия",
+  "hash": "SSR4",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When a target is shattered, grant <b>8%</b>/10%/12%/14% damage boost for <b>25</b> seconds. Only the highest level's effect is applied when obtained repeatedly."
+    },
+    {
+      "count": 4,
+      "value": "If there are <b>2</b> or more enemies nearby, attacks restore HP equal to <b>14%</b>/18%/22%/26% of the damage dealt, up to <b>36%</b>/42%/48%/54% of ATK every <b>0.5</b> seconds."
+    }
+  ],
+  "mind": {
+    "name": "Подпольный правитель",
+    "desc": "Что толку от хорошей репутации, когда в кошельке гуляет ветер? Так что сперва набейте его, а потом уж задавайте вопросы."
+  },
+  "memory": {
+    "name": "Жизнь для борьбы",
+    "desc": "Эти шахтеры трудятся машинально, как зомби. Если не уберетесь отсюда, станете одним из них."
+  },
+  "belief": {
+    "name": "Искатель ощущений",
+    "desc": "Жаждет острых ощущений и всепоглощающих удовольствий... к которым не относятся карьерные амбиции."
+  },
+  "emotion": {
+    "name": "Универсальный солдат",
+    "desc": "Он выучился драться на кулаках еще в детстве, но на одних кулаках далеко не уедешь."
+  }
+}

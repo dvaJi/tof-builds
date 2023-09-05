@@ -4,7 +4,7 @@
   "name": "Hilda",
   "weapon": "L'Exterminateur",
   "weapon_id": "the_terminator",
-  "birthday": "11 avril (Bélier)",
+  "birthday": "11 avril",
   "birthplace": "Banges",
   "gender": "Féminin",
   "info": "Une fille joyeuse, passionnée et amicale. Elle est insouciante et n'est pas méticuleuse pour un sou.\nElle traite tout le monde de la même manière, quel que soit l'âge, le genre ou le milieu social. Le fils du propriétaire de Banges Tech, Théo, fait partie de ses bons amis.\nMais elle est aussi négligente et distraite, allant parfois jusqu'à oublier son arme à la maison…",
@@ -20,23 +20,29 @@
   "skills": [
     {
       "name": "Attaque normale",
-      "type": ["Attack"],
-      "description": "Appuyez sur Attaque normale pour entrer en mode Visée. Maintenez Attaque normale pour tirer en continu, jusqu'à <b>40</b> cartouches. Chaque tir inflige des dégâts de base équivalant à <b>11.4%</b> de l'ATQ + <b>1</b>. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible d'un ennemi, et renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
+      "type": [
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale pour entrer en mode Visée. Maintenez Attaque normale pour tirer en continu, jusqu'à <b>40</b> cartouches. Chaque tir inflige des dégâts équivalant à <b>11.4%</b> de l'ATQ + <b>1</b>. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible d'un ennemi, et renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
     },
     {
       "name": "Tourelle",
-      "type": ["Skill"],
-      "description": "Vous activez le mode Tourelle et envoyez de grands orbes d'énergie. Chacun d'entre eux inflige des dégâts équivalant à <b>213.3%</b> de l'ATQ + <b>11</b>, et projette la cible dans les airs. L'installation de la tourelle vous immunise contre l'hébétement et les effets de contrôle. Temps de recharge : <b>3.5</b> secondes."
+      "type": [
+        "Skill"
+      ],
+      "description": "Vous activez le mode Tourelle et envoyez de grands orbes d'énergie. Chacun d'entre eux inflige des dégâts équivalant à <b>213.3%</b> de l'ATQ + <b>11</b>, et projette la cible dans les airs. Lors de l'installation de la tourelle, vous êtes immunisé contre l'hébétement et les effets de contrôle. Temps de recharge : <b>3.5</b> secondes."
     },
     {
       "name": "Rayon arctique",
-      "type": ["Discharge"],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b>, et tire un rayon arctique au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>329.2%</b> de l'ATQ + <b>17</b>, ainsi qu'un effet de <b>congélation</b> de <b>3</b> secondes. Réduit aussi de <b>50%</b> la résistance au givre de la cible pendant <b>10</b> secondes."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations du porteur</b>, et tire un rayon arctique au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à <b>329.2%</b> de l'ATQ + <b>17</b>, ainsi qu'un effet de <b>gel long</b> de <b>3</b> secondes. Réduit aussi de <b>50%</b> la résistance au givre de la cible pendant <b>10</b> secondes."
     }
   ],
   "weapon_type": {
     "name": "Coquille de glace",
-    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque <b>gèle</b> les cibles pendant <b>2</b> secondes et leur inflige Gelure pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>111%</b> de l'ATQ. Lorsque la cible subit Gelure, son taux de recharge d'arme est réduit de <b>50%</b>."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque <b>gèle longuement</b> les cibles pendant <b>2</b> secondes et leur inflige Gelure pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts équivalant à <b>111%</b> de l'ATQ. Lorsque la cible subit Gelure, son taux de recharge d'arme est réduit de <b>50%</b>."
   },
   "advancement": [
     "Chaque attaque normale réussie accroît les dégâts de <b>1%</b> pendant <b>2</b> secondes (cumulable jusqu'à <b>15</b> fois). Accroît le nombre de munitions à <b>60</b>.",

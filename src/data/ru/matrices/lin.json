@@ -1,0 +1,34 @@
+{
+  "_id": 40018,
+  "id": "lin",
+  "name": "Линь",
+  "suitName": "Ночной город никогда не спит",
+  "hash": "SSR18",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase ATK by <b>2.1%</b>/2.6%/3.1%/3.6% on hit for 18 seconds, stacking up to 5 times. Only the highest level is effective when effects are duplicated."
+    },
+    {
+      "count": 4,
+      "value": "Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by <b>4%</b>/4.9%/5.8%/6.7% for 15 seconds, stacking up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Поклон",
+    "desc": "Ответственность, которая приходит с осознанием себя как личности, это бремя и испытание."
+  },
+  "memory": {
+    "name": "Световое загрязнение",
+    "desc": "Свет, проникающий в каждый уголок города и над ним..."
+  },
+  "belief": {
+    "name": "Перед зеркалом",
+    "desc": "Безупречная и ослепительная фигура, независимо от ракурса."
+  },
+  "emotion": {
+    "name": "Маска черного лиса",
+    "desc": "Иногда она превращается в тень, что свободно перемещается между зданиями."
+  }
+}

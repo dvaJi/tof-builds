@@ -1,0 +1,33 @@
+{
+  "_id": 40032,
+  "id": "liu_huo",
+  "name": "榴火",
+  "suitName": "",
+  "hash": "SSR32",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase final damage by <b>9%</b>/10%/11%/12%. The number of <b>Sparrow Feathers</b> obtained from dodging while using <b>Pine Comet</b> increases to <b>20</b>. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When equipped with at least <b>1</b> flame weapon, increase all elemental damage by <b>11%</b>/14%/17%/20%. After using <b>In All Directions</b>, increase all elemental damage boost by an additional <b>7%</b> and gradually reduce to <b>4%</b> over <b>25</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "平章",
+    "desc": "詩の海に恋しているわ、たとえ報われなくても…"
+  },
+  "memory": {
+    "name": "坊間",
+    "desc": "「ちょっとこっちに来て！この餅をあげるから、熱いうちに食べてね！もう一つは弟に持ち帰って！」"
+  },
+  "belief": {
+    "desc": "精神の境地へと昇りつめるには、労すべきモノも流すべき汗も多く。けれど依然として、その頂は霧がかったまま"
+  },
+  "emotion": {
+    "name": "大志",
+    "desc": "風流とは、日々の研鑽によって成されるものであり、願うだけで得られるものに非ず"
+  }
+}

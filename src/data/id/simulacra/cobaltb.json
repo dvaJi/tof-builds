@@ -4,7 +4,7 @@
   "name": "Cobalt-B",
   "weapon": "Flaming Revolver",
   "weapon_id": "flaming_revolver",
-  "birthday": "26 Juni (Cancer)",
+  "birthday": "26 Juni",
   "birthplace": "Banges Tech",
   "gender": "Perempuan",
   "info": "Dia mungkin tampak serius dan tidak ramah, tapi sebenarnya sifatnya unik dan menarik.\nDia tidak menunjukkan banyak ekspresi wajah, tapi begitu kau mengenalnya, kau akan tahu bahwa dia baik hati dan penuh ide dan emosi. Dia mungkin akan menunjukkan wajah marah saat jengkel.\nDia seorang teknisi mekanis yang ahli, tapi dia bekerja dengan perasaan dan bukan teori.\nDia menangani kreasinya dengan \"indra keenam\", dan sering kali menambahkan modul yang sama sekali tidak berguna cuma karena dia suka...",
@@ -20,52 +20,71 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": ["Attack"],
-      "description": "Saat di darat, gunakan tombol Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan pertama menimbulkan <b>52.3%</b> ATK + <b>3</b> DMG.\nSerangan kedua menimbulkan <b>75.6%</b> ATK + <b>4</b> DMG.\nSerangan ketiga menimbulkan <b>94.5%</b> ATK + <b>5</b> DMG.\nSerangan keempat menimbulkan <b>142.8%</b> ATK + <b>8</b> DMG.\nSerangan kelima menimbulkan <b>137.8%</b> ATK + <b>7</b> DMG."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan pertama menimpakan DMG dengan total sebesar <b>52.3%</b> ATK + <b>3</b>.\nSerangan kedua menimpakan DMG dengan total sebesar <b>75.6%</b> ATK + <b>4</b>.\nSerangan ketiga menimpakan DMG dengan total sebesar <b>94.5%</b> ATK + <b>5</b>.\nSerangan keempat menimpakan DMG dengan total sebesar <b>142.8%</b> ATK + <b>8</b>.\nSerangan kelima menimpakan DMG dengan total sebesar <b>137.8%</b> ATK + <b>7</b>."
     },
     {
       "name": "Charged Shot",
-      "type": ["Hold: Attack"],
-      "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga dan lepas untuk menembakkan peluru, menimpakan DMG sebesar <b>95.4%</b> ATK + <b>5</b>, plus sebuah ledakan 3 detik kemudian (atau jika target mati), menimpakan DMG sebesar <b>23.9%</b> ATK kepada musuh di sekitarnya. Setiap kali target menerima DMG sebelum ledakan (maks <b>4</b> kali), areanya menjadi dua kali lipat dan DMG meningkat."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga dan lepas untuk menembakkan peluru, menimpakan DMG sebesar <b>95.4%</b> ATK plus <b>5</b>, plus sebuah ledakan 3 detik kemudian (atau jika target mati), menimpakan DMG sebesar <b>23.9%</b> ATK kepada musuh di sekitarnya. Setiap kali target menerima DMG selama terjadi ledakan (maks <b>4</b> kali), areanya menjadi dua kali lipat dan DMG meningkat."
     },
     {
       "name": "Jumping Blast",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat sekali, Melancarkan Jumping Blast.\nMelempar bom yang menimpakan DMG sebesar <b>90.8%</b> ATK + <b>5</b> kepada musuh dalam area lingkaran di depan, mendorong mereka ke belakang. Mengonsumsi <b>250</b> Stamina."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat sekali, melakukan Jumping Blast.\nMelempar bom yang menimpakan DMG sebesar <b>90.8%</b> ATK plus <b>5</b> kepada musuh dalam area lingkaran di depan, membuat mereka terpental sedikit ke belakang. Mengonsumsi <b>250</b> Stamina."
     },
     {
       "name": "Aerial Discharge",
-      "type": ["Double Jump"],
-      "description": "Setelah Double-Jump, gunakan Serangan Discharge di udara.\nMenembakkan laser Omnium ke bawah. Laser itu kemudian menyapu ke depan, menimpakan DMG sebesar <b>33.8%</b> ATK + <b>2</b>."
+      "type": [
+        "Double Jump"
+      ],
+      "description": "Setelah lompat dua kali, melakukan Aerial Discharge saat di udara.\nMenembakkan laser Omnium ke bawah. Laser itu kemudian menyapu ke depan, menimpakan DMG sebesar <b>33.8%</b> ATK plus <b>2</b>."
     },
     {
       "name": "Heavy Bombardment",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Tahan tombol Serang saat melakukan Serangan Biasa untuk menembakkan Suppressing Fire di depan, menimpakan <b>102%</b> ATK + <b>5</b> DMG area kepada musuh."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tahan tombol Serang saat melakukan Serangan Biasa untuk menembakkan Suppressing Fire ke depan, menimpakan DMG area kepada musuh dengan total sebesar <b>102%</b> ATK plus <b>5</b>."
     },
     {
       "name": "Close Quarters",
-      "type": ["Dodge", "Attack"],
-      "description": "Gunakan Serangan Biasa tepat setelah menghindar untuk mengaktifkan Close Quarters.\nMenimpakan DMG sebesar <b>156.1%</b> ATK + <b>8</b> kepada target di area kerucut di depan."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa tepat setelah menghindar untuk mengaktifkan Close Quarters.\nMenimpakan DMG sebesar <b>156.1%</b> ATK plus <b>8</b> kepada target di area kerucut di depan."
     },
     {
       "name": "Barrage",
-      "type": ["Skill"],
-      "description": "Menembak terus-menerus ke area kerucut di depan untuk menimpakan <b>666%</b> ATK + <b>35</b> DMG. CD: <b>60</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Menembak terus-menerus ke area kerucut di depan untuk menimpakan DMG sebesar <b>666%</b> ATK plus <b>35</b>. CD: <b>60</b> detik."
     },
     {
       "name": "Explosive Rain",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, beralih ke Senjata ini dari Senjata lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melemparkan <b>3</b> granat ke depan, menimpakan <b>570%</b> ATK + <b>30</b> DMG area dan membuat target <b>terpental</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke Senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melontarkan <b>3</b> granat ke depan, menimpakan DMG area dengan total sebesar <b>570%</b> ATK plus <b>30</b> dan membuat target <b>terpental ke atas</b>."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik, menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efek penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "weapon_resonance": {
-    "name": "Flame Resonance",
-    "description": "<b>Flame Resonance</b>: Meningkatkan Flame ATK sebesar <b>15%</b> dan Flame Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Flame atau lebih. Efek set ini bisa digunakan di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama."
+    "name": "Resonansi Flame",
+    "description": "<b>Resonansi Flame</b>: Flame ATK meningkat <b>15%</b> dan Flame Resistance meningkat <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama."
   },
   "advancement": [
     "Setiap serangan Barrage akan menimpakan DMG tambahan sebesar <b>2%</b> dari HP target saat ini (tak bisa melebihi <b>180%</b> ATK).",

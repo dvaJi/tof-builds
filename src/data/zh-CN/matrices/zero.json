@@ -1,0 +1,34 @@
+{
+  "_id": 40008,
+  "id": "zero",
+  "name": "零",
+  "suitName": "不思议链接",
+  "hash": "SSR8",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to <b>150%</b>/200%/250%/300% of ATK for <b>6</b> seconds."
+    },
+    {
+      "count": 4,
+      "value": "While the shield is active, you and your teammates deal <b>16%</b>/20%/24%/28% more damage."
+    }
+  ],
+  "mind": {
+    "name": "超现实演算",
+    "desc": "突破原理逻辑，颠覆实际现实，彻底放弃以有序经验记忆为基础的计算公式，最终实现超级运算。"
+  },
+  "memory": {
+    "name": "终端处理",
+    "desc": "图像记忆不过是上传和下载的导入方式罢了，至于真假，你自己决定。"
+  },
+  "belief": {
+    "name": "有序信息",
+    "desc": "排列所有信息数据，情报就是从这些零碎的信息中诞生的。"
+  },
+  "emotion": {
+    "name": "优劣法则",
+    "desc": "优胜劣汰适者生存，这是自然的法则，也是个体优异的体现。"
+  }
+}

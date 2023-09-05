@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Stellt nach 4 Ausweichversuchen 1 Ausweichen wieder her. Ausweichangriffe verbrennen Ziele, wodurch sie {4} Sek. lang jede Sek. Schaden in Höhe von {0}%/{1}%/{2}%/{3}% des ANG erleiden."
+      "value": "Stellt nach 4 Ausweichmanövern 1 Ausweichversuch wieder her. Ausweichangriffe verbrennen Ziele, wodurch sie {4} Sek. lang jede Sek. Schaden in Höhe von {0}%/{1}%/{2}%/{3}% des ANG erleiden."
     },
     {
       "count": 4,

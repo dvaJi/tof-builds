@@ -1,0 +1,34 @@
+{
+  "_id": 40031,
+  "id": "rubilia",
+  "name": "蕾比莉亚",
+  "suitName": "求索",
+  "hash": "SSR31",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase volt ATK by <b>14.5%</b>/16.5%/18.5%/20.5%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Increase Crystamax thorn limit to <b>6</b>. After landing a hit with a volt weapon, all elemental damage is increased by <b>13%</b>/16%/19%/22% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "迷途",
+    "desc": "徘徊犹豫，但仍紧紧握着最黑暗的希望。"
+  },
+  "memory": {
+    "name": "启示",
+    "desc": "启迪我，指引我。"
+  },
+  "belief": {
+    "name": "重生",
+    "desc": "虽已对诸多结局做好了准备，但这样的发展仍远出乎她的预料。"
+  },
+  "emotion": {
+    "name": "族群",
+    "desc": "本能与人性都在呼唤着她，你会担忧她的选择吗？"
+  }
+}

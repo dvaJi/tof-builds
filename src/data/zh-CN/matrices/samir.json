@@ -1,0 +1,34 @@
+{
+  "_id": 40009,
+  "id": "samir",
+  "name": "赛弥尔",
+  "suitName": "理性解放",
+  "hash": "SSR9",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage progressively by <b>1%</b> upon hitting a target. Stack up to <b>10</b>/13/16/20 times. Lasts for <b>1.5</b> seconds."
+    },
+    {
+      "count": 4,
+      "value": "Increase Dual EM Stars' electrical explosion damage by <b>16%</b>/22%/30%/40%."
+    }
+  ],
+  "mind": {
+    "name": "玩笑之间",
+    "desc": "你会觉得她的玩笑很恶劣吗？她只会说——干嘛这么严肃嘛。"
+  },
+  "memory": {
+    "name": "故人以往",
+    "desc": "活在记忆中的人，无法再触碰的人，放不下的人。"
+  },
+  "belief": {
+    "name": "银质弹丸",
+    "desc": "她收藏了一枚银质的子弹，该不会是想猎杀吸血鬼吧？"
+  },
+  "emotion": {
+    "name": "未来凝固",
+    "desc": "游戏人间的她，未来早就凝固在某一点。"
+  }
+}

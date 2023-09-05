@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "O acerto restaura vida igual a 14%/18%/22%/26% do dano causado ao atacar quando houver mais do que 2 inimigos por perto. O máximo de vida restaurada a cada 0,5 segundo não deve exceder 36%/42%/48%/54% do ATQ."
+      "value": "O acerto restaura vida igual a 14%/18%/22%/26% do dano causado ao atacar quando houver mais do que 2 inimigos por perto. O máximo de vida restaurada a cada 0,5 segundo não pode exceder 36%/42%/48%/54% do ATQ."
     }
   ],
   "mind": {
@@ -28,7 +28,7 @@
     "desc": "É louco por viver emoções e alegrias espalhafatosas... o que não inclui aspirações profissionais."
   },
   "emotion": {
-    "name": "Exército de Um Homem Só",
+    "name": "Exército de Um Só",
     "desc": "Mesmo assim, lutar só na mão tem seus limites, coisa que ele aprendeu muito jovem."
   }
 }

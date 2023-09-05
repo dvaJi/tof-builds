@@ -12,12 +12,12 @@
     },
     {
       "count": 4,
-      "value": "Após usar a habilidade da arma, recebe maestria durante 15 segundos com tempo de recarga de 15 segundos (o mesmo tempo de recarga vale para todos os níveis de maestria). Maestria não é acumulável. Aumenta o dano ígneo em 2%/2.5%/3%/3.5% toda vez que o alvo for atingido com um ataque normal até maestria terminar. Acumula até 6 vezes, adicionando no máximo 1 acúmulo a cada 0,2 segundo. Aos 6 acúmulos, confere um escudo que bloqueia dano 1 vez."
+      "value": "Após usar a habilidade da arma, recebe maestria durante 15 segundos com tempo de recarga de 15 segundos (o mesmo tempo de recarga vale para todos os níveis de maestria). Maestria não é acumulável. Aumenta o dano ígneo em 2%/2.5%/3%/3.5% toda vez que o alvo for atingido com um ataque normal até maestria terminar. Acumula até 6 vezes, adicionando no máximo 1 acúmulo a cada 0,2 segundo. Após 6 acúmulos, confere um escudo que bloqueia dano 1 vez."
     }
   ],
   "mind": {
     "name": "Surgimento",
-    "desc": "Os botões de flor delicados estão sempre bem protegidinhos, mas eles também querem ir pra linha de frente e ficar lado a lado com ela, mesmo que seja na ponta do pé."
+    "desc": "Este botão de flor delicado está sempre bem protegidinho, mas ela também quer ir pra linha de frente e ficar lado a lado com ela, mesmo que seja na ponta do pé."
   },
   "memory": {
     "name": "Vapor",

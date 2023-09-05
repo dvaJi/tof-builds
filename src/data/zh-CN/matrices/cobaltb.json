@@ -1,0 +1,34 @@
+{
+  "_id": 40005,
+  "id": "cobaltb",
+  "name": "钴蓝",
+  "suitName": "超直感战法",
+  "hash": "SSR5",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage against debuffed targets by <b>14%</b>/16%/18%/20%."
+    },
+    {
+      "count": 4,
+      "value": "Restore <b>1</b> dodge attempt every <b>3</b> dodges. Dodge skills inflict burn upon hit, dealing damage equal to <b>24%</b>/30%/36%/42% of ATK every 0.5 seconds for <b>4</b> seconds."
+    }
+  ],
+  "mind": {
+    "name": "第六视角",
+    "desc": "敏锐到仿佛是在不同位面上对物质进行静态观察一般的感受力，辅以强运。"
+  },
+  "memory": {
+    "name": "起点本金",
+    "desc": "借来的两枚筹码，还清债务后也没来讨要，意外大方地给她留作纪念了……也可能是忘了。"
+  },
+  "belief": {
+    "name": "艺术大师",
+    "desc": "将这份事业形容为“创作”又有什么问题，只是扳手看起来不如画笔文雅吗？"
+  },
+  "emotion": {
+    "name": "机械降神",
+    "desc": "在迷你无人机“小飞飞”上设置一下晨起闹钟，让它来智能地叫醒你吧。"
+  }
+}

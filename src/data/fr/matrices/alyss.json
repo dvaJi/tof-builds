@@ -1,0 +1,34 @@
+{
+  "_id": 40022,
+  "id": "alyss",
+  "name": "Alyss",
+  "suitName": "",
+  "hash": "SSR22",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase final damage by <b>4.5%</b>/5.5%/6.5%/7.5% every time you switch to this weapon. Increase frost damage by an additional <b>3%</b> for <b>18</b> seconds if it's a frost weapon. Only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Increase final damage by <b>6%</b>/7.5%/9%/10.5% for <b>18</b> seconds every time you use Unyielding Wing's discharge skill, stacking up to <b>2</b> times. Remove <b>1</b> stack when the duration ends. This set effect works in the off-hand slot and the same Matrix's effect cannot be stacked repeatedly. Endurance consumption in the Latent State is reduced by <b>50%</b>."
+    }
+  ],
+  "mind": {
+    "name": "Ombre du Vortex",
+    "desc": "Élégante, puissante, précise et fière."
+  },
+  "memory": {
+    "name": "Vision commune",
+    "desc": "Vous pourrez protéger tout le monde…"
+  },
+  "belief": {
+    "name": "Héritage",
+    "desc": "La mission se transmet de génération en génération."
+  },
+  "emotion": {
+    "name": "Mobile tenace",
+    "desc": "Même meurtris et brisés, nous ne lâcherons rien."
+  }
+}

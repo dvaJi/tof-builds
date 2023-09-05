@@ -1,0 +1,34 @@
+{
+  "_id": 40025,
+  "id": "haboela",
+  "name": "Haboela",
+  "suitName": "Volcanic Ash Rain",
+  "hash": "SSR25",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping this matrix on the current weapon increases final damage by <b>8.5%</b>/10.5%/12.5%/14.5%."
+    },
+    {
+      "count": 4,
+      "value": "Increase final damage by <b>9%</b>/11%/13%/15%. The effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Scorching Island",
+    "desc": "Kok panas, ya?"
+  },
+  "memory": {
+    "name": "Circuit Breaker",
+    "desc": "Bagaimana dia bisa sampai di sini setelah medannya berubah?"
+  },
+  "belief": {
+    "name": "Erupt",
+    "desc": "Kumpulkan dan serap lava, lalu..."
+  },
+  "emotion": {
+    "name": "Wrath",
+    "desc": "Penjaga gunung berapi yang sangat pemarah."
+  }
+}

@@ -12,12 +12,12 @@
     },
     {
       "count": 4,
-      "value": "Grant Mastery after casting weapon skill for 15 seconds, with a cooldown of 15 seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by 2%/2.5%/3%/3.5% every time the target is hit with a normal attack until the end of Mastery. Stacks up to 6 times, adding a maximum of 1 stack every 0.2 seconds. At 6 stacks, grants a shield that can block damage 1 time."
+      "value": "Grant Mastery after casting weapon skill for 15 seconds, with a cooldown of 15 seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by 2%/2.5%/3%/3.5% every time the target is hit with a normal attack until the end of Mastery, adding a maximum of 1 stack every 0.2 seconds, up to 6 stacks. After 6 stacks, grants a shield that can block damage 1 time."
     }
   ],
   "mind": {
     "name": "From Behind",
-    "desc": "The delicate buds are always carefully protected, but they also want to walk to the frontline and be side by side with her, even if they would be on tiptoe."
+    "desc": "This delicate bud is always carefully protected, but she also wants to walk to the frontline and be side by side with her, even if she needs to stand on her tiptoes."
   },
   "memory": {
     "name": "Vapor",

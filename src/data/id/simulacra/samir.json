@@ -4,13 +4,13 @@
   "name": "Samir",
   "weapon": "Dual EM Stars",
   "weapon_id": "dual_em_stars",
-  "birthday": "20 Mei (Taurus)",
+  "birthday": "20 Mei",
   "birthplace": "Hykros",
   "gender": "Perempuan",
   "info": "Samir melakukan apa pun yang dia inginkan sesukanya dan dia senang menjahili orang.\nDia adalah seorang Eksekutor Hykros dan punya keahlian yang patut diakui, tapi sifatnya yang kurang bisa diandalkan dan hobinya bersikap usil membuat orang kurang suka berteman dengannya. Dia sendiri tidak begitu memedulikannya...",
   "description": "Masa lalunya dipenuhi misteri.\nSaat ini, diketahui bahwa dia adalah seorang anak yatim piatu yang diadopsi oleh penduduk Banges. Dia bergabung dengan Hykros setelah dewasa dan menjadi Eksekutor setelah menjalani latihan.\n\nDia mahir menembak, bahkan di antara Eksekutor elite. Hykros pernah mempertimbangkan untuk memintanya menjadi instruktur bagi anggota baru, tetapi menyerah karena kepribadiannya tidak cocok untuk tugas itu.",
   "like": "Memecahkan teka-teki dan misteri pembunuhan",
-  "dislike": "Unknown",
+  "dislike": "Tak Diketahui",
   "element": "Volt",
   "rarity": "SSR",
   "role": "Main DPS",
@@ -20,62 +20,79 @@
   "skills": [
     {
       "name": "Dual Fire",
-      "type": ["Attack"],
-      "description": "Saat di darat, tekan Serangan Biasa untuk menyerang 5 kali berturut-turut dengan Dual Pistols.\nSerangan Pertama: Menimbulkan Total DMG sebesar <b>47.1%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan Total DMG sebesar <b>35.8%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimbulkan Total DMG sebesar <b>119.7%</b> ATK + <b>6</b>.\nSerangan Keempat: Menimbulkan Total DMG sebesar <b>113.1%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimbulkan Total DMG sebesar <b>154%</b> ATK + <b>8</b> dan mengakibatkan <b>Launch</b> kepada target."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, tekan Serangan Biasa untuk menyerang 5 kali berturut-turut dengan kedua pistol.\nSerangan Pertama: Menimpakan DMG dengan total sebesar <b>47.1%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG dengan total sebesar <b>35.8%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG dengan total sebesar <b>119.7%</b> ATK plus <b>6</b>.\nSerangan Keempat: Menimpakan DMG dengan total sebesar <b>113.1%</b> ATK plus <b>6</b>.\nSerangan Kelima: Menimpakan DMG dengan total sebesar <b>154%</b> ATK plus <b>8</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Bullet Rain",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara, tekan Serangan Biasa untuk melancarkan tembakan beruntun ke tanah, menimbulkan DMG sebesar <b>50.6%</b> ATK + <b>3</b> DMG. Setiap serangan yang mengenai target menghabiskan <b>150</b> Stamina."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, tekan Serangan Biasa untuk melancarkan tembakan beruntun ke tanah, menimpakan DMG sebesar <b>50.6%</b> ATK plus <b>3</b> DMG. Setiap serangan mengonsumsi <b>150</b> Stamina."
     },
     {
       "name": "Energy Burst",
-      "type": ["Hold: Attack"],
-      "description": "Tahan tombol Serang untuk terus menembak secara konstan, setiap serangan yang kena akan menimbulkan <b>23%</b> ATK + <b>1</b> Base Damage."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tahan tombol Serang untuk menembak secara terus-menerus. Setiap serangan menimpakan DMG dengan nilai awal sebesar <b>23%</b> ATK plus <b>1</b>."
     },
     {
       "name": "Phantom Kick",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Saat di udara, tahan Serangan Biasa untuk melancarkan Phantom Kick. Memukul jatuh target sembari menimbulkan DMG sebesar <b>70.5%</b> ATK + <b>4</b>. Saat mendarat, menimbulkan DMG sebesar <b>98.7%</b> ATK + <b>5</b> dan mengakibatkan <b>Launch Keras</b> kepada target di sekitar."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Saat di udara, tahan Serangan Biasa untuk melancarkan Phantom Kick. Menjatuhkan target dan menimpakan DMG sebesar <b>70.5%</b> ATK plus <b>4</b>. Saat serangan ini kena, menimpakan DMG sebesar <b>98.7%</b> ATK plus <b>5</b> dan membuat target di sekitar <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Rising Lightning Kick",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa setelah Dodge untuk mengakibatkan <b>Suspend Keras</b> kepada target dan menimpakan damage sebesar <b>122.6%</b> ATK + <b>6</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa setelah Menghindar untuk mengakibatkan <b>Suspend Keras</b> kepada target dan menimpakan DMG sebesar <b>122.6%</b> ATK plus <b>6</b>."
     },
     {
       "name": "Electro Field",
-      "type": ["Skill"],
-      "description": "Menembakkan Perisai Energi ke lokasi target, memantulkan sinar dalam Barrier. Timpakan damage sebesar <b>269.8%</b> ATK + <b>14</b>, dan serangan terakhir akan mengakibatkan <b>Suspend Keras</b> kepada target. CD: <b>45</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Menembakkan perisai energi ke lokasi target yang memantulkan peluru laser di dalamnya. Menimpakan DMG sebesar <b>269.8%</b> ATK plus <b>14</b> dan serangan terakhirnya membuat target <b>Terpental Ke Atas</b>. CD: <b>45</b> detik."
     },
     {
       "name": "Domain of Thunder",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghapus semua debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target setelah beralih ke senjata ini, mengakibatkan <b>Suspend Keras</b> kepada target dalam area dan menimbulkan total <b>238.3%</b> ATK + <b>13</b> damage setelah 3 kali menyerang target sambil menangkal buff mereka. Domain bertahan selama <b>3,5</b> detik dan menimpakan damage sebesar <b>42.4%</b> ATK + <b>2</b> kepada target setiap <b>0,5</b> detik."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>, dan menciptakan Domain of Thunder di lokasi target, mengakibatkan target dalam jangkauan <b>Terpental Keras</b> dan menimpakan DMG dengan total sebesar <b>238.3%</b> ATK plus <b>13</b> sebanyak 3 serangan sambil melenyapkan buff pada mereka. Domain ini aktif selama <b>3,5</b> detik dan menimpakan DMG sebesar <b>42.4%</b> ATK plus <b>2</b> kepada target setiap <b>0,5</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik, menetralkan semua buff dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
   },
   "advancement": [
-    "Mengaktifkan ledakan listrik pada target setelah mendaratkan Critical Hit sehingga menimbulkan damage tambahan sebesar <b>30%</b> ATK kepada target dan musuh di dekatnya. CD: <b>0,2</b> detik.",
+    "Mengaktifkan ledakan listrik pada target setelah mendaratkan Critical Hit sehingga menimbulkan DMG tambahan sebesar <b>30%</b> ATK kepada target dan musuh di dekatnya. CD: <b>0,2</b> detik.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
     "Meningkatkan Crit Rate sebesar <b>40%</b> kepada target yang terkena Electrify. Ledakan elektrik akan memperpanjang durasi efek Electrify selama <b>0,5</b> detik, maks <b>5</b> detik.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
     "Menggandakan durasi Electro Field dan menarik target ke tengah serangan.",
-    "Mengaktifkan ledakan elektrik akan mengurangi skill cooldown sebesar <b>1</b> detik."
+    "Mengaktifkan ledakan elektrik akan mengurangi CD Skill sebesar <b>1</b> detik."
   ],
   "traits": [
     {
       "name": "Trickery",
       "icon": true,
-      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebesar <b>3%</b>, dan bisa ditumpuk hingga <b>4</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>1</b> detik."
+      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima DMG. Setiap tumpuk menaikkan DMG yang ditimpakan sebesar <b>3%</b>, dan bisa ditumpuk hingga <b>4</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>1</b> detik."
     },
     {
       "name": "Shadow",
       "icon": true,
-      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima damage. Setiap tumpuk menaikkan damage yang ditimpakan sebesar <b>4%</b>, dan bisa ditumpuk hingga <b>5</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>2</b> detik."
+      "description": "Memberikan <b>1</b> tumpuk Concentration setiap <b>4</b> detik saat Samir tidak menerima DMG. Setiap tumpuk menaikkan DMG yang ditimpakan sebesar <b>4%</b>, dan bisa ditumpuk hingga <b>5</b> kali. Setelah kena, Samir kehilangan <b>1</b> tumpuk Concentration, hingga <b>1</b> tumpuk per <b>2</b> detik."
     }
   ],
   "ascension": [

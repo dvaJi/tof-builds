@@ -1,0 +1,34 @@
+{
+  "_id": 40023,
+  "id": "umi",
+  "name": "อูมิ",
+  "suitName": "เวทมนตร์ทบทวี",
+  "hash": "SSR23",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When dealing physical damage, increase final damage by <b>4%</b>/5%/6%/7% and physical damage by an additional <b>2%</b>/2.5%/3%/3.5% for <b>3</b> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When equipping <b>2</b> or more physical weapons, increase final damage by <b>15%</b>/17%/19%/21%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "เสน่หา",
+    "desc": "โชว์ให้ผู้ชมดูอย่างช้า ๆ และใจเย็น แล้วเข้าสู่มายากลภาพลวงตา"
+  },
+  "memory": {
+    "name": "แสนลึกลับ",
+    "desc": "กฎพื้นฐานที่สุดคือ \"การลวงหลอก\", \"ทำให้สับสน\" และ \"การบิดเบือน\" นี่คือสิ่งที่ฉันบอกตัวเองก่อนแสดงแต่ละครั้ง"
+  },
+  "belief": {
+    "name": "ล่อลวง",
+    "desc": "บางครั้ง \"เธอ\" ก็ตัดสินใจไม่ได้ว่าเธอไม่รู้ตัวจริง ๆ หรือแกล้งทำเป็นไม่รู้"
+  },
+  "emotion": {
+    "name": "ลวงหลอก",
+    "desc": "เธอจำเป็นต้องหลอกลวงทุกคน รวมถึงตัวเธอเองด้วย"
+  }
+}

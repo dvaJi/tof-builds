@@ -4,13 +4,13 @@
   "name": "Shiro",
   "weapon": "Chakram of the Seas",
   "weapon_id": "chakram_of_the_seas",
-  "birthday": "22 September (Virgo)",
-  "birthplace": "Unknown",
+  "birthday": "22 September",
+  "birthplace": "Tak Diketahui",
   "gender": "Perempuan",
   "info": "Dia antisosial, tidak suka orang asing, dan cemas saat bertemu dengan seseorang untuk pertama kali.\nDia bahkan tidak cukup memperhatikan partnernya, dan cuma bersemangat kalau topik yang dibicarakan sesuai dengan minatnya. Namun, dia bicara cepat sekali dan marah kalau partnernya tidak bisa mengikuti.\nDia mirip kucing—seringnya dingin dan penyendiri, tapi marah kalau dia mau diperhatikan dan tidak ada orang di sekitarnya.",
   "description": "\"Maniak lautan penyendiri\" adalah sebutan orang untuk Shiro, si ahli kelautan. Gadis penyendiri ini menjadi seseorang yang penuh semangat dan setia saat sedang menatap lautan.\nSaat menginjak usia dewasa dan menunjukkan bakat dalam ilmu kelautan, dia bepergian sendirian selama beberapa tahun dan mengukur pembagian laut Aida, tugas luar biasa dengan kontribusi sangat besar pada pemahaman manusia akan Aida.",
   "like": "Laut, novel, atau makhluk laut yang dianggap menarik",
-  "dislike": "Unknown",
+  "dislike": "Tak Diketahui",
   "element": "Physical",
   "rarity": "SSR",
   "role": "Sub DPS",
@@ -20,55 +20,76 @@
   "skills": [
     {
       "name": "Rapid Throw",
-      "type": ["Attack"],
-      "description": "Saat di darat, acungkan Chakram untuk melepaskan 5 Spinning Attack.\nSerangan Pertama: Timpakan damage sebesar <b>30.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebesar <b>23.8%</b> ATK + <b>1</b>.\nSerangan Ketiga: Timpakan damage sebesar <b>34%</b> ATK + <b>2</b>.\nSerangan Keempat: Timpakan damage sebesar <b>30.7%</b> ATK + <b>2</b>.\nSerangan Kelima: Timpakan damage sebesar <b>53.8%</b> ATK + <b>3</b> memukul mundur lawan dalam jarak dekat."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, melakukan 5 serangan berturut-turut dengan melempar Chakram.\nSerangan Pertama: Menimpakan DMG sebesar <b>30.7%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>23.8%</b> ATK plus <b>1</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>34%</b> ATK plus <b>2</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>30.7%</b> ATK plus <b>2</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>53.8%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang."
     },
     {
       "name": "Aerial Discharge",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk melepaskan 3 Spinning Attack berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>26.2%</b> ATK + <b>1</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>29.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>37.2%</b> ATK + <b>2</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk melancarkan 3 serangan berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>26.2%</b> ATK plus <b>1</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>29.2%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>37.2%</b> ATK plus <b>2</b>."
     },
     {
       "name": "Scatter",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Setelah Serangan Biasa kedua, tahan tombol Serang untuk mengaktifkan Scatter.\nMelontarkan lima Chakram penembus ke depan, masing-masing serangan yang kena akan menimbulkan <b>43.5%</b> ATK + <b>2</b> damage, dengan sedikit Knockback."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Serangan Biasa kedua, tahan tombol Serang untuk mengaktifkan Scatter.\nMelontarkan lima Chakram yang menembus ke depan, masing-masing serangan menimpakan <b>43.5%</b> ATK plus <b>2</b> DMG dan membuat target terpental sedikit ke belakang."
     },
     {
       "name": "Air Spin",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tekan dan tahan Serangan Biasa saat di udara untuk mengaktifkan Air Spin.\nMelepaskan serangan dahsyat, menimpakan damage sebesar <b>191.5%</b> ATK + <b>10</b> kepada target dan musuh di sekitar, dan mengakibatkan Suspend kepada mereka."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa saat di udara untuk mengaktifkan Air Spin.\nMelakukan serangan dahsyat, menimpakan DMG sebesar <b>191.5%</b> ATK plus <b>10</b> kepada target dan musuh di sekitarnya, serta membuat mereka terpental ke atas."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>427.5%</b> ATK + <b>23</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>427.5%</b> ATK plus <b>23</b>."
     },
     {
       "name": "Waning Moon",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa selama periode singkat setelah Dodge untuk mengaktifkan Waning Moon.\nLemparkan Chakram yang berputar ke depan, ini menimpakan damage sebesar <b>132.9%</b> ATK + <b>7</b> pada target dan menimpakan efek <b>Stun</b> selama <b>0,5</b> detik. Chakram kemudian terbelah menjadi <b>3</b> dan terus bergerak, ini menimpakan damage sebesar <b>24.2%</b> ATK + <b>1</b> pada target di sepanjang jalurnya. <span class=\"text-red\">Chakram terbelah akan memantul selama Full Bloom</span>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa selama rentang waktu singkat setelah Menghindar untuk mengaktifkan Waning Moon.\nMelempar Chakram ke depan, menimpakan DMG sebesar <b>132.9%</b> ATK plus <b>7</b> kepada target dan <b>Stun</b> selama <b>0,5</b> detik. Chakram kemudian terbelah menjadi <b>3</b> dan terus bergerak, ini menimpakan DMG sebesar <b>24.2%</b> ATK plus <b>1</b> kepada target yang dilewatinya. <span class=\"text-red\">Chakram yang terbelah tersebut akan memantul di dalam zona Full Bloom</span>."
     },
     {
       "name": "Full Bloom",
-      "type": ["Skill"],
-      "description": "Membuat Chakram Domain dengan Wanderer di pusatnya selama <b>8</b> detik. Pada waktu bersamaan, musuh akan ditarik, dan kecepatan mereka berkurang <b>30%</b> selama <b>8</b> detik. Melontarkan <b>5</b> Chakram yang memantul di antara musuh, menimpakan damage sebesar <b>24.2%</b> ATK + <b>1</b> kepada target di jalurnya, memantul maks <b>5</b> kali. <span class=\"text-red\">Cakram terbelah yang diaktifkan oleh Waning Moon juga memantul maks 5 kali.</span> CD: <b>45</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Membuat area Chakram Domain dengan Wanderer di pusatnya yang aktif selama <b>8</b> detik. Pada waktu bersamaan, musuh akan ditarik, dan kecepatan mereka berkurang <b>30%</b> selama <b>8</b> detik. Melontarkan <b>5</b> Chakram yang memantul di antara musuh, menimpakan DMG sebesar <b>24.2%</b> ATK plus <b>1</b> kepada target yang dilewatinya, memantul maks <b>5</b> kali. <span class=\"text-red\">Cakram terbelah dari Waning Moon juga akan memantul maks 5 kali.</span> CD: <b>45</b> detik."
     },
     {
       "name": "Spirit of the Air",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, jika beralih ke senjata ini dari senjata lain, <b>akan menghilangkan semua debuff dari pengguna</b> dan akan melepaskan Chakram of the Seas kepada target. Target yang kena akan mengalami AOE <b>Stun</b> selama <b>1</b> detik, dan masing-masing <b>1</b> serangan kepadanya, maks <b>3</b> unit per detik (setiap serangan punya peluang <b>10%</b> untuk mengakibatkan <b>Stun</b> kepada target selama <b>1,5</b> detik), dan menimbulkan <b>41.4%</b> ATK + <b>2</b> damage selama <b>10</b> detik."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan akan melontarkan Chakram of the Seas kepada target yang akan menimpakan <b>Stun</b> area selama <b>1</b> detik kepada target, plus menyerang <b>1</b> kali kepada maks <b>3</b> unit per detik (setiap serangan punya peluang <b>10%</b> untuk mengakibatkan <b>Stun</b> kepada target selama <b>1,5</b> detik), menimpakan <b>41.4%</b> ATK plus <b>2</b> DMG selama durasi <b>10</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan menimpakan DMG sebesar <b>137%</b> ATK dan membuat target terkena efek Grievous selama <b>7</b> detik, mengakibatkan mereka menerima <b>20%</b> DMG tambahan."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menerapkan efek Grievous pada lawan selama <b>7</b> detik, meningkatkan DMG yang mereka terima sebesar <b>20%</b> dan menimpakan DMG sebesar <b>137%</b> ATK. Saat <yellow_lbl_14_1>bermain sebagai tim</>, target yang terkena Grievous menerima Physical DMG <b>20%</b> lebih besar."
   },
   "advancement": [
-    "Meningkatkan damage yang ditimpakan dan semua efek Shatter elemental yang dihasilkan kepada target dalam jarak <span class=\"text-green\">Full Bloom</span> sebesar <b>30%</b>.",
+    "Meningkatkan DMG yang ditimpakan dan semua efek Shatter elemental yang dihasilkan kepada target dalam jarak <span class=\"text-green\">Full Bloom</span> sebesar <b>30%</b>.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
     "Meningkatkan Shatter sebesar <b>15%</b> dan mereset cooldown untuk semua Skill Senjata setelah menghancurkan Perisai musuh. Hanya bisa diaktifkan sekali setiap <b>30</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
-    "Menyerang target yang terkena Grievous akan memperpanjang durasi Grievous selama <b>7</b> detik lagi (hanya menerima efek satu kali untuk efek yang sama).",
+    "Menyerang target yang terkena Grievous akan memperpanjang durasi Grievous selama <b>7</b> detik (efek yang sama hanya bisa berlaku satu kali).",
     "Setelah menggunakan <span class=\"text-green\">Full Bloom</span>, memberikan 100% peluang Crit untuk <b>8</b> detik berikutnya."
   ],
   "traits": [

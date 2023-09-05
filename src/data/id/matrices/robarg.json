@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Saat target mengalami Shatter, meracuni target dan menimpakan damage sebesar 45%/56%/67,5% ATK setiap detik selama 10 detik."
+      "value": "Saat target mengalami Shatter, meracuni target dan menimpakan DMG sebesar 45%/56%/67,5% ATK setiap detik selama 10 detik."
     }
   ],
   "mind": {

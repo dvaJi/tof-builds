@@ -1,0 +1,34 @@
+{
+  "_id": 40023,
+  "id": "umi",
+  "name": "Umi",
+  "suitName": "Double Magic",
+  "hash": "SSR23",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When dealing physical damage, increase final damage by <b>4%</b>/5%/6%/7% and physical damage by an additional <b>2%</b>/2.5%/3%/3.5% for <b>3</b> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When equipping <b>2</b> or more physical weapons, increase final damage by <b>15%</b>/17%/19%/21%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Bewitch",
+    "desc": "Memandu penonton dan diri sendiri ke dalam ilusi sulap dengan sabar dan perlahan."
+  },
+  "memory": {
+    "name": "Mystify",
+    "desc": "Hukum yang paling mendasar adalah \"penipuan\", \"penyesatan\", dan \"manipulasi\". Inilah yang kukatakan pada diriku sendiri sebelum setiap pertunjukan."
+  },
+  "belief": {
+    "name": "Beguile",
+    "desc": "Terkadang \"dia\" tidak bisa memutuskan apakah akan tidak menyadari atau pura-pura tidak tahu."
+  },
+  "emotion": {
+    "name": "Deceive",
+    "desc": "Dia harus menipu semua orang, termasuk dirinya sendiri."
+  }
+}

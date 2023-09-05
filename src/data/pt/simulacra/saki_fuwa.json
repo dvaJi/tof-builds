@@ -4,7 +4,7 @@
   "name": "Saki Fuwa",
   "weapon": "Cardiomanancial",
   "weapon_id": "heartstream",
-  "birthday": "11 de outubro (Libra)",
+  "birthday": "11 de outubro",
   "birthplace": "Forças Especiais de Segurança de Reflexia",
   "gender": "Feminino",
   "info": "Por trás da aparência imatura dela existe um coração em pleno contraste com o exterior. Ela é basicamente um \"miniadulto\", de cabo a rabo.\nContudo, há vezes em que sua idade e aparência se sobressaem: quando não há ninguém por perto, ela costuma treinar falas como se estivesse no calor da batalha. Ela gosta de colecionar miniaturas simples dos velhos dias (na verdade, é bem nerd com isso).",
@@ -20,48 +20,67 @@
   "skills": [
     {
       "name": "Iramanancial",
-      "type": ["Attack"],
-      "description": "No chão, execute 5 ataques de Cardiomanancial.\nPrimeiro ataque: Causa dano de <b>42.5%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>29.5%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>45%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>70.6%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>102.6%</b> do ATQ + <b>5</b> e lança o alvo no ar."
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, execute 5 ataques de Cardiomanancial.\nPrimeiro ataque: causa dano de <b>42.5%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>29.5%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>45%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>70.6%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nQuinto ataque: causa dano de <b>102.6%</b> do ATQ + <b>5</b> e lança o alvo no ar."
     },
     {
       "name": "Parte-Ar",
-      "type": ["Jump", "Attack"],
-      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>47.2%</b> do ATQ + <b>2</b>.\nSegundo ataque: Causa dano de <b>43.7%</b> do ATQ + <b>2</b>.\nTerceiro ataque: Causa dano de <b>54.2%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>76.9%</b> do ATQ + <b>4</b>.\nQuinto ataque: Causa dano de <b>170.2%</b> do ATQ + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>47.2%</b> do ATQ + <b>2</b>.\nSegundo ataque: causa dano de <b>43.7%</b> do ATQ + <b>2</b>.\nTerceiro ataque: causa dano de <b>54.2%</b> do ATQ + <b>3</b>.\nQuarto ataque: causa dano de <b>76.9%</b> do ATQ + <b>4</b>.\nQuinto ataque: causa dano de <b>170.2%</b> do ATQ + <b>9</b>."
     },
     {
       "name": "Flow Agitado: Vórtice",
-      "type": ["Hold: Attack"],
+      "type": [
+        "Hold: Attack"
+      ],
       "description": "No modo de Flow Agitado, segure o botão de ataque normal para usar a habilidade.\nInveste à frente com um multiataque rodopiante que causa dano de até <b>199.5%</b> do ATQ + <b>11</b>."
     },
     {
       "name": "Geada Cadente",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Toque e segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar.\nEnquanto cai, cada golpe causa dano de <b>30.4%</b> do ATQ + <b>2</b>. Ao aterrissar, causa dano de <b>76%</b> do ATQ + <b>4</b> a alvos próximos."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar.\nEnquanto cai, cada golpe causa dano de <b>30.4%</b> do ATQ + <b>2</b>. Ao aterrissar, causa dano de <b>76%</b> do ATQ + <b>4</b> a alvos próximos."
     },
     {
       "name": "Esquiva",
-      "type": ["Dodge"],
-      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção durante <b>0,5</b> segundo enquanto se esquiva."
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante <b>0,5</b> segundo."
     },
     {
       "name": "Frente Polar",
-      "type": ["Dodge", "Attack"],
-      "description": "Use o botão de ataque normal logo após se esquivar.\nArremete e gira para atacar o alvo, causando dano de <b>277%</b> do ATQ + <b>15</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal logo após se esquivar.\nArremete e gira para atacar o alvo, causando dano total de <b>277%</b> do ATQ + <b>15</b>."
     },
     {
-      "name": "Flow agitado: Corrente transitória",
-      "type": ["Skill"],
+      "name": "Flow Agitado: Corrente Transitória",
+      "type": [
+        "Skill"
+      ],
       "description": "Arremete na direção do alvo e imobiliza inimigos temporariamente ao longo do caminho, causando dano atrasado de até <b>445.3%</b> do ATQ + <b>23</b>. Tempo de recarga: <b>30</b> seg."
     },
     {
-      "name": "Flow silencioso: Corrente concentrada",
-      "type": ["Discharge"],
-      "description": "Use habilidades de Flow Silencioso para entrar em estado de carregamento por até <b>3</b> segundos, continuamente provocando alvos próximos e absorvendo dano equivalente a até <b>60%</b> da vida máxima. Ao final do estado de carregamento, causa dano gélido de <b>850%</b> do ATQ gélido + <b>50%</b> do dano absorvido aos alvos, e <b>20%</b> do valor não consumido é convertido em recuperação de vida. Tempo de recarga: <b>30</b> seg.\n\nEntra no modo de Flow Silencioso quando a ressonância de coragem estiver ativa. <b>Flow agitado: Corrente transitória</b> é substituído por <b>Flow silencioso: Corrente concentrada</b>. Entra no estado de Flow Agitado quando a ressonância de coragem não estiver ativa.\nVocê pode ganhar sombra espádica, que acompanha você ao usar habilidades de Saki Fuwa. Sombra espádica gera ondulação quando você utilizar habilidades encadeadas ou habilidades de descarga de Saki Fuwa, causando dano a distância de <b>450%</b> do ATQ gélido. Tempo de recarga de ondulação: <b>10</b> seg.\nNo estado de Flow Agitado: Sombra espádica gera flow quando você causa dano com qualquer arma, causando dano de <b>125%</b> do ATQ gélido ao primeiro alvo atingido, e recupera vida equivalente a <b>57%</b> do dano. A vida máxima recuperada por vez não pode ultrapassar <b>100%</b> do ATQ. Tempo de recarga: <b>0,8</b> seg.\nNo estado de Flow Silencioso: Após sombra espádica gerar ondulação, você obtém <b>3</b> bloqueios durante <b>10</b> segundos, e a capacidade máxima de bloqueio não excede <b>15%</b> da vida máxima. A cada bloqueio bem-sucedido, causa dano de contra-ataque de <b>450%</b> do ATQ gélido ao alvo, e o despedaçar de ondulação aumenta em <b>100%</b> com o efeito de provocação adicionado."
+      "name": "Flow Silencioso: Corrente Concentrada",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Solte habilidades de Flow Silencioso para entrar em estado carregado por até <b>3</b> segundos, continuamente provocando alvos próximos e absorvendo dano equivalente a até <b>60%</b> da vida máxima. Ao final do estado carregado, causa dano gélido de <b>850%</b> do ATQ gélido + <b>50%</b> x o dano absorvido aos alvos, e <b>20%</b> do valor não consumido é convertido em recuperação de vida. Tempo de recarga: <b>30</b> seg.\n\nEntra no modo de Flow Silencioso quando a ressonância de coragem estiver ativa. <b>Flow Agitado: Corrente Transitória</b> é substituído por <b>Flow Silencioso: Corrente Concentrada</b>. Entra no estado de Flow Agitado quando a ressonância de coragem não estiver ativa.\nVocê pode ganhar sombra espádica, que acompanha você ao usar habilidades de Saki Fuwa. Sombra espádica gera ondulação quando você utilizar habilidades encadeadas ou habilidades de descarga de Saki Fuwa, causando dano a distância de <b>450%</b> do ATQ gélido. Tempo de recarga de ondulação: <b>10</b> seg.\nNo estado de Flow Agitado: Sombra espádica gera flow quando você causa dano com qualquer arma, causando dano de <b>125%</b> do ATQ gélido ao primeiro alvo atingido, e recupera vida equivalente a <b>57%</b> do dano. A vida máxima recuperada por vez não pode ultrapassar <b>100%</b> do ATQ. Tempo de recarga: <b>0,8</b> seg.\nNo estado de Flow Silencioso: Após sombra espádica gerar ondulação, você obtém <b>3</b> bloqueios durante <b>10</b> segundos, e a capacidade máxima de bloqueio não excede <b>15%</b> da vida máxima. A cada bloqueio bem-sucedido, causa dano de contra-ataque de <b>450%</b> do ATQ gélido ao alvo, e o despedaçar de ondulação aumenta em <b>100%</b> com o efeito de provocação adicionado."
     }
   ],
   "weapon_type": {
     "name": "Casca de Gelo",
-    "description": "Com carga completa, o ataque seguinte da arma <b>congela</b> o alvo durante <b>2</b> segundos e causa geladura durante <b>6</b> segundos. Quebrar a casca de gelo causa dano adicional de <b>151%</b> do ATQ. Durante a geladura, a velocidade de carga de arma do alvo diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma <b>congela forte</b> o alvo durante <b>2</b> segundos e causa geladura durante <b>6</b> segundos. Quebrar a casca de gelo causa dano de <b>151%</b> do ATQ. Durante a geladura, a velocidade de carga de arma do alvo diminui em <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Ressonância gélida",

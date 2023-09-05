@@ -1,0 +1,341 @@
+{
+  "_locid": "CH24_Lyra",
+  "name": "Lyra",
+  "weapon": "Vesper",
+  "element": "Physical",
+  "rarity": "SSR",
+  "id": "lyra",
+  "global": true,
+  "tier": 1,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "Support",
+  "soon": false,
+  "new": true,
+  "resonance": "DPS",
+  "shatter": 12.0,
+  "charge": 10.0,
+  "builds": [
+    {
+      "name": "Standard",
+      "description": "The premiere DPS for fire teams who excels against targets with burn.",
+      "set1": ["Ruby"],
+      "set2": ["Samir", "Crow"]
+    }
+  ],
+  "comps": ["fiona", "gnonno", "zero"],
+  "skills": [
+    {
+      "name": "GA_FPlayerArmMeleeBuff_name",
+      "icon": true,
+      "type": ["Passive"],
+      "description": "GA_FPlayerArmBuff_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerArmMeleePhy_Melee_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerArmMeleePhy_Melee_des",
+      "values": [81.6, 4, 59.1, 3, 123.9, 7, 173, 9, 196.4, 10]
+    },
+    {
+      "name": "GA_FPlayerArmMeleePhy_AirAttack_name",
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerArmMeleePhy_AirAttack_des",
+      "values": [33.2, 2, 124.5, 7, 556.6, 29]
+    },
+    {
+      "name": "GA_FPlayerArmMeleePhy_PowerAttack_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerArmMeleePhy_PowerAttack_des",
+      "values": [96, 5, 223, 12, 360.5, 19]
+    },
+    {
+      "name": "GA_FPlayerArmMeleePhy_Branch_name",
+      "icon": true,
+      "type": ["Hold: Attack"],
+      "description": "GA_FPlayerArmMeleePhy_Branch_des",
+      "values": [20, 1]
+    },
+    {
+      "name": "GA_FPlayerArmMeleePhy_JumpAttack_name",
+      "icon": true,
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerArmMeleePhy_JumpAttack_des",
+      "values": [166.3, 9, 288.2, 15, 454.4, 24]
+    },
+    {
+      "name": "GA_FPlayerArmEvadePhy_BackAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerArmEvadePhy_BackAttack_des",
+      "values": [261.4, 14]
+    },
+    {
+      "name": "GA_FPlayerArmEvadePhy_Evade_name",
+      "icon": true,
+      "type": ["Dodge"],
+      "description": "GA_FPlayerArmEvadePhy_Evade_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerArmSkillPhy_Pas_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerArmSkillPhy_Pas_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerArmPublishSkillPhy_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerArmPublishSkillPhy_des",
+      "values": [702.1, 37]
+    },
+    {
+      "name": "GA_FPlayerArmLawSkillPhy_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerArmLawSkillPhy_des",
+      "values": [702.1, 37, 25, 150]
+    },
+    {
+      "name": "GA_FPlayerArmChangeSkillPhy_Success_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerArmChangeSkillPhy_Success_des",
+      "values": [748.1, 39]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_1_0",
+    "type": "ui_elemental_type_1",
+    "description": "ui_weapon_charge_1_desc_0",
+    "values": [0]
+  },
+  "weapon_resonance": {
+    "name": "Buff_ArmPhy_SSR_Level0_name",
+    "type": "ui_elemental_type_1",
+    "description": "Buff_ArmPhy_SSR_Level0",
+    "values": [15, 25]
+  },
+  "advancement": [
+    "Buff_ArmPhy_SSR_Level1",
+    "Buff_ArmPhy_SSR_Level2",
+    ["Buff_ArmPhy_SSR_Level3", [15, 10]],
+    "Buff_ArmPhy_SSR_Level4",
+    ["Buff_ArmPhy_SSR_Level5", [5]],
+    ["Buff_ArmPhy_SSR_Level6", [1.6, 8, 25]]
+  ],
+  "traits": [
+    {
+      "name": "Buff_Arm_Level1_name",
+      "description": "Buff_Arm_Level1_des",
+      "values": [10]
+    },
+    {
+      "name": "Buff_Arm_Level2_name",
+      "description": "Buff_Arm_Level2_des",
+      "values": [10, 50, 8]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "700",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "1100",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "booster_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat2": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat3": {
+        "name": "nano_coating_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat4": {
+        "name": "acidproof_glaze_ii",
+        "rarity": "R",
+        "amount": "9"
+      }
+    }
+  ]
+}

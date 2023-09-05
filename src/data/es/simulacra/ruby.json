@@ -4,7 +4,7 @@
   "name": "Conejo",
   "weapon": "Chispa",
   "weapon_id": "spark",
-  "birthday": "15 de julio (Cáncer)",
+  "birthday": "15 de julio",
   "birthplace": "Desconocido",
   "gender": "Femenino",
   "info": "Una inocente niña introvertida que no conoce mucho del mundo. Está un tanto asustada de los extraños y prefiere estar sola. Tal vez por eso es algo miedosa y tímida frente a los extraños.\nComo siempre la llaman \"la chica que está con Madam Lin\", desarrolló un sentido de misión: debe trabajar más duro para no ser una carga para Lin ni dejar que se desperdicien las instrucciones de Lin.",
@@ -20,57 +20,77 @@
   "skills": [
     {
       "name": "Ataque de Chispa",
-      "type": ["Attack"],
-      "description": "Mientras estás en el suelo, toca el botón de ataque normal para ordenar a Chispa que ataque 5 veces seguidas.\nPrimer ataque: Inflige daño total igual a <b>84.6%</b> del ATQ + <b>4</b> contra cada objetivo.\nSegundo ataque: Inflige daño total igual a <b>93%</b> del ATQ + <b>5</b> contra cada objetivo.\nTercer ataque: Inflige daño total igual a <b>101.5%</b> del ATQ + <b>5</b> contra cada objetivo.\nCuarto ataque: Inflige daño total igual a <b>109.9%</b> del ATQ + <b>6</b> contra cada objetivo.\nQuinto ataque: Inflige daño total igual a <b>253.7%</b> del ATQ + <b>13</b> contra cada objetivo y <b>lanza</b> a los objetivos."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, pulsa el botón de ataque normal para ordenar a Chispa que ataque 5 veces seguidas.\nPrimer ataque: Inflige daño total igual a <b>84.6%</b> del ATQ más <b>4</b> contra cada objetivo.\nSegundo ataque: Inflige daño total igual a <b>93%</b> del ATQ más <b>5</b> contra cada objetivo.\nTercer ataque: Inflige daño total igual a <b>101.5%</b> del ATQ más <b>5</b> contra cada objetivo.\nCuarto ataque: Inflige daño total igual a <b>109.9%</b> del ATQ más <b>6</b> contra cada objetivo.\nQuinto ataque: Inflige daño total igual a <b>253.7%</b> del ATQ más <b>13</b> contra cada objetivo y <b>lanza</b> a los objetivos."
     },
     {
       "name": "Descarga Aérea",
-      "type": ["Jump", "Attack"],
-      "description": "En el aire, toca el botón de ataque normal para ordenar a Chispa que ataque 4 veces seguidas.\nPrimer ataque: Inflige daño total igual a <b>97.1%</b> del ATQ + <b>5</b> contra cada objetivo.\nSegundo ataque: Inflige daño total igual a <b>106.8%</b> del ATQ + <b>6</b> contra cada objetivo.\nTercer ataque: Inflige daño total igual a <b>121.3%</b> del ATQ + <b>6</b> contra cada objetivo.\nCuarto ataque: Inflige daño total igual a <b>145.6%</b> del ATQ + <b>8</b> contra cada objetivo."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire, pulsa el botón de ataque normal para ordenar a Chispa que ataque 4 veces seguidas.\nPrimer ataque: Inflige daño total igual a <b>97.1%</b> del ATQ más <b>5</b> contra cada objetivo.\nSegundo ataque: Inflige daño total igual a <b>106.8%</b> del ATQ más <b>6</b> contra cada objetivo.\nTercer ataque: Inflige daño total igual a <b>121.3%</b> del ATQ más <b>6</b> contra cada objetivo.\nCuarto ataque: Inflige daño total igual a <b>145.6%</b> del ATQ más <b>8</b> contra cada objetivo."
     },
     {
       "name": "¡Te tengo!",
-      "type": ["Hold: Attack"],
-      "description": "Pulsa y mantén pulsado el ataque normal o hazlo después de que se active la Zona Bloqueada para disparar continuamente rayos de energía abrasadores a los enemigos en una dirección objetivo, lo que inflige daño igual a un <b>40%</b> del ATQ + <b>2</b>. Consume la resistencia de los nómadas."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal o hazlo después de que se active la Zona Bloqueada para disparar continuamente rayos de energía abrasadores a los enemigos en una dirección objetivo, lo que inflige daño igual a un <b>40%</b> del ATQ más <b>2</b>. Consume la resistencia de los nómadas."
     },
     {
       "name": "Buceo Abrasador",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Mantén pulsado el ataque normal mientras estás en el aire para activar Buceo Abrasador.\nEnvuelve el cuerpo en energía antes de infligir rápidamente una zambullida profunda en el suelo, lo que inflige daño igual a <b>172.1%</b> del ATQ + <b>9</b> a los objetivos cercanos."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mantén pulsado el ataque normal mientras estás en el aire para activar Buceo Abrasador.\nEnvuelve el cuerpo en energía antes de infligir rápidamente una zambullida profunda en el suelo, lo que inflige daño igual a <b>172.1%</b> del ATQ más <b>9</b> a los objetivos cercanos."
     },
     {
       "name": "Zona Bloqueada",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Después del segundo ataque normal, mantén el botón durante cualquier ataque para infligir daño igual a <b>40%</b> del ATQ + <b>2</b> contra el objetivo. El objetivo fijado queda confinado lo quema por <b>3</b> segundos, y le inflige daño igual a <b>26.2%</b> del ATQ + <b>1</b> cada segundo (no funciona con jefes)."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Después del segundo ataque normal, mantén el botón durante cualquier ataque para infligir daño igual a <b>40%</b> del ATQ más <b>2</b> contra el objetivo. El objetivo fijado queda confinado lo quema por <b>3</b> seg, y le inflige daño igual a <b>26.2%</b> del ATQ más <b>1</b> cada segundo (no funciona con jefes)."
     },
     {
       "name": "¡Vamos, Dolly!",
-      "type": ["Dodge", "Attack"],
-      "description": "Lanza a Dolly después de esquivar. Dolly permanece durante <b>10</b> segundos atrayendo a los enemigos cercanos e infligiendo daño igual a <b>84.6%</b> del ATQ + <b>4</b> contra ellos, además de provocarlos por <b>1.5</b> segundos, lo que hace que desvíen sus ataques hacia Dolly (no puede provocar a los enemigos cuando se está en un equipo)."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Lanza a Dolly después de esquivar. Dolly permanece durante <b>10</b> seg atrayendo a los enemigos cercanos e infligiendo daño igual a <b>84.6%</b> del ATQ más <b>4</b> contra ellos, además de provocarlos por <b>1.5</b> seg, lo que hace que desvíen sus ataques hacia Dolly (no puede provocar a los enemigos cuando se está en un equipo)."
     },
     {
       "name": "Colisionador Chispeante",
-      "type": ["Skill"],
-      "description": "Chispa dispara Chispas que duran 15 segundos y rebotan entre el objetivo y el nómada. Al impactar al objetivo, las Chispas lo ralentizan por <b>4</b> segundos con un enfriamiento de <b>15</b> segundos. Las Chispas infligen más daño cuanto más lejos se desplazan. Causan daño al impactar de hasta un <b>350%</b> del ATQ + <b>37</b> e infligen una marca de Arder de <b>25</b> segundos al objetivo. Al mismo tiempo, Chispa dispara 4 balas y cada una inflige daño igual a un <b>50%</b> del ATQ + <b>3</b> contra su objetivo. Los ataques normales de Chispa infligen un <b>110%</b> de daño adicional a los objetivos marcados con Arder. Cuando Chispas impacta en los objetivos quemados por el nómada, quema o enciende al objetivo una vez e inflige daño adicional igual a un <b>100%</b> del daño total restante (los efectos de quemadura o incendiarios múltiples se cuentan juntos). El enfriamiento del cálculo de resultados es de <b>6</b> segundos y el enfriamiento de las habilidades es de <b>30</b> segundos.\n\"<b>Pasiva</b>: Cuando Chispas está activado, cada vez que el ataque de Chispa inflige daño, el nómada obtiene <b>1</b> Punto de Calor con un enfriamiento de <b>0.9</b> segundos, hasta <b>8</b> Puntos de Calor. Cuando el Calor alcanza el máximo, el nómada obtiene el efecto Calor Definitivo, que aumenta el ATQ de Fuego en un <b>25%</b> por <b>25</b> segundos."
+      "type": [
+        "Skill"
+      ],
+      "description": "Chispa dispara Chispas que duran 15 seg y rebotan entre el objetivo y el nómada. Al impactar al objetivo, las Chispas lo ralentizan por <b>4</b> seg con un enfriamiento de <b>15</b> seg. Las Chispas causan más daño cuanto más lejos viajan. Al impacto, infligen daño de hasta <b>350%</b> del ATQ más <b>37</b> e infligen una marca de Arder de <b>25</b> seg al objetivo. Al mismo tiempo, Chispa dispara 4 balas y cada una inflige daño igual a <b>50%</b> del ATQ más <b>3</b> contra su objetivo. Los ataques normales de Chispa infligen <b>110%</b> de daño adicional a los objetivos marcados con Arder. Cuando Chispas impacta en los objetivos quemados por el nómada, quema o enciende al objetivo una vez e inflige daño adicional igual a <b>100%</b> del daño total restante (los efectos de quemadura o incendiarios múltiples se cuentan juntos). El enfriamiento del cálculo de resultados es de <b>6</b> seg y el enfriamiento de las habilidades es de <b>30</b> seg.\n\"<b>Pasiva</b>: Cuando Chispas está activado, cada vez que el ataque de Chispa inflige daño, el nómada obtiene <b>1</b> Punto de Calor con un enfriamiento de <b>0.9</b> seg, hasta <b>8</b> Puntos de Calor. Cuando el Calor alcanza el máximo, el nómada obtiene el efecto Calor Definitivo, que aumenta el ATQ de Fuego en <b>25%</b> por <b>25</b> seg."
     },
     {
       "name": "Supernova",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está llena o se activa <span class=\"text-red\">Phantasia</span>, cambiar a esta arma desde otra arma <b>elimina todas las desventajas del portador</b>. Chispa entra en un estado cargado y emite continuamente rayos de energía abrasadora a la ubicación objetivo antes de explotar. Inflige daño equivalente al <b>750%</b> del ATQ + <b>39</b>. Si el objetivo tiene un efecto de quemadura autoinfligido, lo quema o enciende una vez y causa daño adicional equivalente al <b>100%</b> del daño total restante (los efectos de quemaduras múltiples o ignición se cuentan colectivamente). El enfriamiento de cálculo resultante es de <b>6</b> segundos. La inmunidad al daño dura <b>2.6</b> segundos cuando la habilidad está activa (no disponible en la Liga Ápex)."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b>. Chispa entra en estado cargado y lanza continuamente rayos de energía abrasadores de área amplia sobre la ubicación objetivo antes de explotar. Inflige daño igual a <b>750%</b> del ATQ más <b>39</b>. Si el objetivo tiene un efecto de quemadura autoinfligido, lo quema o enciende una vez e inflige daño adicional igual a <b>100%</b> del daño total restante (los efectos de quemadura o ignición múltiples se cuentan colectivamente). El enfriamiento del cálculo del resultado es de <b>6</b> seg. Cuando la habilidad está activa, obtienes inmunidad al daño durante <b>2.6</b> seg (no disponible en la Liga Ápex)."
     }
   ],
   "weapon_type": {
     "name": "Fuego",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque prenderá fuego al objetivo por <b>8</b> segundos, lo que causa daño igual a <b>58%</b> del ATQ cada segundo. Los objetivos encendidos tienen <b>50%</b> eficacia de curación reducida."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque encenderá al objetivo por <b>8</b> seg, lo que inflige daño igual a <b>58%</b> del ATQ cada segundo. Mientras está encendido, los efectos de curación en el objetivo son <b>50%</b> menos efectivos."
   },
   "weapon_resonance": {
     "name": "Resonancia de Fuego",
     "description": "Aumenta el ATQ de fuego en un <b>20%</b> y la resistencia al fuego en un <b>40%</b>. Se activa al equipar 2 o más armas de fuego. Este efecto de conjunto también funciona con armas en la ranura de mano izquierda."
   },
   "advancement": [
-    "Arder aumenta el daño del Ataque de Chispa a <b>80%</b>. El enfriamiento de habilidad baja a <b>24</b> segundos.",
+    "Arder aumenta el daño de Ataque de Chispa a <b>80%</b>. El enfriamiento de habilidad baja a <b>24</b> seg.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
-    "Arder aumenta el Refuerzo de Fuego en <b>8%</b> y el multiplicador de quemadura a <b>150%</b>.",
+    "Arder aumenta el Refuerzo de Fuego en <b>8%</b> y el multiplicador de recuento de quemadura a <b>150%</b>.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
     "Restablece <b>75</b> puntos adicionales de carga de arma cada vez que el Ataque de Chispa impacte a un enemigo. Enfriamiento: 0.9 segundos. La destrucción aumenta en <b>25%</b> cuando Calor Definitivo está activo.",
     "Arder aumenta el daño del Ataque de Chispa a <b>160%</b> y duplica la eficiencia de adquisición de Calor. El enfriamiento de habilidad baja a <b>16</b> segundos."
@@ -252,7 +272,7 @@
       },
       "mat2": {
         "id": "acidproof_glaze_ii",
-        "name": "Esmaltado Antiácido II",
+        "name": "Esmaltado Antiácido I",
         "rarity": "SR",
         "amount": 5
       },

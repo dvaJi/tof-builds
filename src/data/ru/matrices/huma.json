@@ -1,0 +1,34 @@
+{
+  "_id": 40010,
+  "id": "huma",
+  "name": "Юма",
+  "suitName": "Легкое пробуждение",
+  "hash": "SSR10",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Hitting targets with dodge skills inflicts bleed, dealing damage equal to <b>15%</b>/19%/22.5%/26% of ATK every second for <b>5</b> seconds."
+    },
+    {
+      "count": 4,
+      "value": "Reduce ATK of all targets within <b>8</b> meters that are taking damage over time by <b>10%</b>/12%/13%/15%. Only the highest level's effect is applied when obtained repeatedly."
+    }
+  ],
+  "mind": {
+    "name": "Потеря ориентации",
+    "desc": "Именно стремление увидеть свет помогает птенцу выбраться из скорлупы."
+  },
+  "memory": {
+    "name": "С чистого листа",
+    "desc": "Начните писать программу для совершенно новой личности прямо сейчас."
+  },
+  "belief": {
+    "name": "Без спешки",
+    "desc": "Люди, как вы, потерявшие память, всегда пытаются делать то, что можно сделать в первую очередь."
+  },
+  "emotion": {
+    "name": "Невинность",
+    "desc": "Чопорное выражение лица идет в комплекте."
+  }
+}

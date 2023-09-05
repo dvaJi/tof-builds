@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Si los PS están por debajo del 30% después de recibir un ataque, otorga un escudo equivalente al 20%/26%/32%/40% de los PS Máx. por 10 segundos. Enfriamiento: 90 segundos."
+      "value": "Si los PS están por debajo del 30% después de recibir daño, obtienes un escudo equivalente al 20%/26%/32%/40% de tus PS Máx. por 10 seg. Enfriamiento: 90 seg."
     },
     {
       "count": 4,

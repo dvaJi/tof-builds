@@ -4,7 +4,7 @@
   "name": "Ene",
   "weapon": "Pummeler",
   "weapon_id": "pummeler",
-  "birthday": "17 Agustus (Leo)",
+  "birthday": "17 Agustus",
   "birthplace": "Keamanan Victoria",
   "gender": "Perempuan",
   "info": "Dia terlihat malas dan lesu saat tidak ada pekerjaan, tetapi sangat bersemangat dan kompetitif kalau bertempur.\nDia sangat bangga dengan badan robotnya, yang tangkas, kuat, dan tidak dimakan usia. Dia juga keras kepala dan suka menantang dirinya semaksimal mungkin, tidak mau menyerah kepada manusia biasa.\nSecara mental, dia masih anak kecil dan menunjukkan sisinya yang rapuh saat bersama ayahnya.",
@@ -20,72 +20,94 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": ["Attack"],
-      "description": "Saat di darat, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>76.3%</b> ATK + <b>4</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>62.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>157.4%</b> ATK + <b>8</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>263.8%</b> ATK + <b>14</b> dan melontarkan target.\nSelama Outburst masih aktif, ayunkan Maul untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>{8}%</b> ATK + <b>{9}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>{10}%</b> ATK + <b>{11}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>{12}%</b> ATK + <b>{13}</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>{14}%</b> ATK + <b>{15}</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan palu untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>76.3%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>62.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>157.4%</b> ATK plus <b>8</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>263.8%</b> ATK plus <b>14</b> dan membuat target terpental ke atas.\nSaat Outburst aktif, ayunkan palu untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>{8}%</b> ATK plus <b>{9}</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>{10}%</b> ATK plus <b>{11}</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>{12}%</b> ATK plus <b>{13}</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>{14}%</b> ATK plus <b>{15}</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Pummel",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Jumping Blast. Menimbulkan DMG sebesar <b>121.7%</b> ATK + <b>6</b>dan mengakibatkan Suspend kepada target.\nSaat Outburst masih aktif, menimbulkan DMG sebesar <b>133.9%</b> ATK + <b>7</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula DMG yang ditimbulkan, maks <b>600%</b> DMG."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Jumping Blast. Menimpakan DMG sebesar <b>121.7%</b> ATK plus <b>6</b> dan membuat target terpental ke atas.\nSaat Outburst aktif, menimpakan DMG sebesar <b>133.9%</b> ATK plus <b>7</b> dan membuat target <b>Terpental Ke Atas</b>.\nMakin tinggi posisimu saat melancarkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Shockwave",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Shockwave akan diaktifkan dengan mengetuk dan menahan tombol saat di udara, melompat dua kali, mengetuk sebentar di udara saat ada target di sekitar, memanjat, melompat mundur, atau menyerang sambil menggunakan Jetpack. Mengakibatkan <b>Suspend Keras</b> kepada target <b>4</b> kali, dan menimpakan damage sebesar <b>34.8%</b> ATK + <b>2</b> setiap kalinya. Membutuhkan <b>250</b> Stamina.\nSelama Outburst masih aktif, Shockwave akan mengakibatkan <b>Suspend Keras</b> kepada target <b>5</b> kali, dan menimpakan damage sebesar <b>38.3%</b> *ATK + <b>2</b> setiap kalinya.\nMakin tinggi ketinggian saat mengaktifkan serangan, makin besar pula damage yang ditimbulkan, maks <b>600%</b> damage."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mengetuk dan menahan tombol saat di udara, melompat dua kali, mengetuk sebentar di udara saat ada target di sekitar, memanjat, melompat ke belakang, atau menyerang sambil menggunakan Jetpack akan melancarkan sebuah Shockwave, membuat target <b>Terpental Ke Atas</b> <b>4</b> kali, masing-masing menimpakan DMG sebesar <b>34.8%</b> ATK plus <b>2</b>. Mengonsumsi <b>250</b> Stamina.\nSaat Outburst aktif, Shockwave ini akan membuat target <b>Terpental Ke Atas</b> <b>5</b> kali, masing-masing menimpakan DMG sebesar <b>38.3%</b> ATK plus <b>2</b>.\nMakin tinggi posisi pemain saat melancarkan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>427.5%</b> ATK + <b>23</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>427.5%</b> ATK plus <b>23</b>."
     },
     {
       "name": "Focus Smash",
-      "type": ["Hold: Attack"],
-      "description": "Tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Focus Smash (bisa diisi sampai maks 3 tumpuk). Jadi kebal terhadap efek kontrol dan Hyperbody saat diisi.\nTumpukan Pertama: Timpakan damage sebesar <b>110%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target.\nTumpukan Kedua: Timpakan damage sebesar <b>276%</b> ATK + <b>15</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nTumpukan Ketiga: Timpakan damage sebesar <b>518%</b> ATK + <b>27</b> dan mengakibatkan <b>Suspend Keras</b> kepada target.\nSelama Outburst masih aktif, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Furious Strike, dan menimpakan damage sebesar <b>501.6%</b> ATK + <b>26</b> dan mengakibatkan <b>Suspend Keras</b> kepada target."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Focus Smash (bisa mengumpulkan tenaga sampai 3 tahap). Saat mengumpulkan tenaga, kamu kebal terhadap efek kontrol dan mendapatkan Hyperbody.\nTahap Pertama: Menimpakan DMG sebesar <b>110%</b> ATK plus <b>6</b> dan membuat target terpental ke atas.\nTahap Kedua: Menimpakan DMG sebesar <b>276%</b> ATK plus <b>15</b> dan membuat target <b>Terpental Ke Atas</b>.\nTahap Ketiga: Menimpakan DMG sebesar <b>518%</b> ATK plus <b>27</b> dan membuat target <b>Terpental Ke Atas</b>.\nSaat Outburst aktif, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Furious Strike, menimpakan DMG sebesar <b>501.6%</b> ATK plus <b>26</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Jumping Smash",
-      "type": ["Dodge"],
-      "description": "Gunakan tombol panah dan tombol menghindar untuk mengaktifkan Jumping Smash, melepaskan Shockwave yang mengakibatkan Suspend kepada musuh <b>4</b> kali, menimpakan damage sebesar <b>161.6%</b> dari ATK + <b>9</b>."
+      "type": [
+        "Dodge"
+      ],
+      "description": "Gunakan tombol panah dan tombol menghindar untuk mengaktifkan Jumping Smash, melancarkan gelombang kejut yang membuat target terpental ke atas <b>4</b> kali, menimpakan DMG sebesar <b>161.6%</b> ATK plus <b>9</b>."
     },
     {
       "name": "Worldsplitter",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa dalam waktu sesaat setelah Dodge untuk mengaktifkan Worldsplitter, melepaskan <b>3</b> Shockwave ke depan, masing-masing menimpakan damage sebesar <b>52.4%</b> dari ATK + <b>3</b>, dan mengakibatkan Suspend kepada target.\nSaat di mode Outburst, tembakkan <b>5</b> Shockwave ke depan, masing-masing menimpakan damage sebesar <b>52.4%</b> dari ATK + <b>3</b> dan mengakibatkan Suspend kepada target."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah menghindar untuk mengaktifkan Worldsplitter, melancarkan <b>3</b> gelombang kejut ke depan, masing-masing menimpakan DMG sebesar <b>52.4%</b> ATK plus <b>3</b> membuat target terpental ke atas.\nSaat di mode Outburst, menembakkan <b>5</b> gelombang kejut ke depan, masing-masing menimpakan DMG sebesar <b>52.4%</b> ATK plus <b>3</b> dan membuat target terpental ke atas."
     },
     {
       "name": "Outburst",
-      "type": ["Skill"],
-      "description": "Beralih ke Outburst, meningkatkan damage yang ditimbulkan selama <b>25</b> detik.\nSelama Outburst masih aktif, skill akan mengaktifkan Windfury, yang akan menimpakan damage sebesar <b>219%</b> ATK + <b>12</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan menciptakan aliran udara di tanah. Saat berdiri di tengah aliran itu, tidak butuh biaya apa pun untuk menghindar. CD: <b>45</b> detik (cooldown untuk Windfury: <b>10</b> detik)."
+      "type": [
+        "Skill"
+      ],
+      "description": "Beralih ke Outburst, meningkatkan DMG yang ditimpakan selama <b>25</b> detik.\nSaat Outburst aktif, menggunakan Skill Senjata akan mengaktifkan Windfury, yang akan menimpakan DMG sebesar <b>219%</b> ATK plus <b>12</b>, membuat target <b>Terpental Ke Atas</b>, dan menciptakan arus udara di tanah. Saat berada di arus tersebut, tidak butuh biaya apa pun untuk Menghindar. CD: <b>45</b> detik (CD Windfury: <b>10</b> detik)."
     },
     {
       "name": "Overwhelming Maul",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua Debuff dari penggunanya</b> dan mengakibatkan <b>Suspend Keras</b> kepada target di sekitar saat beralih ke Senjata ini, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>. Juga menciptakan palu yang akan jatuh menimpa target di sekitarnya, menimpakan DMG sebesar <b>153.3%</b> ATK + <b>8</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan membuat target di sekitar <b>Terpental Keras</b>, menimpakan DMG sebesar <b>153.3%</b> ATK plus <b>8</b>. Selain itu, mengeluarkan palu yang akan jatuh menimpa target di sekitar, menimpakan DMG sebesar <b>153.3%</b> ATK plus <b>8</b>."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze Kuat</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika lapisan es ini dipecahkan, target akan menerima DMG sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, kecepatan pengisian Charge Senjata target berkurang <b>50%</b>."
   },
   "advancement": [
-    "Memberikan Taunt kepada target di dekatnya setelah beralih ke senjata ini, mencegah <b>1</b> damage dalam waktu <b>8</b> detik berikutnya, dan memberikan Hyperbody selama <b>8</b> detik berikutnya. Cooldown: <b>15</b> detik.",
+    "Memberikan Taunt kepada target di dekatnya setelah beralih ke senjata ini, mencegah <b>1</b> DMG dalam waktu <b>8</b> detik berikutnya, dan memberikan Hyperbody selama <b>8</b> detik berikutnya. Cooldown: <b>15</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>10%</b>.",
-    "Setelah menerima damage, mengurangi semua damage yang diterima sebesar <b>50%</b> selama <b>6</b> detik berikutnya. Cooldown: <b>20</b> detik.",
+    "Setelah menerima DMG, mengurangi semua DMG yang diterima sebesar <b>50%</b> selama <b>6</b> detik berikutnya. Cooldown: <b>20</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>20%</b>.",
     "Serangan Biasa akan mengakibatkan <b>Stun</b> kepada target selama <b>2,5</b> detik. Cooldown: <b>20</b> detik.",
-    "Skill Discharge menimpakan <b>10%</b> damage tambahan kepada target dan meningkatkan Frost DMG sebesar <b>10%</b> lagi selama <b>25</b> detik."
+    "Skill Discharge menimpakan <b>10%</b> DMG tambahan kepada target dan meningkatkan Frost DMG sebesar <b>10%</b> lagi selama <b>25</b> detik."
   ],
   "traits": [
     {
       "name": "Fast Mode",
       "icon": true,
-      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Stamina sebesar <b>12%</b>."
+      "description": "Saat Ene berenang, memanjat, atau meluncur, konsumsi Stamina berkurang <b>12%</b>."
     },
     {
       "name": "Beyond Limits Mode",
       "icon": true,
-      "description": "Saat Ene berenang, memanjat, atau meluncur, mengurangi penggunaan Stamina sebesar <b>20%</b>."
+      "description": "Saat Ene berenang, memanjat, atau meluncur, konsumsi Stamina berkurang <b>20%</b>."
     }
   ],
   "ascension": [

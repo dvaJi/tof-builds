@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan damage yang ditimbulkan sebesar 12,5%/15%/17,5%/20% saat tidak ada musuh dalam radius 4 meter."
+      "value": "Meningkatkan DMG yang ditimpakan sebesar 12,5%/15%/17,5%/20% saat tidak ada musuh dalam radius 4 meter."
     },
     {
       "count": 4,
@@ -17,7 +17,7 @@
   ],
   "mind": {
     "name": "Weather Vane",
-    "desc": "\"Angin berembus.\" Itu meringkas setiap alasan untuk pergi dan berangkat lagi."
+    "desc": "\"Embusan angin.\" Cukup menjadi alasan untuk pergi dan berangkat lagi."
   },
   "memory": {
     "name": "Gravitator",

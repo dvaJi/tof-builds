@@ -4,7 +4,7 @@
   "name": "Shiro",
   "weapon": "Chakram des mers",
   "weapon_id": "chakram_of_the_seas",
-  "birthday": "22 septembre (vierge)",
+  "birthday": "22 septembre",
   "birthplace": "Inconnu",
   "gender": "Féminin",
   "info": "Elle est antisociale, n'aime pas les étrangers et devient nerveuse lorsqu'elle rencontre quelqu'un pour la première fois.\nElle accorde même peu d'attention à son partenaire et fait uniquement preuve d'enthousiasme lorsqu'il s'agit d'un sujet qui l'intéresse. Alors, elle parle extrêmement vite et s'énerve quand son partenaire n'arrive pas à suivre.\nElle ressemble beaucoup à un chat : froide et distante la plupart du temps, elle s'énerve lorsqu'elle veut attirer l'attention et que personne n'est là.",
@@ -20,48 +20,69 @@
   "skills": [
     {
       "name": "Jet rapide",
-      "type": ["Attack"],
+      "type": [
+        "Attack"
+      ],
       "description": "Lorsque vous êtes au sol, brandissez le chakram pour déclencher 5 attaques tournoyantes.\nPremière attaque : inflige des dégâts équivalant à <b>30.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.8%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>34%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>30.7%</b> de l'ATQ + <b>2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>53.8%</b> de l'ATQ + <b>3</b>, et repousse la cible sur une courte distance."
     },
     {
       "name": "Décharge aérienne",
-      "type": ["Jump", "Attack"],
+      "type": [
+        "Jump",
+        "Attack"
+      ],
       "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour envoyer 3 attaques tournoyantes à la suite.\nPremière attaque : inflige des dégâts équivalant à <b>26.2%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>29.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>37.2%</b> de l'ATQ + <b>2</b>."
     },
     {
       "name": "Dispersion",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Après la deuxième attaque normale, maintenez Attaque pour activer Dispersion.\nLance cinq chakrams perforants vers l'avant ; chaque touche inflige des dégâts équivalant à <b>43.5%</b> de l'ATQ + <b>2</b>, avec un effet de recul mineur."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la deuxième attaque normale, maintenez Attaque pour activer Dispersion.\nLance cinq chakrams perforants vers l'avant ; chaque coup inflige des dégâts équivalant à <b>43.5%</b> de l'ATQ + <b>2</b>, avec un effet de recul mineur."
     },
     {
       "name": "Rotation aérienne",
-      "type": ["Jump", "Hold: Attack"],
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
       "description": "Maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Rotation aérienne.\nEnvoie un coup puissant et inflige des dégâts équivalant à <b>191.5%</b> de l'ATQ + <b>10</b> à la cible et aux ennemis proches, et les suspend."
     },
     {
       "name": "Attaque furtive",
-      "type": ["Croch", "Attack"],
+      "type": [
+        "Croch",
+        "Attack"
+      ],
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>427.5%</b> de l'ATQ + <b>23</b>."
     },
     {
       "name": "Lune décroissante",
-      "type": ["Dodge", "Attack"],
-      "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Lune décroissante.\nVous envoyez un chakram tournoyant vers l'avant et infligez des dégâts correspondant à <b>132.9%</b> de l'ATQ + <b>7</b> à la cible, ainsi qu'un effet <b>Étourdissement</b> pendant <b>0,5</b> seconde. Le chakram se divise alors en <b>3</b> chakrams, qui continuent à avancer et infligent des dégâts correspondant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage. <span class=\"text-red\">Les chakrams séparés rebondissent pendant Éclosion totale.</span>"
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Lune décroissante.\nVous envoyez un chakram tournoyant vers l'avant et infligez à la cible des dégâts équivalant à <b>132.9%</b> de l'ATQ + <b>7</b>, ainsi qu'un effet <b>Étourdissement</b> pendant <b>0,5</b> seconde. Le chakram se divise alors en <b>3</b> chakrams, qui continuent à avancer et infligent des dégâts équivalant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage. <span class=\"text-red\">Les chakrams séparés rebondissent pendant Éclosion totale.</span>."
     },
     {
       "name": "Éclosion totale",
-      "type": ["Skill"],
+      "type": [
+        "Skill"
+      ],
       "description": "Crée un Domaine des chakrams qui dure <b>8</b> secondes avec l'Explorateur en son centre. Au même moment, attire les cibles et réduit leur vitesse de <b>30%</b> pendant <b>8</b> secondes. Lance <b>5</b> chakrams qui infligent des dégâts équivalant à <b>24.2%</b> de l'ATQ + <b>1</b> aux cibles sur leur passage, et rebondissent jusqu'à <b>5</b> fois entre les ennemis. <span class=\"text-red\">Les chakrams séparés déclenchés par Lune décroissante rebondissent aussi jusqu'à 5 fois.</span> Temps de recharge : <b>45</b> secondes."
     },
     {
       "name": "Esprit de l'air",
-      "type": ["Discharge"],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b> et lance Chakram des mers sur une cible. La cible touchée cause un <b>étourdissement</b> avec zone d'effet pendant <b>1</b> seconde, plus <b>1</b> attaque chacune sur jusqu'à <b>3</b> unités chaque seconde (chaque attaque a <b>10%</b> de chance d'<b>étourdir</b> la cible pendant <b>1,5</b> seconde), infligeant des dégâts équivalant à <b>41.4%</b> de l'ATQ + <b>2</b> pendant <b>10</b> secondes."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour passer à celle-ci <b>supprime toutes les altérations sur le porteur</b> et lance Chakram des mers sur une cible. La cible touchée cause un <b>étourdissement</b> avec zone d'effet pendant <b>1</b> seconde, + <b> 1</b> attaque chacune sur jusqu'à <b>3</b> unités chaque seconde (chaque attaque a <b>10%</b> de chance d'<b>étourdir</b> la cible pendant <b>1,5</b> seconde), infligeant des dégâts équivalant à <b>41.4%</b> de l'ATQ + <b>2</b> pendant <b>10</b> secondes."
     }
   ],
   "weapon_type": {
     "name": "Blessure grave",
-    "description": "Les armes entièrement chargées infligent des dégâts équivalant à <b>137%</b> de l'ATQ lors de l'attaque suivante ainsi qu'une blessure grave pendant <b>7</b> secondes, infligeant <b>20%</b> de dégâts supplémentaires."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque inflige blessure grave aux ennemis pendant <b>7</b> secondes, augmentant leurs dégâts subis de <b>20%</b> et infligeant des dégâts équivalant à <b>137%</b> de l'ATQ. En <yellow_lbl_14_1>jeu en équipe</>, les cibles gravement blessées subissent <b>20%</b> de dégâts physiques supplémentaires."
   },
   "advancement": [
     "Accroît de <b>30%</b> les dégâts et tous les effets de fracture élémentaire infligés aux cibles se trouvant dans le rayon d'action d'<span class=\"text-green\">Éclosion totale</span>.",

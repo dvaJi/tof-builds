@@ -1,0 +1,34 @@
+{
+  "_id": 40009,
+  "id": "samir",
+  "name": "Самир",
+  "suitName": "Рациональное освобождение",
+  "hash": "SSR9",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase damage progressively by <b>1%</b> upon hitting a target. Stack up to <b>10</b>/13/16/20 times. Lasts for <b>1.5</b> seconds."
+    },
+    {
+      "count": 4,
+      "value": "Increase Dual EM Stars' electrical explosion damage by <b>16%</b>/22%/30%/40%."
+    }
+  ],
+  "mind": {
+    "name": "Всего лишь шутка",
+    "desc": "Если ей сказать, что у нее избитые шутки, она ответит: «Чего нос повесил?»"
+  },
+  "memory": {
+    "name": "Дорогие усопшие",
+    "desc": "Тот, кто живет прошлым, недосягаем и не может с ним распрощаться."
+  },
+  "belief": {
+    "name": "Серебряная пуля",
+    "desc": "У нее есть серебряная пуля. Она что, охотится на вампиров?"
+  },
+  "emotion": {
+    "name": "Будущее устремление",
+    "desc": "Она всегда уверена в своем предназначении."
+  }
+}

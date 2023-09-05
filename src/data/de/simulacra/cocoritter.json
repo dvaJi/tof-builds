@@ -4,7 +4,7 @@
   "name": "Coco",
   "weapon": "Gefrierpunkt",
   "weapon_id": "absolute_zero",
-  "birthday": "1. Juni (Zwilling)",
+  "birthday": "1. Juni",
   "birthplace": "Unbekannt",
   "gender": "Weiblich",
   "info": "Cocolita ist ein naives Mädchen mit sonnigem Gemüt. Ihre Vertrauensseligkeit anderen gegenüber kann manchmal den Eindruck erwecken, dass sie allzu arglos und gutgläubig ist.\nObwohl sie eine Naschkatze ist, schafft sie es, eine ausgewogene Ernährung einzuhalten. Ihr Orientierungssinn ist wirklich schlecht, aber wenn sie einmal den richtigen Weg eingeschlagen hat, kommt sie nie wieder davon ab. Es fällt einem schwer, sich nicht um sie zu sorgen, aber sie kann sich sehr wohl um sich selbst kümmern.",
@@ -20,48 +20,69 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": ["Attack"],
-      "description": "Schwinge den Stab während du auf dem Boden stehst, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>54.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>40.8%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG + <b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>89.7%</b> des ANG + <b>5</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>158.4%</b> des ANG + <b>8</b>."
+      "type": [
+        "Attack"
+      ],
+      "description": "Der Anwender schwingt den Stab am Boden, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>54.4%</b> des ANG +<b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>40.8%</b> des ANG +<b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG +<b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>89.7%</b> des ANG +<b>5</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>158.4%</b> des ANG +<b>8</b>."
     },
     {
       "name": "Steigendes Sperrfeuer",
-      "type": ["Jump", "Attack"],
-      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>70.5%</b> des ANG + <b>4</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>50.8%</b> des ANG + <b>3</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>55.1%</b> des ANG + <b>3</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>99.1%</b> des ANG + <b>5</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>103.2%</b> des ANG + <b>5</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>70.5%</b> des ANG +<b>4</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>50.8%</b> des ANG +<b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>55.1%</b> des ANG +<b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>99.1%</b> des ANG +<b>5</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>103.2%</b> des ANG +<b>5</b>."
     },
     {
       "name": "Mondfall",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um Mondfall auszulösen.\nVerursacht bei der Landung einmal alle <b>0,2</b> Sekunden Schaden, der insgesamt <b>123.8%</b> des ANG + <b>7</b> Schaden verursacht."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um „Mondfall“ auszulösen.\nVerursacht bei der Landung alle <b>0,2</b> Sek. Schaden bis zu einem Gesamtschaden von <b>123.8%</b> des ANG +<b>7</b>."
     },
     {
-      "name": "Eisschlitz",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, <b>lässt sie länger schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>34.9%</b> des ANG + <b>2</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>40.4%</b> des ANG + <b>2</b> am Zielort und an Gegnern in der Nähe."
+      "name": "Fokussierter Angriff",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, <b>lässt sie länger schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>34.9%</b> des ANG +<b>2</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Fügt am Zielort und Gegnern in der Nähe alle <b>0,3</b> Sek. Schaden in Höhe von <b>40.4%</b> des ANG +<b>2</b> zu."
     },
     {
       "name": "Volt-Welle",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Volt-Welle“ auszulösen.\nJeder Energieimpuls verursacht Schaden in Höhe von <b>45.9%</b> des ANG + <b>2</b> an Zielen.\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Volt-Welle“ auszulösen.\nJeder Energieimpuls fügt Zielen Schaden in Höhe von <b>45.9%</b> des ANG + <b>2</b> zu.\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
     },
     {
       "name": "Tesserakt",
-      "type": ["Dodge", "Attack"],
-      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Ausweichende Explosion“ auszulösen.\nDies schießt eine Energiekugel nach vorne und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>66.4%</b> des ANG + <b>3</b> an Zielen im Weg (bis zu 5-mal).\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Ausweichende Explosion“ auszulösen.\nDies schießt eine Energiekugel nach vorne und fügt allen Zielen im Weg alle <b>0,3</b> Sek. Schaden in Höhe von <b>66.4%</b> des ANG +<b>3</b> zu (bis zu 5-mal).\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
     },
     {
       "name": "Heiligtum",
-      "type": ["Skill"],
-      "description": "Erzeugt eine Heilzone, die sich mit dem Wanderer bewegt und Verbündete in der Nähe für <b>95%</b> des ANG + <b>5</b> für <b>6</b> Sekunden einmal alle <b>0,5</b> Sekunden heilt. <b>60</b> Sekunden Abklingzeit."
+      "type": [
+        "Skill"
+      ],
+      "description": "Erzeugt eine Heilungszone, die sich mit dem Wanderer bewegt und Verbündete in der Nähe für <b>6</b> Sek. alle <b>0,5</b> Sek. um <b>95%</b> des ANG +<b>5</b> heilt. Abklingzeit: <b>60</b> Sek."
     },
     {
       "name": "Hauch von Ruhe",
-      "type": ["Discharge"],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>118.8%</b> des ANG + <b>6</b> LP."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>118.8%</b> des ANG + <b>6</b> LP."
     }
   ],
   "weapon_type": {
     "name": "Eispanzer",
-    "description": "Wenn die Waffe voll geladen ist, <b>friert</b> sie Ziele beim nächsten Angriff für <b>2</b> Sekunden ein und verursacht <b>6</b> Sekunden lang Frostschaden. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während des „Erfrieren“-Effekts ist die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, bewirkt der nächste Angriff für <b>2</b> Sek. einen <b>starken Einfrieren-Effekt</b> und verursacht bei Zielen <b>6</b> Sek. lang Erfrierungen. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>151%</b> des ANG. Während der Erfrierungen wird die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
   },
   "advancement": [
     "Beschwört nach dem Ausweichen eine heilende Biene, die dem Anwender folgt und den Verbündeten mit den prozentual niedrigsten LP innerhalb von <b>15</b> Metern heilt. Heilt jedes Mal um <b>25%</b> des ANG und stellt <b>50</b> Waffenladungspunkte wieder her. Hält <b>25</b> Sek. an. Abklingzeit: <b>25</b> Sek.",

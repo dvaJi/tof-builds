@@ -1,0 +1,34 @@
+{
+  "_id": 40024,
+  "id": "fenrir",
+  "name": "Фенрир",
+  "suitName": "",
+  "hash": "SSR24",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase crit damage by <b>14%</b>/15%/16%/18%. This effect does not stack. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing volt damage, increase final damage by <b>2.75%</b> for <b>10</b> seconds, stacking up to <b>5</b>/6/7/8 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Сон",
+    "desc": "Мне снится шоколад. Можно ли считать, что я ем его на самом деле?"
+  },
+  "memory": {
+    "name": "Брошенная собака",
+    "desc": "Скованное прошлое, блуждающее настоящее."
+  },
+  "belief": {
+    "name": "Дом",
+    "desc": "Будет ли у меня когда-нибудь дом?"
+  },
+  "emotion": {
+    "name": "Зависимость",
+    "desc": "Если прощаний больше не будет, я не против, чтобы меня использовали."
+  }
+}

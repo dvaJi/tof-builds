@@ -1,0 +1,34 @@
+{
+  "_id": 40024,
+  "id": "fenrir",
+  "name": "Fenrir",
+  "suitName": "",
+  "hash": "SSR24",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase crit damage by <b>14%</b>/15%/16%/18%. This effect does not stack. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing volt damage, increase final damage by <b>2.75%</b> for <b>10</b> seconds, stacking up to <b>5</b>/6/7/8 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Dream",
+    "desc": "I dream of chocolate. Can I believe that this is real?"
+  },
+  "memory": {
+    "name": "Abandoned Dog",
+    "desc": "A shackled past, a wandering present."
+  },
+  "belief": {
+    "name": "Home",
+    "desc": "Will I ever have a home?"
+  },
+  "emotion": {
+    "name": "Dependence",
+    "desc": "If there are no more goodbyes, I am alright with being used."
+  }
+}

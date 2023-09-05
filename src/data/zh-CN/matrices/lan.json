@@ -1,0 +1,34 @@
+{
+  "_id": 40027,
+  "id": "lan",
+  "name": "岚",
+  "suitName": "",
+  "hash": "SSR27",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When equipped with at least 1 flame weapon, increase flame ATK by <b>6%</b>/7%/8%/9% and flame damage by <b>3.2%</b>/3.8%/4.4%/5%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Gain different effects based on the number of different elemental weapons equipped: Increase flame/frost/physical/volt damage by <b>4%</b>/5%/6%/7% for every flame/frost/physical/volt weapon equipped. Increase final damage by <b>5%</b>/6%/7%/8% for every altered weapon equipped. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "孤身",
+    "desc": "很多时候都是只身一人进入险地。"
+  },
+  "memory": {
+    "name": "百相",
+    "desc": "有很多名字，代表着很多过去。"
+  },
+  "belief": {
+    "name": "轸恤",
+    "desc": "对弱者怀柔，是不失本心的一道保证。"
+  },
+  "emotion": {
+    "name": "晦迹",
+    "desc": "藏锋于市，伺机而动。"
+  }
+}

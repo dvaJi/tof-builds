@@ -4,7 +4,7 @@
   "name": "KING",
   "weapon": "Scythe of the Crow",
   "weapon_id": "scythe_of_the_crow",
-  "birthday": "3 November (Scorpio)",
+  "birthday": "3 November",
   "birthplace": "Ravager",
   "gender": "Laki-Laki",
   "info": "Liar dan suka pamer, KING adalah orang yang selalu meninggalkan kesan karena dia lebih banyak bertempur daripada bicara, dan dia selalu memancarkan aura ganas. Dia mungkin mudah marah, tapi dia mau berkomunikasi... kadang-kadang.\nKING selalu mencari tantangan dan senang memamerkan semua kekayaannya. Dia tidak banyak bicara dan tidak suka orang yang terlalu cerewet, serta orang yang berusaha terlalu keras untuk terlihat lebih bermoral.\nDia lebih suka memecahkan masalah dan mendapatkan keinginannya dengan kekerasan daripada dengan pertimbangan yang rumit dan strategi yang tajam.\nDengan KING, sebaiknya jangan pernah menanyakan apa pun tentang kepribadiannya.",
@@ -20,61 +20,85 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": ["Attack"],
-      "description": "Saat di darat, ayunkan Scythe untuk melancarkan serangan 5 kali berturut-turut.\nSerangan Pertama: Timpakan damage sebesar <b>57.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>49.1%</b> ATK + <b>3</b> dan memukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>106.8%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>109.5%</b> ATK + <b>6</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kelima: Timpakan damage sebesar <b>104.2%</b> ATK + <b>5</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan membuat Wanderer kena Airborne."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan Scythe untuk melancarkan serangan 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>57.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>49.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>106.8%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>109.5%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>104.2%</b> ATK plus <b>5</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan membuat Wanderer mengudara."
     },
     {
       "name": "Rising Scythe",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>63.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>68.8%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>190.5%</b> ATK + <b>10</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>213.6%</b> ATK + <b>11</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>173.9%</b> ATK + <b>9</b> dan menjatuhkan target. Makin tinggi posisi saat mengaktifkannya, makin besar DMG yang ditimpakan, hingga <b>600%</b> ATK."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>63.4%</b> ATK plus <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>68.8%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>190.5%</b> ATK plus <b>10</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>213.6%</b> ATK plus <b>11</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>173.9%</b> ATK plus <b>9</b> dan menjatuhkan target. Makin tinggi posisi pemain saat melakukan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Asunder",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target dipilih), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Asunder.\nSaat terjun, menimbulkan DMG sebesar <b>12.5%</b> ATK + <b>1</b> tiap mengenai target. Saat mendarat, menimbulkan DMG sebesar <b>71.9%</b> ATK + <b>4</b> dan <b>Knockdown</b>.\nMakin tinggi Altitude saat mengaktifkan serangan, makin besar pula DMG yang ditimbulkan, maks <b>600%</b> DMG."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tahan Serangan Biasa saat di udara (tekan saat ada target yang tersedia), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Asunder.\nSaat terjun, menimpakan DMG sebesar <b>12.5%</b> ATK plus <b>1</b> tiap menghantam target. Saat mendarat, menimpakan DMG sebesar <b>71.9%</b> ATK plus <b>4</b> dan <b>Knockdown</b>.\nMakin tinggi posisimu saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Returning Chainblade",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Tekan Serangan Biasa selama durasi singkat Perfect Dodge (tekan tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>137.4%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\nMenimpakan DMG dengan nominal maksimal sebesar <b>137.4%</b> ATK plus <b>7</b> dan menarik musuh di sekitar."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
       "name": "Returning Chainblade",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa selama durasi singkat Perfect Dodge (tekan tombol panah sebelum Dodge) untuk mengaktifkan Rapid Lunge.\nTimpakan damage hingga <b>126.9%</b> ATK + <b>7</b> dan tarik musuh di sekitar."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\nMenimpakan DMG dengan nominal maksimal sebesar <b>126.9%</b> ATK plus <b>7</b> dan menarik musuh di sekitar."
     },
     {
       "name": "Domain of the Bat",
-      "type": ["Dodge", "Attack"],
-      "description": "Saat menghindar, memanggil Domain of the Bat yang menarik target ke tengah. Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk mengayunkan Scythe, menimpakan hingga <b>114.3%</b> ATK + <b>6</b> damage kepada target."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Saat Menghindar, menciptakan zona Domain Of The Bat yang akan menarik target ke tengah. Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk mengayunkan sabit, menimpakan DMG dengan nominal maksimal sebesar <b>114.3%</b> ATK plus <b>6</b> kepada target."
     },
     {
       "name": "Mortal Coil",
-      "type": ["Skill"],
-      "description": "Ayunkan Scythe untuk menimpakan damage sebesar <b>499.9%</b> ATK + <b>26</b>. CD: <b>45</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Ayunkan Scythe untuk menimpakan DMG sebesar <b>499.9%</b> ATK plus <b>26</b>. CD: <b>45</b> detik."
     },
     {
       "name": "Flaming Scythe",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menciptakan Flaming Scythe saat beralih ke senjata ini, menimpakan damage sebesar <b>398.3%</b> ATK + <b>21</b> dan bertahan selama <b>10</b> detik. Selain itu, memunculkan Flaming Scythe Domain setiap <b>2</b> detik. Scythe akan memanggil letusan gunung berapi dari tanah, yang menimpakan damage sebesar <b>66%</b> ATK + <b>3</b> kepada target dan mengakibatkan Suspend kepada mereka."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan menciptakan Flaming Scythe, menimpakan DMG sebesar <b>398.3%</b> ATK plus <b>21</b> dan berlangsung selama <b>10</b> detik. Selain itu, menciptakan Flaming Scythe Domain setiap <b>2</b> detik. Sabit-sabit tersebut akan menghasilkan ledakan api dari tanah, menimpakan DMG sebesar <b>66%</b> ATK plus <b>3</b> kepada target dan membuat mereka terpental ke atas."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik, menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efek penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "advancement": [
     "Meningkatkan Shatter sebesar <b>15%</b>. Setelah menghancurkan perisai musuh, menimbulkan Burn DMG sebesar <b>120%</b> ATK kepada target setiap detik selama <b>15</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
-    "Meningkatkan damage yang ditimpakan sebesar <b>10%</b> untuk setiap musuh dalam radius <b>6</b> meter, maks <b>30%</b>.",
+    "Meningkatkan DMG yang ditimpakan sebesar <b>10%</b> untuk setiap musuh dalam radius <b>6</b> meter, maks <b>30%</b>.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
-    "Meningkatkan damage yang ditimpakan terhadap Perisai HP atau musuh dengan Shield sebesar <b>100%</b>.",
-    "Meningkatkan damage yang ditimbulkan sebesar <b>10%</b> selama <b>30</b> detik untuk setiap musuh yang dibantai (bisa ditumpuk maks <b>3</b> kali)."
+    "Meningkatkan DMG yang ditimpakan terhadap Perisai HP atau musuh dengan Shield sebesar <b>100%</b>.",
+    "Meningkatkan DMG yang ditimbulkan sebesar <b>10%</b> selama <b>30</b> detik untuk setiap musuh yang dibantai (bisa ditumpuk maks <b>3</b> kali)."
   ],
   "traits": [
     {

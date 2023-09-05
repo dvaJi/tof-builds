@@ -1,0 +1,305 @@
+{
+  "_id": 1029,
+  "_locid": "CH29_TianLang",
+  "name": "Tian Lang",
+  "weapon": "Thunderbreaker",
+  "element": "Volt",
+  "rarity": "SSR",
+  "id": "tian_lang",
+  "global": true,
+  "tier": 1,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "DPS",
+  "soon": false,
+  "new": true,
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 8.0,
+  "skills": [
+    {
+      "name": "GA_PlayerTianLangMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_PlayerTianLangMelee_Melee_des",
+      "values": [90.5, 5, 67.9, 4, 123, 6, 217.9, 11, 222, 12, 291.8, 15]
+    },
+    {
+      "name": "GA_PlayerTianLangMelee_AirAttack_name",
+      "type": ["Jump", "Attack"],
+      "description": "GA_PlayerTianLangMelee_AirAttack_des",
+      "values": [87.4, 5, 83, 4, 126.7, 7, 229.4, 12, 256.5, 14]
+    },
+    {
+      "name": "GA_PlayerTianLangMelee_Branch_name",
+      "type": ["Attack"],
+      "description": "GA_PlayerTianLangMelee_Branch_des",
+      "values": [342, 18]
+    },
+    {
+      "name": "GA_PlayerTianLangMelee_JumpAttack_name",
+      "type": ["Attack"],
+      "description": "GA_PlayerTianLangMelee_JumpAttack_des",
+      "values": [38, 2, 285, 15]
+    },
+    {
+      "name": "GA_FPlayerTianLangEvade_Evade_name",
+      "icon": true,
+      "type": ["Dodge"],
+      "description": "GA_FPlayerTianLangEvade_Evade_des",
+      "values": [0.5]
+    },
+    {
+      "name": "GA_FPlayerTianLangEvade_ForwardAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerTianLangEvade_ForwardAttack_des",
+      "values": [172.6, 9]
+    },
+    {
+      "name": "GA_FPlayerTianLangSkill_Skill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerTianLangSkill_Skill_des",
+      "values": [936.9, 49]
+    },
+    {
+      "name": "GA_FPlayerTianLangChangeSkill_Success_name",
+      "icon": true,
+      "type": ["Dodge"],
+      "description": "GA_FPlayerTianLangChangeSkill_Success_des",
+      "values": [844.6, 44]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_4_0",
+    "type": "ui_elemental_type_3",
+    "description": "ui_weapon_charge_4_desc_0",
+    "values": [0, 144.0]
+  },
+  "weapon_resonance": {
+    "name": "Buff_Tianlang_Thunder_Resonance_name",
+    "type": "ui_elemental_type_3",
+    "description": "Buff_Tianlang_Thunder_Resonance_des",
+    "values": []
+  },
+  "advancement": [
+    ["Buff_Tianlang_SSR_Level1_des", [7.5, 2, 8, 6]],
+    "Weapon_level2_atkup_ssr",
+    ["Buff_Tianlang_SSR_Level3_des", []],
+    "Weapon_level4_hpup_ssr",
+    ["Buff_Tianlang_SSR_Level5_des", [1]],
+    ["Buff_Tianlang_SSR_Level6_des", [10,25]]
+  ],
+  "traits": [
+    {
+      "name": "Buff_Tianlang_Level1_name",
+      "description": "Buff_Tianlang_Level1_des",
+      "values": [12]
+    },
+    {
+      "name": "Buff_Tianlang_Level2_name",
+      "description": "Buff_Tianlang_Level2_des",
+      "values": [18]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "700",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "1100",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "booster_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat2": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat3": {
+        "name": "nano_coating_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat4": {
+        "name": "acidproof_glaze_ii",
+        "rarity": "R",
+        "amount": "9"
+      }
+    }
+  ]
+}

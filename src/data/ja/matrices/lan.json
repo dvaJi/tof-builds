@@ -1,0 +1,34 @@
+{
+  "_id": 40027,
+  "id": "lan",
+  "name": "嵐",
+  "suitName": "",
+  "hash": "SSR27",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When equipped with at least 1 flame weapon, increase flame ATK by <b>6%</b>/7%/8%/9% and flame damage by <b>3.2%</b>/3.8%/4.4%/5%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Gain different effects based on the number of different elemental weapons equipped: Increase flame/frost/physical/volt damage by <b>4%</b>/5%/6%/7% for every flame/frost/physical/volt weapon equipped. Increase final damage by <b>5%</b>/6%/7%/8% for every altered weapon equipped. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "単身",
+    "desc": "多くの場合、単身で危地に赴く"
+  },
+  "memory": {
+    "name": "百様",
+    "desc": "たくさんの名前にはその数だけの過去があるの"
+  },
+  "belief": {
+    "name": "哀憫",
+    "desc": "弱者に優しくするのは、正しい心を失わないため"
+  },
+  "emotion": {
+    "name": "隠伏",
+    "desc": "能ある鷹は、爪を隠して機会を伺う"
+  }
+}

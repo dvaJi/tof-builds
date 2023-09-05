@@ -4,7 +4,7 @@
   "name": "KING",
   "weapon": "Sense der Krähe",
   "weapon_id": "scythe_of_the_crow",
-  "birthday": "3. November (Skorpion)",
+  "birthday": "3. November",
   "birthplace": "Ravager",
   "gender": "Männlich",
   "info": "Der zügellose und angeberische King lässt lieber die Fäuste als die Worte sprechen und hinterlässt so einen bleibenden Eindruck. Er wirkt stets bedrohlich und kann sehr aufbrausend sein, aber man kann auch mit ihm reden … zumindest manchmal.\nKing lebt für den Nervenkitzel und stellt seinen Materialismus und seine Werte, die er in Geld misst, offen zur Schau. Er ist ein Mann weniger Worte und verabscheut Menschen, die zu viel reden oder moralische Überlegenheit vorgeben.\nRohe Gewalt ist ihm lieber als komplexe Überlegungen und ausgeklügelte Strategien, um seine Probleme zu lösen und seine Ziele zu erreichen.\nEs ist wohl besser, King keine zu persönlichen Fragen zu stellen.",
@@ -20,53 +20,77 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": ["Attack"],
-      "description": "Wenn der Anwender auf dem Boden steht und die Sense schwingt, kann er 5-mal hintereinander angreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>57.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>49.1%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>106.8%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>109.5%</b> des ANG + <b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>104.2%</b> des ANG + <b>5</b>, lässt das Ziel <b>länger schweben</b> und den Wanderer in die Luft steigen."
+      "type": [
+        "Attack"
+      ],
+      "description": "Wenn der Anwender am Boden die Sense schwingt, kann er 5-mal hintereinander angreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>57.1%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>49.1%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>106.8%</b> des ANG +<b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>109.5%</b> des ANG +<b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>104.2%</b> des ANG +<b>5</b>, lässt das Ziel <b>länger schweben</b> und den Wanderer in die Luft steigen."
     },
     {
       "name": "Sensen-Aufschwung",
-      "type": ["Jump", "Attack"],
-      "description": "Während du in der Luft bist oder nachdem du einmal gesprungen bist, greifst du 5-mal hintereinander an.\nErster Angriff: verursacht Schaden in Höhe von <b>63.4%</b> des ANG + <b>3</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>68.8%</b> des ANG + <b>4</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>190.5%</b> des ANG + <b>10</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>213.6%</b> des ANG + <b>11</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>173.9%</b> des ANG + <b>9</b> und bringt das Ziel zu Fall. Je höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Greift in der Luft oder nach einmaligem Springen 5-mal hintereinander an.\nErster Angriff: Verursacht Schaden in Höhe von <b>63.4%</b> des ANG +<b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>68.8%</b> des ANG +<b>4</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>190.5%</b> des ANG +<b>10</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>213.6%</b> des ANG +<b>11</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>173.9%</b> des ANG +<b>9</b> und bringt das Ziel zu Fall. Je höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Zerschlagen",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Zerschlagen“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>12.5%</b> des ANG + <b>1</b> pro Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>71.9%</b> des ANG + <b>4</b> und löst einen <b>Knockdown</b> aus.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Zerschlagen“ auszulösen.\nVerursacht beim Fallen pro Treffer Schaden in Höhe von <b>12.5%</b> des ANG +<b>1</b>. Verursacht bei der Landung Schaden in Höhe von <b>71.9%</b> des ANG +<b>4</b> und einen <b>Knockdown</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Bumerang-Kettenklinge",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>137.4%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Schneller Stoß“ auszulösen.\nVerursacht Schaden in Höhe von bis zu <b>137.4%</b> des ANG +<b>7</b> und zieht Gegner in der Nähe an."
     },
     {
       "name": "Schleichattacke",
-      "type": ["Croch", "Attack"],
-      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG +<b>30</b> verursacht."
     },
     {
       "name": "Bumerang-Kettenklinge",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um Schneller Stoß auszulösen.\nVerursache bis zu <b>126.9%</b> des ANG + <b>7</b> Schaden und ziehe Gegner in der Nähe an."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Schneller Stoß“ auszulösen.\nVerursacht Schaden in Höhe von bis zu <b>126.9%</b> des ANG +<b>7</b> und zieht Gegner in der Nähe an."
     },
     {
       "name": "Domäne der Fledermaus",
-      "type": ["Dodge", "Attack"],
-      "description": "Beschwöre beim Ausweichen einen „Fledermaus-Sturm“, der das Ziel in die Mitte zieht. Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um die Sense zu schwingen und dem Ziel bis zu <b>114.3%</b> des ANG + <b>6</b> Schaden zuzufügen."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Beschwöre beim Ausweichen eine Domäne der Fledermaus, die das Ziel in die Mitte zieht. Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um die Sense zu schwingen und dem Ziel bis zu <b>114.3%</b> des ANG +<b>6</b> Schaden zuzufügen."
     },
     {
       "name": "Todesspirale",
-      "type": ["Skill"],
-      "description": "Schwinge die Sense, um Schaden in Höhe von <b>499.9%</b> des ANG + <b>26</b> zu verursachen. Abklingzeit: <b>45</b> Sek."
+      "type": [
+        "Skill"
+      ],
+      "description": "Schwinge die Sense, um Schaden in Höhe von <b>499.9%</b> des ANG +<b>26</b> zu verursachen. Abklingzeit: <b>45</b> Sek."
     },
     {
       "name": "Flammensense",
-      "type": ["Discharge"],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und eine Flammensense erzeugt. Dies verursacht Schaden in Höhe von <b>398.3%</b> des ANG + <b>21</b> und hält <b>10</b> Sek. an. Außerdem werden alle <b>2</b> Sek. Flammensensen-Gebiet erzeugt. Die Sensen erzeugen Vulkanausbrüche am Boden, die Zielen Schaden in Höhe von <b>66%</b> des ANG + <b>3</b> zufügen und sie schweben lassen."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und eine Flammensense erzeugt. Dies verursacht Schaden in Höhe von <b>398.3%</b> des ANG +<b>21</b>. Hält <b>10</b> Sek. an. Außerdem wird alle <b>2</b> Sek. ein Flammensensen-Gebiet erzeugt. Die Sensen erzeugen Vulkanausbrüche am Boden, die Zielen Schaden in Höhe von <b>66%</b> des ANG +<b>3</b> zufügen und sie schweben lassen."
     }
   ],
   "weapon_type": {
     "name": "Flamme",
-    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde anhaltenden Schaden in Höhe von <b>58%</b> des ANG. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde Schaden in Höhe von <b>58%</b> des ANG. Während Ziele entzündet sind, werden ihre Heileffekte um <b>50%</b> verringert."
   },
   "advancement": [
     "Erhöht Zertrümmern um <b>15%</b>. Wenn der Schild des Ziels zertrümmert wurde, erleidet das Ziel <b>15</b> Sek. lang pro Sek. Flammenschaden in Höhe von <b>120%</b> des ANG.",
@@ -83,7 +107,7 @@
       "description": "Für jede <b>7</b> Gegner, die King besiegt, werden LP in Höhe von <b>8%</b> der max. LP wiederhergestellt."
     },
     {
-      "name": "KING – Angstschnitter",
+      "name": "Angstschnitter",
       "icon": true,
       "description": "Für jede <b>5</b> Gegner, die King besiegt, werden LP in Höhe von <b>10%</b> der max. LP wiederhergestellt."
     }

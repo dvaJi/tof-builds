@@ -4,8 +4,8 @@
   "name": "Crow",
   "weapon": "Thunderblades",
   "weapon_id": "thunderblades",
-  "birthday": "17 Desember (Sagittarius)",
-  "birthplace": "Unknown",
+  "birthday": "17 Desember",
+  "birthplace": "Tak Diketahui",
   "gender": "Laki-Laki",
   "info": "Periang yang juga berusaha membuat orang lain ceria. Ekstrover, jujur, optimistis, dan sesekali terlalu gembira.\nDia selalu melatih trik pisau yang memukau, dan mengumpulkan lelucon garing yang sering dia lemparkan.\nPenampilannya cuek, tapi kemauannya kuat. Begitu berkomitmen untuk melakukan sesuatu, dia tidak akan berhenti sampai hal itu selesai. Itulah kenapa dia terkadang terlalu keras terhadap diri sendiri.",
   "description": "Sebagai mantan Eksekutor, Crow menjaga hubungan baiknya dengan Hykros. Dia tidak pernah membuat kesalahan fatal, atau didepak karena kinerja buruk. Setelah bekerja bersama tim di sana selama sementara waktu, dia menyadari bahwa yang diinginkannya adalah kehidupan tanpa banyak aturan. Dia lantas membuat keputusan yang tepat bagi dirinya.\nKini, dia bertualang bebas dalam waktu yang lama. Kepribadiannya yang ceria meninggalkan kesan pertama yang dalam bagi siapa pun yang ditemuinya. Dia juga suka mempertontonkan trik atau melontarkan lelucon saat tiba di tempat baru. Nama panggilannya Crowy, dan dia tak keberatan dipanggil demikian.",
@@ -20,51 +20,72 @@
   "skills": [
     {
       "name": "Twin Blades",
-      "type": ["Attack"],
-      "description": "Saat di darat, ayunkan sepasang Dual Blade untuk menyerang hingga 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>60.1%</b> ATK + <b>3</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Kedua: Menimpakan DMG sebesar <b>73%</b> ATK + <b>4</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Ketiga: Menimpakan DMG sebesar <b>90.9%</b> ATK + <b>5</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Keempat: Menimpakan DMG sebesar <b>96.8%</b> ATK + <b>5</b> dan membuat target terpukul mundur dalam jarak dekat.\nSerangan Kelima: Menimpakan DMG sebesar <b>202.2%</b> ATK + <b>11</b> dan membuat target terpukul mundur dalam jarak dekat."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan kedua pisau untuk melakukan hingga 5 serangan beruntun.\nSerangan Pertama: Menimpakan DMG sebesar <b>60.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>73%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>90.9%</b> ATK plus <b>5</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>96.8%</b> ATK plus <b>5</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>202.2%</b> ATK plus <b>11</b> dan membuat target terpental sedikit ke belakang."
     },
     {
       "name": "Sky Flurry",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>65.6%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>38.4%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>92%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>138%</b> ATK + <b>7</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>65.6%</b> ATK plus <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>38.4%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>92%</b> ATK plus <b>5</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>138%</b> ATK plus <b>7</b>."
     },
     {
       "name": "Rapid Lunge",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Rapid Lunge.\nSetelah kena, akan mengakibatkan <b>Suspend Keras</b> kepada target dan menimpakan damage sebesar <b>116.8%</b> ATK + <b>6</b>."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Rapid Lunge.\nSaat serangan kena, membuat target <b>Terpental Ke Atas</b> dan menimpakan DMG sebesar <b>116.8%</b> ATK plus <b>6</b>."
     },
     {
       "name": "Spiral Drive",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tahan Serangan Biasa saat di udara (atau tekan saat target terkunci), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nSaat terjun, menimbulkan DMG sebesar <b>42%</b> ATK + <b>2</b> setiap kali berhasil mengenai target."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tahan dan tahan Serangan Biasa saat di udara (atau tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nMelakukan serangan ke bawah, menimpakan DMG sebesar <b>42%</b> ATK plus <b>2</b> setiap kali menghantam target."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk melakukan Sneak Attack yang menimpakan DMG sebesar <b>570%</b> ATK + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk melakukan Sneak Attack yang menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
       "name": "Flying Blades",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa selama Waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nTebas target <b>5</b> kali, masing-masing menimpakan damage sebesar <b>26.4%</b> ATK + <b>1</b>. Memberikan kekebalan terhadap efek kontrol saat proses phasing."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nMenebas target <b>5</b> kali, masing-masing menimpakan DMG sebesar <b>26.4%</b> ATK plus <b>1</b>. Selama durasi Phase, menjadi kebal terhadap efek kontrol."
     },
     {
       "name": "Returning Blades",
-      "type": ["Skill"],
-      "description": "Melontarkan <b>6</b> Returning Blades, yang masing-masing akan menimpakan damage sebesar <b>52.8%</b> ATK + <b>3</b>. Mendapatkan <b>Hyperbody</b> selama maks. <b>8</b> detik, dan efek ini akan hilang saat bilah kembali. CD <b>45</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Mengeluarkan <b>6</b> pisau ke segala arah yang akan berputar dan kembali kepadamu, masing-masing menimpakan DMG sebesar <b>52.8%</b> ATK plus <b>3</b> dan mendapatkan <b>Hyperbody</b> selama maks <b>8</b> detik. Efek ini akan lenyap saat pisau-pisau itu kembali kepadamu. CD: <b>45</b> detik."
     },
     {
       "name": "Orbiting Blades",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke lokasi target dan menyerang, menimbulkan DMG sebesar <b>86.9%</b> ATK + <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimbulkan Volt DMG sebesar <b>15%</b> dari DMG yang ditimbulkan, maks <b>350%</b> dari ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 mata pisau akan muncul dan mengitari Wanderer serta menimbulkan DMG sebesar <b>65.2%</b> ATK + <b>3</b> kepada target yang menyentuhnya."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>, lalu menerjang ke lokasi target dan menyerang musuh, menimpakan DMG sebesar <b>86.9%</b> ATK plus <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimpakan Volt DMG sebesar <b>15%</b> dari DMG yang ditimpakan, maks <b>350%</b> ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 pisau akan muncul dan mengitari Wanderer, menimpakan DMG sebesar <b>65.2%</b> ATK plus <b>3</b> kepada musuh yang menyentuhnya."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan Electrify selama <b>6</b> detik, menetralkan semua buff dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
   },
   "advancement": [
-    "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebesar <b>40%</b>. Melakukan Backstab pada target yang kena Electrify akan meningkatkan Crit Rate sebesar <b>100%</b> dan Crit DMG sebesar <b>30%</b>.",
+    "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebesar <b>40%</b>. Melakukan Backstab pada target yang terkena Electrify akan meningkatkan Crit Rate sebesar <b>100%</b> dan Crit DMG sebesar <b>30%</b>.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
     "Meningkatkan DMG sebesar <b>30%</b> kepada target yang punya HP kurang dari <b>60%</b>.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
@@ -75,12 +96,12 @@
     {
       "name": "Loner",
       "icon": true,
-      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebesar <b>6%</b> dan mengurangi damage yang diterima sebesar <b>4%</b>."
+      "description": "Saat Crow tidak berada dalam tim, meningkatkan DMG yang ditimbulkan sebesar <b>6%</b> dan mengurangi DMG yang diterima sebesar <b>4%</b>."
     },
     {
       "name": "Silent Night",
       "icon": true,
-      "description": "Saat Crow tidak berada dalam tim, meningkatkan damage yang ditimbulkan sebesar <b>10%</b> dan mengurangi damage yang diterima sebesar <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan damage yang ditimbulkan sebesar <b>12%</b> selama <b>12</b> detik."
+      "description": "Saat Crow tidak berada dalam tim, meningkatkan DMG yang ditimbulkan sebesar <b>10%</b> dan mengurangi DMG yang diterima sebesar <b>6%</b>. Saat Crow masuk ke dalam pertempuran, meningkatkan DMG yang ditimbulkan sebesar <b>12%</b> selama <b>12</b> detik."
     }
   ],
   "ascension": [

@@ -1,0 +1,34 @@
+{
+  "_id": 40033,
+  "id": "yu_lan",
+  "name": "玉兰",
+  "suitName": "赤心",
+  "hash": "SSR33",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When equipped with at least <b>1</b> frost weapon, while in the combat state, deal damage equal to <b>60%</b> of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by <b>5%</b>/6%/7%/8% for <b>30</b> seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "After <b>Unity</b> consumes <b>Internal Strength</b> or <b>Fighting Spirit</b>, increase final damage by <b>5%</b> for <b>15</b> seconds. After dealing frost damage, increase all elemental damage by <b>11%</b>/14%/17%/20% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "抱朴含真",
+    "desc": "唯真唯信，朴素自然。"
+  },
+  "memory": {
+    "name": "朝乾夕惕",
+    "desc": "自习武之日起便不曾有过懈怠。"
+  },
+  "belief": {
+    "name": "金石为开",
+    "desc": "最远的路就是捷径。"
+  },
+  "emotion": {
+    "name": "诚心正意",
+    "desc": "以诚待人，有时候也会产生误解。"
+  }
+}

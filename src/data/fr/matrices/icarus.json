@@ -1,0 +1,34 @@
+{
+  "_id": 40028,
+  "id": "icarus",
+  "name": "Icarus",
+  "suitName": "Avec givre",
+  "hash": "SSR28",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping Precious One, <b>2</b> or more weapons of different elements, or <b>2</b> or more types of weapons increases all elemental damage by <b>8%</b>/9%/10%/11%. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing frost damage, increase all elemental damage by <b>13%</b>/16%/19%/22% for <b>25</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Solipsisme",
+    "desc": "Stratégies et plans. Mon destin repose entre mes mains."
+  },
+  "memory": {
+    "name": "Témoin",
+    "desc": "Être témoin de ce qui mène au chemin."
+  },
+  "belief": {
+    "name": "Terrain glissant",
+    "desc": "Continuez d'avancer sur terrain glissant."
+  },
+  "emotion": {
+    "name": "Passant",
+    "desc": "Les étrangers vont et viennent en passant."
+  }
+}

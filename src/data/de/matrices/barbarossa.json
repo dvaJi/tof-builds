@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Beim Wechsel zu dieser Waffe, erhält der Anwender für 3 Sek. 50%/62,5%/75% Schadensreflektion. Abklingzeit: 30 Sek. Beim Wechsel zu einer anderen Waffe, erhält der Anwender für 5 Sek. 20%/25%/30% Schadensbonus. Abklingzeit: 30 Sek."
+      "value": "Beim Wechsel zu dieser Waffe, erhält der Anwender für 3 Sek. 50%/62,5%/75% Schadensreflexion. Abklingzeit: 30 Sek. Beim Wechsel zu einer anderen Waffe, erhält der Anwender für 5 Sek. 20%/25%/30% Schadensbonus. Abklingzeit: 30 Sek."
     }
   ],
   "mind": {

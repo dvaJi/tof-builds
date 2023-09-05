@@ -4,13 +4,13 @@
   "name": "Huma",
   "weapon": "Molten Shield V2",
   "weapon_id": "molten_shield_v2",
-  "birthday": "12 Januari (Capricorn)",
+  "birthday": "12 Januari",
   "birthplace": "Hykros",
   "gender": "Perempuan",
   "info": "Terkadang terlihat bingung atau linglung karena kehilangan sebagian ingatan dan data identitasnya. Sering mengenakan masker di mulutnya, membuat komunikasi bertambah sulit. Sangat pendiam dan penyendiri.\nDengan sedikit pengalaman di dunia luar, dia lugu seperti anak burung dan memancarkan aura yang dingin.",
   "description": "Gadis dengan penyakit yang menganugerahinya kekuatan aneh, tengah mendapat perawatan di Hykros.\nUntuk alasan tertentu, Huma kehilangan semua ingatan masa lalunya, juga kepribadiannya dulu. Sejak tersadar, pengetahuan Huma tentang dunia hanya sebatas Hykros. Lainnya hanya akan membuatnya agak takut dan gelisah.\nSaat ini, hubungan pribadi Huma hanya terjalin dengan peneliti medis yang telah dikenalnya selama dia dirawat. Para peneliti ini menyarankan kepada Huma untuk menemani yang lain menjelajahi dunia luar. Harapannya, dia bisa berangsur kembali ke kehidupan normalnya. Namun, Huma membuat keputusan yang mencengangkan — memilih dilatih menjadi Eksekutor Hykros.\nAlasannya sederhana dan lugu — dia merasa aman saat berada di tengah-tengah Eksekutor, dan ingin menggunakan kemampuannya untuk membalas kebaikan Hykros.",
   "like": "Membaca, damai dan tenang, berkebun",
-  "dislike": "Unknown",
+  "dislike": "Tak Diketahui",
   "element": "Fire",
   "rarity": "SSR",
   "role": "Tank",
@@ -20,62 +20,79 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": ["Attack"],
-      "description": "Saat di darat, ayunkan Shield Axe untuk menyerang 4 kali berturut-turut.\nSerangan Pertama dalam Shield Form: Timpakan damage sebesar <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>56.9%</b> ATK + <b>3</b> pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>62.8%</b> ATK + <b>3</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>184%</b> ATK + <b>10</b> dan buat target terpental.</>.\nSerangan Pertama dalam Axe Form: Timpakan damage sebesar <b>135.2%</b> ATK + <b>7</b> dan pukul mundur target dalam jarak dekat.\nSerangan Kedua: Timpakan damage sebesar <b>79.4%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat.\nSerangan Ketiga: Timpakan damage sebesar <b>119.9%</b> ATK + <b>6</b> dan pukul mundur target dalam jarak dekat.\nSerangan Keempat: Timpakan damage sebesar <b>221.3%</b> ATK + <b>12</b> dan pukul mundur target."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, mengayunkan kapak perisai untuk menyerang 4 kali berturut-turut.\nSerangan Pertama Mode Perisai: Menimpakan DMG sebesar <b>77.7%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>56.9%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>62.8%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>184%</b> ATK plus <b>10</b> dan membuat target <b>Terpental Ke Atas</b>.\nSerangan Pertama Mode Kapak: Menimpakan DMG sebesar <b>135.2%</b> ATK plus <b>7</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>79.4%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>119.9%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>221.3%</b> ATK plus <b>12</b> dan membuat target terpental ke belakang."
     },
     {
       "name": "Aerial Strike",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimbulkan DMG sebesar <b>75.9%</b> ATK + <b>4</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>80.2%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>103%</b> ATK + <b>5</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>118.6%</b> ATK + <b>6</b> dan mengakibatkan <b>Knockdown</b> yang akan membuat musuh terpental setelah mendarat."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>75.9%</b> ATK plus <b>4</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>80.2%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>103%</b> ATK plus <b>5</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>118.6%</b> ATK plus <b>6</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
       "name": "Anticipation",
-      "type": ["Hold: Attack"],
-      "description": "Shield Form: Saat di darat, tekan dan tahan Serangan Biasa untuk memasuki Shield Form (lepaskan untuk keluar) selama <b>3</b> detik. Selama itu, Wanderer tidak bisa bergerak, dan semua damage yang diterima berkurang <b>50%</b>. Saat dalam Shield Form, melepaskan tombol Serangan Biasa setelah menerima damage atau setelah menahan tombol selama <b>3</b> detik, lepaskan Fire Crash, menimpakan damage sebesar <b>167.3%</b> ATK + <b>9</b> dan menimbulkan efek <b>Stun</b> kepada target selama <b>1</b> detik.\nAxe Form: Hancurkan target, menimpakan damage sebesar <b>122.2%</b> ATK + <b>6</b> dan mengakibatkan Suspend kepada target."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Mode Perisai: Saat di darat, tekan dan tahan Serangan Biasa untuk mengangkat perisai (lepaskan untuk mengakhirinya) selama <b>3</b> detik. Dalam durasi tersebut, Wanderer tidak bisa bergerak dan semua DMG yang diterima berkurang <b>50%</b>. Saat mengangkat perisai, melepaskan tombol Serangan Biasa setelah menerima DMG atau setelah menahan tombol selama <b>3</b> detik akan membuatmu melancarkan Fire Crash, menimpakan DMG sebesar <b>167.3%</b> ATK plus <b>9</b> dan membuat target <b>Stun</b> selama <b>1</b> detik.\nMode Kapak: Menghantam target, menimpakan DMG sebesar <b>122.2%</b> ATK plus <b>6</b> dan membuat target terpental ke atas."
     },
     {
       "name": "Valor",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tahan Serangan Biasa saat di udara (atau tekan saat ada target yang dipilih), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Branch Attack di udara.\nShield Form: Saat jatuh, menimpakan DMG sebesar <b>12.5%</b> of ATK + <b>1</b> tiap kena. Saat mendarat, menimpakan DMG sebesar <b>89.2%</b> ATK + <b>5</b> dan membuat target terkena Suspend.\nAxe Form: Saat jatuh, menimpakan DMG sebesar <b>12.5%</b> ATK + <b>1</b> tiap kena. Saat mendarat, menimpakan DMG sebesar <b>128.3%</b> ATK + <b>7</b> dan membuat target terkena Suspend.\nMakin tinggi ketinggianmu saat mengaktifkan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Saat di udara, tekan dan tahan Serangan Biasa (tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan melakukan Serangan Branch di udara.\nMode Perisai: Melakukan serangan menukik ke bawah, menimpakan DMG sebesar <b>12.5%</b> ATK plus <b>1</b> di tiap hantaman. Saat mendarat, menimpakan DMG sebesar <b>89.2%</b> ATK plus <b>5</b> dan membuat target terpental ke atas.\nMode Kapak: Melakukan serangan menukik ke bawah, menimpakan DMG sebesar <b>12.5%</b> ATK plus <b>1</b> di tiap hantaman. Saat mendarat, menimpakan DMG sebesar <b>128.3%</b> ATK plus <b>7</b> dan membuat target terpental ke atas.\nMakin tinggi posisi pemain saat melakukan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Erupt",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Dodge untuk melakukan Serangan Dodge.\nShield Form: Melontarkan perisai api yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan memukul mundur target. Lalu, memicu ledakan yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b>, memberikan efek <b>Stun</b> kepada target selama <b>0,5</b> detik, dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik.\nAxe Form: Mengayunkan kapak yang menimbulkan DMG sebesar <b>55.8%</b> ATK + <b>3</b> dan mengurangi efek penyembuhan berikutnya kepada target sebesar <b>30%</b> selama <b>10</b> detik."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa selama rentang waktu singkat setelah Menghindar untuk melakukan Serangan Menghindar.\nMode Perisai: Menembakkan api dari perisai, menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan membuat target terpental ke belakang. Selain itu, memicu ledakan yang menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan membuat target <b>Stun</b> selama <b>0,5</b> detik. Penyembuhan yang diterima target berkurang <b>30%</b> selama <b>10</b> detik berikutnya.\nMode Kapak: Mengayunkan kapak, menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan mengurangi penyembuhan yang diterima target sebesar <b>30%</b> selama <b>10</b> detik berikutnya."
     },
     {
       "name": "Fission",
-      "type": ["Skill"],
-      "description": "Shield Conversion: Beralih dari Shield Form ke Axe Form dan menghantam tanah, menimpakan damage sebesar <b>373.8%</b> ATK + <b>20</b> dan mengakibatkan <b>Suspend Keras</b> kepada target. Meninggalkan zona api besar selama <b>5</b> detik yang akan membakar target, dan menimbulkan damage terus-menerus sebesar <b>233.6%</b> ATK + <b>12</b>.\nAxe Conversion: Beralih dari bentuk kapak ke bentuk perisai dan menghantamkannya ke tanah, menimpakan damage sebesar <b>309.5%</b> ATK + <b>16</b> kepada target dan memukul mereka mundur. Membuat target tidak bisa berganti senjata selama <b>5</b> detik.\nCD: <b>25</b> detik untuk Shield Conversion sekaligus Axe Conversion."
+      "type": [
+        "Skill"
+      ],
+      "description": "Konversi Perisai: Beralih dari Mode Perisai ke Mode Kapak, lalu menghantamkannya ke tanah, menimpakan DMG sebesar <b>373.8%</b> ATK plus <b>20</b> dan membuat target <b>Terpental Ke Atas</b>. Membuat zona api besar selama <b>5</b> detik yang akan membakar target dan menimpakan DMG terus-menerus sebesar <b>233.6%</b> ATK plus <b>12</b>.\nKonversi Kapak: Beralih dari Mode Kapak ke Mode Perisai, lalu menghantamkannya ke tanah, menimpakan DMG sebesar <b>309.5%</b> ATK + <b>16</b> kepada target dan membuat mereka terpental ke belakang. Membuat target tak bisa berganti senjata selama <b>5</b> detik.\nCD: <b>25</b> detik. Konversi Perisai dan Konversi Kapak berbagi waktu CD yang sama."
     },
     {
       "name": "Seething Rage",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata penuh</span> atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Flame Shockwave setelah beralih ke senjata ini, menimpakan damage sebesar <b>352%</b> ATK + <b>19</b>. Memberikan Taunt kepada musuh selama <b>5</b> detik, dan selama itu akan mendapatkan <b>15%</b> Damage Reduction. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek bertahan <b>20</b> detik dan selama <b>10</b> detik akan memberikan <b>5%</b> Damage Reduction (bisa ditumpuk), dan memulihkan Dodge sebesar 1."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melancarkan gelombang api, menimpakan DMG sebesar <b>352%</b> ATK plus <b>19</b>. Melakukan Taunt yang akan menarik perhatian musuh selama <b>5</b> detik, di mana DMG yang kamu terima berkurang <b>15%</b> selama durasi tersebut. Menyebarkan objek berbentuk perisai sesuai dengan jumlah target yang terkena Taunt. Objek ini aktif selama <b>20</b> detik, dan selama <b>10</b> detik akan mengurangi DMG yang kamu terima sebesar <b>5%</b> (bisa bertumpuk), serta memulihkan 1 jatah menghindar."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik dan menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efikasi penyembuhan target yang terbakar berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik, menimpakan DMG sebesar <b>58%</b> ATK setiap detik. Efek penyembuhan target yang terbakar berkurang <b>50%</b>."
   },
   "advancement": [
-    "Mendapatkan Perisai Kuat setelah menggunakan Discharge: Seething Rage. Jika menggunakan Skill Dodge atau Skill Branch selama dalam Bentuk Perisai, akan mendapatkan satu tumpuk Perisai Kuat, yang memberikan <b>10%</b> Pengurangan DMG selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Bentuk Kapak, semua tumpukan Perisai Kuat akan berubah menjadi tumpukan Kapak Tajam, yang masing-masing akan meningkatkan DMG sebesar <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
+    "Mendapatkan Perisai Kuat setelah menggunakan Discharge: Seething Rage. Jika menggunakan Skill Dodge atau Skill Branch selama dalam Bentuk Perisai, akan mendapatkan satu tumpuk Perisai Kuat, yang memberikan <b>10%</b> Pengurangan DMG selama <b>15</b> detik dan bisa ditumpuk hingga <b>3</b> kali. Jika beralih ke Axe Form, semua tumpukan Perisai Kuat akan berubah menjadi tumpukan Sharp Axe, yang masing-masing akan meningkatkan DMG sebesar <b>15%</b> selama <b>15</b> detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
-    "Selama dalam wujud perisai, Branch/Serangan Dodge akan menimpakan damage tambahan kepada target sebesar <b>4%</b> dari HP saat ini pengguna.",
+    "Selama dalam wujud perisai, Branch/Serangan Dodge akan menimpakan DMG tambahan kepada target sebesar <b>4%</b> dari HP saat ini pengguna.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
     "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang <b>10%</b> setiap <b>3</b> detik, hingga minimal <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
-    "Meningkatkan Conversion Skill.\nShield Conversion Enhancement: Meningkatkan damage yang ditimbulkan sebesar <b>60%</b> dan memperluas radius zona Flame sebesar <b>30%</b>.\nAxe Conversion Enhancement: Cooldown tidak sama dengan Shield Conversion. Selama <b>5</b> detik berikutnya setelah menggunakan skill ini, semua damage yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
+    "Meningkatkan Conversion Skill.\nShield Conversion Enhancement: Meningkatkan DMG yang ditimbulkan sebesar <b>60%</b> dan memperluas radius zona Flame sebesar <b>30%</b>.\nAxe Conversion Enhancement: Cooldown tidak sama dengan Shield Conversion. Selama <b>5</b> detik berikutnya setelah menggunakan skill ini, semua DMG yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
   ],
   "traits": [
     {
       "name": "Fortitude",
       "icon": true,
-      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Skill Senjata, gunakan Fortitude Mark dan dapatkan Perisai HP sebesar jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan Perisai HP sebesar jumlah tanda x<b>0,6%</b> HP."
+      "description": "Setiap kali Huma menerima DMG, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika DMG yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Skill Senjata, gunakan Fortitude Mark dan dapatkan Perisai HP sebesar jumlah tanda x<b>0,4%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan Perisai HP sebesar jumlah tanda x<b>0,6%</b> HP."
     },
     {
       "name": "Iron Screen",
       "icon": true,
-      "description": "Setiap kali Huma menerima damage, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika damage yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Skill Senjata, gunakan Fortitude Mark dan dapatkan Perisai HP sebesar jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan Perisai HP sebesar jumlah tanda x<b>0,9%</b> HP."
+      "description": "Setiap kali Huma menerima DMG, mendapatkan <b>1</b> Fortitude Mark dan mendapatkan <b>1</b> Fortitude Mark lagi jika DMG yang diterima berupa Flame Damage, maks <b>1</b> kali per <b>1</b> detik, total <b>12</b> tumpuk. Setelah menggunakan Skill Senjata, gunakan Fortitude Mark dan dapatkan Perisai HP sebesar jumlah tanda x<b>0,6%</b> HP selama <b>12</b> detik. Jika Fortitude Mark digunakan saat efek ditumpuk sampai maksimum, akan mendapatkan Perisai HP sebesar jumlah tanda x<b>0,9%</b> HP."
     }
   ],
   "ascension": [

@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Menyerang target dengan Skill Dodge mengakibatkan pendarahan, menimpakan damage sebesar 15%/19%/22,5%/26% ATK setiap detik selama 5 detik."
+      "value": "Menyerang target dengan Skill Dodge mengakibatkan Bleed, menimpakan DMG sebesar 15%/19%/22,5%/26% ATK setiap detik selama 5 detik."
     },
     {
       "count": 4,

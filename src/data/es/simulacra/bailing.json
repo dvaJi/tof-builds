@@ -4,7 +4,7 @@
   "name": "Bai Ling",
   "weapon": "Pluma de Ruiseñor",
   "weapon_id": "nightingales_feather",
-  "birthday": "8 de mayo (Tauro)",
+  "birthday": "8 de mayo",
   "birthplace": "Refugio HT201",
   "gender": "Femenino",
   "info": "Le falta confianza y se preocupa en exceso. Le importa más lo que otros piensen que sus propias ideas y eso la pone susceptible y ansiosa por pequeñeces. Por otro lado, tiene los pies en la tierra, y es amable, educada y meticulosa.\nAún está aprendiendo y creciendo. Al ser consciente de sus propios problemas, poco a poco intenta convertirse en alguien capaz de tomar las riendas.",
@@ -20,43 +20,60 @@
   "skills": [
     {
       "name": "Reflejos Rápidos",
-      "type": ["Attack"],
-      "description": "En el suelo, lanza con el arco reiteradamente y ataca 5 veces.\nPrimer ataque: inflige daño equivalente al <b>33.7%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>30.2%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño equivalente al <b>54.3%</b> del ATQ + <b>3</b>.\nCuarto ataque: inflige daño equivalente al <b>83.5%</b> del ATQ + <b>4</b>.\nQuinto ataque: inflige daño equivalente al <b>77.7%</b> del ATQ + <b>4</b> y hacer retroceder un poco al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, tira del arco repetidamente para atacar 5 veces.\nPrimer ataque: Inflige daño igual a <b>33.7%</b> del ATQ más <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>30.2%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>54.3%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>83.5%</b> del ATQ más <b>4</b>.\nQuinto ataque: Inflige daño igual a <b>77.7%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo."
     },
     {
       "name": "Flecha Cargada",
-      "type": ["Hold: Attack"],
-      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño básico igual a <b>60.5%</b> del ATQ + <b>3</b>, y <b>50%</b> más por cada <b>segundo</b> de carga, hasta <b>3 segundos</b>. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño base igual a <b>60.5%</b> del ATQ más <b>3</b>, y <b>50%</b> más por cada <b>1</b> seg de carga, hasta <b>3</b> seg. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
     },
     {
       "name": "Lluvia de Flechas",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Después de cualquier ataque normal, mantén pulsado el ataque normal para desatar Lluvia de Flechas que inflige hasta el <b>198.7%</b> del ATQ + <b>10</b> de daño de área a los objetivos."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Después de cualquier ataque normal, mantén pulsado el botón de ataque normal para desatar Lluvia de Flechas que inflige hasta el <b>198.7%</b> del ATQ más <b>10</b> de daño de área a los objetivos."
     },
     {
       "name": "Descarga Aérea",
-      "type": ["Jump", "Attack"],
-      "description": "En el aire, usa el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: inflige daño equivalente al <b>38.8%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño equivalente al <b>51%</b> del ATQ + <b>3</b>.\nTercer ataque: inflige daño equivalente al <b>77.7%</b> del ATQ + <b>4</b>.\nCuarto ataque: inflige daño equivalente al <b>117%</b> del ATQ + <b>6</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire, utiliza el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>38.8%</b> del ATQ más <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>51%</b> del ATQ más <b>3</b>.\nTercer ataque: Inflige daño igual a <b>77.7%</b> del ATQ más <b>4</b>.\nCuarto ataque: Inflige daño igual a <b>117%</b> del ATQ más <b>6</b>."
     },
     {
       "name": "Flecha Equipada",
-      "type": ["Dodge", "Attack"],
-      "description": "Pulsa el ataque tras esquivar para activar una Flecha Equipada, que hacer retroceder un poco al objetivo e inflige daño equivalente al <b>85.5%</b> del ATQ + <b>5</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque tras esquivar para activar una Flecha Equipada, que hacer retroceder un poco al objetivo e inflige daño igual al <b>85.5%</b> del ATQ más <b>5</b>."
     },
     {
       "name": "Disparo Perforante",
-      "type": ["Skill"],
-      "description": "Retrocede en una voltereta y realiza <b>1</b> disparo perforante hacia adelante, lo que inflige daño equivalente al <b>154.8%</b> del ATQ + <b>8</b> y hace retroceder al objetivo. <b>12</b> segundos de enfriamiento."
+      "type": [
+        "Skill"
+      ],
+      "description": "Retrocede en una voltereta y realiza <b>1</b> disparo perforante hacia adelante, lo que inflige daño igual al <b>154.8%</b> del ATQ más <b>8</b> y hace retroceder al objetivo. <b>12</b> seg de enfriamiento."
     },
     {
       "name": "Ráfaga Explosiva",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b>, y desata Ráfaga Explosiva sobre el objetivo tras cambiar a esta arma, lo que inflige daño equivalente al <b>486.6%</b> del ATQ + <b>26</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y desata Ráfaga Explosiva sobre el objetivo, lo que inflige daño igual a <b>486.6%</b> del ATQ más <b>26</b>."
     }
   ],
   "weapon_type": {
     "name": "Grave",
-    "description": "Cuando el arma está completamente cargada, el próximo ataque infligirá daño equivalente al <b>100%</b> del ATQ y causará el estado grave por <b>7</b> segundos, lo que causa que reciba <b>20%</b> de daño adicional."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque dejará graves a los enemigos por <b>7</b> seg, lo que aumenta su daño recibido un <b>20%</b> y les inflige daño igual a <b>100%</b> del ATQ. Cuando estás en <yellow_lbl_14_1>partidas en equipo</>, los objetivos graves reciben un <b>20%</b> de daño físico adicional."
   },
   "advancement": [
     "Restaura 1 intento de evasión cada cinco ataques normales o después de usar <span class=\"text-green\">Disparo Perforante</span>.",

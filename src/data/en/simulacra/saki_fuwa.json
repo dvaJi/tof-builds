@@ -4,7 +4,7 @@
   "name": "Saki Fuwa",
   "weapon": "Heartstream",
   "weapon_id": "heartstream",
-  "birthday": "October 11 (Libra)",
+  "birthday": "October 11",
   "birthplace": "Mirroria Security Force Special Forces",
   "gender": "Female",
   "info": "Beneath her immature appearance is a heart that stands in stark contrast to this deceptive exterior. She is essentially a \"mini adult\" through and through.\nHowever, there are occasions when her age and appearance break the surface—when no one is around, she sometimes practices voicing out one-liners as if in the heat of battle. She enjoys collecting basic figurines from the old days, in fact, she is quite the geek about it.",
@@ -20,48 +20,67 @@
   "skills": [
     {
       "name": "Ragestream",
-      "type": ["Attack"],
-      "description": "Launch 5 Heartstream attacks while on the ground.\nThe first attack deals <b>42.5%</b> of ATK + <b>2</b> damage to the target and knocks the target back a short distance.\nThe second attack deals <b>29.5%</b> of ATK + <b>2</b> damage to the target and knocks the target back a short distance.\nThe third attack deals <b>45%</b> of ATK + <b>2</b> damage to the target and knocks the target back a short distance.\nThe fourth attack deals <b>70.6%</b> of ATK + <b>4</b> damage to the target and knocks the target back a short distance.\nThe fifth attack deals <b>102.6%</b> of ATK + <b>5</b> damage to the target and launches the target into the air."
+      "type": [
+        "Attack"
+      ],
+      "description": "Launch 5 Heartstream attacks while on the ground.\nThe first attack deals <b>42.5%</b> of ATK plus <b>2</b> damage to the target and knocks the target back a short distance.\nThe second attack deals <b>29.5%</b> of ATK plus <b>2</b> damage to the target and knocks the target back a short distance.\nThe third attack deals <b>45%</b> of ATK plus <b>2</b> damage to the target and knocks the target back a short distance.\nThe fourth attack deals <b>70.6%</b> of ATK plus <b>4</b> damage to the target and knocks the target back a short distance.\nThe fifth attack deals <b>102.6%</b> of ATK plus <b>5</b> damage to the target and launches the target into the air."
     },
     {
       "name": "Airsplit",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>47.2%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>43.7%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>54.2%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>76.9%</b> of ATK + <b>4</b>.\nFifth Attack: Deal damage equal to <b>170.2%</b> of ATK + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>47.2%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal damage equal to <b>43.7%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>54.2%</b> of ATK plus <b>3</b>.\nFourth Attack: Deal damage equal to <b>76.9%</b> of ATK plus <b>4</b>.\nFifth Attack: Deal damage equal to <b>170.2%</b> of ATK plus <b>9</b>."
     },
     {
       "name": "Excited Flow: Vortex",
-      "type": ["Hold: Attack"],
-      "description": "In the Excited Flow mode, tap and hold normal attack to trigger the skill.\nDash forward with a swirling multi-attack, dealing a maximum of <b>199.5%</b> of ATK + <b>11</b> damage."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "In the Excited Flow mode, tap and hold normal attack to trigger the skill.\nDash forward with a swirling multi-attack, dealing a maximum of <b>199.5%</b> of ATK plus <b>11</b> damage."
     },
     {
       "name": "Frostfall",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger.\nWhile falling, deal damage equal to <b>30.4%</b> of ATK + <b>2</b> each hit. Upon landing, deal damage equal to <b>76%</b> of ATK + <b>4</b> to nearby targets."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger.\nWhile falling, deal damage equal to <b>30.4%</b> of ATK plus <b>2</b> each hit. Upon landing, deal damage equal to <b>76%</b> of ATK plus <b>4</b> to nearby targets."
     },
     {
       "name": "Dodge",
-      "type": ["Dodge"],
-      "description": "Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for <b>0.5</b> seconds while dodging."
+      "type": [
+        "Dodge"
+      ],
+      "description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun while dodging for <b>0.5</b> seconds."
     },
     {
       "name": "Polar Front",
-      "type": ["Dodge", "Attack"],
-      "description": "Tap normal attack during the short period after dodging.\nDash and spin to attack the target, dealing damage equal to <b>277%</b> of ATK + <b>15</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap normal attack during the short period after dodging.\nDash and spin to attack the target, dealing total damage equal to <b>277%</b> of ATK plus <b>15</b>."
     },
     {
       "name": "Excited Flow: Flashing Stream",
-      "type": ["Skill"],
-      "description": "Dash toward the target and temporarily immobilize enemies along the path, dealing delayed damage up to <b>445.3%</b> of ATK + <b>23</b>. Cooldown: <b>30</b> seconds."
+      "type": [
+        "Skill"
+      ],
+      "description": "Dash toward the target and temporarily immobilize enemies along the path, dealing delayed damage up to <b>445.3%</b> of ATK plus <b>23</b>. Cooldown: <b>30</b> seconds."
     },
     {
       "name": "Silent Flow: Concentrated Stream",
-      "type": ["Discharge"],
-      "description": "Release the Silent Flow skills to enter a charge state for up to <b>3</b> seconds, continuously taunting nearby targets and absorbing damage up to <b>60%</b> of the Max HP. At the end of the charge state, deal frost damage equal to <b>850%</b> of frost ATK + <b>50%</b> x damage absorbed to targets, and <b>20%</b> of the unconsumed value is converted to HP recovery. Cooldown: <b>30</b> seconds.\n\nEnter the Silent Flow mode when Fortitude Resonance is activated. <b>Excited Flow: Flashing Stream</b> is replaced by <b>Silent Flow: Concentrated Stream</b>. Enter the Excited Flow when Fortitude Resonance is not activated.\nThe Wanderer can gain Sword Shadow which follows them around when using Saki Fuwa's skills. Sword Shadow will release Surge when the Wanderer uses Saki Fuwa's branch skills or discharge skills, dealing ranged damage equal to <b>450%</b> of frost ATK. Cooldown of Surge: <b>10</b> seconds.\nIn the state of Excited Flow: Sword Shadow will release Flow when the Wanderer deals damage with any weapon, which inflicts damage equal to <b>125%</b> of frost ATK on the first hit target and recovers HP equal to <b>57%</b> of the damage. The maximum recovery each time does not exceed <b>100%</b> of ATK. Cooldown: <b>0.8</b> seconds.\nIn the state of Silent Flow: After Sword Shadow releases Surge, the Wanderer obtains <b>3</b> blocks for <b>10</b> seconds, and the maximum block capacity does not exceed <b>15%</b> of Max HP. Each successful block deals Counterattack damage equal to <b>450%</b> of  frost ATK to the target, and the shatter of Surge increases by <b>100%</b> with the taunt effect added."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Release the Silent Flow skills to enter a charged state for up to <b>3</b> seconds, continuously taunting nearby targets and absorbing damage up to <b>60%</b> of the Max HP. At the end of the charged state, deal frost damage equal to <b>850%</b> of frost ATK plus <b>50%</b> x damage absorbed to targets, and <b>20%</b> of the unconsumed value is converted to HP recovery. Cooldown: <b>30</b> seconds.\n\nEnter the Silent Flow mode when Fortitude Resonance is activated. <b>Excited Flow: Flashing Stream</b> is replaced by <b>Silent Flow: Concentrated Stream</b>. Enter the Excited Flow when Fortitude Resonance is not activated.\nThe Wanderer can gain Sword Shadow which follows them around when using Saki Fuwa's skills. Sword Shadow will release Surge when the Wanderer uses Saki Fuwa's branch skills or discharge skills, dealing ranged damage equal to <b>450%</b> of frost ATK. Cooldown of Surge: <b>10</b> seconds.\nIn the state of Excited Flow: Sword Shadow will release Flow when the Wanderer deals damage with any weapon, which inflicts damage equal to <b>125%</b> of frost ATK on the first hit target and recovers HP equal to <b>57%</b> of the damage. The maximum recovery each time does not exceed <b>100%</b> of ATK. Cooldown: <b>0.8</b> seconds.\nIn the state of Silent Flow: After Sword Shadow releases Surge, the Wanderer obtains <b>3</b> blocks for <b>10</b> seconds, and the maximum block capacity does not exceed <b>15%</b> of Max HP. Each successful block deals Counterattack damage equal to <b>450%</b> of frost ATK to the target, and the shatter of Surge increases by <b>100%</b> with the taunt effect added."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "When the weapon is fully charged, the next attack will <b>freeze</b> targets for <b>2</b> seconds and leave them frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly freeze</b> targets for <b>2</b> seconds and leave them frostbitten for <b>6</b> seconds. Breaking the ice shell deals damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Frost Resonance",
@@ -70,7 +89,7 @@
   "advancement": [
     "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <b>5</b> times weapon skills are used, and the damage of Flow and Counterattack is increased by <b>1</b> time for the next <b>25</b> seconds.",
     "Increase the current weapon's base ATK growth by <b>16%</b>.",
-    "Excited Flow: Increase the damage of Sword Shadow: Surge to <b>900%</b> of frost ATK.\nSilent Flow: The cooldown of Sword Shadow: Surge becomes <b>5 [@$second|seconds]</b>.",
+    "Excited Flow: Increase the damage of Sword Shadow: Surge to <b>900%</b> of frost ATK.\nSilent Flow: The cooldown of Sword Shadow: Surge becomes <b>5 seconds</b>.",
     "Increase the current weapon's base HP growth by <b>32%</b>.",
     "Freeze time and trigger Phantasia upon Surge hitting the target. Share cooldown with the Phantasia triggered by dodging.",
     "Upon hitting a target with Surge, increase frost damage by <b>11%</b> for <b>15</b> seconds.\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by enemy targets by <b>25%</b> for <b>12</b> seconds."
@@ -82,7 +101,7 @@
     },
     {
       "name": "Guarding Sword",
-      "description": "When HP is lower than <b>70%</b>, increase all resistance by <b>40%</b> with an extra <b>60%</b> increased frost resistance. In the state of Silent Flow: After the sword shadow releases Surge and blocks an attack, the teammate with the lowest HP percentage will get 3 block abilities, not including yourself, lasting for <b>10</b> seconds. The maximum blocking damage does not exceed <b>15%</b> of the teammate's max HP."
+      "description": "When HP is lower than <b>70%</b>, increase all resistance by <b>40%</b> with an extra <b>60%</b> increased frost resistance. In the state of Silent Flow: After the sword shadow releases Surge and blocks an attack, the teammate with the lowest HP percentage will get 3 block abilities, not including yourself, lasting for <b>10</b> seconds. The maximum blocking damage does not exceed <b>15%</b> of the teammate's Max HP."
     }
   ],
   "ascension": [
@@ -246,13 +265,13 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_winter",
-        "name": "Heart of winter",
+        "name": "Heart of Winter",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "nano_coating_ii",
-        "name": "Nano coating II",
+        "name": "Nano Coating II",
         "rarity": "SR",
         "amount": 5
       },

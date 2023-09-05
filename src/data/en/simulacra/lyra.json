@@ -1,0 +1,334 @@
+{
+  "_id": 13,
+  "id": "lyra",
+  "name": "Lyra",
+  "weapon": "Vesper",
+  "weapon_id": "vesper",
+  "birthday": "June 23",
+  "birthplace": "Maidelin Fund",
+  "gender": "Female",
+  "info": "Very few even know the detached, composed, low-profile, current manager of the Maidelin Foundation exists.\nNot one to meddle, but definitely pitches in when things hit the fan.\n\"I'm just following Ms. Maidelin's will.\"",
+  "description": "The sole heir to Ms. Maidelin, a renowned contributor to many technology fields, and was regarded by her as her closest family.\n\nHow exactly to execute Ms. Maidelin's last will and the reasons behind her decisions can no longer be traced... But Lyra does exhibit an attitude similar to Maidelin when it comes to administration.\n\nBecause of the working partnership with Hykros, Lyra holds a certain influence in its hierarchy, though very few people are aware of that due to her low-profile personality.",
+  "like": "Violin",
+  "dislike": "Germs, stubborn stains",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Support",
+  "resonance": "DPS",
+  "shatter": 12,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Normal Vesper Attack Passive",
+      "type": [
+        "Passive"
+      ],
+      "description": "<span class=\"text-green\">Enlightenment</span>: Upon hit, Vesper's normal attack without Benediction Resonance deals extra damage to targets bearing the <b>Enlightenment mark</b>, equal to the number of Guards you carry x <b>6.4%</b> of ATK (no more than 38.4% x ATK in total). That damage will not trigger extra attack effects and is regarded as discharge skill and weapon skill damage.\n\nUpon hit, Vesper's normal attack with Benediction Resonance deals extra damage to targets bearing the <b>Enlightenment mark</b>, equal to the number of Guards you and teammates carry x <b>4.6%</b> of ATK (no more than 36.8% x ATK in total). That damage will not trigger extra attack effects and is regarded as discharge skill and weapon skill damage.\n<span class=\"text-green\">Glowing</span>: Upon hit, all of Vesper's normal attacks recover HP equal to <b>15%</b> of ATK.\n<span class=\"text-green\">Sacred Strike</span>: Vesper's aerial attack and Accumulator can convert 60% of charge to shatter.\n<span class=\"text-green\">Guard</span>: For every <b>15%</b> loss of HP or every <b>300</b> weapon charge gained, obtain up to <b>5</b> Enlightenment Guards for yourself (can be produced in the off-hand slot). Enlightenment Guard lasts for <b>25</b> seconds. If your own Enlightenment Guards are full, the new Enlightenment Guards will attack enemies, dealing physical damage equal to <b>120%</b> of ATK, then disappear. That damage does not trigger extra attack effects.\n\nNote: In Bygone Phantasm, Vesper is not regarded as a support weapon."
+    },
+    {
+      "name": "Normal Vesper Attack",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, use Vesper to launch 5 consecutive attacks.\nFirst Attack: Deal damage equal to <b>81.6%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>59.1%</b> of ATK plus <b>3</b> and knock the target back significantly. \nThird Attack: Deal damage equal to <b>123.9%</b> of ATK plus <b>7</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>173%</b> of ATK plus <b>9</b> and suspend the target.\nFifth Attack: Deal damage equal to <b>196.4%</b> of ATK plus <b>10</b> and launch the target."
+    },
+    {
+      "name": "Frustration",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, tap normal attack to unleash Frustration. Each punch deals damage equal to <b>33.2%</b> of ATK plus <b>2</b> and consumes <b>10</b> endurance. The last hit deals damage equal to <b>556.6%</b> of ATK plus <b>29</b> and launches the target.\nWhen unleashing Frustration, grab the target if possible and throw it to the ground, dealing damage equal to <b>124.5%</b> of ATK plus <b>7</b> in total."
+    },
+    {
+      "name": "Accumulator",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tap and hold normal attack for up to <b>3</b> charges. <b>Strongly suspend</b> the target upon hit, and become immune from damage and control effects during an Accumulator attack. Releasing before getting hit can trigger Phantasia.\nPhase 1 charged hit: Deal damage equal to <b>96%</b> of ATK plus <b>5</b>.\nPhase 2 charged hit: Deal damage equal to <b>223%</b> of ATK plus <b>12</b>.\nPhase 3 charged hit: Deal damage equal to <b>360.5%</b> of ATK plus <b>19</b>."
+    },
+    {
+      "name": "Shimmer",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack during normal attacks or after dodging to unleash Shimmer. Each punch deals damage equal to <b>20%</b> of ATK plus <b>1</b> and consumes <b>10</b> endurance. Release to trigger Accumulator."
+    },
+    {
+      "name": "Pummel",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, tap and hold normal attack to trigger 3 mid-air charges. Release to pummel the ground and <b>strongly suspend</b> targets. Releasing before getting hit can trigger Phantasia.\nPhase 1 charged attack: Deal damage equal to <b>166.3%</b> of ATK plus <b>9</b>.\nPhase 2 charged attack: Deal damage equal to <b>288.2%</b> of ATK plus <b>15</b>.\nPhase 3 charged attack: Deal damage equal to <b>454.4%</b> of ATK plus <b>24</b>."
+    },
+    {
+      "name": "Mind Capture",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "After dodging, tap normal attack to pull the target to you and draw it in for <b>2</b> seconds, dealing damage equal to <b>261.4%</b> of ATK plus <b>14</b>. Tapping and holding normal attack after dodging can trigger <b>Shimmer</b> after unleashing <b>Mind Capture</b>."
+    },
+    {
+      "name": "Dodge",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area. Become immune to hitstun while dodging for <b>0.5</b> seconds and recover <b>250</b> endurance."
+    },
+    {
+      "name": "Forgiveness Guard",
+      "type": [
+        "Skill"
+      ],
+      "description": "<span class=\"text-green\">Forgiveness Guard</span>: When the healing effect overflows, grant an HP Shield equal to up to <b>60%</b> of Max HP. When Vesper has Forgiveness Guard, different guard effects are activated under different Resonances.\n<span class=\"text-green\">Benediction Guard</span>: The skill is replaced with <b>Shinerise</b>, and the Wanderer earn no more Enlightenment Guard, which is converted to Forgiveness Guard for teammates. Earn one Forgiveness Guard for each <b>15%</b> of Max HP healed, and grant up to 1 Forgiveness Guard to every teammate. If every teammate has one, Forgiveness Guard deals physical damage equal to <b>120%</b> of ATK to an enemy and disappears. That damage does not trigger extra attack effects. Also increase Max HP by <b>12.5%</b> for self and teammates. Unstackable.\n<span class=\"text-green\">Attack Guard</span>: When a Vesper skill hits, immediately gain a shield equal to <b>30%</b> of Max HP, with a Cooldown: <b>30</b> seconds.\n<span class=\"text-green\">Fortitude Guard</span>: When a Vesper skill hits, immediately gain healing, restoring <b>2%</b> of Max HP per second for <b>20</b> seconds, with a Cooldown: <b>30</b> seconds.\n<span class=\"text-green\">Balance Guard</span>: When HP is more than <b>50%</b>, increase Shatter by <b>20%</b>. When HP is less than <b>50%</b>, increase Final Damage by <b>10%</b> and Shatter by <b>10%</b>."
+    },
+    {
+      "name": "Starfall",
+      "type": [
+        "Skill"
+      ],
+      "description": "Leap towards the target, dealing damage equal to <b>702.1%</b> of ATK plus <b>37</b> and <b>strongly suspending</b> it. Inflict an Enlightenment mark on the target for <b>18</b> seconds. Cooldown: <b>20</b> seconds."
+    },
+    {
+      "name": "Shinerise",
+      "type": [
+        "Skill"
+      ],
+      "description": "Pummel the ground and <b>strongly launch</b> targets in front, dealing damage equal to <b>702.1%</b> of ATK plus <b>37</b> and summoning up to <b>3</b> <b>Blades</b> for <b>75</b> seconds (up to 1 Blade every 2 meters). This skill can be used up to <b>3</b> times, with a cooldown of <b>20</b> seconds each time. When 2 <b>Blades</b> exist on the field, a <b>Clearshine</b> is created. When a <b>Blade</b> is touched, it heals targets within the movement radius, restoring HP equal to <b>25%</b> of the target's ATK. When 3 <b>Blades</b> exist, a <b>Nebula</b> is created. When a <b>Blade</b> is touched, it damages targets within the movement radius, dealing damage equal to <b>150%</b> of ATK x movement distance / <b>5</b>m."
+    },
+    {
+      "name": "Chanting Sigh",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another<b> removes all debuffs from the wielder</b> and unleashes Chanting Sigh, dealing damage equal to <b>748.1%</b> of ATK plus <b>39</b> and adding an Enlightenment mark to the target for <b>18</b> seconds, during which damage immunity lasts <b>2.6</b> seconds (unavailable in Apex League)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Grievous",
+    "description": "When the weapon is fully charged, the next attack will cause enemies to become grievous for <b>7</b> seconds, increasing their damage received by <b>20%</b> and dealing damage equal to <b>{1}%</b> of ATK. When in <yellow_lbl_14_1>team play</>, grievous targets receive an additional <b>20%</b> physical damage."
+  },
+  "weapon_resonance": {
+    "name": "Physical Resonance",
+    "description": "<b>Physical Resonance</b>: Increase physical ATK by <b>15%</b> and physical resistance by <b>25%</b>. Activate by equipping <b>2</b> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance or Physical Reaction effects, and Physical Resonance takes effect first.\n<b>Physical Benediction</b>: Increase physical ATK by <b>5%</b> when Benediction Resonance is activated."
+  },
+  "advancement": [
+    "When releasing any weapon skill or discharge, if your Guards are at the maximum, the Guard duration will be refreshed, dealing physical damage equal to <b>100%</b> of physical ATK x number of Guards to the enemy. Up to 8 Guards when under the effect of Benediction, and up to 6 without it.",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "Increase all damage dealt by Guards by <b>20%</b>, and increase the guarded target's final damage by <b>15%</b> for <b>10 seconds</b> when releasing any weapon skill or discharge under the effect of Benediction Resonance.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "Forgiveness Guard: After releasing Resonance 5 times, receive <b>1</b> chance to negate fatal damage for the wielder and the guarded target. After a teammate negates fatal damage, they will consume Forgiveness Guard and recover <b>5%</b> of Max HP. Unavailable in Apex League.\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the wielder receives <b>2</b> chances to negate fatal damage. Stack up to <b>5</b> times. After the wielder negates fatal damage, they will consume 1 stack of Enlightenment Guard and recover <b>5%</b> of Max HP. Unavailable in Apex League.",
+    "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by <b>1.6%</b>, up to <b>8%</b> for <b>25 seconds</b>."
+  ],
+  "traits": [
+    {
+      "name": "Heartswitch",
+      "description": "Benediction Resonance: Increase Max HP by {0}% for the entire team. Unstackable.",
+      "values": [
+        10
+      ]
+    },
+    {
+      "name": "Bless",
+      "description": "Benediction Resonance: Increase Max HP by {0}% for the entire team. This effect cannot be stacked. Additionally, increase your Max HP by {1}%. Each time you successfully use the skill while having hyperbody or more than 50% HP, grant hyperbody to all allies for {2} seconds.",
+      "values": [
+        10,
+        50,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

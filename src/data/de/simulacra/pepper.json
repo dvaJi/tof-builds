@@ -4,7 +4,7 @@
   "name": "Pepper ",
   "weapon": "Stab der Narben",
   "weapon_id": "staff_of_scars",
-  "birthday": "9. Juli (Krebs)",
+  "birthday": "9. Juli",
   "birthplace": "Hykros’ Medizinische Abteilung",
   "gender": "Weiblich",
   "info": "Eine beliebte Krankenschwester mit einem warmen, geduldigen Lächeln, die für ihre gute Arbeitsethik bekannt ist. Ihre gesundheitliche Verfassung und ihre Ausdauer können jedoch nicht mithalten. Ihr Perfektionismus führt dazu, dass sie oft übermüdet ist.\nSie leidet unter starken Schlafstörungen, leichten Angstzuständen und Zwangshandlungen, was sie jedoch mit eiserner Selbstdisziplin verbirgt.",
@@ -20,48 +20,69 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": ["Attack"],
-      "description": "Schwinge den Stab während du auf dem Boden stehst, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>25.1%</b> des ANG + <b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>18.8%</b> des ANG + <b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>30.4%</b> des ANG + <b>2</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>41.4%</b> des ANG + <b>2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>73.2%</b> des ANG + <b>4</b>."
+      "type": [
+        "Attack"
+      ],
+      "description": "Der Anwender schwingt den Stab am Boden, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>25.1%</b> des ANG +<b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>18.8%</b> des ANG +<b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>30.4%</b> des ANG +<b>2</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>41.4%</b> des ANG +<b>2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>73.2%</b> des ANG +<b>4</b>."
     },
     {
       "name": "Steigendes Sperrfeuer",
-      "type": ["Jump", "Attack"],
-      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>32.5%</b> des ANG + <b>2</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>23.5%</b> des ANG + <b>1</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>25.5%</b> des ANG + <b>1</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>45.6%</b> des ANG + <b>2</b>.\nFünfter Angriff: verursacht Schaden in Höhe von <b>47.7%</b> des ANG + <b>3</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>32.5%</b> des ANG +<b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>23.5%</b> des ANG +<b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>25.5%</b> des ANG +<b>1</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>45.6%</b> des ANG +<b>2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>47.7%</b> des ANG +<b>3</b>."
     },
     {
       "name": "Mondfall",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um Mondfall auszulösen.\nVerursacht bei der Landung einmal alle <b>0,2</b> Sekunden Schaden, der insgesamt <b>57.2%</b> des ANG + <b>3</b> Schaden verursacht."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um „Mondfall“ auszulösen.\nVerursacht bei der Landung alle <b>0,2</b> Sek. Schaden bis zu einem Gesamtschaden von <b>57.2%</b> des ANG +<b>3</b>."
     },
     {
-      "name": "Eisschlitz",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, <b>lässt sie länger schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>16.1%</b> des ANG + <b>1</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>18.6%</b> des ANG + <b>1</b> am Zielort und an Gegnern in der Nähe."
+      "name": "Fokussierter Angriff",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, <b>lässt sie länger schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>16.1%</b> des ANG +<b>1</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Fügt am Zielort und Gegnern in der Nähe alle <b>0,3</b> Sek. Schaden in Höhe von <b>18.6%</b> des ANG +<b>1</b> zu."
     },
     {
       "name": "Volt-Welle",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichens auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Volt-Welle“ auszulösen.\nJeder Energieimpuls verursacht Schaden in Höhe von <b>22.6%</b> des ANG + <b>1</b> an Zielen.\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Volt-Welle“ auszulösen.\nJeder Energieimpuls fügt Zielen Schaden in Höhe von <b>22.6%</b> des ANG + <b>1</b> zu.\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
     },
     {
       "name": "Tesserakt",
-      "type": ["Dodge", "Attack"],
-      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Ausweichende Explosion“ auszulösen.\nDies schießt eine Energiekugel nach vorne und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>32.1%</b> des ANG + <b>2</b> an Zielen im Weg (bis zu 5-mal).\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Ausweichende Explosion“ auszulösen.\nDies schießt eine Energiekugel nach vorne und fügt allen Zielen im Weg alle <b>0,3</b> Sek. Schaden in Höhe von <b>32.1%</b> des ANG +<b>2</b> zu (bis zu 5-mal).\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
     },
     {
       "name": "Heiligtum",
-      "type": ["Skill"],
-      "description": "Erschafft einen Energieschild am Standort des Wanderers. Heilt Verbündete innerhalb des Schildes für <b>81.7%</b> des ANG + <b>4</b> pro Sekunde und verringert ihren erlittenen Schaden um <b>3%</b> für <b>10</b> Sekunden. <b>60</b> Sekunden Abklingzeit."
+      "type": [
+        "Skill"
+      ],
+      "description": "Erzeugt einen Energieschild an der Position des Wanderers. Heilt Verbündete innerhalb des Schilds jede Sekunde um <b>81.7%</b> des ANG +<b>4</b> und verringert den von ihnen erlittenen Schaden für <b>10</b> Sek. um <b>3%</b>. Abklingzeit: <b>60</b> Sek."
     },
     {
       "name": "Hauch von Ruhe",
-      "type": ["Discharge"],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>79%</b> des ANG + <b>4</b> LP."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>79%</b> des ANG + <b>4</b> LP."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
   },
   "advancement": [
     "Heilt alle Teammitglieder innerhalb von <b>10</b> Metern nach Einsetzen einer Ausweichfähigkeit um <b>100%</b> des ANG.",

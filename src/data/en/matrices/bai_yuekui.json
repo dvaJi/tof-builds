@@ -1,0 +1,34 @@
+{
+  "_id": 40013,
+  "id": "bai_yuekui",
+  "name": "Bai Yuekui",
+  "suitName": "Motive Sublimation",
+  "hash": "SSR13",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Upon switching to this weapon, if weapon charge is between <b>200</b> and <b>999</b>, consume <b>200</b> weapon charge to increase ATK by <b>15%</b>/18%/21%/25% for <b>15</b> seconds. <b>5</b>-second cooldown. This effect does not stack."
+    },
+    {
+      "count": 4,
+      "value": "For every <b>0.6</b> seconds maintained in a dischargeable state, the <b>next</b> discharge skill deals extra area damage equal to <b>106%</b>/122%/140%/160% of ATK for <b>1</b> time in a 5-meter radius, up to <b>530%</b>/610%/700%/800%. In addition, increase shatter by <b>7%</b>/14%/21%/28% for <b>4</b> seconds. This effect does not stack. This set effect works in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Seeking Truth",
+    "desc": "Have the courage to make mistakes in course of seeking scientific truth."
+  },
+  "memory": {
+    "name": "Memory & Life",
+    "desc": "One can keep making new memories as long as one keeps on living."
+  },
+  "belief": {
+    "name": "Window of Opportunity",
+    "desc": "Always be prepared for the opportunity to escape the doom."
+  },
+  "emotion": {
+    "name": "Spiritual Advent",
+    "desc": "Emotion is the source of power to advent our spirit."
+  }
+}

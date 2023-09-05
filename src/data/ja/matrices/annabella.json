@@ -1,0 +1,34 @@
+{
+  "_id": 40021,
+  "id": "annabella",
+  "name": "アナベラ",
+  "suitName": "流血奇談",
+  "hash": "SSR21",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase final damage by <b>3%</b>/3.4%/3.8%/4.2% and final crit rate by <b>2%</b>/2%/2.4%/2.4% for <b>25</b> seconds when hitting a target with a flame weapon, stacking up to <b>2</b> times. Only the effect with the highest star rating is applied when obtained repeatedly."
+    },
+    {
+      "count": 4,
+      "value": "When equipping 2 or more flame weapons, gain Flowing Fire, which increases final damage by <b>7%</b>/8%/9%/10%, and increases crit damage by an additional <b>12%</b>/14%/16%/18% for <b>25</b> seconds after landing a critical hit. For every <b>3</b> charged attacks that hit the target, restore <b>1</b> dodge attempt. Cooldown: <b>2</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly."
+    }
+  ],
+  "mind": {
+    "name": "お掃除",
+    "desc": "くだらない噂でございます。どうぞお静かに"
+  },
+  "memory": {
+    "name": "偽の命令",
+    "desc": "命令がないと、すぐに無反応状態になる"
+  },
+  "belief": {
+    "name": "無私の奉仕",
+    "desc": "――「吸血鬼」とは最も縁遠い言葉の一つ"
+  },
+  "emotion": {
+    "name": "枯れ葉",
+    "desc": "自分が心地よい範囲でしか行動しない人はいるものだ"
+  }
+}

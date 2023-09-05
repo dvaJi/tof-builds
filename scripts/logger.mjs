@@ -1,4 +1,4 @@
-import chalk from 'chalk';
+import { gray, cyan, yellow, red } from 'colorette';
 
 const LOG_LEVELS = {
   DEBUG: 0,
@@ -23,16 +23,16 @@ function log(level, ...messages) {
 
     switch (level) {
       case 'DEBUG':
-        console.debug(chalk.gray(`[${level}] ${message}`));
+        console.debug(gray(`[${level}] ${message}`));
         break;
       case 'INFO':
-        console.log(chalk.cyan(`[${level}] ${message}`));
+        console.log(cyan(`[${level}] ${message}`));
         break;
       case 'WARN':
-        console.warn(chalk.yellow(`[${level}] ${message}`));
+        console.warn(yellow(`[${level}] ${message}`));
         break;
       case 'ERROR':
-        console.error(chalk.red(`[${level}] ${message}`));
+        console.error(red(`[${level}] ${message}`));
         break;
       default:
         console.log(`[${level}] ${message}`);

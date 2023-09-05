@@ -1,8 +1,8 @@
 {
   "_id": 23,
   "id": "acidproof_glaze_ii",
-  "name": "Esmaltado Antiácido II",
+  "name": "Esmaltado Antiácido I",
   "description": "Esmaltado rediseñado luego de investigar cómo mejorar más el rendimiento de las armas.",
-  "usage": "Para aumentar las armas.",
+  "usage": "Equipo de aumento de arma aleatoria",
   "rarity": "SR"
 }

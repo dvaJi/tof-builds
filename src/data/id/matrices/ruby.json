@@ -12,12 +12,12 @@
     },
     {
       "count": 4,
-      "value": "Setelah mengaktifkan Skill Senjata, memberikan Mastery selama 15 detik dengan CD 15 detik (CD Mastery dibagi ke seluruh level). Mastery tak bisa bertumpuk. Meningkatkan Flame DMG sebesar 2%/2.5%/3%/3.5% hingga Mastery berakhir setiap kali ada target yang diserang dengan Serangan Biasa. Bisa ditumpuk maks 6 kali, dan menambahkan maks 1 tumpuk setiap 0,2 detik. Saat mencapai 6 tumpuk, akan mendapat Perisai yang bisa menahan DMG 1 kali."
+      "value": "Setelah mengaktifkan Skill Senjata, memberikan Mastery selama 15 detik dengan CD 15 detik (CD Mastery dibagi ke seluruh level). Mastery tak bisa bertumpuk. Setiap kali kamu mendaratkan Serangan Biasa pada target, Flame DMG meningkat 2%/2.5%/3%/3.5% sampai Mastery berakhir. Efek ini bisa menambahkan maksimal 1 tumpuk setiap 0,2 detik. Maks 6 tumpuk. Setelah mencapai 6 tumpuk, mendapatkan Perisai yang bisa menahan DMG 1 kali."
     }
   ],
   "mind": {
     "name": "From Behind",
-    "desc": "Kuncup lembutnya selalu dilindungi dengan hati-hati, tetapi mereka juga ingin berjalan menuju garis depan dan bersebelahan dengannya meski harus berjinjit."
+    "desc": "Kuncup lembutnya selalu dilindungi dengan hati-hati, tetapi dia juga ingin berjalan menuju garis depan dan bersebelahan dengannya meski harus berjinjit."
   },
   "memory": {
     "name": "Vapor",

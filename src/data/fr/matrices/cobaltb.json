@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Restaure 1 tentative d'esquive toutes les 4 esquives. Les attaques d'esquive brûlent leur cible, infligeant des dégâts équivalant à {0}%/{1}%/{2}%/{3}% de l'ATQ chaque seconde pendant {4} [@$seconde|secondes]."
+      "value": "Restaure 1 tentative d'esquive toutes les 4 esquives. Les attaques d'esquive brûlent leur cible, infligeant des dégâts équivalant à {0}%/{1}%/{2}%/{3}% de l'ATQ chaque seconde pendant {4} secondes."
     },
     {
       "count": 4,
@@ -24,7 +24,7 @@
     "desc": "Deux gages qui n'ont jamais été réclamés par leur propriétaire, bien qu'il ait acquitté sa dette. Peut-être les a-t-il laissés là dans un élan de générosité… à moins qu'il n'ait tout simplement oublié leur existence."
   },
   "belief": {
-    "name": "Artiste accompli",
+    "name": "Artiste accomplie",
     "desc": "Et pourquoi on ne pourrait pas appeler ça une \"œuvre d'art\" ? Vous ne pensez pas qu'une clé à molette est aussi élégante qu'un pinceau ?"
   },
   "emotion": {

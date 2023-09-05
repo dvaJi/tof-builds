@@ -8,16 +8,16 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Après avoir lancé la compétence d'arme, accroît l'ATQ de feu de 8%/10%/12%/15%. Si de multiples effets de nombre d'étoiles se produisent, celui déclenché en dernier l'emporte. Cet effet ne peut se cumuler."
+      "value": "Après avoir lancé la compétence d'arme, accroît l'ATQ de feu de 8%/10%/12%/15% pendant 25 secondes. Si de multiples effets de nombre d'étoiles se produisent, celui déclenché en dernier l'emporte. Cet effet ne peut se cumuler."
     },
     {
       "count": 4,
-      "value": "Après avoir utilisé la compétence d'arme, confère Maîtrise pendant 15 secondes avec un temps de recharge de 15 secondes (le temps de recharge de Maîtrise est le même à tous les niveaux). Maîtrise ne peut pas se cumuler. Augmente les dégâts de feu de 2%/2.5%/3%/3.5% chaque fois que la cible subit une attaque normale jusqu'à ce que Maîtrise prenne fin. Peut se cumuler jusqu'à 6 fois, au rythme maximal de 1 cumul chaque 0,2 seconde. Au bout de 6 cumuls, confère 1 bouclier qui peut bloquer les dégâts une fois."
+      "value": "Après avoir lancé la compétence d'arme, confère Maîtrise pendant 15 secondes avec un temps de recharge de 15 secondes (Maîtrise partage les temps de recharge entre les niveaux). Maîtrise n'est pas cumulable. Accroît les dégâts de feu de 2%/2.5%/3%/3.5% chaque fois que la cible est touchée par une attaque normale jusqu'à la fin de Maîtrise, en ajoutant un maximum de 1 cumul chaque 0,2 seconde jusqu'à 6 cumuls. Au bout de 6 cumuls, confère un bouclier qui peut bloquer les dégâts 1 fois."
     }
   ],
   "mind": {
     "name": "Par derrière",
-    "desc": "Les délicats boutons floraux sont toujours soigneusement protégés, mais ils veulent aussi s'avancer en première ligne et être côte à côte avec elle, même s'ils seraient sur la pointe des pieds."
+    "desc": "La délicate bulbille est toujours soigneusement protégée, mais elle veut aussi s'avancer en première ligne et être côte à côte avec elle, quitte à se tenir sur la pointe des pieds."
   },
   "memory": {
     "name": "Vapeur",

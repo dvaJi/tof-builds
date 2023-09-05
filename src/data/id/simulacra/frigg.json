@@ -4,8 +4,8 @@
   "name": "Frigg",
   "weapon": "Balmung",
   "weapon_id": "balmung",
-  "birthday": "1 Februari (Aquarius)",
-  "birthplace": "Heirs of Aida",
+  "birthday": "1 Februari",
+  "birthplace": "Angel of Clemency",
   "gender": "Perempuan",
   "info": "Pendiam, dan tegas saat bekerja. \nDia punya pemahaman dan filosofi hidup yang unik, dan akan merenungkan makna kehidupan jika sedang senggang.",
   "description": "Salah satu Angels of Clemency. Dengan tubuh yang direstrukturisasi menjadi Mesin dari logam hidup, dia bisa bertahan dari serbuan radiasi tanpa Suppressor. \n\nDia benar-benar membantu Sage, karena mematuhi setiap perintahnya tanpa syarat. Sebagai petugas utama, Frigg diberi izin untuk memimpin pasukan Heirs of Aida, tapi dia biasanya lebih suka beraksi sendiri.",
@@ -20,50 +20,68 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": ["Attack"],
-      "description": "Saat di darat, mulai 5 serangan berturut-turut dengan Balmung.\nSerangan Pertama: Menimbulkan damage sebesar <b>62.1%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kedua: Menimbulkan damage sebesar <b>46.2%</b> ATK + <b>2</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Ketiga: Menimbulkan damage sebesar <b>91.1%</b> ATK + <b>5</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Keempat: Menimbulkan damage sebesar <b>55.8%</b> ATK + <b>3</b> dan memukul mundur lawan dalam jarak dekat.\nSerangan Kelima: Menimbulkan damage sebesar <b>218.4%</b> ATK + <b>11</b> dan memukul jatuh target."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, mulai 5 serangan berturut-turut dengan Balmung.\nSerangan Pertama: Menimpakan DMG sebesar <b>62.1%</b> ATK plus <b>3</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>46.2%</b> ATK plus <b>2</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>91.1%</b> ATK plus <b>5</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>218.4%</b> ATK plus <b>11</b> dan menjatuhkan target."
     },
     {
       "name": "Aerial Discharge",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>64.4%</b> ATK + <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>72.6%</b> ATK + <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>76.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>107.9%</b> ATK + <b>6</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>168.3%</b> ATK + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>64.4%</b> ATK plus <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>72.6%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>76.7%</b> ATK plus <b>4</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>107.9%</b> ATK plus <b>6</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>168.3%</b> ATK plus <b>9</b>."
     },
     {
       "name": "Soaring Slash",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Saat menggunakan Serangan Biasa, tahan Serangan Biasa untuk mengaktifkan Soaring Slash.\nTerjang maju dengan sabetan horizontal, lalu buat target terkena Suspend saat Mid-Air sebelum Airborne dengannya. Menimbulkan maksimal <b>134.3%</b> ATK + <b>7</b> damage."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Saat menggunakan Serangan Biasa, tahan Serangan Biasa untuk mengaktifkan Soaring Slash.\nTerjang maju dengan sabetan horizontal, lalu buat target terkena Suspend sebelum mengudara dengannya. Menimbulkan maksimal <b>134.3%</b> ATK plus <b>7</b> DMG."
     },
     {
       "name": "Helix Slash",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tekan dan tahan Serangan Biasa saat Airborne, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimbulkan damage sebesar <b>19.8%</b> ATK + <b>1</b> tiap mengenai. Saat mendarat, menimbulkan damage sebesar <b>185.7%</b> ATK + <b>10</b> kepada target di sekitar."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa saat terbang, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimpakan DMG sebesar <b>19.8%</b> ATK plus <b>1</b> tiap kali menghantam target. Saat mendarat, menimpakan DMG sebesar <b>185.7%</b> ATK plus <b>10</b> kepada target di sekitar."
     },
     {
       "name": "Multislash",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa selama durasi singkat Perfect Dodge Window untuk mengaktifkan Multislash.\nMelepaskan tebasan beruntun sejauh jarak tertentu di depan pemain, menimbulkan Total DMG sebesar <b>143.9%</b> ATK + <b>8</b>."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat untuk mengaktifkan Multislash.\nMelakukan tebasan beruntun sejauh jarak tertentu di depan pemain, menimpakan DMG dengan total sebesar <b>143.9%</b> ATK plus <b>8</b>."
     },
     {
       "name": "Fimbulwinter",
-      "type": ["Skill"],
-      "description": "Menebas area di sekitar Wanderer, dan menimbulkan DMG sebesar <b>577.5%</b> ATK + <b>30</b> sehingga mengakibatkan Launch dan Suspend kepada target dan memberikan DMG Immunity kepada pemain selama durasi skill ini. CD: <b>30</b> detik.\nSetelah melepaskan <b>\"Fimbulwinter\"</b>, Frost Domain yang luas akan terbentuk di sekitar Wanderer selama <b>25</b> detik. Dodge tidak akan berkurang saat kamu menghindar dengan Balmung dalam Frost Domain.\nMemberikan \"Domain of Frost I\" saat kamu berada di dalam Frost Domain: Saat menggunakan Senjata Frost, Shatter akan meningkat sebesar <b>25%</b> dan Frost ATK akan meningkat sebesar <b>15%</b>."
+      "type": [
+        "Skill"
+      ],
+      "description": "Menebas area di sekitar Wanderer, menimpakan DMG sebesar <b>577.5%</b> ATK plus <b>30</b>, membuat target terpental ke atas dan menahan mereka di udara, dan mendapatkan Imunitas DMG selama skill ini digunakan. CD: <b>30</b> detik.\nSetelah mengeluarkan <b>\"Fimbulwinter\"</b>, akan terbentuk Frost Domain yang luas di sekitar Wanderer yang aktif selama <b>25</b> detik. Jatah Menghindar tidak akan berkurang saat kamu Menghindar dengan Balmung dalam Frost Domain.\nSaat berada di dalam Frost Domain, kamu mendapatkan \"Domain of Frost I\": Saat menggunakan Senjata Frost, Shatter meningkat <b>25%</b>, sedangkan Frost ATK meningkat <b>15%</b>."
     },
     {
       "name": "Frigid Fracture",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>semua debuff akan dihilangkan dari pemain</b>. Setelah berganti ke senjata ini, pemain melesat ke depan, mengendalikan musuh di suatu area untuk sementara, kemudian melancarkan tebasan raksasa. Mengakibatkan Launch kepada target ke udara dan menimbulkan DMG sebesar <b>618.2%</b>ATK + <b>33</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>. Selain itu, penggunanya akan menerjang maju dan menyerang musuh di sekitar, menerapkan efek kontrol kepada mereka, dan dilanjutkan dengan sabetan besar. Serangan ini membuat target terpental ke atas dan menimpakan DMG sebesar <b>618.2%</b>ATK plus <b>33</b>."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze Kuat</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika lapisan es ini dipecahkan, target akan menerima DMG sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, kecepatan pengisian Charge Senjata target berkurang <b>50%</b>."
   },
   "weapon_resonance": {
-    "name": "Frost Resonance",
-    "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Frost atau lebih. Efek set ini berfungsi di slot sampingan. Tak bisa bertumpuk dengan efek dari tipe yang sama"
+    "name": "Resonansi Frost",
+    "description": "<b>Resonansi Frost</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Frost atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tak bisa bertumpuk dengan efek dari tipe yang sama"
   },
   "advancement": [
-    "Mendapatkan <b>1</b> poin Frostiness setiap kali kamu menimbulkan DMG sebesar <b>550%</b> x Frost ATK dalam Frost Domain. Frostiness bisa diakumulasikan maks <b>10</b> poin.\nSaat Frost Domain habis, Blast DMG sebesar poin Frostiness x Frost ATK x <b>95%</b> akan ditimbulkan kepada musuh yang ada di dalam Frost Domain. Setelah keluar dari Frost Domain, <b>1</b> poin Frostiness akan hilang setiap <b>3</b> detik.",
+    "Mendapatkan <b>1</b> poin Frostiness setiap kali kamu menimpakan DMG elemen sebesar <b>550%</b> x Frost ATK selama berada di dalam Frost Domain. Frostiness bisa diakumulasikan sampai <b>10</b> poin.\nSaat Frost Domain berakhir, Blast DMG sebesar poin Frostiness x Frost ATK x <b>95%</b> akan ditimpakan kepada musuh yang ada di dalam Frost Domain. Setelah keluar dari Frost Domain, <b>1</b> poin Frostiness akan hilang setiap <b>3</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>16%</b>.",
     "Meningkatkan batas Frostiness menjadi <b>15</b>. Penggunaan Skill Discharge dengan Senjata Frost di dalam Frost Domain akan menimbulkan DMG sebesar <b>25%</b> Frost ATK x (Frostiness saat ini + 5) kepada semua target di Frost Domain.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",

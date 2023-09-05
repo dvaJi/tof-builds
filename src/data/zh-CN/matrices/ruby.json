@@ -1,0 +1,34 @@
+{
+  "_id": 40016,
+  "id": "ruby",
+  "name": "蕾贝",
+  "suitName": "白兔舞曲",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increases flame ATK after casting weapon skill by <b>8%</b>/10%/12%/15% for <b>25</b> seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack."
+    },
+    {
+      "count": 4,
+      "value": "Grant Mastery after casting weapon skill for <b>15</b> seconds, with a cooldown of <b>15</b> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by <b>2%</b>/2.5%/3%/3.5% every time the target is hit with a normal attack until the end of Mastery, adding a maximum of <b>1</b> stack every <b>0.2</b> seconds, up to <b>6</b> stacks. After <b>6</b> stacks, gain a shield that can block damage <b>1</b> time."
+    }
+  ],
+  "mind": {
+    "name": "背影之后",
+    "desc": "细嫩的幼芽总是被精心庇护着，但也会想从背影后走到前方与她并肩，踮起脚并肩。"
+  },
+  "memory": {
+    "name": "模糊水汽",
+    "desc": "像蒸腾的水蒸气般朦胧看不真切，所谓过去之事是否也只是梦中的幻景呢？"
+  },
+  "belief": {
+    "name": "如影随形",
+    "desc": "虽然总是要一路小跑才能跟得上，但如果真的掉队了，她会在不远处等着你的。"
+  },
+  "emotion": {
+    "name": "多莉与火花",
+    "desc": "蕾贝的朋友，蕾贝最好的朋友。"
+  }
+}

@@ -8,16 +8,16 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Erhöht nach Einsetzen der Waffenfähigkeit den Flammen-ANG 25 Sek. lang um 8%/10%/12%/15%. Wenn mehrere Sternenbewertungseffekte ausgelöst werden, hat der zuletzt ausgelöste Effekt Vorrang. Dieser Effekt kann nicht gestapelt werden."
+      "value": "Erhöht nach Einsetzen der Waffenfähigkeit den Flammen-ANG 25 Sek. lang um 8%/10%/12%/15%. Wenn mehrere Sternebewertungseffekte ausgelöst werden, hat der zuletzt ausgelöste Effekt Vorrang. Dieser Effekt kann nicht gestapelt werden."
     },
     {
       "count": 4,
-      "value": "Gewährt nach Einsetzen der Waffenfähigkeit für 15 Sek. „Beherrschung“ (Abklingzeit 15 Sek.; Abklingzeit aller Stufen identisch). „Beherrschung“ ist nicht stapelbar. Erhöht den Flammenschaden bis zum Ende von „Beherrschung“ um 2%/2.5%/3%/3.5%, wenn ein Ziel mit einem normalen Angriff getroffen wird. Bis zu 6-mal stapelbar. Es kann maximal 1 Stapel alle 0,2 Sek. hinzugefügt werden. Bei 6 Stapeln wird ein Schild gewährt, der einmal Schaden blockt."
+      "value": "Verleiht nach Einsetzen der Waffenfähigkeit für 15 Sek. „Beherrschung“ (Abklingzeit 15 Sek.; Abklingzeit aller Stufen identisch). „Beherrschung“ ist nicht stapelbar. Erhöht den Flammenschaden bis zum Ende von „Beherrschung“ um 2%/2.5%/3%/3.5%, wenn ein Ziel mit einem normalen Angriff getroffen wird. Es kann maximal 1 Stapel alle 0,2 Sek. hinzugefügt werden und ist bis zu 6 Mal stapelbar. Bei 6 Stapeln wird ein Schild gewährt, der 1 Mal Schaden blockt."
     }
   ],
   "mind": {
     "name": "Von hinten",
-    "desc": "Die empfindlichen Knospen werden immer sorgfältig beschützt, doch sie möchten auch an der Front stehen und mit ihr Seite an Seite zu kämpfen, auch wenn sie dabei in Gefahr sind."
+    "desc": "Diese empfindliche Knospe wird immer sorgfältig beschützt, doch auch sie möchte an der Front stehen und Seite an Seite mit ihr kämpfen, auch wenn sie dabei auf den Zehenspitzen stehen muss."
   },
   "memory": {
     "name": "Schleier",

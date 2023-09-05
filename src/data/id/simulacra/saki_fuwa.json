@@ -4,7 +4,7 @@
   "name": "Saki Fuwa",
   "weapon": "Heartstream",
   "weapon_id": "heartstream",
-  "birthday": "11 Oktober (Libra)",
+  "birthday": "11 Oktober",
   "birthplace": "Pasukan Keamanan Khusus Mirroria",
   "gender": "Perempuan",
   "info": "Di balik penampilannya yang kekanak-kanakan, ada sifat yang sangat bertolak belakang dengan penampilan luarnya yang menipu ini. Pada dasarnya, dia adalah \"orang dewasa mini\" dalam segala aspek.\nWalau begitu, ada kalanya ketika usia dan penampilan aslinya muncul ke permukaan—ketika tak ada siapa-siapa di sekitarnya, dia kadang latihan meneriakkan kalimat-kalimat seruan seakan-akan dia sedang dalam pertempuran sengit. Dia suka mengumpulkan mainan figurin dari masa lalu dan bisa dibilang dia sangat antusias dengan hobinya ini.",
@@ -20,59 +20,78 @@
   "skills": [
     {
       "name": "Ragestream",
-      "type": ["Attack"],
-      "description": "Melakukan 5 serangan Heartstream saat di darat.\nSerangan pertama menimpakan DMG sebesar <b>42.5%</b> ATK + <b>2</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan kedua menimpakan DMG sebesar <b>29.5%</b> ATK + <b>2</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan ketiga menimpakan DMG sebesar <b>45%</b> ATK + <b>2</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan keempat menimpakan DMG sebesar <b>70.6%</b> ATK + <b>4</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan kelima menimpakan DMG sebesar <b>102.6%</b> ATK + <b>5</b> kepada target dan membuatnya terpental ke udara.\n"
+      "type": [
+        "Attack"
+      ],
+      "description": "Melakukan 5 serangan Heartstream saat di darat.\nSerangan pertama menimpakan DMG sebesar <b>42.5%</b> ATK plus <b>2</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan kedua menimpakan DMG sebesar <b>29.5%</b> ATK plus <b>2</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan ketiga menimpakan DMG sebesar <b>45%</b> ATK plus <b>2</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan keempat menimpakan DMG sebesar <b>70.6%</b> ATK plus <b>4</b> kepada target dan membuatnya terpental sedikit ke belakang.\nSerangan kelima menimpakan DMG sebesar <b>102.6%</b> ATK plus <b>5</b> kepada target dan membuatnya terpental ke atas."
     },
     {
       "name": "Airsplit",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>47.2%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>43.7%</b> ATK + <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>54.2%</b> ATK + <b>3</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>76.9%</b> ATK + <b>4</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>170.2%</b> ATK + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>47.2%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>43.7%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>54.2%</b> ATK plus <b>3</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>76.9%</b> ATK plus <b>4</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>170.2%</b> ATK plus <b>9</b>."
     },
     {
       "name": "Excited Flow: Vortex",
-      "type": ["Hold: Attack"],
-      "description": "Dalam mode Excited Flow, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan skill ini.\nTerjang ke depan sambil melakukan serangan berputar beberapa kali untuk menimpakan DMG hingga paling banyak <b>199.5%</b> ATK + <b>11</b>."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Dalam mode Excited Flow, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan skill ini.\nTerjang ke depan sambil melakukan serangan berputar beberapa kali untuk menimpakan DMG hingga maks <b>199.5%</b> ATK plus <b>11</b>."
     },
     {
       "name": "Frostfall",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tekan dan tahan Serangan Biasa saat di udara, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkannya.\nSaat jatuh, menimpakan DMG sebesar <b>30.4%</b> ATK + <b>2</b> tiap kali menghantam target. Saat mendarat, menimbulkan DMG sebesar <b>76%</b> ATK + <b>4</b> kepada target di sekitar."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa saat di udara, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkannya.\nSaat jatuh, menimpakan DMG sebesar <b>30.4%</b> ATK plus <b>2</b> tiap kali menghantam target. Saat mendarat, menimbulkan DMG sebesar <b>76%</b> ATK plus <b>4</b> kepada target di sekitar."
     },
     {
-      "name": "Dodge",
-      "type": ["Dodge"],
-      "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Menjadi kebal terhadap Hitstun selama <b>0,5</b> detik saat menghindar."
+      "name": "Menghindar",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama <b>0,5</b> detik."
     },
     {
       "name": "Polar Front",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah menghindar.\nMelesat dan berputar untuk menyerang target, menimpakan DMG sebesar <b>277%</b> ATK + <b>15</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar.\nMelesat dan berputar untuk menyerang target, menimpakan DMG dengan total sebesar <b>277%</b> ATK plus <b>15</b>."
     },
     {
       "name": "Excited Flow: Flashing Stream",
-      "type": ["Skill"],
-      "description": "Menerjang ke arah target sambil melumpuhkan musuh yang dilewati untuk sementara waktu, menimpakan DMG setelah beberapa saat sebesar maks <b>445.3%</b> ATK + <b>23</b>. CD: <b>30</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Menerjang ke arah target sambil melumpuhkan musuh yang dilewati untuk sementara waktu, menimpakan DMG setelah jeda singkat dengan nilai maksimalnya sebesar <b>445.3%</b> ATK plus <b>23</b>. CD: <b>30</b> detik."
     },
     {
       "name": "Silent Flow: Concentrated Stream",
-      "type": ["Discharge"],
-      "description": "Lakukan skill Silent Flow untuk memasuki status charge hingga <b>3</b> detik, melakukan Taunt secara terus-menerus kepada target di dekatnya dan menyerap DMG hingga <b>60%</b> dari Max HP. Pada akhir status charge, menimpakan Frost DMG sebesar <b>850%</b> Frost ATK + <b>50%</b> DMG yang diserap ke target, dan <b>20%</b> dari nilai yang tidak terkonsumsi dikonversi menjadi pemulihan HP. CD: <b>30</b> detik.\n\nMasuk ke mode Silent Flow ketika Fortitude Resonance diaktifkan. <b>Excited Flow: Flashing Stream</b> digantikan oleh <b>Silent Flow: Concentrated Stream</b>. Masuk ke Excited Flow ketika Fortitude Resonance tidak diaktifkan. \nWanderer bisa mendapatkan Sword Shadow yang mengikuti mereka ketika menggunakan skill Saki Fuwa. Sword Shadow akan mengeluarkan Surge ketika Wanderer menggunakan Skill Branch Saki Fuwa atau Skill Discharge, memberikan DMG jarak jauh sebesar <b>450%</b> Frost ATK. CD Surge: <b>10</b> detik.\nDalam keadaan Excited Flow: Sword Shadow akan mengeluarkan Flow ketika Wanderer menimpakan DMG dengan senjata apa pun, yang menimpakan DMG sebesar <b>125%</b> Frost ATK pada target yang pertama terhantam dan memulihkan HP sebesar <b>57%</b> DMG. Setiap pemulihan tidak akan melebihi <b>100%</b> ATK. CD: <b>0,8</b> detik.\nDalam keadaan Silent Flow: Setelah Sword Shadow mengeluarkan Surge, Wanderer memperoleh <b>3</b> blok selama <b>10</b> detik, dan kapasitas blok maksimum tidak akan melebihi <b>15%</b> Max HP. Setiap blok yang berhasil dilakukan akan menimpakan DMG serangan balik sebesar <b>450%</b> Frost ATK ke target, dan Shatter dari Surge meningkat <b>100%</b> dengan tambahan efek Taunt."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Aktifkan skill Silent Flow untuk mulai mengumpulkan tenaga hingga maks <b>3</b> detik, menerapkan Taunt secara terus-menerus kepada target di sekitar, dan menyerap DMG hingga <b>60%</b> Max HP. Di akhir durasi pengumpulan tenaga, menimpakan Frost DMG kepada target sebesar <b>850%</b> Frost ATK plus <b>50%</b> x DMG yang diserap. <b>20%</b> dari nominal yang tersisa akan dikonversi menjadi pemulihan HP. CD: <b>30</b> detik.\n\nJika Resonansi Fortitude sedang aktif, masuk ke Silent Flow. <b>Excited Flow: Flashing Stream</b> digantikan dengan <b>Silent Flow: Concentrated Stream</b>. Jika Resonansi Fortitude tidak aktif, masuk ke Excited Flow.\nWanderer bisa mendapatkan Sword Shadow, yang akan mengikuti saat menggunakan skill Saki Fuwa. Sword Shadow akan mengeluarkan Surge saat Wanderer menggunakan Skill Branch atau Skill Discharge Saki Fuwa, menimpakan DMG jarak jauh sebesar <b>450%</b> Frost ATK. CD Surge: <b>10</b> detik.\nDalam kondisi Excited Flow: Sword Shadow akan mengeluarkan Flow saat Wanderer menimpakan DMG dengan senjata apa pun, yang menimpakan DMG sebesar <b>125%</b> Frost ATK kepada target yang terhantam pertama kali dan memulihkan HP sebesar <b>57%</b> DMG tersebut. Jumlah maksimum untuk setiap pemulihan tak bisa lebih dari <b>100%</b> ATK. CD: <b>0,8</b> detik.\nDalam kondisi Silent Flow: Setelah Sword Shadow mengeluarkan Surge, Wanderer mendapatkan <b>3</b> jatah blok selama <b>10</b> detik, di mana kapasitas blok tak bisa lebih dari <b>15%</b> Max HP. Setiap kali berhasil melakukan blok, menimpakan DMG dengan serangan balasan sebesar <b>450%</b> Frost ATK kepada target dan nilai Shatter dari Surge meningkat <b>100%</b>, lengkap dengan tambahan efek Taunt."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze Kuat</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika lapisan es ini dipecahkan, target akan menerima DMG sebesar <b>151%</b> ATK. Saat dalam kondisi Frostbite, kecepatan pengisian Charge Senjata target berkurang <b>50%</b>."
   },
   "weapon_resonance": {
-    "name": "Frost Resonance",
-    "description": "<b>Frost Resonance</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Frost atau lebih. Efek set ini berfungsi di slot sampingan."
+    "name": "Resonansi Frost",
+    "description": "<b>Resonansi Frost</b>: Meningkatkan Frost ATK sebesar <b>15%</b> dan Frost Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Frost atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan."
   },
   "advancement": [
-    "Saat Frost Resonance diaktifkan, CD semua Skill Senjata ditiadakan setiap <b>5</b> kali Skill Senjata digunakan, dan DMG dari Flow dan Serangan Balasan ditingkatkan <b>1</b> kali untuk <b>25</b> detik berikutnya.",
+    "Saat Resonansi Frost diaktifkan, CD semua Skill Senjata ditiadakan setiap <b>5</b> kali Skill Senjata digunakan, dan DMG dari Flow dan Serangan Balasan ditingkatkan <b>1</b> kali untuk <b>25</b> detik berikutnya.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
     "Excited Flow: Meningkatkan DMG Sword Shadow: Surge menjadi <b>900%</b> Frost ATK.\nSilent Flow: CD dari Sword Shadow: Surge menjadi <b>5</b> detik.",
     "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
-    "Menghentikan waktu dan mengaktifkan Phantasia saat Surge mengenai target. CD sama dengan Phantasia yang diaktifkan dengan cara menghindar.",
+    "Menghentikan waktu dan memicu Phantasia saat Surge mengenai target. CD sama dengan Phantasia yang diaktifkan dengan cara menghindar.",
     "Saat menyerang target dengan Surge, meningkatkan Frost DMG sebesar <b>11%</b> selama <b>15</b> detik.\nSaat menangkis dengan Sword Shadow, mengurangi Frost DMG yang ditimpakan musuh sebesar <b>25%</b> selama <b>12</b> detik."
   ],
   "traits": [
@@ -82,7 +101,7 @@
     },
     {
       "name": "Guarding Sword",
-      "description": "Saat HP kurang dari <b>70%</b>, semua Resistance akan meningkat <b>40%</b> dengan peningkatan ekstra sebesar <b>60%</b> untuk Frost Resistance. Dalam status Silent Flow: Setelah Sword Shadow melepaskan Surge dan memblokir serangan, kawan tim dengan persentase HP terendah akan mendapatkan 3 jatah memblokir serangan, tidak termasuk dirimu sendiri, yang aktif selama <b>10</b> detik. DMG yang diblokir tak bisa melebihi <b>15%</b> Max HP kawan tim tersebut."
+      "description": "Saat HP kurang dari <b>70%</b>, semua Resistance akan meningkat <b>40%</b> dengan peningkatan ekstra sebesar <b>60%</b> untuk Frost Resistance. Dalam status Silent Flow: Setelah Sword Shadow melepaskan Surge dan memblokir serangan, kawan tim dengan persentase HP terendah selain dirimu akan mendapatkan 3 jatah memblokir serangan yang aktif selama <b>10</b> detik. DMG yang diblokir tak bisa melebihi <b>15%</b> Max HP kawan tim tersebut."
     }
   ],
   "ascension": [

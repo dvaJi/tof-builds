@@ -1,0 +1,34 @@
+{
+  "_id": 40031,
+  "id": "rubilia",
+  "name": "Rubilia",
+  "suitName": "Recherche",
+  "hash": "SSR31",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase volt ATK by <b>14.5%</b>/16.5%/18.5%/20.5%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Increase Crystamax thorn limit to <b>6</b>. After landing a hit with a volt weapon, all elemental damage is increased by <b>13%</b>/16%/19%/22% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Voyageuse",
+    "desc": "Elle hésite, mais s'accroche toujours aux espoirs les plus sombres."
+  },
+  "memory": {
+    "name": "Illumination",
+    "desc": "Illumine-moi, guide-moi."
+  },
+  "belief": {
+    "name": "Renaissance",
+    "desc": "Elle pensait que cela pourrait se terminer de plusieurs façons, mais ceci était complètement différent de ses attentes."
+  },
+  "emotion": {
+    "name": "Parenté",
+    "desc": "Son instinct et son humanité l'appellent. Ses choix vous inquiètent ?"
+  }
+}

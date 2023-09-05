@@ -1,0 +1,334 @@
+{
+  "_id": 13,
+  "id": "lyra",
+  "name": "Lyra",
+  "weapon": "Véspera",
+  "weapon_id": "vesper",
+  "birthday": "23 de junho",
+  "birthplace": "Fundo Maidelin",
+  "gender": "Feminino",
+  "info": "Pouquíssimos sabem que a atual gerente da Fundação Maidelin, uma mulher desapegada, serena e discreta, existe.\nEla não é de se intrometer, mas ajuda quando as coisas saem do eixo.\n\"Só estou cumprindo a vontade da Srta. Maidelin.\"",
+  "description": "A única herdeira da Srta. Maidelin, uma contribuinte célebre a diversos campos da tecnologia, e que foi considerada parte da família pela própria.\n\nNão é mais possível identificar como realizar o último desejo da Srta. Maidelin e quais são as razões por trás das decisões dela... Mas Lyra demonstra uma atitude similar à de Maidelin no que se trata de administração.\n\nDevido à parceria de trabalho com a Hykros, Lyra tem certa influência na hierarquia da organização, embora pouquíssimas pessoas saibam disso por conta da personalidade discreta dela.",
+  "like": "Violino",
+  "dislike": "Germes, manchas que não saem",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Support",
+  "resonance": "DPS",
+  "shatter": 12,
+  "charge": 10,
+  "skills": [
+    {
+      "name": "Passiva de Ataque Normal da Véspera",
+      "type": [
+        "Passive"
+      ],
+      "description": "<span class=\"text-green\">Alumbramento</span>: O ataque normal da Véspera sem ressonância de bendição causa dano extra aos alvos com <b>marca de alumbramento</b>, equivalente ao número de guardas que você carrega x <b>6,4%</b> do ATQ (não mais do que 38,4% x ATQ ao todo). Esse dano não aciona efeitos de ataque extras e é considerado habilidade de descarga e dano de habilidade de arma.\n\nO ataque normal da Véspera com ressonância de bendição causa dano extra aos alvos com <b>marca de alumbramento</b>, equivalente ao número de guardas que você e seus colegas carregam x <b>4,6%</b> do ATQ (não mais do que 36,8% x ATQ ao todo). Esse dano não aciona efeitos de ataque extras e é considerado habilidade de descarga e dano de habilidade de arma.\n<span class=\"text-green\">Brilhante</span>: Ao atingir, todos os ataques normais da Véspera restauram vida equivalente a <b>15%</b> do ATQ.\n<span class=\"text-green\">Golpe sagrado</span>: A Detonação Aérea e a Acumulação da Véspera podem converter 60% da carga em despedaçar.\n<span class=\"text-green\">Guarda</span>: A cada <b>15%</b> de vida perdida ou a cada <b>300</b> cargas de arma ganhas, você obtém até <b>5</b> guardas do alumbramento para si (o efeito também se ativa no espaço secundário). O guarda do alumbramento dura <b>25</b> segundos. Se você estiver com o máximo de guardas do alumbramento, os novos guardas do alumbramento vão atacar inimigos, causando dano físico de <b>120%</b> do ATQ, e depois vão desaparecer. Esse dano não aciona efeitos de ataque extras.\n\nObservação: Em Fantasma do Passado, a Véspera não é considerada uma arma de suporte."
+    },
+    {
+      "name": "Ataque Normal da Véspera",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, use Véspera para executar 5 ataques consecutivos.\nPrimeiro ataque: causa dano de <b>81.6%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>59.1%</b> do ATQ + <b>3</b> e repele o alvo uma boa distância. \nTerceiro ataque: causa dano de <b>123.9%</b> do ATQ + <b>7</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>173%</b> do ATQ + <b>9</b> e suspende o alvo.\nQuinto ataque: causa dano de <b>196.4%</b> do ATQ + <b>10</b> e lança o alvo no ar."
+    },
+    {
+      "name": "Frustração",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, use o botão de ataque normal para usar Frustração. Cada soco causa dano de <b>33.2%</b> do ATQ + <b>2</b> e consome <b>10</b> de vigor. O último golpe causa dano de <b>556.6%</b> do ATQ + <b>29</b> e lança o alvo no ar.\nAo usar Frustração, você agarra o alvo (se possível) e o joga no chão, causando dano total de <b>124.5%</b> do ATQ + <b>7</b>."
+    },
+    {
+      "name": "Acumulação",
+      "type": [
+        "Attack"
+      ],
+      "description": "Segure o botão de ataque normal por até <b>3</b> cargas. <b>Suspende muito</b> o alvo ao atingir, e você fica imune a dano e efeitos de controle durante um ataque de Acumulação. Usar antes de sofrer um golpe pode desencadear Phantasia.\nFase 1 do ataque carregado: causa dano de <b>96%</b> do ATQ + <b>5</b>.\nFase 2 do ataque carregado: causa dano de <b>223%</b> do ATQ + <b>12</b>.\nFase 3 do ataque carregado: causa dano de <b>360.5%</b> do ATQ + <b>19</b>."
+    },
+    {
+      "name": "Cintilada",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal durante ataques normais ou após se esquivar para usar Cintilada. Cada soco causa dano de <b>20%</b> do ATQ + <b>1</b> e consome <b>10</b> de vigor. Solte para acionar Acumulação."
+    },
+    {
+      "name": "Bordoada",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, segure o botão de ataque normal para acionar 3 cargas. Solte para esmurrar o chão e <b>suspender muito</b> os alvos. Soltar antes de sofrer um golpe pode desencadear Phantasia.\nFase 1 do ataque carregado: causa dano de <b>166.3%</b> do ATQ + <b>9</b>.\nFase 2 do ataque carregado: causa dano de <b>288.2%</b> do ATQ + <b>15</b>.\nFase 3 do ataque carregado: causa dano de <b>454.4%</b> do ATQ + <b>24</b>."
+    },
+    {
+      "name": "Captura Mental",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Após se esquivar, use o botão de ataque normal para puxar o alvo até você e segurá-lo durante <b>2</b> segundos. Causa dano de <b>261.4%</b> do ATQ + <b>14</b>. Segurar o ataque normal após se esquivar pode acionar <b>Cintilada</b> após liberar <b>Captura Mental</b>."
+    },
+    {
+      "name": "Esquiva",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, que reduz a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante <b>0,5</b> segundo e recupera <b>250</b> de vigor."
+    },
+    {
+      "name": "Guarda do perdão",
+      "type": [
+        "Skill"
+      ],
+      "description": "<span class=\"text-green\">Guarda do perdão</span>: Quando o efeito de cura excede a vida máxima, confere um escudo de vida equivalente a <b>60%</b> da vida máxima. Quando a Véspera tem guarda do perdão, efeitos de guarda variados são ativados de acordo com a ressonância.\n<span class=\"text-green\">Guarda da bendição</span>: A habilidade é substituída por <b>Luminascer</b>, e você não ganha mais guardas do alumbramento, que são convertidos em guardas do perdão para colegas. Ganha um guarda do perdão a cada <b>15%</b> curados da vida máxima, e confere até 1 guarda do perdão a cada colega. Se cada colega tiver um, o guarda do perdão causa dano físico de <b>120%</b> do ATQ a um inimigo e desaparece. Esse dano não aciona efeitos de ataque extras. Além disso, aumenta a sua vida máxima e a dos colegas em <b>12,5%</b>. Não acumula.\n<span class=\"text-green\">Guarda do ataque</span>: Ao atingir um inimigo com uma habilidade da Véspera, você ganha um escudo equivalente a <b>30%</b> da vida máxima imediatamente. Tempo de recarga: <b>30</b> seg.\n<span class=\"text-green\">Guarda da coragem</span>: Ao atingir um inimigo com uma habilidade da Véspera, você ganha cura imediatamente, restaurando <b>2%</b> da vida máxima por segundo durante <b>20</b> segundos. Tempo de recarga: <b>30</b> seg.\n <span class=\"text-green\">Guarda do equilíbrio</span>: Quando a vida for superior a <b>50%</b>, aumenta o despedaçar em <b>20%</b>. Quando a vida for inferior a <b>50%</b>, aumenta o dano final em <b>10%</b> e o despedaçar em <b>10%</b>."
+    },
+    {
+      "name": "Estrela Cadente",
+      "type": [
+        "Skill"
+      ],
+      "description": "Salta na direção do alvo. Causa dano de <b>702.1%</b> do ATQ + <b>37</b> e o <b>suspende muito</b>. Inflige uma marca de alumbramento ao alvo durante <b>18</b> segundos. Tempo de recarga: <b>20</b> seg."
+    },
+    {
+      "name": "Luminascer",
+      "type": [
+        "Skill"
+      ],
+      "description": "Esmurra o chão e <b>lança alto no ar</b> os alvos à frente, causando dano de <b>702.1%</b> do ATQ + <b>37</b> e evocando até <b>3</b> <b>lâminas</b> durante <b>75</b> segundos (até 1 lâmina a cada 2 metros). Esta habilidade pode ser utilizada até <b>3</b> vezes, e cada vez tem um tempo de recarga de <b>20</b> segundos. Quando há 2 <b>lâminas</b> no campo, um <b>elucidar</b> é criado. Ao tocar em uma <b>lâmina</b>, ela cura os alvos dentro do raio de movimento, restaurando vida equivalente a <b>25%</b> do ATQ do alvo. Quando há 3 <b>lâminas</b> no campo, uma <b>nebulosa</b> é criada. Ao tocar em uma <b>lâmina</b>, ela causa dano aos alvos dentro do raio de movimento igual a <b>150%</b> do ATQ x distância de movimento / <b>5</b> m."
+    },
+    {
+      "name": "Suspiro Melódico",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e libera Suspiro Melódico ao trocar para esta arma, que causa dano de <b>748.1%</b> do ATQ + <b>39</b> e adiciona uma marca de alumbramento ao alvo durante <b>18</b> segundos, período no qual a imunidade a dano dura <b>2,6</b> segundos (indisponível na Liga do Apogeu)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Lesão",
+    "description": "Com carga completa, o ataque seguinte da arma causa dano de <b>{1}%</b> do ATQ e inflige lesão ao alvo durante <b>7</b> segundos, que então sofre <b>20%</b> a mais de dano. Em <yellow_lbl_14_1>jogo em equipe</>, os alvos com lesão sofrem <b>20%</b> a mais de dano físico."
+  },
+  "weapon_resonance": {
+    "name": "Ressonância física",
+    "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>15%</b> e a resistência física em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com outros efeitos de ressonância física ou reação física, e a ressonância física surte efeito primeiro.\n<b>Bendição física</b>: Aumenta o ATQ físico em <b>5%</b> enquanto ressonância de bendição estiver em vigor."
+  },
+  "advancement": [
+    "Ao usar qualquer habilidade de arma ou descarga, se você estiver com o máximo de guardas, a duração do guarda será atualizada, causando dano físico ao inimigo de <b>100%</b> do ATQ físico x o número de guardas. Até 8 guardas sob o efeito de bendição, e até 6 sem o efeito.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Aumenta todo o dano causado por guardas em <b>20%</b>, e aumenta o dano final do alvo protegido em <b>15%</b> durante <b>10 segundos</b> ao usar qualquer habilidade de arma ou descarga sob o efeito de ressonância de bendição.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Guarda do perdão: Após gerar ressonância 5 vezes, recebe <b>1</b> chance de anular dano fatal para si e para o alvo protegido. Após um colega anular dano fatal, ele consome guarda do perdão e recupera <b>5%</b> da vida máxima. Indisponível na Liga do Apogeu.\nGuarda do alumbramento: Após gerar ressonância 5 vezes e tendo guarda do alumbramento, recebe <b>2</b> chances de anular dano fatal. Acumula até <b>5</b> vezes. Após o usuário anular dano fatal, ele consome 1 acúmulo de guarda do alumbramento e recupera <b>5%</b> da vida máxima. Indisponível na Liga do Apogeu.",
+    "Ao usar qualquer habilidade de arma ou descarga, o aumento do dano final e da cura depende do número de guardas. Cada guarda aumenta em <b>1.6%</b> o dano final e a cura, limitado a <b>8%</b> durante <b>25 segundos</b>."
+  ],
+  "traits": [
+    {
+      "name": "Cardioalternância",
+      "description": "Ressonância de bendição: Aumenta a vida máxima em {0}% para toda a equipe. Não acumula.",
+      "values": [
+        10
+      ]
+    },
+    {
+      "name": "Bênção",
+      "description": "Ressonância de bendição: Aumenta a vida máxima em {0}% para toda a equipe. Esse efeito não se acumula. Aumenta a sua vida máxima em {1}% a mais. Cada vez que você usar a habilidade enquanto estiver com corpo de aço ou mais de 50% da vida, todos os seus colegas vão ganhar corpo de aço durante {2} segundos.",
+      "values": [
+        10,
+        50,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Corpo reforçado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

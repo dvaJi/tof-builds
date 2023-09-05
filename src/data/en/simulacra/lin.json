@@ -4,7 +4,7 @@
   "name": "Lin",
   "weapon": "Shadoweave",
   "weapon_id": "shadoweave",
-  "birthday": "September 3 (Virgo)",
+  "birthday": "September 3",
   "birthplace": "Hykros District 7",
   "gender": "Female",
   "info": "A young officer exuding an imposing aura.\nA clean freak who can't stand a single speck of dust. She also holds herself and others to high standards. This makes her seem a stickler for rules, but she is amiable to discussions.\nHer elite education made her what she is today: A decisive, competent perfectionist.",
@@ -20,57 +20,79 @@
   "skills": [
     {
       "name": "Normal Attack",
-      "type": ["Attack"],
-      "description": "While on the ground, use Shadoweave to launch 5 consecutive attacks.\nFirst Attack: Deal damage equal to <b>59.9%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>57.1%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>49.5%</b> of ATK + <b>3</b>. \nFourth Attack: Deal damage equal to <b>114.2%</b> of ATK + <b>6</b> and suspend the target.\nFifth Attack: Deal damage equal to <b>152.2%</b> of ATK + <b>8</b>."
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, use Shadoweave to launch 5 consecutive attacks.\nFirst Attack: Deal damage equal to <b>59.9%</b> of ATK plus <b>3</b>.\nSecond Attack: Deal damage equal to <b>57.1%</b> of ATK plus <b>3</b>.\nThird Attack: Deal damage equal to <b>49.5%</b> of ATK plus <b>3</b>. \nFourth Attack: Deal damage equal to <b>114.2%</b> of ATK plus <b>6</b> and suspend the target.\nFifth Attack: Deal damage equal to <b>152.2%</b> of ATK plus <b>8</b>."
     },
     {
       "name": "Aerial Discharge",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne, use normal attack to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>30.6%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>55.6%</b> of ATK + <b>3</b>.\nThird Attack: Deal damage equal to <b>48.2%</b> of ATK + <b>3</b>.\nFourth Attack: Deal damage equal to <b>111.2%</b> of ATK + <b>6</b>.\nFifth Attack: Deal damage equal to <b>148.3%</b> of ATK + <b>8</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>30.6%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal damage equal to <b>55.6%</b> of ATK plus <b>3</b>.\nThird Attack: Deal damage equal to <b>48.2%</b> of ATK plus <b>3</b>.\nFourth Attack: Deal damage equal to <b>111.2%</b> of ATK plus <b>6</b>.\nFifth Attack: Deal damage equal to <b>148.3%</b> of ATK plus <b>8</b>."
     },
     {
       "name": "Scattered Soil",
-      "type": ["Hold: Attack"],
-      "description": "After the second normal attack on the ground or in mid-air, hold normal attack to trigger Scattered Soil.\nAttack the target position, dealing damage equal to <b>83.2%</b> of ATK + <b>4</b> and knocking the target down.\nPassive: After unleashing Scattered Soil on the ground, rapidly tapping normal attack will immediately unleash Brief Bloom (the 3rd stack)."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "After the second normal attack on the ground or in mid-air, hold normal attack to trigger Scattered Soil.\nAttack the target position, dealing damage equal to <b>83.2%</b> of ATK plus <b>4</b> and knocking the target down.\nPassive: After unleashing Scattered Soil on the ground, rapidly tapping normal attack will immediately unleash Brief Bloom (the 3rd stack)."
     },
     {
       "name": "Brief Bloom",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Hold normal attack to unleash Brief Bloom. Can be charged for up to 3 stacks, gaining hyperbody and control immunity during charging.\nFirst stack: Deal damage equal to <b>73.9%</b> of ATK + <b>4</b>.\nSecond stack: Deal damage equal to <b>146.8%</b> of ATK + <b>246.4</b>.\nThird stack: Deal damage equal to <b>13%</b> of ATK + <b>{5}</b>."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Hold normal attack to unleash Brief Bloom. Can be charged for up to 3 stacks, gaining hyperbody and control immunity during charging.\nFirst stack: Deal damage equal to <b>73.9%</b> of ATK plus <b>4</b>.\nSecond stack: Deal damage equal to <b>146.8%</b> of ATK plus <b>246.4</b>.\nThird stack: Deal damage equal to <b>13%</b> of ATK plus <b>{5}</b>."
     },
     {
       "name": "Falling Shadow",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Hold normal attack in mid-air to trigger Falling Shadow.\nPlummet from the skies, dealing damage equal to <b>160%</b> of ATK + <b>8</b> and knocking the target down."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Hold normal attack in mid-air to trigger Falling Shadow.\nPlummet from the skies, dealing damage equal to <b>160%</b> of ATK plus <b>8</b> and knocking the target down."
     },
     {
       "name": "Dodge",
-      "type": ["Dodge"],
-      "description": "Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for <b>0.5</b> seconds while dodging."
+      "type": [
+        "Dodge"
+      ],
+      "description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun while dodging for <b>0.5</b> seconds."
     },
     {
       "name": "Leafy Green",
-      "type": ["Dodge", "Attack"],
-      "description": "Unleash Leafy Green at the target while performing a backflip, dealing damage equal to <b>70%</b> of ATK + <b>4</b>, generating <b>1–3</b> epiphyllums upon hit, and forming a Green Field that lasts for <b>5</b> seconds. When enemies in the Green Field lock onto the Wanderer, their movement speed is reduced by <b>50%</b>.\nPassive: Can be unleashed on the ground or mid-air.\nPassive: Immediately break the control if under control effect and automatically release Leafy Green without using any dodge attempts. Skill cooldown lasts for <b>20</b> seconds."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Unleash Leafy Green at the target while performing a backflip, dealing damage equal to <b>70%</b> of ATK plus <b>4</b>, generating <b>1–3</b> epiphyllums upon hit, and forming a Green Field that lasts for <b>5</b> seconds. When enemies in the Green Field lock onto the Wanderer, their movement speed is reduced by <b>50%</b>.\nPassive: Can be unleashed on the ground or mid-air.\nPassive: Immediately break the control if under control effect and automatically release Leafy Green without using any dodge attempts. Skill cooldown lasts for <b>20</b> seconds."
     },
     {
       "name": "Excited Flow: Flashing Stream",
-      "type": ["Skill"],
-      "description": "Create a Moonlight Realm around yourself for <b>15</b> seconds. Your damage dealt in the realm is increased by <b>10%</b>, jumping ability increased by <b>20%</b>, and endurance consumption reduced by <b>50%</b>. Cooldown: <b>30</b> seconds.\nEnter the special state Airbloom when using Shadoweave in the realm. Your fall speed is greatly reduced and you can perform multiple double-jumps. In this state, using the directional controls and jump button while mid-air will perform a Roam and launch an attack on the target. Upon hit, deal damage equal to <b>66%</b> of ATK + <b>3</b> and randomly generate <b>1–3</b> epiphyllums.\n\nPassive: In the Moonlight Realm, <b>1</b> epiphyllum will be generated near 1 target every <b>0.8</b> seconds. \nPassive: When you use Shadoweave in Moonlight Realm, an extra <b>50%</b> of damage is dealt to enemies with less than <b>20%</b> HP.\nPassive: When you use Shadoweave in Moonlight Realm, incoming damage will be detected and you will blink away from the target's location. Cooldown: <b>10</b> seconds.\n\nPassive: Weapons Master\nFlame: When Shadoweave is paired with 2 flame weapons, Moonlight Realm is converted to Flame: Moonlight Realm, which lasts for an extra <b>4</b> seconds when burning targets. Targets with the shield take an extra <b>15%</b> flame damage. \n\nVolt: When Shadoweave is paired with 2 volt weapons, Moonlight Realm is converted to Volt: Moonlight Realm, with a <b>65%</b> chance of not consuming a dodge attempt when dodging, and a <b>35%</b> boost to dodge attack damage. When Volt Resonance is activated, volt damage is boosted an extra <b>30%</b>.\n\nFrost: When Shadoweave is paired with 2 frost weapons, Moonlight Realm is converted to Frost: Moonlight Realm. The targets in the realm will be inflicted with Frostbite for <b>15</b> seconds after taking frost damage <b>10</b> times, and receive an extra <b>22%</b> damage from frost attacks during this period. The number of attacks does not stack when a target is already Frostbitten. \n\nPhysical: When Shadoweave is paired with 2 physical weapons, Moonlight Realm is converted to Physical: Moonlight Realm. When you have an HP Shield, deal damage equal to <b>50%</b> of ATK + <b>3</b> to targets within range every second.\n\nBalance: When Shadoweave is paired with any two different elemental weapons (among flame, volt, frost, and physical weapons), the Wanderer's ATK is increased by <b>15%</b> in the realm, and counted as activating flame, volt, frost, and physical resonance without resonance effects."
+      "type": [
+        "Skill"
+      ],
+      "description": "Create a Moonlight Realm around yourself for <b>15</b> seconds. Your damage dealt in the realm is increased by <b>10%</b>, jumping ability increased by <b>20%</b>, and endurance consumption reduced by <b>50%</b>. Cooldown: <b>30</b> seconds.\nEnter the special state Airbloom when using Shadoweave in the realm. Your fall speed is greatly reduced and you can perform multiple double-jumps. In this state, using the directional controls and jump button while mid-air will perform a Roam and launch an attack on the target. Upon hit, deal damage equal to <b>66%</b> of ATK plus <b>3</b> and randomly generate <b>1–3</b> epiphyllums.\n\nPassive: In the Moonlight Realm, <b>1</b> epiphyllum will be generated near 1 target every <b>0.8</b> seconds. \nPassive: When you use Shadoweave in Moonlight Realm, an extra <b>50%</b> of damage is dealt to enemies with less than <b>20%</b> HP.\nPassive: When you use Shadoweave in Moonlight Realm, incoming damage will be detected and you will blink away from the target's location. Cooldown: <b>10</b> seconds.\n\nPassive: Weapons Master\nFlame: When Shadoweave is paired with 2 flame weapons, Moonlight Realm is converted to Flame: Moonlight Realm, which lasts for an extra <b>4</b> seconds when burning targets. Targets with the shield take an extra <b>15%</b> flame damage. \n\nVolt: When Shadoweave is paired with 2 volt weapons, Moonlight Realm is converted to Volt: Moonlight Realm, with a <b>65%</b> chance of not consuming a dodge attempt when dodging, and a <b>35%</b> boost to dodge attack damage. When Volt Resonance is activated, volt damage is boosted an extra <b>30%</b>.\n\nFrost: When Shadoweave is paired with 2 frost weapons, Moonlight Realm is converted to Frost: Moonlight Realm. The targets in the realm will be inflicted with Frostbite for <b>15</b> seconds after taking frost damage <b>10</b> times, and receive an extra <b>22%</b> damage from frost attacks during this period. The number of attacks does not stack when a target is already Frostbitten. \n\nPhysical: When Shadoweave is paired with 2 physical weapons, Moonlight Realm is converted to Physical: Moonlight Realm. When you have an HP Shield, deal damage equal to <b>50%</b> of ATK plus <b>3</b> to targets within range every second.\n\nBalance: When Shadoweave is paired with any two different elemental weapons (among flame, volt, frost, and physical weapons), the Wanderer's ATK is increased by <b>15%</b> in the realm, and counted as activating flame, volt, frost, and physical resonance without resonance effects."
     },
     {
       "name": "Gravity Weave",
-      "type": ["Discharge"],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b> and unleashes Gravity Weave with a stronger absorption force, dealing damage equal to <b>368.5%</b> of ATK + <b>19</b>. Then explode and create a ranged diffusion wave after <b>5</b> seconds, dealing damage equal to <b>184.3%</b> + <b>10</b>. Damage immunity lasts for <b>2.6</b> seconds when the skill is active (unavailable in Apex League)."
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and unleash Gravity Weave with a stronger absorption force, dealing damage equal to <b>368.5%</b> of ATK plus <b>19</b>. Then explode and create a ranged diffusion wave after <b>5</b> seconds, dealing damage equal to <b>184.3%</b> + <b>10</b>. When the skill is active, gain damage immunity for <b>2.6</b> seconds (unavailable in Apex League)."
     }
   ],
   "weapon_type": {
     "name": "Altered Damage",
-    "description": "When the weapon is fully charged, the next attack will mark the target, causing an explosion after <b>5</b> seconds. Additionally inflict <b>25%</b> of all damage received by the target while the mark exists, up to a total of <b>560%</b> of your ATK. Only 1 mark can be added on a target at a time."
+    "description": "When the weapon is fully charged, the next attack will mark the target, causing an explosion after <b>5</b> seconds. Additionally, inflict damage equal to <b>25%</b> of all damage received by the target during the duration of the mark, up to a total of <b>560%</b> of your ATK. Only 1 mark can exist on a target at a time."
   },
   "weapon_resonance": {
-    "name": "",
-    "description": "When pairing Shadoweave with other weapons, the <b>Weapons Master</b> effect can be created.\nEpiphyllum will appear around the target randomly and explode within <b>1–3</b> seconds, dealing <b>60%</b> area damage."
+    "name": "Shadoweave Fusion Core",
+    "description": "When pairing Shadoweave with other weapons, the <b>Weapons Master</b> effect can be created.\nEpiphyllums will appear around the target randomly and explode within <b>1–3</b> seconds, dealing area damage equal to <b>60%</b> of ATK."
   },
   "advancement": [
     "Normal attacks now deal area damage upon hit.\nWhen there is another epiphyllum within the epiphyllum explosion area, increase the damage of each of the subsequent epiphyllum explosions by <b>{0}%</b>, up to a maximum of <b>{1}%</b>.\nThe epiphyllum generation interval from <b>Moonlight Realm</b> is now reduced to <b>0.5</b> seconds.",
@@ -275,7 +297,7 @@
       },
       "mat3": {
         "id": "nano_coating_ii",
-        "name": "Nano coating II",
+        "name": "Nano Coating II",
         "rarity": "SR",
         "amount": 9
       }

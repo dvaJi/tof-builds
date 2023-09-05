@@ -1,0 +1,303 @@
+{
+  "_id": 1029,
+  "id": "tian_lang",
+  "name": "Tian Lang",
+  "weapon": "Rompetruenos",
+  "weapon_id": "thunderbreaker",
+  "birthday": "23 de marzo",
+  "birthplace": "Vivero de Espejia",
+  "gender": "Masculino",
+  "info": "A menudo bosteza y parece desarreglado. Frecuentemente cumple un papel activo en reavivar el espíritu del equipo.\nLo cierto es que es una persona atenta, cálida por fuera y fría por dentro, que rara vez expresa lo que siente.",
+  "description": "Un empleado del Vivero de Espejia y un amante de las flores. Al ser responsable de la publicidad y el cuidado diario de las plantas del Vivero, se ganó el apodo de \"encargado\".\n\nEn realidad, es el mejor Ejecutor del Distrito 7 y su fuerza es inconmensurable. Sin embargo, pocos saben su secreto y se lo considera el \"as bajo la manga\" del Distrito 7, que solo actúa cuando Espejia está en crisis.\n\nDurante una batalla con un abisante, desvió un ataque de energía con su mano izquierda y sufrió graves quemaduras. Tras una cirugía de regeneración de tejidos, para pelear mejor, porta un guante reforzado compatible con las características de combate de su arma \"Rompetruenos\".",
+  "like": "Flores, relajación, Vivero de Espejia",
+  "dislike": "Inconvenientes, operaciones de Ejecutor",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Mizar",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, inicia 6 ataques seguidos con Rompetruenos.\nPrimer ataque: Inflige daño igual a <b>90.5%</b> del ATQ más <b>5</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño igual a <b>67.9%</b> del ATQ más <b>4</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño igual a <b>123%</b> del ATQ más <b>6</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño igual a <b>217.9%</b> del ATQ más <b>11</b> y hace retroceder al objetivo.\nQuinto ataque: Inflige daño igual a <b>222%</b> del ATQ más <b>12</b> y hace retroceder al objetivo.\nSexto ataque: Inflige daño igual a <b>291.8%</b> del ATQ más <b>15</b> y lanza al objetivo."
+    },
+    {
+      "name": "Megrez",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>87.4%</b> del ATQ más <b>5</b>.\nSegundo ataque: Inflige daño igual a <b>83%</b> del ATQ más <b>4</b>.\nTercer ataque: Inflige daño igual a <b>126.7%</b> del ATQ más <b>7</b>.\nCuarto ataque: Inflige daño igual a <b>229.4%</b> del ATQ más <b>12</b>.\nQuinto ataque: Inflige daño igual a <b>256.5%</b> del ATQ más <b>14</b>."
+    },
+    {
+      "name": "Phecda",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal para activarlo.\nInflige daño de hasta <b>342%</b> del ATQ más <b>18</b> al objetivo y reúne a los enemigos a tu alrededor."
+    },
+    {
+      "name": "Merak",
+      "type": [
+        "Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o usa el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar.\nMientras caes, inflige daño igual a <b>38%</b> del ATQ más <b>2</b> en cada impacto. Al aterrizar, inflige daño igual a <b>285%</b> del ATQ más <b>15</b> a los objetivos cercanos."
+    },
+    {
+      "name": "Evasión",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante <b>0.5</b> seg."
+    },
+    {
+      "name": "Alioth",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el breve periodo que sigue a la evasión.\nCorre para atacar al objetivo, lo que inflige daño igual a <b>172.6%</b> del ATQ más <b>9</b>."
+    },
+    {
+      "name": "Dubhe",
+      "type": [
+        "Skill"
+      ],
+      "description": "Desata una ráfaga de ataques, lo que inflige daño igual a <b>936.9%</b> del ATQ más <b>49</b> a los enemigos a distancia, y transforma a los enemigos y a tus invocaciones dentro de un cierto alcance en Entidades Electrificadas, lo que permite que existan hasta 3 Entidades Electrificadas a la vez. Enfriamiento: <b>30</b> seg.\n\nOtorga Sentido Eléctrico al usar Dubhe: Analiza las otras dos armas equipadas al desatar habilidades. Cada vez que se detecta un arma eléctrica, aumenta el ATQ Eléctrico un <b>6%</b> por <b>25</b> seg.\n\nEntidad Electrificada: Al desatar cualquier habilidad de arma eléctrica o de descarga, las Entidades Electrificadas desatan daño de área eléctrico igual a <b>5%</b> de los PS faltantes (no menos de <b>100%</b> del ATQ eléctrico, no más de <b>1000%</b> del ATQ eléctrico).\n\nAl usar Rompetruenos, al desatar cualquier habilidad de arma eléctrica o de descarga consume <b>30%</b> de los PS actuales para infligir daño eléctrico adicional igual a <b>50%</b> de los PS consumidos (no menos de <b>480%</b> del ATQ eléctrico, no más de <b>3000%</b> del ATQ eléctrico) y otorga invencibilidad temporal (no disponible en la Liga Ápex). <b>8</b> seg después o cuando los PS sean inferiores a <b>10%</b>, restaura <b>5%</b> de los PS faltantes cada segundo por <b>8</b> seg (no afectado por efectos de curación). El efecto de recuperación no se puede acumular."
+    },
+    {
+      "name": "Destructor",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b>. Rompetruenos desata un ataque amplio de daño eléctrico, lo que inflige daño total igual a <b>844.6%</b> del ATQ más <b>44</b> y transforma a los enemigos o a tus invocaciones dentro de un cierto alcance en entidades electrificadas. Pueden existir hasta 3 entidades electrificadas a la vez.\n\nEntidad Electrificada: Al desatar cualquier habilidad de descarga de arma eléctrica, las entidades electrificadas infligen daño de área eléctrico igual a <b>5%</b> de los PS faltantes (no menos de <b>100%</b> del ATQ eléctrico, no más de <b>1.000%</b> del ATQ eléctrico).\n\nAl usar Rompetruenos, desatar cualquier habilidad de arma eléctrica o habilidad de descarga consume <b>30%</b> de PS actuales para infligir daño eléctrico adicional igual a <b>50%</b> de los PS consumidos (no menos de <b>480%</b> del ATQ eléctrico, no más de <b>3000%</b> del ATQ eléctrico) y otorga invencibilidad temporal (no disponible en la Liga Ápex). Después de <b>8</b> seg o cuando los PS sean inferiores a <b>10%</b>, recuperas <b>5%</b> los PS faltantes cada segundo por <b>8</b> seg (no se ve afectado por los efectos de curación). El efecto de recuperación no se puede acumular."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eléctrico",
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
+  },
+  "weapon_resonance": {
+    "name": "Reacción eléctrica",
+    "description": "<b>Reacción eléctrica</b>: Aumenta el ATQ eléctrico un <b>20%</b> y la resistencia a la electricidad un <b>40%</b>. Se activa al equipar <b>2</b> o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Eléctrica o Reacción Eléctrica; Resonancia Eléctrica tiene preferencia."
+  },
+  "advancement": [
+    "Obtienes 1 acumulación de Superconductor por carga: Aumenta los PS Máx. en <b>7.5%</b> pero aumenta el daño recibido en <b>2%</b> (excepto cuando los PS actuales son inferiores a 8 veces el ATQ eléctrico y no hay un escudo de PS equipado), se acumula hasta <b>8</b> veces. Pierdes 1 acumulación si no se actualiza ningún Superconductor en <b>6</b> segundos.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
+    "Libera cualquier habilidad de arma eléctrica o habilidad de descarga para obtener <b>2</b> cargas. Obtiene hipercuerpo al llegar a <b>8</b> acumulaciones de Superconductor.",
+    "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
+    "Cada acumulación de Superconductor aumenta el daño final en <b>1%</b>.",
+    "Sentido eléctrico de Dubhe de refuerzo: por cada arma eléctrica percibida, obtén un <b>10%</b> de refuerzo de daño eléctrico por <b>25</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Cada uso de habilidad de arma eléctrica o habilidad de descarga otorga <b>1</b> intento de evasión libre, hasta <b>2</b> intentos. Cuando la habilidad de arma eléctrica y la habilidad de descarga se lanzan de forma simultánea, aumenta el daño eléctrico en un <b>{0}%</b> por <b>8</b> segundos. Este efecto no se puede acumular.",
+      "values": [
+        12
+      ]
+    },
+    {
+      "name": "",
+      "description": "Cada uso de habilidad de arma eléctrica o habilidad de descarga otorga <b>1</b> intento de evasión libre, hasta <b>3</b> intentos. Cuando la habilidad de arma eléctrica y la habilidad de descarga se lanzan de forma simultánea, aumenta el daño eléctrico en un <b>{0}%</b> por <b>8</b> segundos. Este efecto no se puede acumular.",
+      "values": [
+        18
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Armazón Reforzado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

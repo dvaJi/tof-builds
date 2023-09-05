@@ -4,7 +4,7 @@
   "name": "Tsubasa",
   "weapon": "Icewind Arrow",
   "weapon_id": "icewind_arrow",
-  "birthday": "March 24 (Aries)",
+  "birthday": "March 24",
   "birthplace": "Heirs of Aida",
   "gender": "Female",
   "info": "An opportunist who trims her sails with the wind. Proactive, talkative, and loves to hang out.\nShe makes friends easily and doesn't get angry even when someone points out her opportunistic tendencies. She also has an open mind that is always taking in new and different ideas.\nOn the other hand, she is definitely not the kind of person who provides a sense of security.",
@@ -20,43 +20,60 @@
   "skills": [
     {
       "name": "Quickdraw",
-      "type": ["Attack"],
-      "description": "While on the ground, draw the bow repeatedly to attack 5 times.\nFirst Attack: Deal damage equal to <b>48.8%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>43.7%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>78.6%</b> of ATK + <b>4</b>.\nFourth Attack: Deal damage equal to <b>121.2%</b> of ATK + <b>6</b>.\nFifth Attack: Deal damage equal to <b>112.5%</b> of ATK + <b>6</b> and knock the target back a short distance."
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, draw the bow repeatedly to attack 5 times.\nFirst Attack: Deal damage equal to <b>48.8%</b> of ATK plus <b>3</b>.\nSecond Attack: Deal damage equal to <b>43.7%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>78.6%</b> of ATK plus <b>4</b>.\nFourth Attack: Deal damage equal to <b>121.2%</b> of ATK plus <b>6</b>.\nFifth Attack: Deal damage equal to <b>112.5%</b> of ATK plus <b>6</b> and knock the target back a short distance."
     },
     {
       "name": "Charged Arrow",
-      "type": ["Hold: Attack"],
-      "description": "Tap and hold normal attack to charge an attack. Deal basic damage equal to <b>87.8%</b> of ATK + <b>5</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack to charge an attack. Deal base damage equal to <b>87.8%</b> of ATK plus <b>5</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
     },
     {
       "name": "Arrow Rain",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to <b>287.2%</b> of ATK + <b>15</b> area damage to targets."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to <b>287.2%</b> of ATK plus <b>15</b> area damage to targets."
     },
     {
       "name": "Air Volley",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>56.3%</b> of ATK + <b>3</b>.\nSecond Attack: Deal damage equal to <b>74%</b> of ATK + <b>4</b>.\nThird Attack: Deal damage equal to <b>112.7%</b> of ATK + <b>6</b>.\nFourth Attack: Deal damage equal to <b>169.8%</b> of ATK + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>56.3%</b> of ATK plus <b>3</b>.\nSecond Attack: Deal damage equal to <b>74%</b> of ATK plus <b>4</b>.\nThird Attack: Deal damage equal to <b>112.7%</b> of ATK plus <b>6</b>.\nFourth Attack: Deal damage equal to <b>169.8%</b> of ATK plus <b>9</b>."
     },
     {
       "name": "Loaded Arrow",
-      "type": ["Dodge", "Attack"],
-      "description": "Tap attack after dodging to trigger a Loaded Arrow, which <b>knocking the target back</b> and dealing damage equal to <b>124%</b> of ATK + <b>7</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap attack after dodging to trigger a Loaded Arrow, which <b>knocks the target back</b> and deals damage equal to <b>124%</b> of ATK plus <b>7</b>."
     },
     {
       "name": "Piercing Shot",
-      "type": ["Skill"],
-      "description": "Perform a backflip and fire <b>3</b> piercing shots, with the main shot deals damage equal to <b>258.3%</b> of ATK + <b>14</b>, and the other two shots deal 60% damage. In addition, <b>knock targets back</b> and stun them for <b>5</b> seconds if they collide with an obstacle. Cooldown: <b>12</b> seconds."
+      "type": [
+        "Skill"
+      ],
+      "description": "Perform a backflip and fire <b>3</b> piercing shots, with the main shot dealing damage equal to <b>258.3%</b> of ATK plus <b>14</b>, and the other two shots deal 60% damage. In addition, <b>knock targets back</b> and stun them for <b>5</b> seconds if they collide with an obstacle. Cooldown: <b>12</b> seconds."
     },
     {
       "name": "Explosive Barrage",
-      "type": ["Discharge"],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b>, and create a hailstorm at the target location upon switching to this weapon, dealing damage equal to <b>570%</b> of ATK + <b>30</b>. The storm has a <b>10%</b> chance to inflict a <b>2</b> seconds <b>freeze effect</b>. Gain cold front, and increase speed by <b>45%</b> for <b>7</b> seconds."
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b>, and create a hailstorm at the target location, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>. The storm has a <b>10%</b> chance to <b>strongly freeze</b> the target for <b>2</b> seconds. Gain cold front, and increase speed by <b>45%</b> for <b>7</b> seconds."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "When the weapon is fully charged, the next attack will <b>freeze</b> targets for <b>2</b> seconds and leave them frostbitten for <b>6</b> seconds. Breaking the ice shell causes additional damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly freeze</b> targets for <b>2</b> seconds and leave them frostbitten for <b>6</b> seconds. Breaking the ice shell deals damage equal to <b>151%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
   },
   "advancement": [
     "Grant a stack of Sharp Arrow each time the arrow fired by a Dodge attack hits a target. Each stack increases damage by <b>5%</b> for <b>15</b> seconds. Stack up to <b>3</b> times.",
@@ -239,13 +256,13 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_winter",
-        "name": "Heart of winter",
+        "name": "Heart of Winter",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "nano_coating_ii",
-        "name": "Nano coating II",
+        "name": "Nano Coating II",
         "rarity": "SR",
         "amount": 5
       },

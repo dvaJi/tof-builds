@@ -1,0 +1,34 @@
+{
+  "_id": 40020,
+  "id": "tian_lang",
+  "name": "Тянь Лан",
+  "suitName": "",
+  "hash": "SSR20",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Every time volt damage is dealt, there is a <b>40%</b> chance of triggering chain lightning, dealing damage equal to <b>50%</b>/65%/90%/120% of volt ATK to up to <b>7</b> targets. Cooldown: <b>2</b> seconds. Every time chain lightning is triggered, increase volt damage by <b>6%</b> for <b>6</b> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Every time a volt weapon's skill or discharge skill is used, increase volt damage by <b>12%</b>/14%/16%/18% for <b>15</b> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Астральный полководец",
+    "desc": "Если бы он родился в древние времена, он мог бы стать великим полководцем, защищающим свою землю."
+  },
+  "memory": {
+    "name": "Избежание конфликта",
+    "desc": "Он предпочитает сражениям спокойное время в окружении цветов и растений."
+  },
+  "belief": {
+    "name": "Смятение",
+    "desc": "Деревья жаждут покоя, но ветер никогда не утихнет. С этим ничего не поделаешь."
+  },
+  "emotion": {
+    "name": "Непреклонность",
+    "desc": "Ничто не поколеблет моей решимости."
+  }
+}

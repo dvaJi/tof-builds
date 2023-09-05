@@ -1,0 +1,34 @@
+{
+  "_id": 40020,
+  "id": "tian_lang",
+  "name": "Tian Lang",
+  "suitName": "",
+  "hash": "SSR20",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Every time volt damage is dealt, there is a <b>40%</b> chance of triggering chain lightning, dealing damage equal to <b>50%</b>/65%/90%/120% of volt ATK to up to <b>7</b> targets. Cooldown: <b>2</b> seconds. Every time chain lightning is triggered, increase volt damage by <b>6%</b> for <b>6</b> seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Every time a volt weapon's skill or discharge skill is used, increase volt damage by <b>12%</b>/14%/16%/18% for <b>15</b> seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Sterngeneral",
+    "desc": "Wäre er in früheren Zeiten geboren worden, wäre er ein großer General gewesen, der sein Land verteidigt."
+  },
+  "memory": {
+    "name": "Streit vermeiden",
+    "desc": "Statt zu kämpfen, zieht er es vor, seine Zeit in Ruhe mit Blumen und Pflanzen zu verbringen."
+  },
+  "belief": {
+    "name": "Aufruhr",
+    "desc": "Die Bäume sehnen sich nach Frieden, aber der Wind weht immer weiter. Nichts lässt sich dagegen tun."
+  },
+  "emotion": {
+    "name": "Unnachgiebig",
+    "desc": "Nichts kann meine Entschlossenheit ins Wanken bringen."
+  }
+}

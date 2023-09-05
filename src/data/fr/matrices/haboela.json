@@ -1,0 +1,34 @@
+{
+  "_id": 40025,
+  "id": "haboela",
+  "name": "Haboela",
+  "suitName": "Pluie de cendres volcaniques",
+  "hash": "SSR25",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping this matrix on the current weapon increases final damage by <b>8.5%</b>/10.5%/12.5%/14.5%."
+    },
+    {
+      "count": 4,
+      "value": "Increase final damage by <b>9%</b>/11%/13%/15%. The effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Île ardente",
+    "desc": "Il commence à faire chaud ici."
+  },
+  "memory": {
+    "name": "Court-circuit",
+    "desc": "Comment ai-je atterri ici après le changement de terrain ?"
+  },
+  "belief": {
+    "name": "Éruption",
+    "desc": "Récolter et absorber la lave, et puis après…"
+  },
+  "emotion": {
+    "name": "Colère",
+    "desc": "Le gardien du volcan a du tempérament. Un sacré tempérament, d'ailleurs."
+  }
+}

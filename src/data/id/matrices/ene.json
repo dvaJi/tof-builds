@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Saat menimpakan damage lebih besar dari 100% ATK, menimpakan damage tambahan sebesar 60%/75%/90% ATK. Cooldown: 3 detik."
+      "value": "Saat menimpakan DMG lebih besar dari 100% ATK, menimpakan DMG tambahan sebesar 60%/75%/90% ATK. Cooldown: 3 detik."
     }
   ],
   "mind": {

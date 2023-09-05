@@ -4,11 +4,11 @@
   "name": "Zero",
   "weapon": "Negierungswürfel",
   "weapon_id": "negating_cube",
-  "birthday": "6. Juni (Zwilling)",
+  "birthday": "6. Juni",
   "birthplace": "Unbekannt",
   "gender": "Männlich",
   "info": "Er ist scharfzüngig, verschlagen, konkurrenzorientiert und arrogant, vor allem, wenn er vor Aufgaben gestellt wird, die er unter seiner Würde glaubt. Gelegentlich zeigt er ein für sein Alter hohes Maß an Reife und Disziplin. Zudem ist er außerordentlich scharfsinnig. Die meiste Zeit interessiert ihn kaum, was andere Leute sagen, und er macht sich nicht die Mühe, sich an Dinge zu erinnern, die ihm nicht dienlich sind.",
-  "description": "Ein Computergenie, das dem Aussehen nach zu urteilen etwa 15 Jahre alt ist, in Banges geboren wurde und den Spitznamen „Zero“ hat. Sein richtiger Name und seine persönlichen Daten sind jedoch verloren gegangen – absichtlich von ihm vernichtet.\nHochbegabt in der Verarbeitung von Informationen, elektronischer Kommunikation und Datenmanagement, kann Zero mithilfe von Computern und Netzwerkanalysen riesige Mengen an Informationen finden und entnehmen. Einmal schockierte er Hykros, indem er mit einem waghalsigen Cyberangriff ihr Sicherheitssystem durchdrang, was dazu führte, dass er als „Person von Interesse“ eingestuft wurde. Gegenwärtig befindet sich Zero unter der strengen Kontrolle und Aufsicht von Hykros an einem geheimen Ort, wo er nachrichtendienstliche Tätigkeiten ausübt.",
+  "description": "Ein Computergenie, das dem Aussehen nach zu urteilen etwa 15 Jahre alt ist, in Banges geboren wurde und den Spitznamen „Zero“ hat. Sein richtiger Name und seine persönlichen Daten sind jedoch verloren gegangen – absichtlich von ihm vernichtet.\nHochbegabt in der Verarbeitung von Informationen, elektronischer Kommunikation und Datenmanagement kann Zero mithilfe von Computern und Netzwerkanalysen riesige Mengen an Informationen finden und entnehmen. Einmal schockierte er Hykros, indem er mit einem waghalsigen Cyberangriff das Sicherheitssystem durchdrang, was dazu führte, dass er als „Person von Interesse“ eingestuft wurde. Gegenwärtig befindet sich Zero unter der strengen Kontrolle und Aufsicht von Hykros an einem geheimen Ort, wo er nachrichtendienstliche Tätigkeiten ausübt.",
   "like": "Technologie, Spiele",
   "dislike": "Ausgehen, Kochen",
   "element": "Fire",
@@ -20,53 +20,74 @@
   "skills": [
     {
       "name": "Normaler Angriff",
-      "type": ["Attack"],
-      "description": "Benutze den Würfel, während du auf dem Boden stehst, um 5 Mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>46.7%</b> des ANG + <b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>38.2%</b> des ANG + <b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>118.5%</b> des ANG + <b>6</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>79.6%</b> des ANG + <b>4</b>.\nFünfter Angriff: Füge bis zu 3 Mal Schaden in Höhe von <b>80.9%</b> des ANG + <b>4</b> zu und <b>schleudere</b> das Ziel in die Luft.\n<b>Passiv: Wenn normale Angriffe Ziele 6 Mal treffen, erhältst du 1 Würfel. Es können bis zu 5 Würfel gelagert werden.</b>"
+      "type": [
+        "Attack"
+      ],
+      "description": "Der Anwender manipuliert den Würfel am Boden 5-mal hintereinander.\nErster Angriff: Verursacht Schaden in Höhe von <b>46.7%</b> des ANG +<b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>38.2%</b> des ANG +<b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>118.5%</b> des ANG +<b>6</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>79.6%</b> des ANG +<b>4</b>.\nFünfter Angriff: Verursacht bis zu 3-mal Schaden in Höhe von <b>80.9%</b> des ANG +<b>4</b> und <b>schleudert</b> das Ziel hoch.\n<b>Passiv: Gewährt 1 Würfel, wenn normale Angriffe Ziele 6-mal treffen. Es können bis zu 5 Würfel gespeichert werden.</b>"
     },
     {
       "name": "Omnium-Rakete",
-      "type": ["Jump", "Attack"],
-      "description": "Setze in der Luft einen normalen Angriff ein, um die Energie im Würfel zu aktivieren. Dies feuert bis zu <b>5</b> Raketen ab und verursacht einen Gesamtschaden in Höhe von <b>59.3%</b> des ANG + <b>3</b>. Verbraucht bis zu <b>250</b> Ausdauer.\n<b>Passiv: Wenn der Wanderer Würfel gespeichert hat, werden alle Würfel verbraucht, um Omnium-Raketen auf Ziele zu feuern und ihnen Schaden zuzufügen.</b>"
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Setze in der Luft einen normalen Angriff ein, um die Energie im Würfel zu aktivieren. Dies feuert bis zu <b>5</b> Raketen ab und verursacht einen Gesamtschaden in Höhe von <b>59.3%</b> des ANG +<b>3</b>. Verbraucht bis zu <b>250</b> Ausdauer.\n<b>Passiv: Wenn der Wanderer Würfel gespeichert hat, werden alle Würfel verbraucht, um Omnium-Raketen auf Ziele zu feuern und ihnen Schaden zuzufügen.</b>"
     },
     {
       "name": "Energie-Überfluss",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um Energie-Überfluss auszulösen.\nFeuert bei der Landung eine Schockwelle nach vorne ab, die Zielen in ihrem Weg Schaden in Höhe von <b>23.4%</b> des ANG + <b>1</b> zufügt."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um „Energie-Überfluss“ auszulösen.\nFeuert bei der Landung eine Schockwelle nach vorne ab, die Zielen in ihrem Weg Schaden in Höhe von <b>23.4%</b> des ANG +<b>1</b> zufügt."
     },
     {
       "name": "Omnium-Schock",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Halte beim dritten normalen Angriff die Taste für den normalen Angriff gedrückt, um Omnium-Schock auszulösen.\nEine Energiesäule schleudert Ziele in der Nähe in die Luft, um Schaden in Höhe von <b>68.4%</b> des ANG + <b>4</b> zu verursachen. Die Säule hält 5 Sekunden lang an und fügt Zielen in der Nähe jede Sekunde Schaden in Höhe von <b>28.5%</b> des ANG + <b>2</b> zu."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte beim dritten normalen Angriff die normale Angriffstaste gedrückt, um „Omnium-Schock“ auszulösen.\nEine Energiesäule schleudert Ziele in der Nähe hoch, um Schaden in Höhe von <b>68.4%</b> des ANG +<b>4</b> zu verursachen. Die Säule hält 5 Sek. lang an und fügt Zielen in der Nähe jede Sek. Schaden in Höhe von <b>28.5%</b> des ANG +<b>2</b> zu."
     },
     {
       "name": "Volt-Wächter",
-      "type": ["Passive"],
-      "description": "Würfel, die den Wanderer umkreisen und Schaden in Höhe von <b>9.7%</b> des ANG + <b>1</b> an Gegnern verursachen."
+      "type": [
+        "Passive"
+      ],
+      "description": "Würfel, die den Wanderer umkreisen, fügen Gegnern Schaden in Höhe von <b>9.7%</b> des ANG +<b>1</b> zu."
     },
     {
       "name": "Volt-Rakete",
-      "type": ["Passive"],
-      "description": "Wenn der Wanderer Omnium-Raketen und Energieüberfluss einsetzt, werden auch die kreisenden Würfel abgefeuert und fügen dem Ziel Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b> zu."
+      "type": [
+        "Passive"
+      ],
+      "description": "Wenn der Wanderer Omnium-Raketen und „Energie-Überfluss“ einsetzt, werden auch die kreisenden Würfel abgefeuert, um dem Ziel Schaden in Höhe von <b>48.5%</b> des ANG +<b>3</b> zuzufügen."
     },
     {
       "name": "Seelenwallung",
-      "type": ["Dodge"],
-      "description": "Durch Ausweichen direkt vor einem Treffer wird „Trugbild“ ausgelöst. Dies verlangsamt die Gegner am Zielort und gewährt für <b>0,5</b> Sek. Immunität gegen Trefferlähmung.\nWenn der Wanderer weniger als <b>5</b> Würfel hat, besteht bei jedem erfolgreichen Ausweichen eine Chance von <b>40%</b>, 1 Ausweichaktion wiederherzustellen.\nErfolgreiches Ausweichen unterbricht keine normalen Angriffskombos.\n<b>Passiv: Jedes erfolgreiche Ausweichen in der Luft gewährt einen Würfel.</b>"
+      "type": [
+        "Dodge"
+      ],
+      "description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Werde für <b>0,5</b> Sek. immun gegen Trefferlähmung.\nWenn der Wanderer weniger als <b>5</b> Würfel hat, besteht bei jedem erfolgreichen Ausweichen eine Chance von <b>40%</b>, 1 Ausweichversuch wiederherzustellen.\nErfolgreiches Ausweichen unterbricht keine normalen Angriffskombos.\n<b>Passiv: Jedes erfolgreiche Ausweichen in der Luft gewährt einen Würfel.</b>"
     },
     {
       "name": "Omnium-Schild",
-      "type": ["Skill"],
-      "description": "Erzeugt einen Schild für den Anwender und in der Nähe befindliche Verbündete. Dieser blockiert <b>10</b> Sek. lang Schaden in Höhe von bis zu <b>800%</b> des ANG, verursacht bei Zielen in der Nähe Schaden in Höhe von <b>124.9%</b> des ANG + <b>8</b> und <b>schießt sie stark</b> hoch. Jeder Würfel, den der Anwender bei Einsatz dieser Fähigkeit besitzt, fügt <b>160%</b> ANG hinzu, bis der maximale Schildeffekt erreicht und der Würfel ausgeschöpft ist. Abklingzeit: <b>60</b> Sek."
+      "type": [
+        "Skill"
+      ],
+      "description": "Erzeugt einen Schild für den Anwender und Verbündete in der Nähe. Dieser blockiert <b>10</b> Sek. lang Schaden in Höhe von bis zu <b>800%</b> des ANG, fügt Zielen in der Nähe Schaden in Höhe von <b>124.9%</b> des ANG +<b>8</b> zu und <b>schleudert sie stark hoch</b>. Jeder Würfel, den der Anwender bei Einsatz dieser Fähigkeit besitzt, fügt <b>160%</b> ANG hinzu, bis der maximale Schildeffekt erreicht und der Würfel ausgeschöpft ist. Abklingzeit: <b>60</b> Sek."
     },
     {
       "name": "Omnium-Welle",
-      "type": ["Discharge"],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden nach dem Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und er erhält <b>5</b> Würfel, die anschließend mit einer Schockwelle losgelassen werden. Diese Schockwelle verursacht Schaden in Höhe von <b>171%</b> des ANG + <b>9</b> an Zielen in der Nähe und <b>schießt sie stark</b> hoch. Jeder Würfel verursacht außerdem Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b>. Wenn Verbündete in der Nähe sind, erhalten die Verbündeten und der Anwender für <b>3</b> Sek. Schadensimmunität."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und er erhält <b>5</b> Würfel, die anschließend mit einer Schockwelle losgelassen werden. Diese Schockwelle fügt Zielen in der Nähe Schaden in Höhe von <b>171%</b> des ANG +<b>9</b> zu und <b>schleudert sie stark</b> hoch. Jeder Würfel verursacht außerdem Schaden in Höhe von <b>48.5%</b> des ANG +<b>3</b>. Wenn Verbündete in der Nähe sind, erhalten sie und der Anwender für <b>3</b> Sek. Schadensimmunität."
     }
   ],
   "weapon_type": {
     "name": "Flamme",
-    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde anhaltenden Schaden in Höhe von <b>58%</b> des ANG. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde Schaden in Höhe von <b>58%</b> des ANG. Während Ziele entzündet sind, werden ihre Heileffekte um <b>50%</b> verringert."
   },
   "advancement": [
     "Verursacht Schaden und bringt eine Heilkugel hervor, die <b>20</b> Sek. anhält und LP in Höhe von <b>60%</b> des ANG des Teammitglieds wiederherstellt, das sie aufhebt. Abklingzeit: <b>2</b> Sek.",

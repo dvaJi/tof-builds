@@ -1,0 +1,34 @@
+{
+  "_id": 40033,
+  "id": "yu_lan",
+  "name": "Yu Lan",
+  "suitName": "Sincérité",
+  "hash": "SSR33",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When equipped with at least <b>1</b> frost weapon, while in the combat state, deal damage equal to <b>60%</b> of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by <b>5%</b>/6%/7%/8% for <b>30</b> seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "After <b>Unity</b> consumes <b>Internal Strength</b> or <b>Fighting Spirit</b>, increase final damage by <b>5%</b> for <b>15</b> seconds. After dealing frost damage, increase all elemental damage by <b>11%</b>/14%/17%/20% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Sincérité incarnée",
+    "desc": "Toujours vraie, sincère, pure et naturelle."
+  },
+  "memory": {
+    "name": "Toujours diligente",
+    "desc": "Je ne me suis jamais relâchée depuis que j'ai commencé ma pratique des arts martiaux."
+  },
+  "belief": {
+    "name": "Sincérité récompensée",
+    "desc": "Le chemin le plus long est le vrai raccourci."
+  },
+  "emotion": {
+    "name": "Sincérité authentique",
+    "desc": "Être honnête avec tout le monde peut parfois causer des malentendus."
+  }
+}

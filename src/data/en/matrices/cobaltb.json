@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Restore 1 dodge attempt every 4 dodges. Dodge attacks burn targets, dealing damage equal to {0}%/{1}%/{2}%/{3}% of ATK every second for {4} [@$second|seconds]."
+      "value": "Restore 1 dodge attempt every 4 dodges. Dodge attacks burn targets, dealing damage equal to {0}%/{1}%/{2}%/{3}% of ATK every second for {4} seconds."
     },
     {
       "count": 4,

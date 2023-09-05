@@ -2,13 +2,13 @@
   "_id": 15,
   "id": "meryl",
   "name": "Meryl",
-  "suitName": "Reiner weißer Wächter",
+  "suitName": "Reinweißer Wächter",
   "hash": "SSR1",
   "rarity": "SSR",
   "bonus": [
     {
       "count": 2,
-      "value": "Wenn die LP nach einem gegnerischen Angriff unter 30% fallen, wird für 10 Sek. ein Schild in Höhe von 20%/26%/32%/40% der max. LP gewährt. Abklingzeit: 90 Sek."
+      "value": "Wenn die LP unter 30% fallen, nachdem Schaden erlitten wurde, wird für 10 Sek. ein Schild in Höhe von 20%/26%/32%/40% der max. LP gewährt. Abklingzeit: 90 Sek."
     },
     {
       "count": 4,

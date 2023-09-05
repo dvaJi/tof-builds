@@ -1,0 +1,38 @@
+{
+  "_id": 40003,
+  "id": "cocoritter",
+  "name": "Коко Риттер",
+  "suitName": "Доказательство доверия",
+  "hash": "SSR3",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase healing capability and healing received by <b>10%</b>/12%/14%/16%."
+    },
+    {
+      "count": 4,
+      "value": "When you or your teammates are healed, increase ATK by <b>12.5%</b>/15%/17.5%/20% for <b>6</b> seconds. Only the highest level's effect is applied when obtained repeatedly."
+    }
+  ],
+  "mind": {
+    "name": "Артистический инстинкт",
+    "desc": "Раздумьям по поводу произведения искусства можно найти применение и в бою."
+  },
+  "memory": {
+    "name": "Двойной силуэт",
+    "desc": "Ее силуэт перекрывается с защитником, которого она помнит."
+  },
+  "belief": {
+    "name": "Забота о других",
+    "desc": "Ее ожидания просты — просто облегчить вашу боль."
+  },
+  "emotion": {
+    "name": "Рука помощи",
+    "desc": "Доверься мне и позволь мне поддержать тебя."
+  },
+  "undefined": {
+    "name": "Откровенность",
+    "desc": "Прямота и открытость порой приводят к недоразумениям."
+  }
+}

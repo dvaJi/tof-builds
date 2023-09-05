@@ -2,17 +2,17 @@
   "_id": 9,
   "id": "frigg",
   "name": "Frigg",
-  "suitName": "Mente y Cuerpo de Hierro",
+  "suitName": "Mente-Cuerpo Férreos",
   "hash": "SSR15",
   "rarity": "SSR",
   "bonus": [
     {
       "count": 2,
-      "value": "Aumenta el ATQ de hielo en 15%/18%/21%/25% por 10 segundos al cambiar de arma de hielo. Este efecto de set funciona en la ranura secundaria, pero solo tendrá efecto el set con la clasificación de estrellas más alta."
+      "value": "Aumenta el ATQ de escarcha en 15%/18%/21%/25% por 10 segundos al cambiar de arma de escarcha. Este efecto de set funciona en la ranura secundaria, pero solo tendrá efecto el set con la clasificación de estrellas más alta."
     },
     {
       "count": 4,
-      "value": "Al desatar un Dominio de Hielo con el arma \"Balmung\", los enemigos dentro del Dominio de Hielo recibirán daño de hielo equivalente al 60%/75%/90%/105% del ATQ cada segundo."
+      "value": "Al desatar un Dominio de Escarcha con el arma \"Balmung\", los enemigos dentro del Dominio de Escarcha recibirán daño de escarcha equivalente al 60%/75%/90%/105% del ATQ cada segundo."
     }
   ],
   "mind": {

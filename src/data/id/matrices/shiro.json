@@ -8,16 +8,16 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan damage dan Shatter pada target dengan lebih dari 50% HP sebesar 15%/19%/22,5%/26%."
+      "value": "Saat menyerang target yang memiliki HP lebih dari 50%, DMG dan Shatter meningkat 15%/19%/22,5%/26%."
     },
     {
       "count": 4,
-      "value": "Setelah masuk ke pertempuran, memperoleh 20%/25%/30%/35% Damage Boost selama 35 detik. Direset 5 detik setelah keluar dari pertempuran."
+      "value": "Memperoleh 20%/25%/30%/35% Peningkatan DMG selama 35 detik setelah memasuki pertempuran. Direset 5 detik setelah keluar dari pertempuran."
     }
   ],
   "mind": {
     "name": "Isolated",
-    "desc": "Layaknya kucing liar, ia takut pada orang, tetapi terkadang duduk di tepi kolam dan bermain air, bertanya-tanya kenapa begitu kesepian."
+    "desc": "Seperti kucing liar, dia waspada kepada yang lain. Walau begitu, kadang dia akan duduk di pinggir kolam dan memainkan air sambil memikirkan penyebab dirinya begitu kesepian."
   },
   "memory": {
     "name": "Longing for Sea",

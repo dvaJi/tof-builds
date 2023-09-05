@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Wenn ein Ziel geheilt wird, wird sein Volt-ANG für 20 Sek. um 15%/18%/21%/25% erhöht. Dieser Effekt kann nicht gestapelt werden. Es gilt immer nur der Effekt mit der höchsten Stufe."
+      "value": "Wenn ein Ziel geheilt wird, wird sein Volt-ANG für 20 Sek. um 15%/18%/21%/25% erhöht. Dieser Effekt kann nicht gestapelt werden. Bei wiederholter Erlangung wird nur die Wirkung der höchsten Stufe angewandt."
     },
     {
       "count": 4,
@@ -21,11 +21,11 @@
   },
   "memory": {
     "name": "Teddybär",
-    "desc": "Ich habe zwei Orte verloren, die ich mein Zuhause nannte, aber glücklicherweise sind mir einige Habseligkeiten geblieben."
+    "desc": "Ich habe zwei Orte verloren, die ich mein Zuhause nannte, aber glücklicherweise konnte ich ein paar Habseligkeiten von diesen Zeiten behalten."
   },
   "belief": {
     "name": "Aktualisiert",
-    "desc": "Die Unschuld verblasst und der Mut wirkt erwachsener und ausgereifter."
+    "desc": "Der Mut des Alters scheint mit dem Abnutzen der Unschuld durch."
   },
   "emotion": {
     "name": "Innerer Antrieb",

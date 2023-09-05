@@ -4,7 +4,7 @@
   "name": "Saki Fuwa",
   "weapon": "Corriente del Corazón",
   "weapon_id": "heartstream",
-  "birthday": "11 de octubre (Libra)",
+  "birthday": "11 de octubre",
   "birthplace": "Fuerzas Especiales de las Fuerzas de Seguridad de Espejia",
   "gender": "Femenino",
   "info": "Bajo su aspecto inmaduro, esconde un corazón que contrasta rigurosamente con lo que muestra al exterior. En realidad, es como una \"miniadulta\" de pies a cabeza.\nSin embargo, en ocasiones su edad y apariencia salen a la superficie; cuando nadie la ve, a veces practica sus líneas en voz alta como si estuviera en medio de la batalla. Le encanta coleccionar miniaturas de los viejos tiempos como una verdadera entusiasta.",
@@ -20,60 +20,79 @@
   "skills": [
     {
       "name": "Corriente de furia",
-      "type": ["Attack"],
-      "description": "Lanza 5 ataques de Corriente del Corazón mientras estás en el suelo.\nEl primer ataque inflige <b>42.5%</b> del ATQ + <b>2</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl segundo ataque inflige <b>29.5%</b> del ATQ + <b>2</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl tercer ataque inflige <b>45%</b> del ATQ + <b>2</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl cuarto ataque inflige <b>70.6%</b> del ATQ + <b>4</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl quinto ataque inflige <b>102.6%</b> del ATQ + <b>5</b> de daño al objetivo y lo lanza al aire."
+      "type": [
+        "Attack"
+      ],
+      "description": "Lanza 5 ataques de Corriente del Corazón mientras estás en el suelo.\nEl primer ataque inflige <b>42.5%</b> del ATQ más <b>2</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl segundo ataque inflige <b>29.5%</b> del ATQ más <b>2</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl tercer ataque inflige <b>45%</b> del ATQ más <b>2</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl cuarto ataque inflige <b>70.6%</b> del ATQ más <b>4</b> de daño al objetivo y lo hace retroceder una corta distancia.\nEl quinto ataque inflige <b>102.6%</b> del ATQ más <b>5</b> de daño al objetivo y lo lanza al aire."
     },
     {
       "name": "División aérea",
-      "type": ["Jump", "Attack"],
-      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>47.2%</b> del ATQ + <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>43.7%</b> del ATQ + <b>2</b>.\nTercer ataque: Inflige daño igual a <b>54.2%</b> del ATQ + <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>76.9%</b> del ATQ + <b>4</b>.\nQuinto ataque: Inflige daño igual a <b>170.2%</b> del ATQ + <b>9</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>47.2%</b> del ATQ más <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>43.7%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>54.2%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>76.9%</b> del ATQ más <b>4</b>.\nQuinto ataque: Inflige daño igual a <b>170.2%</b> del ATQ más <b>9</b>."
     },
     {
       "name": "Flujo Emocionado: Vórtice",
-      "type": ["Hold: Attack"],
-      "description": "En el modo Flujo Emocionado, pulsa y mantén el ataque normal para activar la habilidad.\nTe desplazas hacia adelante con un torbellino multiataque que inflige un máximo del <b>199.5%</b> del ATQ + <b>11</b> de daño."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "En el modo Flujo Emocionado, pulsa y mantén pulsado el ataque normal para activar la habilidad.\nTe desplazas hacia adelante con un torbellino multiataque que inflige un máximo del <b>199.5%</b> del ATQ más <b>11</b> de daño."
     },
     {
       "name": "Caída helada",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Pulsa y mantén el ataque normal mientras estás en el aire, o utiliza el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar.\nMientras caes, inflige daño igual a <b>30.4%</b> del ATQ + <b>2</b> en cada impacto. Al aterrizar, inflige daño igual a <b>76%</b> del ATQ + <b>4</b> a los objetivos cercanos."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o usa el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar.\nMientras caes, inflige daño igual a <b>30.4%</b> del ATQ más <b>2</b> en cada impacto. Al aterrizar, inflige daño igual a <b>76%</b> del ATQ más <b>4</b> a los objetivos cercanos."
     },
     {
       "name": "Evasión",
-      "type": ["Dodge"],
-      "description": "Evade justo antes de que te impacten para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción por <b>0.5</b> segundos mientras evades."
+      "type": [
+        "Dodge"
+      ],
+      "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante <b>0.5</b> seg."
     },
     {
       "name": "Frente polar",
-      "type": ["Dodge", "Attack"],
-      "description": "Pulsa el ataque normal durante el breve periodo que sigue a la evasión.\nCorre y gira para atacar al objetivo, lo que inflige daño igual a <b>277%</b> del ATQ + <b>15</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante el breve periodo que sigue a la evasión.\nCorre y gira para atacar al objetivo, lo que inflige daño igual a <b>277%</b> del ATQ más <b>15</b>."
     },
     {
       "name": "Flujo Emocionado: Flujo Intermitente",
-      "type": ["Skill"],
-      "description": "Corres hacia el objetivo e inmovilizas temporalmente a los enemigos que se encuentren en el camino, lo que inflige daño demorado de hasta <b>445.3%</b> del ATQ + <b>23</b>. Enfriamiento: <b>30</b> segundos."
+      "type": [
+        "Skill"
+      ],
+      "description": "Corres hacia el objetivo e inmovilizas temporalmente a los enemigos que se encuentren en el camino, lo que inflige daño demorado de hasta <b>445.3%</b> del ATQ más <b>23</b>. Enfriamiento: <b>30</b> seg."
     },
     {
       "name": "Flujo Silencioso: Flujo Concentrado",
-      "type": ["Discharge"],
-      "description": "Desata las habilidades de Flujo Silencioso para entrar en un estado de carga durante un máximo de <b>3</b> segundos, lo que provoca continuamente a los objetivos cercanos y absorbe el daño hasta <b>60%</b> de los PS Máx. Al final del estado de carga, inflige daño de hielo igual a <b>850%</b> del ATQ de hielo + <b>50%</b> x daño absorbido a los objetivos, y <b>20%</b> del valor no consumido se convierte en recuperación de PS. Enfriamiento: <b>30</b> segundos.\n\nEntra en el modo Flujo Silencioso cuando se activa la Resonancia de Fortaleza. <b>Flujo Emocionado: Flujo Intermitente</b> se sustituye por <b>Flujo Silencioso: Flujo Concentrado</b>. Entra en el Flujo Emocionado cuando la Resonancia de Fortaleza no está activada.\nEl nómada puede obtener la Sombra de Espada, que lo sigue cuando utiliza las habilidades de Saki Fuwa. Sombra de Espada desatará Sobrecarga cuando el nómada utilice las habilidades de rama o de descarga de Saki Fuwa, lo que inflige daño a distancia igual a <b>450%</b> del ATQ de hielo. Enfriamiento de Sobrecarga: <b>10</b> segundos.\nEn el estado de Flujo Emocionado: Sombra de Espada desatará Flujo cuando el nómada inflija daño con cualquier arma, lo que inflige daño igual a <b>125%</b> del ATQ de hielo en al primer objetivo alcanzado y recupera PS igual a <b>57%</b> del daño. La recuperación máxima cada vez no supera <b>100%</b> del ATQ. Enfriamiento: <b>0.8</b> segundos.\nEn el estado de Flujo Silencioso: Después de que Sombra de Espada libere la Sobrecarga, el nómada obtiene <b>3</b> bloqueos por <b>10</b> segundos, y la capacidad de bloqueos máxima no supera <b>15%</b> de los PS Máx. Cada bloqueo exitoso inflige daño de contraataque igual a <b>450%</b> del   ATQ de hielo al objetivo, y la destrucción de Sobrecarga aumenta en <b>100%</b> con el efecto de provocación añadido."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Desata las habilidades de Flujo Silencioso para entrar en un estado cargado durante un máximo de <b>3</b> seg, lo que provoca continuamente a los objetivos cercanos y absorbe el daño hasta <b>60%</b> de los PS Máx. Al final del estado cargado, inflige daño de escarcha igual a <b>850%</b> del ATQ de escarcha más <b>50%</b> x daño absorbido a los objetivos, y <b>20%</b> del valor no consumido se convierte en recuperación de PS. Enfriamiento: <b>30</b> seg.\n\nEntra en el modo Flujo Silencioso cuando se activa la Resonancia de Fortaleza. <b>Flujo Emocionado: Flujo Intermitente</b> se sustituye por <b>Flujo Silencioso: Flujo Concentrado</b>. Entra en el Flujo Emocionado cuando la Resonancia de Fortaleza no está activada.\nEl nómada puede obtener la Sombra de Espada, que lo sigue cuando utiliza las habilidades de Saki Fuwa. Sombra de Espada desatará Sobrecarga cuando el nómada utilice las habilidades divergentes o de descarga de Saki Fuwa, lo que inflige daño a distancia igual a <b>450%</b> del ATQ de escarcha. Enfriamiento de Sobrecarga: <b>10</b> seg.\nEn el estado de Flujo Emocionado: Sombra de Espada desatará Flujo cuando el nómada inflija daño con cualquier arma, lo que inflige daño igual a <b>125%</b> del ATQ de escarcha en al primer objetivo alcanzado y restaura PS iguales a <b>57%</b> del daño. La recuperación máxima cada vez no supera <b>100%</b> del ATQ. Enfriamiento: <b>0.8</b> seg.\nEn el estado de Flujo Silencioso: Después de que Sombra de Espada libere la Sobrecarga, el nómada obtiene <b>3</b> bloqueos por <b>10</b> seg, y la capacidad de bloqueos máxima no supera <b>15%</b> de los PS Máx. Cada bloqueo exitoso inflige daño de contraataque igual a <b>450%</b> del ATQ de escarcha al objetivo, y la destrucción de Sobrecarga aumenta en <b>100%</b> con el efecto de provocación añadido."
     }
   ],
   "weapon_type": {
     "name": "Caparazón de hielo",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará</b> a los objetivos por <b>2</b> segundos y los dejará afligidos de congelación durante <b>6</b> segundos. Romper el Caparazón de Hielo causa daño adicional igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, la tasa de carga armamentista del objetivo se reduce en <b>50%</b>."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará con fuerza</b> a los objetivos por <b>2</b> seg y los dejará afligidos de congelación por <b>6</b> seg. Romper el caparazón de hielo inflige daño igual a <b>151%</b> del ATQ. Mientras está afligido de congelación, reduce la tasa de carga de arma del objetivo un <b>50%</b>."
   },
   "weapon_resonance": {
-    "name": "Resonancia Helada",
-    "description": "<b>Resonancia Helada</b>: aumenta el ATQ de Hielo en un <b>15%</b> y la Resistencia al Hielo en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de hielo. El efecto de este set funciona en la ranura secundaria."
+    "name": "Resonancia de Escarcha",
+    "description": "<b>Resonancia de Escarcha</b>: aumenta el ATQ de Escarcha en un <b>15%</b> y la Resistencia a la Escarcha en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de escarcha. El efecto de este set funciona en la ranura secundaria."
   },
   "advancement": [
-    "Cuando se activa Resonancia Helada, todos los enfriamientos de las habilidades de arma se eliminan cada <b>5</b> veces que se usan habilidades de arma, y el daño de Flujo y Contraataque aumenta <b>1</b> vez por <b>25</b> seg.",
+    "Cuando se activa Resonancia de Escarcha, todos los enfriamientos de las habilidades de arma se eliminan cada <b>5</b> veces que se usan habilidades de arma, y el daño de Flujo y Contraataque aumenta <b>1</b> vez por <b>25</b> seg.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
-    "Flujo Emocionado: Aumenta el daño de Sombra de Espada: Sobrecarga a <b>900%</b> del ATQ de hielo.\nFlujo Silencioso: El enfriamiento de Sombra de Espada: Sobrecarga se vuelve <b>5 [@$segundo|segundos]</b>.",
+    "Flujo Emocionado: Aumenta el daño de Sombra de Espada: Sobrecarga a <b>900%</b> del ATQ de escarcha.\nFlujo Silencioso: El enfriamiento de Sombra de Espada: Sobrecarga se vuelve <b>5 seg</b>.",
     "Aumenta el crecimiento de los PS base del arma actual un <b>32%</b>.",
     "Congela el tiempo y activa Phantasia al impactar al objetivo con Sobrecarga. Comparte enfriamiento con la Phantasia que se activa al evadir.",
-    "Al impactar a un objetivo con Sobrecarga, aumenta el daño de hielo en <b>11%</b> durante <b>15</b> segundos.\nAl activar un bloqueo con Sombra de Espada, reduce el daño de hielo que infligen los objetivos enemigos en <b>25%</b> durante <b>12</b> segundos."
+    "Al impactar a un objetivo con Sobrecarga, aumenta el daño de escarcha en <b>11%</b> durante <b>15</b> segundos.\nAl activar un bloqueo con Sombra de Espada, reduce el daño de escarcha que infligen los objetivos enemigos en <b>25%</b> durante <b>12</b> segundos."
   ],
   "traits": [
     {
@@ -82,7 +101,7 @@
     },
     {
       "name": "Espada de la Guardia",
-      "description": "Cuando los PS estén por debajo del <b>70%</b>, aumenta todas las resistencias en <b>40%</b> con un <b>60%</b> de resistencia al hielo adicional. En el estado de Flujo Silencioso: Después de que Sombra de Espada libere la Sobrecarga y bloquee un ataque, el compañero con menor porcentaje de PS obtendrá 3 habilidades de bloqueo, sin incluirte a ti. Duran <b>10</b> segundos. El daño máximo de los bloqueos no superará <b>15%</b> de los PS Máx. del compañero."
+      "description": "Cuando los PS estén por debajo del <b>70%</b>, aumenta todas las resistencias en <b>40%</b> con un <b>60%</b> de resistencia a la escarcha adicional. En el estado de Flujo Silencioso: Después de que Sombra de Espada libere la Sobrecarga y bloquee un ataque, el compañero con menor porcentaje de PS obtendrá 3 habilidades de bloqueo, sin incluirte a ti. Duran <b>10</b> seg. El daño máximo de los bloqueos no superará <b>15%</b> de los PS Máx. del compañero."
     }
   ],
   "ascension": [

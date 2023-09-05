@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Cuando se activa Resonancia Helada: Cada 3 segundos, inflige daño de hielo igual a 60%/100%/150%/220% del ATQ de hielo a los enemigos en un radio de 10 metros y aplica el efecto de Escarcha: Inflige un efecto de ralentización de 3.5% que dura 5 segundos, congela a los objetivos por 3 segundos con 3 acumulaciones (no se aplica a los jefes) y aumenta el daño de hielo recibido por el objetivo en 5% durante 18 segundos. El efecto de esta matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con mayor clasificación de estrellas."
+      "value": "Cuando se activa Resonancia de Escarcha: Cada 3 seg, inflige daño de escarcha igual a 60%/100%/150%/220% del ATQ de Escarcha a los enemigos en un radio de 10 metros y aplica el efecto Escarcha Gélida: Inflige un efecto de ralentización de 3.5% que dura 5 seg, congela a los objetivos por 3 seg con 3 acumulaciones (no se aplica a los jefes) y aumenta el daño de escarcha que el objetivo recibe un 5% por 18 seg. El efecto de esta matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con mayor clasificación de estrellas."
     },
     {
       "count": 4,
-      "value": "Ataca al objetivo 10 veces para infligir una marca de Ultrafrío de 12 segundos. Ultrafrío: Aumenta el daño de hielo infligido al objetivo marcado en 11%/28%/31%/34%. El efecto de esta matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con mayor clasificación de estrellas."
+      "value": "Ataca al objetivo 10 veces para infligir una marca de Ultrafrío de 12 segundos. Ultrafrío: Aumenta el daño de escarcha infligido al objetivo marcado en 11%/28%/31%/34%. El efecto de esta matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con mayor clasificación de estrellas."
     }
   ],
   "mind": {

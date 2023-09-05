@@ -1,0 +1,34 @@
+{
+  "_id": 40017,
+  "id": "saki_fuwa",
+  "name": "Саки Фува",
+  "suitName": "Суперпоток",
+  "hash": "SSR17",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "When Frost Resonance gets triggered: Every <b>3</b> seconds, deal frost damage equal to <b>65%</b>/80%/95%/110% of frost ATK to enemies within a 10-meter radius and apply the Icefrost effect: Inflict -5% slow effect that lasts for <b>350</b> seconds, freeze targets for <b>3</b> seconds after 3 stacks (does not apply to bosses), and increase frost damage taken by the target by <b>5%</b> for <b>18</b> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Attack the target <b>10</b> times to inflict a 12-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by <b>11%</b>/13%/15%/17%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Погруженная",
+    "desc": "Действие с полным погружением."
+  },
+  "memory": {
+    "name": "Испытание",
+    "desc": "Сложное действие."
+  },
+  "belief": {
+    "name": "Средство от беспокойства",
+    "desc": "Действие, снимающее тревогу."
+  },
+  "emotion": {
+    "name": "Под контролем",
+    "desc": "Действие, при котором кажется, что все под контролем."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": 40025,
+  "id": "haboela",
+  "name": "Haboela",
+  "suitName": "Lluvia de ceniza volcánica",
+  "hash": "SSR25",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping this matrix on the current weapon increases final damage by <b>8.5%</b>/10.5%/12.5%/14.5%."
+    },
+    {
+      "count": 4,
+      "value": "Increase final damage by <b>9%</b>/11%/13%/15%. The effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Isla Ardiente",
+    "desc": "Hace calor aquí."
+  },
+  "memory": {
+    "name": "Disyuntor",
+    "desc": "¿Cómo llegó aquí después del cambio de terreno?"
+  },
+  "belief": {
+    "name": "Erupción",
+    "desc": "Reúne y absorbe la lava, y luego..."
+  },
+  "emotion": {
+    "name": "Rabia",
+    "desc": "Guardián del volcán con mal genio. Un muy, muy mal genio."
+  }
+}

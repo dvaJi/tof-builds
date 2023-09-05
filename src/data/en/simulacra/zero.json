@@ -4,11 +4,11 @@
   "name": "Zero",
   "weapon": "Negating Cube",
   "weapon_id": "negating_cube",
-  "birthday": "June 6 (Gemini)",
+  "birthday": "June 6",
   "birthplace": "Unknown",
   "gender": "Male",
   "info": "Sharp-tongued, two-faced, competitive, and arrogant, especially when encountering tasks he deems beneath him. At times, he can show a level of maturity and discipline beyond his age, and he is exceptionally perceptive. But most of the time, he can't be any less interested in other peoples' words, and doesn't bother remembering things that serve him no interest.",
-  "description": "A geeky, computer genius who looks around 15 years old, born in Banges and nicknamed \"Zero\". However, his real name and personal details have been lost, deliberately destroyed by himself.\nHighly adept at intelligence processing, electronic communications, and data management, Zero can find and extract huge amounts of information through the computer and network analysis. He once shocked Hykros by penetrating their security system in an audacious cyberattack, which led to him being designated a \"person of interest\". At present, Zero is under Hykros' strict control and oversight in an undisclosed location, where he engages in intelligence-related operations.",
+  "description": "A geeky, computer genius who looks around 15 years old, born in Banges and nicknamed \"Zero\". However, his real name and personal details have been lost, deliberately destroyed by himself.\nHighly adept at intelligence processing, electronic communications, and data management, Zero can find and extract huge amounts of information through the computer and network analysis. He once shocked Hykros by penetrating their security system in an audacious cyberattack, which led to him being designated a \"person of interest\". At present, Zero is under Hykros's strict control and oversight in an undisclosed location, where he engages in intelligence-related operations.",
   "like": "Technology, games",
   "dislike": "Going out, cooking",
   "element": "Fire",
@@ -20,56 +20,77 @@
   "skills": [
     {
       "name": "Normal Attack",
-      "type": ["Attack"],
-      "description": "While on the ground, manipulate the cube to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.7%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>38.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>118.5%</b> of ATK + <b>6</b>.\nFourth Attack: Deal damage equal to <b>79.6%</b> of ATK + <b>4</b>.\nFifth Attack: Deal damage equal to <b>80.9%</b> of ATK + <b>4</b> up to 3 times and <b>launch</b> the target.\n<b>Passive: If normal attacks hit targets 6 times, gain 1 cube. Up to 5 cubes can be stored.</b>"
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, manipulate the cube to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.7%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal damage equal to <b>38.2%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>118.5%</b> of ATK plus <b>6</b>.\nFourth Attack: Deal damage equal to <b>79.6%</b> of ATK plus <b>4</b>.\nFifth Attack: Deal damage equal to <b>80.9%</b> of ATK plus <b>4</b> up to 3 times and <b>launch</b> the target.\n<b>Passive: If normal attacks hit targets 6 times, gain 1 cube. Up to 5 cubes can be stored.</b>"
     },
     {
       "name": "Omnium Missile",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne, use normal attack to activate the energy within the cube, firing up to <b>5</b> missiles and dealing total damage equal to <b>59.3%</b> of ATK + <b>3</b>. Consume up to <b>250</b> endurance.\n<b>Passive: If the Wanderer has any stored cubes, consume all cubes to fire Omnium Missiles at targets to deal damage.</b>"
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, use normal attack to activate the energy within the cube, firing up to <b>5</b> missiles and dealing total damage equal to <b>59.3%</b> of ATK plus <b>3</b>. Consume up to <b>250</b> endurance.\n<b>Passive: If the Wanderer has any stored cubes, consume all cubes to fire Omnium Missiles at targets to deal damage.</b>"
     },
     {
       "name": "Energy Overflow",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "While airborne or after jumping once, use normal attack to trigger Energy Overflow.\nUpon landing, fire a shockwave that travels forward, dealing up to <b>23.4%</b> of ATK + <b>1</b> damage to targets in its path."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "While airborne or after jumping once, use normal attack to trigger Energy Overflow.\nUpon landing, fire a shockwave that travels forward, dealing up to <b>23.4%</b> of ATK plus <b>1</b> damage to targets in its path."
     },
     {
       "name": "Omnium Shock",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "On the third normal attack, hold the normal attack button to trigger Omnium Shock.\nA pillar of energy launches nearby targets into the air, dealing damage equal to <b>68.4%</b> of ATK + <b>4</b>. The pillar lasts 5 seconds and deals damage equal to <b>28.5%</b> of ATK + <b>2</b> to nearby targets every second."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "On the third normal attack, hold the normal attack button to trigger Omnium Shock.\nA pillar of energy launches nearby targets into the air, dealing damage equal to <b>68.4%</b> of ATK plus <b>4</b>. The pillar lasts 5 seconds and deals damage equal to <b>28.5%</b> of ATK plus <b>2</b> to nearby targets every second."
     },
     {
       "name": "Energy Sentinel",
-      "type": ["Passive"],
-      "description": "Cubes orbiting the Wanderer deal damage equal to <b>9.7%</b> of ATK + <b>1</b> to enemies."
+      "type": [
+        "Passive"
+      ],
+      "description": "Cubes orbiting the Wanderer deal damage equal to <b>9.7%</b> of ATK plus <b>1</b> to enemies."
     },
     {
       "name": "Energy Missile",
-      "type": ["Passive"],
-      "description": "When the Wanderer casts Omnium Missiles and Energy Overflow, their orbiting cubes are fired as well, dealing damage equal to <b>48.5%</b> of ATK + <b>3</b> to the target."
+      "type": [
+        "Passive"
+      ],
+      "description": "When the Wanderer casts Omnium Missiles and Energy Overflow, their orbiting cubes are fired as well, dealing damage equal to <b>48.5%</b> of ATK plus <b>3</b> to the target."
     },
     {
       "name": "Soul Surge",
-      "type": ["Dodge"],
-      "description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area and grants hitstun immunity for <b>0.5</b> seconds.\nIf the Wanderer has less than <b>5</b> cubes, each successful dodge has a <b>40%</b> chance to restore 1 dodge attempt.\nSuccessful dodges do not interrupt normal attack combos.\n<b>Passive: Gain a cube for every successful aerial dodge.</b>"
+      "type": [
+        "Dodge"
+      ],
+      "description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area. Become immune to hitstun while dodging for <b>0.5</b> seconds.\nIf the Wanderer has less than <b>5</b> cubes, each successful dodge has a <b>40%</b> chance to restore 1 dodge attempt.\nSuccessful dodges do not interrupt normal attack combos.\n<b>Passive: Gain a cube for every successful aerial dodge.</b>"
     },
     {
       "name": "Omnium Shield",
-      "type": ["Skill"],
-      "description": "Create shielding for self and nearby allies to block up to <b>800%</b> of ATK in damage for <b>10</b> seconds, deal <b>124.9%</b> of ATK + <b>8</b> damage to nearby targets and <b>strongly launch</b> them. Each cube in possession when this skill is used adds <b>160%</b> of ATK to max shielding and exhaust the cube. Cooldown: <b>60</b> seconds."
+      "type": [
+        "Skill"
+      ],
+      "description": "Create shielding for self and nearby allies to block up to <b>800%</b> of ATK in damage for <b>10</b> seconds, deal <b>124.9%</b> of ATK plus <b>8</b> damage to nearby targets and <b>strongly launch</b> them. Each cube in possession when this skill is used adds <b>160%</b> of ATK to max shielding and exhaust the cube. Cooldown: <b>60</b> seconds."
     },
     {
       "name": "Omnium Wave",
-      "type": ["Discharge"],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, <b>remove all debuffs from the wielder</b> and gain <b>5</b> cubes after switching to this weapon, then unleash the <b>5</b> cubes along with a Shockwave. This Shockwave deals damage equal to <b>171%</b> of ATK + <b>9</b> to nearby targets, and <b>strongly launches</b> them into the air. Each cube also deals damage equal to <b>48.5%</b> of ATK + <b>3</b>. If allies are in the vicinity, the allies and the wielder gain damage immunity for <b>3</b> seconds."
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and gain <b>5</b> cubes, then unleash the <b>5</b> cubes along with a Shockwave. This Shockwave deals damage equal to <b>171%</b> of ATK plus <b>9</b> to nearby targets, and <b>strongly launches</b> them into the air. Each cube also deals damage equal to <b>48.5%</b> of ATK plus <b>3</b>. If allies are in the vicinity, the allies and the wielder gain damage immunity for <b>3</b> seconds."
     }
   ],
   "weapon_type": {
     "name": "Flame",
-    "description": "When the weapon is fully charged, the next attack will set the target on fire for <b>8</b> seconds, causing damage equal to <b>58%</b> of ATK every second. Ignited targets have <b>50%</b> reduced healing efficacy."
+    "description": "When the weapon is fully charged, the next attack will ignite the target for <b>8</b> seconds, dealing damage equal to <b>58%</b> of ATK every second. While Ignited, targets' healing effect is reduced by <b>50%</b>."
   },
   "advancement": [
-    "Deal damage and produce a healing orb, which lasts for <b>20</b> seconds and restore HP of any teammate who picks it up equal to <b>60%</b> of ATK. <b>2</b>-second cooldown.",
+    "Deal damage and produce a healing orb which lasts for <b>20</b> seconds and restores the HP of any teammate who picks it up. The HP restored is equal to <b>60%</b> of ATK. <b>2</b>-second cooldown.",
     "Increase the current weapon's base ATK growth by <b>16%</b>.",
     "Reduce skill cooldown from <b>60</b> seconds to <b>30</b> seconds. Restore HP equal to <b>30%</b> of ATK every second while the shield is active.",
     "Increase the current weapon's base HP growth by <b>32%</b>.",
@@ -249,13 +270,13 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_lava",
-        "name": "Heart of lava",
+        "name": "Heart of Lava",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "acidproof_glaze_ii",
-        "name": "Acidproof glaze II",
+        "name": "Acidproof Glaze II",
         "rarity": "SR",
         "amount": 5
       },

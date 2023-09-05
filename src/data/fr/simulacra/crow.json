@@ -4,7 +4,7 @@
   "name": "Crow",
   "weapon": "Lames de tonnerre",
   "weapon_id": "thunderblades",
-  "birthday": "17 décembre (Sagittaire)",
+  "birthday": "17 décembre",
   "birthplace": "Inconnu",
   "gender": "Masculin",
   "info": "Une personne enjouée qui essaie également de rendre tout le monde heureux. Extraverti, honnête, optimiste et un peu trop débordant de joie par moments.\nIl s'entraîne toujours à faire des tours avec ses dagues pour épater la galerie et collectionne les mauvaises blagues qu'il raconte souvent.\nDerrière son apparence insouciante se cache une forte détermination. Une fois qu'il s'investit dans quelque chose, il ne s'arrête pas tant qu'il n'a pas terminé, et c'est la raison pour laquelle il est parfois trop dur avec lui-même.",
@@ -20,48 +20,69 @@
   "skills": [
     {
       "name": "Lames jumelles",
-      "type": ["Attack"],
+      "type": [
+        "Attack"
+      ],
       "description": "Lorsque vous êtes au sol, brandissez la paire de lames doubles pour lancer jusqu'à 5 attaques consécutives.\nPremière attaque : inflige des dégâts équivalant à <b>60.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>73%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>90.9%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>96.8%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nCinquième attaque : inflige des dégâts équivalant à <b>202.2%</b> de l'ATQ + <b>11</b> et repousse la cible sur une courte distance."
     },
     {
       "name": "Déluge céleste",
-      "type": ["Jump", "Attack"],
+      "type": [
+        "Jump",
+        "Attack"
+      ],
       "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>65.6%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>38.4%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>92%</b> de l'ATQ + <b>5</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>138%</b> de l'ATQ + <b>7</b>."
     },
     {
       "name": "Fente rapide",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Fente rapide.\nFrappe la cible et la <b>suspend longuement</b>, infligeant un total de dégâts égal à <b>116.8%</b> de l'ATQ + <b>6</b>."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Fente rapide.\nFrappe la cible et la <b>suspend longuement</b>, infligeant des dégâts équivalant à <b>116.8%</b> de l'ATQ + <b>6</b>."
     },
     {
       "name": "Frappe spirale",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Appuyez et maintenez Attaque normale en l'air (ou appuyez quand une cible est sélectionnée), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Frappe spirale.\nEn descendant, vous infligez des dégâts équivalant à <b>42%</b> de l'ATQ + <b>2</b> à chaque coup."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale en l'air (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Frappe spirale.\nEn descendant, vous infligez des dégâts équivalant à <b>42%</b> de l'ATQ + <b>2</b> à chaque coup."
     },
     {
       "name": "Attaque furtive",
-      "type": ["Croch", "Attack"],
+      "type": [
+        "Croch",
+        "Attack"
+      ],
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
       "name": "Lames volantes",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Lames volantes.\nVous entaillez une cible <b>5</b> fois, en infligeant à chaque fois des dégâts équivalant à <b>26.4%</b> de l'ATQ + <b>1</b>. Vous confère l'immunité contre les effets de contrôle pendant la mise en place."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Appuyer sur l'attaque normale pendant la courte fenêtre d'esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Lames volantes.\nVous entaillez une cible <b>5</b> fois, en infligeant à chaque fois des dégâts équivalant à <b>26.4%</b> de l'ATQ + <b>1</b>. Vous confère l'immunité contre les effets de contrôle pendant la mise en place."
     },
     {
       "name": "Lames boomerang",
-      "type": ["Skill"],
+      "type": [
+        "Skill"
+      ],
       "description": "Lance <b>6</b> lames boomerang, chacune infligeant des dégâts équivalant à <b>52.8%</b> de l'ATQ + <b>3</b>. Octroie <b>Hypercorps</b> pendant une durée allant jusqu'à <b>8</b> secondes. Cet effet est dissipé lorsque les lames reviennent. Temps de recharge : <b>45</b> secondes."
     },
     {
       "name": "Lames orbitales",
-      "type": ["Discharge"],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>élimine toutes les altérations sur le porteur</b> et vous vous ruez à l'emplacement ciblé au moment où vous changez d'arme pour utiliser celle-ci et attaquer, infligeant des dégâts équivalant à <b>86.9%</b> de l'ATQ + <b>5</b> et électrocutant la cible (après <b>5</b> secondes, inflige des dégâts de foudre équivalant à <b>15%</b> des dégâts infligés, jusqu'à <b>350%</b> de l'ATQ de l'Explorateur. Ceci est un état particulier, qui ne peut être dissipé). Génère également 3 lames qui orbitent autour de l'Explorateur et infligent des dégâts équivalant à <b>65.2%</b> de l'ATQ + <b>3</b> à tous ceux qui entrent en contact."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>supprime toutes les altérations sur le porteur</b> et vous vous ruez à l'emplacement ciblé, infligeant des dégâts équivalant à <b>86.9%</b> de l'ATQ + <b>5</b> et électrocutant la cible (après <b>5</b> secondes, inflige des dégâts de foudre équivalant à <b>15%</b> des dégâts infligés, jusqu'à <b>350%</b> de l'ATQ de l'Explorateur. Ceci est un état particulier, qui peut être dissipé). Génère également 3 lames qui orbitent autour de l'Explorateur et infligent des dégâts équivalant à <b>65.2%</b> de l'ATQ + <b>3</b> au contact."
     }
   ],
   "weapon_type": {
     "name": "Foudre",
-    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous les effets bénéfiques et inflige des dégâts correspondant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse lourdement</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous leurs effets bénéfiques et inflige des dégâts équivalant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
   },
   "advancement": [
     "Attaquer les cibles par-derrière accroît de <b>40%</b> le taux de crit de toutes les attaques de lames doubles. Attaquer une cible électrifiée par-derrière accroît de <b>100%</b> le taux de crit et de <b>30%</b> les dégâts critiques.",

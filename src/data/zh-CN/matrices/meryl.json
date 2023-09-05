@@ -1,0 +1,38 @@
+{
+  "_id": 40001,
+  "id": "meryl",
+  "name": "梅丽尔",
+  "suitName": "纯白的守护",
+  "hash": "SSR1",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "If HP is less than <b>30%</b> after being attacked, gain a shield equal to <b>20%</b>/26%/32%/40% of Max HP for <b>10</b> seconds. Cooldown: <b>90</b> seconds."
+    },
+    {
+      "count": 4,
+      "value": "Increase Whirlwind's damage by <b>36%</b>/45%/54%/63% and restore HP equal to <b>30%</b>/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every <b>0.5</b> seconds cannot exceed <b>60%</b>72%/81%/90% of ATK."
+    }
+  ],
+  "mind": {
+    "name": "控剑模拟",
+    "desc": "复杂的模拟剑技计算程序，似乎还用来校准操控，总之一般人无法使用。"
+  },
+  "memory": {
+    "name": "唤醒装置",
+    "desc": "链接记忆碎片的装置，用来导入记忆残识，值得注意的是不含使用说明。"
+  },
+  "belief": {
+    "name": "绝对能力",
+    "desc": "必然是来源于执行者强大能力的自我肯定和外界认可。"
+  },
+  "emotion": {
+    "name": "心理隔离",
+    "desc": "拒绝所有社交环节，无形中设置的与他人沟通的心理屏障。"
+  },
+  "undefined": {
+    "name": "漫漫长卷",
+    "desc": "那部书的真正含义，或许需要穷极一生才能揭晓。"
+  }
+}

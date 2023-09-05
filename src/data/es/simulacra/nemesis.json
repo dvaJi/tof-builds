@@ -4,7 +4,7 @@
   "name": "Némesis",
   "weapon": "Venus",
   "weapon_id": "venus",
-  "birthday": "23 de mayo (Géminis)",
+  "birthday": "23 de mayo",
   "birthplace": "Ángel de la Clemencia",
   "gender": "Femenino",
   "info": "Después de la reestructura, que consiste de lavado de cerebro, borrado de memoria y un implante de una segunda personalidad, ha estado un tanto inestable emocionalmente por un tiempo.\nSe forzó la supresión de la personalidad original de Shirli. Por suerte, básicamente, la situación se estabilizó, con una ligera preocupación que queda por alguna amenaza potencial. \nEs seguro que nunca volverá a ser la Shirli llena de vitalidad, pero ya está más recuperada como una niña normal. \nLa duda sobre su propia existencia sigue ahí, lo que personifica la inquietud y las heridas que quedan en ella. Bueno... al menos reunió el valor de enfrentar sus miedos, lo cual es una señal de un buen inicio.",
@@ -20,52 +20,72 @@
   "skills": [
     {
       "name": "Ataque normal",
-      "type": ["Attack"],
-      "description": "En el suelo, inicias 5 ataques seguidos con Balmung.\nPrimer ataque: Inflige daño equivalente al <b>50.8%</b> del ATQ + <b>3</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño equivalente al <b>36.3%</b> del ATQ + <b>2</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño equivalente al <b>98.3%</b> del ATQ + <b>5</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño equivalente al <b>67.3%</b> del ATQ + <b>4</b> y hace retroceder al objetivo.\nQuinto ataque: Inflige daño equivalente al <b>148.3%</b> del ATQ + <b>8</b> y derriba al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, inicia 5 ataques seguidos con Balmung.\nPrimer ataque: Inflige daño igual a <b>50.8%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>36.3%</b> del ATQ más <b>2</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>98.3%</b> del ATQ más <b>5</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>67.3%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nQuinto ataque: Inflige daño igual a <b>148.3%</b> del ATQ más <b>8</b> y derriba al objetivo."
     },
     {
       "name": "Descarga Aérea",
-      "type": ["Jump", "Attack"],
-      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>62.5%</b> del ATQ + <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>62%</b> del ATQ + <b>5</b>.\nTercer ataque: Inflige daño igual a <b>3%</b> del ATQ + <b>120</b>.\nCuarto ataque: Inflige daño igual a <b>6%</b> del ATQ + <b>71.2</b>.\nQuinto ataque: Inflige daño igual a <b>4%</b> del ATQ + <b>126</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>62.5%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>62%</b> del ATQ más <b>5</b>.\nTercer ataque: Inflige daño igual a <b>3%</b> del ATQ más <b>120</b>.\nCuarto ataque: Inflige daño igual a <b>6%</b> del ATQ más <b>71.2</b>.\nQuinto ataque: Inflige daño igual a <b>4%</b> del ATQ más <b>126</b>."
     },
     {
       "name": "Persecución Rápida",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Tras el segundo ataque normal, mantén el ataque normal para activar Persecución Rápida.\nDispara un misil guiado por láser al objetivo, lo que inflige hasta <b>107.5%</b> del ATQ + <b>6</b> de daño."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tras el segundo ataque normal, mantén el ataque normal para activar Persecución Rápida.\nDispara un misil guiado por láser al objetivo, lo que inflige daño de hasta <b>107.5%</b> del ATQ más <b>6</b>."
     },
     {
       "name": "Enfoque Doble",
-      "type": ["Hold: Attack"],
-      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque y desatar una esfera electrificada que explota al impacto, lo que inflige daño igual a <b>118.4%</b> del ATQ + <b>6</b> a los enemigos cercanos."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque y desatar una esfera electrificada que explota al impacto, lo que inflige daño igual a <b>118.4%</b> del ATQ más <b>6</b> a los enemigos cercanos."
     },
     {
       "name": "Concentración de Giro Gemelo",
-      "type": ["Perfect Attack", "Attack"],
-      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta para activar un campo magnético ralentizador.\nVenus dispara un orbe cargado que se desplaza hacia adelante una distancia establecida y explota en contacto con los objetivos. Inflige daño igual a <b>171.6%</b> del ATQ + <b>9</b>, y genera un campo magnético ralentizador durante <b>3</b> segundos, lo que reduce la velocidad de movimiento y la velocidad de ataque de todos los enemigos atrapados en él en <b>35%</b>.\nAl evadir, se activará una Cadena de Curación que cura a los aliados cercanos un <b>67.7%</b> del ATQ del nómada; durante los próximos <b>10</b> segundos, se activará una pequeña Cadena de Curación cada <b>2</b> segundos, la cual cura a los aliados cercanos un <b>22.5%</b> del ATQ del nómada. Evadir otorga a <b>1</b> acumulación de Potenciación de Cadena de Curación, lo que aumenta los efectos de Cadenas de Curación un <b>25%</b>. Se acumula hasta <b>5</b> veces y dura <b>30</b> segundos. Cambiar de arma no anula este efecto."
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta para activar un campo magnético ralentizador.\nVenus dispara un orbe cargado que explota tras avanzar una distancia determinada o entrar en contacto con objetivos. Inflige daño igual a <b>171.6%</b> del ATQ más <b>9</b>, y genera un campo magnético ralentizador durante <b>3</b> seg, lo que reduce la velocidad de movimiento y la velocidad de ataque de todos los enemigos atrapados en él en <b>35%</b>.\nAl evadir, se activará una Cadena de Curación que cura a los aliados cercanos un <b>67.7%</b> del ATQ del nómada; durante los próximos <b>10</b> seg, se activará una pequeña Cadena de Curación cada <b>2</b> seg, la cual cura a los aliados cercanos un <b>22.5%</b> del ATQ del nómada. Evadir otorga a <b>1</b> acumulación de Potenciación de Cadena de Curación, lo que aumenta los efectos de Cadenas de Curación un <b>25%</b>. Se acumula hasta <b>5</b> veces y dura <b>30</b> seg. Cambiar de arma no anula este efecto."
     },
     {
       "name": "Rayos Paralelos",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta (toca un botón de flecha antes de esquivar) para activar Rayos Paralelos.\nVenus dispara un par de Rayos Paralelos de energía, lo que inflige daño perforante igual a <b>171.6%</b> del ATQ + <b>9</b>.\nAl evadir, se activará una Cadena de Curación que cura a los aliados cercanos un <b>67.7%</b> del ATQ del nómada; durante los próximos <b>10</b> segundos, se activará una pequeña Cadena de Curación cada <b>2</b> segundos, la cual cura a los aliados cercanos un <b>22.5%</b> del ATQ del nómada. Evadir otorga <b>1</b> acumulación de potenciación de Cadena de Curación, lo que aumenta los efectos de las Cadenas de Curación un <b>25%</b> (se acumula hasta <b>5</b> veces) y dura <b>30</b> segundos. Cambiar de arma no anula este efecto."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de flecha antes de esquivar) para activar Rayos Paralelos.\nVenus dispara un par de Rayos Paralelos de energía, lo que inflige daño perforante igual a <b>171.6%</b> del ATQ más <b>9</b>.\nAl evadir, se activará una Cadena de Curación que cura a los aliados cercanos un <b>67.7%</b> del ATQ del nómada; durante los próximos <b>10</b> seg, se activará una pequeña Cadena de Curación cada <b>2</b> seg, la cual cura a los aliados cercanos un <b>22.5%</b> del ATQ del nómada. Evadir otorga <b>1</b> acumulación de potenciación de Cadena de Curación, lo que aumenta los efectos de las Cadenas de Curación un <b>25%</b> (se acumula hasta <b>5</b> veces) y dura <b>30</b> seg. Cambiar de arma no anula este efecto."
     },
     {
       "name": "Bloqueo de Pulso",
-      "type": ["Skill"],
-      "description": "Venus dispara un misil guiado que explota al entrar en contacto con objetivos enemigos, lo que inflige daño igual a <b>233.2%</b> del ATQ + <b>12</b> y derriba objetivos. Enfriamiento: <b>25</b> segundos."
+      "type": [
+        "Skill"
+      ],
+      "description": "Venus dispara un misil guiado que explota al entrar en contacto con objetivos enemigos, lo que inflige daño igual a <b>233.2%</b> del ATQ más <b>12</b> y derriba objetivos. Enfriamiento: <b>25</b> seg."
     },
     {
       "name": "Explosión de Rayo de Partículas",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma esté completa</span> o se active <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma <b>se eliminarán todas las desventajas del usuario</b> y le ordena a Venus que dispare un rayo en forma de cruz al suelo, lo que crea un área inestable y ralentiza la velocidad de movimiento de los objetivos un <b>70%</b> por <b>5</b> segundos. Tras una breve demora, desata un estallido electromagnético que inflige daño igual a <b>393.9%</b> del ATQ + <b>21</b>.\nAl utilizar un ataque de descarga, aparecerá <b>1</b> Electrodo cerca de la posición del enemigo, el cual ataca una vez cada <b>1.5</b> segundos e inflige daño igual a <b>39.9%</b> del ATQ + <b>2</b>.\nEl Electrodo obtiene <b>100%</b> de las estadísticas del nómada, puede recibir ataques y curación, y pierde <b>3%</b> de sus PS Máx. cada segundo.\nSolo puede existir <b>1</b> Electrodo en un momento dado, y la invocación de un nuevo Electrodo sustituirá al anterior."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y ordena a Venus que dispare un rayo en forma de cruz al suelo, lo que crea un área inestable y ralentiza la velocidad de movimiento de los objetivos un <b>70%</b> por <b>5</b> seg. Tras un breve retraso, desata un estallido electromagnético que inflige daño igual a <b>393.9%</b> del ATQ más <b>21</b>.\nAl utilizar un ataque de descarga, aparecerá <b>1</b> Electrodo cerca de la posición del enemigo, el cual ataca una vez cada <b>1.5</b> seg e inflige daño igual a <b>39.9%</b> del ATQ más <b>2</b>.\nEl Electrodo obtiene <b>100%</b> de las estadísticas del nómada, puede recibir ataques y curación, y pierde <b>3%</b> de sus PS Máx. cada segundo.\nSolo puede existir <b>1</b> Electrodo en un momento dado, y la invocación de un nuevo Electrodo sustituirá al anterior."
     }
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas las mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> segundos."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
   },
   "weapon_resonance": {
     "name": "Resonancia Eléctrica",
-    "description": "<b>Resonancia Eléctrica</b>: aumenta el ATQ Eléctrico en un <b>15%</b> y la Resistencia a la Electricidad en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas eléctricas. El efecto de este set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
+    "description": "<b>Resonancia Eléctrica</b>: Aumenta el ATQ eléctrico un <b>15%</b> y la resistencia a la electricidad un <b>25%</b>. Se activa al equipar <b>2</b> o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\n<b>Sacramento Eléctrico</b>: Aumenta el ATQ eléctrico de todo el equipo un <b>5%</b> cuando se activa Resonancia de Sacramento."
   },
   "advancement": [
     "Tras usar <b>Bloqueo de Pulso</b> o <b>Explosión de Rayo de Partículas</b>, crea <b>1</b> Electrodo que otorga inmediatamente al usuario <b>5</b> acumulaciones de Potenciación de Cadena de Curación. Además, desata una Cadena de Curación que cura a los aliados cercanos un <b>135%</b> del ATQ del Nómada.",

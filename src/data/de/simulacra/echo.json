@@ -4,7 +4,7 @@
   "name": "Echo",
   "weapon": "Donner-Hellebarde",
   "weapon_id": "thunderous_halberd",
-  "birthday": "14. August (Löwe)",
+  "birthday": "14. August",
   "birthplace": "Keine Aufzeichnungen",
   "gender": "Weiblich",
   "info": "Ein ungeschicktes Mädchen voller Tatendrang, die das Herz auf der Zunge trägt.\nWeil sie einst von einem reisenden Händler gerettet wurde, reist sie jetzt umher, um ihrerseits Gutes zu tun.\nSie hasst das Böse und will es ausmerzen, indem sie gute Taten begeht. Da sie jung und unerfahren ist, beurteilt sie andere oft nach fragwürdigen Kriterien.",
@@ -20,53 +20,77 @@
   "skills": [
     {
       "name": "Stoß",
-      "type": ["Attack"],
-      "description": "Wenn der Anwender auf dem Boden steht und den Langspeer schwingt, greift er 5-mal hintereinander an.\nErster Angriff: verursacht Schaden in Höhe von <b>24.7%</b> des ANG + <b>1</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: verursacht Schaden in Höhe von <b>22.6%</b> des ANG + <b>1</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: verursacht Schaden in Höhe von <b>47.2%</b> des ANG + <b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: verursacht Schaden in Höhe von <b>65.2%</b> des ANG + <b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: verursacht Schaden in Höhe von <b>114.95%</b> des ANG + <b>6</b> und stößt das Ziel eine beträchtliche Strecke zurück."
+      "type": [
+        "Attack"
+      ],
+      "description": "Wenn der Anwender am Boden den Langspeer schwingt, greift er 5-mal hintereinander an.\nErster Angriff: Verursacht Schaden in Höhe von <b>24.7%</b> des ANG +<b>1</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>22.6%</b> des ANG +<b>1</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>47.2%</b> des ANG +<b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>65.2%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>114.95%</b> des ANG +<b>6</b> und stößt das Ziel deutlich zurück."
     },
     {
       "name": "Sprungschlag",
-      "type": ["Jump", "Attack"],
-      "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: verursacht Schaden in Höhe von <b>27.4%</b> des ANG + <b>1</b>.\nZweiter Angriff: verursacht Schaden in Höhe von <b>23.2%</b> des ANG + <b>1</b>.\nDritter Angriff: verursacht Schaden in Höhe von <b>45.8%</b> des ANG + <b>2</b>.\nVierter Angriff: verursacht Schaden in Höhe von <b>110%</b> des ANG + <b>6</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>27.4%</b> des ANG +<b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>23.2%</b> des ANG +<b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>45.8%</b> des ANG +<b>2</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>110%</b> des ANG +<b>6</b>."
     },
     {
       "name": "Kopfspalter",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel ausgewählt ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Kopfspalter“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>8%</b> des ANG + <b>1</b> pro Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>48.5%</b> des ANG + <b>3</b> und das Ziel wird zu Fall gebracht.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Kopfspalter“ auszulösen.\nVerursacht beim Fallen pro Treffer Schaden in Höhe von <b>8%</b> des ANG +<b>1</b>. Verursacht bei der Landung Schaden in Höhe von <b>48.5%</b> des ANG +<b>3</b> und bringt das Ziel zu Fall.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
       "name": "Speerhagel",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Speerhagel“ auszulösen.\nLässt das Ziel bei einem Treffer <b>länger schweben</b> und verursacht Schaden in Höhe von <b>49.2%</b> des ANG + <b>3</b>. Tippe erneut, um das Ziel in der Luft weiter anzugreifen und ihm Schaden in Höhe von bis zu <b>98%</b> des ANG + <b>5</b> zuzufügen."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Speerhagel“ auszulösen.\nLässt das Ziel bei einem Treffer <b>länger schweben</b> und verursacht Schaden in Höhe von <b>49.2%</b> des ANG +<b>3</b>. Tippe erneut, um das Ziel in der Luft weiter anzugreifen und ihm Schaden in Höhe von bis zu <b>98%</b> des ANG +<b>5</b> zuzufügen."
     },
     {
       "name": "Schleichattacke",
-      "type": ["Croch", "Attack"],
-      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG + <b>30</b> verursacht."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG +<b>30</b> verursacht."
     },
     {
       "name": "Fliegender Tritt",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Um „Fliegender Tritt“ auszulösen, tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (vor dem Ausweichen auf eine Pfeiltaste tippen).\nDies fügt getroffenen Gegnern Schaden in Höhe von <b>72%</b> des ANG + <b>4</b> zu, stößt sie deutlich zurück und <b>betäubt</b> sie für <b>1</b> Sek. oder für <b>0,5</b> Sek., wenn das Ziel ein Wanderer ist."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Fliegender Tritt“ auszulösen.\nDies fügt getroffenen Gegnern Schaden in Höhe von <b>72%</b> des ANG +<b>4</b> zu, stößt sie deutlich zurück und <b>betäubt</b> sie für <b>1</b> Sek. oder für <b>0,5</b> Sek., wenn das Ziel ein Wanderer ist."
     },
     {
       "name": "Stürzender Aufprall",
-      "type": ["Dodge", "Attack"],
-      "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um „Stürzender Aufprall“ auszulösen.\nDies treibt den Langspeer in den Boden, verursacht Schaden in Höhe von <b>52.8%</b> des ANG + <b>3</b> und lässt Ziele <b>länger schweben</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Stürzender Aufprall“ auszulösen.\nDies rammt den Langspeer in den Boden, verursacht Schaden in Höhe von <b>52.8%</b> des ANG +<b>3</b> und lässt Ziele <b>länger schweben</b>."
     },
     {
       "name": "Mondjäger",
-      "type": ["Skill"],
-      "description": "Lässt Ziele <b>länger schweben</b> und den Anwender in die Luft springen, um Schaden in Höhe von <b>127.5%</b> des ANG + <b>7</b> zu verursachen. Abklingzeit: <b>25</b> Sek."
+      "type": [
+        "Skill"
+      ],
+      "description": "Lässt Ziele <b>länger schweben</b> und den Anwender in die Luft springen, um Schaden in Höhe von <b>127.5%</b> des ANG +<b>7</b> zu verursachen. Abklingzeit: <b>25</b> Sek."
     },
     {
       "name": "Donnerschlag",
-      "type": ["Discharge"],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>, er springt in die Luft und wirft einen donnernden Speer. Dies verursacht eine Flächenexplosion sowie Schaden in Höhe von <b>296.7%</b> des ANG + <b>16</b> und <b>betäubt</b> das Ziel stark für <b>1</b> Sek."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>, er springt in die Luft und wirft einen donnernden Speer. Dieser explodiert bei Bodenkontakt und verursacht Schaden in Höhe von <b>296.7%</b> des ANG + <b>16</b> und <b>betäubt</b> die Ziele <b>1</b> Sek. lang stark."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und für <b>6</b> Sek. elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sekunden keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
   },
   "advancement": [
     "Erhöht Zertrümmern um <b>15%</b>. Wenn der Schild des Ziels zertrümmert wurde, wird der ANG aller Teammitglieder für <b>30 Sek.</b> um <b>15%</b> erhöht. Kann nicht gestapelt werden.",

@@ -8,16 +8,16 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Jika HP kurang dari 30% setelah diserang, memperoleh perisai sebesar 20%/26%/32%/40% Max HP selama 10 detik. CD: 90 detik."
+      "value": "Jika HP kurang dari 30% setelah diserang, memperoleh Perisai sebesar 20%/26%/32%/40% Max HP selama 10 detik. CD: 90 detik."
     },
     {
       "count": 4,
-      "value": "Memulihkan HP sebesar 60%/75%/90%/105% damage yang ditimpakan saat shield aktif. HP yang diperoleh kembali setiap 0,5 detik tidak dapat melampaui 105%/127,5%/150%/172,5% ATK."
+      "value": "Memulihkan HP sebesar 60%/75%/90%/105% DMG yang ditimpakan saat shield aktif. HP yang diperoleh kembali setiap 0,5 detik tidak dapat melampaui 105%/127,5%/150%/172,5% ATK."
     }
   ],
   "mind": {
     "name": "Swordfight Simulation",
-    "desc": "Simulasi pertarungan pedang yang rumit tampaknya digunakan untuk kalibrasi. Lagi pula, bukan sesuatu untuk rata-rata orang."
+    "desc": "Simulasi pertarungan pedang yang rumit ini tampaknya digunakan untuk kalibrasi. Lagi pula, simulasi ini bukan untuk orang biasa."
   },
   "memory": {
     "name": "Wake-Up Call",
@@ -25,10 +25,10 @@
   },
   "belief": {
     "name": "Absolute Authority",
-    "desc": "Ini, tentu saja, mewakili persetujuan diri dan pengakuan dari luar atas kekuatan Eksekutor."
+    "desc": "Tentu saja, ini mencerminkan kepuasan diri dan pengakuan eksternal atas kekuatan Eksekutor."
   },
   "emotion": {
     "name": "Detached",
-    "desc": "Hambatan komunikasi mental dibentuk dengan menolak segala sosialisasi."
+    "desc": "Hambatan psikologis untuk berkomunikasi akan terbentuk jika seseorang menolak untuk bersosialisasi."
   }
 }

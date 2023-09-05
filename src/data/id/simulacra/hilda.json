@@ -4,7 +4,7 @@
   "name": "Hilda",
   "weapon": "The Terminator",
   "weapon_id": "the_terminator",
-  "birthday": "11 April (Aries)",
+  "birthday": "11 April",
   "birthplace": "Banges",
   "gender": "Perempuan",
   "info": "Seorang gadis ceria, penuh semangat, ramah, dan periang, meskipun dia juga kurang teliti.\nDia tidak peduli tentang jenis kelamin, usia, atau status sosial, dan memperlakukan semua orang dengan setara. Dia bahkan berteman baik dengan Theo, putra pemilik Banges Tech.\nWalau begitu, dia ceroboh dan pelupa, bahkan senjatanya kadang tertinggal di rumah...",
@@ -20,31 +20,37 @@
   "skills": [
     {
       "name": "Serangan Biasa",
-      "type": ["Attack"],
-      "description": "Tekan Serangan Biasa untuk memasuki mode bidik. Tahan Serangan Biasa untuk terus menembak, maks <b>40</b> tembakan. Setiap tembakan menimbulkan DMG sebesar <b>11.4%</b> ATK + <b>1</b>. Menimbulkan Double DMG saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (Headshot tidak efektif pada Wanderer)."
+      "type": [
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa untuk memasuki mode bidik. Tahan Serangan Biasa untuk terus menembak, maks <b>40</b> tembakan. Setiap tembakan menimpakan DMG sebesar <b>11.4%</b> ATK plus <b>1</b>. Menimpakan DMG dua kali lipat saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (efek Headshot tidak berlaku bagi Wanderer)."
     },
     {
       "name": "Turret",
-      "type": ["Skill"],
-      "description": "Aktifkan mode Turret dan tembakkan bola energi yang besar, masing-masing menimpakan DMG sebesar <b>213.3%</b> ATK + <b>11</b> dan membuat target terpental ke atas. Menjadi kebal terhadap Hitstun dan efek kontrol saat memasang Turret. CD: <b>3.5</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Mengaktifkan mode Turret dan menembakkan peluru-peluru energi yang besar, masing-masing menimpakan DMG sebesar <b>213.3%</b> ATK plus <b>11</b> dan membuat target terpental ke atas. Menjadi kebal terhadap Hitstun dan efek kontrol saat dalam mode Turret. CD: <b>3.5</b> detik."
     },
     {
       "name": "Arctic Beam",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan menembakkan Arctic Beam setelah beralih ke senjata ini, dan menimpakan damage sebesar <b>329.2%</b> ATK + <b>17</b> dan mengakibatkan efek <b>Freeze</b> selama <b>3</b> detik. Juga mengurangi Frost Resistance target sebesar <b>50%</b> selama <b>10</b> detik."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan menembakkan Arctic Beam, menimpakan DMG sebesar <b>329.2%</b> ATK plus <b>17</b> dan mengakibatkan efek <b>Freeze Kuat</b> selama <b>3</b> detik. Selain itu, Frost Resistance target juga berkurang <b>50%</b> selama <b>10</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Ice Shell",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika memecahkan Ice Shell, akan menyebabkan damage tambahan sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, Charge Senjata target berkurang <b>50%</b>."
+    "description": "Saat Charge Senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze Kuat</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika lapisan es ini dipecahkan, target akan menerima DMG sebesar <b>111%</b> ATK. Saat dalam kondisi Frostbite, kecepatan pengisian Charge Senjata target berkurang <b>50%</b>."
   },
   "advancement": [
-    "Setiap Serangan Biasa yang berhasil akan meningkatkan damage sebesar <b>1%</b> selama <b>2</b> detik. Bisa ditumpuk maks <b>15</b> kali. Menambah jumlah amunisi menjadi <b>60</b>.",
+    "Setiap Serangan Biasa yang berhasil akan meningkatkan DMG sebesar <b>1%</b> selama <b>2</b> detik. Bisa ditumpuk maks <b>15</b> kali. Menambah jumlah amunisi menjadi <b>60</b>.",
     "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar <b>10%</b>.",
-    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebesar <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan DMG dari Serangan Biasa dan Shatter sebesar <b>30%</b>. Cooldown: <b>25</b> detik. Menambah jumlah amunisi menjadi <b>80</b>.",
     "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar <b>20%</b>.",
     "Mengurangi cooldown untuk Serangan Biasa selama dalam mode Turret sebesar <b>2</b> detik.",
-    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan damage dari Serangan Biasa dan Shatter sebesar <b>60%</b>. Cooldown: <b>25</b> detik."
+    "Dalam waktu <b>10</b> detik setelah beralih ke senjata ini, meningkatkan DMG dari Serangan Biasa dan Shatter sebesar <b>60%</b>. Cooldown: <b>25</b> detik."
   ],
   "traits": [
     {

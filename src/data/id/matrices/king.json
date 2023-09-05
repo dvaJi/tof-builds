@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Untuk setiap 10% Shatter yang diterapkan pada target, meningkatkan damage yang ditimpakan sebesar 4%/5%/6%/7% selama 25 detik, hingga 3 tumpuk."
+      "value": "Untuk setiap 10% Shatter yang diterapkan pada target, meningkatkan DMG yang ditimpakan sebesar 4%/5%/6%/7% selama 25 detik, hingga 3 tumpuk."
     },
     {
       "count": 4,
-      "value": "Saat ada lebih dari 2 musuh di sekitar, serangan memulihkan HP sebesar 14%/18%/22%/26% damage yang ditimpakan setelah penyerangan. Maksimum HP yang dipulihkan setiap 0,5 detik tidak dapat melampaui 36%/42%/48%/54%."
+      "value": "Jika ada 2 musuh atau lebih di sekitar, serangan akan memulihkan HP sebesar 14%/18%/22%/26% dari DMG yang ditimpakan, maks 36%/42%/48%/54% ATK setiap 0,5 detik."
     }
   ],
   "mind": {

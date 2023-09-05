@@ -1,0 +1,34 @@
+{
+  "_id": 40028,
+  "id": "icarus",
+  "name": "Ícaro",
+  "suitName": "Con Escarcha",
+  "hash": "SSR28",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping Precious One, <b>2</b> or more weapons of different elements, or <b>2</b> or more types of weapons increases all elemental damage by <b>8%</b>/9%/10%/11%. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing frost damage, increase all elemental damage by <b>13%</b>/16%/19%/22% for <b>25</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Solipsismo",
+    "desc": "Estrategias y planes. Mi destino está en mis manos."
+  },
+  "memory": {
+    "name": "Testigo",
+    "desc": "Todo se trata de la presencia que conduce al camino."
+  },
+  "belief": {
+    "name": "Terreno peligroso",
+    "desc": "Sigue avanzando en terreno peligroso."
+  },
+  "emotion": {
+    "name": "Transeúnte",
+    "desc": "Los extraños van y vienen al pasar."
+  }
+}

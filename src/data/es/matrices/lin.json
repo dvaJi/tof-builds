@@ -12,12 +12,12 @@
     },
     {
       "count": 4,
-      "value": "Cada 5 m viajados en el Reino de luz lunar otorgan 1 acumulación de Luz lunar, lo que aumenta el daño final en un 12%/11%/28%/31% por 15 segundos y se acumula hasta 3 veces. El efecto de esta matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con mayor clasificación de estrellas."
+      "value": "Cada 5 m recorridos dentro del Reino de Luz Lunar otorga 1 acumulación de Luz Lunar, lo que aumenta el daño final en 12%/11%/28%/31% durante 15 seg, se acumula hasta 3 veces. El efecto de esta matriz también se activa en la ranura secundaria, pero solo surtirá efecto el set con mayor clasificación de estrellas."
     }
   ],
   "mind": {
     "name": "reverencia",
-    "desc": "La responsabilidad llega con identidad, una carga y un juicio."
+    "desc": "Una responsabilidad de identidad, carga emocional y un juicio."
   },
   "memory": {
     "name": "contaminación lumínica",

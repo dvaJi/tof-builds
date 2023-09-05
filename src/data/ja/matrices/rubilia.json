@@ -1,0 +1,34 @@
+{
+  "_id": 40031,
+  "id": "rubilia",
+  "name": "レビリア",
+  "suitName": "求道",
+  "hash": "SSR31",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase volt ATK by <b>14.5%</b>/16.5%/18.5%/20.5%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "Increase Crystamax thorn limit to <b>6</b>. After landing a hit with a volt weapon, all elemental damage is increased by <b>13%</b>/16%/19%/22% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "迷子",
+    "desc": "ためらいはある。それでもなお、最も闇深い希望を固く握っている"
+  },
+  "memory": {
+    "name": "啓示",
+    "desc": "私を啓発し、導いて"
+  },
+  "belief": {
+    "name": "蘇生",
+    "desc": "様々な結末を迎える準備はできていたが、この展開は彼女の予想を遥かに超えていた"
+  },
+  "emotion": {
+    "name": "種族",
+    "desc": "本能と知性、彼女はどちらを選ぶのか？"
+  }
+}

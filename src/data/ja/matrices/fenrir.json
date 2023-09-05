@@ -1,0 +1,34 @@
+{
+  "_id": 40024,
+  "id": "fenrir",
+  "name": "フェンリル",
+  "suitName": "",
+  "hash": "SSR24",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase crit damage by <b>14%</b>/15%/16%/18%. This effect does not stack. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing volt damage, increase final damage by <b>2.75%</b> for <b>10</b> seconds, stacking up to <b>5</b>/6/7/8 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "夢世界",
+    "desc": "チョコレートの夢に酔いしれる。これは現実？それとも夢？"
+  },
+  "memory": {
+    "name": "捨て犬",
+    "desc": "拘束、幽閉された過去、今は広大な世界をさ迷う"
+  },
+  "belief": {
+    "name": "ホーム",
+    "desc": "「家」はある…の？"
+  },
+  "emotion": {
+    "name": "依存",
+    "desc": "二度と別れずに済むなら、利用されても構わない"
+  }
+}

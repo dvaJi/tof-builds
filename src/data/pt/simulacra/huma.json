@@ -4,7 +4,7 @@
   "name": "Huma",
   "weapon": "Escudo Fundido V2",
   "weapon_id": "molten_shield_v2",
-  "birthday": "12 de janeiro (Capricórnio)",
+  "birthday": "12 de janeiro",
   "birthplace": "Hykros",
   "gender": "Feminino",
   "info": "Por vezes, cai em um estado de confusão e atordoamento pela falta de algumas de suas memórias e de partes dos seus dados de identidade. Usa frequentemente uma máscara sobre a boca, o que dificulta ainda mais a comunicação. Excessivamente quieta e introvertida.\nCom pouca experiência no mundo exterior, ela é tão inocente quanto um passarinho e possui um ar desinteressado.",
@@ -20,43 +20,60 @@
   "skills": [
     {
       "name": "Ataque Normal",
-      "type": ["Attack"],
-      "description": "No chão, branda o machado-escudo para atacar 4 vezes seguidas.\nPrimeiro ataque em forma de escudo: Causa dano de <b>77.7%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>56.9%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>62.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>184%</b> do ATQ + <b>10</b> e <b>lança o alvo no ar</b>.\nPrimeiro ataque em forma de machado: Causa dano de <b>135.2%</b> do ATQ + <b>7</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>79.4%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>119.9%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>221.3%</b> do ATQ + <b>12</b> e repele o alvo."
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda o machado-escudo para atacar 4 vezes seguidas.\nPrimeiro ataque em forma de escudo: causa dano de <b>77.7%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>56.9%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>62.8%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>184%</b> do ATQ + <b>10</b> e <b>lança o alvo no ar</b>.\nPrimeiro ataque em forma de machado: causa dano de <b>135.2%</b> do ATQ + <b>7</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>79.4%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>119.9%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>221.3%</b> do ATQ + <b>12</b> e repele o alvo."
     },
     {
       "name": "Golpe Aéreo",
-      "type": ["Jump", "Attack"],
-      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>75.9%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>80.2%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>103%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>118.6%</b> do ATQ + <b>6</b> e <b>derruba</b> o alvo, depois lança-o no ar ao aterrissar."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>75.9%</b> do ATQ + <b>4</b>.\nSegundo ataque: causa dano de <b>80.2%</b> do ATQ + <b>4</b>.\nTerceiro ataque: causa dano de <b>103%</b> do ATQ + <b>5</b>.\nQuarto ataque: causa dano de <b>118.6%</b> do ATQ + <b>6</b> e <b>derruba</b> o alvo, depois lança-o no ar ao aterrissar."
     },
     {
       "name": "Antecipação",
-      "type": ["Hold: Attack"],
+      "type": [
+        "Hold: Attack"
+      ],
       "description": "Forma de escudo: No chão, segure o botão de ataque normal para acionar a forma de escudo (solte para desativar) durante <b>3</b> segundos, durante os quais você não pode se mexer e todo dano sofrido é reduzido em <b>50%</b>. Em forma de escudo, soltar o botão de ataque normal após sofrer dano ou após <b>3</b> segundos segurando desencadeia uma pancada ígnea, que causa dano de <b>167.3%</b> do ATQ + <b>9</b> e inflige <b>atordoamento</b> durante <b>1</b> segundo ao alvo.\nForma de machado: Esmaga o alvo, causando dano de <b>122.2%</b> do ATQ + <b>6</b> e suspendendo-o."
     },
     {
       "name": "Valentia",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou use com um alvo selecionado), ou use ao escalar, pular para trás ou usar a mochila a jato para usar ataques encadeados no ar.\nForma de escudo: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>89.2%</b> do ATQ + <b>5</b> e suspende o alvo.\nForma de machado: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>128.3%</b> do ATQ + <b>7</b> e suspende os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use ao escalar, pular para trás ou usar a mochila a jato para usar ataques encadeados no ar.\nForma de escudo: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>89.2%</b> do ATQ + <b>5</b> e suspende o alvo.\nForma de machado: Enquanto cai, cada golpe causa dano de <b>12.5%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>128.3%</b> do ATQ + <b>7</b> e suspende os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Erupção",
-      "type": ["Dodge", "Attack"],
-      "description": "Use o botão de ataque normal logo após se esquivar para usar Ataque Esquivado.\nForma de escudo: Gera um escudo flamejante que causa dano de <b>55.8%</b> do ATQ + <b>3</b> e repele o alvo. Provoca uma explosão que causa dano de <b>55.8%</b> do ATQ + <b>3</b>. A explosão <b>atordoa</b> o alvo durante <b>0,5</b> segundo e, durante <b>10</b> segundos, reduz a cura recebida pelo alvo em <b>30%</b>.\nForma de machado: Brande o machado, causando dano de <b>55.8%</b> do ATQ + <b>3</b> e reduzindo a cura recebida pelo alvo em <b>30%</b> durante <b>10</b> segundos."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal logo após se esquivar para usar Ataque Esquivado.\nForma de escudo: Gera um escudo flamejante que causa dano de <b>55.8%</b> do ATQ mais <b>3</b> e repele o alvo. Provoca uma explosão que causa dano de <b>55.8%</b> do ATQ mais <b>3</b>. A explosão <b>atordoa</b> o alvo durante <b>0,5</b> segundo e, durante <b>10</b> segundos, reduz a cura recebida pelo alvo em <b>30%</b>.\nForma de machado: Brande o machado, causando dano de <b>55.8%</b> do ATQ mais <b>3</b> e reduzindo a cura recebida pelo alvo em <b>30%</b> durante <b>10</b> segundos."
     },
     {
       "name": "Fissão",
-      "type": ["Skill"],
+      "type": [
+        "Skill"
+      ],
       "description": "Conversão de Escudo: Troca da forma de escudo para a forma de machado e bate no chão. Causa dano de <b>373.8%</b> do ATQ + <b>20</b> ao alvo e o <b>suspende muito</b>. Cria uma área de fogo ampla durante <b>5</b> segundos que queima o alvo, causando dano de <b>233.6%</b> do ATQ + <b>12</b>.\nConversão de Machado: Troca da forma de machado para a forma de escudo e bate no chão. Causa dano de <b>309.5%</b> do ATQ + <b>16</b> ao alvo e o repele. Impede o alvo de trocar de arma durante <b>5</b> segundos.\nTempo de recarga: <b>25</b> seg. Conversão de Escudo e Conversão de Machado compartilham o mesmo tempo de recarga."
     },
     {
       "name": "Fúria Ardente",
-      "type": ["Discharge"],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e gera uma onda sísmica de fogo ao trocar para esta arma. Causa dano de <b>352%</b> do ATQ + <b>19</b>. Provoca inimigos durante <b>5</b> segundos, durante os quais você ganha <b>15%</b> de redução de dano. Espalha objetos em formato de escudo com base no número de alvos provocados. Os objetos duram <b>20</b> segundos, reduzem o dano sofrido em <b>5%</b> durante <b>10</b> segundos (acumulável) e restauram 1 esquiva."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e gera uma onda sísmica de fogo. Causa dano de <b>352%</b> do ATQ + <b>19</b>. Provoca inimigos durante <b>5</b> segundos, durante os quais você ganha <b>15%</b> de redução de dano. Espalha objetos em formato de escudo com base no número de alvos provocados. Os objetos duram <b>20</b> segundos, reduzem o dano sofrido em <b>5%</b> durante <b>10</b> segundos (acumulável) e restauram 1 esquiva."
     }
   ],
   "weapon_type": {
     "name": "Fogo",
-    "description": "Com carga completa, o ataque seguinte da arma ateia fogo no alvo, o que causa dano prolongado de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura recebida por alvos incendiados diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma incendeia o alvo, o que causa dano de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura em alvos incendiados diminui em <b>50%</b>."
   },
   "advancement": [
     "Ganha um acúmulo de escudo forte após usar descarga: Fúria Ardente. Usar uma habilidade de esquiva ou uma habilidade encadeada na forma de escudo dá um acúmulo de escudo forte, que confere <b>10%</b> de redução de dano durante <b>15</b> segundos. Acumula até <b>3</b> vezes. Trocar para a forma de machado converte todos os acúmulos de escudo forte em acúmulos de machado afiado. Cada acúmulo aumenta o dano em <b>15%</b> durante <b>15</b> segundos. Trocar para uma arma diferente cancela o efeito.",

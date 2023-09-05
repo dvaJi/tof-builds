@@ -1,0 +1,34 @@
+{
+  "_id": 40026,
+  "id": "scylla",
+  "name": "สกิลลา",
+  "suitName": "กลองที่ดังก้อง",
+  "hash": "SSR26",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping this matrix on the current weapon increases crit damage by <b>13%</b>/16%/19%/23% and shatter by <b>13%</b>/16%/19%/23%."
+    },
+    {
+      "count": 4,
+      "value": "Equipping 2 or more weapons of different elements or types increases all elemental damage by <b>9.5%</b>/11.5%/13.5%/15.5%. The effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "ฉีกขาด",
+    "desc": "ท่าทางป่าเถื่อนซึ่งไม่เข้ากับรูปลักษณ์ภายนอก"
+  },
+  "memory": {
+    "name": "อิมโพรไวส์",
+    "desc": "การแสดงที่รวดเร็วทันใจ"
+  },
+  "belief": {
+    "name": "ความสุขที่เป็นลาง",
+    "desc": "นี่อาจจะเป็นเพลงสุดท้ายที่คุณจะได้ฟังในชีวิต..."
+  },
+  "emotion": {
+    "name": "จังหวะ",
+    "desc": "หนักหน่วงและเข้มข้น..."
+  }
+}

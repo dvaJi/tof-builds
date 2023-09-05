@@ -12,7 +12,7 @@
     },
     {
       "count": 4,
-      "value": "S'il y a 2 ennemis ou plus à proximité, l'attaque régénère un nombre de PV égal à 14%/18%/22%/26% des dégâts infligés. Le nombre maximal de PV régénéré toutes les 0,5 secondes ne doit pas dépasser 36%/42%/48%/54% de l’ATQ."
+      "value": "S'il y a 2 ennemis ou plus à proximité, l'attaque régénère un nombre de PV équivalant à 14%/18%/22%/26% des dégâts infligés. Le nombre maximal de PV régénéré toutes les 0,5 seconde ne peut pas dépasser 36%/42%/48%/54% de l’ATQ."
     }
   ],
   "mind": {
@@ -28,7 +28,7 @@
     "desc": "À la recherche de sensations fortes et de joie plus qu'il n'en faut… ce qui n'inclut pas les projets professionnels."
   },
   "emotion": {
-    "name": "Armée à lui tout seul",
+    "name": "Armée en solo",
     "desc": "Se battre avec ses seuls poings présente quand même des limites. Il l'a appris dès le plus jeune âge."
   }
 }

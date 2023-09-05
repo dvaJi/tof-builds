@@ -4,7 +4,7 @@
   "name": "Claudia",
   "weapon": "Guren Blade",
   "weapon_id": "guren_blade",
-  "birthday": "16 Januari (Capricorn)",
+  "birthday": "16 Januari",
   "birthplace": "Hykros",
   "gender": "Perempuan",
   "info": "Bisa diandalkan, bertenaga besar, dan sangat bersemangat untuk bertempur. Terkesan dingin, tapi sebenarnya baik hati dan penuh kasih sayang. Claudia menjunjung tinggi keadilan, selalu siap membantu orang lain dan melawan ketidakadilan di mana pun dia menemukannya.",
@@ -20,52 +20,73 @@
   "skills": [
     {
       "name": "Quick Slash",
-      "type": ["Attack"],
-      "description": "Saat di darat, ayunkan pedang untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Timpakan DMG sebesar <b>46.8%</b> ATK + <b>2</b> dan buat target terpental sedikit ke belakang.\nSerangan Kedua: Timpakan DMG sebesar <b>65.6%</b> ATK + <b>3</b> dan buat target terpental sedikit ke belakang.\nSerangan Ketiga: Timpakan DMG sebesar <b>59.3%</b> ATK + <b>3</b> dan buat target terpental sedikit ke belakang.\nSerangan Keempat: Timpakan DMG sebesar <b>104.1%</b> ATK + <b>5</b> dan buat target terpental sedikit ke belakang.\nSerangan Kelima: Timpakan DMG sebesar <b>177.8%</b> ATK + <b>9</b> dan buat target <b>terpental</b>."
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, ayunkan pedang untuk menyerang 5 kali berturut-turut.\\\nSerangan Pertama: Menimpakan DMG sebesar <b>46.8%</b> ATK plus <b>2</b> dan membuat target terpental sedikit ke belakang.\\\nSerangan Kedua: Menimpakan DMG sebesar <b>65.6%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\\\nSerangan Ketiga: Menimpakan DMG sebesar <b>59.3%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\\\nSerangan Keempat: Menimpakan DMG sebesar <b>104.1%</b> ATK plus <b>5</b> dan membuat target terpental sedikit ke belakang.\\\nSerangan Kelima: Menimpakan DMG sebesar <b>177.8%</b> ATK plus <b>9</b> dan buat target <b>terpental</b>."
     },
     {
       "name": "Jumping Strike",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimbulkan DMG sebesar <b>27.9%</b> ATK + <b>1</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>48.4%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>114.6%</b> ATK + <b>6</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>139%</b> ATK + <b>7</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, tekan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimpakan DMG sebesar <b>27.9%</b> ATK plus <b>1</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>48.4%</b> ATK plus <b>3</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>114.6%</b> ATK plus <b>6</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>139%</b> ATK plus <b>7</b>."
     },
     {
       "name": "Cyclone",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Tahan tombol Serangan Biasa setelah melakukan Serangan Biasa untuk mengaktifkan Cyclone.\nSaat menghantam target, mengakibatkan Suspend kepada target dan menimpakan DMG sebesar <b>47.8%</b> ATK + <b>3</b> ke satu target."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Tahan tombol Serangan Biasa setelah melakukan Serangan Biasa untuk mengaktifkan Cyclone.\nSaat menghantam target, mengakibatkan Suspend kepada target dan menimpakan DMG sebesar <b>47.8%</b> ATK plus <b>3</b> ke satu target."
     },
     {
       "name": "Diving Edge",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tekan dan tahan Serangan Biasa saat di udara atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Diving Edge.\nSaat turun, menimpakan DMG sebesar <b>10%</b> ATK + <b>1</b> setiap kali menghantam target. Saat mendarat, menimpakan DMG sebesar <b>76.4%</b> ATK + <b>4</b> dan membuat target terpental ke belakang.\nMakin tinggi posisi saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa saat di udara atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Diving Edge.\nSaat turun, menimpakan DMG sebesar <b>10%</b> ATK plus <b>1</b> setiap kali menghantam target. Saat mendarat, menimpakan DMG sebesar <b>76.4%</b> ATK plus <b>4</b> pada target di sekitar dan membuat mereka terpental ke belakang.\nMakin tinggi posisi saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimbulkan DMG sebesar <b>570%</b> ATK + <b>30</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
       "name": "Leap Attack",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Leap Attack.\nWanderer mengayunkan pedang dan menimpakan DMG sebesar <b>37.9%</b> ATK + <b>2</b> kepada target, mengakibatkan <b>Suspend Keras</b> kepada mereka sambil melesat ke udara. Lalu, menimpakan DMG tambahan sebesar <b>56.8%</b> ATK + <b>3</b> kepada target."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Leap Attack.\nWanderer mengayunkan pedangnya ke depan dan menimpakan DMG sebesar <b>37.9%</b> ATK plus <b>2</b> kepada target, mengakibatkan <b>Suspend Keras</b> kepada mereka sambil melesat ke udara. Lalu, menimpakan DMG tambahan sebesar <b>56.8%</b> ATK plus <b>3</b> kepada target."
     },
     {
       "name": "Roam",
-      "type": ["Skill"],
-      "description": "Menari melewati target sambil mengayunkan pedang, menimpakan DMG sebesar <b>418%</b> ATK + <b>22</b> kepada maks <b>5</b> target (serangan beruntun pada target yang sama akan menimbulkan DMG <b>20%</b> lebih kecil). Setelah Roam selesai, menebas ke depan, menimpakan DMG area sebesar <b>264%</b> ATK + <b>14</b> kepada target di sekitar dan mengakibatkan Suspend kepada mereka. Kebal terhadap efek kontrol selama Skill ini digunakan dan semua DMG yang diterima berkurang <b>50%</b>. CD: <b>15</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Melesat melewati target sambil mengayunkan pedang, menimpakan DMG dengan total sebesar <b>418%</b> ATK plus <b>22</b> kepada maks <b>5</b> target (DMG yang ditimpakan dari hantaman beruntun pada target yang sama akan menimpakan DMG <b>20%</b> lebih kecil dari hantaman sebelumnya). Setelah Roam selesai, menebas ke depan, menimpakan DMG area sebesar <b>264%</b> ATK plus <b>14</b> kepada target di sekitar dan membuat mereka terpental ke atas. Selama Skill ini digunakan, kamu menjadi kebal terhadap efek kontrol dan semua DMG yang kamu terima berkurang <b>50%</b>. CD: <b>15</b> detik."
     },
     {
       "name": "Unbridled Flurry",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, beralih ke senjata ini dari senjata lain <b>akan menghilangkan semua Debuff dari Wanderer</b>, yang kemudian menerjang dan mengakibatkan <b>Suspend Keras</b> kepada target sambil menimpakan <b>523.3%</b> ATK + <b>28</b> DMG, meninggalkan Bladestorm yang menimpakan <b>209.6%</b> ATK + <b>11</b> DMG, serta membuat diri sendiri kebal terhadap efek Grievous/Freeze/Burn/Electrify selama <b>5</b> detik."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>, yang kemudian menerjang ke arah target dan mengakibatkan target <b>Terpental Keras</b> sambil menimpakan <b>523.3%</b> ATK plus <b>28</b> DMG, meninggalkan Bladestorm yang menimpakan <b>209.6%</b> ATK plus <b>11</b> DMG, serta membuat diri sendiri kebal terhadap efek Grievous/Freeze/Burn/Electrify selama <b>5</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan menimpakan DMG sebesar <b>137%</b> ATK dan membuat target terkena efek Grievous selama <b>7</b> detik, mengakibatkan mereka menerima <b>20%</b> DMG tambahan."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menerapkan efek Grievous pada lawan selama <b>7</b> detik, meningkatkan DMG yang mereka terima sebesar <b>20%</b> dan menimpakan DMG sebesar <b>137%</b> ATK. Saat <yellow_lbl_14_1>bermain sebagai tim</>, target yang terkena Grievous menerima Physical DMG <b>20%</b> lebih besar."
   },
   "weapon_resonance": {
-    "name": "Physical Resonance",
-    "description": "<b>Resonansi Physical</b>: Meningkatkan Physical ATK sebesar <b>15%</b> dan Physical Resistance sebesar <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Physical atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama."
+    "name": "Resonansi Physical",
+    "description": "<b>Resonansi Physical</b>: Physical ATK meningkat <b>15%</b> dan Physical Resistance meningkat <b>25%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Physical atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama."
   },
   "advancement": [
     "Setelah menghantam target dengan Skill Senjata atau Skill Discharge, mendapatkan 1 Buff berikut: Meningkatkan DMG yang ditimpakan sebesar <b>8%</b> selama <b>25</b> detik, bertumpuk hingga <b>3</b> kali, maks 1 tumpuk per penggunaan Skill.",

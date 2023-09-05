@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Restaura 1 intento de evasión cada 4 evasiones. Los ataques de evasión quemarán a los objetivos, lo que inflige daño equivalente al {0}%/{1}%/{2}%/{3}% del ATQ cada segundo por {4} [@$segundo|segundos]."
+      "value": "Recupera 1 intento de evasión cada 4 evasiones. Los ataques de evasión queman a los objetivos, lo que inflige daño igual a {0}%/{1}%/{2}%/{3}% del ATQ cada segundo por {4} seg."
     },
     {
       "count": 4,

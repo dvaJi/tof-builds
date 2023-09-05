@@ -1,0 +1,303 @@
+{
+  "_id": 1029,
+  "id": "tian_lang",
+  "name": "Tian Lang",
+  "weapon": "Thunderbreaker",
+  "weapon_id": "thunderbreaker",
+  "birthday": "23 Maret",
+  "birthplace": "Rumah Kaca Mirroria",
+  "gender": "Laki-Laki",
+  "info": "Dia sering menguap dan tampak tidak teratur, dan sering berperan aktif dalam merevitalisasi semangat tim.\nFaktanya, dia adalah orang yang sangat bijaksana dengan penampilan yang hangat dan isi hati yang dingin. Dia adalah orang yang tidak mudah mengungkapkan perasaannya yang sebenarnya.",
+  "description": "Seorang pegawai di Rumah Kaca Mirroria dan pencinta bunga. Karena dia bertanggung jawab atas promosi dan perawatan harian tanaman untuk Rumah Kaca, dia pun dijuluki \"Manajer\".\n\nKenyataannya, dia adalah Eksekutor top Distrik 7 dengan kekuatan yang tak terduga. Namun, hanya sedikit yang tahu tentang rahasianya ini, karena dia bertindak sebagai \"Kartu As\" Distrik 7, yang hanya beraksi ketika Mirroria berada dalam krisis.\n\nSelama pertempuran dengan Abyssant, tangan kirinya terbakar parah karena menangkis serangan energi Abyssant. Setelah menjalani operasi regenerasi jaringan, dia mengenakan sarung tangan lapis baja yang sesuai dengan karakteristik tempur senjatanya \"Thunderbreaker\".",
+  "like": "Bunga, bersantai, Rumah Kaca Mirroria",
+  "dislike": "Ketidaknyamanan, operasi Eksekutor",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Mizar",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, mulai 6 serangan berturut-turut dengan Thunderbreaker.\nSerangan Pertama: Menimpakan DMG sebesar <b>90.5%</b> ATK plus <b>5</b> dan membuat musuh terpental ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>67.9%</b> ATK plus <b>4</b> dan membuat musuh terpental ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>123%</b> ATK plus <b>6</b> dan membuat musuh terpental ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>217.9%</b> ATK plus <b>11</b> dan membuat musuh terpental ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>222%</b> ATK plus <b>12</b> dan membuat musuh terpental ke belakang.\nSerangan Keenam: Menimpakan DMG sebesar <b>291.8%</b> ATK plus <b>15</b> dan membuat target terpental ke atas."
+    },
+    {
+      "name": "Megrez",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>87.4%</b> ATK plus <b>5</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>83%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>126.7%</b> ATK plus <b>7</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>229.4%</b> ATK plus <b>12</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>256.5%</b> ATK plus <b>14</b>."
+    },
+    {
+      "name": "Phecda",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, tahan tombol Serangan Biasa untuk memicunya.\nMenimpakan DMG hingga <b>342%</b> ATK plus <b>18</b> pada target dan menarik musuh-musuh di sekitarmu."
+    },
+    {
+      "name": "Merak",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa saat di udara, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkannya.\nSaat jatuh, menimpakan DMG sebesar <b>38%</b> ATK plus <b>2</b> tiap kali menghantam target. Saat mendarat, menimbulkan DMG sebesar <b>285%</b> ATK plus <b>15</b> kepada target di sekitar."
+    },
+    {
+      "name": "Menghindar",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama <b>0,5</b> detik."
+    },
+    {
+      "name": "Alioth",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar.\nMelesat untuk menyerang target, menimpakan DMG dengan total sebesar <b>172.6%</b> ATK plus <b>9</b>."
+    },
+    {
+      "name": "Dubhe",
+      "type": [
+        "Skill"
+      ],
+      "description": "Melakukan rentetan serangan, menimpakan DMG sebesar <b>936.9%</b> ATK plus <b>49</b> kepada musuh dalam jangkauan dan mengubah musuh dan unit yang kamu ciptakan dalam jarak tertentu menjadi Electrified Entity. Maks 3 Electrified Entity pada satu waktu. CD: <b>30</b> detik.\n\nSaat Dubhe digunakan, mendapatkan Volt Sense: Periksa dua senjata lain yang sedang dipakai saat Skill ini digunakan. Setiap kali ada Senjata Volt yang ditemukan, Volt ATK meningkat <b>6%</b> selama <b>25</b> detik.\n\nElectrified Entity: Ketika menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt, Electrified Entity menimpakan Volt DMG area sebesar <b>5%</b> dari HP yang hilang (minimal <b>100%</b> Volt ATK, maksimal <b>1.000%</b> Volt ATK).\n\nSaat menggunakan Thunderbreaker, menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt akan mengonsumsi <b>30%</b> HP saat ini untuk menimpakan Volt DMG tambahan sebesar <b>50%</b> dari HP yang dikonsumsi (minimal <b>480%</b> Volt ATK, maksimal <b>3.000%</b> Volt ATK) dan mendapatkan kekebalan untuk sementara (tak berlaku di Apex League). Setelah <b>8</b> detik, atau ketika HP lebih rendah dari <b>10%</b>, memulihkan <b>5%</b> HP yang hilang setiap detik selama <b>8</b> detik (tidak terpengaruh oleh efek penyembuhan). Efek pemulihan ini tidak bertumpuk."
+    },
+    {
+      "name": "Obliterator",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>. Thunderbreaker mengeluarkan serangan Volt berarea luas yang menimpakan Volt DMG dengan total sebesar <b>844.6%</b> ATK plus <b>44</b> dan mengubah musuh atau unit yang kamu ciptakan dalam jarak tertentu menjadi Electrified Entity. Maks 3 Electrified Entity pada satu waktu.\n\nElectrified Entity: Saat menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt, Electrified Entity menimpakan Volt DMG area sebesar <b>5%</b> dari HP yang hilang (minimal <b>100%</b> Volt ATK, maksimal <b>1.000%</b> Volt ATK).\n\nSaat menggunakan Thunderbreaker, menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt apa pun akan mengonsumsi <b>30%</b> HP saat ini untuk menimpakan Volt DMG tambahan sebesar <b>50%</b> dari HP yang dikonsumsi (minimal <b>480%</b> Volt ATK, maksimal <b>3.000%</b> Volt ATK) dan mendapatkan kekebalan untuk sementara (tak berlaku di Apex League). Setelah <b>8</b> detik, atau ketika HP lebih rendah dari <b>10%</b>, memulihkan <b>5%</b> HP yang hilang setiap detik selama <b>8</b> detik (tidak terpengaruh oleh efek penyembuhan). Efek pemulihan ini tidak bertumpuk."
+    }
+  ],
+  "weapon_type": {
+    "name": "Volt",
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+  },
+  "weapon_resonance": {
+    "name": "Volt Reaction",
+    "description": "<b>Volt Reaction</b>: Volt ATK meningkat <b>20%</b> dan Volt Resistance meningkat <b>40%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Volt atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Volt atau efek Volt Reaction lain, di mana Resonansi Volt akan diutamakan."
+  },
+  "advancement": [
+    "Mendapat 1 tumpuk Superconductor per charge: Meningkatkan Max HP sebesar <b>7.5%</b>, tapi meningkatkan DMG yang diterima sebesar <b>2%</b> (kecuali saat HP saat ini lebih rendah dari 8 kali Volt ATK dan saat tidak ada Perisai HP yang dipakai), bertumpuk hingga <b>8</b> kali. Kehilangan 1 tumpuk jika Superconductor tidak diperbarui dalam <b>6</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
+    "Gunakan Skill Senjata atau Skill Discharge dengan Senjata Volt untuk mendapat <b>2</b> Charge. Mendapatkan Hyperbody saat Superconductor mencapai <b>8</b> tumpuk.",
+    "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar <b>32%</b>.",
+    "Tiap tumpuk Superconductor meningkatkan DMG yang ditimpakan sebesar <b>1%</b>.",
+    "Meningkatkan Volt Sense dari Dubhe: Untuk setiap 1 Senjata Volt lain yang ditemukan, mendapat <b>10%</b> Volt DMG Boost selama <b>25</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Setiap kali mengaktifkan Skill Senjata atau Skill Discharge dengan Senjata Volt, mendapatkan <b>1</b> jatah menghindar, maks <b>2</b> jatah. Saat Skill Senjata atau Skill Discharge Senjata Volt dilakukan bersama-sama, meningkatkan Volt DMG sebesar <b>{0}%</b> selama <b>8</b> detik. Efek ini tak bisa bertumpuk.",
+      "values": [
+        12
+      ]
+    },
+    {
+      "name": "",
+      "description": "Setiap kali mengaktifkan Skill Senjata atau Skill Discharge dengan Senjata Volt, mendapatkan <b>1</b> jatah menghindar, maks <b>3</b> jatah. Saat Skill Senjata atau Skill Discharge Senjata Volt dilakukan bersama-sama, meningkatkan Volt DMG sebesar <b>{0}%</b> selama <b>8</b> detik. Efek ini tak bisa bertumpuk.",
+      "values": [
+        18
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

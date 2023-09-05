@@ -4,7 +4,7 @@
   "name": "Echo",
   "weapon": "Alabarda Trovejante",
   "weapon_id": "thunderous_halberd",
-  "birthday": "14 de agosto (Leão)",
+  "birthday": "14 de agosto",
   "birthplace": "Não há registro",
   "gender": "Feminino",
   "info": "Uma garota desastrada e cheia de energia que gosta de expressar suas emoções e pensamentos.\nDesde que foi resgatada por um comerciante, ela deseja retribuir fazendo o bem durante suas viagens.\nEla odeia o mal e considera que eliminá-lo é uma boa ação. Sendo jovem e inexperiente, ela frequentemente julga as pessoas com base em padrões questionáveis.",
@@ -20,53 +20,77 @@
   "skills": [
     {
       "name": "Lançada",
-      "type": ["Attack"],
-      "description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>24.7%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nSegundo ataque: Causa dano de <b>22.6%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nTerceiro ataque: Causa dano de <b>47.2%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: Causa dano de <b>65.2%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuinto ataque: Causa dano de <b>114.95%</b> do ATQ + <b>6</b> e repele o alvo uma distância significativa."
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>24.7%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>22.6%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>47.2%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>65.2%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuinto ataque: causa dano de <b>114.95%</b> do ATQ + <b>6</b> e repele o alvo uma distância significativa."
     },
     {
       "name": "Ataque Suspenso",
-      "type": ["Jump", "Attack"],
-      "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: Causa dano de <b>27.4%</b> do ATQ + <b>1</b>.\nSegundo ataque: Causa dano de <b>23.2%</b> do ATQ + <b>1</b>.\nTerceiro ataque: Causa dano de <b>45.8%</b> do ATQ + <b>2</b>.\nQuarto ataque: Causa dano de <b>110%</b> do ATQ + <b>6</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>27.4%</b> do ATQ + <b>1</b>.\nSegundo ataque: causa dano de <b>23.2%</b> do ATQ + <b>1</b>.\nTerceiro ataque: causa dano de <b>45.8%</b> do ATQ + <b>2</b>.\nQuarto ataque: causa dano de <b>110%</b> do ATQ + <b>6</b>."
     },
     {
       "name": "Mergulho Esmagador",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Segure o botão de ataque normal enquanto estiver no ar (ou use com um alvo selecionado), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Esmagador.\nEnquanto cai, cada golpe causa dano de <b>8%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>48.5%</b> do ATQ + <b>3</b> e derruba os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Esmagador.\nEnquanto cai, cada golpe causa dano de <b>8%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>48.5%</b> do ATQ + <b>3</b> e derruba os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
       "name": "Floreio Arremessante",
-      "type": ["Attack", "Hold: Attack"],
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
       "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Floreio Arremessante.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano de <b>49.2%</b> do ATQ + <b>3</b>. Toque novamente para continuar atacando o alvo no ar e causar dano de até <b>98%</b> do ATQ + <b>5</b>."
     },
     {
       "name": "Ataque Furtivo",
-      "type": ["Croch", "Attack"],
+      "type": [
+        "Croch",
+        "Attack"
+      ],
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
       "name": "Chute Desorientador",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Toque no botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Chute Desorientador.\nCausa dano de <b>72%</b> do ATQ + <b>4</b> ao alvo atingido, o repele uma boa distância e o <b>atordoa</b> durante <b>1</b> segundo (alvos não Errantes) ou <b>0,5</b> segundo (Errantes)."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Chute Desorientador.\nCausa dano de <b>72%</b> do ATQ + <b>4</b> ao alvo atingido, o repele uma boa distância e o <b>atordoa</b> durante <b>1</b> segundo (alvos não Errantes) ou <b>0,5</b> segundo (Errantes)."
     },
     {
       "name": "Esmagada Violenta",
-      "type": ["Dodge", "Attack"],
-      "description": "Toque no botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\nBate a lança no chão, causando dano de <b>52.8%</b> do ATQ + <b>3</b> e <b>suspendendo muito</b> os alvos no ar."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\nBate a lança no chão, causando dano de <b>52.8%</b> do ATQ mais <b>3</b> e <b>suspendendo muito</b> os alvos no ar."
     },
     {
       "name": "Combate nas Alturas",
-      "type": ["Skill"],
+      "type": [
+        "Skill"
+      ],
       "description": "<b>Suspende muito</b> o alvo e suspende a si mesmo, causando dano de <b>127.5%</b> do ATQ + <b>7</b>. Tempo de recarga: <b>25</b> seg."
     },
     {
       "name": "Lança Relampejante",
-      "type": ["Discharge"],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, que pula no ar e arremessa uma lança relampejante que explode. Causa dano em área de <b>296.7%</b> do ATQ mais <b>16</b> e <b>paralisia forte</b> nos alvos durante <b>1</b> segundo."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, em seguida pula no ar e arremessa uma lança relampejante que explode ao atingir o chão. Causa dano em área de <b>296.7%</b> do ATQ + <b>16</b> e <b>paralisia forte</b> nos alvos durante <b>1</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o próximo ataque causa <b>paralisia forte</b> nos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Aumenta o despedaçar em <b>15%</b>. Após despedaçar o escudo do alvo, aumenta o ATQ de todos os colegas de equipe em <b>15%</b> durante <b>30</b> segundos. Não acumula.",

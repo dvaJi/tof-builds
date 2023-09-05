@@ -1,8 +1,8 @@
 {
   "_id": 23,
   "id": "heart_of_lava",
-  "name": "Heart of lava",
+  "name": "Heart of Lava",
   "description": "Rare ore containing fire elemental power. The fiery redness is a sufficient proof of the power within.",
-  "usage": "For augmenting weapons.",
+  "usage": "Random Weapon Augment Kit",
   "rarity": "R"
 }

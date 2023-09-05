@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Meningkatkan Frost ATK sebesar 15%/18%/21%/25% selama 10 detik saat berganti ke Senjata Frost lain. Efek set ini berfungsi di slot sampingan, tetapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
+      "value": "Meningkatkan Frost ATK sebesar 15%/18%/21%/25% selama 10 detik saat berganti ke Senjata Frost lain. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
     },
     {
       "count": 4,

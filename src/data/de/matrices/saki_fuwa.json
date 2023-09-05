@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Wenn Frostresonanz ausgelöst wird: Alle 3 Sek. wird Gegnern in einem Umkreis von 10 Metern Schaden in Höhe von 60%/100%/150%/220% des Frost-ANG zugefügt und sie werden mit dem Frosteffekt belegt: Das Ziel wird 5 Sek. lang um 3.5% verlangsamt und beim Erreichen von 3 Stapeln 3 Sek. lang eingefroren (Bosse können nicht eingefroren werden). Zudem wird der vom Ziel erlittene Frostschaden 18 Sek. lang um 5% erhöht. Der Effekt dieser Matrix funktioniert auch im Nebenhand-Slot, aber nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+      "value": "Wenn Frostresonanz ausgelöst wird: Alle 3 Sek. wird Gegnern in einem Umkreis von 10 Metern Schaden in Höhe von 60%/100%/150%/220% des Frost-ANG zugefügt und sie werden mit dem „Eisfrost“-Effekt belegt: Das Ziel wird 5 Sek. lang um 3.5% verlangsamt und beim Erreichen von 3 Stapeln 3 Sek. lang eingefroren (Bosse können nicht eingefroren werden). Zudem wird der vom Ziel erlittene Frostschaden 18 Sek. lang um 5% erhöht. Diese Matrix wird auch im Nebenhand-Slot aktiviert. Dabei ist aber nur das Set mit der höchsten Sternebewertung aktiv."
     },
     {
       "count": 4,
-      "value": "Greife das Ziel 10-mal an und verursache eine 12 Sek. andauernde Blitzeinfrieren-Markierung. Blitzeinfrieren: Erhöht den Frostschaden, den das markierte Ziel erleidet, um 11%/28%/31%/34%. Diese Matrix wird auch im Nebenhand-Slot aktiviert, aber nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+      "value": "Greife das Ziel 10-mal an und verursache eine 12 Sek. andauernde Blitzeinfrieren-Markierung. Blitzeinfrieren: Erhöht den Frostschaden, den das markierte Ziel erleidet, um 11%/28%/31%/34%. Diese Matrix wird auch im Nebenhand-Slot aktiviert, aber nur das Set mit der höchsten Sternebewertung tritt in Kraft."
     }
   ],
   "mind": {

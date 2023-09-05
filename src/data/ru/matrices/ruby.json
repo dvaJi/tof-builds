@@ -1,0 +1,34 @@
+{
+  "_id": 40016,
+  "id": "ruby",
+  "name": "Руби",
+  "suitName": "Танец белого кролика",
+  "hash": "SSR16",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increases flame ATK after casting weapon skill by <b>8%</b>/10%/12%/15% for <b>25</b> seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack."
+    },
+    {
+      "count": 4,
+      "value": "Grant Mastery after casting weapon skill for <b>15</b> seconds, with a cooldown of <b>15</b> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by <b>2%</b>/2.5%/3%/3.5% every time the target is hit with a normal attack until the end of Mastery, adding a maximum of <b>1</b> stack every <b>0.2</b> seconds, up to <b>6</b> stacks. After <b>6</b> stacks, gain a shield that can block damage <b>1</b> time."
+    }
+  ],
+  "mind": {
+    "name": "Из-за спин",
+    "desc": "Самые нежные цветы берегут особенно тщательно, но даже они мечтают сражаться бок о бок с другими героями — пусть даже на цыпочках."
+  },
+  "memory": {
+    "name": "Пар",
+    "desc": "Туманные, как мимолетное облачко пара... быть может, события прошлого — это всего лишь иллюзии и грезы?"
+  },
+  "belief": {
+    "name": "В тени",
+    "desc": "Вам придется бежать, чтобы не отстать от нее, но если вы все же отстанете, она будет ждать вас неподалеку."
+  },
+  "emotion": {
+    "name": "Долли и Искра",
+    "desc": "Подруга Руби и лучшая подруга Руби."
+  }
+}

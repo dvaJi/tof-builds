@@ -4,7 +4,7 @@
   "name": "Shiro",
   "weapon": "Chakram of the Seas",
   "weapon_id": "chakram_of_the_seas",
-  "birthday": "September 22 (Virgo)",
+  "birthday": "September 22",
   "birthplace": "Unknown",
   "gender": "Female",
   "info": "She's antisocial, dislikes strangers, and gets nervous when meeting someone for the first time.\nShe doesn't even pay much attention to her partner, and only gets excited when the topic is something she is interested in. But then she talks a mile a minute, and gets angry when her partner can't keep up.\nShe's almost like a cat—cold and aloof most of the time, but gets angry when she wants attention and no one is around.",
@@ -20,55 +20,76 @@
   "skills": [
     {
       "name": "Rapid Throw",
-      "type": ["Attack"],
-      "description": "While on the ground, brandish the chakram to unleash 5 spinning attacks.\nFirst Attack: Deal damage equal to <b>30.7%</b> of ATK + <b>2</b>.\nSecond Attack: Deal damage equal to <b>23.8%</b> of ATK + <b>1</b>.\nThird Attack: Deal damage equal to <b>34%</b> of ATK + <b>2</b>.\nFourth Attack: Deal damage equal to <b>30.7%</b> of ATK + <b>2</b>.\nFifth Attack: Deal damage equal to <b>53.8%</b> of ATK + <b>3</b> and knock the target back a short distance."
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, brandish the chakram to unleash 5 spinning attacks.\nFirst Attack: Deal damage equal to <b>30.7%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal damage equal to <b>23.8%</b> of ATK plus <b>1</b>.\nThird Attack: Deal damage equal to <b>34%</b> of ATK plus <b>2</b>.\nFourth Attack: Deal damage equal to <b>30.7%</b> of ATK plus <b>2</b>.\nFifth Attack: Deal damage equal to <b>53.8%</b> of ATK plus <b>3</b> and knock the target back a short distance."
     },
     {
       "name": "Aerial Discharge",
-      "type": ["Jump", "Attack"],
-      "description": "While airborne or after jumping once, use normal attack to unleash 3 spinning attacks in a row.\nFirst Attack: Deal damage equal to <b>26.2%</b> of ATK + <b>1</b>.\nSecond Attack: Deal damage equal to <b>29.2%</b> of ATK + <b>2</b>.\nThird Attack: Deal damage equal to <b>37.2%</b> of ATK + <b>2</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne or after jumping once, use normal attack to unleash 3 spinning attacks in a row.\nFirst Attack: Deal damage equal to <b>26.2%</b> of ATK plus <b>1</b>.\nSecond Attack: Deal damage equal to <b>29.2%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>37.2%</b> of ATK plus <b>2</b>."
     },
     {
       "name": "Scatter",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "After the second normal attack, hold attack button to activate Scatter.\nFire five penetrating chakrams forward, each hit dealing <b>43.5%</b> of ATK + <b>2</b> damage, with minor knockback."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "After the second normal attack, hold attack button to activate Scatter.\nFire five penetrating chakrams forward, each hit dealing <b>43.5%</b> of ATK plus <b>2</b> damage, with minor knockback."
     },
     {
       "name": "Air Spin",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tap and hold normal attack while airborne to trigger Air Spin.\nUnleash a powerful strike, dealing damage equal to <b>191.5%</b> of ATK + <b>10</b> to the target and nearby enemies, and suspend them."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne to trigger Air Spin.\nUnleash a powerful strike, dealing damage equal to <b>191.5%</b> of ATK plus <b>10</b> to the target and nearby enemies, and suspend them."
     },
     {
       "name": "Sneak Attack",
-      "type": ["Croch", "Attack"],
-      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK + <b>23</b>."
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK plus <b>23</b>."
     },
     {
       "name": "Waning Moon",
-      "type": ["Dodge", "Attack"],
-      "description": "Tap normal attack during the short period after dodging to trigger Waning Moon.\nToss a spinning chakram forward, dealing damage equal to <b>132.9%</b> of ATK + <b>7</b> to the target and inflicting a <b>stun</b> effect for <b>0.5</b> seconds. The chakram then splits into <b>3</b> and keeps traveling, dealing damage equal to <b>24.2%</b> of ATK + <b>1</b> to targets along their path. <span class=\"text-red\">Split chakrams will bounce during Full Bloom</span>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack during the short period after dodging to trigger Waning Moon.\nToss a spinning chakram forward, dealing damage equal to <b>132.9%</b> of ATK plus <b>7</b> to the target and inflicting a <b>stun</b> effect for <b>0.5</b> seconds. The chakram then splits into <b>3</b> and keeps traveling, dealing damage equal to <b>24.2%</b> of ATK plus <b>1</b> to targets along their path. <span class=\"text-red\">Split chakrams will bounce during Full Bloom</span>."
     },
     {
       "name": "Full Bloom",
-      "type": ["Skill"],
-      "description": "Create a Chakram Domain with the Wanderer at the center for <b>8</b> seconds. At the same time, enemies are pulled in, and their speed is reduced by <b>30%</b> for <b>8</b> seconds. Fire <b>5</b> chakrams that bounce between enemies, dealing damage equal to <b>24.2%</b> of ATK + <b>1</b> to targets along their paths, bouncing up to <b>5</b> times. <span class=\"text-red\">The split chakrams triggered by Waning Moon will also bounce up to 5 times.</span> Cooldown: <b>45</b> seconds."
+      "type": [
+        "Skill"
+      ],
+      "description": "Create a Chakram Domain with the Wanderer at the center for <b>8</b> seconds. At the same time, enemies are pulled in, and their speed is reduced by <b>30%</b> for <b>8</b> seconds. Fire <b>5</b> chakrams that bounce between enemies, dealing damage equal to <b>24.2%</b> of ATK plus <b>1</b> to targets along their paths, bouncing up to <b>5</b> times. <span class=\"text-red\">The split chakrams triggered by Waning Moon will also bounce up to 5 times.</span> Cooldown: <b>45</b> seconds."
     },
     {
       "name": "Spirit of the Air",
-      "type": ["Discharge"],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, switching to this weapon from another weapon <b>removes all debuffs from the wielder</b> and unleashes Chakram of the Seas at a target. Struck target causes AOE <b>stun</b> for <b>1</b> second, plus <b>1</b> attack each against up to <b>3</b> units every second (each attack has <b>10%</b> chance of <b>stunning</b> the target for <b>1.5</b> seconds), dealing <b>41.4%</b> x ATK + <b>2</b> damage for <b>10</b> seconds."
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and unleash Chakram of the Seas at a target. Struck target causes AoE <b>stun</b> for <b>1</b> second, plus <b>1</b> attack each against up to <b>3</b> units every second (each attack has <b>10%</b> chance of <b>stunning</b> the target for <b>1.5</b> seconds), dealing <b>41.4%</b> x ATK plus <b>2</b> damage for <b>10</b> seconds."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "When the weapon is fully charged, the next attack will inflict damage equal to <b>137%</b> of ATK, and make the target grievous for <b>7</b> seconds, taking <b>20%</b> extra damage."
+    "description": "When the weapon is fully charged, the next attack will cause enemies to become grievous for <b>7</b> seconds, increasing their damage received by <b>20%</b> and dealing damage equal to <b>137%</b> of ATK. When in <yellow_lbl_14_1>team play</>, grievous targets receive an additional <b>20%</b> physical damage."
   },
   "advancement": [
     "Increase damage dealt to and all elemental shattering effects on targets within <span class=\"text-green\">Full Bloom</span>'s range by <b>30%</b>.",
     "Increase the current weapon's base ATK growth by <b>16%</b>.",
     "Increase shatter by <b>15%</b> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <b>30</b> seconds.",
     "Increase the current weapon's base HP growth by <b>32%</b>.",
-    "Attacking a grievous target extends the duration of grievous by an additional <b>7</b> seconds (only take effect once for the same effect).",
+    "Attacking a grievous target extends the duration of grievous by an additional <b>7</b> seconds (only takes effect once for the same effect).",
     "After using <span class=\"text-green\">Full Bloom</span>, grant a 100% crit chance for the next <b>8</b> seconds."
   ],
   "traits": [
@@ -244,13 +265,13 @@
       "cost": 3600,
       "mat1": {
         "id": "heart_of_summit",
-        "name": "Heart of summit",
+        "name": "Heart of Summit",
         "rarity": "R",
         "amount": 5
       },
       "mat2": {
         "id": "acidproof_glaze_ii",
-        "name": "Acidproof glaze II",
+        "name": "Acidproof Glaze II",
         "rarity": "SR",
         "amount": 5
       },

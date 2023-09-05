@@ -4,7 +4,7 @@
   "name": "Coco",
   "weapon": "Zéro absolu",
   "weapon_id": "absolute_zero",
-  "birthday": "1er juin (Gémeaux)",
+  "birthday": "1er juin",
   "birthplace": "Inconnu",
   "gender": "Féminin",
   "info": "Une jeune fille innocente et optimiste. Elle se repose toujours sur ceux qui l'entourent, à tel point qu'on la pense naïve et prête à faire confiance à n'importe qui.\nElle adore les sucreries, mais parvient tout de même à conserver une alimentation équilibrée. Elle a souvent du mal à s'orienter, mais une fois qu'elle sait où aller, elle ne lâche plus son objectif des yeux. Ses proches ont tendance à s'inquiéter pour elle, mais elle est parfaitement capable de se débrouiller toute seule.",
@@ -20,55 +20,76 @@
   "skills": [
     {
       "name": "Attaque normale",
-      "type": ["Attack"],
+      "type": [
+        "Attack"
+      ],
       "description": "Lorsque vous êtes au sol, brandissez le bâton pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>54.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>40.8%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : vous infligez des dégâts correspondant à <b>65.6%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>89.7%</b> de l'ATQ + <b>5</b>.\nCinquième attaque : vous infligez des dégâts correspondant à <b>158.4%</b> de l'ATQ + <b>8</b>."
     },
     {
       "name": "Barrage aérien",
-      "type": ["Jump", "Attack"],
-      "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attdans les airsaque : inflige des dégâts équivalant à <b>70.5%</b> de l'ATQ + <b>4</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>55.1%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>99.1%</b> de l'ATQ + <b>5</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>103.2%</b> de l'ATQ + <b>5</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>70.5%</b> de l'ATQ + <b>4</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>55.1%</b> de l'ATQ + <b>3</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>99.1%</b> de l'ATQ + <b>5</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>103.2%</b> de l'ATQ + <b>5</b>."
     },
     {
       "name": "Tombelune",
-      "type": ["Jump", "Hold: Attack"],
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
       "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Tombelune.\nÀ l'atterrissage, vous infligez des dégâts toutes les <b>0,2</b> seconde, pour un total de dégâts correspondant à <b>123.8%</b> de l'ATQ + <b>7</b>."
     },
     {
       "name": "Attaque concentrée",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Après la troisième attaque normale, maintenez le bouton d'attaque normale enfoncé pour déclencher des attaques ramifiées, consommant <b>300</b> points d'endurance.\nPremière attaque : attire les ennemis devant l'utilisateur, les <b>suspendant</b> et leur infligeant des dégâts équivalant à <b>34.9%</b> de l'ATQ + <b>2</b> chaque <b>0,3</b> seconde (jusqu'à <b>4</b> fois).\nDeuxième attaque : inflige des dégâts équivalant à <b>40.4%</b> de l'ATQ + <b>2</b> à l'emplacement ciblé et aux ennemis proches chaque <b>0,3</b> seconde."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher des attaques ramifiées, consommant <b>300</b> points d'endurance.\nPremière attaque : attire les ennemis devant l'utilisateur, les <b>suspendant</b> et leur infligeant des dégâts équivalant à <b>34.9%</b> de l'ATQ + <b>2</b> chaque <b>0,3</b> seconde (jusqu'à <b>4</b> fois).\nDeuxième attaque : inflige des dégâts équivalant à <b>40.4%</b> de l'ATQ + <b>2</b> à l'emplacement ciblé et aux ennemis proches chaque <b>0,3</b> seconde."
     },
     {
       "name": "Déferlement",
-      "type": ["Perfect Dodge", "Attack"],
-      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Déferlement.\nChaque impulsion d'énergie inflige aux cibles des dégâts équivalant à <b>45.9%</b> de l'ATQ + <b>2</b>.\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "Appuyer sur l'attaque normale pendant la courte fenêtre d'esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Déferlement.\nChaque impulsion d'énergie inflige aux cibles des dégâts équivalant à <b>45.9%</b> de l'ATQ + <b>2</b>.\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
     },
     {
       "name": "Tesseract",
-      "type": ["Dodge", "Attack"],
-      "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Explosion évasive.\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à <b>66.4%</b> de l'ATQ + <b>3</b> aux cibles sur sa trajectoire chaque <b>0,3</b> seconde (jusqu'à 5 fois).\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Explosion évasive.\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à <b>66.4%</b> de l'ATQ + <b>3</b> aux cibles sur sa trajectoire chaque <b>0,3</b> seconde (jusqu'à 5 fois).\nConfère <b>75</b> points de recharge d'arme au moment de l'utilisation."
     },
     {
       "name": "Sanctuaire",
-      "type": ["Skill"],
-      "description": "Vous créez une zone de soin qui se déplace avec l'Explorateur et procure aux alliés proches des soins correspondant à <b>95%</b> de l'ATQ + <b>5</b> toutes les <b>0,5</b> seconde pendant <b>6</b> secondes. <b>60</b> secondes de recharge."
+      "type": [
+        "Skill"
+      ],
+      "description": "Vous créez une zone de soin qui se déplace avec l'Explorateur et procure aux alliés proches des soins correspondant à <b>95%</b> de l'ATQ + <b>5</b> toutes les <b>0,5</b> seconde pendant <b>6</b> secondes. Temps de recharge : <b>60</b> secondes."
     },
     {
       "name": "Délivrance rapide",
-      "type": ["Discharge"],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur le porteur</b>, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de <b>118.8%</b> de l'ATQ + <b>6</b> PV pendant <b>7</b> secondes."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b> au moment où vous changez d'arme pour passer à celle-ci, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de <b>118.8%</b> de l'ATQ + <b>6</b> PV pendant <b>7</b> secondes."
     }
   ],
   "weapon_type": {
     "name": "Coquille de glace",
-    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque <b>gèle</b> les cibles pendant <b>2</b> secondes et leur inflige Gelure pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts supplémentaires correspondant à <b>151%</b> de l'ATQ. Lorsque la cible subit Gelure, son taux de recharge d'arme est réduit de <b>50%</b>."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque <b>gèle longuement</b> les cibles pendant <b>2</b> secondes et leur inflige Gelure pendant <b>6</b> secondes. Briser la coquille de glace inflige des dégâts équivalant à <b>151%</b> de l'ATQ. Lorsque la cible subit Gelure, son taux de recharge d'arme est réduit de <b>50%</b>."
   },
   "advancement": [
     "Après avoir esquivé, invoque une abeille guérisseuse qui suit l'utilisateur et soigne l'allié avec le plus faible pourcentage de PV dans un rayon de <b>15</b> mètres. Soigne un nombre de PV équivalant à <b>25%</b> de l'ATQ et régénère <b>50</b> points de recharge d'arme à chaque fois. Dure <b>25</b> secondes. Temps de recharge : <b>25</b> secondes.",
     "Augmente de <b>16%</b> la croissance de PV de base actuelle de l'arme.",
     "Utilisez <span class=\"text-yellow\">Sanctuaire</span> ou des compétences de décharge pour supprimer les altérations des cibles. Peut être utilisé même si vous êtes affecté par des effets de contrôle. Augmente de <b>20%</b> la fracture et les dégâts infligés pour tous les membres du groupe à portée, et les immunise aux effets de contrôle et de fracture.",
     "Accroît de <b>32%</b> la croissance de PV de base actuelle de l'arme.",
-    "Augmente de <b>15%</b> l'effet de guérison, plus <b>20%</b> supplémentaires lorsque vous soignez des cibles à moins de <b>60%</b> de leurs PV.",
+    "Augmente de <b>15%</b> l'effet de guérison, + <b> 20%</b> supplémentaires lorsque vous soignez des cibles à moins de <b>60%</b> de leurs PV.",
     "Lorsqu'une abeille guérisseuse est invoquée ou disparaît du combat, soigne tous les alliés d'un nombre de PV égal à <b>100%</b> de l'ATQ de l'utilisateur. Tous les alliés dans un rayon de <b>10</b> mètres de l'abeille guérisseuse gagnent aussi un bonus de dégâts et de soin de <b>15%</b> (effet non cumulable)."
   ],
   "traits": [

@@ -2,9 +2,9 @@
   "_id": 1,
   "id": "bailing",
   "name": "Bai Ling",
-  "weapon": "Nightingale's Feather",
+  "weapon": "Nightingale Feather",
   "weapon_id": "nightingales_feather",
-  "birthday": "8 Mei (Taurus)",
+  "birthday": "8 Mei",
   "birthplace": "Shelter HT201",
   "gender": "Perempuan",
   "info": "Kurang percaya diri dan terlalu banyak cemas. Dia lebih peduli dengan pikiran orang lain daripada ide-idenya sendiri sehingga jadi sensitif dan khawatir tentang hal-hal kecil. Di sisi lain, dia juga rendah hati, baik hati, sopan, dan cermat.\nDia masih belajar dan bertumbuh. Setelah menyadari masalahnya sendiri, dia perlahan coba menjadi orang yang bisa memimpin.",
@@ -19,44 +19,61 @@
   "charge": 10,
   "skills": [
     {
-      "name": "Quickdraw",
-      "type": ["Attack"],
-      "description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\nSerangan Pertama: Timpakan damage sebesar <b>33.7%</b> ATK + <b>2</b>.\nSerangan Kedua: Timpakan damage sebesar <b>30.2%</b> ATK + <b>2</b>.\nSerangan Ketiga: Timpakan damage sebesar <b>54.3%</b> ATK + <b>3</b>.\nSerangan Keempat: Timpakan damage sebesar <b>83.5%</b> ATK + <b>4</b>.\nSerangan Kelima: Timpakan damage sebesar <b>77.7%</b> ATK + <b>4</b> dan pukul mundur target dalam jarak dekat."
+      "name": "Bagi Cepat",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\nSerangan Pertama: Menimpakan DMG sebesar <b>33.7%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>30.2%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>54.3%</b> ATK plus <b>3</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>83.5%</b> ATK plus <b>4</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>77.7%</b> ATK plus <b>4</b> dan pukul mundur target dalam jarak dekat."
     },
     {
       "name": "Charged Arrow",
-      "type": ["Hold: Attack"],
-      "description": "Tahan Serangan Biasa untuk mengisi tenaga. Menimbulkan DMG dasar sebesar <b>60.5%</b> ATK + <b>3</b>, dan <b>50%</b> lagi untuk setiap <b>1</b> detik pengisian, maks <b>3</b> detik. Menimbulkan Double DMG saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (Headshot tidak efektif pada Wanderer)."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tahan Serangan Biasa untuk mengisi tenaga. Menimpakan DMG dasar sebesar <b>60.5%</b> ATK plus <b>3</b>, dan <b>50%</b> lagi untuk setiap <b>1</b> detik pengisian, maks <b>3</b> detik. Menimpakan DMG dua kali lipat saat Headshot atau saat mengenai titik lemah, dan menjatuhkan target (efek Headshot tidak berlaku bagi Wanderer)."
     },
     {
       "name": "Arrow Rain",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Setelah Serangan Biasa, tahan tombol Serangan Biasa untuk melepaskan Arrow Rain, yang akan menimpakan damage hingga <b>198.7%</b> ATK + <b>10</b> DMG area kepada target."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Setelah Serangan Biasa, tahan tombol Serangan Biasa untuk melancarkan Arrow Rain, menimpakan DMG area dengan total sebesar <b>198.7%</b> ATK plus <b>10</b> kepada target."
     },
     {
       "name": "Air Volley",
-      "type": ["Jump", "Attack"],
-      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimbulkan DMG sebesar <b>38.8%</b> ATK + <b>2</b>.\nSerangan Kedua: Menimbulkan DMG sebesar <b>51%</b> ATK + <b>3</b>.\nSerangan Ketiga: Menimbulkan DMG sebesar <b>77.7%</b> ATK + <b>4</b>.\nSerangan Keempat: Menimbulkan DMG sebesar <b>117%</b> ATK + <b>6</b>."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, tekan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimpakan DMG sebesar <b>38.8%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>51%</b> ATK plus <b>3</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>77.7%</b> ATK plus <b>4</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>117%</b> ATK plus <b>6</b>."
     },
     {
       "name": "Loaded Arrow",
-      "type": ["Dodge", "Attack"],
-      "description": "Tekan Serang setelah Dodge untuk mengaktifkan Loaded Arrow, yang akan memukul mundur target dalam jarak dekat dan menimpakan damage sebesar <b>85.5%</b> ATK + <b>5</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tekan Serang setelah Dodge untuk mengaktifkan Loaded Arrow, yang akan membuat target terpental sedikit ke belakang dan menimpakan DMG sebesar <b>85.5%</b> ATK plus <b>5</b>."
     },
     {
       "name": "Piercing Shot",
-      "type": ["Skill"],
-      "description": "Melakukan jungkir balik dan menembakkan <b>1</b> Piercing Shot ke depan, menimpakan damage sebesar <b>154.8%</b> ATK + <b>8</b> dan memukul mundur target. CD <b>12</b> detik."
+      "type": [
+        "Skill"
+      ],
+      "description": "Salto ke belakang sambil menembakkan <b>1</b> Piercing Shot ke depan, menimpakan DMG sebesar <b>154.8%</b> ATK plus <b>8</b> dan membuat target terpental ke belakang. CD <b>12</b> detik."
     },
     {
       "name": "Explosive Barrage",
-      "type": ["Discharge"],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> diaktifkan, <b>menghilangkan semua debuff dari penggunanya</b> dan melepaskan Explosive Barrage ke arah target setelah beralih ke senjata ini, dan akan menimpakan damage sebesar <b>486.6%</b> ATK + <b>26</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melancarkan Explosive Barrage ke arah target, menimpakan DMG sebesar <b>486.6%</b> ATK plus <b>26</b>."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan menimpakan DMG sebesar <b>100%</b> ATK dan membuat target terkena efek Grievous selama <b>7</b> detik, mengakibatkan mereka menerima <b>20%</b> DMG tambahan."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menerapkan efek Grievous pada lawan selama <b>7</b> detik, meningkatkan DMG yang mereka terima sebesar <b>20%</b> dan menimpakan DMG sebesar <b>100%</b> ATK. Saat <yellow_lbl_14_1>bermain sebagai tim</>, target yang terkena Grievous menerima Physical DMG <b>20%</b> lebih besar."
   },
   "advancement": [
     "Memulihkan 1 upaya Dodge untuk setiap Serangan Biasa kelima atau setelah menggunakan <span class=\"text-green\">Piercing Shot</span>.",

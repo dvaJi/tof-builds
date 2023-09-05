@@ -4,7 +4,7 @@
   "name": "Cobalt-B",
   "weapon": "Revólver Explosivo",
   "weapon_id": "flaming_revolver",
-  "birthday": "26 de junho (Câncer)",
+  "birthday": "26 de junho",
   "birthplace": "Banges Tech",
   "gender": "Feminino",
   "info": "Embora tenha uma aparência séria e solene, ela está mais para incomum e excêntrica.\nNão tem muita expressão facial, mas, uma vez que se conquista alguma intimidade, nota-se que é gentil e cheia de ideias e emoções. Pode até mesmo fazer cara feia quando está irritada.\nEla é mestre em engenharia mecânica, mas trabalha com sentimentos ao invés de teorias.\nEla afina suas criações com o seu \"sexto sentido\" e frequentemente acrescenta módulos completamente inúteis só porque deu na telha...",
@@ -20,59 +20,78 @@
   "skills": [
     {
       "name": "Ataque Normal",
-      "type": ["Attack"],
-      "description": "No chão, use ataque normal para executar 5 ataques seguidos.\nPrimeiro ataque: Causa dano de <b>52.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: Causa dano de <b>75.6%</b> do ATQ + <b>4</b>.\nTerceiro ataque: Causa dano de <b>94.5%</b> do ATQ + <b>5</b>.\nQuarto ataque: Causa dano de <b>142.8%</b> do ATQ + <b>8</b>.\nQuinto ataque: Causa dano de <b>137.8%</b> do ATQ + <b>7</b>."
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, use o ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano total de <b>52.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: causa dano total de <b>75.6%</b> do ATQ + <b>4</b>.\nTerceiro ataque: causa dano total de <b>94.5%</b> do ATQ + <b>5</b>.\nQuarto ataque: causa dano total de <b>142.8%</b> do ATQ + <b>8</b>.\nQuinto ataque: causa dano total de <b>137.8%</b> do ATQ + <b>7</b>."
     },
     {
       "name": "Tiro Concentrado",
-      "type": ["Hold: Attack"],
-      "description": "Segure o botão de ataque normal para concentrar um ataque, então solte para disparar projéteis que causam dano de <b>95.4%</b> do ATQ + <b>5</b> mais uma explosão três segundos depois (ou se o alvo for abatido). Causa dano de <b>23.9%</b> do ATQ a alvos próximos. O dano aumenta e a área de efeito duplica cada vez que um alvo sofre dano antes da explosão (até <b>4</b> vezes)."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque normal para concentrar um ataque, então solte para disparar projéteis que causam dano de <b>95.4%</b> do ATQ + <b>5</b> mais uma explosão 3 segundos depois (ou se o alvo for abatido). Causa dano de <b>23.9%</b> do ATQ a alvos próximos. O dano aumenta e a área de efeito duplica cada vez que um alvo sofre dano durante a explosão (até <b>4</b> vezes)."
     },
     {
       "name": "Explosão Elevada",
-      "type": ["Jump", "Attack"],
+      "type": [
+        "Jump",
+        "Attack"
+      ],
       "description": "No ar ou após pular uma vez, use Explosão Elevada.\nArremessa uma bomba que causa dano de <b>90.8%</b> do ATQ + <b>5</b> a inimigos em um círculo adiante, repelindo-os uma curta distância. Consome <b>250</b> de vigor."
     },
     {
       "name": "Detonação Aérea",
-      "type": ["Double Jump"],
+      "type": [
+        "Double Jump"
+      ],
       "description": "Dê um salto duplo para usar Detonação Aérea.\nDispara um feixe de Omnium para baixo. O feixe se estende para frente e causa dano de <b>33.8%</b> do ATQ + <b>2</b>."
     },
     {
       "name": "Bombardeio Intenso",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Segure o botão de ataque durante um ataque normal para atirar adiante. Causa dano em área de <b>102%</b> do ATQ + <b>5</b> a inimigos."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Segure o botão de ataque durante um ataque normal para atirar adiante. Causa em área um dano total de <b>102%</b> do ATQ + <b>5</b> a inimigos."
     },
     {
       "name": "Curta Distância",
-      "type": ["Dodge", "Attack"],
-      "description": "Toque no botão de ataque normal logo após se esquivar para usar Curta Distância.\nCausa dano de <b>156.1%</b> do ATQ + <b>8</b> a alvos em uma área cônica frontal."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal logo após se esquivar para usar Curta Distância.\nCausa dano de <b>156.1%</b> do ATQ + <b>8</b> a alvos em uma área cônica frontal."
     },
     {
-      "name": "Barragem Incinerante",
-      "type": ["Skill"],
-      "description": "Atira sem parar em uma área cônica à frente. Causa dano de <b>666%</b> do ATQ + <b>35</b>. Tempo de recarga: <b>60</b> seg."
+      "name": "Mensagem em tela",
+      "type": [
+        "Skill"
+      ],
+      "description": "Causa dano contínuo em uma área cônica à frente, causando dano de <b>666%</b> do ATQ + <b>35</b>. Tempo de recarga: <b>60</b> seg."
     },
     {
       "name": "Chuva de Bombas",
-      "type": ["Discharge"],
-      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> e arremessa <b>3</b> granadas para frente ao trocar para esta arma. Causa dano em área de <b>570%</b> do ATQ + <b>30</b> e <b>lançamento aéreo</b>."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e arremessa <b>3</b> granadas para frente. Causa em área um dano total de <b>570%</b> do ATQ + <b>30</b> e <b>lançamento aéreo</b>."
     }
   ],
   "weapon_type": {
     "name": "Fogo",
-    "description": "Com carga completa, o ataque seguinte da arma ateia fogo no alvo, o que causa dano prolongado de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura recebida por alvos incendiados diminui <b>50%</b>."
+    "description": "Com carga completa, o ataque seguinte da arma incendeia o alvo, o que causa dano de <b>58%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura em alvos incendiados diminui em <b>50%</b>."
   },
   "weapon_resonance": {
     "name": "Ressonância ígnea",
-    "description": "<b>Ressonância ígnea</b>: Aumenta o ATQ ígneo em <b>15%</b> e a resistência ígnea em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo."
+    "description": "<b>Ressonância ígnea</b>: aumenta o ATQ ígneo em <b>15%</b> e a resistência ígnea em <b>25%</b>. Ativa-se ao equipar <b>2</b> ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo."
   },
   "advancement": [
     "Cada saraivada de tiros de Barragem Incinerante causa dano adicional equivalente a <b>2%</b> da vida atual do alvo (até <b>180%</b> do ATQ).",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
     "A habilidade encadeada Bombardeio Intenso e o ataque de esquiva Curta Distância infligem <span class=\"text-green\">queima iônica</span> a alvos que já estejam queimando, causando dano ígneo equivalente a <b>40%</b> do ATQ deles por segundo durante <b>10</b> segundos.",
     "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
-    "O dano da <span class=\"text-green\">queima iônica</span> aumenta em até <b>60%</b> do ATQ. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma irão atualizar a duração da <span class=\"text-green\">queima iônica</span>.",
+    "O dano da <span class=\"text-green\">queima iônica</span> aumenta em até <b>60%</b> do ATQ. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma reiniciam a duração da <span class=\"text-green\">queima iônica</span>.",
     "<span class=\"text-green\">Barragem Incinerante</span> tem <b>15</b> segundos de efeito de queimadura. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma reduzem o tempo de recarga de <span class=\"text-green\">Barragem Incinerante</span> em <b>4</b> segundos. Tempo de recarga do efeito: <b>1,5</b> seg. O dano prolongado da habilidade de esquiva também desencadeia um efeito de redução de tempo de recarga."
   ],
   "traits": [

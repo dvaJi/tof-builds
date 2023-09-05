@@ -4,7 +4,7 @@
   "name": "Kaninchen",
   "weapon": "Spark",
   "weapon_id": "spark",
-  "birthday": "15. Juli (Krebs)",
+  "birthday": "15. Juli",
   "birthplace": "Unbekannt",
   "gender": "Weiblich",
   "info": "Ein introvertiertes und unschuldiges Mädchen, das nicht viel von der Welt weiß. Sie hat etwas Angst vor Fremden und ist lieber allein unterwegs. Vermutlich wirkt sie deshalb immer etwas verängstigt und schüchtern, wenn sie Fremden begegnet.\nSie wird immer als „die Kleine von Lin“ bezeichnet und hat mittlerweile das Ziel verinnerlicht, durch harte Arbeit stärker zu werden, um keine Belastung mehr für Lin zu sein oder zuzulassen, dass Lins Mühe umsonst sein könnte.",
@@ -20,55 +20,75 @@
   "skills": [
     {
       "name": "Spark-Angriff",
-      "type": ["Attack"],
-      "description": "Tippe auf dem Boden auf die normale Angriffstaste, damit Spark 5-mal hintereinander angreift.\n„\n“Erster Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>84.6%</b> des ANG + <b>4</b> zu.\n„\n“Zweiter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>93%</b> des ANG + <b>5</b> zu.\n„\n“Dritter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>101.5%</b> des ANG + <b>5</b> zu.\n„\n“Vierter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>109.9%</b> des ANG + <b>6</b> zu.\n„\n“Fünfter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>253.7%</b> des ANG + <b>13</b> zu und <b>schleudert</b> sie in die Luft."
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe auf dem Boden auf die normale Angriffstaste, damit Spark 5-mal hintereinander angreift.\nErster Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>84.6%</b> des ANG +<b>4</b> zu.\nZweiter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>93%</b> des ANG +<b>5</b> zu.\nDritter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>101.5%</b> des ANG +<b>5</b> zu.\nVierter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>109.9%</b> des ANG +<b>6</b> zu.\nFünfter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>253.7%</b> des ANG +<b>13</b> zu und <b>schleudert</b> sie hoch."
     },
     {
       "name": "Luftsprengung",
-      "type": ["Jump", "Attack"],
-      "description": "Tippe in der Luft auf die normale Angriffstaste, damit Spark 4-mal hintereinander angreift.\n„\n“Erster Angriff: fügt jedem Ziel Gesamtschaden in Höhe von <b>97.1%</b> des ANG + <b>5</b> zu.\n„\n“Zweiter Angriff: fügt jedem Ziel Gesamtschaden in Höhe von <b>106.8%</b> des ANG + <b>6</b> zu.\n„\n“Dritter Angriff: fügt jedem Ziel Gesamtschaden in Höhe von <b>121.3%</b> des ANG + <b>6</b> zu.\n„\n“Vierter Angriff fügt jedem Ziel Gesamtschaden in Höhe von <b>145.6%</b> des ANG + <b>8</b> zu."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tippe in der Luft auf die normale Angriffstaste, damit Spark 4-mal hintereinander angreift.\nErster Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>97.1%</b> des ANG +<b>5</b> zu.\nZweiter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>106.8%</b> des ANG +<b>6</b> zu.\nDritter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>121.3%</b> des ANG +<b>6</b> zu.\nVierter Angriff Fügt jedem Ziel Gesamtschaden in Höhe von <b>145.6%</b> des ANG +<b>8</b> zu."
     },
     {
       "name": "Erwischt!",
-      "type": ["Hold: Attack"],
-      "description": "Tippe und halte den normalen Angriff oder führe diese Aktion aus, nachdem „Sperrzone“ ausgelöst wurde, um kontinuierlich sengende Energiestrahlen auf Gegner in der Zielrichtung abzufeuern, die Schaden in Höhe von <b>40%</b> des ANG + <b>2</b> verursachen. Verbraucht die Ausdauer des Wanderers."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff oder führe diese Aktion aus, nachdem „Sperrzone“ ausgelöst wurde, um kontinuierlich sengende Energiestrahlen auf Gegner in der Zielrichtung abzufeuern, die Schaden in Höhe von <b>40%</b> des ANG +<b>2</b> verursachen. Verbraucht die Ausdauer des Wanderers."
     },
     {
       "name": "Lohensturz",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "Tippe und halte die normale Angriffstaste gedrückt, während du in der Luft bist, um „Lohensturz“ auszulösen.\n„\n“Umgibt den Körper mit Energie, bevor er rasant in den Boden einschlägt und Zielen in der Nähe Schaden in Höhe von <b>172.1%</b> des ANG + <b>9</b> zufügt."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um „Lohensturz“ auszulösen.\nUmgibt den Körper mit Energie, bevor er rasant in den Boden einschlägt und Zielen in der Nähe Schaden in Höhe von <b>172.1%</b> des ANG +<b>9</b> zufügt."
     },
     {
       "name": "Sperrzone",
-      "type": ["Attack", "Hold: Attack"],
-      "description": "Halte die Taste nach dem zweiten normalen Angriff während eines beliebigen Angriffs gedrückt, um dem anvisierten Ziel Schaden in Höhe von <b>40%</b> des ANG + <b>2</b> zuzufügen. Das anvisierte Ziel ist eingesperrt, wird verbrannt und erleidet <b>3</b> Sek. lang jede Sek. Schaden in Höhe von <b>26.2%</b> des ANG + <b>1</b> (gegen Bosse unwirksam)."
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "Halte die Taste nach dem zweiten normalen Angriff während eines beliebigen Angriffs gedrückt, um dem Ziel Schaden in Höhe von <b>40%</b> des ANG +<b>2</b> zuzufügen. Das anvisierte Ziel wird für <b>3</b> Sekunden gefangen genommen und verbrannt, und ihm wird jede Sekunde Schaden in Höhe von <b>26.2%</b> des ANG +<b>1</b> zugefügt (unwirksam gegen Bosse)."
     },
     {
       "name": "Los, Dolly!",
-      "type": ["Dodge", "Attack"],
-      "description": "Wirft nach dem Ausweichen Dolly. Dolly bleibt für <b>10</b> Sek. im Einsatz, zieht Gegner in der Nähe an, fügt ihnen Schaden in Höhe von <b>84.6%</b> des ANG + <b>4</b> zu und verspottet sie für <b>1,5</b> Sek., um ihre Angriffe auf sich zu lenken (im Teamspiel werden Gegner nicht verspottet)."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Wirft nach dem Ausweichen Dolly. Dolly bleibt für <b>10</b> Sek. im Einsatz, zieht Gegner in der Nähe an, fügt ihnen Schaden in Höhe von <b>84.6%</b> des ANG +<b>4</b> zu und verspottet sie für <b>1,5</b> Sek., um ihre Angriffe auf sich zu lenken (Gegner können nicht verspottet werden, wenn du in einem Team bist)."
     },
     {
       "name": "Funkelnde Karambolage",
-      "type": ["Skill"],
-      "description": "Spark versprüht Funken, die 15 Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für <b>4</b> Sek. (Abklingzeit: <b>15</b> Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu <b>350%</b> des ANG + <b>37</b> zu und belegen es für <b>25</b> Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von <b>50%</b> des ANG + <b>3</b> zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen <b>110%</b> mehr Schaden zu. Wenn Funken Ziele treffen, die unter einem „Verbrennen“-Effekt vom Wanderer leiden, werden einmal verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Abklingzeit der Fähigkeit beträgt <b>30</b> Sek.\n<b>Passiv</b>: Während Funken aktiv sind, erhält der Wanderer <b>1</b> Hitzepunkt, wenn Spark-Angriff Schaden verursacht (Abklingzeit: <b>0,9</b> Sek.; bis zu <b>8</b> Hitzepunkte). Wenn die Hitzepunkte voll sind, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für <b>25</b> Sek. um <b>25%</b> erhöht."
+      "type": [
+        "Skill"
+      ],
+      "description": "Spark versprüht Funken, die 15 Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für <b>4</b> Sek. (Abklingzeit: <b>15</b> Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu <b>350%</b> des ANG +<b>37</b> zu und belegen es für <b>25</b> Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von <b>50%</b> des ANG +<b>3</b> zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen <b>110%</b> mehr Schaden zu. Wenn Funken Ziele treffen, die unter einem „Verbrennen“-Effekt vom Wanderer leiden, werden einmal verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Abklingzeit der Fähigkeit beträgt <b>30</b> Sek.\n<b>Passiv</b>: Während Funken aktiv sind, erhält der Wanderer <b>1</b> Hitzepunkt, wenn Spark-Angriff Schaden verursacht (Abklingzeit: <b>0,9</b> Sek.; bis zu <b>8</b> Hitzepunkte). Wenn die Hitzepunkte voll sind, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für <b>25</b> Sek. um <b>25%</b> erhöht."
     },
     {
       "name": "Supernova",
-      "type": ["Discharge"],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe von einer anderen Waffe <b>alle Debuffs vom Anwender entfernt</b>. Spark geht in einen aufgeladenen Zustand über und feuert kontinuierlich sengende Energiestrahlen auf den Zielort, bis er schließlich explodiert. Verursacht Schaden in Höhe von <b>750%</b> des ANG + <b>39</b>. Wenn das Ziel unter einem selbst verursachten Verbrenneneffekt leidet, wird einmal verbrannt oder entzündet und erleidet dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache Verbrennen- oder Entzündeneffekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Schadensimmunität hält während der Fähigkeit für <b>2,6</b> Sek. an. In der Apex-Liga nicht verfügbar."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Spark geht in einen aufgeladenen Zustand über und feuert kontinuierlich sengende Energiestrahlen großflächig auf den Zielort, bis er schließlich explodiert. Verursacht Schaden in Höhe von <b>750%</b> des ANG +<b>39</b>. Wenn das Ziel unter einem selbst verursachten Verbrenneneffekt leidet, wird es einmal verbrannt oder entzündet und erleidet dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache Verbrennen- oder Entzündeneffekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Schadensimmunität hält während der Fähigkeit für <b>2,6</b> Sek. an (nicht in der Apex-Liga verfügbar)."
     }
   ],
   "weapon_type": {
     "name": "Flamme",
-    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde anhaltenden Schaden in Höhe von <b>58%</b> des ANG. Heileffekte sind bei entzündeten Zielen um <b>50%</b> verringert."
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde Schaden in Höhe von <b>58%</b> des ANG. Während Ziele entzündet sind, werden ihre Heileffekte um <b>50%</b> verringert."
   },
   "weapon_resonance": {
     "name": "Flammenresonanz",
     "description": "Erhöht Flammen-ANG um <b>20%</b> und Flammenwiderstand um <b>40%</b>. Wird durch Ausrüsten von 2 oder mehr Flammenwaffen aktiviert. Dieser Set-Effekt wird auch im Nebenhand-Slot aktiviert."
   },
   "advancement": [
-    "„Lodern“ erhöht den Schaden von Spark-Angriff um <b>80%</b>. Die Fähigkeits-Abklingzeit wird auf <b>24</b> Sek. verringert.",
+    "„Lodern“ erhöht den Schaden von „Spark-Angriff“ um <b>80%</b>. Die Fähigkeits-Abklingzeit wird auf <b>24</b> Sek. verringert.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
     "„Lodern“ erhöht den Flammenbonus um <b>8%</b> und den Verbrennen-Multiplikator auf <b>150%</b>.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",

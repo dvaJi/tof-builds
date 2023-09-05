@@ -1,0 +1,303 @@
+{
+  "_id": 1029,
+  "id": "tian_lang",
+  "name": "Tian Lang",
+  "weapon": "Quebratrovão",
+  "weapon_id": "thunderbreaker",
+  "birthday": "23 de março",
+  "birthplace": "Viveiro de Reflexia",
+  "gender": "Masculino",
+  "info": "Ele boceja muito, parece bagunceiro e frequentemente desempenha um papel importante em levantar os ânimos da equipe.\nÉ uma pessoa muito atenciosa, calorosa por fora, mas fria por dentro, e não revela seus verdadeiros sentimentos com facilidade.",
+  "description": "Um funcionário do Viveiro de Reflexia e amante das flores. É chamado de \"gerente\" porque é responsável pelas vendas e pelos cuidados diários com as plantas do viveiro.\n\nNa verdade, ele é o melhor Executor do Distrito 7 e tem uma força inigualável. Porém, poucos sabem desse segredo e também que é considerado a \"carta na manga\" do Distrito 7 e entra em cena apenas quando Reflexia está em crise.\n\nDurante uma batalha contra um Abismante, ele conteve um ataque de energia com o braço esquerdo, o que provocou uma queimadura grave. Após ser submetido a uma cirurgia de regeneração de tecido, para lutar melhor, Tian Lang equipou uma manopla de armadura que combinava com as características de combate da \"Quebratrovão\", sua arma.",
+  "like": "Flores, relaxar, Viveiro de Reflexia",
+  "dislike": "Transtornos, operações de Executores",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 8,
+  "skills": [
+    {
+      "name": "Mizar",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, execute 6 ataques seguidos com a Quebratrovão.\nPrimeiro ataque: causa dano de <b>90.5%</b> do ATQ + <b>5</b> e repele o alvo.\nSegundo ataque: causa dano de <b>67.9%</b> do ATQ + <b>4</b> e repele o alvo.\nTerceiro ataque: causa dano de <b>123%</b> do ATQ + <b>6</b> e repele o alvo.\nQuarto ataque: causa dano de <b>217.9%</b> do ATQ + <b>11</b> e repele o alvo.\nQuinto ataque: causa dano de <b>222%</b> do ATQ + <b>12</b> e repele o alvo.\nSexto ataque: causa dano de <b>291.8%</b> do ATQ + <b>15</b> e lança o alvo no ar."
+    },
+    {
+      "name": "Megrez",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>87.4%</b> do ATQ + <b>5</b>.\nSegundo ataque: causa dano de <b>83%</b> do ATQ + <b>4</b>.\nTerceiro ataque: causa dano de <b>126.7%</b> do ATQ + <b>7</b>.\nQuarto ataque: causa dano de <b>229.4%</b> do ATQ + <b>12</b>.\nQuinto ataque: causa dano de <b>256.5%</b> do ATQ + <b>14</b>."
+    },
+    {
+      "name": "Phecda",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, segure o botão de ataque normal para desencadear.\nCausa dano de até <b>342%</b> do ATQ + <b>18</b> ao alvo e junta os inimigos ao seu redor."
+    },
+    {
+      "name": "Merak",
+      "type": [
+        "Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar.\nEnquanto cai, cada golpe causa dano de <b>38%</b> do ATQ + <b>2</b>. Ao aterrissar, causa dano de <b>285%</b> do ATQ + <b>15</b> a alvos próximos."
+    },
+    {
+      "name": "Esquiva",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante <b>0,5</b> segundo."
+    },
+    {
+      "name": "Alioth",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal logo após se esquivar.\nArremete para atacar o alvo, causando dano total de <b>172.6%</b> do ATQ + <b>9</b>."
+    },
+    {
+      "name": "Dubhe",
+      "type": [
+        "Skill"
+      ],
+      "description": "Libera uma sequência de ataques que causa dano de <b>936.9%</b> do ATQ + <b>49</b> aos inimigos dentro do alcance e transforma as suas invocações e os inimigos em entidades eletrificadas. Até 3 entidades eletrificadas podem existir ao mesmo tempo. Tempo de recarga: <b>30</b> seg.\n\nGanha sentido elétrico quando Dubhe for usado: Escaneia as outras duas armas equipadas quando usar habilidades. Cada vez que uma arma elétrica é sentida, aumenta o ATQ elétrico em <b>6%</b> durante <b>25</b> segundos.\n\nEntidade eletrificada: Ao usar qualquer habilidade ou habilidade de descarga de arma elétrica, entidades eletrificadas causam dano elétrico em área equivalente a <b>5%</b> da vida perdida (não menos do que <b>100%</b> do ATQ elétrico nem mais do que <b>1.000%</b> do ATQ elétrico).\n\nEnquanto estiver utilizando Quebratrovão, usar qualquer habilidade ou habilidade de descarga de arma elétrica consome <b>30%</b> da vida atual para causar dano elétrico adicional de <b>50%</b> da vida consumida (não menos do que <b>480%</b> do ATQ elétrico nem mais do que <b>3.000%</b> do ATQ elétrico) e ganha invencibilidade temporária (indisponível na Liga do Apogeu). <b>8</b> segundos depois ou quando a vida for menor do que <b>10%</b>, recupera <b>5%</b> da vida perdida a cada segundo durante <b>8</b> segundos (não é afetado por efeitos de cura). O efeito de recuperação não se acumula."
+    },
+    {
+      "name": "Obliterador",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. Quebratrovão libera uma extensa área de dano elétrico, causando dano total de <b>844.6%</b> do ATQ + <b>44</b> e transforma as suas invocações ou os inimigos dentro de um certo alcance em entidades eletrificadas. Até 3 entidades eletrificadas podem existir ao mesmo tempo.\n\nEntidades eletrificadas: Ao usar qualquer arma elétrica ou habilidade de descarga, entidades eletrificadas causam dano elétrico em área equivalente a <b>5%</b> da vida perdida (não menos do que <b>100%</b> do ATQ elétrico nem mais do que <b>1.000%</b> do ATQ elétrico).\n\nEnquanto estiver utilizando Quebratrovão, usar qualquer habilidade ou habilidade de descarga de arma elétrica consome <b>30%</b> da vida atual para causar dano elétrico adicional de <b>50%</b> da vida consumida (não menos do que <b>480%</b> do ATQ elétrico nem mais do que <b>3.000%</b> do ATQ elétrico) e ganha invencibilidade temporária (indisponível na Liga do Apogeu). Após <b>8</b> segundos ou quando a vida for menor do que <b>10%</b>, recupera <b>5%</b> da vida perdida a cada segundo durante <b>8</b> segundos (não é afetado por efeitos de cura). O efeito de recuperação não é acumulável."
+    }
+  ],
+  "weapon_type": {
+    "name": "Raio",
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+  },
+  "weapon_resonance": {
+    "name": "Reação elétrica",
+    "description": "<b>Reação elétrica</b>: Aumenta o ATQ elétrico em <b>20%</b> e a resistência elétrica em <b>40%</b>. Ativa-se ao equipar <b>2</b> ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com outros efeitos de ressonância elétrica ou reação elétrica, e a ressonância elétrica tem prioridade."
+  },
+  "advancement": [
+    "Confere 1 acúmulo de supercondutor por carga: Aumenta a vida máxima em <b>7.5%</b> e o dano sofrido em <b>2%</b> (exceto se a vida atual for inferior a 8 vezes o ATQ elétrico e não houver escudo de vida), acumula até <b>8</b> vezes. Perde 1 acúmulo se nenhum supercondutor for atualizado em até <b>6</b> seg.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Use a habilidade ou a habilidade de descarga de qualquer arma elétrica para obter <b>2</b> cargas. Recebe corpo de aço ao atingir <b>8</b> acúmulos de supercondutor.",
+    "Aumenta o crescimento da vida mínima da arma atual em <b>32%</b>.",
+    "Cada acúmulo de supercondutor aumenta o dano final em <b>1%</b>.",
+    "Reforça o sentido elétrico de Dubhe: Por cada 1 arma elétrica sentida, recebe <b>10%</b> reforço de dano elétrico durante <b>25</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Cada utilização de uma habilidade ou habilidade de descarga de arma elétrica confere <b>1</b> tentativa de esquiva, limitado a <b>2</b> tentativas. Quando a habilidade e a habilidade de descarga da arma elétrica forem usadas ao mesmo tempo, aumenta o dano elétrico em <b>{0}%</b> durante <b>8</b> segundos. Esse efeito não se acumula.",
+      "values": [
+        12
+      ]
+    },
+    {
+      "name": "",
+      "description": "Cada utilização de uma habilidade ou habilidade de descarga de arma elétrica confere <b>1</b> tentativa de esquiva, limitado a <b>3</b> tentativas. Quando a habilidade e a habilidade de descarga da arma elétrica forem usadas ao mesmo tempo, aumenta o dano elétrico em <b>{0}%</b> durante <b>8</b> segundos. Esse efeito não se acumula.",
+      "values": [
+        18
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Corpo reforçado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Setelah menggunakan Skill Discharge untuk beralih ke Senjata saat ini, memperoleh perisai sebesar 150%/200%/250%/300% ATK selama 6 detik."
+      "value": "Setelah menggunakan Skill Discharge untuk beralih ke Senjata saat ini, memperoleh Perisai sebesar 150%/200%/250%/300% ATK selama 6 detik."
     },
     {
       "count": 4,
-      "value": "Saat shield ini aktif, kamu dan rekanmu satu tim menimpakan damage 16%/20%/24%/28% lebih besar."
+      "value": "Selama Perisai ini aktif, kamu dan rekan timmu akan menimpakan DMG 16%/20%/24%/28% lebih besar."
     }
   ],
   "mind": {

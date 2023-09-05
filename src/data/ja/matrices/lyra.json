@@ -1,0 +1,34 @@
+{
+  "_id": 40019,
+  "id": "lyra",
+  "name": "エスター",
+  "suitName": "告解の記憶",
+  "hash": "SSR19",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Use this weapon to increase all attack types by <b>13%</b>/17%/21%/25%. The lower the HP, the higher the healing received, which can be increased by up to <b>1%</b>."
+    },
+    {
+      "count": 4,
+      "value": "When dealing physical damage, increase physical damage by <b>2.7%</b> with a cooldown of <b>0.1</b> seconds. Stack up to <b>5</b> times. Upon reaching the maximum stacks, increase physical damage by an additional <b>3.5%</b>/7%/10.5%/14% for <b>5</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly. Obtain 1 block for each dodge, blocking damage up to <b>60%</b> of current HP, but not less than <b>20%</b> of Max HP. Stack up to <b>3</b> blocks for <b>10 seconds</b>."
+    }
+  ],
+  "mind": {
+    "name": "ソフトウェア再構築",
+    "desc": "彼女らはそれを「共感」と呼んでいる"
+  },
+  "memory": {
+    "name": "楽章リスタート",
+    "desc": "どんなに正確で完璧に表現しても、あの日流れた音楽は再現できない…"
+  },
+  "belief": {
+    "name": "携えた灯",
+    "desc": "この小さなロウソクの灯火を守る理由は、ただ遺言に従っているというだけではありません"
+  },
+  "emotion": {
+    "name": "果てしない本",
+    "desc": "その本の真意が明らかになるには一生かかるかもしれません"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": 40028,
+  "id": "icarus",
+  "name": "อิคารัส",
+  "suitName": "หมู่มวลน้ำค้าง",
+  "hash": "SSR28",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping Precious One, <b>2</b> or more weapons of different elements, or <b>2</b> or more types of weapons increases all elemental damage by <b>8%</b>/9%/10%/11%. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing frost damage, increase all elemental damage by <b>13%</b>/16%/19%/22% for <b>25</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "สันโดษ",
+    "desc": "กลยุทธ์และแผนการ โชคชะตาของฉันอยู่ในกำมือของฉัน"
+  },
+  "memory": {
+    "name": "พยาน",
+    "desc": "ไม่มีทางหวนกลับ ทุกสิ่งล้วนเป็นพยาน"
+  },
+  "belief": {
+    "name": "ย่ำน้ำแข็ง",
+    "desc": "ย่ำต่อไปบนน้ำแข็งที่บางเบา"
+  },
+  "emotion": {
+    "name": "ผู้สัญจรไปมา",
+    "desc": "คนแปลกหน้าผ่านมา และผ่านไป"
+  }
+}

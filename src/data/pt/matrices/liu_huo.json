@@ -1,0 +1,34 @@
+{
+  "_id": 40032,
+  "id": "liu_huo",
+  "name": "Liu Huo",
+  "suitName": "",
+  "hash": "SSR32",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase final damage by <b>9%</b>/10%/11%/12%. The number of <b>Sparrow Feathers</b> obtained from dodging while using <b>Pine Comet</b> increases to <b>20</b>. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When equipped with at least <b>1</b> flame weapon, increase all elemental damage by <b>11%</b>/14%/17%/20%. After using <b>In All Directions</b>, increase all elemental damage boost by an additional <b>7%</b> and gradually reduce to <b>4%</b> over <b>25</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "Narrativa",
+    "desc": "Na vasta imensidão da arte poética, o meu amor pela alfabetização acabou pouco antes das capas..."
+  },
+  "memory": {
+    "name": "Anedota",
+    "desc": "\"Vem cá, leva essa panqueca pra casa e come ainda quentinha, e não esquece de dar outra para o seu irmãozinho!\""
+  },
+  "belief": {
+    "name": "Ascenção",
+    "desc": "A jornada interior depende de esforço e suor, mas o alto do pico permanece escondido na neblina."
+  },
+  "emotion": {
+    "name": "Elegância",
+    "desc": "A graça e a sofisticação são construídas com base no crescimento pessoal, não é uma melhoria de última hora."
+  }
+}

@@ -4,10 +4,10 @@
   "name": "Samir",
   "weapon": "Estrellas Magnéticas Dobles",
   "weapon_id": "dual_em_stars",
-  "birthday": "20 de mayo (Tauro)",
+  "birthday": "20 de mayo",
   "birthplace": "Hykros",
   "gender": "Femenino",
-  "info": "Samir hace lo que quiere cuando quiere, y le encanta hacer bromas inofensivas a los demás.\nEs una ejecutora de Hykros y tiene madera para demostrarlo, pero su personalidad poco fiable y su afición por las bromas no le han hecho ganar muchos amigos. Sin embargo, a ella no parece importarle...",
+  "info": "Samir hace lo que quiere cuando quiere, y le encanta hacer bromas inofensivas a los demás.\nEs una ejecutora de Hykros y tiene madera para demostrarlo, pero su personalidad poco fiable y su afición por las bromas no le han hecho ganar muchas amistades. Sin embargo, a ella no parece importarle...",
   "description": "Su pasado está plagado de interrogantes.\nHasta ahora se sabe que fue una huérfana adoptada por un residente de Banges. Cuando alcanzó la edad adulta, se unió a Hykros y se convirtió en Ejecutora después del entrenamiento correspondiente.\n\nEs una integrante destacada, incluso entre los Ejecutores de élite. Hykros alguna vez consideró nombrarla instructora de los reclutas nuevos, pero desistió de la idea porque su personalidad no era apta para la tarea.",
   "like": "Resolver rompecabezas y asesinatos misteriosos",
   "dislike": "Desconocido",
@@ -20,43 +20,60 @@
   "skills": [
     {
       "name": "Fuego Doble",
-      "type": ["Attack"],
-      "description": "En el suelo, pulsa el ataque normal para lanzar hasta 5 ataques consecutivos con las pistolas dobles.\nPrimer ataque: inflige daño total equivalente al <b>47.1%</b> del ATQ + <b>2</b>.\nSegundo ataque: inflige daño total equivalente al <b>35.8%</b> del ATQ + <b>2</b>.\nTercer ataque: inflige daño total equivalente al <b>119.7%</b> del ATQ + <b>6</b>.\nCuarto ataque: inflige daño equivalente al <b>113.1%</b> del ATQ + <b>6</b>.\nQuinto ataque: inflige daño total equivalente al <b>154%</b> del ATQ + <b>8</b> y <b>lanza</b> al objetivo."
+      "type": [
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal mientras estás en el suelo para lanzar hasta 5 ataques consecutivos con las pistolas dobles.\nPrimer ataque: Inflige daño igual a <b>47.1%</b> del ATQ más <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>35.8%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>119.7%</b> del ATQ más <b>6</b>.\nCuarto ataque: Inflige daño igual a <b>113.1%</b> del ATQ más <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>154%</b> del ATQ más <b>8</b> y <b>lanza</b> al objetivo."
     },
     {
       "name": "Lluvia de Balas",
-      "type": ["Jump", "Attack"],
-      "description": "En el aire, usa el ataque normal para disparar de forma continua hacia el suelo e infligir daño equivalente al <b>50.6%</b> del ATQ + <b>3</b>. Cada impacto consume <b>150</b> de resistencia."
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "En el aire, usa el ataque normal para disparar de forma continua hacia el suelo e infligir daño equivalente al <b>50.6%</b> del ATQ más <b>3</b>. Cada impacto consume <b>150</b> de resistencia."
     },
     {
       "name": "Explosión de Energía",
-      "type": ["Hold: Attack"],
-      "description": "Mantén el botón de ataque para disparar de forma continua, y cada golpe inflige un <b>23%</b> del ATQ + <b>1</b> de daño base."
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "Mantén el botón de ataque para disparar de forma continua, y cada impacto inflige un <b>23%</b> del ATQ más <b>1</b> de daño base."
     },
     {
       "name": "Patada Fantasma",
-      "type": ["Jump", "Hold: Attack"],
-      "description": "En el aire, mantén pulsado el ataque normal para activar Patada Fantasma. Derriba al objetivo e inflige daño equivalente al <b>70.5%</b> del ATQ + <b>4</b>. Al aterrizar, inflige daño equivalente al <b>98.7%</b> del ATQ + <b>5</b> a los objetivos cercanos y los <b>lanza fuerte</b>."
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "Mientras estás en el aire, pulsa y mantén pulsado el ataque normal para activar la Patada Fantasma. Derriba al objetivo e inflige daño igual a <b>70.5%</b> del ATQ más <b>4</b>. Al aterrizar, inflige daño igual a <b>98.7%</b> del ATQ más <b>5</b> a los objetivos cercanos y los <b>lanza fuerte</b>."
     },
     {
       "name": "Patada Relámpago Ascendente",
-      "type": ["Dodge", "Attack"],
-      "description": "Pulsa el ataque normal tras evadir para <b>suspensión fuerte</b> a los objetivos cercanos e infligir daño equivalente al <b>122.6%</b> del ATQ + <b>6</b>."
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa el ataque normal tras evadir para <b>suspender fuerte</b> a los objetivos cercanos e infligir daño equivalente al <b>122.6%</b> del ATQ más <b>6</b>."
     },
     {
       "name": "Campo Eléctrico",
-      "type": ["Skill"],
-      "description": "Lanza un escudo energético a la ubicación objetivo y refleja los rayos dentro de la barrera. Inflige daño equivalente al <b>269.8%</b> del ATQ + <b>14</b>, y el último golpe <b>suspensión fuerte</b> a los objetivos. Enfriamiento: <b>45</b> segundos."
+      "type": [
+        "Skill"
+      ],
+      "description": "Dispara un Escudo Energético a la ubicación objetivo, lo que refleja los rayos dentro de la barrera. Inflige daño igual a <b>269.8%</b> del ATQ más <b>14</b>, y el último impacto <b>suspende fuerte</b> a los objetivos. Enfriamiento: <b>45</b> seg."
     },
     {
       "name": "Dominio del Trueno",
-      "type": ["Discharge"],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> esté llena o al activar <span class=\"text-red\">Phantasia</span>, <b>remueve todas las desventajas del portador</b> y crea un Dominio del Trueno en la ubicación objetivo tras cambiar a esta arma, lo que <b>suspensión fuerte</b> a los objetivos dentro del área e inflige un <b>238.3%</b> del ATQ + <b>13</b> de daño total a lo largo de 3 ataques mientras elimina sus mejoras. El dominio dura <b>3.5</b> segundos e inflige daño equivalente al <b>42.4%</b> del ATQ + <b>2</b> a un objetivo cada <b>0.5</b> segundos."
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y crea un Dominio del Trueno en la ubicación objetivo, lo que <b>suspende fuerte</b> a los objetivos al alcance y les inflige un <b>238.3%</b> del ATQ más <b>13</b> de daño total a lo largo de 3 ataques mientras disipa sus mejoras. El dominio dura <b>3.5</b> seg e inflige daño igual a <b>42.4%</b> del ATQ más <b>2</b> a un objetivo cada <b>0.5</b> seg."
     }
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas las mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> segundos."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
   },
   "advancement": [
     "Activa una explosión eléctrica en el objetivo después de asestar un golpe crítico, lo que inflige daño adicional equivalente al <b>30%</b> del ATQ al objetivo y a los enemigos cercanos. Enfriamiento: <b>0.2</b> segundos.",

@@ -1,0 +1,34 @@
+{
+  "_id": 40028,
+  "id": "icarus",
+  "name": "イカロス",
+  "suitName": "フロスティー",
+  "hash": "SSR28",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Equipping Precious One, <b>2</b> or more weapons of different elements, or <b>2</b> or more types of weapons increases all elemental damage by <b>8%</b>/9%/10%/11%. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "When dealing frost damage, increase all elemental damage by <b>13%</b>/16%/19%/22% for <b>25</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+    }
+  ],
+  "mind": {
+    "name": "唯我",
+    "desc": "計略を巡らせ、運命を支配する"
+  },
+  "memory": {
+    "name": "展望",
+    "desc": "振り返らず、最後まで見届けよ"
+  },
+  "belief": {
+    "name": "履氷",
+    "desc": "薄氷を履むが如し、それでもまっすぐ前へ"
+  },
+  "emotion": {
+    "name": "旅人",
+    "desc": "運命という道のり、急ぎ足で去来する旅人"
+  }
+}
