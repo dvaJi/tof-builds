@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
       "name": "Zwillingsklingen",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Wenn der Anwender am Boden die Zwillingsklingen schwingt, kann er bis zu 5-mal hintereinander angreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>60.1%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>73%</b> des ANG +<b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>90.9%</b> des ANG +<b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>96.8%</b> des ANG +<b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>202.2%</b> des ANG +<b>11</b> und stößt das Ziel eine kurze Strecke zurück."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
       "name": "Himmelssturm",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 4-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG +<b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>38.4%</b> des ANG +<b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>92%</b> des ANG +<b>5</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>138%</b> des ANG +<b>7</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
       "name": "Schneller Stoß",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Schneller Stoß“ auszulösen.\nDies lässt das Ziel beim Treffer <b>länger schweben</b> und verursacht einen Gesamtschaden in Höhe von <b>116.8%</b> des ANG +<b>6</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
       "name": "Wirbelangriff",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Wirbelangriff“ auszulösen.\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von <b>42%</b> des ANG +<b>2</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Schleichattacke",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG +<b>30</b> verursacht."
     },
     {
+      "id": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
       "name": "Messerwurf",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Messerwurf“ auszulösen.\nSchlitze ein Ziel <b>5</b>-mal, wobei du jeweils Schaden in Höhe von <b>26.4%</b> des ANG +<b>1</b> verursachst. Gewährt Immunität gegen Kontrolleffekte während des Phasenwechsels."
     },
     {
+      "id": "GA_FPlayerDSSkillThu_SSR_name",
       "name": "Bumerang-Klingen",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Feuert <b>6</b> „Bumerang-Klingen“ ab, die jeweils Schaden in Höhe von <b>52.8%</b> des ANG +<b>3</b> verursachen. Gewährt für bis zu <b>8</b> Sek. <b>Hyperkörper</b>. Der Effekt wird entfernt, wenn die Klingen zurückkommen. Abklingzeit: <b>45</b> Sek."
     },
     {
+      "id": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
       "name": "Tornadoklingen",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und der Anwender sprintet zum Zielort. Dies verursacht Schaden in Höhe von <b>86.9%</b> des ANG +<b>5</b> und versetzt dem Ziel einen Stromschlag (nach <b>5</b> Sek. erleidet das Ziel Voltschaden in Höhe von <b>15%</b> des verursachten Schadens; bis zu <b>350%</b> des ANG des Wanderers. Dabei handelt es sich um einen abnormalen Zustand, der behoben werden kann). Erzeugt außerdem 3 Klingen, die um den Wanderer kreisen und bei Berührung Schaden in Höhe von <b>65.2%</b> des ANG +<b>3</b> verursachen."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b> und der Anwender sprintet zum Zielort. Dies verursacht Schaden in Höhe von <b>86.9%</b> des ANG +<b>5</b> und versetzt dem Ziel einen Stromschlag (nach <b>5</b> Sek. erleidet das Ziel Voltschaden in Höhe von <b>15%</b> des verursachten Schadens; bis zu <b>350%</b> des ANG des Wanderers. Dabei handelt es sich um einen abnormalen Zustand, der behoben werden kann). Erzeugt außerdem 3 Klingen, die um den Wanderer kreisen und bei Berührung Schaden in Höhe von <b>65.2%</b> des ANG +<b>3</b> verursachen."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Elektrisiere Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
   },
   "advancement": [
     "Der Angriff auf Ziele von hinten erhöht die kritische Trefferrate aller Zwillingsklingen um <b>40%</b>. Verrat auf elektrisierte Ziele erhöht die kritische Trefferrate um <b>100%</b> und den kritischen Schaden um <b>30%</b>.",

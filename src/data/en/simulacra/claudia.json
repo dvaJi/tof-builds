@@ -19,6 +19,7 @@
   "charge": 12,
   "skills": [
     {
+      "id": "GA_FPlayerSwordMelee_SSR_Melee_name",
       "name": "Quick Slash",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, swing the blade to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.8%</b> of ATK plus <b>2</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>65.6%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>59.3%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>104.1%</b> of ATK plus <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>177.8%</b> of ATK plus <b>9</b> and <b>launch</b> the target."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Jumping Strike",
       "type": [
         "Jump",
@@ -34,14 +36,16 @@
       "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.9%</b> of ATK plus <b>1</b>.\nSecond Attack: Deal damage equal to <b>48.4%</b> of ATK plus <b>3</b>.\nThird Attack: Deal damage equal to <b>114.6%</b> of ATK plus <b>6</b>.\nFourth Attack: Deal damage equal to <b>139%</b> of ATK plus <b>7</b>."
     },
     {
+      "id": "GA_FPlayerSwordMeleeThu_R_Branch_name",
       "name": "Cyclone",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target and deal <b>47.8%</b> of ATK plus <b>3</b> to a single target."
+      "description": "Tap and hold the normal attack button after normal attacks to trigger Cyclone.\nUpon hit, suspend the target and deal <b>47.8%</b> of ATK plus <b>3</b> to a single target."
     },
     {
+      "id": "GA_FPlayerSwordMeleeThu_R_JumpAttack_name",
       "name": "Diving Edge",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\nWhile falling, deal damage equal to <b>10%</b> of ATK plus <b>1</b> each hit. Upon landing, deal damage equal to <b>76.4%</b> of ATK plus <b>4</b> to surrounding targets and knock them back.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSwordEvadeThu_R_BackAttack_name",
       "name": "Leap Attack",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Use normal attack during the short period after dodging to trigger Leap Attack.\nThe Wanderer swings their blade forward and deals damage equal to <b>37.9%</b> of ATK plus <b>2</b> to the target, <b>strongly suspending</b> them while going airborne. Then, deal additional damage equal to <b>56.8%</b> of ATK plus <b>3</b> to the target."
     },
     {
+      "id": "GA_FPlayerSwordSkillNew_SSR_name",
       "name": "Roam",
       "type": [
         "Skill"
@@ -73,6 +80,7 @@
       "description": "Roam through targets while swinging the blade, dealing total damage equal to <b>418%</b> of ATK plus <b>22</b> to up to <b>5</b> targets (damage dealt by each consecutive hit on the same target will be reduced by <b>20%</b> from the previous hit). After Roam has concluded, slash the space in front, dealing area damage equal to <b>264%</b> of ATK plus <b>14</b> to surrounding targets and suspending them. Become immune to control effects while skill is in use, and all damage taken is reduced by <b>50%</b>. Cooldown: <b>15</b> seconds."
     },
     {
+      "id": "GA_FPlayerSwordChangeSkill_SSR_Sucess_name",
       "name": "Unbridled Flurry",
       "type": [
         "Discharge"
@@ -82,7 +90,7 @@
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "When the weapon is fully charged, the next attack will cause enemies to become grievous for <b>7</b> seconds, increasing their damage received by <b>20%</b> and dealing damage equal to <b>137%</b> of ATK. When in <yellow_lbl_14_1>team play</>, grievous targets receive an additional <b>20%</b> physical damage."
+    "description": "When the weapon is fully charged, the next attack will cause enemies to become grievous for <b>7</b> seconds, increasing their damage received by <b>20%</b> and dealing damage equal to <b>137%</b> of ATK. When in <yellow_lbl_14_1>team play</>, physical damage dealt to grievous targets is increased by an additional <b>20%</b>."
   },
   "weapon_resonance": {
     "name": "Physical Resonance",

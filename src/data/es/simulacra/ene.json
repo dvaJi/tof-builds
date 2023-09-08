@@ -19,6 +19,7 @@
   "charge": 6,
   "skills": [
     {
+      "id": "GA_FPlayerHammerMelee_Melee_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, blande el mazo para atacar 4 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>76.3%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>62.1%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>157.4%</b> del ATQ más <b>8</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige un daño igual a <b>263.8%</b> del ATQ más <b>14</b> y lanza al objetivo.\nMientras Arrebato está activo, usa el mazo para atacar 4 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>{8}%</b> del ATQ más <b>{9}</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>{10}%</b> del ATQ más <b>{11}</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>{12}%</b> del ATQ más <b>{13}</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>{14}%</b> del ATQ más <b>{15}</b> y <b>suspende fuerte al objetivo</b>."
     },
     {
+      "id": "GA_FPlayerHammerMelee_AirAttack_name",
       "name": "Vapuleador",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire o después de saltar una vez, usa el ataque normal para activar Ráfaga de Salto. Inflige daño igual a <b>121.7%</b> del ATQ más <b>6</b> y suspende al objetivo.\nMientras Arrebato esté activo, inflige daño igual a <b>133.9%</b> del ATQ más <b>7</b> y <b>suspende fuerte</b> al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
+      "id": "GA_FPlayerHammerMelee_JumpAttack_name",
       "name": "Onda de Choque",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Pulsa y mantén pulsado mientras estás en el aire, salta dos veces, pulsa brevemente en el aire cuando haya objetivos cerca, escala, salta hacia atrás o ataca mientras usas el propulsor y desencadenará una Onda de Choque. <b>Suspende fuerte</b> al objetivo <b>4</b> veces, lo que inflige daño igual a <b>34.8%</b> del ATQ más <b>2</b> cada vez. Cuesta <b>250</b> de resistencia.\nMientras Arrebato está activo, Onda de Choque <b>suspende fuerte</b> al objetivo <b>5</b> veces, lo que inflige daño igual a <b>38.3%</b> del ATQ más <b>2</b> cada vez.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
+      "id": "GA_FPlayerHammerSneak_name",
       "name": "Ataque Sorpresa",
       "type": [
         "Croch",
@@ -50,6 +54,7 @@
       "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño igual al <b>427.5%</b> del ATQ más <b>23</b>."
     },
     {
+      "id": "GA_FPlayerHammerPower_name",
       "name": "Embestida de Concentración",
       "type": [
         "Hold: Attack"
@@ -57,6 +62,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal para activar la Embestida de Concentración (se puede cargar hasta 3 acumulaciones). Otorga inmunidad a todos los efectos de control y al hipercuerpo mientras cargas.\nPrimera acumulación: Inflige daño igual a <b>110%</b> del ATQ más <b>6</b> y suspende al objetivo.\nSegunda acumulación: Inflige daño igual a <b>276%</b> del ATQ más <b>15</b> y <b>suspende fuerte al objetivo</b>.\nTercera acumulación: Inflige daño igual a <b>518%</b> del ATQ más <b>27</b> y <b>suspende fuerte</b> al objetivo.\nMientras Arrebato está activo, pulsa y mantén pulsado el ataque normal para activar Golpes Furiosos, lo que inflige daño igual a <b>501.6%</b> del ATQ más <b>26</b> y <b>suspende fuerte</b> al objetivo."
     },
     {
+      "id": "GA_FPlayerHammerEvade_FrontAttack_name",
       "name": "Embestida de Salto",
       "type": [
         "Dodge"
@@ -64,6 +70,7 @@
       "description": "Usa los botones de flecha y el botón de evadir para activar Embestida de Salto y desatar una Onda de Choque que suspende al enemigo <b>4</b> veces e inflige daño igual al <b>161.6%</b> del ATQ más <b>9</b>."
     },
     {
+      "id": "GA_FPlayerHammerEvade_BackAttack_name",
       "name": "Rompemundos",
       "type": [
         "Dodge",
@@ -72,6 +79,7 @@
       "description": "Pulsa el ataque normal durante el corto periodo luego de evadir para activar Rompemundos, que lanza <b>3</b> ondas de choque hacia adelante, cada una de las cuales inflige daño igual al <b>52.4%</b> del ATQ más <b>3</b> y suspende a los objetivos.\nEn modo Arrebato, dispara <b>5</b> ondas de choque hacia adelante, cada una de las cuales inflige daño igual al <b>52.4%</b> del ATQ más <b>3</b> y suspende al objetivo."
     },
     {
+      "id": "GA_FPlayerHammerSkill_name",
       "name": "Arrebato",
       "type": [
         "Skill"
@@ -79,11 +87,12 @@
       "description": "Enciende para activar Arrebato, lo que aumenta el daño infligido por <b>25</b> seg.\nMientras que Arrebato está activo, las habilidades activan Furia del Viento, lo que inflige daño igual a <b>219%</b> del ATQ más <b>12</b>; <b>suspende fuerte</b> al objetivo y crea una corriente de aire en el suelo. Al estar en la corriente, evadir no tiene costo. Enfriamiento: <b>45</b> seg (enfriamiento de Furia del Viento: <b>10</b> seg)."
     },
     {
+      "id": "GA_FPlayerHammerIceChangeSkill_Sucess_name",
       "name": "Embate Arrollador",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y <b>suspende fuerte</b> a los objetivos cercanos, lo que inflige daño igual a <b>153.3%</b> del ATQ más <b>8</b>. También invoca una maza que cae sobre los objetivos cercanos, lo que inflige daño igual a <b>153.3%</b> del ATQ más <b>8</b>."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y <b>suspende fuerte</b> a los objetivos cercanos, lo que inflige daño igual a <b>153.3%</b> del ATQ más <b>8</b>. También invoca una maza que cae sobre los objetivos cercanos, lo que inflige daño igual a <b>153.3%</b> del ATQ más <b>8</b>."
     }
   ],
   "weapon_type": {

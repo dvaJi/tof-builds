@@ -1,0 +1,378 @@
+{
+  "_id": 1038,
+  "id": "yu_lan",
+  "name": "Yu Lan",
+  "weapon": "Unity",
+  "weapon_id": "unity",
+  "birthday": "February 9",
+  "birthplace": "Sundial Guard",
+  "gender": "Female",
+  "info": "",
+  "description": "The martial arts star of Domain 9. All opponents who have fought her admired her, and she was consequently appointed by Master Yu as a Sundial Guard at Ignisville Sundial Square. Her dedication to martial arts far exceeds that of ordinary people, and she can be relied on for a sure victory on the battlefield. She believes that within seven paces, the fist is the fastest.\n\nAlthough she looks gentle, she is actually rather serious. Her opponents in the Martial Arts Tournament understand this deeply from experience. At the beginning of the Martial Arts Tournament, she did not even understand the etiquette and rules of the competition. Her moves were extremely fierce and powerful, defeating everyone quickly and efficiently. It was not until later that Yu Lan realized how rude her previous behavior was, and she specifically went to find her opponents to apologize. All those opponents who claimed to be from a \"certain clan\" just wanted to put on a show before the competition and say a few words to increase their popularity, hoping that their opponents will give some face and show mercy. Unfortunately, Yu Lan did not recognize their true intentions. Instead, she took each of them seriously, beating all of them to the ground, each one faster than the other. This kind of practice is naturally detested by those in the circle. However, due to Yu Lan's mistake, the Martial Arts Tournament, which rarely drew anyone in, ended up attracting more people's attention. Everyone benefited, and it can be regarded as a blessing in disguise.\n\nShe is honest and enthusiastic, and is even willing to impart everything she knows to opponents who come asking for advice. However, in reality, her understanding of martial arts is not very good. To be precise, she is not good at teaching others about the essence of martial arts. People are often curious about Yu Lan's martial arts lineage. She herself does not shy away from it, because the martial arts style she practices is the common fitness boxing in Domain 9 that many people practice to keep fit. But people don't truly believe her, because everyone practices it as a kind of \"radio calisthenics,\" but she performs the same moves with such amazing power, so it is generally believed that Yu Lan has acquired some secret talent to become so powerful. This often leads people to ask her about martial arts, but since she is not good at explaining the essentials of those martial arts techniques, it usually makes her feel very anxious.\n\nYu Lan will quickly enter a state of selflessness when practicing martial arts and fighting, allowing her to focus on her practice without distraction. The effect is outstanding. Regarding this, Master Yu believes that Yu Lan has what the philosophers of ancient times called the \"pure heart of a child,\" and can thus obtain twice the results with half the effort. Practicing martial arts is the most suitable path for her. On the contrary, in daily life, because she is too sincere, she sometimes doesn't take other people's thoughts into consideration, so she comes off as rather reckless. However, all this is being gradually corrected under the guidance of Master Yu. As every suggestion made by Master Yu has an immediate effect on Yu Lan, she is also willing to listen to Master Yu's guidance.",
+  "like": "Practicing martial arts, eating, and competing in tournaments",
+  "dislike": "Thoughtful planning, explaining the theory of martial arts.",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 13,
+  "charge": 11,
+  "skills": [
+    {
+      "id": "GA_FPlayerYulanMelee_Melee_name",
+      "name": "Battering Fist",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, use normal attack to launch 6 consecutive attacks.\nFirst Attack: Deal damage equal to <b>64.8%</b> of ATK plus <b>3</b> and knock the target back.\nSecond Attack: Deal damage equal to <b>50.4%</b> of ATK plus <b>3</b> and knock the target back.\nThird Attack: Deal damage equal to <b>52.8%</b> of ATK plus <b>3</b> and knock the target back.\nFourth Attack: Deal damage equal to <b>143.9%</b> of ATK plus <b>8</b> and knock the target back.\nFifth Attack: Deal damage equal to <b>279.2%</b> of ATK plus <b>15</b> and continuously knock the target back.\nSixth Attack: Deal damage equal to <b>227.4%</b> of ATK plus <b>12</b> and launch the target.\n\nBattering Fist can be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form.\nAfter using any dodge attack while in the <b>Martial Artist</b> form, use normal attack to quickly trigger the Fourth Attack.\nAfter the Fifth Attack lands a hit while in the <b>Martial Artist</b> form, <b>strongly freeze</b> the target for <b>2</b> seconds (unavailable in Apex League and against bosses) and additionally inflict <b>Chilblain</b>, dealing damage equal to <b>280%</b> of ATK plus <b>15</b> every second for <b>8</b> seconds. This effect can only be triggered on the same target 1 time every <b>8</b> seconds."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_AirAttack_name",
+      "name": "Floating Fist",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, use normal attack to launch 6 consecutive attacks in mid-air, consuming endurance.\nFirst Attack: Deal damage equal to <b>68.4%</b> of ATK plus <b>4</b>.\nSecond Attack: Deal damage equal to <b>59.9%</b> of ATK plus <b>3</b>.\nThird Attack: Deal damage equal to <b>62.7%</b> of ATK plus <b>3</b>.\nFourth Attack: Deal damage equal to <b>136.4%</b> of ATK plus <b>7</b>.\nFifth Attack: Deal damage equal to <b>249%</b> of ATK plus <b>13</b>.\nSixth Attack: Deal damage equal to <b>222.3%</b> of ATK plus <b>12</b>.\n\nFloating Fist can be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch1_name",
+      "name": "Forest-Piercing Swallow",
+      "type": [
+        "Attack"
+      ],
+      "description": "Forest-Piercing Swallow can only be used while in the <b>Martial Artist</b> form.\nWhile on the ground, tap and hold normal attack when using the first to third normal attacks to trigger Forest-Piercing Swallow.\nDeal damage equal to <b>62.8%</b> of ATK plus <b>3</b> and draw in nearby targets. Then, deal damage equal to <b>146.8%</b> of ATK plus <b>{3}</b> and knock the targets back.\n\nAfter using <b>Cloud-Soaring Kite</b>, using normal attack can also trigger Forest-Piercing Swallow."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch2_name",
+      "name": "Sky-Dancing Snake",
+      "type": [
+        "Attack"
+      ],
+      "description": "Sky-Dancing Snake can only be used while in the <b>Martial Artist</b> form.\nWhile on the ground, tap and hold normal attack when using the fourth to fifth normal attacks to trigger Sky-Dancing Snake.\nDeal damage equal to <b>153.9%</b> of ATK plus <b>8</b> to nearby targets and suspend them.\n\nAfter using <b>Forest-Piercing Swallow</b>, tapping and holding normal attack can also trigger Sky-Dancing Snake."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_ArAttackBranch_name",
+      "name": "Frost High & Low",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, tap and hold normal attack when using the first to sixth normal attacks to trigger Frost High & Low.\nToss your weapon in the air, dealing damage equal to <b>329%</b> of ATK plus <b>17</b> to nearby targets.\n\nFrost High & Low can be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_JumpAttack_name",
+      "name": "Cloud-Soaring Kite",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Cloud-Soaring Kite.\nFall from above, dealing damage equal to <b>148.6%</b> of ATK plus <b>8</b> to nearby targets upon reaching the ground and knock them down.\n\nCloud-Soaring Kite can be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch3_name",
+      "name": "Total Rewind",
+      "type": [
+        "Attack"
+      ],
+      "description": "When on the ground, tap and hold normal attack to trigger Total Rewind.\nContinuously draw in nearby targets while consuming endurance, during which the Wanderer gains hyperbody.\n\nTotal Rewind can be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_Evade_name",
+      "name": "Dodge",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.\n\nCan be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form.\nAfter dodging while in the <b>Martial Artist</b> form, gain hyperbody for <b>5</b> seconds."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackBack_name",
+      "name": "Impossible Feat",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack during the short period after dodging to trigger Impossible Feat, dealing damage equal to <b>177.6%</b> of ATK plus <b>9</b> to nearby targets.\n\nImpossible Feat can be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackFront_name",
+      "name": "Sweeping Clouds",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Sweeping Clouds, dealing damage equal to <b>167.6%</b> of ATK plus <b>9</b> to nearby targets.\n\nSweeping Clouds can be used in either the <b>Martial Artist</b> or <b>Sweeping Force</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_PassiveSkill_name",
+      "name": "Offense & Defense",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Unity</b> has 2 forms: <b>Martial Artist</b> and <b>Sweeping Force</b>. Activate up to <b>1</b> of them via the Skills - Settings page. They cannot be switched while in the combat state.\n\n<b>Martial Artist</b> form: While in the combat state, <b>Unity's</b> dodge attack/normal attack multiplier is additionally increased by <b>40%</b>. After using any weapon's dodge attack or normal attack <b>3</b> times, receive <b>1</b> <b>Internal Strength</b> (up to <b>10</b>). Only <b>1</b> <b>Internal Strength</b> can be obtained every <b>2</b> seconds. While not in the combat state, all <b>Internal Strength</b> will be cleared.\n<b>Sweeping Force</b> form: After <b>Observe & React</b> lands a hit, enter the <b>Anticipate</b> state and receive <b>1</b> <b>Fighting Spirit</b> every <b>0.8</b> seconds (up to <b>15</b>) for <b>60</b> seconds. While not in the combat state, all <b>Fighting Spirit</b> will be cleared.\n<b>Passive</b>: Chill</>\nWhen <b>Unity</b> is equipped, ignore <b>30%</b> of targets' Frost Resistance. This effect also works in the off-hand slot."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_name",
+      "name": "Fire in the Hole",
+      "type": [
+        "Skill"
+      ],
+      "description": "Deal damage equal to <b>982.8%</b> of ATK plus <b>52</b> to the target. Cooldown: <b>15</b> seconds. When using Fire in the Hole, <b>Unity</b> will consume up to <b>5</b> <b>Internal Strength</b>. When it consumes <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> <b>Internal Strength</b>, Fire in the Hole will deal <b>1.2</b>/<b>1.5</b>/<b>2.1</b>/<b>2.8</b>/<b>3.7</b> times of its original damage respectively.\nAfter using Fire in the Hole, increase frost damage by <b>20%</b> for <b>30</b> seconds.\nAfter using Fire in the Hole, restore <b>2</b> dodge attempts.\n\nFire in the Hole can only be used while in the <b>Martial Artist</b> form.\nWhen <b>Internal Strength</b> reaches <b>5</b>, reset Fire in the Hole's cooldown."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_Skill2_name",
+      "name": "Clashing of Arms",
+      "type": [
+        "Skill"
+      ],
+      "description": "Deal damage equal to <b>982.8%</b> of ATK plus <b>52</b> to the target. Cooldown: <b>15</b> seconds. While in the <b>Anticipate</b> state, when using any weapon skill, <b>Unity</b> will consume up to <b>5</b> <b>Fighting Spirit</b>. When it consumes <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> <b>Fighting Spirit</b>, deal additional area damage equal to <b>242%</b>/<b>503%</b>/<b>1,049%</b>/<b>2,351%</b>/<b>3,930%</b> of ATK, and deal damage equal to <b>260%</b> of ATK plus <b>14</b> every second for <b>5</b> seconds.\nAfter using any frost weapon skill, gain <b>2</b> seconds of hyperbody.\n\nClashing of Arms can only be used while in the <b>Sweeping Force</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_name",
+      "name": "Snow-Treading Tiger",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b>, dealing damage up to <b>1173.1%</b> of ATK plus <b>62</b> to nearby targets and <b>strongly launching</b> them. During this period, gain damage immunity for <b>2.6</b> seconds (unavailable in Apex League).\n\nSnow-Treading Tiger can only be used while in the <b>Martial Artist</b> form."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_ChangeSkill1_name",
+      "name": "Observe & React",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b>, dealing damage equal to <b>1173.1%</b> of ATK plus <b>62</b> to nearby targets and <b>strongly launching</b> them. During this period, gain damage immunity for <b>2.6</b> seconds (unavailable in Apex League).\nAfter Observe & React lands a hit, increase frost damage by <b>20%</b> for <b>30</b> seconds.\nAfter Observe & React lands a hit, enter the <b>Anticipate</b> state for <b>60</b> seconds.\nAfter using <b>Unity</b> to use a discharge skill, receive <b>1,000</b> weapon charge. This effect can only be triggered 1 time every <b>10</b> seconds.\n\nObserve & React can only be used while in the <b>Sweeping Force</b> form."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "When the weapon is fully charged, the next attack will <b>strongly freeze</b> targets for <b>2</b> seconds and leave them frostbitten for <b>6</b> seconds. Breaking the ice shell deals damage equal to <b>144%</b> of ATK. While frostbitten, the target's weapon charge rate is reduced by <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Frost Resonance",
+    "description": "<b>Frost Resonance</b>: Increase frost ATK by <b>20%</b> and frost resistance by <b>40%</b>. Activate by equipping <b>2</b> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with other Frost Resonance or Frost Reaction effects, with Frost Resonance taking precedence."
+  },
+  "advancement": [
+    "While in the <b>Martial Artist</b> form, after consuming <b>3</b> or more <b>Internal Strength</b>, <b>Unity</b> restores <b>3</b> <b>Internal Strength</b>. Subsequently, the Wanderer's final damage is increased by <b>5%</b>, and <b>Unity's</b> dodge attack/normal attack damage is increased by <b>50%</b> for <b>30</b> seconds.\nWhile in the <b>Sweeping Force</b> form, after consuming <b>3</b> or more <b>Fighting Spirit</b>, <b>Unity</b> restores <b>3</b> <b>Fighting Spirit</b>. Subsequently, the Wanderer's final damage is increased by <b>5%</b> for <b>15</b> seconds.",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "In the <b>Martial Artist</b> form, if <b>Internal Strength</b> is not obtained within <b>4</b> seconds, the next acquisition of <b>Internal Strength</b> will grant <b>2</b> counts.\nIn any form, when <b>Unity</b> consumes <b>3</b> or more <b>Internal Strength</b> or <b>Fighting Spirit</b>, restores <b>10%</b> of the Wanderer's Max HP. In solo play, the HP recovery is increased to <b>20%</b>. This effect can only trigger 1 time every <b>8</b> seconds in <b>Sweeping Force</b> form. In <b>Martial Artist</b> form, there are no limitations.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "After <b>Unity</b> consumes <b>Internal Strength</b> or <b>Fighting Spirit</b>, when receiving lethal damage, prevent lethal damage 1 time and recover <b>10%</b> of the Wanderer's Max HP (Unavailable in Apex League). In solo play, the HP recovery is increased to <b>20%</b>. Both effects can only trigger 1 time every <b>8</b> seconds.",
+    "While in the <b>Martial Artist</b> form, <b>Unity's</b> dodge attack / normal attack damage is further increased by <b>70%</b>. After consuming <b>Internal Strength</b>, the Wanderer's final damage is increased by <b>10%</b> for <b>30</b> seconds.\nWhile in the <b>Sweeping Force</b> form, after <b>Unity</b> consumes <b>Fighting Spirit</b>, the Wanderer's final damage is increased by <b>15%</b> for <b>30</b> seconds."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Increase final damage by <b>{0}%</b>.\nWhile in the <b>Martial Artist</b> form, additionally increase final damage by <b>{1}%</b>. After <b>Fire in the Hole</b> lands a hit, increase frost damage taken by hit targets by <b>{2}%</b> for <b>20</b> seconds.\nWhile in the <b>Sweeping Force</b> form, for every <b>1</b> frost weapon equipped, increase damage dealt via consuming <b>Fighting Spirit</b> by <b>{3}%</b>. When <b>3</b> frost weapons are equipped, increase frost damage by <b>{4}%</b>.",
+      "values": [
+        13,
+        7,
+        1,
+        9,
+        8
+      ]
+    },
+    {
+      "name": "",
+      "description": "Increase final damage by <b>{0}%</b>.\nWhile in the <b>Martial Artist</b> form, additionally increase final damage by <b>{1}%</b>. After <b>Fire in the Hole</b> lands a hit, increase frost damage taken by hit targets by <b>{2}%</b> for <b>20</b> seconds.\nWhile in the <b>Sweeping Force</b> form, for every <b>1</b> frost weapon equipped, increase damage dealt via consuming <b>Fighting Spirit</b> by <b>{3}%</b>. When <b>3</b> frost weapons are equipped, increase frost damage by <b>{4}%</b>.",
+      "values": [
+        18,
+        7,
+        1,
+        9,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

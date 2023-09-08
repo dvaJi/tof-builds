@@ -7,7 +7,7 @@
   "birthday": "17 Agustus",
   "birthplace": "Keamanan Victoria",
   "gender": "Perempuan",
-  "info": "Dia terlihat malas dan lesu saat tidak ada pekerjaan, tetapi sangat bersemangat dan kompetitif kalau bertempur.\nDia sangat bangga dengan badan robotnya, yang tangkas, kuat, dan tidak dimakan usia. Dia juga keras kepala dan suka menantang dirinya semaksimal mungkin, tidak mau menyerah kepada manusia biasa.\nSecara mental, dia masih anak kecil dan menunjukkan sisinya yang rapuh saat bersama ayahnya.",
+  "info": "Dia terlihat malas dan lesu saat tidak ada pekerjaan, tapi sangat bersemangat dan kompetitif kalau bertempur.\nDia sangat bangga dengan badan robotnya, yang tangkas, kuat, dan tidak dimakan usia. Dia juga keras kepala dan suka menantang dirinya semaksimal mungkin, tidak mau menyerah kepada manusia biasa.\nSecara mental, dia masih anak kecil dan menunjukkan sisinya yang rapuh saat bersama ayahnya.",
   "description": "Di era Federasi Lama, kontraktor militer privat, Victoria, berencana mengembangkan serangkaian Droid tempur elite, dan Ene adalah prototipe pertama yang dihasilkan oleh program itu.\n\nTujuan desain awalnya adalah membuat droid yang sempurna: mampu mengenali dirinya sendiri, mandiri, dan mampu berpikir, merasakan, dan bertindak layaknya manusia. Eksekutif yang menyetujui program ini mengunggah kesadaran almarhum putrinya yang telah dia simpan ke dalam Ene sebagai \"jiwanya\".\n\nEne kemudian menerima haknya sebagai manusia, sebagai putri eksekutif Victoria.",
   "like": "Bersama ayahnya, manusia yang lebih kuat darinya",
   "dislike": "Sangat memahami kerapuhan hidup",
@@ -19,6 +19,7 @@
   "charge": 6,
   "skills": [
     {
+      "id": "GA_FPlayerHammerMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, ayunkan palu untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>76.3%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>62.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>157.4%</b> ATK plus <b>8</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>263.8%</b> ATK plus <b>14</b> dan membuat target terpental ke atas.\nSaat Outburst aktif, ayunkan palu untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>{8}%</b> ATK plus <b>{9}</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>{10}%</b> ATK plus <b>{11}</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>{12}%</b> ATK plus <b>{13}</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>{14}%</b> ATK plus <b>{15}</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
+      "id": "GA_FPlayerHammerMelee_AirAttack_name",
       "name": "Pummel",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Jumping Blast. Menimpakan DMG sebesar <b>121.7%</b> ATK plus <b>6</b> dan membuat target terpental ke atas.\nSaat Outburst aktif, menimpakan DMG sebesar <b>133.9%</b> ATK plus <b>7</b> dan membuat target <b>Terpental Ke Atas</b>.\nMakin tinggi posisimu saat melancarkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
+      "id": "GA_FPlayerHammerMelee_JumpAttack_name",
       "name": "Shockwave",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Mengetuk dan menahan tombol saat di udara, melompat dua kali, mengetuk sebentar di udara saat ada target di sekitar, memanjat, melompat ke belakang, atau menyerang sambil menggunakan Jetpack akan melancarkan sebuah Shockwave, membuat target <b>Terpental Ke Atas</b> <b>4</b> kali, masing-masing menimpakan DMG sebesar <b>34.8%</b> ATK plus <b>2</b>. Mengonsumsi <b>250</b> Stamina.\nSaat Outburst aktif, Shockwave ini akan membuat target <b>Terpental Ke Atas</b> <b>5</b> kali, masing-masing menimpakan DMG sebesar <b>38.3%</b> ATK plus <b>2</b>.\nMakin tinggi posisi pemain saat melancarkan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
+      "id": "GA_FPlayerHammerSneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -50,6 +54,7 @@
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>427.5%</b> ATK plus <b>23</b>."
     },
     {
+      "id": "GA_FPlayerHammerPower_name",
       "name": "Focus Smash",
       "type": [
         "Hold: Attack"
@@ -57,6 +62,7 @@
       "description": "Tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Focus Smash (bisa mengumpulkan tenaga sampai 3 tahap). Saat mengumpulkan tenaga, kamu kebal terhadap efek kontrol dan mendapatkan Hyperbody.\nTahap Pertama: Menimpakan DMG sebesar <b>110%</b> ATK plus <b>6</b> dan membuat target terpental ke atas.\nTahap Kedua: Menimpakan DMG sebesar <b>276%</b> ATK plus <b>15</b> dan membuat target <b>Terpental Ke Atas</b>.\nTahap Ketiga: Menimpakan DMG sebesar <b>518%</b> ATK plus <b>27</b> dan membuat target <b>Terpental Ke Atas</b>.\nSaat Outburst aktif, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Furious Strike, menimpakan DMG sebesar <b>501.6%</b> ATK plus <b>26</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
+      "id": "GA_FPlayerHammerEvade_FrontAttack_name",
       "name": "Jumping Smash",
       "type": [
         "Dodge"
@@ -64,6 +70,7 @@
       "description": "Gunakan tombol panah dan tombol menghindar untuk mengaktifkan Jumping Smash, melancarkan gelombang kejut yang membuat target terpental ke atas <b>4</b> kali, menimpakan DMG sebesar <b>161.6%</b> ATK plus <b>9</b>."
     },
     {
+      "id": "GA_FPlayerHammerEvade_BackAttack_name",
       "name": "Worldsplitter",
       "type": [
         "Dodge",
@@ -72,6 +79,7 @@
       "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah menghindar untuk mengaktifkan Worldsplitter, melancarkan <b>3</b> gelombang kejut ke depan, masing-masing menimpakan DMG sebesar <b>52.4%</b> ATK plus <b>3</b> membuat target terpental ke atas.\nSaat di mode Outburst, menembakkan <b>5</b> gelombang kejut ke depan, masing-masing menimpakan DMG sebesar <b>52.4%</b> ATK plus <b>3</b> dan membuat target terpental ke atas."
     },
     {
+      "id": "GA_FPlayerHammerSkill_name",
       "name": "Outburst",
       "type": [
         "Skill"
@@ -79,11 +87,12 @@
       "description": "Beralih ke Outburst, meningkatkan DMG yang ditimpakan selama <b>25</b> detik.\nSaat Outburst aktif, menggunakan Skill Senjata akan mengaktifkan Windfury, yang akan menimpakan DMG sebesar <b>219%</b> ATK plus <b>12</b>, membuat target <b>Terpental Ke Atas</b>, dan menciptakan arus udara di tanah. Saat berada di arus tersebut, tidak butuh biaya apa pun untuk Menghindar. CD: <b>45</b> detik (CD Windfury: <b>10</b> detik)."
     },
     {
+      "id": "GA_FPlayerHammerIceChangeSkill_Sucess_name",
       "name": "Overwhelming Maul",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan membuat target di sekitar <b>Terpental Keras</b>, menimpakan DMG sebesar <b>153.3%</b> ATK plus <b>8</b>. Selain itu, mengeluarkan palu yang akan jatuh menimpa target di sekitar, menimpakan DMG sebesar <b>153.3%</b> ATK plus <b>8</b>."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan membuat target di sekitar <b>terpental keras</b>, menimpakan DMG sebesar <b>153.3%</b> ATK plus <b>8</b>. Selain itu, mengeluarkan palu yang akan jatuh menimpa target di sekitar, menimpakan DMG sebesar <b>153.3%</b> ATK plus <b>8</b>."
     }
   ],
   "weapon_type": {

@@ -1,0 +1,339 @@
+{
+  "_id": 1050,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "weapon": "Onyx-Schildkröte",
+  "weapon_id": "onyx_tortoise",
+  "birthday": "12. November",
+  "birthplace": "Gebiet 9",
+  "gender": "Männlich",
+  "info": "",
+  "description": "Ein unbekannter Besucher aus der Außenwelt. Sein Erscheinen stellt für das abgesperrte Gebiet 9 eine unberechenbare Variable und zugleich einen Wendepunkt dar.\n\nSie nahmen diesen Mann ohne Vergangenheit bei sich auf und Meister Yue, der vorherige Lord Xuanwu, beschloss, sich Ming Jings anzunehmen und ihn auszubilden. Dieser bemühte sich nach Kräften, mit der Kultur sowie den Sehenswürdigkeiten, Schlachten und Machtkämpfen vertraut zu werden … Er stieß auf zahlreiche Hindernisse, ließ sich jedoch nie beirren und setzte alles daran, die ihm entgegengebrachte Güte mit Taten zurückzuzahlen.\n\nNach Meister Yues Tod nahm der junge Mann den Titel des Xuanwu an. Durch seine guten Ergebnisse und raschen Erfolge im Kampf gegen die Dunkelheit konnte er sich beweisen und somit zeigen, dass Meister Yues Entscheidung, Ming Jing zu seinem Nachfolger zu machen und ihm Aquastadt anzuvertrauen, die richtige war.\n\nIst er ein geborener Anführer? Gibt es womöglich eine Verbindung zwischen der Gegenwart und seiner Vergangenheit, nach der er stets auf der Suche ist?\n\nGenau das ist es, was ihn plagt. Verwirrt und unsicher sucht er nach seinen verlorenen Erinnerungen und seiner Identität.\n\nVielleicht hat er sich nie verändert und seine Vergangenheit hat ihn stets begleitet.\n\nWenn es jemanden gibt, der ans Ziel gelangen und die Antwort finden kann, dann ist das Ming Jing.",
+  "like": "Kochen, organisieren und Tee probieren",
+  "dislike": "Durchdachte Planung, Erläuterung der Theorie der Kampfkünste.",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 14,
+  "charge": 12,
+  "skills": [
+    {
+      "id": "GA_FPlayerZekeMelee_Melee_name",
+      "name": "Widerstand",
+      "type": [
+        "Attack"
+      ],
+      "description": "Verwende am Boden den normalen Angriff, um 5 Angriffe hintereinander auszuführen.\nWährend das <b>Xuanwu-Totem</b> aktiv ist, wird dem anvisierten Ziel 1 Schlangenbiss zugefügt, nachdem der fünfte Angriff von „Widerstand“ seinen letzten Treffer landet.\nErster Angriff: Verursacht Schaden in Höhe von <b>131.6%</b> des ANG + <b>7</b> und stößt das Ziel zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>186.8%</b> des ANG + <b>10</b> und stößt das Ziel zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>201.6%</b> des ANG + <b>11</b> und stößt das Ziel zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>238%</b> des ANG + <b>13</b> und lässt das Ziel schweben.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>378%</b> des ANG + <b>20</b> und schleudert das Ziel hoch."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_AirAttack_name",
+      "name": "Fliegender Stein",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Verwende in der Luft den normalen Angriff, um 5 Angriffe hintereinander in der Luft auszuführen, wobei Ausdauer verbraucht wird.\nErster Angriff: Verursacht Schaden in Höhe von <b>112.8%</b> des ANG + <b>6</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>168%</b> des ANG + <b>9</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>164.2%</b> des ANG + <b>9</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>140.2%</b> des ANG + <b>7</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>228%</b> des ANG + <b>12</b>."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch_name",
+      "name": "Finsterseele",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe und halte während normaler Angriffe auf dem Boden den normalen Angriff beim Verwenden des ersten bis vierten normalen Angriffs gedrückt, um „Finsterseele“ auszulösen.\nDeine Waffe wird nach vorne geworfen und fügt Zielen in der Nähe Schaden in Höhe von <b>212.4%</b> des ANG + <b>11</b> zu."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch1_name",
+      "name": "Einstürzender Berg",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff auf dem Boden, um „Einstürzender Berg“ auszulösen.\nBewegt sich beim Angreifen kontinuierlich vorwärts und verbraucht Ausdauer, wobei Zielen in der Nähe Schaden in Höhe von <b>240%</b> des ANG + <b>13</b> zugefügt wird."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_JumpAttack_name",
+      "name": "Ohne Unterbrechung",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder verwende den normalen Angriff, während du kletterst, zurückspringst oder das Jetpack einsetzt, um „Ohne Unterbrechung“ auszulösen.\nStürzt von oben herab und fügt beim Aufprall am Boden Zielen in der Nähe Schaden in Höhe von <b>204%</b> des ANG + <b>11</b> zu."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Evade_name",
+      "name": "Ausweichen",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_ForwardAttack_name",
+      "name": "Wolkenspaltung",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Wolkenspaltung“ auszulösen, was Zielen in der Nähe Schaden in Höhe von <b>60%</b> des ANG + <b>3</b> zufügt.\nWährend das <b>Xuanwu-Totem</b> aktiv ist, wird dem anvisierten Ziel 1 Schlangenbiss zugefügt, nachdem „Wolkenspaltung“ einen Treffer landet."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_BackAttack_name",
+      "name": "Schneidender Sand",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff, um „Schneidender Sand“ auszulösen und eine Schwert-Aura zu entfesseln, wodurch Zielen voraus Schaden in Höhe von <b>125%</b> des ANG + <b>7</b> zugefügt wird.\nWährend das <b>Xuanwu-Totem</b> aktiv ist, wird dem anvisierten Ziel 1 Schlangenbiss zugefügt, nachdem „Schneidender Sand“ einen Treffer landet."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Spec_name",
+      "name": "Ausguck",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff direkt nach dem Ausweichen, um „Ausguck“ auszulösen (nicht in der Apex-Liga verfügbar).\nVerwende, nachdem das durch <b>Bodenlose Schlucht</b> herbeigerufene <b>Xuanwu-Totem</b> abgeschlossen ist, „Ausguck“, um für <b>25</b> Sek. den <b>selbstlosen Raum</b> zu betreten und <b>3</b> <b>dunkle Hiebe</b> zu erhalten.\nNach dem ersten erfolgreichen normalen oder Ausweichangriff von <b>Onyx-Schildkröte</b> wird <b>Dunkler Hieb</b> ausgelöst. Wenn das Ziel ein gewöhnlicher oder Elitegegner ist und seine aktuellen LP den Basis-ANG des Wanderers nicht um mehr als das <b>350.000</b>-fache überschreiten, wird das Ziel sofort hingerichtet. Andernfalls wird Schaden in Höhe von <b>3000%</b> des ANG verursacht.\n<b>Selbstloser Raum</b> endet, wenn seine Dauer abgelaufen ist, alle <b>dunklen Hiebe</b> erschöpft sind oder beim Waffenwechsel. <b>Selbstloser Raum</b> kann nur 1-mal alle <b>200</b> Sek. ausgelöst werden."
+    },
+    {
+      "id": "GA_FPlayerZekeSkill_Skill_name",
+      "name": "Bodenlose Schlucht",
+      "type": [
+        "Skill"
+      ],
+      "description": "Spaltet den Boden vor dem Anwender, gewährt vorübergehend Unbesiegbarkeit (nicht in der Apex-Liga verfügbar) und zieht Ziele in der Nähe heran, wobei Schaden in Höhe von <b>806%</b> des ANG + <b>42</b> verursacht wird. Abklingzeit: <b>20</b> Sek. Erhöht den physischen Schaden des Wanderers für <b>30</b> Sek. um <b>30%</b> und ruft das Xuanwu-Totem herbei. Das Xuanwu-Totem wird außerhalb des Kampfes entfernt.\nDas Xuanwu-Totem ruft alle <b>0,6</b> Sek. dunkle Seelen aus den vier Formationskernen herbei, wobei Zielen im Weg jeweils Schaden in Höhe von <b>100%</b> des ANG zugefügt wird. Wenn „Bodenlose Schlucht“ in der Abklingzeit ist, wird die neue Fähigkeit <b>Spiegelbild</b> gewährt: Schlägt die dunklen Seelen in der Nähe zurück und aktiviert ihre jeweiligen Formationskerne. Nachdem ein Formationskern aktiviert wurde, ist das Xuanwu-Totem abgeschlossen, und der <b>Selbstlose Raum</b> kann betreten werden.\n\nVerwende, während das Xuanwu-Totem aktiv ist, <b>Onyx-Schildkröte</b>, um „Hyperkörper“ zu erhalten, und füge folgendermaßen Schlangenbisse zu:\nNachdem <b>Bodenlose Schlucht</b> einen Treffer landet, wird dem Ziel mit den höchsten LP 1 Schlangenbiss zugefügt.\nNachdem der fünfte Angriff von <b>Widerstand</b> seinen letzten Treffer landet, wird dem anvisierten Ziel 1 Schlangenbiss zugefügt.\nNachdem <b>Wolkenspaltung</b> einen Treffer landet, wird dem anvisierten Ziel 1 Schlangenbiss zugefügt.\nNachdem <b>Schneidender Sand</b> einen Treffer landet, wird dem anvisierten Ziel 1 Schlangenbiss zugefügt.\n„Schlangenbiss“ fügt dem Ziel Verschlingungsschaden in Höhe von <b>300%</b> des ANG zu, stellt <b>12%</b> der max. LP des Wanderers wieder her und verwandelt das Ziel in ein Schlangenkettenglied.\n\nSchlangenkette kann <b>30%</b> des tatsächlich von der Waffe im Haupt-Slot des Wanderers verursachten Schadens auf das anvisierte Schlangenkettenglied übertragen und <b>Verwunden</b> auf alle Schlangenkettenglieder ausüben (das Ziel eingeschlossen). Es kann maximal <b>4</b> Schlangenkettenglieder geben.\nDer Elementtyp des Übertragungsschadens entspricht dem ursprünglichen Schaden und kann nicht erneut übertragen werden. Der gesamte Übertragungsschaden kann innerhalb von <b>30</b> Sek. höchstens das <b>14.000</b>-fache des maximalen ANG des Wanderers betragen (im Teamspiel unbegrenzt). Der Schaden von <b>Dunkler Hieb</b> kann nicht übertragen werden.\nNach dem Einsatz von <b>Bodenlose Schlucht</b> kann der Wanderer auch <b>Mächtiger Wind</b> auslösen: Schlangenkettenglieder fügen Zielen in der Nähe (das Ziel eingeschlossen) Verschlingungsschaden in Höhe von <b>35%</b> des ANG zu und setzen den Verschlingungsschaden zurück."
+    },
+    {
+      "id": "GA_FPlayerZekeChangeSkill_name",
+      "name": "Heimweg",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b> und Xuanwu herbeigerufen. Dies fügt allen Zielen in der Nähe Flächenschaden in Höhe von <b>681.2%</b> des ANG + <b>36</b> zu. Währenddessen erhältst du für <b>2,6</b> Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flamme",
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde Schaden in Höhe von <b>{3}%</b> des ANG. Während Ziele entzündet sind, werden ihre Heileffekte um <b>50%</b> verringert."
+  },
+  "weapon_resonance": {
+    "name": "Schildbruch: Distanzierung",
+    "description": "<b>Physische Resonanz</b>: Erhöht den physischen ANG um <b>20%</b> und den physischen Widerstand um <b>40%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\n<b>Schildbruch: Distanzierung</b>: Nach Verwendung von <b>Bodenlose Schlucht</b> wird <b>{0}</b> Sek. lang pro Sekunde Schaden in Höhe von <b>{1}%</b> des physischen ANG +<b>{2}%</b> der max. LP des Wanderers +<b>{3}%</b> der Summe aller Widerstandsarten des Wanderers +<b>{4}%</b> des krit. Schadens verursacht. Mehrfacher Distanzierungsschaden wird nicht gestapelt und Schildbruchschaden zählt als Fähigkeitsschaden. Wenn <b>1</b> Volt-/Flammen-/Frostwaffe jeglicher Art ausgerüstet ist, wird der Schildbruchschaden um das <b>{5}</b>-fache multipliziert. Außerdem wird der Schildbruchschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus."
+  },
+  "advancement": [
+    "Immer wenn <b>Verwunden</b> verursacht wird, wird dem Ziel <b>Verschlingungs</b>schaden in Höhe von <b>100%</b> des ANG zugefügt. Dieser Effekt kann nur 1-mal alle <b>0,5</b> Sek. ausgelöst werden.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Nach dem Auslösen von <b>Mächtiger Wind</b> werden getroffene Ziele in Glieder der <b>Schlangenkette</b> verwandelt.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Nach der Verwendung von <b>Bodenlose Schlucht</b> wird der vom Wanderer erlittene Schaden für <b>30</b> Sek. um <b>10%</b> verringert (<b>20%</b> im Einzelspiel).",
+    "Wenn <b>1</b> Glied der <b>Schlangenkette</b> besteht, wird die Übertragungsrate des <b>Übertragungs</b>-Schadens um <b>80%</b> erhöht."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Erhöht den Endschaden um <b>{0}%</b>.\nDer physische Basis-ANG des Wanderers wird auf den höchsten Wert seines physischen/Flammen-/Frost-/Volt-Basis-ANG erhöht. Wenn die Waffe im Haupt-Slot <b>Onyx-Schildkröte</b> ist, wird der normale Angriffsschaden um <b>{1}%</b> erhöht.",
+      "values": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "",
+      "description": "Erhöht den Endschaden um <b>{0}%</b>.\nDer physische Basis-ANG des Wanderers wird auf den höchsten Wert seines physischen/Flammen-/Frost-/Volt-Basis-ANG erhöht. Wenn die Waffe im Haupt-Slot <b>Onyx-Schildkröte</b> ist, wird der normale Angriffsschaden um <b>{1}%</b> erhöht.",
+      "values": [
+        15,
+        50
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

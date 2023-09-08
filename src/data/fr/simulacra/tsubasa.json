@@ -19,6 +19,7 @@
   "charge": 11.5,
   "skills": [
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_name",
       "name": "Dégainement",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>48.8%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>43.7%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>78.6%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>121.2%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>112.5%</b> de l'ATQ + <b>6</b> et repousse la cible sur une courte distance."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Powner_name",
       "name": "Flèche chargée",
       "type": [
         "Hold: Attack"
@@ -33,6 +35,7 @@
       "description": "Appuyez et maintenez Attaque normale pour charger une attaque. Vous infligez des dégâts de base équivalant à <b>87.8%</b> de l'ATQ + <b>5</b>, et <b>50%</b> de plus chaque fois que vous passez <b>1</b> seconde à charger, jusqu'à <b>3</b> secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi, et vous renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs)."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Branch_name",
       "name": "Pluie de flèches",
       "type": [
         "Attack",
@@ -41,6 +44,7 @@
       "description": "Après une attaque normale, maintenez Attaque normale pour déclencher Pluie de flèches, qui inflige aux cibles jusqu'à <b>287.2%</b> de l'ATQ + <b>15</b> dégâts de zone."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_AirAttack_name",
       "name": "Salve aérienne",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>56.3%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>74%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>112.7%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>169.8%</b> de l'ATQ + <b>9</b>."
     },
     {
+      "id": "GA_FPlayerBowEvadeIce_SSR_Attack_name",
       "name": "Flèche piégée",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Appuyez sur Attaque après une esquive pour déclencher Flèche piégée, qui <b>repousse la cible</b> et lui inflige des dégâts équivalant à <b>124%</b> de l'ATQ + <b>7</b>."
     },
     {
+      "id": "GA_FPlayerBowSkillIce_SSR_name",
       "name": "Tir perçant",
       "type": [
         "Skill"
@@ -64,11 +70,12 @@
       "description": "Vous faites un salto arrière et tirez <b>3</b> tirs perçants. Le tir principal inflige des dégâts équivalant à <b>258.3%</b> de l'ATQ + <b>14</b>, les deux autres infligent 60% de dégâts. <b>Vous repoussez également les cibles</b>, et les étourdissez pendant <b>5</b> secondes si elles heurtent un obstacle. Temps de recharge : <b>12</b> secondes."
     },
     {
+      "id": "GA_FPlayerBowChangeSkillIce_SSR_name",
       "name": "Barrage explosif",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b>, et crée une tempête de grêle sur l'emplacement ciblé au moment où vous passez à cette arme, infligeant des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>. La tempête a <b>10%</b> de chances d'infliger un <b>effet de gel long</b> durant <b>2</b> secondes. Gagnez Front froid, qui augmente votre vitesse de <b>45%</b>. Cet effet dure <b>7</b> secondes."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur l'Explorateur</b>, et crée une tempête de grêle sur l'emplacement ciblé au moment où vous passez à cette arme, infligeant des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>. La tempête a <b>10%</b> de chances d'infliger un <b>effet de gel long</b> durant <b>2</b> secondes. Gagnez Front froid, qui augmente votre vitesse de <b>45%</b>. Cet effet dure <b>7</b> secondes."
     }
   ],
   "weapon_type": {

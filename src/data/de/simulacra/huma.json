@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerShieldMelee_Melee_name",
       "name": "Normaler Angriff",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Wenn der Anwender am Boden die Schildaxt schwingt, kann er 4-mal hintereinander angreifen.\nErster Angriff in Schildform: Verursacht Schaden in Höhe von <b>77.7%</b> des ANG +<b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>56.9%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>62.8%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>184%</b> des ANG +<b>10</b> und <b>schleudert das Ziel hoch</b>.\nErster Angriff in Axtform: Verursacht Schaden in Höhe von <b>135.2%</b> des ANG +<b>7</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>79.4%</b> des ANG +<b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>119.9%</b> des ANG +<b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>221.3%</b> des ANG +<b>12</b> und stößt das Ziel zurück."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Luftschlag",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 4-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>75.9%</b> des ANG +<b>4</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>80.2%</b> des ANG +<b>4</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>103%</b> des ANG +<b>5</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>118.6%</b> des ANG +<b>6</b>, verursacht einen <b>Knockdown</b> und schleudert das Ziel bei der Landung hoch."
     },
     {
+      "id": "GA_FPlayerShieldMelee_PowerAttack_name",
       "name": "Das Unerwartete",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Schildform: Tippe und halte den normalen Angriff gedrückt, während du auf dem Boden stehst, um die Schildform für <b>3</b> Sek. einzunehmen (loslassen, um sie zu verlassen). Während dieser Zeit kann sich der Wanderer nicht bewegen und der erlittene Schaden wird um <b>50%</b> verringert. Wenn du in Schildform die normale Angriffstaste loslässt, nachdem du Schaden erlitten oder die Taste <b>3</b> Sek. lang gedrückt hast, entfesselst du einen Feuersturm, der Schaden in Höhe von <b>167.3%</b> des ANG +<b>9</b> verursacht und dem Ziel eine <b>1</b> Sek. andauernden <b>Betäubung</b> zufügt.\nAxtform: Zerschmettert das Ziel, um Schaden in Höhe von <b>122.2%</b> des ANG +<b>6</b> zu verursachen und es schweben zu lassen."
     },
     {
+      "id": "GA_FPlayerShieldMelee_JumpAttack_name",
       "name": "Tapferkeit",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um Variantenangriffe in der Luft auszulösen.\nSchildform: Verursacht beim Fallen pro Treffer Schaden in Höhe von <b>12.5%</b> des ANG +<b>1</b>. Verursacht bei der Landung Schaden in Höhe von <b>89.2%</b> des ANG +<b>5</b> und schleudert das Ziel hoch.\nAxtform: Verursacht beim Fallen pro Treffer Schaden in Höhe von <b>12.5%</b> des ANG +<b>1</b>. Verursacht bei der Landung Schaden in Höhe von <b>128.3%</b> des ANG +<b>7</b> und lässt das Ziel schweben.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
     },
     {
+      "id": "GA_FPlayerShieldEvade_EvadeAttack_name",
       "name": "Ausbruch",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um Ausweichangriff auszulösen.\nSchildform: Entfesselt einen flammenden Schild, der Zielen Schaden in Höhe von <b>55.8%</b> des ANG +<b>3</b> zufügt und sie zurückstößt. Außerdem wird eine Explosion ausgelöst, die Zielen Schaden in Höhe von <b>55.8%</b> des ANG +<b>3</b> zufügt, sie für <b>0,5</b> Sek. <b>betäubt</b> und ihre erhaltene Heilung für <b>10</b> Sek. um <b>30%</b> verringert.\nAxtform: Schwingt eine Axt, um Zielen Schaden in Höhe von <b>55.8%</b> des ANG +<b>3</b> zuzufügen und ihre erhaltene Heilung für <b>10</b> Sek. um <b>30%</b> zu verringern."
     },
     {
+      "id": "GA_FPlayerShieldSkill_name",
       "name": "Spaltung",
       "type": [
         "Skill"
@@ -64,11 +70,12 @@
       "description": "Schildumwandlung: Wechselt von der Schildform zur Axtform und schmettert auf den Boden. Dies verursacht Schaden in Höhe von <b>373.8%</b> des ANG + <b>20</b> und lässt das Ziel <b>länger schweben</b>. Erzeugt außerdem für <b>5</b> Sek. eine große Flammenzone, die das Ziel verbrennt und kontinuierlich Schaden in Höhe von <b>233.6%</b> des ANG + <b>12</b> verursacht.\nAxtumwandlung: Wechselt von der Axtform in die Schildform und schlägt Gegner zu Boden. Dies verursacht Schaden in Höhe von <b>309.5%</b> des ANG + <b>16</b> am Ziel und stößt es zurück. Außerdem kann das Ziel für <b>5</b> Sek. seine Waffe nicht wechseln.\nAbklingzeit: <b>25</b> Sek. Schildumwandlung und Axtumwandlung haben die gleiche Abklingzeit."
     },
     {
+      "id": "GA_FPlayerShieldChangeSkill_Success_name",
       "name": "Brodelnder Zorn",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und eine Flammenschockwelle auf das Ziel losgelassen. Dies verursacht Schaden in Höhe von <b>352%</b> des ANG +<b>19</b>. Verspottet Gegner <b>5</b> Sek. lang und gewährt währenddessen <b>15%</b> Schadensreduktion. Verstreut schildförmige Objekte je nach Anzahl der verspotteten Ziele. Die Objekte halten <b>20</b> Sek. an, schützen <b>10</b> Sek. lang mit <b>5%</b> Schaden-Reduktion (stapelbar) und stellen 1 Ausweichen wieder her."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b> und eine Flammenschockwelle auf das Ziel losgelassen. Dies verursacht Schaden in Höhe von <b>352%</b> des ANG +<b>19</b>. Verspottet Gegner <b>5</b> Sek. lang und gewährt währenddessen <b>15%</b> Schadensreduktion. Verstreut schildförmige Objekte je nach Anzahl der verspotteten Ziele. Die Objekte halten <b>20</b> Sek. an, schützen <b>10</b> Sek. lang mit <b>5%</b> Schaden-Reduktion (stapelbar) und stellen 1 Ausweichen wieder her."
     }
   ],
   "weapon_type": {
@@ -81,7 +88,7 @@
     "In Schildform fügen Varianten-/Ausweichangriffe Zielen zusätzlichen Schaden in Höhe von <b>4%</b> der aktuellen LP des Anwenders zu.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
     "Gewährt nach dem Wechsel zur Schildaxt <b>30%</b> Schadensreduktion, die alle <b>3</b> Sek. um <b>10%</b> abnimmt (Minimum: <b>10%</b>). Beim Waffenwechsel wird der Effekt beendet. Abklingzeit: <b>30</b> Sek.",
-    "Verbessert Wechselfähigkeiten.\nSchildumwandlungsverbesserung: Erhöht den verursachten Schaden um <b>60%</b> und erweitert den Radius der Flammenzone um <b>30%</b>.\nAxtumwandlungsverbesserung: Verfügt über keine gemeinsame Abklingzeit mit Schildumwandlungsverbesserung. Wandelt nach Einsetzen dieser Fähigkeit <b>5</b> Sek. lang erlittenen Schaden in LP um und zwar bis maximal <b>15%</b> der maximalen LP des Anwenders."
+    "Verbessert Wechselfähigkeiten.\nVerbessert Schildumwandlung: Erhöht den verursachten Fähigkeitsschaden um <b>60%</b> und erweitert den Radius der Flammenzone um <b>30%</b>.\nVerbessert Axtumwandlung: Verfügt über keine gemeinsame Abklingzeit mit Schildumwandlung. Wandelt nach Einsetzen dieser Fähigkeit <b>5</b> Sek. lang erlittenen Schaden in LP um (bis maximal <b>15%</b> der max. LP des Anwenders)."
   ],
   "traits": [
     {

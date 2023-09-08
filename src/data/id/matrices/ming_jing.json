@@ -1,0 +1,34 @@
+{
+  "_id": 33,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "suitName": "Pencarian Hati",
+  "hash": "SSR34",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Meningkatkan batas anggota Serpent Chain menjadi <b>5</b>. Saat memakai setidaknya <b>1</b> Senjata Physical, Physical ATK meningkat 14%/16%/18%/20%. Efek set ini juga aktif saat senjata ada di slot sampingan, dan yang akan berlaku hanyalah set yang rating bintangnya paling tinggi."
+    },
+    {
+      "count": 4,
+      "value": "Setelah menimpakan efek Snake Bite, Physical ATK meningkat 9% selama 30 detik. Efek ini juga aktif saat senjata ada di slot sampingan. Saat dalam mode tempur, Final DMG meningkat sebesar 14%/17%/20%/23%."
+    }
+  ],
+  "mind": {
+    "name": "Di Dalam Teh",
+    "desc": "Pikiran yang terkubur di dalam aroma yang kuat."
+  },
+  "memory": {
+    "name": "Kanvas Kosong",
+    "desc": "Di tengah kabut, ada sesuatu yang harus dipegang erat-erat, jangan sampai hilang lagi."
+  },
+  "belief": {
+    "name": "Pembaharuan",
+    "desc": "Memungut potongan-potongannya adalah langkah pertama untuk menyatukannya kembali."
+  },
+  "emotion": {
+    "name": "Pijar Semangat",
+    "desc": "Hati yang membara tersembunyi di balik ekspresi kosong."
+  }
+}

@@ -19,6 +19,7 @@
   "charge": 6,
   "skills": [
     {
+      "id": "GA_FPlayerDartsMelee_name",
       "name": "Rapid Throw",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, brandish the chakram to unleash 5 spinning attacks.\nFirst Attack: Deal damage equal to <b>30.7%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal damage equal to <b>23.8%</b> of ATK plus <b>1</b>.\nThird Attack: Deal damage equal to <b>34%</b> of ATK plus <b>2</b>.\nFourth Attack: Deal damage equal to <b>30.7%</b> of ATK plus <b>2</b>.\nFifth Attack: Deal damage equal to <b>53.8%</b> of ATK plus <b>3</b> and knock the target back a short distance."
     },
     {
+      "id": "GA_FPlayerDartsMelee_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne or after jumping once, use normal attack to unleash 3 spinning attacks in a row.\nFirst Attack: Deal damage equal to <b>26.2%</b> of ATK plus <b>1</b>.\nSecond Attack: Deal damage equal to <b>29.2%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>37.2%</b> of ATK plus <b>2</b>."
     },
     {
+      "id": "GA_FPlayerDartsMelee_Branch_name",
       "name": "Scatter",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "After the second normal attack, hold attack button to activate Scatter.\nFire five penetrating chakrams forward, each hit dealing <b>43.5%</b> of ATK plus <b>2</b> damage, with minor knockback."
     },
     {
+      "id": "GA_FPlayerDartsMelee_JumpAttack_name",
       "name": "Air Spin",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tap and hold normal attack while airborne to trigger Air Spin.\nUnleash a powerful strike, dealing damage equal to <b>191.5%</b> of ATK plus <b>10</b> to the target and nearby enemies, and suspend them."
     },
     {
+      "id": "GA_FPlayerDartsSneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK plus <b>23</b>."
     },
     {
+      "id": "GA_FPlayerDartsEvade_BackAttack_name",
       "name": "Waning Moon",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Use normal attack during the short period after dodging to trigger Waning Moon.\nToss a spinning chakram forward, dealing damage equal to <b>132.9%</b> of ATK plus <b>7</b> to the target and inflicting a <b>stun</b> effect for <b>0.5</b> seconds. The chakram then splits into <b>3</b> and keeps traveling, dealing damage equal to <b>24.2%</b> of ATK plus <b>1</b> to targets along their path. <span class=\"text-red\">Split chakrams will bounce during Full Bloom</span>."
     },
     {
+      "id": "GA_FPlayerDartsSkill_name",
       "name": "Full Bloom",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Create a Chakram Domain with the Wanderer at the center for <b>8</b> seconds. At the same time, enemies are pulled in, and their speed is reduced by <b>30%</b> for <b>8</b> seconds. Fire <b>5</b> chakrams that bounce between enemies, dealing damage equal to <b>24.2%</b> of ATK plus <b>1</b> to targets along their paths, bouncing up to <b>5</b> times. <span class=\"text-red\">The split chakrams triggered by Waning Moon will also bounce up to 5 times.</span> Cooldown: <b>45</b> seconds."
     },
     {
+      "id": "GA_FPlayerDartsChangeSkill_New_Sucess_name",
       "name": "Spirit of the Air",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and unleash Chakram of the Seas at a target. Struck target causes AoE <b>stun</b> for <b>1</b> second, plus <b>1</b> attack each against up to <b>3</b> units every second (each attack has <b>10%</b> chance of <b>stunning</b> the target for <b>1.5</b> seconds), dealing <b>41.4%</b> x ATK plus <b>2</b> damage for <b>10</b> seconds."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and unleash Chakram of the Seas at a target. Struck target causes AoE <b>stun</b> for <b>1</b> second, plus <b>1</b> attack each against up to <b>3</b> units every second (each attack has <b>10%</b> chance of <b>stunning</b> the target for <b>1.5</b> seconds), dealing <b>41.4%</b> x ATK plus <b>2</b> damage for <b>10</b> seconds."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "When the weapon is fully charged, the next attack will cause enemies to become grievous for <b>7</b> seconds, increasing their damage received by <b>20%</b> and dealing damage equal to <b>137%</b> of ATK. When in <yellow_lbl_14_1>team play</>, grievous targets receive an additional <b>20%</b> physical damage."
+    "description": "When the weapon is fully charged, the next attack will cause enemies to become grievous for <b>7</b> seconds, increasing their damage received by <b>20%</b> and dealing damage equal to <b>137%</b> of ATK. When in <yellow_lbl_14_1>team play</>, physical damage dealt to grievous targets is increased by an additional <b>20%</b>."
   },
   "advancement": [
     "Increase damage dealt to and all elemental shattering effects on targets within <span class=\"text-green\">Full Bloom</span>'s range by <b>30%</b>.",

@@ -19,6 +19,7 @@
   "charge": 4,
   "skills": [
     {
+      "id": "GA_FPlayerBigSwordMeleeIce_SSR_name",
       "name": "Heavy Cleave",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, ayunkan pedang besar untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>72.9%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>60.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>105.4%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>156%</b> ATK plus <b>8</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Aerial Strike",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>106.5%</b> ATK plus <b>6</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>87.5%</b> ATK plus <b>5</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>156%</b> ATK plus <b>8</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>140.5%</b> ATK plus <b>7</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Branch_name",
       "name": "Rising Slash",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Rising Slash.\nSaat berhasil mendaratkan serangan ini, target akan mengalami <b>Suspend Keras</b> dan terpental ke atas, menimpakan DMG sebesar <b>64.3%</b>ATK plus <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_JumpAttack_name",
       "name": "Moonset Slash",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Moonset Slash"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_R_Sneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Power_name",
       "name": "Whirlwind",
       "type": [
         "Hold: Attack"
@@ -65,6 +71,7 @@
       "description": "Saat berdiri diam atau bergerak, tekan dan tahan Serangan Biasa untuk mengaktifkan Whirlwind, menimpakan DMG sebesar <b>132.8%</b> ATK plus <b>7</b> setiap <b>0,5</b> detik kepada target. Saat digunakan, kamu kebal terhadap Hitstun."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR_name",
       "name": "Devastate",
       "type": [
         "Perfect Dodge",
@@ -73,6 +80,7 @@
       "description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\nMenimpakan DMG sebesar <b>65.9%</b> ATK plus <b>3</b> setiap kena sasaran dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR_name",
       "name": "Crescent Slash",
       "type": [
         "Dodge",
@@ -81,6 +89,7 @@
       "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Crescent Slash.\nAyunkan pedang besar untuk menembakkan Sword Aura ke depan, masing-masing menimpakan DMG sebesar <b>49.6%</b> ATK plus <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordBigSkillIce_SSR_name",
       "name": "Blizzard",
       "type": [
         "Skill"
@@ -88,11 +97,12 @@
       "description": "Ayunkan pedang besar untuk menembakkan Sword Aura ke depan, masing-masing menimpakan DMG sebesar <b>141.7%</b> ATK plus <b>7</b>, di mana masing-masing hantaman meningkatkan DMG yang ditimpakan sebesar <b>5%</b>. Selama Skill ini aktif, kamu kebal terhadap efek kontrol. CD: <b>30</b> detik."
     },
     {
+      "id": "GA_FPlayerBigSwordChangeSkillIce_SSR_name",
       "name": "Frost Barrier",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini dari senjata lain akan <b>melenyapkan semua Debuff dari penggunanya</b> dan menghantam tanah untuk membentuk penghalang yang menimpakan DMG sebesar <b>503.2%</b> ATK plus <b>26</b> kepada musuh di sekitar dan menahan target di udara. Ini akan memperlambat mereka sebesar <b>50%</b> dan membuat mereka tidak bisa menghindar atau melompat. Penghalang ini aktif selama <b>5</b> detik dan memblokir proyektil."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini dari senjata lain akan <b>melenyapkan semua Debuff dari Wanderer</b> dan menghantam tanah untuk membentuk penghalang yang menimpakan DMG sebesar <b>503.2%</b> ATK plus <b>26</b> kepada musuh di sekitar dan membuat target terpental ke udara. Ini akan memperlambat mereka sebesar <b>50%</b> dan membuat mereka tidak bisa menghindar atau melompat. Penghalang ini aktif selama <b>5</b> detik dan memblokir proyektil."
     }
   ],
   "weapon_type": {

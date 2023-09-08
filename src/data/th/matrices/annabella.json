@@ -1,5 +1,5 @@
 {
-  "_id": 40021,
+  "_id": 32,
   "id": "annabella",
   "name": "แอนนาเบลลา",
   "suitName": "บลัดดี้แอเนคโดต",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase final damage by <b>3%</b>/3.4%/3.8%/4.2% and final crit rate by <b>2%</b>/2%/2.4%/2.4% for <b>25</b> seconds when hitting a target with a flame weapon, stacking up to <b>2</b> times. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "หลังโจมตีโดนเป้าหมายด้วยอาวุธไฟ ดาเมจสุดท้ายจะเพิ่มขึ้น 5%/6%/7%/8% และอัตราคริติคอลสุดท้ายเพิ่มขึ้น 2.5%/2.5%/3%/3% เป็นเวลา 25 วินาที ซ้อนทับสูงสุดได้ 2 ชั้น หากได้รับซ้ำ จะส่งผลเฉพาะเอฟเฟกต์ที่มีระดับดาวสูงสุดเท่านั้น"
     },
     {
       "count": 4,
-      "value": "When equipping 2 or more flame weapons, gain Flowing Fire, which increases final damage by <b>7%</b>/8%/9%/10%, and increases crit damage by an additional <b>12%</b>/14%/16%/18% for <b>25</b> seconds after landing a critical hit. For every <b>3</b> charged attacks that hit the target, restore <b>1</b> dodge attempt. Cooldown: <b>2</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "เมื่อติดตั้งอาวุธไฟ 2 ชิ้นหรือมากกว่า จะได้รับเอฟเฟกต์โฟลวอิงไฟเออร์ ซึ่งจะเพิ่มดาเมจไฟ 11%/13%/15%/17% และเพิ่มดาเมจคริติคอลอีก 22%/24%/26%/28% เมื่อโจมตีติดคริติคอลภายใน 25 วินาที ทุกครั้งที่ชาร์จโจมตีโดนเป้าหมายทุก 3 ครั้ง จะฟื้นฟูจำนวนการหลบหลีกขึ้น 1 ครั้ง คูลดาวน์ 2 วินาที หากได้รับซ้ำ เซตที่มีระดับดาวสูงสุดเท่านั้นที่จะมีผล"
     }
   ],
   "mind": {
@@ -25,7 +25,7 @@
   },
   "belief": {
     "name": "อัลทรูอิซึม",
-    "desc": "—หนึ่งในคำสุดท้ายที่คุณจะใช้เพื่อบรรยายแวมไพร์"
+    "desc": "- หนึ่งในคำที่ห่างไกลที่สุดที่คุณจะใช้เพื่อบรรยายแวมไพร์"
   },
   "emotion": {
     "name": "เดดลีฟส์",

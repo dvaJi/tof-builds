@@ -19,6 +19,7 @@
   "charge": 10.7,
   "skills": [
     {
+      "id": "GA_FPlayerDgunMeleeThu_Melee_name",
       "name": "Doppelfeuer",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Tippe am Boden auf einen normalen Angriff, um mit den Zwillings-Pistolen bis zu 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Gesamtschaden in Höhe von <b>47.1%</b> des ANG +<b>2</b>.\nZweiter Angriff: Verursacht Gesamtschaden in Höhe von <b>35.8%</b> des ANG +<b>2</b>.\nDritter Angriff: Verursacht Gesamtschaden in Höhe von <b>119.7%</b> des ANG +<b>6</b>.\nVierter Angriff: Verursacht Gesamtschaden in Höhe von <b>113.1%</b> des ANG +<b>6</b>.\nFünfter Angriff: Verursacht Gesamtschaden in Höhe von <b>154%</b> des ANG +<b>8</b> und <b>schleudert</b> das Ziel hoch."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_AirAttack_name",
       "name": "Kugelhagel",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft einen normalen Angriff ein, um kontinuierlich auf den Boden zu feuern. Dies verursacht pro Treffer Schaden in Höhe von <b>50.6%</b> des ANG +<b>3</b>. Jeder Treffer verbraucht <b>150</b> Ausdauer."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_PowerAttack_name",
       "name": "Energieschub",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Halte die Angriffstaste gedrückt, um kontinuierlich zu schießen. Jeder Treffer verursacht Grundschaden in Höhe von <b>23%</b> des ANG +<b>1</b>."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_JumpAttack_name",
       "name": "Phantomkick",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Drücke und halte in der Luft den normalen Angriff, um „Phantomkick“ auszulösen. Dadurch wird das Ziel zu Fall gebracht und Schaden in Höhe von <b>70.5%</b> des ANG +<b>4</b> verursacht. Nach der Landung erleiden Ziele in der Nähe Schaden in Höhe von <b>98.7%</b> des ANG +<b>5</b> und sie werden <b>stark hochgeschleudert</b>."
     },
     {
+      "id": "GA_FPlayeDgunEvadeThu_FrontAttack_name",
       "name": "Blitztritt",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Tippe nach dem Ausweichen auf den normalen Angriff, um <b>Ziele länger schweben zu lassen</b> und Schaden in Höhe von <b>122.6%</b> des ANG +<b>6</b> zu verursachen."
     },
     {
+      "id": "GA_FPlayerDgunSkillThu_name",
       "name": "Elektrofeld",
       "type": [
         "Skill"
@@ -64,16 +70,17 @@
       "description": "Feuert einen Energieschild auf den Zielort, der die Strahlen innerhalb der Barriere reflektiert. Verursacht Schaden in Höhe von <b>269.8%</b> des ANG +<b>14</b>. Der letzte Treffer lässt Ziele <b>länger schweben</b>. Abklingzeit: <b>45</b> Sek."
     },
     {
+      "id": "GA_FPlayerDgunChangeSkillThu_Sucess_name",
       "name": "Donnerwetter",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und ein Donnerwetter am Zielort erzeugt. Dies lässt Ziele innerhalb der Reichweite <b>länger schweben</b>, verursacht über 3 Angriffe hinweg einen Gesamtschaden in Höhe von <b>238.3%</b> des ANG +<b>13</b> und hebt ihre Buffs auf. Der Sturm hält <b>3,5</b> Sek. an und fügt einem Ziel alle <b>0,5</b> Sek. Schaden in Höhe von <b>42.4%</b> des ANG +<b>2</b> zu."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b> und ein Donnerwetter am Zielort erzeugt. Dies lässt Ziele innerhalb der Reichweite <b>länger schweben</b>, verursacht über 3 Angriffe hinweg einen Gesamtschaden in Höhe von <b>238.3%</b> des ANG +<b>13</b> und hebt ihre Buffs auf. Der Sturm hält <b>3,5</b> Sek. an und fügt einem Ziel alle <b>0,5</b> Sek. Schaden in Höhe von <b>42.4%</b> des ANG +<b>2</b> zu."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Elektrisiere Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
   },
   "advancement": [
     "Löst eine elektrische Explosion auf dem Ziel aus, wenn es kritisch getroffen wird, die dem Ziel und Gegnern in der Nähe zusätzlichen Schaden in Höhe von <b>30%</b> des ANG zufügt. Abklingzeit: <b>0,2</b> Sek.",

@@ -1,5 +1,5 @@
 {
-  "_id": 40021,
+  "_id": 32,
   "id": "annabella",
   "name": "アナベラ",
   "suitName": "流血奇談",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase final damage by <b>3%</b>/3.4%/3.8%/4.2% and final crit rate by <b>2%</b>/2%/2.4%/2.4% for <b>25</b> seconds when hitting a target with a flame weapon, stacking up to <b>2</b> times. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "炎属性武器の攻撃がターゲットに命中すると、自身の最終ダメージ+5%/6%/7%/8%、固定会心率+2.5%/2.5%/3%/3%、25秒間持続。最大2スタックまで可能。複数発動した場合は★ランクが最高の1つのみ有効"
     },
     {
       "count": 4,
-      "value": "When equipping 2 or more flame weapons, gain Flowing Fire, which increases final damage by <b>7%</b>/8%/9%/10%, and increases crit damage by an additional <b>12%</b>/14%/16%/18% for <b>25</b> seconds after landing a critical hit. For every <b>3</b> charged attacks that hit the target, restore <b>1</b> dodge attempt. Cooldown: <b>2</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "炎属性武器を2つ以上装備すると「流火」効果を発動し、最終ダメージ+11%/13%/15%/17%。攻撃で会心が発生すると、25秒間は会心ダメージがさらに+22%/24%/26%/28%。チャージ攻撃がターゲットに3回命中すると、自身の回避回数が1回回復する。クールダウン2秒。複数発動した場合は★ランクが最高の1つのみ有効"
     }
   ],
   "mind": {

@@ -1,0 +1,339 @@
+{
+  "_id": 1050,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "weapon": "Onyx Tortoise",
+  "weapon_id": "onyx_tortoise",
+  "birthday": "12 November",
+  "birthplace": "Domain 9",
+  "gender": "Laki-Laki",
+  "info": "",
+  "description": "Tamu tak dikenal dari dunia luar. Kemunculannya merupakan hal yang tak terduga sekaligus titik balik bagi Domain 9 yang tertutup.\n\nMereka menerima pemuda tanpa masa lalu ini. Master Yue, Lord Xuanwu sebelumnya, memutuskan untuk merekrut Ming Jing dan melatihnya. Ming Jing melakukan upaya terbaiknya untuk mempelajari dan menyerap ilmu terkait budaya, geografi, pertempuran, dan pahit-manis kekuasaan di Domain 9... Meski dihadapkan dengan banyak rintangan, ia tidak pernah goyah. Ia bertekad untuk membalas kebaikan yang diterimanya dengan tindakan.\n\nSetelah Master Yue meninggal dunia, gelar Xuanwu pun diemban oleh pemuda itu. Mampu membasmi Darkness dengan cepat, ia membuktikan bahwa dirinya layak menjadi penerus Master Yue dan pemimpin Aquaville.\n\nApakah ia berbakat menjadi seorang pemimpin? Mungkinkah masa kininya terkait dengan masa lalunya yang selama ini ia cari?\n\nHal inilah yang selalu terlintas dalam pikirannya. Dilanda kebingungan dan keraguan, ia masih terus mencari ingatan dan identitasnya yang hilang.\n\nMungkin ia tidak pernah berubah, dan masa lalunya selalu mendampinginya. Mungkin ia hanya belum menyadarinya.\n\nJika ada seseorang yang mampu mencapai ujung jalan dan memahami jawabannya, seseorang itu pastilah Ming Jing.",
+  "like": "Memasak, menata, dan mencicipi teh",
+  "dislike": "Membuat perencanaan yang matang, menjelaskan teori seni bela diri.",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 14,
+  "charge": 12,
+  "skills": [
+    {
+      "id": "GA_FPlayerZekeMelee_Melee_name",
+      "name": "Resistor",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, gunakan Serangan Biasa untuk melakukan 5 serangan beruntun.\nSelama <b>Xuanwu Totem</b> aktif, setelah serangan kelima milik Resistor mendaratkan hantaman terakhirnya, 1 Snake Bite akan ditambahkan pada target yang dibidik.\nSerangan Pertama: Menimpakan DMG sebesar <b>131.6%</b> ATK plus <b>7</b> dan membuat target terpental ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>186.8%</b> ATK plus <b>10</b> dan membuat target terpental ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>201.6%</b> ATK plus <b>11</b> dan membuat target terpental ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>238%</b> ATK plus <b>13</b> dan membuat target terpental ke atas.\nSerangan Kelima: Menimpakan DMG sebesar <b>378%</b> ATK plus <b>20</b> dan membuat target terpental ke atas."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_AirAttack_name",
+      "name": "Flying Stone",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut sambil mengonsumsi Stamina.\nSerangan Pertama: Menimpakan DMG sebesar <b>112.8%</b> ATK plus <b>6</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>168%</b> ATK plus <b>9</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>164.2%</b> ATK plus <b>9</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>140.2%</b> ATK plus <b>7</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>228%</b> ATK plus <b>12</b>."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch_name",
+      "name": "Othershore Soul",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat melakukan Serangan Biasa di darat, tahan Serangan Biasa ketika menggunakan Serangan Biasa pertama sampai keempat untuk mengaktifkan Othershore Soul.\nMelemparkan senjatamu ke depan dan menimpakan DMG sebesar <b>212.4%</b> ATK plus <b>11</b> pada target di sekitar."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch1_name",
+      "name": "Collapsing Mountain",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, tahan Serangan Biasa untuk mengaktifkan Collapsing Mountain.\nMaju terus-menerus sambil menyerang dan mengonsumsi Stamina, menimpakan DMG sebesar <b>240%</b> ATK plus <b>13</b> pada target di sekitar."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_JumpAttack_name",
+      "name": "In Continuity",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa saat di udara (tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan In Continuity.\nMelakukan serangan menukik dari atas dan menimpakan DMG sebesar <b>204%</b> ATK plus <b>11</b> pada target di sekitar saat mendarat."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Evade_name",
+      "name": "Menghindar",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, memperlambat target di dalam area tersebut. Saat menghindar, menjadi kebal terhadap Hitstun."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_ForwardAttack_name",
+      "name": "Open Clouds",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa dalam rentang waktu Menghindar Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk memicu Open Clouds, menimpakan DMG sebesar <b>60%</b> ATK plus <b>3</b> pada target di sekitar.\nSelama <b>Xuanwu Totem</b> aktif, 1 Snake Bite akan ditambahkan pada target yang dibidik setelah Open Clouds menghantam target."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_BackAttack_name",
+      "name": "Cutting Sand",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah menghindar untuk mengaktifkan Cutting Sand, menembakkan sabetan pedang yang menimpakan DMG sebesar <b>125%</b> ATK plus <b>7</b> pada target di depanmu.\nSelama <b>Xuanwu Totem</b> aktif, 1 Snake Bite akan ditambahkan pada target yang dibidik setelah Cutting Sand menghantam target."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Spec_name",
+      "name": "Pengamat",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa tepat setelah menghindar untuk mengaktifkan Lookout (tidak berlaku di Apex League).\nSetelah <b>Xuanwu Totem</b> yang dimunculkan oleh <b>Absolute Ravine</b> selesai, gunakan Lookout untuk memasuki <b>Selfless Realm</b> selama <b>25</b> detik dan mendapatkan <b>3</b> <b>Dark Slash</b>.\nSetelah Serangan Biasa atau Serangan Dodge pertama menggunakan <b>Onyx Tortoise</b> berhasil didaratkan, serangan tersebut akan mengaktifkan <b>Dark Slash</b>. Jika target adalah musuh biasa atau elite dan HP mereka saat ini tidak melebihi <b>350.000</b> kali lipat ATK dasar Wanderer, target akan langsung terkalahkan. Jika tidak, DMG yang ditimpakan adalah sebesar <b>3.000%</b> ATK.\n<b>Selfless Realm</b> berakhir saat durasinya berakhir, jumlah <b>Dark Slash</b> habis, atau saat berganti senjata. <b>Selfless Realm</b> hanya dapat terpicu 1 kali setiap <b>200</b> detik."
+    },
+    {
+      "id": "GA_FPlayerZekeSkill_Skill_name",
+      "name": "Absolute Ravine",
+      "type": [
+        "Skill"
+      ],
+      "description": "Membelah tanah di depan dan menjadi kebal untuk sementara (tidak berlaku di Apex League) dan menarik target di sekitar, menimpakan DMG sebesar <b>806%</b> ATK plus <b>42</b>. CD: <b>20</b> detik. Physical DMG Wanderer meningkat <b>30%</b> selama <b>30</b> detik, lalu memanggil Xuanwu Totem. Xuanwu Totem akan lenyap jika tidak berada dalam mode tempur.\nXuanwu Totem memunculkan Dark Soul dari keempat Formation Core setiap <b>0,6</b> detik dan menimpakan DMG sebesar <b>100%</b> ATK setiap kalinya kepada target yang dilewatinya. Saat Absolute Ravine sedang CD, kamu akan mendapatkan Skill baru <b>Mirror Reflection</b>: Menyerang balik Dark Soul di sekitar dan mengaktifkan Formation Core mereka. Setelah ada Formation Core yang diaktifkan, Xuanwu Totem akan selesai dan <b>Selfless Realm</b> dapat dimasuki.\n\nSelama Xuanwu Totem aktif, menggunakan <b>Onyx Tortoise</b> akan memberimu efek Hyperbody. Selain itu, kamu bisa menerapkan Snake Bite dengan cara berikut:\nSetelah <b>Absolute Ravine</b> menghantam lawan, 1 Snake Bite akan diterapkan ke target dengan HP tertinggi.\nSetelah serangan kelima <b>Resistor</b> mendaratkan serangan terakhirnya, 1 Snake Bite akan diterapkan ke target yang dibidik.\nSetelah <b>Open Clouds</b> menghantam musuh, 1 Snake Bite akan diterapkan ke target yang dibidik.\nSetelah <b>Cutting Sand</b> menghantam musuh, 1 Snake Bite akan diterapkan ke target yang dibidik.\nSnake Bite menimpakan DMG Devouring sebesar <b>300%</b> ATK pada target, memulihkan <b>12%</b> dari Max HP Wanderer, dan mengubah target menjadi anggota Serpent Chain.\n\nSerpent Chain dapat mentransfer <b>30%</b> DMG yang ditimpakan oleh senjata di slot utama Wanderer kepada anggota Serpent Chain yang dibidik dan menyebarkan efek <b>Grievous</b> ke semua anggota Serpent Chain (termasuk target itu sendiri). Maks ada <b>4</b> anggota Serpent Chain.\nTipe elemen dari DMG yang disebarkan akan mengikuti DMG aslinya dan tidak dapat disebarkan lagi. Total DMG yang disebarkan dalam <b>30</b> detik tidak bisa lebih dari <b>14.000</b> kali lipat maks ATK Wanderer (dalam permainan tim, jumlahnya tidak terbatas). DMG <b>Dark Slash</b> tidak dapat disebarkan.\nSetelah menggunakan <b>Absolute Ravine</b>, Wanderer juga dapat mengaktifkan <b>Mighty Wind</b>: Anggota Serpent Chain menimpakan DMG Devouring sebesar <b>35%</b> ATK pada target di sekitar (termasuk target itu sendiri) dan mengulang hitungan DMG Devouring."
+    },
+    {
+      "id": "GA_FPlayerZekeChangeSkill_name",
+      "name": "Way Home",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke Senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan memunculkan Xuanwu, menimpakan DMG sebesar <b>681.2%</b> ATK plus <b>36</b> kepada semua target di sekitar. Selama durasi ini, kebal terhadap DMG selama <b>2,6</b> detik (tak berlaku di Apex League)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik, menimpakan DMG sebesar <b>{3}%</b> ATK setiap detik. Efek penyembuhan target yang terbakar berkurang <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Shield Break: Detachment",
+    "description": "<b>Resonansi Physical</b>: Physical ATK meningkat <b>20%</b> dan Physical Resistance meningkat <b>40%</b>. Aktifkan dengan memakai <b>2</b> Senjata Physical atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Physical atau efek Physical Reaction lain, di mana Resonansi Physical akan diutamakan.\n<b>Penghancuran Perisai: Detachment</b>: Setelah menggunakan <b>Absolute Ravine</b>, menimpakan DMG tiap detik sebesar <b>{1}%</b> Physical ATK plus <b>{2}%</b> Max HP Wanderer plus <b>{3}%</b> jumlah total semua tipe Resistance Wanderer plus <b>{4}%</b> Crit selama <b>{0}</b> detik. DMG Detachment yang terjadi beberapa kali tidak akan bertumpuk dan DMG Shield Break akan dianggap sebagai DMG dari Skill. Jika ada <b>1</b> Senjata Volt/Flame/Frost yang sedang dipakai, DMG Shield Break akan dikalikan <b>{5}</b>. DMG Shield Break tidak terpengaruh oleh efek peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan."
+  },
+  "advancement": [
+    "Setiap kali <b>Grievous</b> diterapkan, menimpakan DMG <b>Devouring</b> sebesar <b>100%</b> ATK pada target. Efek ini hanya dapat terpicu 1 kali setiap <b>0,5</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
+    "Setelah mengaktifkan <b>Mighty Wind</b>, target yang terhantam berubah menjadi anggota <b>Serpent Chain</b>.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
+    "Setelah menggunakan <b>Absolute Ravine</b>, DMG yang diterima Wanderer berkurang <b>10%</b> (<b>20%</b> dalam permainan solo) selama <b>30</b> detik.",
+    "Saat ada <b>1</b> anggota <b>Serpent Chain</b>, laju konduksi DMG <b>konduksi</b> meningkat sebesar <b>80%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Final DMG meningkat <b>{0}%</b>.\nPhysical ATK dasar Wanderer meningkat ke nilai tertinggi dari Physical/Flame/Frost/Volt ATK dasar miliknya. Saat <b>Onyx Tortoise</b> berada di Slot Utama, DMG Serangan Biasa meningkat <b>{1}%</b>.",
+      "values": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "",
+      "description": "Final DMG meningkat <b>{0}%</b>.\nPhysical ATK dasar Wanderer meningkat ke nilai tertinggi dari Physical/Flame/Frost/Volt ATK dasar miliknya. Saat <b>Onyx Tortoise</b> berada di Slot Utama, DMG Serangan Biasa meningkat <b>{1}%</b>.",
+      "values": [
+        15,
+        50
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

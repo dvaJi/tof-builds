@@ -19,6 +19,7 @@
   "charge": 12,
   "skills": [
     {
+      "id": "GA_FPlayerSwordMelee_SSR_Melee_name",
       "name": "Schneller Schnitt",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Wenn der Anwender am Boden die Klinge schwingt, greift er 5-mal hintereinander an.\nErster Angriff: Verursacht Schaden in Höhe von <b>46.8%</b> des ANG +<b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>65.6%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>59.3%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>104.1%</b> des ANG +<b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>177.8%</b> des ANG +<b>9</b> und <b>schleudert</b> das Ziel hoch."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Sprungschlag",
       "type": [
         "Jump",
@@ -34,14 +36,16 @@
       "description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>27.9%</b> des ANG +<b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>48.4%</b> des ANG +<b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>114.6%</b> des ANG +<b>6</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>139%</b> des ANG +<b>7</b>."
     },
     {
+      "id": "GA_FPlayerSwordMeleeThu_R_Branch_name",
       "name": "-Zyklon",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben und fügt ihm Schaden in Höhe von <b>47.8%</b> des ANG +<b>3</b> zu."
+      "description": "Tippe und halte nach normalen Angriffen die Taste gedrückt, um „Zyklon“ auszulösen.\nLässt das Ziel bei einem Treffer schweben und fügt ihm Schaden in Höhe von <b>47.8%</b> des ANG +<b>3</b> zu."
     },
     {
+      "id": "GA_FPlayerSwordMeleeThu_R_JumpAttack_name",
       "name": "Fallender Schwung",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Fallender Schwung“ auszulösen.\nVerursacht beim Fallen Schaden in Höhe von <b>10%</b> des ANG + <b>1</b> pro Treffer. Bei der Landung verursachst du Schaden in Höhe von <b>76.4%</b> des ANG + <b>4</b> an Zielen in der Nähe und schleuderst sie zurück.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Schleichattacke",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG +<b>30</b> verursacht."
     },
     {
+      "id": "GA_FPlayerSwordEvadeThu_R_BackAttack_name",
       "name": "Sprungangriff",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Sprungangriff“ auszulösen.\nDer Wanderer schwingt die Klinge nach vorn und fügt dem Ziel Schaden in Höhe von <b>37.9%</b> des ANG + <b>2</b> zu, lässt das Ziel <b>länger schweben</b> und springt dabei selbst in die Luft. Dann fügt er dem Ziel zusätzlich Schaden in Höhe von <b>56.8%</b> des ANG + <b>3</b> zu."
     },
     {
+      "id": "GA_FPlayerSwordSkillNew_SSR_name",
       "name": "Durchstreifen",
       "type": [
         "Skill"
@@ -73,6 +80,7 @@
       "description": "Der Anwender streift zwischen den Gegnern umher, schwingt seine Klinge und fügt bis zu <b>5</b> Zielen Gesamtschaden in Höhe von <b>418%</b> des ANG + <b>22</b> zu (der Schaden jedes aufeinanderfolgenden Treffers auf dasselbe Ziel wird um <b>20%</b> des vorherigen Treffers reduziert.). Am Ende von „Durchstreifen“ fügt der Anwender Gegnern in der Nähe mit einem Hieb nach vorn Flächenschaden in Höhe von <b>264%</b> des ANG + <b>14</b> zu und lässt sie schweben. Macht immun gegen Kontrolleffekte und verringert den erlittenen Schaden um <b>50%</b>. Abklingzeit: <b>15</b> Sek."
     },
     {
+      "id": "GA_FPlayerSwordChangeSkill_SSR_Sucess_name",
       "name": "Unbändiger Ansturm",
       "type": [
         "Discharge"
@@ -82,7 +90,7 @@
   ],
   "weapon_type": {
     "name": "Verwunden",
-    "description": "Wenn die Waffe voll geladen ist, verwundet der nächste Angriff Gegner für <b>7</b> Sek., erhöht den von ihnen erlittenen Schaden um <b>20%</b> und fügt ihnen Schaden in Höhe von <b>137%</b> des ANG zu. Im <yellow_lbl_14_1>Teamspiel</> erleiden verwundete Ziele <b>20%</b> physischen Schaden zusätzlich."
+    "description": "Wenn die Waffe voll geladen ist, verwundet der nächste Angriff Gegner für <b>7</b> Sek., erhöht den von ihnen erlittenen Schaden um <b>20%</b> und fügt ihnen Schaden in Höhe von <b>137%</b> des ANG zu. Im <yellow_lbl_14_1>Teamspiel</> wird der physische Schaden, der verwundeten Zielen zugefüht wird, um <b>20%</b> erhöht."
   },
   "weapon_resonance": {
     "name": "Physische Resonanz",

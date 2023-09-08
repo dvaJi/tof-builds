@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerFriggMelee_Melee_name",
       "name": "Normal Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, initiate 5 attacks in a row with Balmung.\nFirst Attack: Deal damage equal to <b>50.8%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>36.3%</b> of ATK plus <b>2</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>98.3%</b> of ATK plus <b>5</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>67.3%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>148.3%</b> of ATK plus <b>8</b> and knock the target down."
     },
     {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>62.5%</b> of ATK plus <b>3</b>.\nSecond Attack: Deal damage equal to <b>62%</b> of ATK plus <b>5</b>.\nThird Attack: Deal damage equal to <b>3%</b> of ATK plus <b>120</b>.\nFourth Attack: Deal damage equal to <b>6%</b> of ATK plus <b>71.2</b>.\nFifth Attack: Deal damage equal to <b>4%</b> of ATK plus <b>126</b>."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_Branch_name",
       "name": "Quick Pursuit",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "After the second normal attack, hold normal attack to trigger Quick Pursuit.\nShoot a laser-guided missile at the target, dealing damage up to <b>107.5%</b> of ATK plus <b>6</b>."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_PowerAttack_name",
       "name": "Dual Focus",
       "type": [
         "Hold: Attack"
@@ -49,6 +53,7 @@
       "description": "Tap and hold normal attack to charge an attack and release an electrified ball that explodes on hit, dealing damage equal to <b>118.4%</b> of ATK plus <b>6</b> to nearby enemies."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_BackAttack_name",
       "name": "Twin Spinning Focus",
       "type": [
         "Perfect Attack",
@@ -57,6 +62,7 @@
       "description": "Tap normal attack during the short perfect dodge window to trigger a slowing magnetic field.\nVenus fires a charged orb that explodes after traveling forward a set distance or coming in contact with targets. Deal damage equal to <b>171.6%</b> of ATK plus <b>9</b>, and generate a slowing magnetic field for <b>3</b> seconds, which reduces the movement speed and attack speed of all enemies caught within by <b>35%</b>.\nDodging will trigger a Healing Chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small Healing Chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of Healing Chain enhance, which increases the effects of Healing Chains by <b>25%</b>. Stacks up to <b>5</b> times and lasts for <b>30</b> seconds. Switching weapons doesn't cancel this effect."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_RollAttack_name",
       "name": "Parallel Beams",
       "type": [
         "Perfect Dodge",
@@ -65,6 +71,7 @@
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Parallel Beams.\nVenus fires a pair of parallel energy beams, dealing piercing damage equal to <b>171.6%</b> of ATK plus <b>9</b>.\nDodging will trigger a Healing Chain that heals nearby allies by <b>67.7%</b> of the Wanderer's ATK; for the next <b>10</b> seconds, a small Healing Chain will trigger every <b>2</b> seconds, which heals nearby allies by <b>22.5%</b> of the Wanderer's ATK. Dodging grants <b>1</b> stack of Healing Chain enhance, which increases the effects of Healing Chains by <b>25%</b> (stack up to <b>5</b> times) and lasts for <b>30</b> seconds. Switching weapons doesn't cancel this effect."
     },
     {
+      "id": "GA_FPlayerSuspensionSkill_Skill_name",
       "name": "Pulse Lock",
       "type": [
         "Skill"
@@ -72,16 +79,17 @@
       "description": "Venus fires a guided missile that explodes on contact with enemy targets, dealing damage equal to <b>233.2%</b> of ATK plus <b>12</b> and knocking down targets. Cooldown: <b>25</b> seconds."
     },
     {
+      "id": "GA_FPlayerSuspensionChangeSkill_Success_name",
       "name": "Particle Beam Burst",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and command Venus to fire a cross-shaped ray at the ground, creating an unstable area and slowing targets' movement speed by <b>70%</b> for <b>5</b> seconds. After a brief delay, unleash an electromagnetic burst that deals damage equal to <b>393.9%</b> of ATK plus <b>21</b>.\nUsing a discharge attack will spawn <b>1</b> Electrode near the enemy's position that attacks once every <b>1.5</b> seconds, dealing damage equal to <b>39.9%</b> of ATK plus <b>2</b>.\nThe Electrode gains <b>100%</b> of the Wanderer's stats, can be attacked or healed, and loses <b>3%</b> of its Max HP every second.\nOnly <b>1</b> Electrode can exist at any given time, and summoning a new Electrode will replace the previous one."
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and command Venus to fire a cross-shaped ray at the ground, creating an unstable area and slowing targets' movement speed by <b>70%</b> for <b>5</b> seconds. After a brief delay, unleash an electromagnetic burst that deals damage equal to <b>393.9%</b> of ATK plus <b>21</b>.\nUsing a discharge attack will spawn <b>1</b> Electrode at the target's position that attacks once every <b>1.5</b> seconds, dealing damage equal to <b>39.9%</b> of ATK plus <b>2</b>.\nThe Electrode gains <b>100%</b> of the Wanderer's stats, can be attacked or healed, and loses <b>3%</b> of its Max HP every second.\nOnly <b>1</b> Electrode can exist at any given time, and summoning a new Electrode will replace the previous one."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>144%</b> of ATK. Electrified targets can't receive any buffs for the next <b>6</b> seconds."
   },
   "weapon_resonance": {
     "name": "Volt Resonance",

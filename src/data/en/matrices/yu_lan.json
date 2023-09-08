@@ -1,5 +1,5 @@
 {
-  "_id": 40033,
+  "_id": 34,
   "id": "yu_lan",
   "name": "Yu Lan",
   "suitName": "Sincerity",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When equipped with at least <b>1</b> frost weapon, while in the combat state, deal damage equal to <b>60%</b> of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by <b>5%</b>/6%/7%/8% for <b>30</b> seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+      "value": "When equipped with at least 1 frost weapon, while in the combat state, deal damage equal to 85% of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by 7%/8%/9%/10% for 30 seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
     },
     {
       "count": 4,
-      "value": "After <b>Unity</b> consumes <b>Internal Strength</b> or <b>Fighting Spirit</b>, increase final damage by <b>5%</b> for <b>15</b> seconds. After dealing frost damage, increase all elemental damage by <b>11%</b>/14%/17%/20% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+      "value": "After Unity consumes Internal Strength or Fighting Spirit, increase final damage by 6% for 15 seconds. After dealing frost damage, increase all elemental damage by 12%/15%/19%/23% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
     }
   ],
   "mind": {

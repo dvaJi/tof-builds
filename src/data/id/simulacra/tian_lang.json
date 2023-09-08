@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerTianLangMelee_Melee_name",
       "name": "Mizar",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, mulai 6 serangan berturut-turut dengan Thunderbreaker.\nSerangan Pertama: Menimpakan DMG sebesar <b>90.5%</b> ATK plus <b>5</b> dan membuat musuh terpental ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>67.9%</b> ATK plus <b>4</b> dan membuat musuh terpental ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>123%</b> ATK plus <b>6</b> dan membuat musuh terpental ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>217.9%</b> ATK plus <b>11</b> dan membuat musuh terpental ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>222%</b> ATK plus <b>12</b> dan membuat musuh terpental ke belakang.\nSerangan Keenam: Menimpakan DMG sebesar <b>291.8%</b> ATK plus <b>15</b> dan membuat target terpental ke atas."
     },
     {
+      "id": "GA_PlayerTianLangMelee_AirAttack_name",
       "name": "Megrez",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>87.4%</b> ATK plus <b>5</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>83%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>126.7%</b> ATK plus <b>7</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>229.4%</b> ATK plus <b>12</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>256.5%</b> ATK plus <b>14</b>."
     },
     {
+      "id": "GA_PlayerTianLangMelee_Branch_name",
       "name": "Phecda",
       "type": [
         "Attack"
@@ -41,6 +44,7 @@
       "description": "Saat di darat, tahan tombol Serangan Biasa untuk memicunya.\nMenimpakan DMG hingga <b>342%</b> ATK plus <b>18</b> pada target dan menarik musuh-musuh di sekitarmu."
     },
     {
+      "id": "GA_PlayerTianLangMelee_JumpAttack_name",
       "name": "Merak",
       "type": [
         "Attack"
@@ -48,6 +52,7 @@
       "description": "Tekan dan tahan Serangan Biasa saat di udara, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkannya.\nSaat jatuh, menimpakan DMG sebesar <b>38%</b> ATK plus <b>2</b> tiap kali menghantam target. Saat mendarat, menimbulkan DMG sebesar <b>285%</b> ATK plus <b>15</b> kepada target di sekitar."
     },
     {
+      "id": "GA_FPlayerTianLangEvade_Evade_name",
       "name": "Menghindar",
       "type": [
         "Dodge"
@@ -55,6 +60,7 @@
       "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama <b>0,5</b> detik."
     },
     {
+      "id": "GA_FPlayerTianLangEvade_ForwardAttack_name",
       "name": "Alioth",
       "type": [
         "Dodge",
@@ -63,6 +69,7 @@
       "description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar.\nMelesat untuk menyerang target, menimpakan DMG dengan total sebesar <b>172.6%</b> ATK plus <b>9</b>."
     },
     {
+      "id": "GA_FPlayerTianLangSkill_Skill_name",
       "name": "Dubhe",
       "type": [
         "Skill"
@@ -70,16 +77,17 @@
       "description": "Melakukan rentetan serangan, menimpakan DMG sebesar <b>936.9%</b> ATK plus <b>49</b> kepada musuh dalam jangkauan dan mengubah musuh dan unit yang kamu ciptakan dalam jarak tertentu menjadi Electrified Entity. Maks 3 Electrified Entity pada satu waktu. CD: <b>30</b> detik.\n\nSaat Dubhe digunakan, mendapatkan Volt Sense: Periksa dua senjata lain yang sedang dipakai saat Skill ini digunakan. Setiap kali ada Senjata Volt yang ditemukan, Volt ATK meningkat <b>6%</b> selama <b>25</b> detik.\n\nElectrified Entity: Ketika menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt, Electrified Entity menimpakan Volt DMG area sebesar <b>5%</b> dari HP yang hilang (minimal <b>100%</b> Volt ATK, maksimal <b>1.000%</b> Volt ATK).\n\nSaat menggunakan Thunderbreaker, menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt akan mengonsumsi <b>30%</b> HP saat ini untuk menimpakan Volt DMG tambahan sebesar <b>50%</b> dari HP yang dikonsumsi (minimal <b>480%</b> Volt ATK, maksimal <b>3.000%</b> Volt ATK) dan mendapatkan kekebalan untuk sementara (tak berlaku di Apex League). Setelah <b>8</b> detik, atau ketika HP lebih rendah dari <b>10%</b>, memulihkan <b>5%</b> HP yang hilang setiap detik selama <b>8</b> detik (tidak terpengaruh oleh efek penyembuhan). Efek pemulihan ini tidak bertumpuk."
     },
     {
+      "id": "GA_FPlayerTianLangChangeSkill_Success_name",
       "name": "Obliterator",
       "type": [
         "Dodge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>. Thunderbreaker mengeluarkan serangan Volt berarea luas yang menimpakan Volt DMG dengan total sebesar <b>844.6%</b> ATK plus <b>44</b> dan mengubah musuh atau unit yang kamu ciptakan dalam jarak tertentu menjadi Electrified Entity. Maks 3 Electrified Entity pada satu waktu.\n\nElectrified Entity: Saat menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt, Electrified Entity menimpakan Volt DMG area sebesar <b>5%</b> dari HP yang hilang (minimal <b>100%</b> Volt ATK, maksimal <b>1.000%</b> Volt ATK).\n\nSaat menggunakan Thunderbreaker, menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt apa pun akan mengonsumsi <b>30%</b> HP saat ini untuk menimpakan Volt DMG tambahan sebesar <b>50%</b> dari HP yang dikonsumsi (minimal <b>480%</b> Volt ATK, maksimal <b>3.000%</b> Volt ATK) dan mendapatkan kekebalan untuk sementara (tak berlaku di Apex League). Setelah <b>8</b> detik, atau ketika HP lebih rendah dari <b>10%</b>, memulihkan <b>5%</b> HP yang hilang setiap detik selama <b>8</b> detik (tidak terpengaruh oleh efek penyembuhan). Efek pemulihan ini tidak bertumpuk."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>. Thunderbreaker mengeluarkan serangan Volt berarea luas yang menimpakan Volt DMG dengan total sebesar <b>844.6%</b> ATK plus <b>44</b> dan mengubah musuh atau unit yang kamu ciptakan dalam jarak tertentu menjadi Electrified Entity. Maks 3 Electrified Entity pada satu waktu.\n\nElectrified Entity: Saat menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt, Electrified Entity menimpakan Volt DMG area sebesar <b>5%</b> dari HP yang hilang (minimal <b>100%</b> Volt ATK, maksimal <b>1.000%</b> Volt ATK).\n\nSaat menggunakan Thunderbreaker, menggunakan Skill Senjata atau Skill Discharge dengan Senjata Volt apa pun akan mengonsumsi <b>30%</b> HP saat ini untuk menimpakan Volt DMG tambahan sebesar <b>50%</b> dari HP yang dikonsumsi (minimal <b>480%</b> Volt ATK, maksimal <b>3.000%</b> Volt ATK) dan mendapatkan kekebalan untuk sementara (tak berlaku di Apex League). Setelah <b>8</b> detik, atau ketika HP lebih rendah dari <b>10%</b>, memulihkan <b>5%</b> HP yang hilang setiap detik selama <b>8</b> detik (tidak terpengaruh oleh efek penyembuhan). Efek pemulihan ini tidak bertumpuk."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target yang terkena Electrify tidak bisa menerima buff."
   },
   "weapon_resonance": {
     "name": "Volt Reaction",

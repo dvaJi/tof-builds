@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerCannonMelee_Melee_name",
       "name": "Normaler Angriff",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Tippe auf den normalen Angriff, um den Zielmodus zu aktivieren. Halte den normalen Angriff gedrückt, um kontinuierlich bis zu <b>40</b> Schüsse abzufeuern. Jeder Schuss verursacht Schaden in Höhe von <b>11.4%</b> des ANG +<b>1</b>. Bei Kopfschüssen oder einem Treffer an der Schwachstelle des Gegners wird der Schaden verdoppelt und der Gegner zu Fall gebracht (Kopfschüsse sind gegen Wanderer unwirksam)."
     },
     {
+      "id": "GA_FPlayerCannonSkill_name",
       "name": "Geschützturm",
       "type": [
         "Skill"
@@ -33,11 +35,12 @@
       "description": "Aktiviere den Geschützmodus und feuere große Energiekugeln ab, die jeweils Schaden in Höhe von <b>213.3%</b> des ANG +<b>11</b> verursachen und das Ziel hochschleudern. der Wanderer ist gegen Lähmungsangriff und Kontrolleffekte immun, während der Geschützturm aufgestellt wird. Abklingzeit: <b>3.5</b> Sek."
     },
     {
+      "id": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
       "name": "Arktischer Strahl",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und ein arktischer Strahl abgefeuert. Dies verursacht Schaden in Höhe von <b>329.2%</b> des ANG +<b>17</b> und bewirkt einen <b>3</b> Sek. anhaltenden <b>starken Einfrieren-Effekt</b>. Außerdem sinkt der Frostwiderstand des Ziels für <b>10</b> Sek. um <b>50%</b>."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b> und ein arktischer Strahl abgefeuert. Dies verursacht Schaden in Höhe von <b>329.2%</b> des ANG +<b>17</b> und bewirkt einen <b>3</b> Sek. anhaltenden <b>starken Einfrieren-Effekt</b>. Außerdem sinkt der Frostwiderstand des Ziels für <b>10</b> Sek. um <b>50%</b>."
     }
   ],
   "weapon_type": {

@@ -1,0 +1,34 @@
+{
+  "_id": 33,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "suitName": "Cœur perdu",
+  "hash": "SSR34",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "La limite de membres de Chaîne serpentine passe à <b>5</b>. Lorsqu'au moins <b>1</b> arme physique est équipée, accroît l'ATQ physique de 14%/16%/18%/20%. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet."
+    },
+    {
+      "count": 4,
+      "value": "Après l'application de l'effet de morsure de serpent, accroît l'ATQ physique de 9% pendant 30 secondes. Fonctionne dans l'emplacement main libre. En état de combat, accroît les dégâts finaux de 14%/17%/20%/23%."
+    }
+  ],
+  "mind": {
+    "name": "Infusé dans le thé",
+    "desc": "Des pensées profondes enfouies sous une forte fragrance."
+  },
+  "memory": {
+    "name": "Page blanche",
+    "desc": "Au milieu du brouillard, il faut s'accrocher à ce qui compte au risque de le perdre une fois de plus."
+  },
+  "belief": {
+    "name": "Reconstruction",
+    "desc": "Ramasser les morceaux… C'est la première étape pour tout reconstruire."
+  },
+  "emotion": {
+    "name": "Passionné",
+    "desc": "Des pensées ardentes masquées par une expression impassible."
+  }
+}

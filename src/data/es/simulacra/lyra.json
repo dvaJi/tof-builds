@@ -1,5 +1,5 @@
 {
-  "_id": 13,
+  "_id": 14,
   "id": "lyra",
   "name": "Lira",
   "weapon": "Vesper",
@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerArmMeleeBuff_name",
       "name": "Pasiva de ataque de Vesper normal",
       "type": [
         "Passive"
@@ -26,6 +27,7 @@
       "description": "<span class=\"text-green\">Iluminación</span>: El ataque normal de Vesper sin Resonancia de Sacramento inflige daño adicional a los objetivos que lleven <b>Marca de Iluminación</b> al impacto igual al número de guardias que lleves x <b>6.4%</b> del ATQ (no más del 38.4% x ATQ en total). Ese daño no activará efectos de ataque adicionales; se considera daño de habilidades de descarga y de armas.\n\nEl ataque normal de Vesper con Resonancia de Sacramento inflige daño adicional al impacto contra objetivos que lleven <b>Marca de Iluminación</b> igual al número de guardias que lleven tus compañeros y tú x <b>4.6%</b> del ATQ (no más del 36.8% x ATQ en total). Ese daño no activará efectos de ataque adicionales y se considera como daño de habilidades de descarga y de armas.\n<span class=\"text-green\">Brillante</span>: Todos los ataques normales de Vesper restauran PS al impacto igual a <b>15%</b> del ATQ.\n<span class=\"text-green\">Impacto Sagrado</span>: El ataque aéreo y Acumulación de Vesper pueden convertir el 60% de la carga en destrucción.\n<span class=\"text-green\">Guardia</span>: Por cada <b>15%</b> de pérdida de PS o cada <b>300</b> de carga de arma obtenida, obtienes hasta <b>5</b> Guardias de Iluminación para ti (pueden producirse en la ranura secundaria). Guardia de Iluminación dura <b>25</b> seg. Si tus propios Guardias de Iluminación están llenos, los nuevos Guardias de Iluminación atacarán a los enemigos, lo que inflige daño físico igual a <b>120%</b> del ATQ; y luego, desaparecerán. Ese daño no activa efectos de ataque adicionales.\n\nAviso: En Fantasma del Pasado, Vesper no se considera un arma de soporte."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_Melee_name",
       "name": "Ataque normal de Vesper",
       "type": [
         "Attack"
@@ -33,6 +35,7 @@
       "description": "Mientras estás en el suelo, usa a Vesper para lanzar 5 ataques consecutivos.\nPrimer ataque: Inflige daño igual a <b>81.6%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>59.1%</b> del ATQ más <b>3</b> y hace retroceder al objetivo considerablemente.\nTercer ataque: Inflige daño igual a <b>123.9%</b> del ATQ más <b>7</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>173%</b> del ATQ más <b>9</b> y suspende al objetivo.\nQuinto ataque: Inflige daño igual a <b>196.4%</b> del ATQ más <b>10</b> y lanza al objetivo."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_AirAttack_name",
       "name": "Frustración",
       "type": [
         "Jump",
@@ -41,6 +44,7 @@
       "description": "Mientras estás en el aire, pulsa el ataque normal para desatar Frustración. Cada golpe inflige daño igual a <b>33.2%</b> del ATQ más <b>2</b> y consume <b>10</b> de resistencia. El último impacto inflige daño igual a <b>556.6%</b> del ATQ más <b>29</b> y lanza al objetivo.\nAl desatar Frustración, agarra al objetivo si es posible y lo lanza al suelo, lo que inflige daño igual a <b>124.5%</b> del ATQ más <b>7</b> en total."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_PowerAttack_name",
       "name": "Acumulación",
       "type": [
         "Attack"
@@ -48,6 +52,7 @@
       "description": "Mantén pulsado el ataque normal hasta <b>3</b> cargas. <b>Suspende fuerte</b> al objetivo al impacto, y te vuelves inmune al daño y a los efectos de control durante un ataque de Acumulación. Soltar antes de recibir el impacto puede activar Phantasia.\nImpacto cargado de la fase 1: Inflige daño igual a <b>96%</b> del ATQ más <b>5</b>.\nImpacto cargado de la fase 2: Inflige daño igual a <b>223%</b> del ATQ más <b>12</b>.\nImpacto cargado de la fase 3: Inflige daño igual a <b>360.5%</b> del ATQ más <b>19</b>."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_Branch_name",
       "name": "Brillo",
       "type": [
         "Hold: Attack"
@@ -55,6 +60,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal durante los ataques normales o después de evadir para desatar Brillo. Cada golpe inflige daño igual a <b>20%</b> del ATQ más <b>1</b> y consume <b>10</b> de resistencia. Suelta para activar Acumulación."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_JumpAttack_name",
       "name": "Vapuleador",
       "type": [
         "Jump",
@@ -63,6 +69,7 @@
       "description": "En el aire, pulsa y mantén pulsado el ataque normal para activar 3 cargas en el aire. Suelta para vapulear el suelo y <b>suspende fuerte</b> a los objetivos. Soltar antes de recibir el impacto puede activar Phantasia.\nAtaque cargado de la fase 1: Inflige daño igual a <b>166.3%</b> del ATQ más <b>9</b>.\nAtaque cargado de la fase 2: Inflige daño igual a <b>288.2%</b> del ATQ más <b>15</b>.\nAtaque cargado de la fase 3: Inflige daño igual a <b>454.4%</b> del ATQ más <b>24</b>."
     },
     {
+      "id": "GA_FPlayerArmEvadePhy_BackAttack_name",
       "name": "Captura Mental",
       "type": [
         "Dodge",
@@ -71,6 +78,7 @@
       "description": "Tras evadir, pulsa el ataque normal para atraer al objetivo hacia ti por <b>2</b> seg, lo que inflige daño igual a <b>261.4%</b> del ATQ más <b>14</b>. Pulsar y mantener pulsado el ataque normal después de evadir puede activar <b>Brillo</b> después de desatar <b>Captura Mental</b>."
     },
     {
+      "id": "GA_FPlayerArmEvadePhy_Evade_name",
       "name": "Evasión",
       "type": [
         "Dodge"
@@ -78,13 +86,15 @@
       "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante <b>0.5</b> seg y recuperas <b>250</b> de resistencia."
     },
     {
+      "id": "GA_FPlayerArmSkillPhy_Pas_name",
       "name": "Guardia de Perdón",
       "type": [
         "Skill"
       ],
-      "description": "<span class=\"text-green\">Guardia de Perdón</span>: Cuando el efecto de curación se desborda, otorga un escudo de PS igual a hasta <b>60%</b> de tus PS Máx. Cuando Vesper tiene Guardia de Perdón, se activan diferentes efectos de guardia bajo diferentes Resonancias.\n<span class=\"text-green\">Guardia de Sacramento</span>: La habilidad se sustituye por <b>Alba</b>, y el nómada no obtiene más Guardia de Iluminación. Se convierte en Guardia de Perdón para sus compañeros. Gana un Guardia de Perdón por cada <b>15%</b> de PS Máx. curado, y otorga hasta 1 Guardia de Perdón a cada compañero. Si cada compañero tiene uno, la Guardia de Perdón inflige daño físico igual a <b>120%</b> del ATQ a un enemigo y desaparece. Ese daño no activa efectos de ataque adicionales. También aumenta los PS Máx. en <b>12.5%</b> para tus compañeros y tú. No se acumula.\n <span class=\"text-green\">Guardia Ofensiva</span>: Cuando una habilidad de Vesper impacta, obtienes inmediatamente un escudo igual a <b>30%</b> de tus PS Máx. Enfriamiento: <b>30</b> seg.\n<span class=\"text-green\">Guardia de Fortaleza</span>: Cuando una habilidad de Vesper impacta, obtienes curación inmediatamente, lo que restaura <b>2%</b> de tus PS Máx. por segundo durante <b>20</b> seg. Enfriamiento: <b>30</b> seg.\n <span class=\"text-green\">Guardia de Equilibrio</span>: Cuando los PS son superiores a <b>50%</b>, aumenta la destrucción en <b>20%</b>. Cuando los PS son inferiores a <b>50%</b>, aumenta el daño final en <b>10%</b> y la destrucción en <b>10%</b>."
+      "description": "<span class=\"text-green\">Guardia de Perdón</span>: Cuando el efecto de curación se desborda, otorga un escudo de PS igual a hasta <b>60%</b> de tus PS Máx. Cuando Vesper tiene Guardia de Perdón, se activan diferentes efectos de guardia bajo diferentes Resonancias.\n<span class=\"text-green\">Guardia de Sacramento</span>: La habilidad se sustituye por <b>Alba</b>, y el nómada no obtiene más Guardia de Iluminación. Se convierte en Guardia de Perdón para sus compañeros. Gana un Guardia de Perdón por cada <b>15%</b> de PS Máx. curado, y otorga hasta 1 Guardia de Perdón a cada compañero. Si cada compañero tiene uno, la Guardia de Perdón inflige daño físico igual a <b>120%</b> del ATQ a un enemigo y desaparece. Ese daño no activa efectos de ataque adicionales. También aumenta los PS Máx. en <b>12.5%</b> para tus compañeros y tú. No se acumula.\n<span class=\"text-green\">Guardia Ofensiva</span>: Cuando una habilidad de Vesper impacta, obtienes inmediatamente un escudo igual a <b>30%</b> de tus PS Máx. Enfriamiento: <b>30</b> seg.\n<span class=\"text-green\">Guardia de Fortaleza</span>: Cuando una habilidad de Vesper impacta, obtienes curación inmediatamente, lo que restaura <b>2%</b> de tus PS Máx. por segundo durante <b>20</b> seg. Enfriamiento: <b>30</b> seg.\n<span class=\"text-green\">Guardia de Equilibrio</span>: Cuando los PS son superiores a <b>50%</b>, aumenta la destrucción en <b>20%</b>. Cuando los PS son inferiores a <b>50%</b>, aumenta el daño final en <b>10%</b> y la destrucción en <b>10%</b>."
     },
     {
+      "id": "GA_FPlayerArmPublishSkillPhy_name",
       "name": "Caída de Estrellas",
       "type": [
         "Skill"
@@ -92,6 +102,7 @@
       "description": "Salta hacia el objetivo, lo que inflige daño igual a <b>702.1%</b> del ATQ más <b>37</b> y lo <b>suspende fuerte</b>. Inflige una Marca de Iluminación en el objetivo por <b>18</b> seg. Enfriamiento: <b>20</b> seg."
     },
     {
+      "id": "GA_FPlayerArmLawSkillPhy_name",
       "name": "Alba",
       "type": [
         "Skill"
@@ -99,6 +110,7 @@
       "description": "Vapulea el suelo y <b>lanza fuerte</b> a los objetivos al frente, lo que inflige daño igual a <b>702.1%</b> del ATQ más <b>37</b> e invoca hasta <b>3</b> <b>Cuchillas</b> por <b>75</b> seg (hasta 1 Cuchilla cada 2 metros). Puedes usar esta habilidad hasta <b>3</b> veces, con un enfriamiento de <b>20</b> seg cada vez. Cuando existan 2 <b>Cuchillas</b> en el campo, se crea un <b>Brilloclaro</b>. Cuando se toca una <b>Cuchilla</b>, cura a los objetivos dentro del radio de movimiento, lo que restaura PS igual a <b>25%</b> del ATQ del objetivo. Cuando existen 3 <b>Cuchillas</b>, se crea una <b>Nebulosa</b>. Cuando se toca una <b>Cuchilla</b>, daña a los objetivos dentro del radio de movimiento, lo que inflige daño igual a <b>150%</b> del ATQ x la distancia de movimiento / <b>5</b> m."
     },
     {
+      "id": "GA_FPlayerArmChangeSkillPhy_Success_name",
       "name": "Suspiro Melodioso",
       "type": [
         "Discharge"
@@ -108,7 +120,7 @@
   ],
   "weapon_type": {
     "name": "Grave",
-    "description": "Cuando el arma esté completamente cargada, el siguiente ataque dejará graves a los enemigos por <b>7</b> seg, lo que aumenta su daño recibido un <b>20%</b> y les inflige daño igual a <b>{1}%</b> del ATQ. Cuando estás en <yellow_lbl_14_1>partidas en equipo</>, los objetivos graves reciben un <b>20%</b> de daño físico adicional."
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque dejará graves a los enemigos por <b>7</b> seg, lo que aumenta su daño recibido un <b>20%</b> y les inflige daño igual a <b>{1}%</b> del ATQ. Al jugar <yellow_lbl_14_1>partidas en equipo</>, aumenta el daño físico infligido a objetivos graves un <b>20%</b> adicional."
   },
   "weapon_resonance": {
     "name": "Resonancia física",

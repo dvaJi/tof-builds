@@ -1,0 +1,325 @@
+{
+  "_id": 1050,
+  "_locid": "CH50_MingJing",
+  "name": "Ming Jing",
+  "weapon": "Onyx Tortoise",
+  "element": "Flame",
+  "rarity": "SSR",
+  "id": "ming_jing",
+  "global": true,
+  "tier": 1,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "DPS",
+  "soon": false,
+  "new": true,
+  "resonance": "DPS",
+  "shatter": 14.0,
+  "charge": 12.0,
+  "skills": [
+    {
+      "name": "GA_FPlayerZekeMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerZekeMelee_Melee_des",
+      "values": [131.6, 7, 186.8, 10, 201.6, 11, 238, 13, 378, 20]
+    },
+    {
+      "name": "GA_FPlayerZekeMelee_AirAttack_name",
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerZekeMelee_AirAttack_des",
+      "values": [112.8, 6, 168, 9, 164.2, 9, 140.2, 7, 228, 12]
+    },
+    {
+      "name": "GA_FPlayerZekeMelee_Branch_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerZekeMelee_Branch_des",
+      "values": [212.4, 11]
+    },
+    {
+      "name": "GA_FPlayerZekeMelee_Branch1_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerZekeMelee_Branch1_des",
+      "values": [240, 13]
+    },
+    {
+      "name": "GA_FPlayerZekeMelee_JumpAttack_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerZekeMelee_JumpAttack_des",
+      "values": [204, 11]
+    },
+    {
+      "name": "GA_FPlayerZekeEvade_Evade_name",
+      "icon": true,
+      "type": ["Dodge"],
+      "description": "GA_FPlayerZekeEvade_Evade_des",
+      "values": [0.5]
+    },
+    {
+      "name": "GA_FPlayerZekeEvadeAttack_ForwardAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerZekeEvadeAttack_ForwardAttack_des",
+      "values": [60, 3]
+    },
+    {
+      "name": "GA_FPlayerZekeEvadeAttack_BackAttack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerZekeEvadeAttack_BackAttack_des",
+      "values": [125, 7]
+    },
+    {
+      "name": "GA_FPlayerZekeEvade_Spec_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerZekeEvade_Spec_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerZekeSkill_Skill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerZekeSkill_Skill_des",
+      "values": [806, 42]
+    },
+    {
+      "name": "GA_FPlayerZekeChangeSkill_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerZekeChangeSkill_des",
+      "values": [681.2, 36]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_2_0",
+    "type": "WeaponType_Trait_SSR_annabeila",
+    "description": "ui_weapon_charge_2_desc_0",
+    "values": [0, 144.0]
+  },
+  "weapon_resonance": {
+    "name": "Buff_ZekeSkillPoJiaDamageAdd_name",
+    "type": "ui_elemental_type_2",
+    "description": "Buff_Zeke_SSR_Level0_des",
+    "values": []
+  },
+  "advancement": [
+    ["Buff_Zeke_SSR_Level1_des", []],
+    "Weapon_level2_atkup_ssr",
+    ["Buff_Zeke_SSR_Level3_des", []],
+    "Weapon_level4_atkup_ssr",
+    ["Buff_Zeke_SSR_Level5_des", [10, 20, 30]],
+    ["Buff_Zeke_SSR_Level6_des", []]
+  ],
+  "traits": [
+    {
+      "name": "Buff_Zeke_Level1_name",
+      "description": "Buff_Zeke_Level1_des",
+      "values": [12, 30]
+    },
+    {
+      "name": "Buff_Zeke_Level2_name",
+      "description": "Buff_Zeke_Level2_des",
+      "values": [15, 50]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "700",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "1100",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "booster_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat2": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat3": {
+        "name": "nano_coating_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat4": {
+        "name": "acidproof_glaze_ii",
+        "rarity": "R",
+        "amount": "9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "_id": 1050,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "weapon": "Tartaruga de Ônix",
+  "weapon_id": "onyx_tortoise",
+  "birthday": "12 de novembro",
+  "birthplace": "Domínio 9",
+  "gender": "Masculino",
+  "info": "",
+  "description": "Um visitante desconhecido vindo de fora. Sua aparição é tanto uma variável imprevisível quanto um ponto crucial para o isolado Domínio 9.\n\nEles aceitaram este homem sem passado, e Mestre Yue, o Senhor Xuanwu anterior, decidiu manter Ming Jing ao seu lado e treiná-lo. Ming Jing fez o possível para absorver a cultura, as paisagens, as batalhas e as lutas pelo poder... Encontrou muitos obstáculos, mas nunca fraquejou, e seguiu em frente para retribuir com ações a gentileza que recebeu.\n\nApós o falecimento do Mestre Yue, o jovem assumiu o título de Xuanwu. Ele mostrou resultados favoráveis ao lidar rapidamente com a Escuridão e mostrou que Mestre Yue estava certo em fazer dele seu sucessor, deixando-o responsável por Aquavila.\n\nSeria um líder nato? Será que seu presente pode estar ligado ao passado que procura?\n\nÉ exatamente isso que o incomoda. Confuso e cheio de incertezas, ele tem procurado as memórias e a identidade que perdeu.\n\nTalvez ele nunca tenha mudado e seu passado sempre estado com ele. Talvez ele ainda não tenha notado.\n\nSe há alguém que pode chegar ao fim da estrada e agarrar firmemente a resposta, essa pessoa é Ming Jing.",
+  "like": "Culinária, organização e degustação de chás",
+  "dislike": "Planejamento cuidadoso, explicação da teoria das artes marciais.",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 14,
+  "charge": 12,
+  "skills": [
+    {
+      "id": "GA_FPlayerZekeMelee_Melee_name",
+      "name": "Resistor",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\nCom <b>Totem Xuanwu</b> ativo, acertar o último golpe do quinto ataque de Resistor adiciona 1 picada de cobra ao alvo travado.\nPrimeiro ataque: Causa dano de <b>131.6%</b> do ATQ + <b>7</b> e repele o alvo.\nSegundo ataque: Causa dano de <b>186.8%</b> do ATQ + <b>10</b> e repele o alvo.\nTerceiro ataque: Causa dano de <b>201.6%</b> do ATQ + <b>11</b> e repele o alvo.\nQuarto ataque: Causa dano de <b>238%</b> do ATQ + <b>13</b> e suspende o alvo.\nQuinto ataque: Causa dano de <b>378%</b> do ATQ + <b>20</b> e lança o alvo no ar."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_AirAttack_name",
+      "name": "Pedra Voadora",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas e consumir vigor.\nPrimeiro ataque: Causa dano de <b>112.8%</b> do ATQ mais <b>6</b>.\nSegundo ataque: Causa dano de <b>168%</b> do ATQ mais <b>9</b>.\nTerceiro ataque: Causa dano de <b>164.2%</b> do ATQ mais <b>9</b>.\nQuarto ataque: Causa dano de <b>140.2%</b> do ATQ mais <b>7</b>.\nQuinto ataque: Causa dano de <b>228%</b> do ATQ mais <b>12</b>."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch_name",
+      "name": "Alma Transcendental",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Alma Transcendental.\nArremessa sua arma à frente, causando dano de <b>212.4%</b> do ATQ + <b>11</b> aos alvos próximos."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch1_name",
+      "name": "Desabamento",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, segure o botão de ataque normal para acionar Desabamento.\nAvança constantemente enquanto ataca e consome vigor, causando dano de <b>240%</b> do ATQ + <b>13</b> a alvos próximos."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_JumpAttack_name",
+      "name": "Continuidade",
+      "type": [
+        "Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Continuidade.\nDespenca dos céus, causando dano de <b>204%</b> do ATQ + <b>11</b> aos alvos próximos ao aterrissar."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Evade_name",
+      "name": "Esquiva",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_ForwardAttack_name",
+      "name": "Nuvens Abertas",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Nuvens Abertas. Causa dano de <b>60%</b> do ATQ + <b>3</b> aos alvos próximos.\nCom <b>Totem Xuanwu</b> ativo, acertar um golpe de Nuvens Abertas adiciona 1 picada de cobra ao alvo travado."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_BackAttack_name",
+      "name": "Areia Cortante",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal logo após se esquivar para acionar Areia Cortante e liberar uma aura de espada que causa dano de <b>125%</b> do ATQ + <b>7</b> aos alvos à frente.\nCom <b>Totem Xuanwu</b> ativo, acertar um golpe com Areia Cortante adiciona 1 picada de cobra ao alvo travado."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Spec_name",
+      "name": "Sobrevoo Estonteante",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Segure o botão de ataque normal logo após se esquivar para acionar Sobrevoo Estonteante (indisponível na Liga do Apogeu).\nApós o <b>Totem Xuanwu</b> invocado por <b>Ravina Absoluta</b> ser completado, use Sobrevoo Estonteante para entrar no <b>Reino Altruísta</b> por <b>25</b> segundos e receber <b>3</b> <b>cortes das trevas</b>.\nO primeiro ataque normal ou de esquiva bem-sucedido de <b>Tartaruga de Ônix</b> aciona <b>corte das trevas</b>. Se o alvo for um inimigo de elite ou comum e a vida atual dele não exceder o ATQ mínimo do usuário em mais de <b>350.000</b> vezes, o alvo será executado imediatamente. Do contrário, causa dano de <b>3.500%</b> do ATQ.\n<b>Reino Altruísta</b> se encerra quando a quantidade de <b>cortes das trevas</b> acaba, a duração termina ou ao trocar de arma. <b>Reino Altruísta</b> só pode ser acionado 1 vez a cada <b>200</b> segundos."
+    },
+    {
+      "id": "GA_FPlayerZekeSkill_Skill_name",
+      "name": "Ravina Absoluta",
+      "type": [
+        "Skill"
+      ],
+      "description": "Abre uma fenda no chão à frente, recebe invencibilidade temporária (indisponível na Liga do Apogeu) e puxa alvos próximos, causando dano de <b>806%</b> do ATQ + <b>42</b>. Tempo de recarga: <b>20</b> seg. Aumenta os seus danos físico em <b>30%</b> durante <b>30</b> segundos e, em seguida, invoca o Totem Xuanwu. O Totem Xuanwu é removido fora de combate.\nO Totem Xuanwu invoca almas negras dos quatro núcleos de formação a cada <b>0,6</b> segundo, e cada uma causa dano de <b>100%</b> do ATQ aos alvos no caminho. Quando Ravina Absoluta estiver em tempo de recarga, recebe a nova habilidade <b>Reflexo Espelhado</b>: Ataca as almas negras próximas e ativa seus núcleos de formação correspondentes. Depois que qualquer núcleo de formação for ativado, o Totem Xuanwu estará completo e o <b>Reino Altruísta</b> poderá ser acessado.\n\nEnquanto o Totem Xuanwu estiver ativo, use <b>Tartaruga de Ônix</b> para receber corpo de aço, e picadas de cobra poderão ser aplicadas das seguintes formas:\nApós atingir um alvo com <b>Ravina Absoluta</b>, aplica 1 picada de cobra no alvo com a vida mais alta.\nApós acertar o golpe final do quinto ataque de <b>Resistor</b>, aplica 1 picada de cobra no alvo travado.\nApós acertar um golpe com <b>Nuvens Abertas</b>, aplica 1 picada de cobra no alvo travado.\nApós acertar um golpe com <b>Areia Cortante</b>, aplica 1 picada de cobra no alvo travado.\nA picada de cobra causa dano devorador equivalente a <b>300%</b> do ATQ ao alvo, restaura <b>12%</b> da vida máxima do usuário e torna o alvo um membro da corrente serpente.\n\nA corrente serpente pode transferir <b>30%</b> do dano real causado pela sua arma no espaço principal para o membro travado da corrente serpente e causar uma <b>lesão</b> que será conduzida a todos os membros da corrente serpente (incluindo o próprio alvo). Pode haver até <b>4</b> membros da corrente serpente.\nO elemento do dano de condução é o mesmo do dano original e não pode ser conduzido novamente. O dano de condução total em <b>30</b> segundos não excede <b>14.000</b> vezes o seu ATQ máximo (ilimitado em jogo em equipe). O dano de <b>Corte das Trevas</b> não pode ser conduzido.\nApós usar <b>Ravina Absoluta</b>, você também pode acionar <b>Tufão Potente</b>: Os membros da corrente serpente causam dano devorador equivalente a <b>35%</b> do ATQ aos alvos próximos (incluindo o próprio alvo) e redefine a contagem do dano devorador."
+    },
+    {
+      "id": "GA_FPlayerZekeChangeSkill_name",
+      "name": "Caminho de Casa",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos do usuário</b> e invoca Xuanwu que causa dano em área de <b>681.2%</b> do ATQ + <b>36</b> a todos os alvos próximos. Nesse período, recebe imunidade a dano durante <b>2,6</b> segundos (indisponível na Liga do Apogeu)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fogo",
+    "description": "Com carga completa, o ataque seguinte da arma incendeia o alvo, o que causa dano de <b>{3}%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura em alvos incendiados diminui em <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Despedaçar: Separação",
+    "description": "<b>Ressonância física</b>: Aumenta o ATQ físico em <b>20%</b> e a resistência física em <b>40%</b>. Ativa-se ao equipar <b>2</b> ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física ou reação física, e a ressonância física tem prioridade.\n<b>Despedaçar: Separação</b>: Após usar <b>Ravina Absoluta</b>, a cada segundo causa dano equivalente a <b>{1}%</b> do ATQ físico + <b>{2}%</b> da vida máxima do Errante + <b>{3}%</b> da soma de todos os tipos de resistência + <b>{4}%</b> do crítico a alvos próximos durante <b>{0}</b> segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver <b>uma</b> arma elétrica/gélida/física de qualquer tipo equipada, o dano de despedaçar é multiplicado por <b>{5}</b>. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional."
+  },
+  "advancement": [
+    "Sempre que aplicar uma <b>lesão</b>, causa dano <b>devorador</b> igual a <b>100%</b> do ATQ ao alvo. Este efeito só pode ser acionado 1 vez a cada <b>0,5</b> segundo.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Após acionar <b>tufão potente</b>, transforma os alvos atingidos em membros da <b>corrente serpente</b>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Após usar <b>Ravina Absoluta</b>, reduz o dano sofrido pelo usuário em <b>10%</b> (<b>20%</b> em jogo individual) durante <b>30</b> segundos.",
+    "Quando houver <b>1</b> membro da <b>corrente serpente</b>, aumenta a taxa de condução do dano de <b>condução</b> em <b>80%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Aumenta o dano final em <b>{0}%</b>.\nO seu ATQ físico mínimo aumenta para o maior valor dentre o ATQ físico/ígneo/gélido/elétrico mínimo. Quando a arma no espaço principal for <b>Tartaruga de Ônix</b>, o dano do ataque normal aumenta em <b>{1}%</b>.",
+      "values": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "",
+      "description": "Aumenta o dano final em <b>{0}%</b>.\nO seu ATQ físico mínimo aumenta para o maior valor dentre o ATQ físico/ígneo/gélido/elétrico mínimo. Quando a arma no espaço principal for <b>Tartaruga de Ônix</b>, o dano do ataque normal aumenta em <b>{1}%</b>.",
+      "values": [
+        15,
+        50
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Corpo reforçado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

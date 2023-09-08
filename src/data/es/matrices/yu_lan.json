@@ -1,5 +1,5 @@
 {
-  "_id": 40033,
+  "_id": 34,
   "id": "yu_lan",
   "name": "Yu Lan",
   "suitName": "Sinceridad",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When equipped with at least <b>1</b> frost weapon, while in the combat state, deal damage equal to <b>60%</b> of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by <b>5%</b>/6%/7%/8% for <b>30</b> seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+      "value": "Al equiparse con al menos 1 arma de escarcha, en estado de combate, inflige daño igual a 85% del ATQ a los objetivos cercanos cada segundo. Tras usar cualquier habilidad de arma de escarcha o habilidad de descarga, aumenta el daño final un 7%/8%/9%/10% por 30 seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
     },
     {
       "count": 4,
-      "value": "After <b>Unity</b> consumes <b>Internal Strength</b> or <b>Fighting Spirit</b>, increase final damage by <b>5%</b> for <b>15</b> seconds. After dealing frost damage, increase all elemental damage by <b>11%</b>/14%/17%/20% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+      "value": "Después de que Unidad consuma Fuerza Interna o Espíritu de Pelea, aumenta el daño final un 6% por 15 seg. Después de infligir daño de escarcha, aumenta todo el daño elemental un 12%/15%/19%/23% por 30 seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
     }
   ],
   "mind": {

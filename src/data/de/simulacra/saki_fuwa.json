@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerDkatanaMelee_Melee_name",
       "name": "Wutstrom",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Führt am Boden 5 Herzstrom-Angriffe aus.\nDer erste Angriff fügt dem Ziel Schaden in Höhe von <b>42.5%</b> des ANG +<b>2</b> zu und stößt es eine kurze Strecke zurück.\nDer zweite Angriff fügt dem Ziel Schaden in Höhe von <b>29.5%</b> des ANG +<b>2</b> zu und stößt es eine kurze Strecke zurück.\nDer dritte Angriff fügt dem Ziel Schaden in Höhe von <b>45%</b> des ANG +<b>2</b> zu und stößt es eine kurze Strecke zurück.\nDer vierte Angriff fügt dem Ziel Schaden in Höhe von <b>70.6%</b> des ANG +<b>4</b> zu und stößt es eine kurze Strecke zurück.\nDer fünfte Angriff fügt dem Ziel Schaden in Höhe von <b>102.6%</b> des ANG +<b>5</b> zu und schleudert es hoch."
     },
     {
+      "id": "GA_PlayerDkatanaMelee_AirAttack_name",
       "name": "Luftteilung",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>47.2%</b> des ANG +<b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>43.7%</b> des ANG +<b>2</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>54.2%</b> des ANG +<b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>76.9%</b> des ANG +<b>4</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>170.2%</b> des ANG +<b>9</b>."
     },
     {
+      "id": "GA_PlayerDkatanaMelee_Branch1_name",
       "name": "Aufgeregter Flow: Vortex",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Tippe und halte im „Aufgeregter Flow“-Modus den normalen Angriff, um die Fähigkeit auszulösen.\nSprinte mit einem wirbelnden Mehrfachangriff nach vorne und verursache dabei bis zu <b>199.5%</b> des ANG +<b>11</b> Schaden."
     },
     {
+      "id": "GA_PlayerDkatanaMelee_JumpAttack_name",
       "name": "Frostfall",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Tippe und halte zum Auslösen den normalen Angriff, während du in der Luft bist oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt.\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von <b>30.4%</b> des ANG +<b>2</b>. Fügt Zielen in der Nähe bei der Landung Schaden in Höhe von <b>76%</b> des ANG +<b>4</b> zu."
     },
     {
+      "id": "GA_FPlayerDkatanaEvade_name",
       "name": "Ausweichen",
       "type": [
         "Dodge"
@@ -56,6 +61,7 @@
       "description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für <b>0,5</b> Sek. immun gegen Trefferlähmung, während du ausweichst."
     },
     {
+      "id": "GA_FPlayerDkatanaEvade_ForwardAttack_name",
       "name": "Polarfront",
       "type": [
         "Dodge",
@@ -64,6 +70,7 @@
       "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff.\nSprinte los, drehe dich und greife das Ziel an, um Gesamtschaden in Höhe von <b>277%</b> des ANG +<b>15</b> zu verursachen."
     },
     {
+      "id": "GA_FPlayerDkatanaSkill_Skill1_name",
       "name": "Aufgeregter Flow: Rauschender Strom",
       "type": [
         "Skill"
@@ -71,11 +78,12 @@
       "description": "Sprinte auf das Ziel zu und mache Gegner entlang des Wegs vorübergehend bewegungsunfähig. Du verursachst dabei verzögerten Schaden in Höhe von bis zu <b>445.3%</b> des ANG +<b>23</b>. Abklingzeit: <b>30</b> Sek."
     },
     {
+      "id": "GA_FPlayerDkatanaSkill_Skill2_name",
       "name": "Stiller Flow: Konzentrierter Strom",
       "type": [
         "Discharge"
       ],
-      "description": "Lässt die „Stiller Flow“-Fähigkeiten los, um bis zu <b>3</b> Sek. lang in einen aufgeladenen Zustand einzutreten, der Ziele in der Nähe kontinuierlich verspottet und Schaden bis zu <b>60%</b> der max. LP absorbiert. Am Ende des aufgeladenen Zustands erleiden Ziele Frostschaden in Höhe von <b>850%</b> des Frost-ANG +<b>50%</b> x absorbierter Schaden. <b>20%</b> des nicht verbrauchten Werts wird in LP-Wiederherstellung umgewandelt. Abklingzeit: <b>30</b> Sek.\n\nWechselt in den „Stiller Flow“-Zustand, wenn Standhaftigkeit-Resonanz aktiviert ist. <b>Aufgeregter Flow: Rauschender Strom</b> wird ersetzt durch <b>Stiller Flow: Konzentrierter Strom</b>. Wechselt in den „Aufgeregter Flow“-Zustand, wenn Standhaftigkeit-Resonanz nicht aktiviert ist.\nDer Wanderer kann „Schwertschatten“ erlangen, der ihm folgt, wenn er Saki Fuwas Fähigkeiten einsetzt. Schwertschatten löst eine Welle aus, wenn der Wanderer Saki Fuwas Varianten- oder Entladungsfähigkeiten einsetzt, und verursacht Fernkampfschaden in Höhe von <b>450%</b> des Frost-ANG. Abklingzeit der Volt-Welle: <b>10</b> Sek.\nIm Zustand „Aufgeregter Flow: Schwertschatten“ wird Flow ausgelöst, wenn der Wanderer mit einer beliebigen Waffe Schaden verursacht, der dem ersten getroffenen Ziel Schaden in Höhe von <b>125%</b> des Frost-ANG zufügt und LP in Höhe von <b>57%</b> des Schadens wiederherstellt. Die maximale Wiederherstellung übersteigt jeweils nicht <b>100%</b> des ANG. Abklingzeit: <b>0,8</b> Sek.\nIm „Stiller Flow“-Zustand: Nachdem der Schwertschatten „Volt-Welle“ ausgelöst hat, erhält der Wanderer <b>3</b> Blocks, die <b>10</b> Sek. lang anhalten. Die maximale Blockkapazität beträgt höchstens <b>15%</b> der max. LP. Jeder erfolgreiche Block fügt dem Ziel Gegenangriffsschaden in Höhe von <b>450%</b> des Frost-ANG zu und das Zertrümmern der Volt-Welle erhöht sich um <b>100%</b>, wenn der Verspottungseffekt hinzugefügt wird."
+      "description": "Setzt die „Stiller Flow“-Fähigkeiten ein, um bis zu <b>3</b> Sek. lang in einen aufgeladenen Zustand einzutreten und so Ziele in der Nähe kontinuierlich zu verspotten und Schaden in Höhe von bis zu <b>60%</b> der max. LP zu absorbieren. Am Ende des aufgeladenen Zustands wird Zielen Frostschaden in Höhe von <b>850%</b> des Frost-ANG + <b>50%</b> x absorbierter Schaden zugefügt. <b>20%</b> des nicht verbrauchten Werts wird in LP-Wiederherstellung umgewandelt. Abklingzeit: <b>30</b> Sek.\n\nWechselt in den „Stiller Flow“-Zustand, wenn Standhaftigkeit-Resonanz aktiviert ist. <b>Aufgeregter Flow: Rauschender Strom</b> wird durch <b>Stiller Flow: Konzentrierter Strom</b> ersetzt. Wechselt zu „Aufgeregter Flow“, wenn Standhaftigkeit-Resonanz nicht aktiviert ist.\nDer Wanderer kann „Schwertschatten“ erlangen, der ihm folgt, wenn er Saki Fuwas Fähigkeiten einsetzt. Schwertschatten löst „Volt-Welle“ aus, wenn der Wanderer Saki Fuwas Varianten- oder Entladungsfähigkeiten einsetzt, und verursacht Flächenschaden in Höhe von <b>450%</b> des Frost-ANG. Abklingzeit von „Volt-Welle“: <b>10</b> Sek.\nIm „Aufgeregter Flow“-Zustand: Wenn der Wanderer mit einer beliebigen Waffe Schaden verursacht, löst „Schwertschatten“ „Flow“ aus, der dem ersten getroffenen Ziel Schaden in Höhe von <b>125%</b> des Frost-ANG zufügt und LP in Höhe von <b>57%</b> des Schadens wiederherstellt. Die maximale Wiederherstellung übersteigt jeweils nicht <b>100%</b> des ANG. Abklingzeit: <b>0,8</b> Sek.\nIm „Stiller Flow“-Zustand: Nachdem „Schwertschatten“ „Volt-Welle“ ausgelöst hat, erhält der Wanderer <b>10</b> Sek. lang <b>3</b> Blocks, deren maximale Blockkapazität höchstens <b>15%</b> der max. LP beträgt. Jeder erfolgreiche Block fügt dem Ziel Gegenangriffsschaden in Höhe von <b>450%</b> des Frost-ANG zu, und das Zertrümmern von „Volt-Welle“ erhöht sich um <b>100%</b> und erhält zusätzlich den Verspottungseffekt."
     }
   ],
   "weapon_type": {
@@ -92,7 +100,7 @@
     "Aufgeregter Flow: Erhöht den Schaden des Schwertschattens „Volt-Welle“ auf <b>900%</b> des Frost-ANG.\nStiller Flow: Die Abklingzeit des Schwertschattens „Volt-Welle“ beträgt jetzt <b>5 Sek</b>.",
     "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <b>32%</b>.",
     "Halte die Zeit an und löse „Trugbild“ aus, wenn „Volt-Welle“ das Ziel trifft. Teilt sich die Abklingzeit mit dem durch Ausweichen ausgelösten „Trugbild“.",
-    "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für <b>15</b> Sek. um <b>11%</b>.\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen verursachten Frostschaden für <b>12</b> Sek. um <b>25%</b>."
+    "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für <b>15</b> Sek. um <b>11%</b>.\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für <b>12</b> Sek. um <b>25%</b>."
   ],
   "traits": [
     {

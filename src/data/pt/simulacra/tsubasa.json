@@ -19,6 +19,7 @@
   "charge": 11.5,
   "skills": [
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_name",
       "name": "Saque Ligeiro",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, saque o arco para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>48.8%</b> do ATQ + <b>3</b>.\nSegundo ataque: causa dano de <b>43.7%</b> do ATQ + <b>2</b>.\nTerceiro ataque: causa dano de <b>78.6%</b> do ATQ + <b>4</b>.\nQuarto ataque: causa dano de <b>121.2%</b> do ATQ + <b>6</b>.\nQuinto ataque: causa dano de <b>112.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Powner_name",
       "name": "Tiro Concentrado",
       "type": [
         "Hold: Attack"
@@ -33,6 +35,7 @@
       "description": "Segure o botão de ataque normal para carregar um ataque. Causa dano mínimo de <b>87.8%</b> do ATQ + <b>5</b>, e mais <b>50%</b> por cada <b>1</b> segundo de concentração (máximo de <b>3</b> segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Branch_name",
       "name": "Chuva de Flechas",
       "type": [
         "Attack",
@@ -41,6 +44,7 @@
       "description": "Após qualquer ataque normal, segure o botão de ataque normal para desencadear Chuva de Flechas. Causa até <b>287.2%</b> do ATQ + <b>15</b> de dano em área a alvos."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_AirAttack_name",
       "name": "Saraivada Aérea",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>56.3%</b> do ATQ + <b>3</b>.\nSegundo ataque: causa dano de <b>74%</b> do ATQ + <b>4</b>.\nTerceiro ataque: causa dano de <b>112.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: causa dano de <b>169.8%</b> do ATQ + <b>9</b>."
     },
     {
+      "id": "GA_FPlayerBowEvadeIce_SSR_Attack_name",
       "name": "Flecha Repulsora",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Toque no botão de ataque após se esquivar para usar Flecha Repulsora. <b>Repele o alvo</b> e causa dano de <b>124%</b> do ATQ + <b>7</b>."
     },
     {
+      "id": "GA_FPlayerBowSkillIce_SSR_name",
       "name": "Tiro Perfurante",
       "type": [
         "Skill"
@@ -64,11 +70,12 @@
       "description": "Dá um mortal para trás e dispara <b>3</b> tiros perfurantes, onde o disparo principal causa dano de <b>258.3%</b> do ATQ + <b>14</b>, e os outros dois causam 60% de dano. Além disso, <b>repele os alvos</b> e os atordoa durante <b>5</b> segundos caso colidam com um obstáculo. Tempo de recarga: <b>12</b> segundos."
     },
     {
+      "id": "GA_FPlayerBowChangeSkillIce_SSR_name",
       "name": "Salva Explosiva",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e cria uma chuva de granizo na posição do alvo. Causa dano de <b>570%</b> do ATQ + <b>30</b>. A chuva tem <b>10%</b> de chance de infligir <b>congelamento forte</b> durante <b>2</b> segundos. Confere frente fria e aumenta a velocidade em <b>45%</b> durante <b>7</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e cria uma chuva de granizo na posição do alvo. Causa dano de <b>570%</b> do ATQ + <b>30</b>. A chuva tem <b>10%</b> de chance de infligir <b>congelamento forte</b> durante <b>2</b> segundos. Confere frente fria e aumenta a velocidade em <b>45%</b> durante <b>7</b> segundos."
     }
   ],
   "weapon_type": {

@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Melee_name",
       "name": "Attaque d'étincelles",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Au sol, appuyez sur le bouton d'attaque normale pour ordonner à Étincelle d'attaquer 5 fois de suite.\nPremière attaque : inflige un total de dégâts équivalant à <b>84.6%</b> de l'ATQ + <b>4</b> à chaque cible.\nDeuxième attaque : inflige un total de dégâts équivalant à <b>93%</b> de l'ATQ + <b>5</b> à chaque cible.\nTroisième attaque : inflige un total de dégâts équivalant à <b>101.5%</b> de l'ATQ + <b>5</b> à chaque cible.\nQuatrième attaque : inflige un total de dégâts équivalant à <b>109.9%</b> de l'ATQ + <b>6</b> à chaque cible.\nCinquième attaque : inflige un total de dégâts équivalant à <b>253.7%</b> de l'ATQ + <b>13</b> à chaque cible et <b>projette</b> les cibles."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AirAttack_name",
       "name": "Décharge aérienne",
       "type": [
         "Jump",
@@ -34,13 +36,15 @@
       "description": "Lorsque vous êtes dans les airs, appuyez sur le bouton Attaque normale pour ordonner à Étincelle d'attaquer 4 fois de suite.\nPremière attaque : inflige un total de dégâts équivalant à <b>97.1%</b> de l'ATQ + <b>5</b> à chaque cible.\nDeuxième attaque : inflige un total de dégâts équivalant à <b>106.8%</b> de l'ATQ + <b>6</b> à chaque cible.\nTroisième attaque : inflige un total de dégâts équivalant à <b>121.3%</b> de l'ATQ + <b>6</b> à chaque cible.\nQuatrième attaque : inflige un total de dégâts équivalant à <b>145.6%</b> de l'ATQ + <b>8</b> à chaque cible."
     },
     {
-      "name": "Tu es à moi !",
+      "id": "GA_FPlayerFunnelMeleeFire_AimAttack_name",
+      "name": "Compris !",
       "type": [
         "Hold: Attack"
       ],
       "description": "Maintenez Attaque normale ou faites ceci après le déclenchement de Zone de confinement pour tirer des rayons d'énergie en continu vers vos ennemis dans la direction choisie, ce qui inflige des dégâts équivalant à <b>40%</b> de l'ATQ + <b>2</b>. Consomme l'endurance de l'Explorateur."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_JumpAttack_name",
       "name": "Plongeon ardent",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Plongeon ardent.\nEnveloppe le corps d'énergie avant de plonger à toute vitesse vers le sol, infligeant des dégâts équivalant à <b>172.1%</b> de l'ATQ + <b>9</b> aux cibles à proximité."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Branch_name",
       "name": "Zone de confinement",
       "type": [
         "Attack",
@@ -57,6 +62,7 @@
       "description": "Après la deuxième attaque normale, maintenez le bouton durant n'importe quelle attaque pour infliger des dégâts équivalant à <b>40%</b> de l'ATQ + <b>2</b> à la cible. La cible verrouillée est emprisonnée et brûlée pendant <b>3</b> secondes, ce qui lui inflige des dégâts équivalant à <b>26.2%</b> de l'ATQ + <b>1</b> toutes les secondes (ne fonctionne pas contre les boss)."
     },
     {
+      "id": "GA_FPlayeFunnelEvadeFire_FrontAttack_name",
       "name": "Vas-y, Dolly !",
       "type": [
         "Dodge",
@@ -65,6 +71,7 @@
       "description": "Lance Dolly après une esquive. Dolly reste pendant <b>10</b> secondes, attire les ennemis proches et leur inflige des dégâts équivalant à <b>84.6%</b> de l'ATQ + <b>4</b>, et les provoque pendant <b>1,5</b> seconde (ne peut pas provoquer les ennemis en équipe) afin de détourner leurs attaques vers Dolly."
     },
     {
+      "id": "GA_FPlayerFunnelSkillFire_name",
       "name": "Collisionneur d'étincelles",
       "type": [
         "Skill"
@@ -72,11 +79,12 @@
       "description": "Étincelle lance l'attaque Étincelles, qui dure 15 secondes et rebondit entre les cibles et l'Explorateur. Lorsqu'elles touchent une cible, les étincelles la ralentissent pendant <b>4</b> secondes avec un temps de recharge de <b>15</b> secondes. Plus les étincelles mettent de temps à atteindre leur cible, plus elles infligent de dégâts. À l'impact, elles infligent des dégâts équivalant à <b>350%</b> de l'ATQ + <b>37</b> et appliquent une marque d'Inflammation sur la cible qui persiste pendant <b>25</b> secondes. Au même moment, Étincelle tire 4 balles en direction de sa cible. Chacune de ces balles inflige des dégâts équivalant à <b>50%</b> de l'ATQ + <b>3</b>. Les attaques normales d'Étincelle infligent <b>110%</b> de dégâts supplémentaires aux cibles marquées par Inflammation. Lorsque les étincelles atteignent des cibles brûlées par l'Explorateur, elles brûlent ou embrasent la cible une fois, ce qui inflige des dégâts supplémentaires équivalant à <b>100%</b> du total de dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du calcul du résultat est de <b>6</b> secondes. Le temps de recharge de la compétence est de <b>30</b> secondes.\n<b>Effet passif</b> : pendant toute la durée d'Étincelles, chaque fois que des dégâts sont infligés par Attaque d'étincelles, l'Explorateur gagne <b>1</b> point de Chaleur (à intervalle de <b>0,9</b> seconde) jusqu'à un plafond de <b>8</b> points. Lorsque ce plafond est atteint, l'Explorateur reçoit l'effet Chaleur ultime qui augmente son ATQ de feu de <b>10%</b> pendant <b>25</b> secondes."
     },
     {
+      "id": "GA_FPlayerFunnelChangeSkillFire_Success_name",
       "name": "Supernova",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b> au moment où vous changez d'arme pour passer à celle-ci. Étincelle entre dans un état de charge, tirant des rayons d'énergie ardente sur une zone étendue en continu dans la direction visée avant d'exploser. Inflige des dégâts équivalant à <b>750%</b> de l'ATQ + <b>39</b>. Si la cible est affectée par un effet de brûlure auto-infligé, elle brûle ou s'embrase et subit des dégâts supplémentaires équivalant à <b>100%</b> du total de dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du calcul du résultat est de <b>6</b> secondes. Lorsque la compétence est active, confère une immunité aux dégâts pendant <b>2,6</b> secondes (indisponible dans la Ligue ultime)."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur l'Explorateur</b> au moment où vous changez d'arme pour passer à celle-ci. Étincelle entre dans un état de charge, tirant des rayons d'énergie ardente sur une zone étendue en continu dans la direction visée avant d'exploser. Inflige des dégâts équivalant à <b>750%</b> de l'ATQ + <b>39</b>. Si la cible est affectée par un effet de brûlure auto-infligé, elle brûle ou s'embrase et subit des dégâts supplémentaires équivalant à <b>100%</b> du total de dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du calcul du résultat est de <b>6</b> secondes. Lorsque la compétence est active, confère une immunité aux dégâts pendant <b>2,6</b> secondes (non disponible en Ligue ultime)."
     }
   ],
   "weapon_type": {

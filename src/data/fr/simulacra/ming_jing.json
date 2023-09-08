@@ -1,0 +1,339 @@
+{
+  "_id": 1050,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "weapon": "Tortue d'onyx",
+  "weapon_id": "onyx_tortoise",
+  "birthday": "12 novembre",
+  "birthplace": "Domaine 9",
+  "gender": "Masculin",
+  "info": "",
+  "description": "Un visiteur inconnu venu de l'extérieur. Son apparition est à la fois une variable imprévisible et un tournant pour le domaine 9 fermé sur lui-même.\n\nIls acceptèrent cet homme sans passé, et Maître Yue, le précédent Xuanwu, décida de garder Ming Jing à ses côtés et de le former. Ce dernier fit de son mieux pour s'imprégner de la culture, des paysages, des batailles et des luttes de pouvoir… Malgré les nombreux obstacles qui se dressèrent sur sa route, il ne faiblit jamais et s'attacha à rendre par des actes la bonté dont il avait été l'objet.\n\nAprès la mort de Maître Yue, le jeune homme prit le titre de Xuanwu. Il fit ses preuves en s'attaquant rapidement à l'Obscurité, et prouva que Maître Yue avait eu raison de faire de Ming Jing son successeur et de lui confier Aquaville.\n\nEst-il un leader naturel ? Se pourrait-il aussi que son présent soit lié à son passé qu'il recherche depuis longtemps ?\n\nC'est justement ce qui le trouble. Confus et incertain, il est à la recherche de ses souvenirs et de son identité perdus.\n\nPeut-être qu'il n'a jamais changé et que son passé l'a toujours accompagné. Peut-être ne l'a-t-il pas encore remarqué.\n\nS'il y a quelqu'un qui peut atteindre le bout du chemin et saisir fermement la réponse, c'est bien Ming Jing.",
+  "like": "Cuisiner, organiser et déguster du thé",
+  "dislike": "Un plan qui se déroule sans accroc, expliquer la théorie des arts martiaux.",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 14,
+  "charge": 12,
+  "skills": [
+    {
+      "id": "GA_FPlayerZekeMelee_Melee_name",
+      "name": "Résistance",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, utilisez l'attaque normale pour lancer 5 attaques consécutives.\nTant que le <b>Totem de Xuanwu</b> est actif, après que la cinquième attaque de Résistance a touché sa cible, une morsure de serpent supplémentaire est infligée à la cible verrouillée.\nPremière attaque : inflige des dégâts équivalant à <b>131.6%</b> de l'ATQ + <b>7</b> et repousse la cible.\nDeuxième attaque : inflige des dégâts équivalant à <b>186.8%</b> de l'ATQ + <b>10</b> et repousse la cible.\nTroisième attaque : inflige des dégâts équivalant à <b>201.6%</b> de l'ATQ + <b>11</b> et repousse la cible.\nQuatrième attaque : inflige des dégâts équivalant à <b>238%</b> de l'ATQ + <b>13</b> et suspend la cible.\nCinquième attaque : inflige des dégâts équivalant à <b>378%</b> de l'ATQ + <b>20</b> et projette la cible."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_AirAttack_name",
+      "name": "Pierre volante",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour lancer 5 attaques consécutives en consommant de l'endurance.\nPremière attaque : inflige des dégâts équivalant à <b>112.8%</b> de l'ATQ + <b>6</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>168%</b> de l'ATQ + <b>9</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>164.2%</b> de l'ATQ + <b>9</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>140.2%</b> de l'ATQ + <b>7</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>228%</b> de l'ATQ + <b>12</b>."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch_name",
+      "name": "Âme d'Outrerive",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lors de l'utilisation d'attaque normale au sol, appuyez et maintenez Attaque normale lors de l'utilisation des quatre premières attaques normales pour déclencher Âme d'Outrerive.\nProjetez votre arme vers l'avant pour infliger des dégâts équivalant à <b>212.4%</b> de l'ATQ + <b>11</b> aux cibles proches."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch1_name",
+      "name": "Montagne effondrée",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, appuyez et maintenez Attaque normale pour déclencher Montagne effondrée.\nAvancez continuellement tout en attaquant et en consommant de l'endurance, infligeant des dégâts égaux à <b>240%</b> de l'ATQ + <b>13</b> aux cibles proches."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_JumpAttack_name",
+      "name": "En continuité",
+      "type": [
+        "Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale dans les airs (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher En continuité.\nPlongez et infligez des dégâts équivalant à <b>204%</b> de l'ATQ + <b>11</b> aux cibles proches une fois au sol."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Evade_name",
+      "name": "Esquiver",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_ForwardAttack_name",
+      "name": "Éclaircie",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez sur Attaque normale rapidement après une esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Éclaircie, qui inflige des dégâts équivalant à <b>60%</b> de l'ATQ + <b>3</b> aux cibles proches.\nTant que le <b>Totem de Xuanwu</b> est actif, chaque fois qu'Éclaircie touche une cible, une morsure de serpent supplémentaire est infligée à la cible verrouillée."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_BackAttack_name",
+      "name": "Sables tranchants",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Sables tranchants, libérant une aura d'épée et infligeant des dégâts équivalant à <b>125%</b> de l'ATQ + <b>7</b> aux cibles en vue.\nTant que le <b>Totem de Xuanwu</b> est actif, chaque fois que Sables tranchants touche une cible, une morsure de serpent supplémentaire est infligée à la cible verrouillée."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Spec_name",
+      "name": "Observation",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale après une esquive pour déclencher Observation (non disponible en Ligue ultime).\nAprès la fin de l'invocation du <b>Totem de Xuanwu</b> de <b>Ravin absolu</b>, utilisez Observation pour pénétrer dans le <b>Royaume altruiste</b> pendant <b>25</b> secondes et gagner <b>3</b> <b>Taillades obscures</b>.\nAprès la première attaque d'esquive ou normale de <b>Tortue d'onyx</b>, déclenche une <b>Taillade obscure</b>. Si la cible est un ennemi commun ou d'élite et que ses PV actuels ne dépassent pas plus de <b>350 000</b> fois l'ATQ de base de l'Explorateur, la cible sera immédiatement exécutée. Sinon, elle recevra des dégâts équivalant à <b>3 000%</b> de l'ATQ.\n<b>Royaume altruiste</b> prend fin lorsque sa durée est écoulée, que le compteur de <b>Taillades obscures</b> est épuisé ou en changeant d'arme. <b>Royaume altruiste</b> ne peut être déclenché qu'une fois toutes les <b>200</b> secondes."
+    },
+    {
+      "id": "GA_FPlayerZekeSkill_Skill_name",
+      "name": "Ravin absolu",
+      "type": [
+        "Skill"
+      ],
+      "description": "Fend le sol vers l'avant, confère une invincibilité temporaire (non disponible en Ligue ultime) et attire les cibles proches, infligeant des dégâts équivalant à <b>806%</b> de l'ATQ + <b>42</b>. Temps de recharge : <b>20</b> secondes. Accroît les dégâts physiques de l'Explorateur de <b>30%</b> pendant <b>30</b> secondes et invoque le Totem de Xuanwu. Le Totem de Xuanwu disparaît en état hors combat.\nLe Totem de Xuanwu invoque des âmes sombres depuis les quatre noyaux de formation toutes les <b>0,6</b> seconde, infligeant chaque fois des dégâts équivalant à <b>100%</b> de l'ATQ aux cibles sur son chemin. Lorsque Ravin absolu est en cours de recharge, confère la nouvelle compétence <b>Reflet du miroir</b> : repousse les âmes sombres proches et active les noyaux de formation correspondants. Après l'activation d'un noyau de formation, le Totem de Xuanwu sera achevé et vous pourrez pénétrer dans le <b>Royaume altruiste</b>.\n\nTant que le Totem de Xuanwu est actif, utilisez <b>Tortue d'onyx</b> pour gagner Hypercorps et des morsures de serpent pourront être appliquées comme suit :\nLorsque <b>Ravin absolu</b> touche sa cible, applique une morsure de serpent à la cible ayant les PV les plus élevés.\nLorsque la cinquième attaque de <b>Résistance</b> touche sa dernière cible, applique une morsure de serpent à la cible verrouillée.\nLorsqu'<b>Éclaircie</b> touche sa cible, applique une morsure de serpent à la cible verrouillée.\nLorsque <b>Sables tranchants</b> touche sa cible, applique une morsure de serpent à la cible verrouillée.\nLa morsure de serpent inflige des dégâts dévorants équivalant à <b>300%</b> de l'ATQ à la cible, restaure <b>12%</b> des PV max de l'Explorateur et transforme la cible en membre de la Chaîne serpentine.\n\nLa Chaîne serpentine peut transférer <b>30%</b> des dégâts réels infligés par l'arme dans l'emplacement principal de l'Explorateur au membre de la Chaîne serpentine verrouillé et provoquer des <b>blessures graves</b> à tous les membres de la Chaîne serpentine (y compris la cible). La Chaîne serpentine peut contenir jusqu'à <b>4</b> membres.\nLe type d'élément des dégâts de conduction correspond aux dégâts d'origine et ne peut pas être conduit à nouveau. Les dégâts de conduction totaux ne peuvent pas dépasser <b>14 000</b> fois l'ATQ maximale de l'Explorateur dans un délai de <b>30</b> secondes (illimité en jeu en équipe). Les dégâts de <b>Taillades obscures</b> ne peuvent pas être conduits.\nAprès l'utilisation de <b>Ravin absolu</b>, l'Explorateur peut aussi déclencher <b>Vent puissant</b> : les membres de la Chaîne serpentine infligent des dégâts dévorants équivalant à <b>35%</b> de l'ATQ aux cibles proches (y compris la cible elle-même) et réinitialisent le compteur de dégâts dévorants."
+    },
+    {
+      "id": "GA_FPlayerZekeChangeSkill_name",
+      "name": "Chemin du retour",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, <b>élimine toutes les altérations sur l'Explorateur</b> et invoque Xuanwu, infligeant des dégâts de zone équivalant à <b>681.2%</b> de l'ATQ + <b>36</b> à toutes les cibles proches. Durant cette période, accorde une immunité aux dégâts pendant <b>2,6</b> secondes (non disponible en Ligue ultime)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Feu",
+    "description": "Lorsque l'arme est complètement chargée, la prochaine attaque embrasera la cible pendant <b>8</b> secondes, infligeant des dégâts équivalant à <b>{3}%</b> de l'ATQ chaque seconde. L'efficacité des soins des cibles embrasées est réduite de <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Fracture du bouclier : Détachement",
+    "description": "<b>Résonance physique</b> : Accroît l'ATQ physique de <b>20%</b> et la résistance physique de <b>40%</b>. S'active en équipant au moins <b>2</b> armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance physique et de Réaction physique, et Résonance physique prévaut.\n<b>Fracture du bouclier : Détachement</b> : Après avoir utilisé <b>Ravin absolu</b>, inflige chaque seconde des dégâts équivalant à <b>{1}%</b> de l'ATQ physique + <b>{2}%</b> des PV max de l'Explorateur + <b>{3}%</b> de la somme de tous les types de résistance de l'Explorateur + <b>{4}%</b> de crit pendant <b>{0}</b> secondes. Les dégâts de Détachement multiple ne se cumulent pas et les dégâts de fracture du bouclier sont comptabilisés comme des dégâts de la compétence. Si <b>1</b> arme de foudre, de feu ou de givre est équipée, les dégâts de fracture du bouclier sont multipliés par <b>{5}</b>. Par ailleurs, les dégâts de fracture du bouclier ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire."
+  },
+  "advancement": [
+    "Chaque fois qu'une <b>blessure grave</b> est appliquée, inflige des dégâts <b>dévorants</b> équivalant à <b>100%</b> de l'ATQ à la cible. Cet effet ne peut être déclenché qu'une fois toutes les <b>0,5</b> seconde.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Après avoir déclenché <b>Vent puissant</b>, transforme les cibles touchées en membres de la <b>Chaîne serpentine</b>.",
+    "Accroît de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Après l'utilisation de <b>Ravin absolu</b>, réduit les dégâts subis par l'Explorateur de <b>10%</b> (<b>20%</b> en jeu en solo) pendant <b>30</b> secondes.",
+    "La présence de plus d'<b>1</b> membre de la <b>Chaîne serpentine</b> accroît le taux de conduction des dégâts de <b>conduction</b> de <b>80%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Accroît les dégâts finaux de <b>{0}%</b>.\nL'ATQ physique basique de l'Explorateur passe à la valeur la plus élevée parmi son ATQ physique, de feu, de givre ou de foudre de base. Lorsque <b>Tortue d'onyx</b> est équipée dans l'emplacement d'arme principal, les dégâts des attaques normales augmentent de <b>{1}%</b>.",
+      "values": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "",
+      "description": "Accroît les dégâts finaux de <b>{0}%</b>.\nL'ATQ physique basique de l'Explorateur passe à la valeur la plus élevée parmi son ATQ physique, de feu, de givre ou de foudre de base. Lorsque <b>Tortue d'onyx</b> est équipée dans l'emplacement d'arme principal, les dégâts des attaques normales augmentent de <b>{1}%</b>.",
+      "values": [
+        15,
+        50
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Cadre d'amplification II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

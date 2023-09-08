@@ -1,0 +1,34 @@
+{
+  "_id": 33,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "suitName": "Perdición en el Corazón",
+  "hash": "SSR34",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta el límite de integrantes de la Cadena de Serpiente a <b>5</b>. Cuando se equipa al menos <b>1</b> arma física, aumenta el ATQ físico un 14%/16%/18%/20%. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
+    },
+    {
+      "count": 4,
+      "value": "Tras aplicar el efecto de mordida de serpiente, aumenta el ATQ físico un 9% por 30 seg. Funciona en la ranura secundaria. Mientras estás en estado de combate, aumenta el daño final un 14%/17%/20%/23%."
+    }
+  ],
+  "mind": {
+    "name": "Infusionado en Té",
+    "desc": "Pensamientos profundos enterrados en una fragancia contundente."
+  },
+  "memory": {
+    "name": "Hoja en Blanco",
+    "desc": "En medio de la niebla, hay algo a lo que hay que aferrarse con fuerza, no sea que desaparezca una vez más."
+  },
+  "belief": {
+    "name": "Reconstruyendo",
+    "desc": "Recoger los pedazos es el primer paso para recomponer las cosas."
+  },
+  "emotion": {
+    "name": "Pasión",
+    "desc": "Pensamientos quemados enmascarados en una expresión vacía."
+  }
+}

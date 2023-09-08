@@ -7,6 +7,7 @@ import {
   formatDescription,
   slugify,
   safeGetTmap,
+  _ENtextMap,
 } from '../utils.mjs';
 import { allItemsMap } from './generateItems.mjs';
 
@@ -40,10 +41,7 @@ export async function main(textMap, locale) {
     const data = {
       _id: simulacra._id || allCharacters.length + 1,
       id: simulacra.id,
-      name:
-        textMap['ST_Imitationtest'][simulacra._locid + '_EN'] ??
-        textMap['ST_Imitationtest'][simulacra._locid + '_CN'] ??
-        textMap['QRSLCommon_ST'][simulacra._name],
+      name: getName(simulacra, textMap),
       weapon: textMap['ST_Imitationtest'][simulacra._locid + '_chenghao'],
       weapon_id: slugify(simulacra.weapon),
       birthday: textMap['ST_Imitationtest'][simulacra._locid + '_birthday'],
@@ -72,6 +70,7 @@ export async function main(textMap, locale) {
       shatter: simulacra.shatter,
       charge: simulacra.charge,
       skills: simulacra.skills.map((skill) => ({
+        id: skill.name,
         name: formatDescription(safeGetTmap(textMap, 'SkillDes', skill.name)),
         type: skill.type,
         description: formatDescription(
@@ -183,4 +182,15 @@ export async function main(textMap, locale) {
     await fs.writeFile(filePath, JSON.stringify(data, undefined, 2));
     allCharacters.push(data);
   }
+}
+
+function getName(simulacra, textMap) {
+  return (
+    (textMap['ST_Imitationtest'][simulacra._locid + '_EN'] ??
+      textMap['ST_Imitationtest'][simulacra._locid + '_CN'] ??
+      textMap['QRSLCommon_ST'][simulacra._name]) ||
+    (_ENtextMap['ST_Imitationtest'][simulacra._locid + '_EN'] ??
+      _ENtextMap['ST_Imitationtest'][simulacra._locid + '_CN'] ??
+      _ENtextMap['QRSLCommon_ST'][simulacra._name])
+  );
 }

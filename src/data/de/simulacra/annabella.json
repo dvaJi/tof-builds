@@ -1,0 +1,313 @@
+{
+  "_id": 1026,
+  "id": "annabella",
+  "name": "Annabella",
+  "weapon": "Klee-Kreuz",
+  "weapon_id": "clover_cross",
+  "birthday": "28. April",
+  "birthplace": "Unbekannt",
+  "gender": "Weiblich",
+  "info": "Ein klassisches Dienstmädchen, das ruhig, gefasst, gelassen und elegant ist und alle möglichen Notfälle meistert … oder zumindest sollte das so sein. Sie hat die Angewohnheit, für jede noch so kleine Angelegenheit einen direkten Befehl von ihrem „Meister“ zu brauchen, bevor sie sich darum kümmert, und bei jedem Schritt Bericht zu erstatten. Ihre Unfähigkeit, Entscheidungen zu treffen, ist ihre größte Schwäche, was zu einer unangenehmen „Verzögerung“ bei tatsächlichen Einsätzen führt. Und obwohl sie immer höflich und zuvorkommend ist, mischt sie manchmal ziemlich derbe Ausdrücke in ihre sonst so bescheidene Ausdrucksweise … ",
+  "description": "Sie ist eine der sieben Großstadtlegenden im anonymen Forum von Mirroria – das blutrote Vampir-Dienstmädchen, das in der Unterstadt lauert …\nUm sich ihren Lebensunterhalt zu verdienen, hat das geheimnisvolle Mädchen wohl einige Teilzeitjobs angenommen, unter anderem als Leibwache. Da sie nicht wirklich ungewöhnlich erscheint, hat sich diese Großstadtlegende als Klatsch herausgestellt, der übertrieben aufgebauscht wurde.\nSie selbst besteht darauf, dass sie nicht mehr ist als eine Dienerin, die ihren Job macht und die Befehle ihres „Meisters“ am anderen Ende des Kommunikators befolgt. Die Identität dieses „Meisters“ bleibt jedoch ein Geheimnis.\nDennoch ähnelt sie in mancher Hinsicht einem Vampir … aber vermutlich ist sie ein ganz normaler Mensch, der gut in Shooter-Spielen ist und ein bisschen komisch redet …\n",
+  "like": "Ihren „Meister“, Befehle genauestens befolgen",
+  "dislike": "Zu viele Gewürze, Diskussionen über Fantasiewesen",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 9,
+  "skills": [
+    {
+      "id": "GA_FPlayerSnipeMelee_Melee_name",
+      "name": "Normaler Angriff",
+      "type": [
+        "Attack"
+      ],
+      "description": "Greift am Boden 3-mal hintereinander mit dem Scharfschützengewehr an.\nErster Angriff: Verursacht Schaden in Höhe von <b>44.2%</b> des ANG +<b>2</b> und stößt das Ziel zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>84.4%</b> des ANG +<b>4</b> und stößt das Ziel zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>176.9%</b> des ANG +<b>9</b> und schleudert das Ziel hoch."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_PowerAttack_name",
+      "name": "Kreuzschuss",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Verursacht Grundschaden in Höhe von <b>26.1%</b> des ANG +<b>1</b>. Verursacht nach dem Laden Schaden in Höhe von bis zu <b>180.4%</b> des ANG +<b>9</b>. Verursacht doppelten Schaden, wenn ein Kopfschuss erzielt oder die Schwachstelle eines Gegners getroffen wird, und schleudert das Ziel hoch (Kopfschüsse sind gegen Wanderer unwirksam).\n<b>Passiv:</b> Stellt <b>300</b> Waffenladung wieder her, wenn „Kreuzschuss“ ein brennendes Ziel trifft oder einen krit. Treffer erzielt. Abklingzeit: <b>15</b> Sek.\n<b>Passiv:</b> Die Geschwindigkeit wird für <b>3</b> Sek. um <b>30%</b> erhöht, nachdem „Kreuzschuss“ eingesetzt wurde."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_Branch_name",
+      "name": "Brodelndes Rauschen",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff nach einem beliebigen normalen Angriff, um ein Laser-Projektil abzufeuern, das bei Kontakt mit dem Ziel explodiert. Dies fügt Zielen in Reichweite Schaden in Höhe von bis zu <b>150%</b> des ANG +<b>8</b> zu und lässt sie schweben."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_AirAttack_name",
+      "name": "Luftsprengung",
+      "type": [
+        "Attack"
+      ],
+      "description": "Setze in der Luft einen normalen Angriff ein, um 3-mal hintereinander in der Luft anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>47.6%</b> des ANG +<b>3</b> und stößt das Ziel zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>90.9%</b> des ANG +<b>5</b> und stößt das Ziel zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>190.5%</b> des ANG +<b>10</b> und schleudert das Ziel hoch."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_EvadeAttack_name",
+      "name": "Dämmerungsbogen",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Springt zurück und wirft 1 Granate nach vorne, die beim Aufprall auf den Boden detoniert, Zielen Schaden in Höhe von bis zu <b>37%</b> des ANG +<b>2</b> zufügt und sie schweben lässt.\n<b>Passiv:</b> Führe einen normalen Angriff aus, nachdem „Dämmerungsbogen“ eingesetzt wurde, um sofort einen voll aufgeladenen „Kreuzschuss“ abzufeuern."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_Evade_name",
+      "name": "Ausweichen",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für <b>0,5</b> Sek. Immunität gegen Trefferlähmung."
+    },
+    {
+      "id": "GA_FPlayerSnipeSkill_Skill_des",
+      "name": "Glutmagazin",
+      "type": [
+        "Skill"
+      ],
+      "description": "Wechsle Module aus, um die Effekte von „Kreuzschuss“ und „Dämmerungsbogen“ umzuwandeln. „Kreuzschuss“ kann bis zu <b>8</b>-mal benutzt werden. Abklingzeit: <b>14</b> Sek.\n<b>Rücksichtslose Bombe</b>: Der Effekt von „Kreuzschuss“ wird zur feurigen Explosion, die in einem bestimmten Gebiet Grundschaden in Höhe von <b>27.3%</b> des ANG +<b>1</b> und nach dem Aufladen bis zu <b>188.6%</b> des ANG +<b>10</b> verursacht. Treffer gegen Ziele, die nicht brennen, fügen ihnen „Kreuzbrand“ zu, wodurch sie <b>13</b> Sek. lang pro Sek. Schaden in Höhe von <b>120%</b> des ANG erleiden. Treffer gegen brennende Ziele fügen ihnen ebenso „Kreuzbrand“ zu und gewähren für <b>20</b> Sek. Brandverbesserung, wodurch der von Zielen erlittene Brandschaden um <b>20%</b> erhöht wird. Beim Einsatz von „Dämmerungsbogen“ wirfst du nun stattdessen <b>3</b> Granaten.\n<b>Hinterlistige Bombe</b>: Wandelt den Effekt von „Kreuzschuss“ zum Fernkampf-Gasangriff um, der Grundschaden <b>42.6%</b> des ANG +<b>2</b> und nach dem Aufladen <b>294.1%</b> des ANG +<b>15</b> verursacht. Das Gas hält <b>7</b> Sek. an und Ziele darin werden verlangsamt. Der Verlangsamungseffekt wird im Lauf der Zeit immer stärker. „Dämmerungsbogen“ bringt das Gas zum Explodieren (je länger aufgeladen wird, desto höher der Gasexplosionsschaden), verursacht so Explosionsschaden in Höhe von <b>316.2%</b> des ANG +<b>17</b> (wird als 1 Auslösung von „Kreuzschuss“ gewertet) und verringert den Flammenwiderstand des Ziels für <b>10</b> Sek. um <b>10%</b>.\n\n<b>Passiv</b>: Nach der Bestätigung des Moduls erhältst du mehrere Aufladungen „Sichtverbesserung“, die deiner Anzahl an Ausweichversuchen entsprechen. Sichtverbesserung: Verringert die Aufladezeit von „Kreuzschuss“ um <b>30%</b> und gewährt während des Aufladens Immunität gegen Kontrolleffekte. Jedes <b>2.</b> Ausweichen stellt <b>1</b> Ausweichversuch wieder her (bis zu <b>4</b> Ausweichversuche).\n<b>Passiv</b>: Während das Modul „Hinterlistige Bombe“ aktiv ist, haben Treffer mit „Kreuzschuss“ eine Chance, die Abklingzeit anderer Flammenwaffen um <b>0,7</b> Sek. zu verringern."
+    },
+    {
+      "id": "GA_FPlayerSnipeChangeSkill_Success_name",
+      "name": "Sperrfeuer-Befehl",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b> und es wird eine Brandbombe geworfen, die durch Beschuss detoniert werden kann, was Zielen im Wirkbereich Schaden in Höhe von bis zu <b>765.4%</b> des ANG + <b>40</b> zufügt und sie <b>länger schweben lässt</b>. Während diese Fähigkeit aktiv ist, hält die Schadensimmunität <b>2,6</b> Sek. lang an (nicht in der Apex-Liga verfügbar)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flamme",
+    "description": "Wenn die Waffe voll geladen ist, entzündet sie das Ziel beim nächsten Angriff für <b>8</b> Sek. und verursacht jede Sekunde Schaden in Höhe von <b>{3}%</b> des ANG. Während Ziele entzündet sind, werden ihre Heileffekte um <b>50%</b> verringert."
+  },
+  "weapon_resonance": {
+    "name": "Flammenreaktion",
+    "description": "<b>Flammenreaktion</b>: Erhöht den Flammen-ANG um <b>20%</b> und den Flammenwiderstand um <b>40%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird."
+  },
+  "advancement": [
+    "Wird ein Ziel <b>2</b>-mal mit „Kreuzschuss“ getroffen, wird ein <b>optischer Raum</b> erschaffen, der für <b>12</b> Sek. am Zielort besteht. Hat ein Gegner im optischen Raum die Verbrennen-Mechanik ausgelöst, werden <b>2</b> weitere Instanzen der Verbrennen-Mechanik ausgelöst. Wenn ein Gegner den optischen Raum verlässt, wird seine Geschwindigkeit <b>2,5</b> Sek. lang um <b>80%</b> verringert. Abklingzeit: <b>12</b> Sek.\nZiele von „Kreuzschuss“ geraten <b>1,5</b> Sek. lang in Panik (reduziert die Geschwindigkeit um <b>80%</b>). Abklingzeit: <b>4</b> Sek.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Stelle jedes Mal, wenn „Kreuzschuss“ einen krit. Treffer landet, LP in Höhe von <b>50%</b> des verursachten Schadens wieder her (kann <b>15%</b> der eigenen max. LP nicht überschreiten) und erhalte <b>50</b> Waffenladung.\nJeder Stapel von „Ruhiges Herz“ erhöht die endgültige krit. Trefferrate auf <b>9%</b> bis zum Maximalwert von <b>27%</b> und wandelt bis zu <b>13,5%</b> des krit. Schadens um.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "<b>Rücksichtslose Bombe</b> Verbesserung: Im Brandverbesserungszustand wird der Brandschaden an Zielen auf <b>30%</b> erhöht.\n<b>Hinterlistige Bombe</b> Verbesserung: Schaden durch eine Gasexplosion ignoriert <b>30%</b> des Flammenwiderstands des Ziels.",
+    "Erhöht den von „Kreuzschuss“ verursachten Schaden um zusätzliche <b>20%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Pro <b>1</b> Gegner, der von „Gasexplosion“ getroffen wird, wird der Schaden von „Klee-Kreuz“ für <b>{1}</b> Sek. um <b>{0}%</b> erhöht. Kann bis zu <b>2</b>-mal gestapelt werden.",
+      "values": [
+        8,
+        20
+      ]
+    },
+    {
+      "name": "",
+      "description": "Pro <b>1</b> Gegner, der von „Gasexplosion“ getroffen wird, wird der Schaden von „Klee-Kreuz“ für <b>{1}</b> Sek. um <b>{0}%</b> erhöht. Kann bis zu <b>2</b>-mal gestapelt werden.",
+      "values": [
+        15,
+        20
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

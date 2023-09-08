@@ -19,6 +19,7 @@
   "charge": 13,
   "skills": [
     {
+      "id": "GA_FPlayerCubeMelee_Melee_name",
       "name": "Attaque normale",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, manipulez le cube pour attaquer 5 fois de suite.\nPremière attaque : infligez des dégâts équivalant à <b>46.7%</b> de l'ATQ + <b>2</b>.\nDeuxième attaque : infligez des dégâts équivalant à <b>38.2%</b> de l'ATQ + <b>2</b>.\nTroisième attaque : infligez des dégâts équivalant à <b>118.5%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : infligez des dégâts équivalant à <b>79.6%</b> de l'ATQ + <b>4</b>.\nCinquième attaque : infligez des dégâts équivalant à <b>80.9%</b> de l'ATQ + <b>4</b> jusqu'à 3 fois et vous <b>projetez</b> la cible.\n<b>Effet passif : si les attaques normales touchent 6 fois la cible, vous obtenez 1 cube. Vous pouvez garder 5 cubes max.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_AirAttack_name",
       "name": "Missile d'omnium",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Utilisez l'attaque normale lorsque vous êtes dans les airs pour activer l'énergie contenue dans le cube et tirer jusqu'à <b>5</b> missiles infligeant des dégâts équivalant à <b>59.3%</b> de l'ATQ + <b>3</b>. Consomme jusqu'à <b>250</b> d'endurance.\n<b>Effet passif : si l'Explorateur a des cubes en stock, consomme tous les cubes pour tirer des missiles d'omnium sur les cibles et leur infliger des dégâts.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_JumpAttack_name",
       "name": "Débordement d'énergie",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour déclencher Débordement d'énergie.\nÀ l'atterrissage, vous envoyez une onde de choc qui fonce vers l'avant et inflige des dégâts jusqu'à <b>23.4%</b> de l'ATQ + <b>1</b> aux cibles qui se trouvent sur sa route."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Branch_name",
       "name": "Choc d'omnium",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "À la troisième attaque normale, maintenez Attaque normale pour déclencher Choc d'omnium.\nUn pilier d'énergie projette les cibles proches dans les airs et inflige des dégâts correspondant à <b>68.4%</b> de l'ATQ + <b>4</b>. Le pilier dure 5 secondes et inflige des dégâts correspondant à <b>28.5%</b> de l'ATQ + <b>2</b> toutes les secondes aux cibles proches."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas1_name",
       "name": "Sentinelle d'énergie",
       "type": [
         "Passive"
@@ -57,6 +62,7 @@
       "description": "Les cubes qui orbitent autour de l'Explorateur infligent des dégâts équivalant à <b>9.7%</b> de l'ATQ + <b>1</b> aux ennemis."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas2_name",
       "name": "Missile d'énergie",
       "type": [
         "Passive"
@@ -64,6 +70,7 @@
       "description": "Lorsque l'Explorateur lance Missile d'omnium et Débordement d'énergie, les cubes qui orbitent autour de lui sont également lancés et infligent des dégâts équivalant à <b>48.5%</b> de l'ATQ + <b>3</b> à la cible."
     },
     {
+      "id": "GA_FPlayerCubeEvade_Evade_name",
       "name": "Élan d'âme",
       "type": [
         "Dodge"
@@ -71,6 +78,7 @@
       "description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant <b>0,5</b> seconde.\nSi l'Explorateur a moins de <b>5</b> cubes, chaque esquive réussie a <b>40%</b> de chances de restaurer 1 tentative d'esquive.\nLes esquives réussies n'interrompent pas les combos d'attaques normales.\n<b>Effet passif : Confère un cube pour chaque esquive aérienne réussie.</b>"
     },
     {
+      "id": "GA_FPlayerCubeSkill_name",
       "name": "Bouclier à omnium",
       "type": [
         "Skill"
@@ -78,11 +86,12 @@
       "description": "Crée un bouclier pour vous-même et pour les alliés proches qui bloque des dégâts allant jusqu'à <b>800%</b> de l'ATQ pendant <b>10</b> secondes, inflige des dégâts équivalant à <b>124.9%</b> de l'ATQ + <b>8</b> aux cibles proches et les <b>projette fortement</b>. Chaque cube en votre possession au moment où cette compétence est utilisée ajoute <b>160%</b> de l'ATQ à la protection et à la durée maximales du cube. Temps de recharge : <b>60</b> secondes."
     },
     {
+      "id": "GA_FPlayerCubeChangeSkill_Success_name",
       "name": "Vague d'omnium",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>supprime toutes les altérations sur le porteur</b> et confère <b>5</b> cubes, puis déchaîne ces <b>5</b> cubes avec une Onde de choc. Cette Onde de choc inflige aux cibles proches des dégâts équivalant à <b>171%</b> de l'ATQ + <b>9</b> et les <b>projette fortement</b> dans les airs. De plus, chaque cube inflige des dégâts équivalant à <b>48.5%</b> de l'ATQ + <b>3</b>. Si des alliés sont proches, ces derniers et le porteur gagnent une immunité aux dégâts pendant <b>3</b> secondes."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>supprime toutes les altérations sur l'Explorateur</b> et confère <b>5</b> cubes, puis déchaîne ces <b>5</b> cubes avec une Onde de choc. Cette Onde de choc inflige aux cibles proches des dégâts équivalant à <b>171%</b> de l'ATQ + <b>9</b> et les <b>projette fortement</b> dans les airs. De plus, chaque cube inflige des dégâts équivalant à <b>48.5%</b> de l'ATQ + <b>3</b>. Si des alliés sont proches, ces derniers et le porteur gagnent une immunité aux dégâts pendant <b>3</b> secondes."
     }
   ],
   "weapon_type": {

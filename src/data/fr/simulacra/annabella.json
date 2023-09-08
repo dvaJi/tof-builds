@@ -1,0 +1,313 @@
+{
+  "_id": 1026,
+  "id": "annabella",
+  "name": "Annabella",
+  "weapon": "Croix de trèfle",
+  "weapon_id": "clover_cross",
+  "birthday": "28 avril",
+  "birthplace": "Inconnu",
+  "gender": "Féminin",
+  "info": "Une servante classique, calme, posée, élégante et capable de gérer toutes sortes d'urgences… ou du moins, qui est censée l'être. Elle a tendance à avoir besoin d'un ordre direct de son \"Maître\" pour la moindre de ses actions avant de les exécuter, tout en lui faisant un rapport à chaque étape. Son incapacité à prendre la moindre décision est sa plus grande faiblesse, ce qui entraîne un certain \"décalage\" dans ses interventions. De plus, bien qu'elle soit toujours polie et courtoise, elle utilise curieusement parfois un langage assez grossier avec son ton humble habituel… ",
+  "description": "Le forum anonyme de Mirroria mentionne sept grandes légendes urbaines et la servante vampire écarlate rôdant dans la ville basse est l'une d'entre elles.\nCette mystérieuse jeune fille cumule en réalité les petits boulots, notamment de garde du corps, pour gagner sa vie. Rien d'étonnant à ce que cette légende urbaine se soit révélée être un vulgaire ragot déformé par le bouche-à-oreille.\nElle-même insiste sur le fait qu'elle n'est qu'une servante qui effectue son travail et suit les ordres de son \"Maître\" à l'autre bout du transmetteur. L'identité de ce \"Maître\", cependant, demeure un mystère.\nCela dit, elle évoque un vampire à certains égards… mais ce n'est sans doute qu'une personne ordinaire, douée aux jeux de tir et parlant un peu bizarrement…\n",
+  "like": "Son \"Maître\", suivre des ordres à la lettre",
+  "dislike": "Trop d'assaisonnement, les sujets concernant les créatures fantastiques",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 9,
+  "skills": [
+    {
+      "id": "GA_FPlayerSnipeMelee_Melee_name",
+      "name": "Attaque normale",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes au sol, attaquez 3 fois de suite avec le fusil de précision.\nPremière attaque : inflige des dégâts équivalant à <b>44.2%</b> de l'ATQ + <b>2</b> et repousse la cible.\nDeuxième attaque : inflige des dégâts équivalant à <b>84.4%</b> de l'ATQ + <b>4</b> et repousse la cible.\nTroisième attaque : inflige des dégâts équivalant à <b>176.9%</b> de l'ATQ + <b>9</b> et projette la cible."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_PowerAttack_name",
+      "name": "Tir croisé de sniper",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Appuyez et maintenez Attaque normale pour charger une attaque. Vous infligez des dégâts de base équivalant à <b>26.1%</b> de l'ATQ + <b>1</b>. Une fois l'arme chargée, inflige des dégâts équivalant au maximum à <b>180.4%</b> de l'ATQ + <b>9</b>. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi, et projetez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs).\n<b>Effet passif :</b> restaure <b>300</b> de recharge d'arme quand Tir croisé de sniper touche une cible affectée par un effet de brûlure ou inflige un coup critique. Temps de recharge : <b>15</b> secondes.\n<b>Effet passif :</b> accroît la vitesse de <b>30%</b> pendant <b>3</b> secondes après avoir utilisé Tir croisé de sniper."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_Branch_name",
+      "name": "Bruit bouillant",
+      "type": [
+        "Attack"
+      ],
+      "description": "Après une attaque normale, appuyez et maintenez Attaque normale pour tirer un projectile laser qui explose en touchant la cible, infligeant des dégâts équivalant au maximum à <b>150%</b> de l'ATQ + <b>8</b> aux cibles à portée. Suspend les cibles."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_AirAttack_name",
+      "name": "Décharge aérienne",
+      "type": [
+        "Attack"
+      ],
+      "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 3 fois de suite en l'air.\nPremière attaque : inflige des dégâts équivalant à <b>47.6%</b> de l'ATQ + <b>3</b> et repousse la cible.\nDeuxième attaque : inflige des dégâts équivalant à <b>90.9%</b> de l'ATQ + <b>5</b> et repousse la cible.\nTroisième attaque : inflige des dégâts équivalant à <b>190.5%</b> de l'ATQ + <b>10</b> et projette la cible."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_EvadeAttack_name",
+      "name": "Arc du crépuscule",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Bondissez vers l'arrière et lancez 1 grenade vers l'avant qui explose en touchant le sol, infligeant des dégâts équivalant au maximum à <b>37%</b> de l'ATQ + <b>2</b> et suspendant les cibles dans les airs.\n<b>Effet passif :</b> après avoir utilisé Arc du crépuscule, utilisez l'attaque normale pour lancer instantanément un Tir croisé de sniper entièrement chargé."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_Evade_name",
+      "name": "Esquiver",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant <b>0,5</b> seconde."
+    },
+    {
+      "id": "GA_FPlayerSnipeSkill_Skill_des",
+      "name": "Chargeur de braise",
+      "type": [
+        "Skill"
+      ],
+      "description": "Changez de modules pour changer les effets de Tir croisé de sniper et Arc du crépuscule. Tir croisé de sniper peut être utilisé jusqu'à <b>8</b> fois. Temps de recharge de la compétence : <b>14</b> secondes.\n <b>Bombe sans pitié</b> : l'effet de Tir croisé de sniper devient une explosion de feu qui inflige des dégâts de base équivalant à <b>27.3%</b> de l'ATQ + <b>1</b> dans la zone. Une fois l'arme chargée, inflige des dégâts équivalant au maximum à <b>188.6%</b> de l'ATQ + <b>10</b>. Lorsque vous touchez des cibles qui ne sont pas affectées par l'effet de brûlure, vous leur infligez Brûlure croisée, qui inflige des dégâts équivalant à <b>120%</b> de l'ATQ chaque seconde pendant <b>13</b> secondes. Lorsque vous touchez des cibles qui sont affectées par l'effet de brûlure, vous leur infligez Brûlure croisée et entrez en état de Renforcement de brûlure pendant <b>20</b> secondes, ce qui augmente les dégâts de brûlure infligés de <b>20%</b>. En utilisant Arc du crépuscule, vous lancez désormais <b>3</b> grenades.\n<b>Bombe fourbe</b> : change les effets de Tir croisé de sniper pour une attaque de gaz à distance qui inflige des dégâts de base équivalant à <b>42.6%</b> de l'ATQ + <b>2</b> au contact. Une fois l'arme chargée, inflige jusqu'à <b>294.1%</b> de l'ATQ + <b>15</b>. Les cibles dans le nuage de gaz seront ralenties. Les effets de ralentissement augmentent au fil du temps, et le gaz dure <b>7</b> secondes. Arc du crépuscule peut faire exploser le gaz (plus le temps de charge est long, plus les dégâts d'explosion seront importants), infligeant des dégâts d'explosion équivalant au maximum à <b>316.2%</b> de l'ATQ + <b>17</b> (ceci est considéré comme ayant déclenché le Tir croisé de sniper 1 fois) et réduisant la résistance au feu de la cible de <b>10%</b> pendant <b>10</b> secondes.\n\n<b>Effet passif :</b> après avoir confirmé le module, vous obtiendrez une certaine quantité d'utilisations du Renforcement optique correspondant au nombre de tentatives d'esquive. Renforcement optique : réduit le temps de charge de Tir croisé de sniper de <b>30%</b> et devient immunisé aux effets de contrôle lors de la charge. Restaure <b>1</b> tentative d'esquive (jusqu'à <b>4</b> tentatives d'esquive) toutes les <b>2</b> esquives.\n<b>Effet passif :</b> lorsque le module Bombe fourbe est actif, Tir croisé de sniper a une chance de réduire le temps de recharge des autres compétences d'arme de feu de <b>0,7</b> seconde après avoir touché une cible."
+    },
+    {
+      "id": "GA_FPlayerSnipeChangeSkill_Success_name",
+      "name": "Commande de bombardement",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, au moment où vous changez d'arme pour utiliser celle-ci, <b>supprime toutes les altérations sur l'Explorateur</b> et lance une bombe incendiaire pouvant être détonée en tirant dessus, infligeant aux cibles dans la zone des dégâts équivalant jusqu'à <b>765.4%</b> de l'ATQ + <b>40</b> et les <b>suspendant longuement</b>. L'immunité aux dégâts dure <b>2,6</b> secondes quand la compétence est active (non disponible en Ligue ultime)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Feu",
+    "description": "Lorsque l'arme est complètement chargée, la prochaine attaque embrasera la cible pendant <b>8</b> secondes, infligeant des dégâts équivalant à <b>{3}%</b> de l'ATQ chaque seconde. L'efficacité des soins des cibles embrasées est réduite de <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Réaction de feu",
+    "description": "<b>Réaction de feu</b> : accroît l'ATQ de feu de <b>20%</b> et la résistance au feu de <b>40%</b>. Activez-la en équipant au moins <b>2</b> armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu ou de Réaction de feu, et Résonance de feu prévaut."
+  },
+  "advancement": [
+    "Toucher une cible <b>2</b> fois avec Tir croisé de sniper crée un <b>espace optique</b> pendant <b>12</b> secondes à l'emplacement ciblé. Quand un ennemi présent dans l'espace optique déclenche décompte de brûlure, décompte de brûlure sera déclenché <b>2</b> fois de plus. Quand une unité ennemie quitte un espace optique, sa vitesse est réduite de <b>80%</b> pendant <b>2,5</b> secondes. Temps de recharge : <b>12</b> secondes.\nLes cibles du Tir croisé de sniper seront terrifiées (vitesse réduite de <b>80%</b>) pendant <b>1,5</b> seconde. Temps de recharge : <b>4</b> secondes.",
+    "Accroît de <b>16%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Restaure un nombre de PV équivalant à <b>50%</b> des dégâts infligés à chaque fois que Tir croisé de sniper inflige un coup critique (sans dépasser <b>15%</b> de ses PV max) et <b>50</b> de recharge d'arme.\nChaque cumul de Cœur serein accroît le taux de crit final de <b>9%</b>, jusqu'à <b>27%</b>, et convertit jusqu'à <b>13,5%</b> des dégâts critiques.",
+    "Accroît de <b>32%</b> la croissance d'ATQ de base de l'arme actuelle.",
+    "Renforcement de <b>Bombe sans pitié</b> : en état de Renforcement de brûlure, accroît les dégâts de brûlure infligés aux cibles à <b>30%</b>.\nRenforcement de <b>Bombe fourbe</b> : les dégâts d'explosion de gaz ignorent <b>30%</b> de la résistance au feu de la cible.",
+    "Accroît les dégâts infligés de Tir croisé de sniper de <b>20%</b> supplémentaires."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Chaque fois qu'Explosion de gaz touche <b>1</b> ennemi, accroît les dégâts de Croix de trèfle de <b>{0}%</b> pendant <b>{1}</b> secondes. Cumulable jusqu'à <b>2</b> fois.",
+      "values": [
+        8,
+        20
+      ]
+    },
+    {
+      "name": "",
+      "description": "Chaque fois qu'Explosion de gaz touche <b>1</b> ennemi, accroît les dégâts de Croix de trèfle de <b>{0}%</b> pendant <b>{1}</b> secondes. Cumulable jusqu'à <b>2</b> fois.",
+      "values": [
+        15,
+        20
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorevêtement I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Vernis antiacide I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Cadre d'amplification I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Cadre d'amplification II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Cadre en nanofibres II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorevêtement II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

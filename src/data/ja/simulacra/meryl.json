@@ -17,6 +17,7 @@
   "charge": 4,
   "skills": [
     {
+      "id": "GA_FPlayerBigSwordMeleeIce_SSR_name",
       "name": "大剣通常攻撃",
       "type": [
         "Attack"
@@ -24,6 +25,7 @@
       "description": "地上にいる時、大剣を振るうと4回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\n1回目：攻撃力x<b>72.9%</b>+<b>4</b>のダメージと少しのノックバック\n2回目：攻撃力x<b>60.1%</b>+<b>3</b>のダメージと少しのノックバック\n3回目：攻撃力x<b>105.4%</b>+<b>6</b>のダメージと少しのノックバック\n4回目：攻撃力x<b>156%</b>+<b>8</b>のダメージを与えて<b>強制ノックアップ</b>し、地上に落ちてきた時にノックアップ"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "空中連撃",
       "type": [
         "Jump",
@@ -32,6 +34,7 @@
       "description": "滞空時または1段ジャンプ使用後、通常攻撃を行うと空中で4回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\n1回目：攻撃力x<b>106.5%</b>+<b>6</b>のダメージ\n2回目：攻撃力x<b>87.5%</b>+<b>5</b>のダメージ\n3回目：攻撃力x<b>156%</b>+<b>8</b>のダメージ\n4回目：攻撃力x<b>140.5%</b>+<b>7</b>のダメージを与えて<b>強制ノックダウン</b>し、地上に落ちてきた時にノックアップ"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Branch_name",
       "name": "跳躍斬",
       "type": [
         "Attack",
@@ -40,6 +43,7 @@
       "description": "3回目の通常攻撃の後、通常攻撃を長押しすると跳躍斬を発動できる\n命中するとターゲットを<b>強制浮遊</b>させ、合計で攻撃力x<b>64.3%</b>+<b>3</b>のダメージを与える"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_JumpAttack_name",
       "name": "落月斬",
       "type": [
         "Jump",
@@ -48,6 +52,7 @@
       "description": "落月斬"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_R_Sneak_name",
       "name": "奇襲",
       "type": [
         "Croch",
@@ -56,6 +61,7 @@
       "description": "しゃがんだ状態で敵の背後に近づき、通常攻撃を行うと、奇襲を発動できる。大剣で斬撃を繰り出し、ターゲットに攻撃力x<b>570%</b>+<b>30</b>のダメージを与える"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Power_name",
       "name": "旋風斬",
       "type": [
         "Hold: Attack"
@@ -63,6 +69,7 @@
       "description": "探索者が立っている状態または移動状態の時、通常攻撃を長押しすると旋風斬を発動でき、<b>0.5</b>秒ごとにターゲットに攻撃力x<b>132.8%</b>+<b>7</b>のダメージを与える。この間は行動制限と硬直無効"
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR_name",
       "name": "破斬",
       "type": [
         "Perfect Dodge",
@@ -71,6 +78,7 @@
       "description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、破斬を発動できる。\n破斬が命中したターゲットに攻撃力x<b>65.9%</b>+<b>3</b>のダメージを与え、ターゲットを<b>ノックアップ</b>する。"
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR_name",
       "name": "半月斬",
       "type": [
         "Dodge",
@@ -79,6 +87,7 @@
       "description": "回避後すぐに通常攻撃を行うと、半月斬を発動できる。\n大剣を振り回して剣気を前方に繰り出す。剣気1本につき攻撃力x<b>49.6%</b>+<b>3</b>のダメージを与える。"
     },
     {
+      "id": "GA_FPlayerBigSwordBigSkillIce_SSR_name",
       "name": "旋回斬",
       "type": [
         "Skill"
@@ -86,6 +95,7 @@
       "description": "大剣を連続して振り回し、前方の範囲に剣気を放って毎回攻撃力x<b>141.7%</b>+<b>7</b>のダメージを与える。剣気のダメージは毎回<b>5%</b>ずつアップする。発動中は行動制限無効、クールダウン<b>30</b>秒"
     },
     {
+      "id": "GA_FPlayerBigSwordChangeSkillIce_SSR_name",
       "name": "極寒の氷壁",
       "type": [
         "Discharge"

@@ -19,6 +19,7 @@
   "charge": 7,
   "skills": [
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
       "name": "Lançada",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>24.7%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>22.6%</b> do ATQ + <b>1</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>47.2%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>65.2%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuinto ataque: causa dano de <b>114.95%</b> do ATQ + <b>6</b> e repele o alvo uma distância significativa."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Ataque Suspenso",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>27.4%</b> do ATQ + <b>1</b>.\nSegundo ataque: causa dano de <b>23.2%</b> do ATQ + <b>1</b>.\nTerceiro ataque: causa dano de <b>45.8%</b> do ATQ + <b>2</b>.\nQuarto ataque: causa dano de <b>110%</b> do ATQ + <b>6</b>."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
       "name": "Mergulho Esmagador",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Esmagador.\nEnquanto cai, cada golpe causa dano de <b>8%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>48.5%</b> do ATQ + <b>3</b> e derruba os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
       "name": "Floreio Arremessante",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Floreio Arremessante.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano de <b>49.2%</b> do ATQ + <b>3</b>. Toque novamente para continuar atacando o alvo no ar e causar dano de até <b>98%</b> do ATQ + <b>5</b>."
     },
     {
+      "id": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
       "name": "Ataque Furtivo",
       "type": [
         "Croch",
@@ -58,22 +63,25 @@
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
       "name": "Chute Desorientador",
       "type": [
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Chute Desorientador.\nCausa dano de <b>72%</b> do ATQ + <b>4</b> ao alvo atingido, o repele uma boa distância e o <b>atordoa</b> durante <b>1</b> segundo (alvos não Errantes) ou <b>0,5</b> segundo (Errantes)."
+      "description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Chute Desorientador.\nCausa dano de <b>72%</b> do ATQ + <b>4</b> ao alvo atingido, o repele uma boa distância e o <b>atordoa</b> durante <b>1</b> segundo (alvos não Errantes) ou <b>0,5</b> segundo (Errantes)."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
       "name": "Esmagada Violenta",
       "type": [
         "Dodge",
         "Attack"
       ],
-      "description": "Use o botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\nBate a lança no chão, causando dano de <b>52.8%</b> do ATQ mais <b>3</b> e <b>suspendendo muito</b> os alvos no ar."
+      "description": "Use o botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\nBate a lança no chão, causando dano de <b>52.8%</b> do ATQ + <b>3</b> e <b>suspendendo muito</b> os alvos no ar."
     },
     {
+      "id": "GA_FPlayerSpearSkillThu_SSR_name",
       "name": "Combate nas Alturas",
       "type": [
         "Skill"
@@ -81,16 +89,17 @@
       "description": "<b>Suspende muito</b> o alvo e suspende a si mesmo, causando dano de <b>127.5%</b> do ATQ + <b>7</b>. Tempo de recarga: <b>25</b> seg."
     },
     {
+      "id": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
       "name": "Lança Relampejante",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, em seguida pula no ar e arremessa uma lança relampejante que explode ao atingir o chão. Causa dano em área de <b>296.7%</b> do ATQ + <b>16</b> e <b>paralisia forte</b> nos alvos durante <b>1</b> segundo."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>, em seguida pula no ar e arremessa uma lança relampejante que explode ao atingir o chão. Causa dano em área de <b>296.7%</b> do ATQ + <b>16</b> e <b>paralisia forte</b> nos alvos durante <b>1</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos eletrocutados não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Aumenta o despedaçar em <b>15%</b>. Após despedaçar o escudo do alvo, aumenta o ATQ de todos os colegas de equipe em <b>15%</b> durante <b>30</b> segundos. Não acumula.",

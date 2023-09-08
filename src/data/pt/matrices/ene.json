@@ -8,7 +8,7 @@
   "bonus": [
     {
       "count": 3,
-      "value": "Quando causa dano maior do que 100% do ATQ, causa dano adicional igual a 60%/75%/90% do ATQ. Tempo de recarga: 3 seg."
+      "value": "Quando causa dano maior do que 100% do ATQ, causa dano adicional de 60%/75%/90% do ATQ. Tempo de recarga: 3 seg."
     }
   ],
   "mind": {

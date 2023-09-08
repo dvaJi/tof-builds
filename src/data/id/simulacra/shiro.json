@@ -19,6 +19,7 @@
   "charge": 6,
   "skills": [
     {
+      "id": "GA_FPlayerDartsMelee_name",
       "name": "Rapid Throw",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, melakukan 5 serangan berturut-turut dengan melempar Chakram.\nSerangan Pertama: Menimpakan DMG sebesar <b>30.7%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>23.8%</b> ATK plus <b>1</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>34%</b> ATK plus <b>2</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>30.7%</b> ATK plus <b>2</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>53.8%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang."
     },
     {
+      "id": "GA_FPlayerDartsMelee_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk melancarkan 3 serangan berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>26.2%</b> ATK plus <b>1</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>29.2%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>37.2%</b> ATK plus <b>2</b>."
     },
     {
+      "id": "GA_FPlayerDartsMelee_Branch_name",
       "name": "Scatter",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Setelah Serangan Biasa kedua, tahan tombol Serang untuk mengaktifkan Scatter.\nMelontarkan lima Chakram yang menembus ke depan, masing-masing serangan menimpakan <b>43.5%</b> ATK plus <b>2</b> DMG dan membuat target terpental sedikit ke belakang."
     },
     {
+      "id": "GA_FPlayerDartsMelee_JumpAttack_name",
       "name": "Air Spin",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tekan dan tahan Serangan Biasa saat di udara untuk mengaktifkan Air Spin.\nMelakukan serangan dahsyat, menimpakan DMG sebesar <b>191.5%</b> ATK plus <b>10</b> kepada target dan musuh di sekitarnya, serta membuat mereka terpental ke atas."
     },
     {
+      "id": "GA_FPlayerDartsSneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>427.5%</b> ATK plus <b>23</b>."
     },
     {
+      "id": "GA_FPlayerDartsEvade_BackAttack_name",
       "name": "Waning Moon",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Gunakan Serangan Biasa selama rentang waktu singkat setelah Menghindar untuk mengaktifkan Waning Moon.\nMelempar Chakram ke depan, menimpakan DMG sebesar <b>132.9%</b> ATK plus <b>7</b> kepada target dan <b>Stun</b> selama <b>0,5</b> detik. Chakram kemudian terbelah menjadi <b>3</b> dan terus bergerak, ini menimpakan DMG sebesar <b>24.2%</b> ATK plus <b>1</b> kepada target yang dilewatinya. <span class=\"text-red\">Chakram yang terbelah tersebut akan memantul di dalam zona Full Bloom</span>."
     },
     {
+      "id": "GA_FPlayerDartsSkill_name",
       "name": "Full Bloom",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Membuat area Chakram Domain dengan Wanderer di pusatnya yang aktif selama <b>8</b> detik. Pada waktu bersamaan, musuh akan ditarik, dan kecepatan mereka berkurang <b>30%</b> selama <b>8</b> detik. Melontarkan <b>5</b> Chakram yang memantul di antara musuh, menimpakan DMG sebesar <b>24.2%</b> ATK plus <b>1</b> kepada target yang dilewatinya, memantul maks <b>5</b> kali. <span class=\"text-red\">Cakram terbelah dari Waning Moon juga akan memantul maks 5 kali.</span> CD: <b>45</b> detik."
     },
     {
+      "id": "GA_FPlayerDartsChangeSkill_New_Sucess_name",
       "name": "Spirit of the Air",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan akan melontarkan Chakram of the Seas kepada target yang akan menimpakan <b>Stun</b> area selama <b>1</b> detik kepada target, plus menyerang <b>1</b> kali kepada maks <b>3</b> unit per detik (setiap serangan punya peluang <b>10%</b> untuk mengakibatkan <b>Stun</b> kepada target selama <b>1,5</b> detik), menimpakan <b>41.4%</b> ATK plus <b>2</b> DMG selama durasi <b>10</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan akan melontarkan Chakram of the Seas kepada target yang akan menimpakan <b>Stun</b> area selama <b>1</b> detik kepada target, plus menyerang <b>1</b> kali kepada maks <b>3</b> unit per detik (setiap serangan punya peluang <b>10%</b> untuk mengakibatkan <b>Stun</b> kepada target selama <b>1,5</b> detik), menimpakan <b>41.4%</b> ATK plus <b>2</b> DMG selama durasi <b>10</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan menerapkan efek Grievous pada lawan selama <b>7</b> detik, meningkatkan DMG yang mereka terima sebesar <b>20%</b> dan menimpakan DMG sebesar <b>137%</b> ATK. Saat <yellow_lbl_14_1>bermain sebagai tim</>, target yang terkena Grievous menerima Physical DMG <b>20%</b> lebih besar."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menerapkan efek Grievous pada lawan selama <b>7</b> detik, meningkatkan DMG yang mereka terima sebesar <b>20%</b> dan menimpakan DMG sebesar <b>137%</b> ATK. Saat dalam <yellow_lbl_14_1>Permainan Tim</>, target yang terkena Grievous menerima Physical DMG <b>20%</b> lebih besar."
   },
   "advancement": [
     "Meningkatkan DMG yang ditimpakan dan semua efek Shatter elemental yang dihasilkan kepada target dalam jarak <span class=\"text-green\">Full Bloom</span> sebesar <b>30%</b>.",

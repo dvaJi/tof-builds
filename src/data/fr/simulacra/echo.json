@@ -19,6 +19,7 @@
   "charge": 7,
   "skills": [
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
       "name": "Percée",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, brandissez la lance longue pour attaquer 5 fois de suite.\nPremière attaque : vous infligez des dégâts correspondant à <b>24.7%</b> de l'ATQ + <b>1</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>22.6%</b> de l'ATQ + <b>1</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts correspondant à <b>47.2%</b> de l'ATQ + <b>2</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>65.2%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nCinquième attaque : vous infligez des dégâts correspondant à <b>114.95%</b> de l'ATQ + <b>6</b>, et repoussez la cible sur une distance importante."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Coup sauté",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>27.4%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>23.2%</b> de l'ATQ + <b>1</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>45.8%</b> de l'ATQ + <b>2</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>110%</b> de l'ATQ + <b>6</b>."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
       "name": "Frappe écrasante",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Appuyez et maintenez Attaque normale en l'air (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Frappe écrasante.\nLorsque vous tombez, vous infligez des dégâts équivalant à <b>8%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>48.5%</b> de l'ATQ + <b>3</b>, et vous renversez la cible.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
       "name": "Déluge de lances",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Déluge de lances.\nLorsque vous touchez la cible, vous la <b>suspendez longuement</b>, lui infligeant des dégâts équivalant à <b>49.2%</b> de l'ATQ + <b>3</b>. Appuyez à nouveau pour continuer à attaquer la cible dans les airs, et infliger jusqu'à <b>98%</b> de l'ATQ + <b>5</b> de dégâts à une seule cible."
     },
     {
+      "id": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
       "name": "Attaque furtive",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
       "name": "Coup de pied volant",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Appuyer sur l'attaque normale pendant la courte fenêtre d'esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Coup de pied volant.\nLorsque vous touchez la cible, vous lui infligez des dégâts équivalant à <b>72%</b> de l'ATQ + <b>4</b>, et repoussez les ennemis sur une grande distance, et vous les <b>étourdissez</b> pendant <b>1</b> seconde ou pendant <b>0,5</b> seconde aux Explorateurs."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
       "name": "Frappe en fente",
       "type": [
         "Dodge",
@@ -74,6 +81,7 @@
       "description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Frappe en fente.\nHeurte le sol avec la lance longue, infligeant aux cibles des dégâts équivalant à <b>52.8%</b> de l'ATQ + <b>3</b> et les <b>suspendant longuement dans les airs</b>."
     },
     {
+      "id": "GA_FPlayerSpearSkillThu_SSR_name",
       "name": "Chasselune",
       "type": [
         "Skill"
@@ -81,16 +89,17 @@
       "description": "<b>Suspend longuement</b> la cible et vous fait décoller du sol, infligeant des dégâts équivalant à <b>127.5%</b> de l'ATQ + <b>7</b>. Temps de recharge : <b>25</b> secondes."
     },
     {
+      "id": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
       "name": "Coup de tonnerre",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b> au moment où vous changez d'arme pour passer à celle-ci, puis vous sautez dans les airs et projetez une lance foudroyante qui explose en touchant le sol, infligeant aux cibles des dégâts équivalant à <b>296.7%</b> de l'ATQ + <b>16</b> et un effet de <b>paralysie lourde</b> pendant <b>1</b> seconde."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur l'Explorateur</b> au moment où vous changez d'arme pour passer à celle-ci, puis vous sautez dans les airs et projetez une lance foudroyante qui explose en touchant le sol, infligeant aux cibles des dégâts équivalant à <b>296.7%</b> de l'ATQ + <b>16</b> et un effet de <b>paralysie lourde</b> pendant <b>1</b> seconde."
     }
   ],
   "weapon_type": {
     "name": "Foudre",
-    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse lourdement</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous leurs effets bénéfiques et inflige des dégâts équivalant à <b>106%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse lourdement</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous leurs effets bénéfiques et inflige des dégâts équivalant à <b>106%</b> de l'ATQ. Les cibles électrocutées ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
   },
   "advancement": [
     "Augmente la fracture de <b>15%</b>. Après avoir fracturé le bouclier de la cible, augmente l'ATQ de tous les membres de groupe de <b>15%</b> pendant <b>30</b> secondes. Cet effet ne peut être cumulé.",
@@ -104,12 +113,12 @@
     {
       "name": "Intégrité",
       "icon": true,
-      "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>4%</b> (à l'exception d'Echo)."
+      "description": "Lorsqu'il est associé à Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>4%</b> (à l'exception d'Echo)."
     },
     {
       "name": "Détermination",
       "icon": true,
-      "description": "Lorsqu'il fait équipe avec Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>6%</b> (à l'exception d'Echo)."
+      "description": "Lorsqu'il est associé à Echo, les alliés situés dans un rayon de <b>10</b> mètres autour d'Echo bénéficient d'un bonus de dégâts de <b>4%</b> (à l'exception d'Echo)."
     }
   ],
   "ascension": [

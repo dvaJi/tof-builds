@@ -26,6 +26,10 @@ export const ENtextMap =
       )
     : {};
 
+export const _ENtextMap = JSON.parse(
+  fs.readFileSync(path.join(OFFICIALLOC_PATH, 'en', `Game.json`))
+);
+
 export const getTofData = async (fileId) => {
   return fs.readJSON(
     path.join(__dirname, '..', 'ToF-Data', 'DB', `${fileId}.json`)
@@ -126,12 +130,12 @@ export function formatDescription(description, values = []) {
 }
 
 /**
- * 
- * @param {Record<string, Record<string, string>>} tmap 
- * @param {string} firstKey 
- * @param {string[]} keys 
- * @param {boolean} showError 
- * @returns string 
+ *
+ * @param {Record<string, Record<string, string>>} tmap
+ * @param {string} firstKey
+ * @param {string[]} keys
+ * @param {boolean} showError
+ * @returns string
  */
 export function safeGetTmap(tmap, firstKey, keys, showError = true) {
   let finalText = '';

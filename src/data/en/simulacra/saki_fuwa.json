@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerDkatanaMelee_Melee_name",
       "name": "Ragestream",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Launch 5 Heartstream attacks while on the ground.\nThe first attack deals <b>42.5%</b> of ATK plus <b>2</b> damage to the target and knocks the target back a short distance.\nThe second attack deals <b>29.5%</b> of ATK plus <b>2</b> damage to the target and knocks the target back a short distance.\nThe third attack deals <b>45%</b> of ATK plus <b>2</b> damage to the target and knocks the target back a short distance.\nThe fourth attack deals <b>70.6%</b> of ATK plus <b>4</b> damage to the target and knocks the target back a short distance.\nThe fifth attack deals <b>102.6%</b> of ATK plus <b>5</b> damage to the target and launches the target into the air."
     },
     {
+      "id": "GA_PlayerDkatanaMelee_AirAttack_name",
       "name": "Airsplit",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air.\nFirst Attack: Deal damage equal to <b>47.2%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal damage equal to <b>43.7%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>54.2%</b> of ATK plus <b>3</b>.\nFourth Attack: Deal damage equal to <b>76.9%</b> of ATK plus <b>4</b>.\nFifth Attack: Deal damage equal to <b>170.2%</b> of ATK plus <b>9</b>."
     },
     {
+      "id": "GA_PlayerDkatanaMelee_Branch1_name",
       "name": "Excited Flow: Vortex",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "In the Excited Flow mode, tap and hold normal attack to trigger the skill.\nDash forward with a swirling multi-attack, dealing a maximum of <b>199.5%</b> of ATK plus <b>11</b> damage."
     },
     {
+      "id": "GA_PlayerDkatanaMelee_JumpAttack_name",
       "name": "Frostfall",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger.\nWhile falling, deal damage equal to <b>30.4%</b> of ATK plus <b>2</b> each hit. Upon landing, deal damage equal to <b>76%</b> of ATK plus <b>4</b> to nearby targets."
     },
     {
+      "id": "GA_FPlayerDkatanaEvade_name",
       "name": "Dodge",
       "type": [
         "Dodge"
@@ -56,6 +61,7 @@
       "description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun while dodging for <b>0.5</b> seconds."
     },
     {
+      "id": "GA_FPlayerDkatanaEvade_ForwardAttack_name",
       "name": "Polar Front",
       "type": [
         "Dodge",
@@ -64,6 +70,7 @@
       "description": "Tap normal attack during the short period after dodging.\nDash and spin to attack the target, dealing total damage equal to <b>277%</b> of ATK plus <b>15</b>."
     },
     {
+      "id": "GA_FPlayerDkatanaSkill_Skill1_name",
       "name": "Excited Flow: Flashing Stream",
       "type": [
         "Skill"
@@ -71,11 +78,12 @@
       "description": "Dash toward the target and temporarily immobilize enemies along the path, dealing delayed damage up to <b>445.3%</b> of ATK plus <b>23</b>. Cooldown: <b>30</b> seconds."
     },
     {
+      "id": "GA_FPlayerDkatanaSkill_Skill2_name",
       "name": "Silent Flow: Concentrated Stream",
       "type": [
         "Discharge"
       ],
-      "description": "Release the Silent Flow skills to enter a charged state for up to <b>3</b> seconds, continuously taunting nearby targets and absorbing damage up to <b>60%</b> of the Max HP. At the end of the charged state, deal frost damage equal to <b>850%</b> of frost ATK plus <b>50%</b> x damage absorbed to targets, and <b>20%</b> of the unconsumed value is converted to HP recovery. Cooldown: <b>30</b> seconds.\n\nEnter the Silent Flow mode when Fortitude Resonance is activated. <b>Excited Flow: Flashing Stream</b> is replaced by <b>Silent Flow: Concentrated Stream</b>. Enter the Excited Flow when Fortitude Resonance is not activated.\nThe Wanderer can gain Sword Shadow which follows them around when using Saki Fuwa's skills. Sword Shadow will release Surge when the Wanderer uses Saki Fuwa's branch skills or discharge skills, dealing ranged damage equal to <b>450%</b> of frost ATK. Cooldown of Surge: <b>10</b> seconds.\nIn the state of Excited Flow: Sword Shadow will release Flow when the Wanderer deals damage with any weapon, which inflicts damage equal to <b>125%</b> of frost ATK on the first hit target and recovers HP equal to <b>57%</b> of the damage. The maximum recovery each time does not exceed <b>100%</b> of ATK. Cooldown: <b>0.8</b> seconds.\nIn the state of Silent Flow: After Sword Shadow releases Surge, the Wanderer obtains <b>3</b> blocks for <b>10</b> seconds, and the maximum block capacity does not exceed <b>15%</b> of Max HP. Each successful block deals Counterattack damage equal to <b>450%</b> of frost ATK to the target, and the shatter of Surge increases by <b>100%</b> with the taunt effect added."
+      "description": "Release the Silent Flow skills to enter a charged state for up to <b>3</b> seconds, continuously taunting nearby targets and absorbing damage up to <b>60%</b> of the Max HP. At the end of the charged state, deal frost damage equal to <b>850%</b> of frost ATK plus <b>50%</b> x damage absorbed to targets, and <b>20%</b> of the unconsumed value is converted to HP recovery. Cooldown: <b>30</b> seconds.\n\nEnter the Silent Flow mode when Fortitude Resonance is activated. <b>Excited Flow: Flashing Stream</b> is replaced by <b>Silent Flow: Concentrated Stream</b>. Enter the Excited Flow when Fortitude Resonance is not activated.\nThe Wanderer can gain Sword Shadow which follows them around when using Saki Fuwa's skills. Sword Shadow will release Surge when the Wanderer uses Saki Fuwa's branch skills or discharge skills, dealing area damage equal to <b>450%</b> of frost ATK. Cooldown of Surge: <b>10</b> seconds.\nIn the state of Excited Flow: Sword Shadow will release Flow when the Wanderer deals damage with any weapon, which inflicts damage equal to <b>125%</b> of frost ATK on the first hit target and recovers HP equal to <b>57%</b> of the damage. The maximum recovery each time does not exceed <b>100%</b> of ATK. Cooldown: <b>0.8</b> seconds.\nIn the state of Silent Flow: After Sword Shadow releases Surge, the Wanderer obtains <b>3</b> blocks for <b>10</b> seconds, and the maximum block capacity does not exceed <b>15%</b> of Max HP. Each successful block deals Counterattack damage equal to <b>450%</b> of frost ATK to the target, and the shatter of Surge increases by <b>100%</b> with the taunt effect added."
     }
   ],
   "weapon_type": {
@@ -92,7 +100,7 @@
     "Excited Flow: Increase the damage of Sword Shadow: Surge to <b>900%</b> of frost ATK.\nSilent Flow: The cooldown of Sword Shadow: Surge becomes <b>5 seconds</b>.",
     "Increase the current weapon's base HP growth by <b>32%</b>.",
     "Freeze time and trigger Phantasia upon Surge hitting the target. Share cooldown with the Phantasia triggered by dodging.",
-    "Upon hitting a target with Surge, increase frost damage by <b>11%</b> for <b>15</b> seconds.\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by enemy targets by <b>25%</b> for <b>12</b> seconds."
+    "Upon hitting a target with Surge, increase frost damage by <b>11%</b> for <b>15</b> seconds.\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by nearby enemy targets by <b>25%</b> for <b>12</b> seconds."
   ],
   "traits": [
     {

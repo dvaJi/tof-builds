@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerGunMelee_Melee_name",
       "name": "Normal Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "On the ground, use normal attack to launch 5 attacks in a row.\nThe first attack deals total damage equal to <b>52.3%</b> of ATK + <b>3</b>.\nThe second attack deals total damage equal to <b>75.6%</b> of ATK + <b>4</b>.\nThe third attack deals total damage equal to <b>94.5%</b> of ATK + <b>5</b>.\nThe fourth attack deals total damage equal to <b>142.8%</b> of ATK + <b>8</b> .\nThe fifth attack deals total damage equal to <b>137.8%</b> of ATK + <b>7</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Power_name",
       "name": "Charged Shot",
       "type": [
         "Hold: Attack"
@@ -33,6 +35,7 @@
       "description": "Tap and hold normal attack to charge an attack and release to fire rounds, dealing <b>95.4%</b> of ATK plus <b>5</b> damage, plus an explosion 3 seconds later (or if the target dies), dealing <b>23.9%</b> of ATK as damage to nearby enemies. Each time the target is dealt damage during the explosion (up to <b>4</b> times), AoE is doubled and damage is increased."
     },
     {
+      "id": "GA_FPlayerGunMelee_JumpAttack_name",
       "name": "Jumping Blast",
       "type": [
         "Jump",
@@ -41,6 +44,7 @@
       "description": "While airborne or after jumping once, launch Jumping Blast.\nToss a bomb that deals damage equal to <b>90.8%</b> of ATK plus <b>5</b> to enemies in a circle ahead, knocking them back a short distance. Consumes <b>250</b> endurance."
     },
     {
+      "id": "GA_FPlayerGunMelee_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Double Jump"
@@ -48,6 +52,7 @@
       "description": "After double-jumping, launch Aerial Discharge in mid-air.\nFire an Omnium beam downward. The beam then sweeps forward, dealing damage equal to <b>33.8%</b> of ATK plus <b>2</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Branch_name",
       "name": "Heavy Bombardment",
       "type": [
         "Attack",
@@ -56,6 +61,7 @@
       "description": "Hold attack button during a normal attack to unleash Suppressing Fire in front, dealing enemies AoE damage equal to <b>102%</b> of ATK plus <b>5</b> in total."
     },
     {
+      "id": "GA_FPlayerGunEvade_BackAttack_name",
       "name": "Close Quarters",
       "type": [
         "Dodge",
@@ -64,6 +70,7 @@
       "description": "Use normal attack right after dodging to trigger Close Quarters.\nDeal damage equal to <b>156.1%</b> of ATK plus <b>8</b> to targets in a frontal cone area."
     },
     {
+      "id": "GA_FPlayerGunSkill_name",
       "name": "Barrage",
       "type": [
         "Skill"
@@ -71,11 +78,12 @@
       "description": "Continuously inflict damage in a frontal cone area, dealing total damage equal to <b>666%</b> of ATK plus <b>35</b>. Cooldown: <b>60</b> seconds."
     },
     {
+      "id": "GA_FPlayerGunChangeSkill_NewNew_Sucess_name",
       "name": "Explosive Rain",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and throw <b>3</b> grenades forward, dealing AoE damage equal to <b>570%</b> of ATK plus <b>30</b> in total and <b>launching</b> the target."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and throw <b>3</b> grenades forward, dealing AoE damage equal to <b>570%</b> of ATK plus <b>30</b> in total and <b>launching</b> the target."
     }
   ],
   "weapon_type": {

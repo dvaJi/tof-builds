@@ -19,6 +19,7 @@
   "charge": 12.5,
   "skills": [
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, blande el bastón para atacar 5 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>54.4%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>40.8%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>65.6%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>89.7%</b> del ATQ más <b>5</b>.\nQuinto ataque: Inflige daño igual a <b>158.4%</b> del ATQ más <b>8</b>."
     },
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_AirAttack_name",
       "name": "Ráfaga Elevada",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>70.5%</b> del ATQ más <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>50.8%</b> del ATQ más <b>3</b>.\nTercer ataque: Inflige daño igual a <b>55.1%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>99.1%</b> del ATQ más <b>5</b>.\nQuinto ataque: Inflige daño igual a <b>103.2%</b> del ATQ más <b>5</b>."
     },
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_JumpAttack_name",
       "name": "Cascada Lunar",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Mantén pulsado el ataque normal en el aire para activar Cascada Lunar.\nAl aterrizar, inflige daño una vez cada <b>0.2</b> seg, por un total de daño equivalente al <b>123.8%</b> del ATQ más <b>7</b>."
     },
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_Branch_name",
       "name": "Asalto Enfocado",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Después del tercer ataque normal, mantén pulsado el botón de ataque normal para activar los ataques divergentes, lo que consume <b>300</b> puntos de resistencia.\nPrimer ataque: Atrae a los enemigos frente al usuario, los <b>suspende fuerte</b> e inflige daño igual a <b>34.9%</b> del ATQ más <b>2</b> cada <b>0.3</b> seg (hasta <b>4</b> veces).\nSegundo ataque: Inflige daño igual a <b>40.4%</b> del ATQ más <b>2</b> en la ubicación objetivo y a los enemigos cercanos cada <b>0.3</b> seg."
     },
     {
+      "id": "GA_FPlayerStavesEvadeIce_SSR_FrontAttack_name",
       "name": "Sobrecarga",
       "type": [
         "Perfect Dodge",
@@ -58,6 +63,7 @@
       "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Sobrecarga.\nCada pulso de energía inflige daño igual al <b>45.9%</b> del ATQ más <b>2</b> a los objetivos.\nOtorga <b>75</b> puntos de carga de arma al usarse."
     },
     {
+      "id": "GA_FPlayerStavesEvadeIce_SSR_BackAttack_name",
       "name": "Teseracto",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Explosión evasiva.\nDispara un orbe de energía hacia adelante, lo que inflige daño igual a <b>66.4%</b> del ATQ más <b>3</b> a los objetivos en el camino cada <b>0.3</b> seg (hasta 5 veces).\nOtorga <b>75</b> puntos de carga de arma al usarse."
     },
     {
+      "id": "GA_FPlayerStavesSkillIce_SSR_name",
       "name": "Santuario",
       "type": [
         "Skill"
@@ -73,11 +80,12 @@
       "description": "Crea una zona de curación que se mueve con el nómada y cura a los aliados cercanos el equivalente al <b>95%</b> del ATQ más <b>5</b> una vez cada <b>0.5</b> seg durante <b>6</b> seg. <b>60</b> seg de enfriamiento."
     },
     {
+      "id": "GA_FPlayerStavesChangeSkillIce_SSR_Sucess_name",
       "name": "Liberación Rápida",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b>; además, el bastón seguirá eliminando desventajas de nómadas y aliados, además de curar a los nómadas cercanos y a los aliados por <b>118.8%</b> del ATQ más <b>6</b> PS por <b>7</b> seg."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b>; además, el bastón seguirá eliminando desventajas de nómadas y aliados, además de curar a los nómadas cercanos y a las camaradas por <b>118.8%</b> del ATQ más <b>6</b> PS por <b>7</b> seg."
     }
   ],
   "weapon_type": {

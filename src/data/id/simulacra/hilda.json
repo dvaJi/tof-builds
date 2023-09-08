@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerCannonMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Tekan Serangan Biasa untuk memasuki mode bidik. Tahan Serangan Biasa untuk terus menembak, maks <b>40</b> tembakan. Setiap tembakan menimpakan DMG sebesar <b>11.4%</b> ATK plus <b>1</b>. Menimpakan DMG dua kali lipat saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (efek Headshot tidak berlaku bagi Wanderer)."
     },
     {
+      "id": "GA_FPlayerCannonSkill_name",
       "name": "Turret",
       "type": [
         "Skill"
@@ -33,11 +35,12 @@
       "description": "Mengaktifkan mode Turret dan menembakkan peluru-peluru energi yang besar, masing-masing menimpakan DMG sebesar <b>213.3%</b> ATK plus <b>11</b> dan membuat target terpental ke atas. Menjadi kebal terhadap Hitstun dan efek kontrol saat dalam mode Turret. CD: <b>3.5</b> detik."
     },
     {
+      "id": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
       "name": "Arctic Beam",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan menembakkan Arctic Beam, menimpakan DMG sebesar <b>329.2%</b> ATK plus <b>17</b> dan mengakibatkan efek <b>Freeze Kuat</b> selama <b>3</b> detik. Selain itu, Frost Resistance target juga berkurang <b>50%</b> selama <b>10</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan menembakkan Arctic Beam, menimpakan DMG sebesar <b>329.2%</b> ATK plus <b>17</b> dan mengakibatkan efek <b>Freeze Kuat</b> selama <b>3</b> detik. Selain itu, Frost Resistance target juga berkurang <b>50%</b> selama <b>10</b> detik."
     }
   ],
   "weapon_type": {

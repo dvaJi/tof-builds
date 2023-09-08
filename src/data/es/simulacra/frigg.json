@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerFriggMelee_Melee_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, inicia 5 ataques seguidos con Balmung.\nPrimer ataque: Inflige daño igual a <b>62.1%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>46.2%</b> del ATQ más <b>2</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>91.1%</b> del ATQ más <b>5</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>55.8%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nQuinto ataque: Inflige daño igual a <b>218.4%</b> del ATQ más <b>11</b> y derriba al objetivo."
     },
     {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
       "name": "Descarga Aérea",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>64.4%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>72.6%</b> del ATQ más <b>4</b>.\nTercer ataque: Inflige daño igual a <b>76.7%</b> del ATQ más <b>4</b>.\nCuarto ataque: Inflige daño igual a <b>107.9%</b> del ATQ más <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>168.3%</b> del ATQ más <b>9</b>."
     },
     {
+      "id": "GA_PlayerFriggMelee_Branch_name",
       "name": "Corte Elevado",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Al realizar un ataque normal, mantén pulsado el ataque normal para activar Corte Elevado.\nEmbiste hacia adelante con una barrida horizontal, luego suspende al objetivo en el aire antes de elevarte junto con él. Inflige un máximo de <b>134.3%</b> del ATQ más <b>7</b> de daño."
     },
     {
+      "id": "GA_PlayerFriggMelee_JumpAttack_name",
       "name": "Corte Hélice",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o utiliza el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar Corte Hélice.\nMientras caes, inflige daño igual a <b>19.8%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>185.7%</b> del ATQ más <b>10</b> a los objetivos cercanos."
     },
     {
+      "id": "GA_FPlayerFriggEvade_BackAttack_name",
       "name": "Multicorte",
       "type": [
         "Perfect Dodge",
@@ -58,6 +63,7 @@
       "description": "Pulsa el ataque normal durante la breve oportunidad de evasión perfecta para activar Multicorte.\nLanza varios cortes a una distancia fija frente al usuario para infligir daño total equivalente al <b>143.9%</b> del ATQ más <b>8</b>."
     },
     {
+      "id": "GA_FPlayerFriggSkill_Skill_name",
       "name": "Fimbulwinter",
       "type": [
         "Skill"
@@ -65,11 +71,12 @@
       "description": "Corta el espacio que rodea al nómada, lo que inflige daño total igual a <b>577.5%</b> del ATQ más <b>30</b>, lanza y suspende a los objetivos, y otorga inmunidad al daño mientras esta habilidad está en uso. Enfriamiento: <b>30</b> seg.\nTras desatar <b>Fimbulwinter</b>, se formará un gran Dominio de Escarcha alrededor del nómada por <b>25</b> seg. Los intentos de evasión no se consumirán mientras evades con Balmung dentro del Dominio de Escarcha.\nOtorga Dominio de Escarcha I cuando estás en el Dominio de Escarcha: Al usar un arma de escarcha, potencia la destrucción un <b>25%</b> y el ATQ de escarcha un <b>15%</b>."
     },
     {
+      "id": "GA_FPlayerFriggChangeSkill_Success_name",
       "name": "Fractura Gélida",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y te desplazas hacia delante para atacar, con lo que temporalmente controlas a los enemigos de alrededor antes de desatar un corte de área amplia. Lanza objetivos al aire e inflige daño total igual al <b>618.2%</b> del ATQ más <b>33</b>."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y te desplazas hacia delante para atacar, con lo que temporalmente controlas a los enemigos de alrededor antes de desatar un corte de área amplia. Lanza objetivos al aire e inflige daño total igual al <b>618.2%</b> del ATQ más <b>33</b>."
     }
   ],
   "weapon_type": {
@@ -81,12 +88,12 @@
     "description": "<b>Resonancia de Escarcha</b>: aumenta el ATQ de Escarcha en un <b>15%</b> y la Resistencia a la Escarcha en un <b>25%</b>. Se activa al equipar <b>2</b> o más armas de escarcha. El efecto de este set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo."
   },
   "advancement": [
-    "Gana <b>1</b> punto de escarcha cada vez que infliges cualquier daño elemental igual a <b>550%</b> x el ATQ de escarcha en el Dominio de Escarcha. Se pueden acumular hasta <b>10</b> puntos de escarcha.\nCuando el Dominio de Escarcha termina, se infligirán los puntos de escarcha x el ATQ de escarcha x <b>95%</b> como daño de estallido a todos los enemigos que estaban en el dominio. Tras salir del Dominio de Escarcha, pierdes <b>1</b> punto de escarcha cada <b>3</b> seg.",
+    "Ganas <b>1</b> punto de Frialdad cada vez que infliges cualquier daño elemental igual a <b>550%</b> x tu ATQ de escarcha en el Dominio de Escarcha. Puedes acumular hasta <b>10</b> puntos de Frialdad.\nCuando el Dominio de Escarcha termina, infligirán los puntos de Frialdad x tu ATQ de escarcha x <b>95%</b> como daño de estallido a todos los enemigos que estaban en el dominio. Tras salir del Dominio de Escarcha, pierdes <b>1</b> punto de Frialdad cada <b>3</b> seg.",
     "Aumenta el crecimiento de los PS base del arma actual en un <b>16%</b>.",
-    "Aumenta el límite de escarcha a <b>15</b>. Al usar habilidades de descarga de armas de escarcha en el Dominio de Escarcha, infliges daño igual al <b>25%</b> de tu ATQ de escarcha x (escarcha actual + 5) a todos los objetivos en el Dominio de Escarcha.",
+    "Aumenta el límite de Frialdad a <b>15</b>. Al usar habilidades de descarga de armas de escarcha en el Dominio de Escarcha, infliges daño igual al <b>25%</b> de tu ATQ de escarcha x (Frialdad actual + 5) a todos los objetivos en el Dominio de Escarcha.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
-    "Al destrozar un escudo con un arma de escarcha en el Dominio de Escarcha, congela al objetivo por <b>2</b> segundos e inflige un daño adicional igual a la escarcha x <b>35%</b> del ATQ de escarcha. Si el objetivo no se puede congelar, duplica el daño adicional infligido.",
-    "Cuando la escarcha alcance <b>15</b> puntos de escarcha y estés en el Dominio de Escarcha, obtendrás adicionalmente Dominio de Escarcha II: Aumenta el ATQ de escarcha en <b>25%</b> al usar armas de escarcha."
+    "Al destrozar un escudo con un arma de hielo en el Dominio de Escarcha, congelas al objetivo por <b>2</b> seg e infliges daño adicional igual a tu Frialdad x <b>35%</b> de tu ATQ de escarcha. Si el objetivo no se puede congelar, duplica el daño adicional infligido.",
+    "Cuando la Frialdad alcance <b>15</b> puntos y estés en el Dominio de Escarcha, obtendrás adicionalmente Dominio de Escarcha II: Aumenta tu ATQ de escarcha un <b>25%</b> al usar armas de escarcha."
   ],
   "traits": [
     {

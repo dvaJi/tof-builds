@@ -19,6 +19,7 @@
   "charge": 10.7,
   "skills": [
     {
+      "id": "GA_FPlayerDgunMeleeThu_Melee_name",
       "name": "Fuego Doble",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Pulsa el ataque normal mientras estás en el suelo para lanzar hasta 5 ataques consecutivos con las pistolas dobles.\nPrimer ataque: Inflige daño igual a <b>47.1%</b> del ATQ más <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>35.8%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>119.7%</b> del ATQ más <b>6</b>.\nCuarto ataque: Inflige daño igual a <b>113.1%</b> del ATQ más <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>154%</b> del ATQ más <b>8</b> y <b>lanza</b> al objetivo."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_AirAttack_name",
       "name": "Lluvia de Balas",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "En el aire, usa el ataque normal para disparar de forma continua hacia el suelo e infligir daño equivalente al <b>50.6%</b> del ATQ más <b>3</b>. Cada impacto consume <b>150</b> de resistencia."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_PowerAttack_name",
       "name": "Explosión de Energía",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Mantén el botón de ataque para disparar de forma continua, y cada impacto inflige un <b>23%</b> del ATQ más <b>1</b> de daño base."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_JumpAttack_name",
       "name": "Patada Fantasma",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Mientras estás en el aire, pulsa y mantén pulsado el ataque normal para activar la Patada Fantasma. Derriba al objetivo e inflige daño igual a <b>70.5%</b> del ATQ más <b>4</b>. Al aterrizar, inflige daño igual a <b>98.7%</b> del ATQ más <b>5</b> a los objetivos cercanos y los <b>lanza fuerte</b>."
     },
     {
+      "id": "GA_FPlayeDgunEvadeThu_FrontAttack_name",
       "name": "Patada Relámpago Ascendente",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Pulsa el ataque normal tras evadir para <b>suspender fuerte</b> a los objetivos cercanos e infligir daño equivalente al <b>122.6%</b> del ATQ más <b>6</b>."
     },
     {
+      "id": "GA_FPlayerDgunSkillThu_name",
       "name": "Campo Eléctrico",
       "type": [
         "Skill"
@@ -64,16 +70,17 @@
       "description": "Dispara un Escudo Energético a la ubicación objetivo, lo que refleja los rayos dentro de la barrera. Inflige daño igual a <b>269.8%</b> del ATQ más <b>14</b>, y el último impacto <b>suspende fuerte</b> a los objetivos. Enfriamiento: <b>45</b> seg."
     },
     {
+      "id": "GA_FPlayerDgunChangeSkillThu_Sucess_name",
       "name": "Dominio del Trueno",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y crea un Dominio del Trueno en la ubicación objetivo, lo que <b>suspende fuerte</b> a los objetivos al alcance y les inflige un <b>238.3%</b> del ATQ más <b>13</b> de daño total a lo largo de 3 ataques mientras disipa sus mejoras. El dominio dura <b>3.5</b> seg e inflige daño igual a <b>42.4%</b> del ATQ más <b>2</b> a un objetivo cada <b>0.5</b> seg."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y crea un Dominio del Trueno en la ubicación objetivo, lo que <b>suspende fuerte</b> a los objetivos al alcance y les inflige un <b>238.3%</b> del ATQ más <b>13</b> de daño total a lo largo de 3 ataques mientras disipa sus mejoras. El dominio dura <b>3.5</b> seg e inflige daño igual a <b>42.4%</b> del ATQ más <b>2</b> a un objetivo cada <b>0.5</b> seg."
     }
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> seg y los electrifica por <b>6</b> seg, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos electrificados no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
   },
   "advancement": [
     "Activa una explosión eléctrica en el objetivo después de asestar un golpe crítico, lo que inflige daño adicional equivalente al <b>30%</b> del ATQ al objetivo y a los enemigos cercanos. Enfriamiento: <b>0.2</b> segundos.",

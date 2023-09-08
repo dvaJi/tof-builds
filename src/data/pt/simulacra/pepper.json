@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerStavesMelee_Melee_name",
       "name": "Ataque Normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, branda o cajado para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>25.1%</b> do ATQ + <b>1</b>.\nSegundo ataque: causa dano de <b>18.8%</b> do ATQ + <b>1</b>.\nTerceiro ataque: causa dano de <b>30.4%</b> do ATQ + <b>2</b>.\nQuarto ataque: causa dano de <b>41.4%</b> do ATQ + <b>2</b>.\nQuinto ataque: causa dano de <b>73.2%</b> do ATQ + <b>4</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_AirAttack_name",
       "name": "Cajadada Elevada",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>32.5%</b> do ATQ + <b>2</b>.\nSegundo ataque: causa dano de <b>23.5%</b> do ATQ + <b>1</b>.\nTerceiro ataque: causa dano de <b>25.5%</b> do ATQ + <b>1</b>.\nQuarto ataque: causa dano de <b>45.6%</b> do ATQ + <b>2</b>.\nQuinto ataque: causa dano de <b>47.7%</b> do ATQ + <b>3</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_JumpAttack_name",
       "name": "Lua Cadente",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\nAo aterrissar, causa dano uma vez a cada <b>0,2</b> segundo, totalizando dano de <b>57.2%</b> do ATQ + <b>3</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_Branch_name",
       "name": "Ataque Determinado",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome <b>300</b> de vigor.\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os <b>suspende muito</b> e causa dano de <b>16.1%</b> do ATQ + <b>1</b> a cada <b>0,3</b> segundo (no máximo <b>4</b> vezes).\nSegundo ataque: A cada <b>0,3</b> segundo, causa dano de <b>18.6%</b> do ATQ + <b>1</b> ao alvo e a alvos próximos."
     },
     {
+      "id": "GA_FPlayerStavesEvade_FrontAttack_name",
       "name": "Ondulação",
       "type": [
         "Perfect Dodge",
@@ -58,6 +63,7 @@
       "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Ondulação.\nCada pulso energético causa dano de <b>22.6%</b> do ATQ + <b>1</b> a alvos.\nRecupera <b>75</b> pontos de carga de arma ao usar."
     },
     {
+      "id": "GA_FPlayerStavesEvade_BackAttack_name",
       "name": "Tesserato",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Use o botão de ataque normal logo após se esquivar para usar Explosão Evasiva.\nDispara um orbe de energia para frente. A cada <b>0,3</b> segundo, causa dano de <b>32.1%</b> do ATQ + <b>2</b> a alvos no caminho (no máximo 5 vezes).\nRecupera <b>75</b> pontos de carga de arma ao usar."
     },
     {
+      "id": "GA_FPlayerStavesSkill_name",
       "name": "Santuário",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Cria um escudo energético na posição do Errante. Cura aliados dentro do escudo em <b>81.7%</b> do ATQ + <b>4</b> por segundo e reduz o dano sofrido por eles em <b>3%</b> durante <b>10</b> segundos. Tempo de recarga: <b>60</b> seg."
     },
     {
+      "id": "GA_FPlayerStavesChangeSkill_Sucess_name",
       "name": "Livramento",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>79%</b> do ATQ + <b>4</b> durante <b>7</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a <b>79%</b> do ATQ + <b>4</b> durante <b>7</b> segundos."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>106%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos eletrocutados não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Cura todos os colegas em um raio de <b>10</b> metros em <b>100%</b> do ATQ após usar uma habilidade de esquiva.",

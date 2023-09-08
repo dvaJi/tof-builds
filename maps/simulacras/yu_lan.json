@@ -1,0 +1,353 @@
+{
+  "_id": 1038,
+  "_locid": "CH38_YuLan",
+  "name": "Yu Lan",
+  "weapon": "Unity",
+  "element": "Ice",
+  "rarity": "SSR",
+  "id": "yu_lan",
+  "global": true,
+  "tier": 1,
+  "tier_constellation": 1,
+  "pvp": 1,
+  "pvp_constellation": 6,
+  "tier_pending": false,
+  "role": "DPS",
+  "soon": false,
+  "new": true,
+  "resonance": "DPS",
+  "shatter": 13.0,
+  "charge": 11.0,
+  "skills": [
+    {
+      "name": "GA_FPlayerYulanMelee_Melee_name",
+      "icon": true,
+      "type": ["Attack"],
+      "description": "GA_FPlayerYulanMelee_Melee_des",
+      "values": [
+        64.8, 3, 50.4, 3, 52.8, 3, 143.9, 8, 279.2, 15, 227.4, 12, 280, 15
+      ]
+    },
+    {
+      "name": "GA_FPlayerYulanMelee_AirAttack_name",
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerYulanMelee_AirAttack_des",
+      "values": [68.4, 4, 59.9, 3, 62.7, 3, 136.4, 7, 249, 13, 222.3, 12]
+    },
+    {
+      "name": "GA_FPlayerYulanMelee_MeleeBranch1_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerYulanMelee_MeleeBranch1_des",
+      "values": [62.8, 3, 146.8]
+    },
+    {
+      "name": "GA_FPlayerYulanMelee_MeleeBranch2_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerYulanMelee_MeleeBranch2_des",
+      "values": [153.9, 8]
+    },
+    {
+      "name": "GA_FPlayerYulanMelee_ArAttackBranch_name",
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerYulanMelee_ArAttackBranch_des",
+      "values": [329, 17]
+    },
+    {
+      "name": "GA_FPlayerYulanMelee_JumpAttack_name",
+      "type": ["Jump", "Attack"],
+      "description": "GA_FPlayerYulanMelee_JumpAttack_des",
+      "values": [148.6, 8]
+    },
+    {
+      "name": "GA_FPlayerYulanMelee_MeleeBranch3_name",
+      "type": ["Attack"],
+      "description": "GA_FPlayerYulanMelee_MeleeBranch3_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerYulanEvade_Evade_name",
+      "icon": true,
+      "type": ["Dodge"],
+      "description": "GA_FPlayerYulanEvade_Evade_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerYulanEvade_EvadeAttackBack_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerYulanEvade_EvadeAttackBack_des",
+      "values": [177.6, 9]
+    },
+    {
+      "name": "GA_FPlayerYulanEvade_EvadeAttackFront_name",
+      "icon": true,
+      "type": ["Dodge", "Attack"],
+      "description": "GA_FPlayerYulanEvade_EvadeAttackFront_des",
+      "values": [167.6, 9]
+    },
+    {
+      "name": "GA_FPlayerYulanSkill_PassiveSkill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerYulanSkill_PassiveSkill_des",
+      "values": []
+    },
+    {
+      "name": "GA_FPlayerYulanSkill_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerYulanSkill_des",
+      "values": [982.8, 52]
+    },
+    {
+      "name": "GA_FPlayerYulanSkill_Skill2_name",
+      "icon": true,
+      "type": ["Skill"],
+      "description": "GA_FPlayerYulanSkill_Skill2_des",
+      "values": [982.8, 52, 260, 14]
+    },
+    {
+      "name": "GA_FPlayerYulanChangeSkill_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerYulanChangeSkill_des",
+      "values": [1173.1, 62]
+    },
+    {
+      "name": "GA_FPlayerYulanChangeSkill_ChangeSkill1_name",
+      "icon": true,
+      "type": ["Discharge"],
+      "description": "GA_FPlayerYulanChangeSkill_ChangeSkill1_des",
+      "values": [1173.1, 62]
+    }
+  ],
+  "weapon_type": {
+    "name": "ui_weapon_charge_3_0",
+    "type": "ui_elemental_type_4",
+    "description": "ui_weapon_charge_3_desc_0",
+    "values": [0, 144.0]
+  },
+  "weapon_resonance": {
+    "name": "Buff_Yulan_Ice_Resonance_name",
+    "type": "ui_elemental_type_4",
+    "description": "Buff_Yulan_Ice_Resonance_des",
+    "values": []
+  },
+  "advancement": [
+    ["Buff_Yulan_SSR_Level1_des", [3, 5, 50, 30, 3, 5, 15]],
+    "Weapon_level2_atkup_ssr",
+    ["Buff_Yulan_SSR_Level3_des", [0, 10, 20]],
+    "Weapon_level4_atkup_ssr",
+    ["Buff_Yulan_SSR_Level5_des", [10, 20, 8]],
+    ["Buff_Yulan_SSR_Level6_des", [70, 10, 30, 15, 30]]
+  ],
+  "traits": [
+    {
+      "name": "Buff_Imitation_YuLan_level_name_level1",
+      "description": "Buff_Imitation_YuLan_level_des_level1",
+      "values": [13, 7, 1, 9, 8]
+    },
+    {
+      "name": "Buff_Imitation_YuLan_level_name_level2",
+      "description": "Buff_Imitation_YuLan_level_des_level2",
+      "values": [18, 7, 1, 9, 8]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": "1",
+      "level": "10",
+      "cost": "700",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "3"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "3"
+      }
+    },
+    {
+      "ascension": "2",
+      "level": "20",
+      "cost": "1100",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "4"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "4"
+      }
+    },
+    {
+      "ascension": "3",
+      "level": "30",
+      "cost": "1200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "4",
+      "level": "40",
+      "cost": "1600",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "5"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "5"
+      }
+    },
+    {
+      "ascension": "5",
+      "level": "50",
+      "cost": "2000",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "8"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "8"
+      }
+    },
+    {
+      "ascension": "6",
+      "level": "60",
+      "cost": "2400",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "11"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "11"
+      }
+    },
+    {
+      "ascension": "7",
+      "level": "70",
+      "cost": "2800",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "16"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "16"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3200",
+      "mat1": {
+        "name": "nano_coating_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat2": {
+        "name": "acidproof_glaze_i",
+        "rarity": "R",
+        "amount": "21"
+      },
+      "mat3": {
+        "name": "booster_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      },
+      "mat4": {
+        "name": "nanofiber_frame_i",
+        "rarity": "SR",
+        "amount": "21"
+      }
+    },
+    {
+      "ascension": "8",
+      "level": "80",
+      "cost": "3600",
+      "mat1": {
+        "name": "booster_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat2": {
+        "name": "nanofiber_frame_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat3": {
+        "name": "nano_coating_ii",
+        "rarity": "R",
+        "amount": "9"
+      },
+      "mat4": {
+        "name": "acidproof_glaze_ii",
+        "rarity": "R",
+        "amount": "9"
+      }
+    }
+  ]
+}

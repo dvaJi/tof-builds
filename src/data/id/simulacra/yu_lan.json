@@ -1,0 +1,378 @@
+{
+  "_id": 1038,
+  "id": "yu_lan",
+  "name": "Yu Lan",
+  "weapon": "Unity",
+  "weapon_id": "unity",
+  "birthday": "9 Februari",
+  "birthplace": "Penjaga Sundial",
+  "gender": "Perempuan",
+  "info": "",
+  "description": "Si bintang bela diri dari Domain 9 ini dikagumi oleh siapa pun yang pernah berduel melawannya. Berkat kemampuannya, Master Yu menunjuknya sebagai Penjaga Sundial di Alun-Alun Sundial Ignisville. Dedikasinya pada bidang seni bela diri jauh melampaui dedikasi manusia biasa. Ia bisa diandalkan di medan tempur untuk meraih kemenangan. Ia percaya bahwa, dalam jarak tujuh langkah, pukulan adalah serangan tercepat.\n\nMeski tampak kalem dan tenang, sebenarnya ia cukup serius. Saat awal mengikuti Turnamen Bela Diri, ia bahkan tak memahami etika dan aturan turnamen. Gerakan jurusnya tegas dan kuat, membuatnya mampu mengalahkan semua lawannya dengan cepat dan efektif. Tak lama berselang, ia menyadari bahwa selama ini tindakannya dianggap tidak sopan, jadi ia mulai meminta maaf pada lawan-lawannya. Lawan yang mengaku sebagai bagian dari \"klan tertentu\" ini sebenarnya cuma ingin pamer dan sesumbar sebelum pertandingan dimulai untuk mendapatkan popularitas. Karena itu, mereka berharap lawannya tidak akan bertanding dengan serius. Sayangnya, Yu Lan tidak menyadari maksud mereka dan malah bertarung dengan serius. Ia mengalahkan mereka satu per satu tanpa kesulitan berarti. Aksinya ini dianggap menyinggung para petarung seni bela diri lainnya. Namun, akibat kesalahan Yu Lan, Turnamen Bela Diri yang awalnya hanya dinikmati sebagian kalangan mulai digemari masyarakat. Semua orang diuntungkan darinya. Yu Lan diam-diam membawa berkah.\n\nSebagai orang yang jujur dan antusias, dia selalu bersedia memberi informasi apa pun yang ia tahu kepada lawan yang meminta masukan darinya. Sayangnya, ia tak begitu paham soal teori seni bela diri. Bisa dibilang, ia bukan sosok guru yang bisa menjelaskan esensi seni bela diri secara jelas dan gamblang. Orang-orang selalu penasaran dengan silsilah bela dirinya. Yu Lan pun selalu menjelaskan dengan senang hati karena seni bela dirinya memadukan gaya tinju yang populer di gym Domain 9 dan umum dilakukan oleh penduduk di sana agar tetap sehat dan bugar. Namun, banyak orang tidak percaya pada penjelasannya karena gaya tinju ini sebenarnya cuma \"latihan pemanasan\" biasa. Meski begitu, saat gerakan yang sama dipraktikkan oleh Yu Lan, kekuatannya sangat luar biasa. Jadi, orang-orang pun menduga bahwa ia punya teknik rahasia yang meningkatkan kekuatannya. Itulah penyebab ada banyak orang yang meminta masukan soal bela diri darinya, tapi, akibat ketidakmampuannya dalam menjelaskan, ia sering jadi frustrasi sendiri.\n\nSaat berlatih bela diri dan berduel, Yu Lan mengesampingkan egonya, sehingga memungkinkannya berkonsentrasi pada latihannya tanpa gangguan. Efeknya luar biasa. Master Yu meyakini bahwa Yu Lan mempunyai kemampuan yang disebut oleh filsuf kuno sebagai \"hati suci\" sehingga membuatnya mampu mendapatkan hasil dua kali lipat cukup dengan setengah upaya yang diperlukan. Bagi Yu Lan, jalan yang terbaik untuknya adalah berlatih bela diri. Di sisi lain, ketulusan Yu Lan yang luar biasa sering membuatnya mengabaikan perasaan orang lain sehingga ia sering dianggap agak kaku dan tidak peka. Berkat bimbingan Master Yu, sikap buruk ini perlahan hilang. Yu Lan selalu mengikuti arahan dari Master Yu dengan senang hati karena setiap arahan itu langsung memberikan dampak positif pada dirinya.",
+  "like": "Berlatih bela diri, makan, dan mengikuti turnamen.",
+  "dislike": "Membuat perencanaan yang matang, menjelaskan teori seni bela diri.",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 13,
+  "charge": 11,
+  "skills": [
+    {
+      "id": "GA_FPlayerYulanMelee_Melee_name",
+      "name": "Pukulan Beruntun",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, gunakan Serangan Biasa untuk melancarkan 6 serangan berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>64.8%</b> ATK plus <b>3</b> dan membuat target terpental ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>50.4%</b> ATK plus <b>3</b> dan membuat target terpental ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>52.8%</b> ATK plus <b>3</b> dan membuat target terpental ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>143.9%</b> ATK plus <b>8</b> dan membuat target terpental ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>279.2%</b> ATK plus <b>15</b> dan membuat target terus-menerus terpental ke belakang.\nSerangan Keenam: Menimpakan DMG sebesar <b>227.4%</b> ATK plus <b>12</b> dan membuat target terpental ke atas.\n\nBattering Fist bisa digunakan dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>.\nSaat dalam wujud <b>Martial Artist</b>, gunakan Serangan Biasa setelah melancarkan serangan menghindar untuk langsung melakukan Serangan Keempat.\nSaat dalam wujud <b>Martial Artist</b>, jika Serangan Kelima berhasil mengenai target, serangan akan <b>membekukan</b> target selama <b>2</b> detik (tidak berlaku di Apex League dan saat melawan Boss) serta menerapkan <b>Chilblain</b>, menimpakan DMG sebesar <b>280%</b> ATK plus <b>15</b> setiap detik selama <b>8</b> detik. Efek ini hanya bisa terpicu pada target yang sama 1 kali setiap <b>8</b> detik."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_AirAttack_name",
+      "name": "Floating Fist",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 6 kali berturut-turut sambil mengonsumsi Stamina.\nSerangan Pertama: Menimpakan DMG sebesar <b>68.4%</b> ATK plus <b>4</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>59.9%</b> ATK plus <b>3</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>62.7%</b> ATK plus <b>3</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>136.4%</b> ATK plus <b>7</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>249%</b> ATK plus <b>13</b>.\nSerangan Keenam: Menimpakan DMG sebesar <b>222.3%</b> ATK plus <b>12</b>.\n\nFloating Fist bisa digunakan dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch1_name",
+      "name": "Forest-Piercing Swallow",
+      "type": [
+        "Attack"
+      ],
+      "description": "Forest-Piercing Swallow hanya dapat digunakan dalam wujud <b>Martial Artist</b>.\nSaat di darat, tahan Serangan Biasa saat melancarkan Serangan Biasa pertama hingga ketiga untuk memicu Forest-Piercing Swallow.\nMenimpakan DMG sebesar <b>62.8%</b> ATK plus <b>3</b> dan menarik target di sekitar. Lalu, menimpakan DMG sebesar <b>146.8%</b> ATK plus <b>{3}</b> dan membuat target terpental ke belakang.\n\nForest-Piercing Swallow juga bisa dipicu dengan cara menggunakan Serangan Biasa setelah melancarkan <b>Cloud-Soaring Kite</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch2_name",
+      "name": "Sky-Dancing Snake",
+      "type": [
+        "Attack"
+      ],
+      "description": "Sky-Dancing Snake hanya dapat digunakan dalam wujud <b>Martial Artist</b>.\nSaat di darat, tahan Serangan Biasa saat melancarkan Serangan Biasa keempat hingga kelima untuk memicu Sky-Dancing Snake.\nMenimpakan DMG sebesar <b>153.9%</b> ATK plus <b>8</b> pada target di sekitar dan membuat mereka terpental ke atas.\n\nSky-Dancing Snake juga bisa dipicu dengan cara menekan dan menahan tombol Serangan Biasa setelah melancarkan <b>Forest-Piercing Swallow</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_ArAttackBranch_name",
+      "name": "Frost High & Low",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Saat di udara, tahan Serangan Biasa saat menggunakan Serangan Biasa pertama hingga keenam untuk memicu Frost High & Low.\nMelemparkan senjatamu ke udara, menimpakan DMG sebesar <b>329%</b> ATK plus <b>17</b> kepada target di sekitar.\n\nFrost High & Low bisa dilancarkan dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_JumpAttack_name",
+      "name": "Cloud-Soaring Kite",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tekan dan tahan Serangan Biasa saat di udara (tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Cloud-Soaring Kite.\nMelakukan serangan menukik dari atas dan menimpakan DMG sebesar <b>148.6%</b> ATK plus <b>8</b> pada target di sekitar saat mendarat dan menjatuhkan mereka.\n\nCloud-Soaring Kite bisa dilancarkan dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch3_name",
+      "name": "Total Rewind",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, tahan Serangan Biasa untuk memicu Total Rewind.\nMenarik target di sekitar secara terus-menerus sambil mengonsumsi Stamina. Selama periode ini, Wanderer mendapatkan Hyperbody.\n\nTotal Rewind bisa dilancarkan dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_Evade_name",
+      "name": "Menghindar",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD target di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun.\n\nBisa digunakan dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>.\nSaat dalam wujud <b>Martial Artist</b>, mendapatkan Hyperbody selama <b>5</b> detik setelah menghindar."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackBack_name",
+      "name": "Impossible Feat",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah menghindar untuk memicu Impossible Feat, menimpakan DMG sebesar <b>177.6%</b> ATK plus <b>9</b> pada target di sekitar.\n\nImpossible Feat bisa dilancarkan saat dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackFront_name",
+      "name": "Sweeping Cloud",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Gunakan Serangan Biasa dalam rentang waktu Menghindar Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk memicu Sweeping Clouds, menimpakan DMG sebesar <b>167.6%</b> ATK plus <b>9</b> pada target di sekitar.\n\nSweeping Clouds bisa digunakan saat dalam wujud <b>Martial Artist</b> maupun <b>Sweeping Force</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_PassiveSkill_name",
+      "name": "Offense & Defense",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Unity</b> mempunyai 2 wujud: <b>Martial Artist</b> dan <b>Sweeping Force</b>. Aktifkan <b>1</b> wujud senjatanya melalui halaman Skill - Pengaturan. Wujud senjata tidak bisa diubah saat sedang bertempur.\n\nWujud <b>Martial Artist</b>: Saat bertempur, pengganda serangan menghindar/serangan biasa <b>Unity</b> meningkat <b>40%</b>. Setelah menggunakan serangan menghindar atau serangan biasa dengan senjata apa pun sebanyak <b>3</b> kali, mendapatkan <b>1</b> <b>Internal Strength</b> (maks <b>10</b>). Hanya <b>1</b> <b>Internal Strength</b> yang bisa diperoleh setiap <b>2</b> detik. Saat tidak sedang bertempur, semua <b>Internal Strength</b> akan direset menjadi nol.\nWujud <b>Sweeping Force</b>: Setelah menghantam target dengan <b>Observe & React</b>, memasuki kondisi <b>Anticipate</b> dan mendapatkan <b>1</b> <b>Fighting Spirit</b> setiap <b>0,8</b> detik (maks <b>15</b>) selama <b>60</b> detik. Saat tidak sedang bertempur, semua <b>Fighting Spirit</b> akan direset menjadi nol.\n<b>Pasif</b>: Chill</>\nSaat memakai <b>Unity</b>, mengabaikan <b>30%</b> Frost Resistance target. Efek ini juga aktif saat senjata ini ada di slot sampingan."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_name",
+      "name": "Fire In The Hole",
+      "type": [
+        "Skill"
+      ],
+      "description": "Menimpakan DMG sebesar <b>982.8%</b> ATK plus <b>52</b> pada target. CD: <b>15</b> detik. Saat menggunakan Fire In The Hole, <b>Unity</b> akan mengonsumsi hingga <b>5</b> <b>Internal Strength</b>. Saat mengonsumsi <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> <b>Internal Strength</b>, Fire In The Hole akan menimpakan DMG sebesar <b>1,2</b>/<b>1,5</b>/<b>2,1</b>/<b>2,8</b>/<b>3,7</b> kali lipat dari DMG awalnya.\nSetelah menggunakan Fire In The Hole, Frost DMG meningkat <b>20%</b> selama <b>30</b> detik.\nSetelah menggunakan Fire In The Hole, memulihkan <b>2</b> jatah menghindar.\n\nFire In The Hole hanya bisa dilancarkan saat dalam wujud <b>Martial Artist</b>.\nSaat <b>Internal Strength</b> mencapai <b>5</b>, CD Fire In The Hole akan direset."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_Skill2_name",
+      "name": "Clashing Of Arms",
+      "type": [
+        "Skill"
+      ],
+      "description": "Menimpakan DMG sebesar <b>982.8%</b> ATK plus <b>52</b> pada target. CD: <b>15</b> detik. Selama dalam status <b>Anticipate</b>, <b>Unity</b> mengonsumsi maks <b>5</b> <b>Fighting Spirit</b> setelah menggunakan skill senjata apa pun. Saat mengonsumsi <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> <b>Fighting Spirit</b>, menimpakan DMG area tambahan sebesar <b>242%</b>/<b>503%</b>/<b>1.049%</b>/<b>2.351%</b>/<b>3.930%</b> ATK, dan menimpakan DMG sebesar <b>260%</b> ATK plus <b>14</b> setiap detik selama <b>5</b> detik.\nSetelah menggunakan skill Senjata Frost apa pun, mendapatkan Hyperbody selama <b>2</b> detik.\n\nClashing Of Arms hanya bisa dilancarkan saat dalam wujud <b>Sweeping Force</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_name",
+      "name": "Snow-Treading Tiger",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke Senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>, menimpakan DMG sebesar maks <b>1173.1%</b> ATK plus <b>62</b> kepada target di sekitar dan membuat mereka <b>Terpental Ke Atas</b>. Saat diaktifkan, menjadi kebal terhadap DMG selama <b>2,6</b> detik (tak berlaku di Apex League).\n\nSnow-Treading Tiger hanya bisa dilancarkan saat dalam wujud <b>Martial Artist</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_ChangeSkill1_name",
+      "name": "Observe & React",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>, menimpakan DMG sebesar <b>1173.1%</b> ATK plus <b>62</b> pada target di sekitar dan <b>membuat target terpental ke atas</b>. Saat ini diaktifkan, kebal terhadap DMG selama <b>2,6</b> detik (tak berlaku di Apex League).\nSetelah Observe & React menghantam target, Frost DMG meningkat <b>20%</b> selama <b>30</b> detik.\nSetelah Observe & React menghantam target, memasuki status <b>Anticipate</b> selama <b>60</b> detik.\nSetelah menggunakan <b>Unity</b> untuk melancarkan Skill Discharge, mendapatkan <b>1.000</b> Charge Senjata. Efek ini hanya bisa terpicu 1 kali setiap <b>10</b> detik.\n\nObserve & React hanya bisa dilancarkan saat dalam wujud <b>Sweeping Force</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Ice Shell",
+    "description": "Saat Charge Senjata terisi penuh, serangan berikutnya akan membuat target terkena <b>Freeze Kuat</b> selama <b>2</b> detik dan Frostbite selama <b>6</b> detik. Jika lapisan es ini dipecahkan, target akan menerima DMG sebesar <b>144%</b> ATK. Saat dalam kondisi Frostbite, kecepatan pengisian Charge Senjata target berkurang <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Resonansi Frost",
+    "description": "<b>Resonansi Frost</b>: Frost ATK meningkat <b>20%</b> dan Frost Resistance meningkat <b>40%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Frost atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Frost atau efek Frost Reaction lain, di mana Resonansi Frost akan diutamakan."
+  },
+  "advancement": [
+    "Saat dalam wujud <b>Martial Artist</b>, setelah mengonsumsi <b>3</b> <b>Internal Strength</b> atau lebih, <b>Unity</b> memulihkan <b>3</b> <b>Internal Strength</b>. Lalu, Final DMG Wanderer meningkat <b>5%</b>, dan DMG Serangan Menghindar/Serangan Biasa <b>Unity</b> meningkat <b>50%</b> selama <b>30</b> detik.\nSaat dalam wujud <b>Sweeping Force</b>, setelah mengonsumsi <b>3</b> <b>Fighting Spirit</b> atau lebih, <b>Unity</b> memulihkan <b>3</b> <b>Fighting Spirit</b>. Lalu, Final DMG Wanderer meningkat <b>5%</b> selama <b>15</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
+    "Saat dalam wujud <b>Martial Artist</b>, jika <b>Internal Strength</b> tidak diperoleh dalam <b>4</b> detik, akan mendapatkan <b>2</b> <b>Internal Strength</b> pada perolehan berikutnya.\nDalam wujud apa pun, saat <b>Unity</b> mengonsumsi <b>3</b> <b>Internal Strength</b> atau <b>Fighting Spirit</b> atau lebih, memulihkan <b>10%</b> Max HP Wanderer. Dalam permainan solo, pemulihan HP meningkat menjadi <b>20%</b>. Efek ini hanya bisa dipicu 1 kali setiap <b>8</b> detik dalam wujud <b>Sweeping Force</b>. Dalam wujud <b>Martial Artist</b>, batasan ini tidak berlaku.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
+    "Setelah <b>Unity</b> mengonsumsi <b>Internal Strength</b> atau <b>Fighting Spirit</b>, saat menerima DMG mematikan, menahan DMG mematikan 1 kali dan memulihkan <b>10%</b> Max HP Wanderer (Tak berlaku di Apex League). Dalam permainan solo, pemulihan HP meningkat menjadi <b>20%</b>. Kedua efek ini hanya bisa dipicu 1 kali setiap <b>8</b> detik.",
+    "Saat dalam wujud <b>Martial Artist</b>, Serangan Dodge/Serangan Biasa <b>Unity</b> meningkat <b>70%</b>. Setelah mengonsumsi <b>Internal Strength</b>, Final DMG Wanderer meningkat <b>10%</b> selama <b>30</b> detik.\nSaat dalam wujud <b>Sweeping Force</b>, setelah <b>Unity</b> mengonsumsi <b>Fighting Spirit</b>, Final DMG Wanderer meningkat <b>15%</b> selama <b>30</b> detik."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Final DMG meningkat <b>{0}%</b>.\nSaat dalam wujud <b>Martial Artist</b>, Final DMG meningkat <b>{1}%</b> lagi. Setelah <b>Fire In The Hole</b> menghantam target, Frost DMG yang diterima target yang terhantam meningkat <b>{2}%</b> selama <b>20</b> detik.\nSaat dalam wujud <b>Sweeping Force</b>, untuk setiap <b>1</b> Senjata Frost yang dipakai, setelah mengonsumsi <b>Fighting Spirit</b>, DMG yang ditimpakan meningkat <b>{3}%</b>. Saat memakai <b>3</b> Senjata Frost, Frost DMG meningkat <b>{4}%</b>.",
+      "values": [
+        13,
+        7,
+        1,
+        9,
+        8
+      ]
+    },
+    {
+      "name": "",
+      "description": "Final DMG meningkat <b>{0}%</b>.\nSaat dalam wujud <b>Martial Artist</b>, Final DMG meningkat <b>{1}%</b> lagi. Setelah <b>Fire In The Hole</b> menghantam target, Frost DMG yang diterima target yang terhantam meningkat <b>{2}%</b> selama <b>20</b> detik.\nSaat dalam wujud <b>Sweeping Force</b>, untuk setiap <b>1</b> Senjata Frost yang dipakai, setelah mengonsumsi <b>Fighting Spirit</b>, DMG yang ditimpakan meningkat <b>{3}%</b>. Saat memakai <b>3</b> Senjata Frost, Frost DMG meningkat <b>{4}%</b>.",
+      "values": [
+        18,
+        7,
+        1,
+        9,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

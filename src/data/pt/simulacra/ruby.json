@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Melee_name",
       "name": "Ataque do Faísca",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, use o botão de ataque normal para ordenar que Faísca ataque 5 vezes seguidas.\nPrimeiro ataque: causa dano total de <b>84.6%</b> do ATQ + <b>4</b> a cada alvo.\nSegundo ataque: causa dano total de <b>93%</b> do ATQ + <b>5</b> a cada alvo.\nTerceiro ataque: causa dano total de <b>101.5%</b> do ATQ + <b>5</b> a cada alvo.\nQuarto ataque: causa dano total de <b>109.9%</b> do ATQ + <b>6</b> a cada alvo.\nQuinto ataque: causa dano total de <b>253.7%</b> do ATQ + <b>13</b> a cada alvo e os <b>lança no ar</b>."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AirAttack_name",
       "name": "Detonação Aérea",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar, use o botão de ataque normal para ordenar que Faísca ataque 4 vezes seguidas.\nPrimeiro ataque: Causa dano total de <b>97.1%</b> do ATQ + <b>5</b> a cada alvo.\nSegundo ataque: Causa dano total de <b>106.8%</b> do ATQ + <b>6</b> a cada alvo.\nTerceiro ataque: Causa dano total de <b>121.3%</b> do ATQ + <b>6</b> a cada alvo.\nQuarto ataque: Causa dano total de <b>145.6%</b> do ATQ + <b>8</b> a cada alvo."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AimAttack_name",
       "name": "Peguei você!",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Segure o botão de ataque normal ou após ativar Zona de Quarentena para disparar raios de energia causticante continuamente em alvos na direção selecionada. Causa dano de <b>40%</b> do ATQ + <b>2</b> e consome vigor do Errante."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_JumpAttack_name",
       "name": "Mergulho Abrasador",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "No ar, segure o botão de ataque normal para usar Mergulho Abrasador.\nEnvolve o corpo em energia antes de mergulhar rapidamente rumo ao solo. Causa dano de <b>172.1%</b> do ATQ + <b>9</b> a alvos próximos."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Branch_name",
       "name": "Zona de Quarentena",
       "type": [
         "Attack",
@@ -57,6 +62,7 @@
       "description": "Após o segundo ataque normal, segure o botão durante qualquer ataque para causar dano de <b>40%</b> do ATQ + <b>2</b> ao alvo. O alvo travado fica confinado e queima durante <b>3</b> segundos. Causa dano de <b>26.2%</b> do ATQ + <b>1</b> ao alvo por segundo (não funciona em chefes)."
     },
     {
+      "id": "GA_FPlayeFunnelEvadeFire_FrontAttack_name",
       "name": "Vai, Lilica!",
       "type": [
         "Dodge",
@@ -65,6 +71,7 @@
       "description": "Arremessa Lilica após se esquivar. Lilica permanece durante <b>10</b> segundos, atraindo inimigos próximos. Causa dano de <b>84.6%</b> do ATQ + <b>4</b> aos alvos. Lilica também os provoca durante <b>1,5</b> segundo, direcionando os ataques para ela (não é possível provocar inimigos quando em equipe)."
     },
     {
+      "id": "GA_FPlayerFunnelSkillFire_name",
       "name": "Colisor Faiscante",
       "type": [
         "Skill"
@@ -72,11 +79,12 @@
       "description": "Faísca dispara centelhas, que dura 15 segundos e ricocheteia entre o alvo e você. Ao atingir o alvo, centelhas o desacelera durante <b>4</b> segundos. Tempo de recarga: <b>15</b> seg. Centelhas causa mais dano quanto maior for a distância percorrida. Ao atingir, causa dano de até <b>350%</b> do ATQ + <b>37</b> e inflige uma marca de esbrasear de <b>25</b> segundos ao alvo. Ao mesmo tempo, Faísca dispara 4 balas. Cada uma causa dano de <b>50%</b> do ATQ + <b>3</b> ao alvo. O ataque normal de Faísca causa <b>110%</b> mais dano a alvos marcados com esbrasear. Quando centelhas atinge alvos queimados por você, ela queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incêndio são contados juntos). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. Tempo de recarga da habilidade: <b>30</b> seg.\n<b>Passiva</b>: Quando centelhas está ativo, você ganha <b>1</b> ponto de calor com tempo de recarga de <b>0,9</b> segundo cada vez que Ataque do Faísca causa dano. Pode acumular até <b>8</b> pontos de calor. Quando atinge o limite de calor, você ganha o efeito calor de rachar, que aumenta o ATQ ígneo em <b>25%</b> durante <b>25</b> segundos."
     },
     {
+      "id": "GA_FPlayerFunnelChangeSkillFire_Success_name",
       "name": "Supernova",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. Faísca entra em estado carregado e emite raios de energia causticante em uma área alvo ampla antes de acabar explodindo. Causa dano de <b>750%</b> do ATQ + <b>39</b>. Se o alvo tiver um efeito de queimadura autoinfligido, então queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incendiamento são contados em conjunto). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. Recebe imunidade a dano dura <b>2,6</b> segundos enquanto a habilidade está ativa (Indisponível na Liga do Apogeu)."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. Faísca entra em estado carregado e emite raios de energia causticante em uma área alvo ampla antes de acabar explodindo. Causa dano de <b>750%</b> do ATQ + <b>39</b>. Se o alvo tiver um efeito de queimadura autoinfligido, então queima ou incendeia o alvo uma vez e causa dano adicional de <b>100%</b> do dano restante total (vários efeitos de queimadura ou incendiamento são contados em conjunto). O tempo de recarga do cálculo de resultado são <b>6</b> segundos. Recebe imunidade a dano dura <b>2,6</b> segundos enquanto a habilidade está ativa (Indisponível na Liga do Apogeu)."
     }
   ],
   "weapon_type": {

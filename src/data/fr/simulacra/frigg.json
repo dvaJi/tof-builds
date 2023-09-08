@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerFriggMelee_Melee_name",
       "name": "Attaque normale",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nPremière attaque : inflige des dégâts équivalant à <b>62.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>46.2%</b> de l'ATQ + <b>2</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>91.1%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>55.8%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nCinquième attaque : inflige des dégâts équivalant à <b>218.4%</b> de l'ATQ + <b>11</b> et renverse la cible."
     },
     {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
       "name": "Décharge aérienne",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>64.4%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>72.6%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>76.7%</b> de l'ATQ + <b>4</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>107.9%</b> de l'ATQ + <b>6</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>168.3%</b> de l'ATQ + <b>9</b>."
     },
     {
+      "id": "GA_PlayerFriggMelee_Branch_name",
       "name": "Taillade aérienne",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Lors d'une attaque normale, maintenez Attaque normale pour déclencher Taillade aérienne.\nAvancez rapidement en frappant horizontalement, puis suspendez la cible dans les airs avant de vous envoler avec elle. Inflige un maximum de <b>134.3%</b> de l'ATQ + <b>7</b> de dégâts."
     },
     {
+      "id": "GA_PlayerFriggMelee_JumpAttack_name",
       "name": "Taillade hélicoïdale",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Taillade hélicoïdale.\nLorsque vous tombez, vous infligez des dégâts correspondant à <b>19.8%</b> de l'ATQ + <b>1</b> à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à <b>185.7%</b> de l'ATQ + <b>10</b> aux cibles proches."
     },
     {
+      "id": "GA_FPlayerFriggEvade_BackAttack_name",
       "name": "Taillades multiples",
       "type": [
         "Perfect Dodge",
@@ -58,6 +63,7 @@
       "description": "Appuyer sur l'attaque normale pendant la courte fenêtre d'esquive parfaite pour déclencher Taillades multiples.\nTaillade plusieurs fois une zone à une certaine distance devant le lanceur, infligeant un total de dégâts équivalant à <b>143.9%</b> de l'ATQ + <b>8</b>."
     },
     {
+      "id": "GA_FPlayerFriggSkill_Skill_name",
       "name": "Fimbulhiver",
       "type": [
         "Skill"
@@ -65,11 +71,12 @@
       "description": "Frappe la zone autour de l'Explorateur, infligeant un total de dégâts équivalant à <b>577.5%</b> de l'ATQ + <b>30</b>. Projette et suspend les cibles. Confère également une immunité aux dégâts lors de l'utilisation de la compétence. Temps de recharge : <b>30</b> secondes.\nAprès avoir lancé <b>\"Fimbulhiver\"</b>, un vaste domaine de givre se forme autour de l'Explorateur pendant <b>25</b> secondes. Les tentatives d'esquive ne sont pas consommées lorsque vous esquivez avec Balmung dans le domaine de givre.\nConfère \"Zone de givre I\" lorsque vous êtes dans le domaine de givre. Accroît la capacité de fracture de <b>25%</b> et l'ATQ de givre de <b>15%</b> lorsque vous utilisez une arme de givre."
     },
     {
+      "id": "GA_FPlayerFriggChangeSkill_Success_name",
       "name": "Fracture frigorifique",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b> au moment où vous changez d'arme pour passer à celle-ci, et vous vous ruez vers l'avant pour attaquer, contrôlant temporairement les ennemis à proximité avant de déchaîner une taillade sur une zone étendue. Projette les cibles dans les airs et inflige des dégâts équivalant à <b>618.2%</b> de l'ATQ + <b>33</b>."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur l'Explorateur</b> au moment où vous changez d'arme pour passer à celle-ci, et vous vous ruez vers l'avant pour attaquer, contrôlant temporairement les ennemis à proximité avant de déchaîner une taillade sur une zone étendue. Projette les cibles dans les airs et inflige des dégâts équivalant à <b>618.2%</b> de l'ATQ + <b>33</b>."
     }
   ],
   "weapon_type": {

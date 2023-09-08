@@ -466,5 +466,56 @@
         "value": ["MatrixSuit_SSR18_des2", [12, 11, 28, 31, 34]]
       }
     ]
+  },
+  {
+    "_id": "SSR21",
+    "name": "nitai_annabeila_SSR",
+    "id": "annabella",
+    "suitName": "MatrixSuit_SSR21_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": ["MatrixSuit_SSR21_des1", [14, 16, 18, 20, 9, 9, 9, 9, 9]]
+      },
+      {
+        "count": 4,
+        "value": ["MatrixSuit_SSR21_des2", []]
+      }
+    ]
+  },
+  {
+    "_id": "SSR34",
+    "name": "nitai_zeke_name",
+    "id": "ming_jing",
+    "suitName": "MatrixSuit_SSR34_SuitName",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": ["MatrixSuit_SSR_34_des1", [14, 16, 18, 20]]
+      },
+      {
+        "count": 4,
+        "value": ["MatrixSuit_SSR_34_des2", [9, 30, 14, 17, 20, 23]]
+      }
+    ]
+  },
+  {
+    "_id": "SSR33",
+    "name": "nitai_Yulan_name",
+    "id": "yu_lan",
+    "suitName": "Matrix_SSR33_Suitname",
+    "rarity": "SSR",
+    "bonus": [
+      {
+        "count": 2,
+        "value": ["Buff_Martix_SSR_63_des", [85, 7, 8, 9, 10, 30]]
+      },
+      {
+        "count": 4,
+        "value": ["Buff_Martix_SSR_64_des", [6, 15, 12, 15, 19, 23, 30]]
+      }
+    ]
   }
 ]

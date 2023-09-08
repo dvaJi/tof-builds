@@ -1,0 +1,313 @@
+{
+  "_id": 1026,
+  "id": "annabella",
+  "name": "Annabella",
+  "weapon": "Clover Cross",
+  "weapon_id": "clover_cross",
+  "birthday": "28 April",
+  "birthplace": "Tak Diketahui",
+  "gender": "Perempuan",
+  "info": "Seorang pelayan biasa yang kalem, tenang, sabar, elegan, anggun, dan mampu menangani segala jenis kondisi darurat... atau begitulah seharusnya.\nDia punya kebiasaan meminta perintah langsung dari sang \"Master\" untuk hal sekecil apa pun yang dia lakukan dan melaporkan status setiap langkahnya. Kelemahan terbesarnya adalah dia tidak mampu membuat keputusan apa pun sehingga misi yang dijalankannya tertunda akibat alasan yang aneh.\nSelain itu, meskipun sikapnya selalu sopan dan santun, anehnya dia kadang-kadang menggunakan kata-kata yang kasar, walaupun dia mengatakannya dengan nada yang lembut...",
+  "description": "Salah satu dari tujuh mitos urban di forum anonim Mirroria—pelayan vampir merah yang berkeliaran di Kota Bawah...\nPerempuan misterius itu ternyata menjalani beberapa pekerjaan paruh waktu untuk mencari penghasilan, bahkan salah satunya adalah menjadi pengawal. Karena kesannya biasa saja, mitos urban tersebut hanya dianggap sebagai gosip yang dibesar-besarkan.\nDia sendiri bersikeras bahwa dia itu cuma pelayan yang melakukan pekerjaannya dan mengikuti perintah sang \"Master\" melalui alat komunikasinya. Namun, identitas sang \"Master\" ini masih menjadi misteri.\nWalau begitu, dia memang kadang terlihat seperti vampir... tapi mungkin juga dia cuma orang biasa yang jago dalam permainan tembak-tembakan dengan cara bicara yang agak aneh...",
+  "like": "Sang \"Master\". Dia akan mengikuti perintahnya sampai detail terkecil.",
+  "dislike": "Bumbu yang terlalu pekat, pembicaraan tentang makhluk aneh",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 9,
+  "skills": [
+    {
+      "id": "GA_FPlayerSnipeMelee_Melee_name",
+      "name": "Serangan Biasa",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di darat, serang 3 kali berturut-turut dengan senapan sniper.\nSerangan Pertama: Menimpakan DMG sebesar <b>44.2%</b> ATK plus <b>2</b> dan membuat target terpental ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>84.4%</b> ATK plus <b>4</b> dan membuat target terpental ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>176.9%</b> ATK plus <b>9</b> dan membuat target terpental ke atas."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_PowerAttack_name",
+      "name": "Cross Snipe",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga untuk menyerang, menimpakan DMG awal sebesar <b>26.1%</b> ATK plus <b>1</b>. Setelah tenaga terkumpul, menimpakan DMG hingga <b>180.4%</b> ATK plus <b>9</b>. Menimpakan DMG dua kali lipat jika Headshot atau menghantam titik lemah lawan, dan membuat target terpental ke atas (Headshot tidak berlaku bagi Wanderer).\n<b>Pasif:</b> Memulihkan <b>300</b> Charge Senjata saat Cross Snipe menghantam target yang terbakar atau mendaratkan serangan Crit. CD: <b>15</b> detik.\n<b>Pasif:</b> Kecepatan meningkat <b>30%</b> selama <b>3</b> detik setelah menggunakan Cross Snipe."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_Branch_name",
+      "name": "Boiling Noise",
+      "type": [
+        "Attack"
+      ],
+      "description": "Setelah melakukan Serangan Biasa, tekan dan tahan Serangan Biasa untuk menembakkan peluru laser yang akan meledak saat menghantam target, menimpakan DMG sebesar maks <b>150%</b> ATK plus <b>8</b> kepada target dalam jangkauan ledakan dan menerapkan efek Suspend kepada mereka."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_AirAttack_name",
+      "name": "Aerial Discharge",
+      "type": [
+        "Attack"
+      ],
+      "description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 3 kali berturut-turut di udara.\nSerangan Pertama: Menimpakan DMG sebesar <b>47.6%</b> ATK plus <b>3</b> dan membuat target terpental ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>90.9%</b> ATK plus <b>5</b> dan membuat target terpental ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>190.5%</b> ATK plus <b>10</b> dan membuat target terpental ke atas."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_EvadeAttack_name",
+      "name": "Twilight Arc",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Lompat ke belakang dan melempar 1 granat ke depan, yang akan meledak saat menyentuh tanah, menimpakan DMG hingga <b>37%</b> ATK plus <b>2</b> kepada target dan menerapkan Suspend, membuat mereka tertahan di udara.\n<b>Pasif:</b> Setelah menggunakan Twilight Arc, gunakan Serangan Biasa untuk secara langsung menembakkan Cross Snipe yang terisi penuh."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_Evade_name",
+      "name": "Menghindar",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang akan memperlambat musuh dalam area tersebut. CD: 15 detik. Saat Menghindar, kamu akan menjadi kebal terhadap Hitstun selama <b>0,5</b> detik."
+    },
+    {
+      "id": "GA_FPlayerSnipeSkill_Skill_des",
+      "name": "Ember Mag",
+      "type": [
+        "Skill"
+      ],
+      "description": "Ganti modul untuk mengubah efek Cross Snipe dan Twilight Arc. Cross Snipe bisa digunakan hingga <b>8</b> kali. CD: <b>14</b> detik.\n<b>Ruthless Bomb</b>: Efek Cross Snipe berubah menjadi ledakan api yang menimpakan DMG awal sebesar <b>27.3%</b> ATK plus <b>1</b> dalam suatu area. Setelah mengisi tenaga, menimpakan DMG hingga <b>188.6%</b> ATK plus <b>10</b>. Saat menghantam target yang tidak sedang terbakar, menerapkan Cross Burn kepada mereka, yang menimpakan DMG sebesar <b>120%</b> ATK setiap detik selama <b>13</b> detik. Saat menghantam target yang sedang terbakar, menerapkan Cross Burn kepada mereka dan memasuki Burn Enhancement selama <b>20</b> detik, yang meningkatkan DMG Burn pada target sebesar <b>20%</b>. Saat menggunakan Twilight Arc, kamu sekarang melontarkan <b>3</b> granat.\n<b>Deceitful Bomb</b>: Mengubah efek Cross Snipe menjadi serangan Gas jarak jauh yang menimpakan DMG awal sebesar <b>42.6%</b> ATK plus <b>2</b> saat menghantam target. Setelah mengisi tenaga, menimpakan hingga <b>294.1%</b> ATK plus <b>15</b> DMG. Target di dalam Gas akan diperlambat. Efek Slow menjadi lebih kuat seiring waktu dan Gas ini aktif selama <b>7</b> detik. Twilight Arc bisa meledakkan Gas (makin lama durasi pengisian tenaga, makin besar DMG ledakan Gas), menimpakan DMG ledakan hingga <b>316.2%</b> ATK plus <b>17</b> (ini dianggap sebagai memicu Cross Snipe 1 kali) dan mengurangi Flame Resistance target sebesar <b>10%</b> selama <b>10</b> detik.\n\n<b>Pasif</b>: Setelah menentukan modul, kamu akan mendapatkan Optical Enhancement sesuai dengan jumlah jatah menghindar Cross Snipe. Optical Enhancement: Mempersingkat waktu pengisian Cross Snipe sebesar <b>30%</b>, menjadi kebal terhadap Efek Kontrol selama mengisi tenaga. Memulihkan <b>1</b> jatah menghindar (maks <b>4</b> jatah menghindar) setiap <b>2</b> kali menghindar.\n<b>Pasif</b>: Selama Modul Deceitful Bomb aktif, Cross Snipe berpeluang mempersingkat CD skill dari Senjata Flame lainnya selama <b>0,7</b> detik setelah menghantam target."
+    },
+    {
+      "id": "GA_FPlayerSnipeChangeSkill_Success_name",
+      "name": "Bombardment Command",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan melempar bom api yang bisa diledakkan dengan menembaknya, menimpakan DMG hingga <b>765.4%</b> ATK + <b>40</b> dan membuat mereka <b>terpental keras</b>. Saat Skill ini aktif, kebal terhadap DMG selama <b>2,6</b> detik (tidak berlaku di Apex League)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "Saat Charge Senjata penuh, serangan berikutnya akan membakar target selama <b>8</b> detik, menimpakan DMG sebesar <b>{3}%</b> ATK setiap detik. Efek penyembuhan target yang terbakar berkurang <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Flame Reaction",
+    "description": "<b>Flame Reaction</b>: Flame ATK meningkat <b>20%</b> dan Flame Resistance meningkat <b>40%</b>. Aktifkan dengan cara memakai <b>2</b> Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Flame atau efek Flame Reaction lain, di mana Resonansi Flame akan diutamakan."
+  },
+  "advancement": [
+    "Menghantam target <b>2</b> kali dengan Cross Snipe akan menciptakan <b>Optical Space</b> yang aktif selama <b>12</b> detik di lokasi target. Setelah musuh di dalam Optical Space terkena Burn, Burn tersebut akan diberlakukan <b>2</b> kali lagi. Saat unit musuh keluar dari Optical Space, kecepatan mereka berkurang <b>80%</b> selama <b>2,5</b> detik. CD: <b>12</b> detik.\nTarget Cross Snipe akan menjadi ketakutan (mengurangi kecepatan sebesar <b>80%</b>) selama <b>1,5</b> detik. CD: <b>4</b> detik.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>16%</b>.",
+    "Setiap kali Cross Snipe mendaratkan serangan Crit, memulihkan HP sebesar <b>50%</b> DMG yang ditimpakan (tidak lebih dari <b>15%</b> Max HP diri sendiri) dan <b>50</b> Charge Senjata.\nSetiap tumpuk Tranquil Heart meningkatkan Crit Rate Final menjadi <b>9%</b>, maks <b>27%</b>, dan mengonversi hingga <b>13,5%</b> Crit DMG.",
+    "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
+    "<b>Ruthless Bomb</b> Enhancement: Dalam kondisi Burn Enhancement, DMG dari Burn yang ditimpakan kepada target meningkat <b>30%</b>.\n<b>Deceitful Bomb</b> Enhancement: DMG ledakan gas mengabaikan <b>30%</b> Flame Resistance target.",
+    "Memberikan peningkatkan tambahan untuk DMG yang ditimpakan oleh Cross Snipe sebesar <b>20%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Untuk setiap <b>1</b> musuh yang terkena ledakan gas, meningkatkan DMG dari Clover Cross sebesar <b>{0}%</b> selama <b>{1}</b> detik. Maks <b>2</b> tumpuk.",
+      "values": [
+        8,
+        20
+      ]
+    },
+    {
+      "name": "",
+      "description": "Untuk setiap <b>1</b> musuh yang terkena ledakan gas, meningkatkan DMG dari Clover Cross sebesar <b>{0}%</b> selama <b>{1}</b> detik. Maks <b>2</b> tumpuk.",
+      "values": [
+        15,
+        20
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

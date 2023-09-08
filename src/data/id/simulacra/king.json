@@ -19,6 +19,7 @@
   "charge": 5,
   "skills": [
     {
+      "id": "GA_FPlayerSickleMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, ayunkan Scythe untuk melancarkan serangan 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>57.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>49.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>106.8%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>109.5%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>104.2%</b> ATK plus <b>5</b>, mengakibatkan <b>Suspend Keras</b> kepada target, dan membuat Wanderer mengudara."
     },
     {
+      "id": "GA_FPlayerSickleMeleeFire_SSR_AirAttack_name",
       "name": "Rising Scythe",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>63.4%</b> ATK plus <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>68.8%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>190.5%</b> ATK plus <b>10</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>213.6%</b> ATK plus <b>11</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>173.9%</b> ATK plus <b>9</b> dan menjatuhkan target. Makin tinggi posisi pemain saat melakukan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
+      "id": "GA_FPlayerSickleMeleeFire_SSR_JumpAttack_name",
       "name": "Asunder",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Tahan Serangan Biasa saat di udara (tekan saat ada target yang tersedia), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Asunder.\nSaat terjun, menimpakan DMG sebesar <b>12.5%</b> ATK plus <b>1</b> tiap menghantam target. Saat mendarat, menimpakan DMG sebesar <b>71.9%</b> ATK plus <b>4</b> dan <b>Knockdown</b>.\nMakin tinggi posisimu saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
       "name": "Returning Chainblade",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\nMenimpakan DMG dengan nominal maksimal sebesar <b>137.4%</b> ATK plus <b>7</b> dan menarik musuh di sekitar."
     },
     {
+      "id": "GA_FPlayerSickleSneakFire_SSR_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
       "name": "Returning Chainblade",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\nMenimpakan DMG dengan nominal maksimal sebesar <b>126.9%</b> ATK plus <b>7</b> dan menarik musuh di sekitar."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_BackAttack_name",
       "name": "Domain of the Bat",
       "type": [
         "Dodge",
@@ -74,6 +81,7 @@
       "description": "Saat Menghindar, menciptakan zona Domain Of The Bat yang akan menarik target ke tengah. Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk mengayunkan sabit, menimpakan DMG dengan nominal maksimal sebesar <b>114.3%</b> ATK plus <b>6</b> kepada target."
     },
     {
+      "id": "GA_FPlayerSickleSkillFire_SSR_name",
       "name": "Mortal Coil",
       "type": [
         "Skill"
@@ -81,11 +89,12 @@
       "description": "Ayunkan Scythe untuk menimpakan DMG sebesar <b>499.9%</b> ATK plus <b>26</b>. CD: <b>45</b> detik."
     },
     {
+      "id": "GA_FPlayerSickleChangeSkillFire_SSR_New_Sucess_name",
       "name": "Flaming Scythe",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan menciptakan Flaming Scythe, menimpakan DMG sebesar <b>398.3%</b> ATK plus <b>21</b> dan berlangsung selama <b>10</b> detik. Selain itu, menciptakan Flaming Scythe Domain setiap <b>2</b> detik. Sabit-sabit tersebut akan menghasilkan ledakan api dari tanah, menimpakan DMG sebesar <b>66%</b> ATK plus <b>3</b> kepada target dan membuat mereka terpental ke atas."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan menciptakan Flaming Scythe, menimpakan DMG sebesar <b>398.3%</b> ATK plus <b>21</b> dan berlangsung selama <b>10</b> detik. Selain itu, menciptakan Flaming Scythe Domain setiap <b>2</b> detik. Sabit-sabit tersebut akan menghasilkan ledakan api dari tanah, menimpakan DMG sebesar <b>66%</b> ATK plus <b>3</b> kepada target dan membuat mereka terpental ke atas."
     }
   ],
   "weapon_type": {

@@ -19,6 +19,7 @@
   "charge": 6,
   "skills": [
     {
+      "id": "GA_FPlayerHammerMelee_Melee_name",
       "name": "Attaque normale",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, brandissez le merlin pour attaquer 4 fois d'affilée.\nPremière attaque : inflige des dégâts équivalant à <b>76.3%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>62.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>157.4%</b> de l'ATQ + <b>8</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>263.8%</b> de l'ATQ + <b>14</b> et projette la cible.\nPendant qu'Explosion de rage est active, brandissez le merlin pour attaquer 4 fois d'affilée.\nPremière attaque : inflige des dégâts équivalant à <b>{8}%</b> de l'ATQ + <b>{9}</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>{10}%</b> de l'ATQ + <b>{11}</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>{12}%</b> de l'ATQ + <b>{13}</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>{14}%</b> de l'ATQ + <b>{15}</b> et <b>suspend longuement</b> la cible."
     },
     {
+      "id": "GA_FPlayerHammerMelee_AirAttack_name",
       "name": "Pilonner",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour déclencher Explosion sautée. Inflige des dégâts équivalant à <b>121.7%</b> de l'ATQ + <b>6</b> et suspend la cible.\nTant qu'Explosion de rage est active, inflige des dégâts équivalant à <b>133.9%</b> de l'ATQ + <b>7</b> et <b>suspend longuement</b> la cible.\nPlus vous prenez de l'altitude avant de déclencher l'attaque, plus les dégâts infligés sont importants, pour un bonus maximal de <b>600%</b>."
     },
     {
+      "id": "GA_FPlayerHammerMelee_JumpAttack_name",
       "name": "Onde de choc",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Les actions suivantes déclencheront Onde de choc : maintenir Attaque lorsque vous êtes dans les airs, faire un double-saut, appuyer brièvement sur Attaque dans les airs lorsque des cibles sont proches, escalader, sauter en arrière, ou attaquer pendant que vous utilisez le jetpack. <b>Suspend longuement</b> la cible <b>4</b> fois, lui infligeant à chaque fois des dégâts équivalant à <b>34.8%</b> de l'ATQ + <b>2</b>. Consomme <b>250</b> d'endurance.\nTant que l'effet Explosion de rage est actif, l'onde de choc <b>suspend longuement</b> la cible <b>5</b> fois, lui infligeant à chaque fois des dégâts équivalant à <b>38.3%</b> de l'ATQ + <b>2</b>.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
+      "id": "GA_FPlayerHammerSneak_name",
       "name": "Attaque furtive",
       "type": [
         "Croch",
@@ -50,6 +54,7 @@
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>427.5%</b> de l'ATQ + <b>23</b>."
     },
     {
+      "id": "GA_FPlayerHammerPower_name",
       "name": "Frappe concentrée",
       "type": [
         "Hold: Attack"
@@ -57,6 +62,7 @@
       "description": "Appuyez et maintenez Attaque normale pour déclencher Frappe concentrée (peut être rechargée jusqu'à 3 cumuls). Pendant la recharge, confère une immunité contre tous les effets de contrôle ainsi que l'effet Hypercorps.\nPremier cumul : inflige des dégâts équivalant à <b>110%</b> de l'ATQ + <b>6</b> et suspend la cible.\nDeuxième cumul : inflige des dégâts équivalant à <b>276%</b> de l'ATQ + <b>15</b> et <b>suspend longuement</b> la cible.\nTroisième cumul : inflige des dégâts équivalant à <b>518%</b> de l'ATQ + <b>27</b> et <b>suspend longuement</b> la cible.\nTant qu'Explosion de rage est active, maintenez Attaque normale pour déclencher Frappes furieuses. Inflige des dégâts équivalant à <b>501.6%</b> de l'ATQ + <b>26</b> et <b>suspend longuement</b> la cible."
     },
     {
+      "id": "GA_FPlayerHammerEvade_FrontAttack_name",
       "name": "Frappe sautée",
       "type": [
         "Dodge"
@@ -64,6 +70,7 @@
       "description": "Utilisez les flèches et la touche d'esquive pour déclencher Frappe sautée et libérer une onde de choc. L'ennemi est suspendu <b>4</b> fois et subit des dégâts équivalant à <b>161.6%</b> de l'ATQ + <b>9</b>."
     },
     {
+      "id": "GA_FPlayerHammerEvade_BackAttack_name",
       "name": "Pourfendeur",
       "type": [
         "Dodge",
@@ -72,6 +79,7 @@
       "description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Pourfendeur et libérer <b>3</b> ondes de choc vers l'avant, chacune infligeant des dégâts équivalant à <b>52.4%</b> de l'ATQ + <b>3</b> et suspendant les cibles.\nEn mode Explosion de rage, envoie <b>5</b> ondes de choc vers l'avant, chacune infligeant des dégâts équivalant à <b>52.4%</b> de l'ATQ + <b>3</b>, et suspendant la cible."
     },
     {
+      "id": "GA_FPlayerHammerSkill_name",
       "name": "Explosion de rage",
       "type": [
         "Skill"
@@ -79,11 +87,12 @@
       "description": "Changez d'arme pour activer Explosion de rage, augmentant les dégâts infligés pendant <b>25</b> secondes.\nTant qu'Explosion de rage est active, les compétences déclenchent Fureur du vent, qui inflige des dégâts équivalant à <b>219%</b> de l'ATQ + <b>12</b>, <b>suspend longuement</b> la cible, et crée un courant d'air au sol. Tant que vous vous tenez dans le courant d'air, esquiver n'a aucun coût. Temps de recharge : <b>45</b> secondes (temps de recharge de Fureur du vent : <b>10</b> secondes)."
     },
     {
+      "id": "GA_FPlayerHammerIceChangeSkill_Sucess_name",
       "name": "Merlin écrasant",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b> et <b>suspend longuement</b> les cibles proches au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>153.3%</b> de l'ATQ + <b>8</b>. Invoque aussi un merlin qui tombe sur les cibles proches, infligeant des dégâts équivalant à <b>153.3%</b> de l'ATQ + <b>8</b>."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur l'Explorateur</b> et <b>suspend longuement</b> les cibles proches au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à <b>153.3%</b> de l'ATQ + <b>8</b>. Invoque aussi un merlin qui tombe sur les cibles proches, infligeant des dégâts équivalant à <b>153.3%</b> de l'ATQ + <b>8</b>."
     }
   ],
   "weapon_type": {

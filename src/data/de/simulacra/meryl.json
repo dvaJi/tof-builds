@@ -19,6 +19,7 @@
   "charge": 4,
   "skills": [
     {
+      "id": "GA_FPlayerBigSwordMeleeIce_SSR_name",
       "name": "Heftige Spaltung",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Wenn der Anwender am Boden das Großschwert schwingt, wird 4-mal hintereinander angegriffen.\nErster Angriff: Verursacht Schaden in Höhe von <b>72.9%</b> des ANG +<b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>60.1%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>105.4%</b> des ANG +<b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>156%</b> des ANG +<b>8</b>, schleudert das Ziel <b>stark hoch</b> und schleudert es bei der Landung erneut hoch."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Luftschlag",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 4-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>106.5%</b> des ANG +<b>6</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>87.5%</b> des ANG +<b>5</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>156%</b> des ANG +<b>8</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>140.5%</b> des ANG +<b>7</b>, verursacht einen <b>Knockdown</b> und schleudert das Ziel bei der Landung hoch."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Branch_name",
       "name": "Aufsteigender Schnitt",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Halte nach dem dritten normalen Angriff den normalen Angriff gedrückt, um „Aufsteigender Schnitt“ auszulösen.\nDies lässt das Ziel bei einem Treffer <b>länger schweben</b> und den Anwender in die Luft springen, um Schaden in Höhe von <b>64.3%</b>des ANG +<b>3</b> zu verursachen."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_JumpAttack_name",
       "name": "Neumondschnitt",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Neumondschnitt"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_R_Sneak_name",
       "name": "Schleichattacke",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG +<b>30</b> verursacht."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Power_name",
       "name": "Wirbelsturm",
       "type": [
         "Hold: Attack"
@@ -65,6 +71,7 @@
       "description": "Halte den normalen Angriff gedrückt, während du stillstehst oder dich bewegst, um „Wirbelsturm“ auszulösen. Dies verursacht beim Ziel alle <b>0,5</b> Sek. Schaden in Höhe von <b>132.8%</b> des ANG +<b>7</b>. Gewährt währenddessen Lähmungsangriff-Immunität."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR_name",
       "name": "Verwüsten",
       "type": [
         "Perfect Dodge",
@@ -73,6 +80,7 @@
       "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Verwüsten“ auszulösen.\nVerursacht bei jedem Treffer Schaden in Höhe von <b>65.9%</b> des ANG +<b>3</b> und <b>schleudert</b> Ziele hoch."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR_name",
       "name": "Halbmondschnitt",
       "type": [
         "Dodge",
@@ -81,6 +89,7 @@
       "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff, um „Halbmondschnitt“ auszulösen.\nSchwinge das Großschwert, um Schwert-Auren nach vorne zu schleudern, die jeweils Schaden in Höhe von <b>49.6%</b> des ANG +<b>3</b> verursachen."
     },
     {
+      "id": "GA_FPlayerBigSwordBigSkillIce_SSR_name",
       "name": "Schneesturm",
       "type": [
         "Skill"
@@ -88,11 +97,12 @@
       "description": "Schwinge das Großschwert, um Schwert-Auren nach vorne zu schleudern, die jeweils Schaden in Höhe von <b>141.7%</b> des ANG + <b>7</b> verursachen, und erhöhe mit jedem Treffer den verursachten Schaden um <b>5%</b>. Gewährt Immunität gegen Kontrolleffekte, solange es aktiv ist. Abklingzeit: <b>30</b> Sek."
     },
     {
+      "id": "GA_FPlayerBigSwordChangeSkillIce_SSR_name",
       "name": "Frostbarriere",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, <b>werden nach dem Wechsel zu dieser Waffe alle Debuffs vom Anwender entfernt</b> und er zerschmettert den Boden, um eine Barriere zu erzeugen. Dies fügt Gegnern in der Nähe Schaden in Höhe von <b>503.2%</b> des ANG +<b>26</b> zu und lässt sie in der Luft schweben. Gegner werden außerdem um <b>50%</b> verlangsamt und können nicht ausweichen oder springen. Die Barriere hält <b>5</b> Sek. an und blockt Geschosse ab."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, <b>werden nach dem Wechsel zu dieser Waffe alle Debuffs vom Wanderer entfernt</b> und er zerschmettert den Boden, um eine Barriere zu erzeugen. Dies fügt Gegnern in der Nähe Schaden in Höhe von <b>503.2%</b> des ANG +<b>26</b> zu und lässt sie in der Luft schweben. Gegner werden außerdem um <b>50%</b> verlangsamt und können nicht ausweichen oder springen. Die Barriere hält <b>5</b> Sek. an und blockt Geschosse ab."
     }
   ],
   "weapon_type": {

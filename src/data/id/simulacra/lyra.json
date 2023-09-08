@@ -1,5 +1,5 @@
 {
-  "_id": 13,
+  "_id": 14,
   "id": "lyra",
   "name": "Lyra",
   "weapon": "Vesper",
@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerArmMeleeBuff_name",
       "name": "Normal Vesper Attack Passive",
       "type": [
         "Passive"
@@ -26,6 +27,7 @@
       "description": "<span class=\"text-green\">Enlightenment</span>: Saat berhasil didaratkan, Serangan Biasa Vesper tanpa Resonansi Benediction menimpakan DMG tambahan kepada target yang memiliki <b>tanda Enlightenment</b> sebesar jumlah Guard yang kamu miliki x <b>6,4%</b> ATK (totalnya tidak lebih dari 38,4% x ATK). DMG tersebut tidak akan memicu efek serangan tambahan dan dianggap sebagai DMG dari Skill Discharge atau Skill Senjata.\n\nSaat berhasil didaratkan, Serangan Biasa Vesper dengan Resonansi Benediction menimpakan DMG tambahan kepada target yang memiliki <b>tanda Enlightenment</b> sebesar jumlah Guard yang dimiliki kamu dan rekan timmu x <b>4,6%</b> ATK (totalnya tidak lebih dari 36,8% x ATK). DMG tersebut tidak akan memicu efek serangan tambahan dan dianggap sebagai DMG dari Skill Discharge dan Skill Senjata.\n<span class=\"text-green\">Glowing</span>: Saat berhasil didaratkan, semua Serangan Biasa Vesper memulihkan HP sebesar <b>15%</b> ATK.\n<span class=\"text-green\">Sacred Strike</span>: Serangan Vesper saat di udara dan Accumulator bisa mengonversi 60% Charge menjadi Shatter.\n<span class=\"text-green\">Guard</span>: Untuk setiap <b>15%</b> HP yang hilang atau setiap <b>300</b> Charge Senjata yang diperoleh, kamu mendapatkan hingga <b>5</b> Enlightenment Guard (bisa dihasilkan saat senjata ada di slot sampingan). Enlightenment Guard aktif selama <b>25</b> detik. Jika Enlightenment Guard milikmu sendiri sudah penuh, Enlightenment Guard yang baru akan menyerang musuh, menimpakan Physical DMG sebesar <b>120%</b> ATK, lalu lenyap. DMG tersebut tidak akan memicu efek serangan tambahan.\n\nCatatan: Di Bygone Phantasm, Vesper tidak dianggap sebagai Senjata Support."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_Melee_name",
       "name": "Normal Vesper Attack",
       "type": [
         "Attack"
@@ -33,6 +35,7 @@
       "description": "Saat di darat, gunakan Vesper untuk melakukan 5 serangan beruntun.\nSerangan Pertama: Menimpakan DMG sebesar <b>81.6%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>59.1%</b> ATK plus <b>3</b> dan membuat target terpental jauh ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>123.9%</b> ATK plus <b>7</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>173%</b> ATK plus <b>9</b> dan membuat target terkena Suspend.\nSerangan Kelima: Menimpakan DMG sebesar <b>196.4%</b> ATK plus <b>10</b> dan membuat target terpental ke atas."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_AirAttack_name",
       "name": "Frustration",
       "type": [
         "Jump",
@@ -41,6 +44,7 @@
       "description": "Saat di udara, tekan Serangan Biasa untuk mengeluarkan Frustration. Setiap pukulan menimpakan DMG sebesar <b>33.2%</b> ATK plus <b>2</b> dan mengonsumsi <b>10</b> Stamina. Hantaman terakhir menimpakan DMG sebesar <b>556.6%</b> ATK plus <b>29</b> dan membuat target terpental ke atas.\nSaat mengeluarkan Frustration, tangkap target jika memungkinkan dan lempar ke tanah, menimpakan DMG dengan total sebesar <b>124.5%</b> ATK plus <b>7</b>."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_PowerAttack_name",
       "name": "Accumulator",
       "type": [
         "Attack"
@@ -48,6 +52,7 @@
       "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga hingga <b>3</b> tahap. <b>Suspend Keras</b> target yang terhantam dan menjadi kebal terhadap DMG dan efek kontrol selama serangan Accumulator. Menghantam sebelum kena serang bisa memicu Phantasia.\nSerangan Charge Tahap 1: Menimpakan DMG sebesar <b>96%</b> ATK plus <b>5</b>.\nSerangan Charge Tahap 2: Menimpakan DMG sebesar <b>223%</b> ATK plus <b>12</b>.\nSerangan Charge Tahap 3: Menimpakan DMG sebesar <b>360.5%</b> ATK plus <b>19</b>."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_Branch_name",
       "name": "Shimmer",
       "type": [
         "Hold: Attack"
@@ -55,6 +60,7 @@
       "description": "Tahan Serangan Biasa selama melakukan Serangan Biasa atau setelah Menghindar untuk mengeluarkan Shimmer. Setiap pukulan menimpakan DMG sebesar <b>20%</b> ATK plus <b>1</b> dan mengonsumsi <b>10</b> Stamina. Lepaskan untuk mengaktifkan Accumulator."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_JumpAttack_name",
       "name": "Pummel",
       "type": [
         "Jump",
@@ -63,6 +69,7 @@
       "description": "Saat di udara, tekan dan tahan Serangan Biasa untuk mengumpulkan tenaga hingga 3 tahap. Lepaskan untuk menghantam tanah dan membuat target terkena <b>Suspend Keras</b>. Melepas tombol tepat sebelum kena serang bisa memicu Phantasia.\nSerangan Charge Tahap 1: Menimpakan DMG sebesar <b>166.3%</b> ATK plus <b>9</b>.\nSerangan Charge Tahap 2: Menimpakan DMG sebesar <b>288.2%</b> ATK plus <b>15</b>.\nSerangan Charge Tahap 3: Menimpakan DMG sebesar <b>454.4%</b> ATK plus <b>24</b>."
     },
     {
+      "id": "GA_FPlayerArmEvadePhy_BackAttack_name",
       "name": "Mind Capture",
       "type": [
         "Dodge",
@@ -71,6 +78,7 @@
       "description": "Setelah Menghindar, tekan Serangan Biasa untuk menarik target ke arahmu dan menyeretnya selama <b>2</b> detik, menimpakan DMG sebesar <b>261.4%</b> ATK plus <b>14</b>. Menahan Serangan Biasa setelah Menghindar bisa mengaktifkan <b>Shimmer</b> setelah mengeluarkan <b>Mind Capture</b>."
     },
     {
+      "id": "GA_FPlayerArmEvadePhy_Evade_name",
       "name": "Menghindar",
       "type": [
         "Dodge"
@@ -78,13 +86,15 @@
       "description": "Menghindar tepat sebelum kena serangan untuk memicu Phantasia, yang memperlambat musuh di dalam area. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama <b>0,5</b> detik dan memulihkan <b>250</b> Stamina."
     },
     {
+      "id": "GA_FPlayerArmSkillPhy_Pas_name",
       "name": "Forgiveness Guard",
       "type": [
         "Skill"
       ],
-      "description": "<span class=\"text-green\">Forgiveness Guard</span>: Saat efek penyembuhan berlebih, menciptakan Perisai HP sebesar <b>60%</b> Max HP. Saat Versper memiliki Forgiveness Guard, berbagai efek Guard akan diaktifkan sesuai dengan Resonansi.\n<span class=\"text-green\">Benediction Guard</span>: Skill ini digantikan dengan <b>Shinerise</b>, dan Wanderer tidak lagi mendapatkan Enlightenment Guard, yang dikonversi menjadi Forgiveness Guard untuk rekan tim. Dapatkan satu Forgiveness Guard untuk setiap penyembuhan <b>15%</b> Max HP, dan memberikan maks 1 Forgiveness Guard untuk setiap rekan tim. Jika setiap rekan tim sudah memilikinya, Forgiveness Guard menimpakan Physical DMG sebesar <b>120%</b> ATK kepada musuh, lalu menghilang. DMG tersebut tidak memicu efek serangan tambahan. Selain itu, meningkatkan Max HP sebesar <b>12,5%</b> untuk diri sendiri dan rekan tim. Tak bisa ditumpuk.\n <span class=\"text-green\">Attack Guard</span>: Saat Skill Vesper berhasil didaratkan, langsung mendapatkan Perisai sebesar <b>30%</b> Max HP. CD: <b>30</b> detik.\n<span class=\"text-green\">Fortitude Guard</span>: Saat Skill Vesper berhasil didaratkan, langsung mendapatkan penyembuhan yang memulihkan <b>2%</b> Max HP per detik selama <b>20</b> detik. CD: <b>30</b> detik.\n <span class=\"text-green\">Balance Guard</span>: Saat HP lebih dari <b>50%</b>, meningkatkan Shatter sebesar <b>20%</b>. Saat HP kurang dari <b>50%</b>, meningkatkan Final DMG sebesar <b>10%</b> dan Shatter sebesar <b>10%</b>."
+      "description": "<span class=\"text-green\">Forgiveness Guard</span>: Saat efek penyembuhan berlebih, menciptakan Perisai HP sebesar <b>60%</b> Max HP. Saat Versper memiliki Forgiveness Guard, berbagai efek Guard akan diaktifkan sesuai dengan Resonansi.\n<span class=\"text-green\">Benediction Guard</span>: Skill ini digantikan dengan <b>Shinerise</b>, dan Wanderer tidak lagi mendapatkan Enlightenment Guard, yang dikonversi menjadi Forgiveness Guard untuk rekan tim. Dapatkan satu Forgiveness Guard setiap kali menyembuhkan <b>15%</b> Max HP dan maks 1 Forgiveness Guard akan diberikan kepada setiap rekan tim. Jika setiap rekan tim sudah memilikinya, Forgiveness Guard menimpakan Physical DMG sebesar <b>120%</b> ATK kepada musuh, lalu menghilang. DMG tersebut tidak memicu efek serangan tambahan. Selain itu, meningkatkan Max HP sebesar <b>12,5%</b> untuk diri sendiri dan rekan tim. Tak bisa ditumpuk.\n<span class=\"text-green\">Attack Guard</span>: Saat Skill Vesper berhasil didaratkan, langsung mendapatkan Perisai sebesar <b>30%</b> Max HP. CD: <b>30</b> detik.\n<span class=\"text-green\">Fortitude Guard</span>: Saat Skill Vesper berhasil didaratkan, langsung mendapatkan penyembuhan yang memulihkan <b>2%</b> Max HP per detik selama <b>20</b> detik. CD: <b>30</b> detik.\n<span class=\"text-green\">Balance Guard</span>: Saat HP lebih dari <b>50%</b>, meningkatkan Shatter sebesar <b>20%</b>. Saat HP kurang dari <b>50%</b>, meningkatkan Final DMG sebesar <b>10%</b> dan Shatter sebesar <b>10%</b>."
     },
     {
+      "id": "GA_FPlayerArmPublishSkillPhy_name",
       "name": "Starfall",
       "type": [
         "Skill"
@@ -92,6 +102,7 @@
       "description": "Melompat ke arah target, menimpakan DMG sebesar <b>702.1%</b> ATK plus <b>37</b> dan menerapkan <b>Suspend Keras</b>. Memberikan tanda Enlightenment kepada target selama <b>18</b> detik. CD: <b>20</b> detik."
     },
     {
+      "id": "GA_FPlayerArmLawSkillPhy_name",
       "name": "Shinerise",
       "type": [
         "Skill"
@@ -99,6 +110,7 @@
       "description": "Menghantam tanah dan membuat target di depanmu <b>Terpental Keras</b>, menimpakan DMG sebesar <b>702.1%</b> ATK plus <b>37</b> dan mengeluarkan maks <b>3</b> <b>Blade</b> yang aktif selama <b>75</b> detik (maks 1 Blade setiap 2 meter). Skill ini bisa digunakan hingga <b>3</b> kali dengan CD <b>20</b> detik untuk masing-masing penggunaan. Saat ada 2 <b>Blade</b> di medan tempur, sebuah <b>Clearshine</b> akan tercipta. Saat <b>Blade</b> disentuh, ia akan menyembuhkan target dalam radius gerakan, memulihkan HP sebesar <b>25%</b> ATK targetnya. Saat ada 3 <b>Blade</b> di medan tempur, sebuah <b>Nebula</b> akan tercipta. Saat <b>Blade</b> disentuh, ia akan menimpakan DMG kepada target dalam radius gerakan sebesar <b>150%</b> ATK x jarak gerakan / <b>5</b> m."
     },
     {
+      "id": "GA_FPlayerArmChangeSkillPhy_Success_name",
       "name": "Chanting Sigh",
       "type": [
         "Discharge"
@@ -108,7 +120,7 @@
   ],
   "weapon_type": {
     "name": "Grievous",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan menerapkan efek Grievous pada lawan selama <b>7</b> detik, meningkatkan DMG yang mereka terima sebesar <b>20%</b> dan menimpakan DMG sebesar <b>{1}%</b> ATK. Saat <yellow_lbl_14_1>bermain sebagai tim</>, target yang terkena Grievous menerima Physical DMG <b>20%</b> lebih besar."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan menerapkan efek Grievous pada lawan selama <b>7</b> detik, meningkatkan DMG yang mereka terima sebesar <b>20%</b> dan menimpakan DMG sebesar <b>{1}%</b> ATK. Saat dalam <yellow_lbl_14_1>Permainan Tim</>, target yang terkena Grievous menerima Physical DMG <b>20%</b> lebih besar."
   },
   "weapon_resonance": {
     "name": "Resonansi Physical",

@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerCannonMelee_Melee_name",
       "name": "Normal Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Tap normal attack to enter aiming mode. Hold normal attack to fire continuously, up to <b>40</b> rounds. Each shot deals damage equal to <b>11.4%</b> of ATK plus <b>1</b>. Deal double damage when scoring a headshot or hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
     },
     {
+      "id": "GA_FPlayerCannonSkill_name",
       "name": "Turret",
       "type": [
         "Skill"
@@ -33,11 +35,12 @@
       "description": "Enable turret mode and fire large energy orbs, each dealing damage equal to <b>213.3%</b> of ATK plus <b>11</b> and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. Cooldown: <b>3.5</b> seconds."
     },
     {
+      "id": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
       "name": "Arctic Beam",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and fire an arctic beam, dealing damage equal to <b>329.2%</b> of ATK plus <b>17</b> and inflict a <b>3</b>-second <b>strong freeze</b> effect. Also, reduce the target's frost resistance by <b>50%</b> for <b>10</b> seconds."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and fire an arctic beam, dealing damage equal to <b>329.2%</b> of ATK plus <b>17</b> and inflict a <b>3</b>-second <b>strong freeze</b> effect. Also, reduce the target's frost resistance by <b>50%</b> for <b>10</b> seconds."
     }
   ],
   "weapon_type": {

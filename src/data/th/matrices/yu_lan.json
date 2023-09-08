@@ -1,5 +1,5 @@
 {
-  "_id": 40033,
+  "_id": 34,
   "id": "yu_lan",
   "name": "หยู่หลาน",
   "suitName": "ดวงใจ",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When equipped with at least <b>1</b> frost weapon, while in the combat state, deal damage equal to <b>60%</b> of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by <b>5%</b>/6%/7%/8% for <b>30</b> seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+      "value": "เมื่อติดตั้งอาวุธน้ำแข็งอย่างน้อย 1 ชิ้น ภายใต้สถานะต่อสู้ จะสร้างดาเมจเท่ากับ 85% ของ ATK ใส่เป้าหมายใกล้เคียง หลังจากปล่อยสกิลหรือคอมโบของอาวุธน้ำแข็ง ดาเมจสุดท้ายจะเพิ่มขึ้น 7%/8%/9%/10% ต่อเนื่อง 30 วินาทีเอฟเฟกต์เซตนี้ใช้งานได้ในช่องมือรอง และจะส่งผลเฉพาะเอฟเฟกต์ที่มีระดับดาวสูงสุดเท่านั้น"
     },
     {
       "count": 4,
-      "value": "After <b>Unity</b> consumes <b>Internal Strength</b> or <b>Fighting Spirit</b>, increase final damage by <b>5%</b> for <b>15</b> seconds. After dealing frost damage, increase all elemental damage by <b>11%</b>/14%/17%/20% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+      "value": "หลังจากยูนิตี้ใช้กำลังภายในหรือจิตวิญญาณต่อสู้ ดาเมจสุดท้ายจะเพิ่มขึ้น 6% เป็นเวลา 15 วินาที หลังจากสร้างดาเมจน้ำแข็ง ดาเมจทุกธาตุเพิ่มขึ้น 12%/15%/19%/23% ต่อเนื่อง 30 วินาทีเอฟเฟกต์เซตนี้ใช้งานได้ในช่องมือรอง และจะส่งผลเฉพาะเอฟเฟกต์ที่มีระดับดาวสูงสุดเท่านั้น"
     }
   ],
   "mind": {

@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
       "name": "Cutilada",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, branda um par de adagas para executar até 5 ataques consecutivos.\nPrimeiro ataque: causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>73%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>96.8%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: causa dano de <b>202.2%</b> do ATQ + <b>11</b> e repele o alvo uma curta distância."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
       "name": "Floreio Aéreo",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>65.6%</b> do ATQ + <b>3</b>.\nSegundo ataque: causa dano de <b>38.4%</b> do ATQ + <b>2</b>.\nTerceiro ataque: causa dano de <b>92%</b> do ATQ + <b>5</b>.\nQuarto ataque: causa dano de <b>138%</b> do ATQ + <b>7</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
       "name": "Lançamento Veloz",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Lançamento Veloz.\nAo atingir, <b>suspende muito</b> o alvo. Causa dano total de <b>116.8%</b> do ATQ + <b>6</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
       "name": "Mergulho Espiralante",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Espiralante.\nEnquanto cai, cada golpe causa dano de <b>42%</b> do ATQ + <b>2</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Ataque Furtivo",
       "type": [
         "Croch",
@@ -58,14 +63,16 @@
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para usar Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
       "name": "Adagas Voadoras",
       "type": [
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Adagas Voadoras.\nGolpeia um alvo <b>5</b> vezes. Cada golpe causa dano de <b>26.4%</b> do ATQ + <b>1</b>. Enquanto estiver ativo, fica imune a efeitos de controle."
+      "description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Adagas Voadoras.\nGolpeia um alvo <b>5</b> vezes. Cada golpe causa dano de <b>26.4%</b> do ATQ + <b>1</b>. Enquanto estiver ativo, fica imune a efeitos de controle."
     },
     {
+      "id": "GA_FPlayerDSSkillThu_SSR_name",
       "name": "Adagas-Bumerangue",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Arremessa <b>6</b> adagas-bumerangue. Cada uma causa dano de <b>52.8%</b> do ATQ + <b>3</b>. Ganha <b>corpo de aço</b> durante até <b>8</b> segundos. O efeito acaba quando as adagas voltam. Tempo de recarga: <b>45</b> seg."
     },
     {
+      "id": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
       "name": "Adagas Giratórias",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e arremete para o local do alvo. Causa dano de <b>86.9%</b> do ATQ + <b>5</b> e eletrocuta o alvo (após <b>5</b> segundos, causa dano elétrico equivalente a <b>15%</b> do dano causado, até <b>350%</b> do seu ATQ. Este é um status anormal que não pode ser anulado). Além disso, gera 3 adagas que giram em volta de você e causam dano de <b>65.2%</b> do ATQ + <b>3</b> a quem encostar nelas."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e arremete para o local do alvo. Causa dano de <b>86.9%</b> do ATQ + <b>5</b> e eletrocuta o alvo (após <b>5</b> segundos, causa dano elétrico equivalente a <b>15%</b> do dano causado, até <b>350%</b> do seu ATQ. Este é um status anormal que não pode ser anulado). Além disso, gera 3 adagas que giram em volta de você e causam dano de <b>65.2%</b> do ATQ + <b>3</b> a quem encostar nelas."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos eletrocutados não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Atacar alvos por trás aumenta a taxa de crítico de todos os golpes de adagas em <b>40%</b>. Apunhalar um alvo eletrocutado pelas costas aumenta a taxa de crítico em <b>100%</b> e o dano crítico em <b>30%</b>.",

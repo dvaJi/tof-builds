@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerShieldMelee_Melee_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, blande el hacha escudo para atacar 4 veces seguidas.\nPrimer ataque en Forma de Escudo: Inflige daño igual a <b>77.7%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>56.9%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>62.8%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>184%</b> del ATQ más <b>10</b> y <b>lanza al objetivo por el aire</b>.\nPrimer ataque en Forma de Hacha: Inflige daño igual a <b>135.2%</b> del ATQ más <b>7</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>79.4%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>119.9%</b> del ATQ más <b>6</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>221.3%</b> del ATQ más <b>12</b> y hace retroceder al objetivo."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Golpe Aéreo",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>75.9%</b> del ATQ más <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>80.2%</b> del ATQ más <b>4</b>.\nTercer ataque: Inflige daño igual a <b>103%</b> del ATQ más <b>5</b>.\nCuarto ataque: Inflige daño igual a <b>118.6%</b> del ATQ más <b>6</b> y provoca un <b>derribo</b>; lanza al objetivo al aterrizar."
     },
     {
+      "id": "GA_FPlayerShieldMelee_PowerAttack_name",
       "name": "Anticipación",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Forma de Escudo: Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal para entrar en forma de escudo (suéltalo para salir) por <b>3</b> seg, durante los cuales el nómada no puede moverse, y todo el daño recibido se reduce un <b>50%</b>. Mientras estás en forma de escudo, al soltar el botón de ataque normal después de recibir daño o tras mantenerlo pulsado durante <b>3</b> seg, se desata un choque de fuego, lo que inflige daño igual a <b>167.3%</b> del ATQ más <b>9</b> e inflige <b>1</b> seg de <b>aturdimiento</b> al objetivo.\nForma de Hacha: Aplasta al objetivo, lo que inflige daño igual a <b>122.2%</b> del ATQ más <b>6</b> y suspende al objetivo."
     },
     {
+      "id": "GA_FPlayerShieldMelee_JumpAttack_name",
       "name": "Valor",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar ataques divergentes aéreos.\nForma de Escudo: Al caer, inflige daño igual a <b>12.5%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>89.2%</b> del ATQ más <b>5</b> y suspende al objetivo.\nForma de Hacha: Al caer, inflige daño igual a <b>12.5%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>128.3%</b> del ATQ más <b>7</b> y suspende al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
+      "id": "GA_FPlayerShieldEvade_EvadeAttack_name",
       "name": "Erupción",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar un ataque de evasión.\nForma de Escudo: Desata un escudo de fuego que inflige daño igual a <b>55.8%</b> del ATQ más <b>3</b> y hace retroceder a los objetivos. Además, desata una explosión que inflige daño igual a <b>55.8%</b> del ATQ más <b>3</b>, <b>aturde</b> a los objetivos durante <b>0.5</b> seg y reduce los efectos de curación recibidos en los objetivos un <b>30%</b> por <b>10</b> seg.\nForma de Hacha: Haces girar un hacha para infligir daño igual a <b>55.8%</b> del ATQ más <b>3</b> y reducir los efectos de curación recibidos en los objetivos un <b>30%</b> por <b>10</b> seg."
     },
     {
+      "id": "GA_FPlayerShieldSkill_name",
       "name": "Fisión",
       "type": [
         "Skill"
@@ -64,11 +70,12 @@
       "description": "Conversión de Escudo: Cambia de Forma de Escudo a Forma de Hacha y aplasta el suelo, lo que inflige daño igual a <b>373.8%</b> del ATQ más <b>20</b> y <b>suspende fuerte</b> al objetivo. Deja una zona de llamas grandes por <b>5</b> seg que quema al objetivo, lo que inflige daño continuo igual a <b>233.6%</b> del ATQ más <b>12</b>.\nConversión de Hacha: Cambia de Forma de Hacha a Forma de Escudo y lo golpea contra el suelo, lo que inflige daño igual a <b>309.5%</b> del ATQ más <b>16</b> al objetivo y lo hace retroceder. Impide que el objetivo cambie de arma por <b>5</b> seg.\nEnfriamiento: <b>25</b> seg. Conversión de Escudo y Conversión de Hacha comparten enfriamiento."
     },
     {
+      "id": "GA_FPlayerShieldChangeSkill_Success_name",
       "name": "Ira Llameante",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y desata una onda de fuego, lo que inflige daño igual a <b>352%</b> del ATQ más <b>19</b>. Provoca a los enemigos por <b>5</b> seg, durante los cuales obtienes un <b>15%</b> de reducción de daño. Dispersa objetos en forma de escudo según el número de objetivos provocados. Los objetos duran <b>20</b> seg y otorgan <b>10</b> seg de <b>5%</b> reducción de daño (se acumula), lo que restaura las evasiones en 1."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y desata una Onda de Fuego, lo que inflige daño igual a <b>352%</b> del ATQ más <b>19</b>. Provoca a los enemigos por <b>5</b> seg, durante los cuales obtienes un <b>15%</b> de reducción de daño. Dispersa objetos en forma de escudo según el número de objetivos provocados. Los objetos duran <b>20</b> seg y otorgan <b>10</b> seg de <b>5%</b> reducción de daño (se acumula), lo que restaura las evasiones en 1."
     }
   ],
   "weapon_type": {
@@ -81,7 +88,7 @@
     "Mientras se está en forma de escudo, los ataques divergentes/de evasión infligen un daño adicional a los objetivos igual al <b>4%</b> de los PS actuales del usuario.",
     "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
     "Luego de cambiar a un hacha escudo, otorga inmediatamente una reducción de daño del <b>30%</b> que disminuye en un <b>10%</b> cada <b>3</b> segundos, hasta un mínimo de <b>10%</b>. Cambiar de armas cancela este efecto. Enfriamiento: <b>30</b> segundos.",
-    "Potencia las habilidades de conversión.\nPotenciación de Conversión de Escudo: aumenta el daño infligido un <b>60%</b> y expande el radio de la zona de fuego un <b>30%</b>.\nPotenciación de Conversión de Hacha: no comparte enfriamiento con Conversión de Escudo. Durante los próximos <b>5</b> segundos después de usar esta habilidad, convierte todo el daño recibido en PS (hasta un máximo del <b>15%</b> de los PS Máx. del usuario)."
+    "Mejora las habilidades de conversión.\nPotenciación de Conversión de Escudo: Aumenta el daño de habilidad infligido un <b>60%</b> y amplía el radio de la zona de fuego un <b>30%</b>.\nPotenciación de Conversión de Hacha: No comparte enfriamiento con Conversión de Escudo. Durante los próximos <b>5</b> seg después de usar esta habilidad, convierte todo el daño recibido en PS (hasta un máximo de <b>15%</b> de los PS Máx. del usuario)."
   ],
   "traits": [
     {

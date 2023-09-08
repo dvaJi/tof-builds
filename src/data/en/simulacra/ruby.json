@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Melee_name",
       "name": "Spark Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, tap the normal attack button to command Spark to attack 5 times in a row.\nFirst Attack: Deal total damage equal to <b>84.6%</b> of ATK plus <b>4</b> against each target.\nSecond Attack: Deal total damage equal to <b>93%</b> of ATK plus <b>5</b> against each target.\nThird Attack: Deal total damage equal to <b>101.5%</b> of ATK plus <b>5</b> against each target.\nFourth Attack: Deal total damage equal to <b>109.9%</b> of ATK plus <b>6</b> against each target.\nFifth Attack: Deal total damage equal to <b>253.7%</b> of ATK plus <b>13</b> against each target and <b>launches</b> targets."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne, tap the normal attack button to command Spark to attack 4 times in a row.\nFirst Attack: Deal total damage equal to <b>97.1%</b> of ATK plus <b>5</b> against each target.\nSecond Attack: Deal total damage equal to <b>106.8%</b> of ATK plus <b>6</b> against each target.\nThird Attack: Deal total damage equal to <b>121.3%</b> of ATK plus <b>6</b> against each target.\nFourth Attack: Deal total damage equal to <b>145.6%</b> of ATK plus <b>8</b> against each target."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AimAttack_name",
       "name": "Gotcha!",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Tap and hold normal attack or do this after Lockdown Zone is triggered to continuously fire searing energy beams at enemies in a target direction, dealing damage equal to <b>40%</b> of ATK plus <b>2</b>. Consumes Wanderer's endurance."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_JumpAttack_name",
       "name": "Blazing Dive",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Tap and hold normal attack while airborne to trigger Blazing Dive.\nEnvelop the body in energy before rapidly plunging into the ground, dealing damage equal to <b>172.1%</b> of ATK plus <b>9</b> to nearby targets."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Branch_name",
       "name": "Lockdown Zone",
       "type": [
         "Attack",
@@ -57,6 +62,7 @@
       "description": "After the second normal attack, hold the button during any attack to deal damage equal to <b>40%</b> of ATK plus <b>2</b> against the target. The locked-on target is confined and burned for <b>3</b> seconds, and damage equal to <b>26.2%</b> of ATK plus <b>1</b> is dealt to the target every second (ineffective against bosses)."
     },
     {
+      "id": "GA_FPlayeFunnelEvadeFire_FrontAttack_name",
       "name": "Go, Dolly!",
       "type": [
         "Dodge",
@@ -65,6 +71,7 @@
       "description": "Throw Dolly after dodging. Dolly remains for <b>10</b> seconds, drawing in nearby enemies and dealing damage equal to <b>84.6%</b> of ATK plus <b>4</b> against them, as well as taunting them for <b>1.5</b> seconds, causing them to divert their attacks to Dolly (cannot taunt enemies when in a team)."
     },
     {
+      "id": "GA_FPlayerFunnelSkillFire_name",
       "name": "Sparkling Collider",
       "type": [
         "Skill"
@@ -72,11 +79,12 @@
       "description": "Spark fires out Sparks that last for 15 seconds and bounce between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for <b>4</b> seconds with a <b>15</b>-second cooldown. Sparks deals more damage the further they travel. On hit, they deal damage up to <b>350%</b> of ATK plus <b>37</b> and inflict a <b>25</b>-second Emblazen mark on the target. At the same time, Spark fires 4 bullets with each bullet dealing damage equal to <b>50%</b> of ATK plus <b>3</b> against its target. Spark's normal attacks deal <b>110%</b> more damage to Emblazen-marked targets. When Sparks hit targets burned by the Wanderer, they burn or ignite the target once and deal additional damage equal to <b>100%</b> of the total remaining damage (multiple burn or incendiary effects are counted together). The Result calculation cooldown is <b>6</b> seconds and the skill cooldown is <b>30</b> seconds.\n\"<b>Passive</b>: When Sparks is active, each time Spark Attack deals damage, the Wanderer gains <b>1</b> point of Heat with a <b>0.9</b>-second cooldown, for up to <b>8</b> points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by <b>25%</b> for <b>25</b> seconds."
     },
     {
+      "id": "GA_FPlayerFunnelChangeSkillFire_Success_name",
       "name": "Supernova",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b>. Spark enters a charged state, continuously blasting wide-area searing energy beams at the target location before eventually exploding. Deal damage equal to <b>750%</b> of ATK plus <b>39</b>. If the target has a self-inflicted burning effect, then burn or ignite it once and deal additional damage equal to <b>100%</b> of the total remaining damage (multiple burning or ignition effects are counted collectively). The result calculation cooldown is <b>6</b> seconds. When the skill is active, gain damage immunity for <b>2.6</b> seconds (unavailable in Apex League)."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b>. Spark enters a charged state, continuously blasting wide-area searing energy beams at the target location before eventually exploding. Deal damage equal to <b>750%</b> of ATK plus <b>39</b>. If the target has a self-inflicted burning effect, then burn or ignite it once and deal additional damage equal to <b>100%</b> of the total remaining damage (multiple burning or ignition effects are counted collectively). The result calculation cooldown is <b>6</b> seconds. When the skill is active, gain damage immunity for <b>2.6</b> seconds (unavailable in Apex League)."
     }
   ],
   "weapon_type": {

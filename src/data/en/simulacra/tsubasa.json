@@ -19,6 +19,7 @@
   "charge": 11.5,
   "skills": [
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_name",
       "name": "Quickdraw",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, draw the bow repeatedly to attack 5 times.\nFirst Attack: Deal damage equal to <b>48.8%</b> of ATK plus <b>3</b>.\nSecond Attack: Deal damage equal to <b>43.7%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>78.6%</b> of ATK plus <b>4</b>.\nFourth Attack: Deal damage equal to <b>121.2%</b> of ATK plus <b>6</b>.\nFifth Attack: Deal damage equal to <b>112.5%</b> of ATK plus <b>6</b> and knock the target back a short distance."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Powner_name",
       "name": "Charged Arrow",
       "type": [
         "Hold: Attack"
@@ -33,6 +35,7 @@
       "description": "Tap and hold normal attack to charge an attack. Deal base damage equal to <b>87.8%</b> of ATK plus <b>5</b>, and <b>50%</b> more for each <b>1</b> second spent charging, up to <b>3</b> seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers)."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Branch_name",
       "name": "Arrow Rain",
       "type": [
         "Attack",
@@ -41,6 +44,7 @@
       "description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to <b>287.2%</b> of ATK plus <b>15</b> area damage to targets."
     },
     {
+      "id": "GA_FPlayerBowMeleeIce_SSR_AirAttack_name",
       "name": "Air Volley",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>56.3%</b> of ATK plus <b>3</b>.\nSecond Attack: Deal damage equal to <b>74%</b> of ATK plus <b>4</b>.\nThird Attack: Deal damage equal to <b>112.7%</b> of ATK plus <b>6</b>.\nFourth Attack: Deal damage equal to <b>169.8%</b> of ATK plus <b>9</b>."
     },
     {
+      "id": "GA_FPlayerBowEvadeIce_SSR_Attack_name",
       "name": "Loaded Arrow",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Tap attack after dodging to trigger a Loaded Arrow, which <b>knocks the target back</b> and deals damage equal to <b>124%</b> of ATK plus <b>7</b>."
     },
     {
+      "id": "GA_FPlayerBowSkillIce_SSR_name",
       "name": "Piercing Shot",
       "type": [
         "Skill"
@@ -64,11 +70,12 @@
       "description": "Perform a backflip and fire <b>3</b> piercing shots, with the main shot dealing damage equal to <b>258.3%</b> of ATK plus <b>14</b>, and the other two shots deal 60% damage. In addition, <b>knock targets back</b> and stun them for <b>5</b> seconds if they collide with an obstacle. Cooldown: <b>12</b> seconds."
     },
     {
+      "id": "GA_FPlayerBowChangeSkillIce_SSR_name",
       "name": "Explosive Barrage",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b>, and create a hailstorm at the target location, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>. The storm has a <b>10%</b> chance to <b>strongly freeze</b> the target for <b>2</b> seconds. Gain cold front, and increase speed by <b>45%</b> for <b>7</b> seconds."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b>, and create a hailstorm at the target location, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>. The storm has a <b>10%</b> chance to <b>strongly freeze</b> the target for <b>2</b> seconds. Gain cold front, and increase speed by <b>45%</b> for <b>7</b> seconds."
     }
   ],
   "weapon_type": {

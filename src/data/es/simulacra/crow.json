@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
       "name": "Cuchillas Gemelas",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, blandes el par de cuchillas dobles para lanzar hasta 5 ataques consecutivos.\nPrimer ataque: Inflige daño igual a <b>60.1%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>73%</b> del ATQ más <b>4</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>90.9%</b> del ATQ más <b>5</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>96.8%</b> del ATQ más <b>5</b> y hace retroceder un poco al objetivo.\nQuinto ataque: Inflige daño igual a <b>202.2%</b> del ATQ más <b>11</b> y hace retroceder un poco al objetivo."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
       "name": "Ráfaga de Aire",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 4 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>65.6%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>38.4%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>92%</b> del ATQ más <b>5</b>.\nCuarto ataque: Inflige daño igual a <b>138%</b> del ATQ más <b>7</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
       "name": "Embestida Rápida",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Embestida Rápida.\nAl impactar <b>suspende fuerte</b> al objetivo, lo que inflige daño igual a <b>116.8%</b> del ATQ más <b>6</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
       "name": "Impulso en Espiral",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar Impulso en Espiral.\nMientras caes, inflige daño igual a <b>42%</b> del ATQ más <b>2</b> en cada impacto."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Ataque Sorpresa",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Acércate al enemigo por detrás mientras te agachas; luego, usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño igual al <b>570%</b> del ATQ más <b>30</b>."
     },
     {
+      "id": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
       "name": "Cuchillas Voladoras",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Pulsa el ataque normal durante la corta oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Cuchillas Voladoras.\nCorta <b>5</b> veces a un objetivo e inflige daño igual al <b>26.4%</b> del ATQ más <b>1</b>. Otorga inmunidad a los efectos de control durante la fase."
     },
     {
+      "id": "GA_FPlayerDSSkillThu_SSR_name",
       "name": "Cuchillas Bumerán",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Dispara <b>6</b> Cuchillas Bumerán, cada una inflige daño igual a <b>52.8%</b> del ATQ más <b>3</b>. Obtienes <b>hipercuerpo</b> durante un máximo de <b>8</b> seg, y el efecto se elimina cuando vuelven las cuchillas. <b>45</b> seg de enfriamiento."
     },
     {
+      "id": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
       "name": "Cuchillas de Órbita",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y te desplazas hacia la ubicación objetivo, lo que inflige daño igual a <b>86.9%</b> del ATQ más <b>5</b> y electrocuta al objetivo (tras <b>5</b> seg, inflige daño eléctrico igual a <b>15%</b> del daño infligido, hasta <b>350%</b> del ATQ del nómada. Este es un estado anormal que se puede disipar). También genera 3 cuchillas que orbitan alrededor del nómada, lo que inflige daño igual a <b>65.2%</b> del ATQ más <b>3</b> a quienes las tocan."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y te desplazas hacia la ubicación objetivo, lo que inflige daño igual a <b>86.9%</b> del ATQ más <b>5</b> y electrocuta al objetivo (tras <b>5</b> seg, inflige daño eléctrico igual a <b>15%</b> del daño infligido, hasta <b>350%</b> del ATQ del nómada. Este es un estado anormal que se puede disipar). También genera 3 cuchillas que orbitan alrededor del nómada, lo que inflige daño igual a <b>65.2%</b> del ATQ más <b>3</b> a quienes las tocan."
     }
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> seg y los electrifica por <b>6</b> seg, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos electrificados no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
   },
   "advancement": [
     "Atacar a objetivos por detrás aumenta la Tasa Crítica de todos los ataques con cuchillas dobles un <b>40%</b>. Apuñalar por la espalda a un objetivo electrificado aumenta la Tasa Crítica un <b>100%</b> y el Daño Crítico un <b>30%</b>.",

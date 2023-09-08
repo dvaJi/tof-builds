@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerFriggMelee_Melee_name",
       "name": "Normaler Angriff",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Greift am Boden 5-mal hintereinander mit Balmung an.\nErster Angriff: Verursacht Schaden in Höhe von <b>50.8%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>36.3%</b> des ANG +<b>2</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>98.3%</b> des ANG +<b>5</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>67.3%</b> des ANG +<b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>148.3%</b> des ANG +<b>8</b> und bringt das Ziel zu Fall."
     },
     {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
       "name": "Luftsprengung",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>62.5%</b> des ANG +<b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>62%</b> des ANG +<b>5</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>3%</b> des ANG +<b>120</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>6%</b> des ANG +<b>71.2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>4%</b> des ANG +<b>126</b>."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_Branch_name",
       "name": "Schnelle Verfolgung",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Halte nach dem zweiten normalen Angriff den normalen Angriff gedrückt, um „Schnelle Verfolgung“ auszulösen.\nFeuert eine lasergesteuerte Rakete auf das Ziel, die Schaden in Höhe von <b>107.5%</b> des ANG +<b>6</b> verursacht."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_PowerAttack_name",
       "name": "Doppelfokus",
       "type": [
         "Hold: Attack"
@@ -49,6 +53,7 @@
       "description": "Tippe und halte den normalen Angriff, um eine Elektrokugel aufzuladen, die beim Aufprall explodiert und Gegnern in der Nähe Schaden in Höhe von <b>118.4%</b> des ANG +<b>6</b> zufügt."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_BackAttack_name",
       "name": "Doppelwirbelfokus",
       "type": [
         "Perfect Attack",
@@ -57,6 +62,7 @@
       "description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Ausweichen löst ein verlangsamendes magnetisches Feld aus.\nVenus feuert eine aufgeladene Kugel ab, die explodiert, nachdem sie sich eine bestimmte Strecke vorwärts bewegt hat oder mit einem Ziel in Kontakt gekommen ist. Verursacht Schaden in Höhe von <b>171.6%</b> des ANG +<b>9</b> und erzeugt für <b>3</b> Sek. ein verlangsamendes magnetisches Feld, das die Bewegungs- und Angriffsgeschwindigkeit von Gegnern darin um <b>35%</b> verringert.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, was den Effekt von „Heilkette“ um je <b>25%</b> erhöht. Kann bis zu <b>5</b>-mal gestapelt werden. Beim Waffenwechsel bleibt der Effekt bestehen."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_RollAttack_name",
       "name": "Parallelstrahlen",
       "type": [
         "Perfect Dodge",
@@ -65,6 +71,7 @@
       "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf den normalen Angriff (vor dem Ausweichen auf eine Pfeiltaste tippen), um „Parallelstrahlen“ auszulösen.\nVenus feuert zwei parallele Energiestrahlen ab, die Durchschlagschaden in Höhe von <b>171.6%</b> des ANG +<b>9</b> verursachen.\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um <b>67,7%</b> des ANG des Wanderers heilt. Während der nächsten <b>10</b> Sek. wird alle <b>2</b> Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <b>22,5%</b> des ANG des Wanderers heilt. Ausweichen gewährt für <b>30</b> Sek. <b>1</b> Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je <b>25%</b> erhöht (stapelbar bis <b>5</b>-mal). Beim Waffenwechsel bleibt der Effekt bestehen."
     },
     {
+      "id": "GA_FPlayerSuspensionSkill_Skill_name",
       "name": "Impulsverschluss",
       "type": [
         "Skill"
@@ -72,16 +79,17 @@
       "description": "Venus feuert eine Lenkrakete ab, die beim Kontakt mit gegnerischen Zielen explodiert, ihnen Schaden in Höhe von <b>233.2%</b> des ANG +<b>12</b> zufügt und sie zu Fall bringt. Abklingzeit: <b>25</b> Sek."
     },
     {
+      "id": "GA_FPlayerSuspensionChangeSkill_Success_name",
       "name": "Teilchenstrahl-Explosion",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Venus feuert einen kreuzförmigen Strahl auf den Boden und erzeugt dort ein instabiles Feld, das Ziele für <b>5</b> Sek. um <b>70%</b> verlangsamt. Kurz darauf verursacht eine elektromagnetische Explosion Schaden in Höhe von <b>393.9%</b> des ANG + <b>21</b>.\nEntladungsangriffe erzeugen in der Nähe des Gegners <b>1</b> Elektrode, die einmal alle <b>1,5</b> Sek. angreift und Schaden in Höhe von <b>39.9%</b> des ANG + <b>2</b> verursacht.\nDie Elektrode erhält <b>100%</b> der Werte des Wanderers, kann angegriffen und geheilt werden und verliert pro Sekunde <b>3%</b> ihrer max. LP.\nEs kann immer nur jeweils <b>1</b> Elektrode aktiv sein und neu herbeigerufene Elektroden ersetzen ihre Vorgänger."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b>. Venus feuert einen kreuzförmigen Strahl auf den Boden und erzeugt dort ein instabiles Feld, das Ziele für <b>5</b> Sek. um <b>70%</b> verlangsamt. Kurz darauf verursacht eine elektromagnetische Explosion Schaden in Höhe von <b>393.9%</b> des ANG + <b>21</b>.\nEntladungsangriffe erzeugen beim Gegner <b>1</b> Elektrode, die einmal alle <b>1,5</b> Sek. angreift und Schaden in Höhe von <b>39.9%</b> des ANG + <b>2</b> verursacht.\nDie Elektrode erhält <b>100%</b> der Werte des Wanderers, kann angegriffen und geheilt werden und verliert pro Sekunde <b>3%</b> ihrer max. LP.\nEs kann immer nur jeweils <b>1</b> Elektrode aktiv sein und neu herbeigerufene Elektroden ersetzen ihre Vorgänger."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>144%</b> des ANG. Elektrisiere Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
   },
   "weapon_resonance": {
     "name": "Voltresonanz",

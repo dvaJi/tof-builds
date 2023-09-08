@@ -1,0 +1,313 @@
+{
+  "_id": 1026,
+  "id": "annabella",
+  "name": "Annabella",
+  "weapon": "Cruz de Trébol",
+  "weapon_id": "clover_cross",
+  "birthday": "28 de abril",
+  "birthplace": "Desconocido",
+  "gender": "Femenino",
+  "info": "Una mucama estereotipada que es tranquila, equilibrada, compuesta, elegante, y capaz de manejar todo tipo de emergencias... o así es como se supone que debe ser. Tiene la costumbre de necesitar una orden directa de su \"maestre\" para cada minúsculo asunto antes de hacer algo, mientras que también le informa a cada paso. Su incapacidad para tomar cualquier tipo de decisiones es su debilidad, que causa un poco de un \"retraso\" incómodo en operaciones reales. Además, a pesar de ser siempre cortés, curiosamente, a veces usa un lenguaje bastante grosero en su tono humilde habitual... ",
+  "description": "Una de las siete grandes leyendas urbanas en el foro anónimo de Espejia: la doncella vampiresa carmesí que acecha en la parte baja de la ciudad...\nResulta que la misteriosa chica tiene múltiples trabajos a tiempo parcial, que incluso incluyen ser guardaespaldas, solo para ganarse el pan. Como no parece fuera de lo común, se ha descubierto que la leyenda urbana es solo un chisme desproporcionado.\nElla misma insiste en que solo es una sirvienta que hace su trabajo y sigue las órdenes de su \"maestre\" en el otro extremo del comunicador. Sin embargo, la identidad de ese o esa maestre sigue siendo un misterio.\nDicho esto, ella se siente como un vampiro en algunos aspectos... pero probablemente es una persona común y corriente que es buena en los juegos de disparos y habla un poco raro...\n",
+  "like": "Su \"maestre\", siguiendo órdenes al pie de la letra",
+  "dislike": "Demasiado condimento, temas relacionados con criaturas fantásticas",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 9,
+  "skills": [
+    {
+      "id": "GA_FPlayerSnipeMelee_Melee_name",
+      "name": "Ataque normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, ataca 3 veces seguidas con el rifle de francotirador.\nPrimer ataque: Inflige daño igual a <b>44.2%</b> del ATQ más <b>2</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño igual a <b>84.4%</b> del ATQ más <b>4</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño igual a <b>176.9%</b> del ATQ más <b>9</b> y lanza al objetivo."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_PowerAttack_name",
+      "name": "Tiro en Cruz",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque, lo que inflige daño base igual a <b>26.1%</b> del ATQ más <b>1</b>. Después de cargar, inflige hasta <b>180.4%</b> del ATQ más <b>9</b> como daño. Inflige el doble de daño por un tiro en la cabeza o al alcanzar el punto débil de un enemigo, y lanza al objetivo (los tiros en la cabeza son ineficaces contra los nómadas).\n<b>Pasiva:</b> Recupera <b>300</b> de carga de arma cuando Tiro en Cruz impacta a un objetivo en llamas o inflige un impacto crítico. Enfriamiento: <b>15</b> seg.\n<b>Pasiva:</b> Aumenta la velocidad un <b>30%</b> por <b>3</b> seg después de usar Tiro en Cruz."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_Branch_name",
+      "name": "Ruido de Ebullición",
+      "type": [
+        "Attack"
+      ],
+      "description": "Después de cualquier ataque normal, pulsa y mantén pulsado el ataque normal para disparar un proyectil láser que explota al impactar al objetivo, lo que inflige daño de hasta <b>150%</b> del ATQ más <b>8</b> al objetivo dentro del alcance y lo suspende."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_AirAttack_name",
+      "name": "Descarga Aérea",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire, utiliza el ataque normal para atacar 3 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>47.6%</b> del ATQ más <b>3</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño igual a <b>90.9%</b> del ATQ más <b>5</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño igual a <b>190.5%</b> del ATQ más <b>10</b> y lanza al objetivo."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_EvadeAttack_name",
+      "name": "Arco Crepuscular",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Salta hacia atrás y lanza 1 granada hacia delante que detona al impactar contra el suelo, lo que inflige hasta <b>37%</b> del ATQ más <b>2</b> como daño a los objetivos y los suspende en el aire.\n<b>Pasiva:</b> después de usar Arco Crepuscular, usa el ataque normal para disparar instantáneamente un Tiro en Cruz completamente cargado."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_Evade_name",
+      "name": "Evasión",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Enfriamiento: 15 seg. Te vuelves inmune a la conmoción mientras evades durante <b>0.5</b> seg."
+    },
+    {
+      "id": "GA_FPlayerSnipeSkill_Skill_des",
+      "name": "Cargador Fogoso",
+      "type": [
+        "Skill"
+      ],
+      "description": "Cambia de módulo para modificar los efectos de Tiro en Cruz y Arco Crepuscular. Puedes usar Tiro en Cruz hasta <b>8</b> veces. Enfriamiento de habilidad: <b>14</b> seg.\n<b>Bomba Implacable</b>: El efecto de Tiro en Cruz se convierte en una explosión de fuego que inflige daño base igual a <b>27.3%</b> del ATQ más <b>1</b> dentro de un área. Después de cargar, inflige hasta <b>188.6%</b> del ATQ más <b>10</b> como daño. Al impactar objetivos que no estén en llamas, les inflige Quemadura de Cruz, lo que inflige daño igual a <b>120%</b> del ATQ cada segundo durante <b>13</b> seg. Al impactar a objetivos en llamas, les infliges Quemadura de Cruz y entras en Potenciación de Quemadura durante <b>20</b> seg, lo que aumenta el daño por quemadura a los objetivos un <b>20%</b>. Al usar Uso de Arco Crepuscular, ahora lanzas <b>3</b> granadas en su lugar.\n<b>Bomba Engañosa</b>: Cambia los efectos de Tiro en Cruz por un ataque de gas a distancia que inflige daño base igual a <b>42.6%</b> del ATQ más <b>2</b> al impacto. Después de cargar, inflige hasta <b>294.1%</b> del ATQ más <b>15</b> como daño. Los objetivos en el gas quedan ralentizados. El efecto de ralentización se hace más fuerte con el tiempo, y el gas dura <b>7</b> seg. Arco Crepuscular puede detonar el gas (cuanto más larga sea la carga, mayor será el daño de explosión de gas), lo que inflige daño de explosión de hasta <b>316.2%</b> del ATQ más <b>17</b> (esto se considera como activar Tiro en Cruz 1 vez) y reduce la resistencia al fuego del objetivo un <b>10%</b> por <b>10</b> seg.\n\n<b>Pasiva</b>: Tras confirmar el módulo, obtendrás un número de usos de Potenciación Óptica correspondiente al número de intentos de evasión. Potenciación Óptica: Reduce el tiempo de carga de Tiro en Cruz un <b>30%</b>; te vuelve inmune a los efectos de control mientras cargas. Recuperas <b>1</b> intento de evasión (hasta <b>4</b> intentos de evasión) cada <b>2</b> evasiones.\n<b>Pasiva</b>: Mientras el Módulo Bomba Engañosa está en efecto, Tiro en Cruz tiene una probabilidad de reducir el enfriamiento de otras habilidades de armas de fuego en <b>0.7</b> seg después de impactar a un objetivo."
+    },
+    {
+      "id": "GA_FPlayerSnipeChangeSkill_Success_name",
+      "name": "Mando de Bombardeo",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y lanza una bomba incendiaria que se puede detonar disparando hacia ella, lo que inflige hasta <b>765.4%</b> del ATQ más <b>40</b> de daño a los objetivos en el área y los <b>suspende fuerte</b>. La inmunidad al daño dura <b>2.6</b> seg cuando la habilidad está activa (no disponible en la Liga Ápex)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fuego",
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque encenderá al objetivo por <b>8</b> seg, lo que inflige daño igual a <b>{3}%</b> del ATQ cada segundo. Mientras está encendido, los efectos de curación en el objetivo son <b>50%</b> menos efectivos."
+  },
+  "weapon_resonance": {
+    "name": "Reacción al Fuego",
+    "description": "<b>Reacción al Fuego</b>: Aumenta el ATQ de Fuego un <b>20%</b> y la Resistencia al Fuego un <b>40%</b>. Se activa equipando <b>2</b> o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego, teniendo prioridad la Resonancia de Fuego."
+  },
+  "advancement": [
+    "Al impactar al objetivo <b>2</b> veces con Tiro en Cruz, se crea un <b>Espacio Óptico</b> por <b>12</b> seg en la ubicación objetivo. Después de que un enemigo en el Espacio Óptico active el recuento de quemadura, el recuento de quemadura se activará <b>2</b> veces más. Cuando un enemigo sale del Espacio Óptico, reduce su velocidad un <b>80%</b> por <b>2.5</b> seg. Enfriamiento: <b>12</b> seg.\nLos objetivos de Tiro en Cruz quedarán aterrorizados (reduce la velocidad un <b>80%</b>) por <b>1.5</b> segundos. Enfriamiento: <b>4</b> seg.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
+    "Después de que Tiro en Cruz inflija un impacto crítico, recuperas PS igual al <b>50%</b> del daño infligido (sin exceder el <b>15%</b> de tus PS Máx.) y <b>50</b> de carga de arma.\nCada acumulación de Corazón Tranquilo aumenta la tasa crítica final a <b>9%</b>, hasta <b>27%</b>, y convierte hasta <b>13.5%</b> del daño crítico.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
+    "Potenciación de <b>Bomba Implacable</b>: Mientras estás en el estado de Potenciación de Quemadura, el daño de quemadura infligido a los objetivos aumenta al <b>30%</b>.\nPotenciación de <b>Bomba Engañosa</b>: El daño de explosión de gas ignora <b>30%</b> de la resistencia al fuego del objetivo.",
+    "Aumenta el daño infligido por Tiro en Cruz un <b>20%</b> adicional."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Por <b>cada enemigo</b> impactado por una explosión de gas, aumenta el daño de Cruz de Trébol un <b>{0}%</b> por <b>{1}</b> seg, se acumula hasta <b>2</b> veces.",
+      "values": [
+        8,
+        20
+      ]
+    },
+    {
+      "name": "",
+      "description": "Por <b>cada enemigo</b> impactado por una explosión de gas, aumenta el daño de Cruz de Trébol un <b>{0}%</b> por <b>{1}</b> seg, se acumula hasta <b>2</b> veces.",
+      "values": [
+        15,
+        20
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Armazón Reforzado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

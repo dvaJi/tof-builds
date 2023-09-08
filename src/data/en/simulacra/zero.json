@@ -19,6 +19,7 @@
   "charge": 13,
   "skills": [
     {
+      "id": "GA_FPlayerCubeMelee_Melee_name",
       "name": "Normal Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, manipulate the cube to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>46.7%</b> of ATK plus <b>2</b>.\nSecond Attack: Deal damage equal to <b>38.2%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>118.5%</b> of ATK plus <b>6</b>.\nFourth Attack: Deal damage equal to <b>79.6%</b> of ATK plus <b>4</b>.\nFifth Attack: Deal damage equal to <b>80.9%</b> of ATK plus <b>4</b> up to 3 times and <b>launch</b> the target.\n<b>Passive: If normal attacks hit targets 6 times, gain 1 cube. Up to 5 cubes can be stored.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_AirAttack_name",
       "name": "Omnium Missile",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne, use normal attack to activate the energy within the cube, firing up to <b>5</b> missiles and dealing total damage equal to <b>59.3%</b> of ATK plus <b>3</b>. Consume up to <b>250</b> endurance.\n<b>Passive: If the Wanderer has any stored cubes, consume all cubes to fire Omnium Missiles at targets to deal damage.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_JumpAttack_name",
       "name": "Energy Overflow",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "While airborne or after jumping once, use normal attack to trigger Energy Overflow.\nUpon landing, fire a shockwave that travels forward, dealing up to <b>23.4%</b> of ATK plus <b>1</b> damage to targets in its path."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Branch_name",
       "name": "Omnium Shock",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "On the third normal attack, hold the normal attack button to trigger Omnium Shock.\nA pillar of energy launches nearby targets into the air, dealing damage equal to <b>68.4%</b> of ATK plus <b>4</b>. The pillar lasts 5 seconds and deals damage equal to <b>28.5%</b> of ATK plus <b>2</b> to nearby targets every second."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas1_name",
       "name": "Energy Sentinel",
       "type": [
         "Passive"
@@ -57,6 +62,7 @@
       "description": "Cubes orbiting the Wanderer deal damage equal to <b>9.7%</b> of ATK plus <b>1</b> to enemies."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas2_name",
       "name": "Energy Missile",
       "type": [
         "Passive"
@@ -64,6 +70,7 @@
       "description": "When the Wanderer casts Omnium Missiles and Energy Overflow, their orbiting cubes are fired as well, dealing damage equal to <b>48.5%</b> of ATK plus <b>3</b> to the target."
     },
     {
+      "id": "GA_FPlayerCubeEvade_Evade_name",
       "name": "Soul Surge",
       "type": [
         "Dodge"
@@ -71,6 +78,7 @@
       "description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area. Become immune to hitstun while dodging for <b>0.5</b> seconds.\nIf the Wanderer has less than <b>5</b> cubes, each successful dodge has a <b>40%</b> chance to restore 1 dodge attempt.\nSuccessful dodges do not interrupt normal attack combos.\n<b>Passive: Gain a cube for every successful aerial dodge.</b>"
     },
     {
+      "id": "GA_FPlayerCubeSkill_name",
       "name": "Omnium Shield",
       "type": [
         "Skill"
@@ -78,11 +86,12 @@
       "description": "Create shielding for self and nearby allies to block up to <b>800%</b> of ATK in damage for <b>10</b> seconds, deal <b>124.9%</b> of ATK plus <b>8</b> damage to nearby targets and <b>strongly launch</b> them. Each cube in possession when this skill is used adds <b>160%</b> of ATK to max shielding and exhaust the cube. Cooldown: <b>60</b> seconds."
     },
     {
+      "id": "GA_FPlayerCubeChangeSkill_Success_name",
       "name": "Omnium Wave",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and gain <b>5</b> cubes, then unleash the <b>5</b> cubes along with a Shockwave. This Shockwave deals damage equal to <b>171%</b> of ATK plus <b>9</b> to nearby targets, and <b>strongly launches</b> them into the air. Each cube also deals damage equal to <b>48.5%</b> of ATK plus <b>3</b>. If allies are in the vicinity, the allies and the wielder gain damage immunity for <b>3</b> seconds."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and gain <b>5</b> cubes, then unleash the <b>5</b> cubes along with a Shockwave. This Shockwave deals damage equal to <b>171%</b> of ATK plus <b>9</b> to nearby targets, and <b>strongly launches</b> them into the air. Each cube also deals damage equal to <b>48.5%</b> of ATK plus <b>3</b>. If allies are in the vicinity, the allies and the wielder gain damage immunity for <b>3</b> seconds."
     }
   ],
   "weapon_type": {

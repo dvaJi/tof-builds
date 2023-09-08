@@ -8,7 +8,7 @@
   "birthplace": "Hykros Medical Department",
   "gender": "Perempuan",
   "info": "Suster populer yang terkenal akan kesabaran, kebaikan, dan senyumnya. Meski ternama akan etika kerjanya yang efisien, fisik dan staminanya kurang mendukung. Digabung dengan sikap perfeksionismenya, dia selalu merasa kelelahan.\nDia didiagnosis menderita insomnia berat, sedikit gangguan kecemasan, dan perilaku obsesif. Meski begitu, gejala gangguan itu tak tampak berkat disiplin dirinya yang kuat.",
-  "description": "Lahir dalam keluarga Banges yang makmur, dia mendapat pendidikan di atas rata-rata dan selalu berperilaku baik. Suatu hari, dia dan keluarganya diserang oleh Aberrant, dan orang tuanya kehilangan Suppressor mereka. \nMereka tidak \"mati\", tetapi menjadi Aberrant. Saat seorang Eksekutor akan membebaskan mereka dari kesengsaraannya, Pepper yang selamat memohon pada Eksekutor itu agar tidak melakukannya. Mereka kini dikurung di suatu tempat, dan kekayaan keluarga itu perlahan habis untuk membayar biaya perawatan mereka.\nKarena itulah Pepper bekerja di departemen medis Hykros. Dia memilih untuk menghabiskan sisa hidupnya untuk mencari cara membalikkan Aberasi...",
+  "description": "Lahir dalam keluarga Banges yang makmur, dia mendapat pendidikan di atas rata-rata dan selalu berperilaku baik. Suatu hari, dia dan keluarganya diserang oleh Aberrant, dan orang tuanya kehilangan Suppressor mereka. \nMereka tidak \"mati\", tapi menjadi Aberrant. Saat seorang Eksekutor akan membebaskan mereka dari kesengsaraannya, Pepper yang selamat memohon pada Eksekutor itu agar tidak melakukannya. Mereka kini dikurung di suatu tempat, dan kekayaan keluarga itu perlahan habis untuk membayar biaya perawatan mereka.\nKarena itulah Pepper bekerja di departemen medis Hykros. Dia memilih untuk menghabiskan sisa hidupnya untuk mencari cara membalikkan Aberasi...",
   "like": "Orang tuanya, pekerjaan, membuat kemajuan dalam risetnya",
   "dislike": "Waktu tidur",
   "element": "Volt",
@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerStavesMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, ayunkan tongkat untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>25.1%</b> ATK plus <b>1</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>18.8%</b> ATK plus <b>1</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>30.4%</b> ATK plus <b>2</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>41.4%</b> ATK plus <b>2</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>73.2%</b> ATK plus <b>4</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_AirAttack_name",
       "name": "Soaring Barrage",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>32.5%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>23.5%</b> ATK plus <b>1</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>25.5%</b> ATK plus <b>1</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>45.6%</b> ATK plus <b>2</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>47.7%</b> ATK plus <b>3</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_JumpAttack_name",
       "name": "Moonfall",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Tekan dan tahan Serangan Biasa saat mengudara untuk mengaktifkan Moonfall.\nSaat mendarat, timpakan DMG satu kali setiap <b>0,2</b> detik, dengan total <b>57.2%</b> ATK plus <b>3</b> DMG."
     },
     {
+      "id": "GA_FPlayerStavesMelee_Branch_name",
       "name": "Focused Assault",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Setelah Serangan Biasa ketiga, tahan Serangan Biasa untuk mengaktifkan Branch Attack, yang akan mengonsumsi <b>300</b> Stamina.\nSerangan Pertama: Menarik musuh di depan pengguna dan mengakibatkan <b>Suspend Keras</b> kepada mereka serta menimpakan DMG sebesar <b>16.1%</b> ATK plus <b>1</b> setiap <b>0,3</b> detik (maks <b>4</b> kali).\nSerangan Kedua: Menimpakan DMG sebesar <b>18.6%</b> ATK plus <b>1</b> di lokasi target dan kepada musuh di sekitarnya setiap <b>0,3</b> detik."
     },
     {
+      "id": "GA_FPlayerStavesEvade_FrontAttack_name",
       "name": "Surge",
       "type": [
         "Perfect Dodge",
@@ -58,6 +63,7 @@
       "description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\nSetiap Energy Pulse akan menimpakan DMG sebesar <b>22.6%</b> ATK plus <b>1</b> kepada target.\nMemberikan <b>75</b> poin Charge Senjata saat digunakan."
     },
     {
+      "id": "GA_FPlayerStavesEvade_BackAttack_name",
       "name": "Tesseract",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Evasive Blast.\nMenembakkan bola energi ke depan, dan menimpakan DMG sebesar <b>32.1%</b> ATK plus <b>2</b> kepada target di sepanjang lintasannya setiap <b>0,3</b> detik (maks 5 kali).\nSaat digunakan, memberikan <b>75</b> poin Charge Senjata."
     },
     {
+      "id": "GA_FPlayerStavesSkill_name",
       "name": "Sanctuary",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Buat perisai energi di lokasi Wanderer. Sembuhkan kawan dalam perisai sebesar <b>81.7%</b> ATK plus <b>4</b> HP setiap detik dan kurangi DMG yang mereka terima sebesar <b>3%</b> selama <b>10</b> detik. Cooldown <b>60</b> detik."
     },
     {
+      "id": "GA_FPlayerStavesChangeSkill_Sucess_name",
       "name": "Swift Deliverance",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>, dan senjata tongkat ini akan terus melenyapkan debuff dari Wanderer dan kawan-kawannya, serta menyembuhkan Wanderer dan kawan di sekitar sebesar <b>79%</b> ATK plus <b>4</b> HP selama <b>7</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>, dan senjata tongkat ini akan terus melenyapkan debuff dari Wanderer dan kawan-kawannya, serta menyembuhkan Wanderer dan kawan di sekitar sebesar <b>79%</b> ATK plus <b>4</b> HP selama <b>7</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>106%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>106%</b> ATK. Selama <b>6</b> detik berikutnya, target yang terkena Electrify tidak bisa menerima buff."
   },
   "advancement": [
     "Memulihkan semua rekan tim dalam radius <b>10</b> meter sebesar <b>100%</b> ATK setelah menggunakan Skill Dodge.",

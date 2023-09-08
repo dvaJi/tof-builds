@@ -19,6 +19,7 @@
   "charge": 7,
   "skills": [
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
       "name": "Thrust",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>24.7%</b> ATK plus <b>1</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>22.6%</b> ATK plus <b>1</b> membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>47.2%</b> ATK plus <b>2</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>65.2%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>114.95%</b> ATK plus <b>6</b> dan membuat target terpental cukup jauh ke belakang."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Jumping Strike",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara, tekan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\nSerangan Pertama: Menimpakan DMG sebesar <b>27.4%</b> ATK plus <b>1</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>23.2%</b> ATK plus <b>1</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>45.8%</b> ATK plus <b>2</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>110%</b> ATK plus <b>6</b>."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
       "name": "Crashing Drive",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Tahan Serangan Biasa saat di udara (tekan saat ada target yang tersedia), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\nSaat terjun, menimpakan DMG sebesar <b>8%</b> ATK plus <b>1</b> tiap menghantam target. Saat mendarat, menimpakan DMG sebesar <b>48.5%</b> ATK plus <b>3</b> dan menjatuhkan target.\nMakin tinggi posisimu saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
       "name": "Spear Flurry",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Spear Flurry.\nSetelah kena, mengakibatkan <b>Suspend Keras</b> kepada target, menimpakan DMG sebesar <b>49.2%</b> ATK plus <b>3</b>. Tekan lagi untuk terus menyerang target yang tertahan di udara, menimpakan DMG sebesar maks <b>98%</b> ATK plus <b>5</b> DMG kepada satu target."
     },
     {
+      "id": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
       "name": "Flying Kick",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\nSetelah mengenai target, menimpakan DMG sebesar <b>72%</b> ATK plus <b>4</b>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <b>Stun</b> kepada target selama <b>1</b> detik atau <b>0,5</b> detik kepada Wanderer."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
       "name": "Lunging Smash",
       "type": [
         "Dodge",
@@ -74,6 +81,7 @@
       "description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Lunging Smash.\nHantamkan tombak panjang ke tanah, menimpakan DMG sebesar <b>52.8%</b> ATK plus <b>3</b> dan membuat target terkena <b>Suspend Keras</b>."
     },
     {
+      "id": "GA_FPlayerSpearSkillThu_SSR_name",
       "name": "Moonchaser",
       "type": [
         "Skill"
@@ -81,16 +89,17 @@
       "description": "Mengakibatkan <b>Suspend Keras</b> kepada target dan mengudara, menimpakan DMG sebesar <b>127.5%</b> ATK plus <b>7</b>. CD: <b>25</b> detik."
     },
     {
+      "id": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
       "name": "Thunderclap",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>, lalu melompat ke udara dan melemparkan Thunderous Spear yang akan meledak saat menghantam tanah, menimpakan DMG sebesar <b>296.7%</b> ATK plus <b>16</b> dan mengakibatkan <b>Paralyze Keras</b> kepada target selama <b>1</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>, lalu melompat ke udara dan melemparkan Thunderous Spear yang akan meledak saat menghantam tanah, menimpakan DMG sebesar <b>296.7%</b> ATK plus <b>16</b> dan mengakibatkan <b>Paralyze Keras</b> kepada target selama <b>1</b> detik."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>106%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>106%</b> ATK. Selama <b>6</b> detik berikutnya, target yang terkena Electrify tidak bisa menerima buff."
   },
   "advancement": [
     "Meningkatkan Shatter sebesar <b>15%</b>. Setelah menghancurkan Perisai musuh, meningkatkan ATK semua rekan tim sebesar <b>15%</b> selama <b>30</b> detik. Efek ini tidak bisa ditumpuk.",

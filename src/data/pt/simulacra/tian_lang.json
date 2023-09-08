@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerTianLangMelee_Melee_name",
       "name": "Mizar",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, execute 6 ataques seguidos com a Quebratrovão.\nPrimeiro ataque: causa dano de <b>90.5%</b> do ATQ + <b>5</b> e repele o alvo.\nSegundo ataque: causa dano de <b>67.9%</b> do ATQ + <b>4</b> e repele o alvo.\nTerceiro ataque: causa dano de <b>123%</b> do ATQ + <b>6</b> e repele o alvo.\nQuarto ataque: causa dano de <b>217.9%</b> do ATQ + <b>11</b> e repele o alvo.\nQuinto ataque: causa dano de <b>222%</b> do ATQ + <b>12</b> e repele o alvo.\nSexto ataque: causa dano de <b>291.8%</b> do ATQ + <b>15</b> e lança o alvo no ar."
     },
     {
+      "id": "GA_PlayerTianLangMelee_AirAttack_name",
       "name": "Megrez",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>87.4%</b> do ATQ + <b>5</b>.\nSegundo ataque: causa dano de <b>83%</b> do ATQ + <b>4</b>.\nTerceiro ataque: causa dano de <b>126.7%</b> do ATQ + <b>7</b>.\nQuarto ataque: causa dano de <b>229.4%</b> do ATQ + <b>12</b>.\nQuinto ataque: causa dano de <b>256.5%</b> do ATQ + <b>14</b>."
     },
     {
+      "id": "GA_PlayerTianLangMelee_Branch_name",
       "name": "Phecda",
       "type": [
         "Attack"
@@ -41,6 +44,7 @@
       "description": "No chão, segure o botão de ataque normal para desencadear.\nCausa dano de até <b>342%</b> do ATQ + <b>18</b> ao alvo e junta os inimigos ao seu redor."
     },
     {
+      "id": "GA_PlayerTianLangMelee_JumpAttack_name",
       "name": "Merak",
       "type": [
         "Attack"
@@ -48,6 +52,7 @@
       "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar.\nEnquanto cai, cada golpe causa dano de <b>38%</b> do ATQ + <b>2</b>. Ao aterrissar, causa dano de <b>285%</b> do ATQ + <b>15</b> a alvos próximos."
     },
     {
+      "id": "GA_FPlayerTianLangEvade_Evade_name",
       "name": "Esquiva",
       "type": [
         "Dodge"
@@ -55,6 +60,7 @@
       "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante <b>0,5</b> segundo."
     },
     {
+      "id": "GA_FPlayerTianLangEvade_ForwardAttack_name",
       "name": "Alioth",
       "type": [
         "Dodge",
@@ -63,6 +69,7 @@
       "description": "Use o botão de ataque normal logo após se esquivar.\nArremete para atacar o alvo, causando dano total de <b>172.6%</b> do ATQ + <b>9</b>."
     },
     {
+      "id": "GA_FPlayerTianLangSkill_Skill_name",
       "name": "Dubhe",
       "type": [
         "Skill"
@@ -70,16 +77,17 @@
       "description": "Libera uma sequência de ataques que causa dano de <b>936.9%</b> do ATQ + <b>49</b> aos inimigos dentro do alcance e transforma as suas invocações e os inimigos em entidades eletrificadas. Até 3 entidades eletrificadas podem existir ao mesmo tempo. Tempo de recarga: <b>30</b> seg.\n\nGanha sentido elétrico quando Dubhe for usado: Escaneia as outras duas armas equipadas quando usar habilidades. Cada vez que uma arma elétrica é sentida, aumenta o ATQ elétrico em <b>6%</b> durante <b>25</b> segundos.\n\nEntidade eletrificada: Ao usar qualquer habilidade ou habilidade de descarga de arma elétrica, entidades eletrificadas causam dano elétrico em área equivalente a <b>5%</b> da vida perdida (não menos do que <b>100%</b> do ATQ elétrico nem mais do que <b>1.000%</b> do ATQ elétrico).\n\nEnquanto estiver utilizando Quebratrovão, usar qualquer habilidade ou habilidade de descarga de arma elétrica consome <b>30%</b> da vida atual para causar dano elétrico adicional de <b>50%</b> da vida consumida (não menos do que <b>480%</b> do ATQ elétrico nem mais do que <b>3.000%</b> do ATQ elétrico) e ganha invencibilidade temporária (indisponível na Liga do Apogeu). <b>8</b> segundos depois ou quando a vida for menor do que <b>10%</b>, recupera <b>5%</b> da vida perdida a cada segundo durante <b>8</b> segundos (não é afetado por efeitos de cura). O efeito de recuperação não se acumula."
     },
     {
+      "id": "GA_FPlayerTianLangChangeSkill_Success_name",
       "name": "Obliterador",
       "type": [
         "Dodge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. Quebratrovão libera uma extensa área de dano elétrico, causando dano total de <b>844.6%</b> do ATQ + <b>44</b> e transforma as suas invocações ou os inimigos dentro de um certo alcance em entidades eletrificadas. Até 3 entidades eletrificadas podem existir ao mesmo tempo.\n\nEntidades eletrificadas: Ao usar qualquer arma elétrica ou habilidade de descarga, entidades eletrificadas causam dano elétrico em área equivalente a <b>5%</b> da vida perdida (não menos do que <b>100%</b> do ATQ elétrico nem mais do que <b>1.000%</b> do ATQ elétrico).\n\nEnquanto estiver utilizando Quebratrovão, usar qualquer habilidade ou habilidade de descarga de arma elétrica consome <b>30%</b> da vida atual para causar dano elétrico adicional de <b>50%</b> da vida consumida (não menos do que <b>480%</b> do ATQ elétrico nem mais do que <b>3.000%</b> do ATQ elétrico) e ganha invencibilidade temporária (indisponível na Liga do Apogeu). Após <b>8</b> segundos ou quando a vida for menor do que <b>10%</b>, recupera <b>5%</b> da vida perdida a cada segundo durante <b>8</b> segundos (não é afetado por efeitos de cura). O efeito de recuperação não é acumulável."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. Quebratrovão libera uma extensa área de dano elétrico, causando dano total de <b>844.6%</b> do ATQ + <b>44</b> e transforma as suas invocações ou os inimigos dentro de um certo alcance em entidades eletrificadas. Até 3 entidades eletrificadas podem existir ao mesmo tempo.\n\nEntidades eletrificadas: Ao usar qualquer arma elétrica ou habilidade de descarga, entidades eletrificadas causam dano elétrico em área equivalente a <b>5%</b> da vida perdida (não menos do que <b>100%</b> do ATQ elétrico nem mais do que <b>1.000%</b> do ATQ elétrico).\n\nEnquanto estiver utilizando Quebratrovão, usar qualquer habilidade ou habilidade de descarga de arma elétrica consome <b>30%</b> da vida atual para causar dano elétrico adicional de <b>50%</b> da vida consumida (não menos do que <b>480%</b> do ATQ elétrico nem mais do que <b>3.000%</b> do ATQ elétrico) e ganha invencibilidade temporária (indisponível na Liga do Apogeu). Após <b>8</b> segundos ou quando a vida for menor do que <b>10%</b>, recupera <b>5%</b> da vida perdida a cada segundo durante <b>8</b> segundos (não é afetado por efeitos de cura). O efeito de recuperação não é acumulável."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos eletrocutados não podem receber nenhum efeito positivo."
   },
   "weapon_resonance": {
     "name": "Reação elétrica",

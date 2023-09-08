@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerGunMelee_Melee_name",
       "name": "Attaque normale",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Au sol, utilisez une attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige un total de dégâts équivalant à <b>52.3%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige un total de dégâts équivalant à <b>75.6%</b> de l'ATQ + <b>4</b>.\nTroisième attaque : inflige un total de dégâts équivalant à <b>94.5%</b> de l'ATQ + <b>5</b>.\nQuatrième attaque : inflige un total de dégâts équivalant à <b>142.8%</b> de l'ATQ + <b>8</b>.\nCinquième attaque : inflige un total de dégâts équivalant à <b>137.8%</b> de l'ATQ + <b>7</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Power_name",
       "name": "Tir chargé",
       "type": [
         "Hold: Attack"
@@ -33,6 +35,7 @@
       "description": "Appuyez et maintenez Attaque normale pour charger une attaque, puis relâchez pour tirer des balles qui infligent des dégâts équivalant à <b>95.4%</b> de l'ATQ + <b>5</b>, suivies d'une explosion trois secondes plus tard (ou si la cible est éliminée) qui inflige des dégâts équivalant à <b>23.9%</b> de l'ATQ aux ennemis proches. Chaque fois que la cible subit des dégâts pendant l'explosion (jusqu'à <b>4</b> fois) la zone d'effet est doublée et les dégâts accrus."
     },
     {
+      "id": "GA_FPlayerGunMelee_JumpAttack_name",
       "name": "Explosion sautée",
       "type": [
         "Jump",
@@ -41,6 +44,7 @@
       "description": "Lorsque vous êtes dans les airs, lancez Explosion sautée.\nLance une bombe qui inflige des dégâts équivalant à <b>90.8%</b> de l'ATQ + <b>5</b> aux ennemis dans un cercle devant vous, les repoussant d'une courte distance. Consomme <b>250</b> d'endurance."
     },
     {
+      "id": "GA_FPlayerGunMelee_AirAttack_name",
       "name": "Décharge aérienne",
       "type": [
         "Double Jump"
@@ -48,6 +52,7 @@
       "description": "Après un double-saut, déclenchez Décharge aérienne en l'air.\nLancez vers le bas un rayon d'omnium qui inflige des dégâts équivalant à <b>33.8%</b> de l'ATQ + <b>2</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Branch_name",
       "name": "Bombardement dévastateur",
       "type": [
         "Attack",
@@ -56,6 +61,7 @@
       "description": "Maintenez Attaque pendant une attaque normale pour lancer un tir de suppression face à vous et infliger un total de <b>102%</b> de l'ATQ + <b>5</b> de dégâts de zone aux ennemis."
     },
     {
+      "id": "GA_FPlayerGunEvade_BackAttack_name",
       "name": "Proximité",
       "type": [
         "Dodge",
@@ -64,6 +70,7 @@
       "description": "Utilisez l'attaque normale juste après une esquive pour déclencher Proximité.\nInflige des dégâts équivalant à <b>156.1%</b> de l'ATQ + <b>8</b> aux cibles face à vous dans une zone en forme de cône."
     },
     {
+      "id": "GA_FPlayerGunSkill_name",
       "name": "Barrage",
       "type": [
         "Skill"
@@ -71,11 +78,12 @@
       "description": "Inflige des dégâts en continu dans une zone en forme de cône devant vous, équivalant au total à <b>666%</b> de l'ATQ + <b>35</b>. Temps de recharge : <b>60</b> secondes."
     },
     {
+      "id": "GA_FPlayerGunChangeSkill_NewNew_Sucess_name",
       "name": "Pluie explosive",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b> et lance <b>3</b> grenades vers l'avant au moment où vous changez d'arme pour passer à celle-ci, infligeant <b>570%</b> de l'ATQ + <b>30</b> de dégâts de zone au total, et <b>projette</b> la cible."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur l'Explorateur</b> et lance <b>3</b> grenades vers l'avant au moment où vous changez d'arme pour passer à celle-ci, infligeant <b>570%</b> de l'ATQ + <b>30</b> de dégâts de zone au total, et <b>projette</b> la cible."
     }
   ],
   "weapon_type": {

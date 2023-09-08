@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerFriggMelee_Melee_name",
       "name": "Attaque normale",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec Balmung.\nPremière attaque : inflige des dégâts équivalant à <b>50.8%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>36.3%</b> de l'ATQ + <b>2</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>98.3%</b> de l'ATQ + <b>5</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>67.3%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nCinquième attaque : inflige des dégâts équivalant à <b>148.3%</b> de l'ATQ + <b>8</b> et renverse la cible."
     },
     {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
       "name": "Décharge aérienne",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour attaquer 5 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>62.5%</b> de l'ATQ + <b>3</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>62%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>3%</b> de l'ATQ + <b>120</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>6%</b> de l'ATQ + <b>71.2</b>.\nCinquième attaque : inflige des dégâts équivalant à <b>4%</b> de l'ATQ + <b>126</b>."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_Branch_name",
       "name": "Poursuite rapide",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Après la seconde attaque normale, maintenez Attaque normale pour déclencher Poursuite rapide.\nVous tirez un missile guidé par laser sur la cible, infligeant des dégâts jusqu'à <b>107.5%</b> de l'ATQ + <b>6</b>."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_PowerAttack_name",
       "name": "Double concentration",
       "type": [
         "Hold: Attack"
@@ -49,6 +53,7 @@
       "description": "Appuyez et maintenez Attaque normale pour charger une attaque et libérer une boule électrifiée qui explose à l'impact, infligeant des dégâts équivalents à <b>118.4%</b> de l'ATQ + <b>6</b> aux ennemis proches."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_BackAttack_name",
       "name": "Concentration tournoyante",
       "type": [
         "Perfect Attack",
@@ -57,6 +62,7 @@
       "description": "Appuyer sur l'attaque normale pendant la courte fenêtre d'esquive parfaite pour déclencher un champ magnétique ralentissant.\nVenus tire un orbe chargé qui explose après avoir parcouru une distance définie ou au contact des cibles. Inflige des dégâts équivalant à <b>171.6%</b> de l'ATQ + <b>9</b>, et génère un champ magnétique ralentissant pendant <b>3</b> secondes qui réduit la vitesse de déplacement et d'attaque de tous les ennemis pris dedans de <b>35%</b>.\nEsquiver déclenchera des soins en chaîne qui soignent les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soigne les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> cumul de soin en chaîne amélioré qui augmente les effets des soins en chaîne de <b>25%</b>. Se cumule jusqu'à <b>5</b> fois et dure <b>30</b> secondes. Changer d'arme n'annulera pas cet effet."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_RollAttack_name",
       "name": "Rayons parallèles",
       "type": [
         "Perfect Dodge",
@@ -65,6 +71,7 @@
       "description": "Appuyer sur l'attaque normale pendant la courte fenêtre d'esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Rayons parallèles.\nVenus tire deux rayons parallèles, infligeant des dégâts perforants équivalant à <b>171.6%</b> de l'ATQ + <b>9</b>.\nEsquiver déclenchera un soin en chaîne qui soignera les alliés proches de <b>67,7%</b> de l'ATQ de l'Explorateur pendant <b>10</b> secondes. Un petit soin en chaîne sera déclenché toutes les <b>2</b> secondes et soignera les alliés proches de <b>22,5%</b> de l'ATQ de l'Explorateur. Esquiver confère <b>1</b> amélioration de cumul de soin en chaîne qui augmente les effets des soins en chaîne de <b>25%</b> (se cumule jusqu'à <b>5</b> fois) et dure <b>30</b> secondes. Changer d'arme n'annule pas cet effet."
     },
     {
+      "id": "GA_FPlayerSuspensionSkill_Skill_name",
       "name": "Verrouillage d'impulsion",
       "type": [
         "Skill"
@@ -72,16 +79,17 @@
       "description": "Venus lance un missile guidé qui explose au contact des cibles ennemies, infligeant des dégâts équivalant à <b>233.2%</b> de l'ATQ + <b>12</b> et renverse les cibles. Temps de recharge : <b>25</b> secondes."
     },
     {
+      "id": "GA_FPlayerSuspensionChangeSkill_Success_name",
       "name": "Tir de rayon à particules",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, <b>supprime toutes les altérations sur le porteur</b> au moment où vous changez d'arme pour passer à celle-ci, et donne l'ordre à Venus de tirer un rayon en forme de croix au sol, créant une zone instable et réduisant la vitesse de déplacement des cibles de <b>70%</b> pendant <b>5</b> secondes. Après un court moment, libère une impulsion électromagnétique qui inflige des dégâts équivalant à <b>393.9%</b> de l'ATQ + <b>21</b>.\nUtiliser une attaque de décharge fera apparaitre <b>1</b> Électrode à proximité de la position de l'ennemi qui attaque toutes les <b>1,5</b> seconde, infligeant des dégâts équivalant à <b>39.9%</b> de l'ATQ + <b>2</b>.\nL'Électrode gagne <b>100%</b> des stats de l'Explorateur, peut être attaquée ou soignée, et perd <b>3%</b> de ses PV max chaque seconde.\nSeule <b>1</b> Électrode peut être invoquée. Si une nouvelle Électrode est invoquée, elle remplacera la précédente."
+      "description": "Lorsque la <span class=\"text-red\">recharge d’arme est pleine</span> ou que <span class=\"text-red\">Fantaisie</span> est déclenchée, changer d'arme pour utiliser celle-ci <b>élimine toutes les altérations sur l'Explorateur</b> et donne l'ordre à Venus de tirer un rayon en forme de croix au sol, créant une zone instable et réduisant la vitesse de déplacement des cibles de <b>70%</b> pendant <b>5</b> secondes. Après un court moment, libère une impulsion électromagnétique qui inflige des dégâts équivalant à <b>393.9%</b> de l'ATQ + <b>21</b>.\nUtiliser une attaque de décharge fera apparaître <b>1</b> électrode à l'emplacement de la cible qui attaque toutes les <b>1,5</b> seconde, infligeant des dégâts équivalant à <b>39.9%</b> de l'ATQ + <b>2</b>.\nL'électrode gagne <b>100%</b> des stats de l'Explorateur, peut être attaquée ou soignée, et perd <b>3%</b> de ses PV max chaque seconde.\n<b>1</b> seule électrode peut être invoquée. Si une nouvelle électrode est invoquée, elle remplacera la précédente."
     }
   ],
   "weapon_type": {
     "name": "Foudre",
-    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse lourdement</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous leurs effets bénéfiques et inflige des dégâts équivalant à <b>144%</b> de l'ATQ. Les cibles ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
+    "description": "Quand une arme est entièrement chargée, la prochaine attaque <b>paralyse lourdement</b> les cibles pendant <b>1</b> seconde et les électrocute pendant <b>6</b> secondes. Annule tous leurs effets bénéfiques et inflige des dégâts équivalant à <b>144%</b> de l'ATQ. Les cibles électrocutées ne peuvent recevoir aucun effet bénéfique pendant les <b>6</b> secondes suivantes."
   },
   "weapon_resonance": {
     "name": "Résonance de foudre",

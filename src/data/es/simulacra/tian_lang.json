@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerTianLangMelee_Melee_name",
       "name": "Mizar",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, inicia 6 ataques seguidos con Rompetruenos.\nPrimer ataque: Inflige daño igual a <b>90.5%</b> del ATQ más <b>5</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño igual a <b>67.9%</b> del ATQ más <b>4</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño igual a <b>123%</b> del ATQ más <b>6</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño igual a <b>217.9%</b> del ATQ más <b>11</b> y hace retroceder al objetivo.\nQuinto ataque: Inflige daño igual a <b>222%</b> del ATQ más <b>12</b> y hace retroceder al objetivo.\nSexto ataque: Inflige daño igual a <b>291.8%</b> del ATQ más <b>15</b> y lanza al objetivo."
     },
     {
+      "id": "GA_PlayerTianLangMelee_AirAttack_name",
       "name": "Megrez",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>87.4%</b> del ATQ más <b>5</b>.\nSegundo ataque: Inflige daño igual a <b>83%</b> del ATQ más <b>4</b>.\nTercer ataque: Inflige daño igual a <b>126.7%</b> del ATQ más <b>7</b>.\nCuarto ataque: Inflige daño igual a <b>229.4%</b> del ATQ más <b>12</b>.\nQuinto ataque: Inflige daño igual a <b>256.5%</b> del ATQ más <b>14</b>."
     },
     {
+      "id": "GA_PlayerTianLangMelee_Branch_name",
       "name": "Phecda",
       "type": [
         "Attack"
@@ -41,6 +44,7 @@
       "description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal para activarlo.\nInflige daño de hasta <b>342%</b> del ATQ más <b>18</b> al objetivo y reúne a los enemigos a tu alrededor."
     },
     {
+      "id": "GA_PlayerTianLangMelee_JumpAttack_name",
       "name": "Merak",
       "type": [
         "Attack"
@@ -48,6 +52,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o usa el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar.\nMientras caes, inflige daño igual a <b>38%</b> del ATQ más <b>2</b> en cada impacto. Al aterrizar, inflige daño igual a <b>285%</b> del ATQ más <b>15</b> a los objetivos cercanos."
     },
     {
+      "id": "GA_FPlayerTianLangEvade_Evade_name",
       "name": "Evasión",
       "type": [
         "Dodge"
@@ -55,6 +60,7 @@
       "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante <b>0.5</b> seg."
     },
     {
+      "id": "GA_FPlayerTianLangEvade_ForwardAttack_name",
       "name": "Alioth",
       "type": [
         "Dodge",
@@ -63,6 +69,7 @@
       "description": "Pulsa el ataque normal durante el breve periodo que sigue a la evasión.\nCorre para atacar al objetivo, lo que inflige daño igual a <b>172.6%</b> del ATQ más <b>9</b>."
     },
     {
+      "id": "GA_FPlayerTianLangSkill_Skill_name",
       "name": "Dubhe",
       "type": [
         "Skill"
@@ -70,16 +77,17 @@
       "description": "Desata una ráfaga de ataques, lo que inflige daño igual a <b>936.9%</b> del ATQ más <b>49</b> a los enemigos a distancia, y transforma a los enemigos y a tus invocaciones dentro de un cierto alcance en Entidades Electrificadas, lo que permite que existan hasta 3 Entidades Electrificadas a la vez. Enfriamiento: <b>30</b> seg.\n\nOtorga Sentido Eléctrico al usar Dubhe: Analiza las otras dos armas equipadas al desatar habilidades. Cada vez que se detecta un arma eléctrica, aumenta el ATQ Eléctrico un <b>6%</b> por <b>25</b> seg.\n\nEntidad Electrificada: Al desatar cualquier habilidad de arma eléctrica o de descarga, las Entidades Electrificadas desatan daño de área eléctrico igual a <b>5%</b> de los PS faltantes (no menos de <b>100%</b> del ATQ eléctrico, no más de <b>1000%</b> del ATQ eléctrico).\n\nAl usar Rompetruenos, al desatar cualquier habilidad de arma eléctrica o de descarga consume <b>30%</b> de los PS actuales para infligir daño eléctrico adicional igual a <b>50%</b> de los PS consumidos (no menos de <b>480%</b> del ATQ eléctrico, no más de <b>3000%</b> del ATQ eléctrico) y otorga invencibilidad temporal (no disponible en la Liga Ápex). <b>8</b> seg después o cuando los PS sean inferiores a <b>10%</b>, restaura <b>5%</b> de los PS faltantes cada segundo por <b>8</b> seg (no afectado por efectos de curación). El efecto de recuperación no se puede acumular."
     },
     {
+      "id": "GA_FPlayerTianLangChangeSkill_Success_name",
       "name": "Destructor",
       "type": [
         "Dodge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b>. Rompetruenos desata un ataque amplio de daño eléctrico, lo que inflige daño total igual a <b>844.6%</b> del ATQ más <b>44</b> y transforma a los enemigos o a tus invocaciones dentro de un cierto alcance en entidades electrificadas. Pueden existir hasta 3 entidades electrificadas a la vez.\n\nEntidad Electrificada: Al desatar cualquier habilidad de descarga de arma eléctrica, las entidades electrificadas infligen daño de área eléctrico igual a <b>5%</b> de los PS faltantes (no menos de <b>100%</b> del ATQ eléctrico, no más de <b>1.000%</b> del ATQ eléctrico).\n\nAl usar Rompetruenos, desatar cualquier habilidad de arma eléctrica o habilidad de descarga consume <b>30%</b> de PS actuales para infligir daño eléctrico adicional igual a <b>50%</b> de los PS consumidos (no menos de <b>480%</b> del ATQ eléctrico, no más de <b>3000%</b> del ATQ eléctrico) y otorga invencibilidad temporal (no disponible en la Liga Ápex). Después de <b>8</b> seg o cuando los PS sean inferiores a <b>10%</b>, recuperas <b>5%</b> los PS faltantes cada segundo por <b>8</b> seg (no se ve afectado por los efectos de curación). El efecto de recuperación no se puede acumular."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b>. Rompetruenos desata un ataque amplio de daño eléctrico, lo que inflige daño total igual a <b>844.6%</b> del ATQ más <b>44</b> y transforma a los enemigos o a tus invocaciones dentro de un cierto alcance en entidades electrificadas. Pueden existir hasta 3 entidades electrificadas a la vez.\n\nEntidad Electrificada: Al desatar cualquier habilidad de descarga de arma eléctrica, las entidades electrificadas infligen daño de área eléctrico igual a <b>5%</b> de los PS faltantes (no menos de <b>100%</b> del ATQ eléctrico, no más de <b>1.000%</b> del ATQ eléctrico).\n\nAl usar Rompetruenos, desatar cualquier habilidad de arma eléctrica o habilidad de descarga consume <b>30%</b> de PS actuales para infligir daño eléctrico adicional igual a <b>50%</b> de los PS consumidos (no menos de <b>480%</b> del ATQ eléctrico, no más de <b>3000%</b> del ATQ eléctrico) y otorga invencibilidad temporal (no disponible en la Liga Ápex). Después de <b>8</b> seg o cuando los PS sean inferiores a <b>10%</b>, recuperas <b>5%</b> los PS faltantes cada segundo por <b>8</b> seg (no se ve afectado por los efectos de curación). El efecto de recuperación no se puede acumular."
     }
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> seg y los electrifica por <b>6</b> seg, lo que elimina todas sus mejoras e inflige daño igual a <b>144%</b> del ATQ. Los objetivos electrificados no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
   },
   "weapon_resonance": {
     "name": "Reacción eléctrica",

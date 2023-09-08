@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerFriggMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, mulai 5 serangan berturut-turut dengan Balmung.\nSerangan Pertama: Menimpakan DMG sebesar <b>50.8%</b> ATK plus <b>3</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>36.3%</b> ATK plus <b>2</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>98.3%</b> ATK plus <b>5</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>67.3%</b> ATK plus <b>4</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>148.3%</b> ATK plus <b>8</b> dan menjatuhkan target."
     },
     {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>62.5%</b> ATK plus <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>62%</b> ATK plus <b>5</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>3%</b> ATK plus <b>120</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>6%</b> ATK plus <b>71.2</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>4%</b> ATK plus <b>126</b>."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_Branch_name",
       "name": "Quick Pursuit",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Setelah Serangan Biasa kedua, tahan Serangan Biasa untuk mengaktifkan Quick Pursuit.\nTembakkan rudal ke arah target, menimpakan DMG sebesar maks <b>107.5%</b> ATK plus <b>6</b>."
     },
     {
+      "id": "GA_PlayerSuspensionMelee_PowerAttack_name",
       "name": "Dual Focus",
       "type": [
         "Hold: Attack"
@@ -49,6 +53,7 @@
       "description": "Tekan dan tahan Serangan Biasa untuk mengumpulkan tenaga, lalu lepas untuk menembakan bola listrik yang meledak saat menghantam target, menimpakan DMG sebesar <b>118.4%</b> ATK plus <b>6</b> kepada musuh di sekitar."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_BackAttack_name",
       "name": "Twin Spinning Focus",
       "type": [
         "Perfect Attack",
@@ -57,6 +62,7 @@
       "description": "Tekan Serangan Biasa selama durasi singkat Menghindar Sempurna untuk menciptakan medan magnet pelambat.\nVenus menembakkan bola listrik yang akan meledak setelah melesat sejauh jarak tertentu atau saat menyentuh target. Menimpakan DMG sebesar <b>171.6%</b> ATK plus <b>9</b> dan menciptakan medan magnet pelambat selama <b>3</b> detik, yang mengurangi kecepatan gerak dan kecepatan serang semua musuh di dalamnya sebesar <b>35%</b>.\nMenghindar akan mengaktifkan Healing Chain yang menyembuhkan kawan di sekitar sebesar <b>67,7%</b> ATK Wanderer. Selama <b>10</b> detik berikutnya, sebuah Healing Chain kecil akan diaktifkan setiap <b>2</b> detik, yang akan menyembuhkan kawan di sekitar sebanyak <b>22,5%</b> ATK Wanderer. Menghindar akan memberikan <b>1</b> tumpuk Healing Chain Enhance, yang meningkatkan efek Healing Chain sebesar <b>25%</b>. Maks <b>5</b> tumpuk dan aktif selama <b>30</b> detik. Jika berganti senjata, efek ini tidak akan dibatalkan."
     },
     {
+      "id": "GA_FPlayerSuspensionEvade_RollAttack_name",
       "name": "Parallel Beams",
       "type": [
         "Perfect Dodge",
@@ -65,6 +71,7 @@
       "description": "Tekan Serangan Biasa selama durasi singkat Menghindar Sempurna (tekan tombol arah sebelum menghindar) untuk mengaktifkan Parallel Beam.\nVenus menembakkan sepasang sinar energi paralel yang menimpakan DMG menembus sebesar <b>171.6%</b> ATK plus <b>9</b>.\nMenghindar akan mengaktifkan Healing Chain yang menyembuhkan kawan di sekitar sebesar <b>67,7%</b> ATK Wanderer. Selama <b>10</b> detik berikutnya, sebuah Healing Chain kecil akan diaktifkan setiap <b>2</b> detik, yang akan menyembuhkan kawan di sekitar sebesar <b>22,5%</b> ATK Wanderer. Menghindar akan memberikan <b>1</b> tumpuk Healing Chain Enhance, yang meningkatkan efek Healing Chain sebesar <b>25%</b> (bisa bertumpuk <b>5</b> kali) dan aktif selama <b>30</b> detik. Jika beralih senjata, efek ini tidak akan dibatalkan."
     },
     {
+      "id": "GA_FPlayerSuspensionSkill_Skill_name",
       "name": "Pulse Lock",
       "type": [
         "Skill"
@@ -72,16 +79,17 @@
       "description": "Venus menembakkan peluru kendali yang meledak saat menyentuh musuh, menimpakan DMG sebesar <b>233.2%</b> ATK plus <b>12</b> dan menjatuhkan target. CD: <b>25</b> detik."
     },
     {
+      "id": "GA_FPlayerSuspensionChangeSkill_Success_name",
       "name": "Particle Beam Burst",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan memerintahkan Venus untuk menembakkan sinar berbentuk silang ke tanah, menciptakan area tidak stabil dan memperlambat kecepatan gerakan target sebesar <b>70%</b> selama <b>5</b> detik. Setelah beberapa saat, melancarkan ledakan elektromagnet yang menimpakan DMG sebesar <b>393.9%</b> ATK plus <b>21</b>.\nMenggunakan Serangan Discharge akan memunculkan <b>1</b> Electrode di dekat posisi musuh yang menyerang satu kali setiap <b>1,5</b> detik, menimpakan DMG sebesar <b>39.9%</b> ATK plus <b>2</b>.\nElectrode mendapatkan <b>100%</b> stat Wanderer, bisa diserang atau disembuhkan, dan kehilangan <b>3%</b> Max HP setiap detik.\nHanya <b>1</b> Electrode yang bisa aktif dalam satu waktu. Memunculkan Electrode baru akan menggantikan Electrode yang sebelumnya."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan memerintahkan Venus untuk menembakkan sinar berbentuk silang ke tanah, menciptakan area tidak stabil dan memperlambat kecepatan gerakan target sebesar <b>70%</b> selama <b>5</b> detik. Setelah beberapa saat, melancarkan ledakan elektromagnet yang menimpakan DMG sebesar <b>393.9%</b> ATK plus <b>21</b>.\nMenggunakan Serangan Discharge akan memunculkan <b>1</b> Electrode di posisi target, yang akan menyerang satu kali setiap <b>1,5</b> detik, menimpakan DMG sebesar <b>39.9%</b> ATK plus <b>2</b>.\nElectrode mendapatkan <b>100%</b> stat Wanderer, bisa diserang atau disembuhkan, dan kehilangan <b>3%</b> Max HP setiap detik.\nHanya <b>1</b> Electrode yang bisa aktif dalam satu waktu. Memunculkan Electrode baru akan menggantikan Electrode yang sebelumnya."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target yang terkena Electrify tidak bisa menerima buff."
   },
   "weapon_resonance": {
     "name": "Resonansi Volt",

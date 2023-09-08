@@ -19,6 +19,7 @@
   "charge": 12,
   "skills": [
     {
+      "id": "GA_FPlayerSwordMelee_SSR_Melee_name",
       "name": "Corte Rápido",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, branda a espada para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>46.8%</b> do ATQ + <b>2</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>65.6%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>59.3%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>104.1%</b> do ATQ + <b>5</b> e repele o alvo uma curta distância.\nQuinto ataque: causa dano de <b>177.8%</b> do ATQ + <b>9</b> e <b>lança</b> o alvo no ar."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Ataque Suspenso",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>27.9%</b> do ATQ + <b>1</b>.\nSegundo ataque: causa dano de <b>48.4%</b> do ATQ + <b>3</b>.\nTerceiro ataque: causa dano de <b>114.6%</b> do ATQ + <b>6</b>.\nQuarto ataque: causa dano de <b>139%</b> do ATQ + <b>7</b>."
     },
     {
+      "id": "GA_FPlayerSwordMeleeThu_R_Branch_name",
       "name": "de Areia",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\nSuspende o alvo ao atingir. Ciclone causa dano de <b>47.8%</b> do ATQ + <b>3</b> a um único alvo."
     },
     {
+      "id": "GA_FPlayerSwordMeleeThu_R_JumpAttack_name",
       "name": "Mergulho Lacerante",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\nEnquanto cai, cada golpe causa dano de <b>10%</b> do ATQ + <b>1</b>. Ao aterrissar, causa dano de <b>76.4%</b> do ATQ + <b>4</b> e repele os alvos ao redor.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Ataque Furtivo",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSwordEvadeThu_R_BackAttack_name",
       "name": "Ataque Saltado",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Use o botão de ataque normal logo após se esquivar para usar Ataque Saltado.\nBrande a arma para frente e causa dano de <b>37.9%</b> do ATQ + <b>2</b> ao alvo. <b>Suspende muito</b> o alvo e a si mesmo, então causa dano adicional de <b>56.8%</b> do ATQ + <b>3</b>."
     },
     {
+      "id": "GA_FPlayerSwordSkillNew_SSR_name",
       "name": "Passeio Doloroso",
       "type": [
         "Skill"
@@ -73,11 +80,12 @@
       "description": "Passa entre alvos enquanto brande a espada. Causa dano total de <b>418%</b> do ATQ + <b>22</b> a até <b>5</b> alvos (reduzindo cumulativamente em <b>20%</b> o dano causado por cada acerto consecutivo a um mesmo alvo). Ao terminar a habilidade, faz um corte no espaço adiante. Causa dano de <b>264%</b> do ATQ + <b>14</b> aos alvos ao redor e os suspende. Dá imunidade a efeitos de controle, e todo dano sofrido é reduzido em <b>50%</b> ao usar esta habilidade. Tempo de recarga: <b>15</b> seg."
     },
     {
+      "id": "GA_FPlayerSwordChangeSkill_SSR_Sucess_name",
       "name": "Ímpeto Desenfreado",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. Em seguida, corre até o alvo e o <b>suspende muito</b>, causando dano de <b>523.3%</b> do ATQ + <b>28</b> e deixando para trás uma Tempestade de Espadas que causa dano de <b>209.6%</b> do ATQ + <b>11</b>. Você fica imune a lesão, congelamento, queimadura e eletrocussão durante <b>5</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b>. Em seguida, corre até o alvo e o <b>suspende muito</b>, causando dano de <b>523.3%</b> do ATQ + <b>28</b> e deixando para trás uma Tempestade de Espadas que causa dano de <b>209.6%</b> do ATQ + <b>11</b>. Você fica imune a lesão, congelamento, queimadura e eletrocussão durante <b>5</b> segundos."
     }
   ],
   "weapon_type": {

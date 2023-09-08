@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
       "name": "Twin Blades",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks.\nFirst Attack: Deal damage equal to <b>60.1%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>73%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>90.9%</b> of ATK plus <b>5</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>96.8%</b> of ATK plus <b>5</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>202.2%</b> of ATK plus <b>11</b> and knock the target back a short distance."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
       "name": "Sky Flurry",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>65.6%</b> of ATK plus <b>3</b>.\nSecond Attack: Deal damage equal to <b>38.4%</b> of ATK plus <b>2</b>.\nThird Attack: Deal damage equal to <b>92%</b> of ATK plus <b>5</b>.\nFourth Attack: Deal damage equal to <b>138%</b> of ATK plus <b>7</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
       "name": "Rapid Lunge",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "After the third normal attack, hold the normal attack button to trigger Rapid Lunge.\nUpon hit, <b>strongly suspend</b> the target, dealing total damage equal to <b>116.8%</b> of ATK plus <b>6</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
       "name": "Spiral Drive",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Spiral Drive.\nWhile falling, deal damage equal to <b>42%</b> of ATK plus <b>2</b> each hit."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Approach the enemy from behind while crouching, then use normal attack to trigger Sneak Attack, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
       "name": "Flying Blades",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Blades.\nSlash a target <b>5</b> times, each dealing damage equal to <b>26.4%</b> of ATK plus <b>1</b>. Grant immunity to control effects while phasing."
     },
     {
+      "id": "GA_FPlayerDSSkillThu_SSR_name",
       "name": "Returning Blades",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Fire <b>6</b> returning blades, each dealing damage equal to <b>52.8%</b> of ATK plus <b>3</b>. Gains <b>hyperbody</b> for up to <b>8</b> seconds, and the effect is removed when the blades return. <b>45</b> -second cooldown."
     },
     {
+      "id": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
       "name": "Orbiting Blades",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and dash to the target location, dealing damage equal to <b>86.9%</b> of ATK plus <b>5</b> and electrocuting the target (after <b>5</b> seconds, deals volt damage equal to <b>15%</b> of damage dealt, up to <b>350%</b> of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to <b>65.2%</b> of ATK plus <b>3</b> to those that touch them."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and dash to the target location, dealing damage equal to <b>86.9%</b> of ATK plus <b>5</b> and electrocuting the target (after <b>5</b> seconds, deals volt damage equal to <b>15%</b> of damage dealt, up to <b>350%</b> of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to <b>65.2%</b> of ATK plus <b>3</b> to those that touch them."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>144%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>144%</b> of ATK. Electrified targets can't receive any buffs for the next <b>6</b> seconds."
   },
   "advancement": [
     "Attacking targets from behind increases crit rate of all dual blade attacks by <b>40%</b>. Backstabbing an electrified target increases crit rate by <b>100%</b> and crit damage by <b>30%</b>.",

@@ -19,6 +19,7 @@
   "charge": 4,
   "skills": [
     {
+      "id": "GA_FPlayerBigSwordMeleeIce_SSR_name",
       "name": "Heavy Cleave",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, swing a greatsword to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>72.9%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>60.1%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>105.4%</b> of ATK plus <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>156%</b> of ATK plus <b>8</b>, <b>strongly launch</b> the target, then launch them upon landing."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Aerial Strike",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>106.5%</b> of ATK plus <b>6</b>.\nSecond Attack: Deal damage equal to <b>87.5%</b> of ATK plus <b>5</b>.\nThird Attack: Deal damage equal to <b>156%</b> of ATK plus <b>8</b>.\nFourth Attack: Deal damage equal to <b>140.5%</b> of ATK plus <b>7</b> and deliver a <b>knockdown</b>, launch the target upon landing."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Branch_name",
       "name": "Rising Slash",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "After the third normal attack, hold normal attack to trigger Rising Slash.\nUpon hit, <b>strongly suspend</b> the target and go airborne, dealing damage equal to <b>64.3%</b>of ATK plus <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_JumpAttack_name",
       "name": "Moonset Slash",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Moonset Slash"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_R_Sneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Power_name",
       "name": "Whirlwind",
       "type": [
         "Hold: Attack"
@@ -65,6 +71,7 @@
       "description": "While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to <b>132.8%</b> of ATK plus <b>7</b> every <b>0.5</b> seconds to the target. Grant hitstun immunity while in use."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR_name",
       "name": "Devastate",
       "type": [
         "Perfect Dodge",
@@ -73,6 +80,7 @@
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate.\nDeal damage equal to <b>65.9%</b> of ATK plus <b>3</b> each hit and <b>launch</b> targets."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR_name",
       "name": "Crescent Slash",
       "type": [
         "Dodge",
@@ -81,6 +89,7 @@
       "description": "Use normal attack during the short period after dodging to trigger Crescent Slash.\nSwing the greatsword to unleash sword auras forward, each dealing damage equal to <b>49.6%</b> of ATK plus <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordBigSkillIce_SSR_name",
       "name": "Blizzard",
       "type": [
         "Skill"
@@ -88,11 +97,12 @@
       "description": "Swing the greatsword to launch sword auras forward, each dealing damage equal to <b>141.7%</b> of ATK plus <b>7</b> and dealing increasing damage of <b>5%</b> with each hit. Immune to control effects while active. Cooldown: <b>30</b> seconds."
     },
     {
+      "id": "GA_FPlayerBigSwordChangeSkillIce_SSR_name",
       "name": "Frost Barrier",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and smash the ground to form a barrier, dealing damage equal to <b>503.2%</b> of ATK plus <b>26</b> to nearby enemies, suspending the targets. This reduces their speed by <b>50%</b> and stops them from dodging or jumping. The barrier lasts <b>5</b> seconds and blocks projectiles."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and smash the ground to form a barrier, dealing damage equal to <b>503.2%</b> of ATK plus <b>26</b> to nearby enemies, suspending the targets. This reduces their speed by <b>50%</b> and stops them from dodging or jumping. The barrier lasts <b>5</b> seconds and blocks projectiles."
     }
   ],
   "weapon_type": {

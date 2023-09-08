@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerCannonMelee_Melee_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Pulsa el ataque normal para entrar en el modo de apuntar. Mantén el ataque normal para disparar continuamente, hasta <b>40</b> rondas. Cada disparo inflige daño igual a <b>11.4%</b> del ATQ más <b>1</b>. Inflige el doble de daño al hacer un tiro en la cabeza o al impactar en el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas)."
     },
     {
+      "id": "GA_FPlayerCannonSkill_name",
       "name": "Torreta",
       "type": [
         "Skill"
@@ -33,11 +35,12 @@
       "description": "Activa el modo torreta y dispara grandes orbes de energía, cada uno de los cuales inflige daño igual a <b>213.3%</b> del ATQ más <b>11</b> y lanza al objetivo por el aire. Te vuelves inmune a la conmoción y a los efectos de control mientras preparas la torreta. Enfriamiento: <b>3.5</b> seg."
     },
     {
+      "id": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
       "name": "Rayo Ártico",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y dispara un Rayo Ártico, lo que inflige daño igual al <b>329.2%</b> del ATQ más <b>17</b> y causa un efecto de <b>congelación fuerte</b> por <b>3</b> seg. También reduce la resistencia a la escarcha del objetivo un <b>50%</b> por <b>10</b> seg."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y dispara un Rayo Ártico, lo que inflige daño igual al <b>329.2%</b> del ATQ más <b>17</b> y causa un efecto de <b>congelación fuerte</b> por <b>3</b> seg. También reduce la resistencia a la escarcha del objetivo un <b>50%</b> por <b>10</b> seg."
     }
   ],
   "weapon_type": {

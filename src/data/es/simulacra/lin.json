@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerFanMelee_Melee_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, utiliza Tejesombras para lanzar 5 ataques consecutivos.\nPrimer ataque: Inflige daño igual a <b>59.9%</b> del ATQ más <b>3</b>.\nSegundo ataque: Inflige daño igual a <b>57.1%</b> del ATQ más <b>3</b>.\nTercer ataque: Inflige daño igual a <b>49.5%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>114.2%</b> del ATQ más <b>6</b> y suspende al objetivo.\nQuinto ataque: Inflige daño igual a <b>152.2%</b> del ATQ más <b>8</b>."
     },
     {
+      "id": "GA_FPlayerFanMelee_AirAttack_name",
       "name": "Descarga Aérea",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>30.6%</b> del ATQ más <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>55.6%</b> del ATQ más <b>3</b>.\nTercer ataque: Inflige daño igual a <b>48.2%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>111.2%</b> del ATQ más <b>6</b>.\nQuinto ataque: Inflige daño igual a <b>148.3%</b> del ATQ más <b>8</b>."
     },
     {
+      "id": "GA_FPlayerFanMelee_Branch_name",
       "name": "Suelo Disperso",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Tras el segundo ataque normal en el suelo o en el aire, mantén el ataque normal para activar Suelo Disperso.\nAtaca la posición del objetivo, lo que inflige daño igual a <b>83.2%</b> del ATQ más <b>4</b> y derriba al objetivo.\nPasiva: Después de desatar Suelo Disperso en el suelo, al pulsar rápidamente el ataque normal, se desatará inmediatamente Floración Breve (la 3.a acumulación)."
     },
     {
+      "id": "GA_FPlayerFanMelee_PowerAttack_name",
       "name": "Floración Breve",
       "type": [
         "Attack",
@@ -49,6 +53,7 @@
       "description": "Mantén el ataque normal para desatar Floración Breve. Se puede cargar hasta 3 acumulaciones; otorga hipercuerpo e inmunidad al control durante la carga.\nPrimera acumulación: Inflige daño igual a <b>73.9%</b> del ATQ más <b>4</b>.\nSegunda acumulación: Inflige daño igual a <b>146.8%</b> del ATQ más <b>246.4</b>.\nTercera acumulación: Inflige daño igual a <b>13%</b> del ATQ más <b>{5}</b>."
     },
     {
+      "id": "GA_FPlayerFanMelee_JumpAttack_name",
       "name": "Sombra Caída",
       "type": [
         "Jump",
@@ -57,6 +62,7 @@
       "description": "Mantén pulsado el ataque normal en el aire para activar Sombra Caída.\nCae en picada desde los cielos, lo que inflige daño igual a <b>160%</b> del ATQ más <b>8</b> y derriba al objetivo."
     },
     {
+      "id": "GA_FPlayerFanEvade_Evade_name",
       "name": "Evasión",
       "type": [
         "Dodge"
@@ -64,6 +70,7 @@
       "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante <b>0.5</b> seg."
     },
     {
+      "id": "GA_FPlayerFanEvade_RollAttack_name",
       "name": "Verde Hoja",
       "type": [
         "Dodge",
@@ -72,6 +79,7 @@
       "description": "Desata Verde Hoja sobre el objetivo mientras realizas una voltereta, lo que inflige daño igual a <b>70%</b> del ATQ más <b>4</b>, genera de <b>1 a 3</b> epífilos al impacto, y forma un Campo Verde que dura <b>5</b> seg. Cuando los enemigos del Campo Verde se fijan en el nómada, su velocidad de movimiento se reduce un <b>50%</b>.\nPasiva: Se puede desatar en el suelo o en el aire.\nPasiva: Rompe inmediatamente el control si estás bajo efectos de control y libera automáticamente Verde Hoja sin usar ningún intento de evasión. El enfriamiento de la habilidad dura <b>20</b> seg."
     },
     {
+      "id": "GA_FPlayerDkatanaSkill_Skill1_name",
       "name": "Flujo Emocionado: Flujo Intermitente",
       "type": [
         "Skill"
@@ -79,11 +87,12 @@
       "description": "Crea un Reino de Luz Lunar a tu alrededor por <b>15</b> seg. Tu daño infligido en el reino aumenta un <b>10%</b>, la capacidad de salto aumenta un <b>20%</b>, y el consumo de resistencia se reduce un <b>50%</b>. Enfriamiento: <b>30</b> seg.\nEntra en el estado especial Estallido Aéreo al usar Tejesombras en el reino. Tu velocidad de caída se reduce considerablemente y puedes realizar múltiples saltos dobles. En este estado, si utilizas los controles de dirección y el botón de salto mientras estás en el aire, realizarás un Recorrido y lanzarás un ataque al objetivo. Al impacto, inflige daño igual a <b>66%</b> del ATQ más <b>3</b> y genera aleatoriamente de <b>1 a 3</b> epífilos.\n\nPasiva: En el Reino de Luz Lunar, se generará <b>1</b> epífilo cerca de 1 objetivo cada <b>0.8</b> seg. \nPasiva: Cuando usas Tejesombras en el Reino de Luz Lunar, inflige <b>50%</b> de daño adicional a los enemigos con menos de <b>20%</b> de PS.\nPasiva: Cuando utilices Tejesombras en el Reino de Luz Lunar, se detectará el daño entrante y te teletransporta lejos de la ubicación del objetivo. Enfriamiento: <b>10</b> seg.\n\nPasiva: Maestre de Armas\nFuego: Cuando Tejesombras se empareja con 2 armas de fuego, el Reino de Luz Lunar se convierte en Fuego: Reino de Luz Lunar, el cual dura <b>4</b> seg adicionales al quemar objetivos. Los objetivos con escudo reciben <b>15%</b> de daño de fuego adicional. \n\nEléctrico: Cuando Tejesombras se empareja con 2 armas eléctricas, Reino de Luz Lunar se convierte en Eléctrico: Reino de Luz Lunar, con un <b>65%</b> probabilidad de no consumir un intento de evasión al evadir, y un impulso del <b>35%</b> al daño de los ataques de evasión. Cuando se activa Resonancia Eléctrica, aumenta el daño eléctrico un <b>30%</b>.\n\nEscarcha: Cuando Tejesombras se empareja con 2 armas de escarcha, Reino de Luz Lunar se convierte en Escarcha: Reino de Luz Lunar. Los objetivos del reino sufrirán Congelación por <b>15</b> seg después de recibir daño de escarcha <b>10</b> veces, y recibirán un <b>22%</b> daño adicional de los ataques de escarcha durante este periodo. El número de ataques no se acumula cuando un objetivo ya está afligido de congelación. \n\nFísico: Cuando Tejesombras se empareja con 2 armas físicas, Reino de Luz Lunar se convierte en Físico: Reino de Luz Lunar. Cuando tienes un escudo de PS, inflige daño igual a <b>50%</b> del ATQ más <b>3</b> a los objetivos al alcance cada segundo.\n\nEquilibrio: Cuando Tejesombras se empareja con dos armas elementales diferentes (entre armas de fuego, eléctricas, de escarcha y físicas), el ATQ del nómada aumenta un <b>15%</b> en el reino, y se considera que activa la resonancia de fuego, eléctrica, escarcha y física sin efectos de resonancia."
     },
     {
+      "id": "GA_FPlayerFanChangeSkill_Success_name",
       "name": "Tejido de Gravedad",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y desata Tejido de Gravedad con una fuerza de absorción mayor, lo que inflige daño igual a <b>368.5%</b> del ATQ más <b>19</b>. Luego explota y crea una oleada de difusión a distancia después de <b>5</b> seg, lo que inflige daño igual a <b>184.3%</b> más <b>10</b>. Cuando la habilidad está activa, obtienes inmunidad al daño durante <b>2.6</b> seg (no disponible en la Liga Ápex)."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y desata Tejido de Gravedad con una fuerza de absorción mayor, lo que inflige daño igual a <b>368.5%</b> del ATQ más <b>19</b>. Luego explota y crea una oleada de difusión a distancia después de <b>5</b> seg, lo que inflige daño igual a <b>184.3%</b> más <b>10</b>. Cuando la habilidad está activa, obtienes inmunidad al daño durante <b>2.6</b> seg (no disponible en la Liga Ápex)."
     }
   ],
   "weapon_type": {
@@ -109,7 +118,7 @@
     },
     {
       "name": "Encanto de Epífilo",
-      "description": "Aumenta el daño de explosión de epífilo un <b>20%</b>. Reduce todas las resistencias en <b>7%</b> al impacto con epífilos durante <b>7</b> segundos. Este efecto no se acumula."
+      "description": "Aumenta el daño de explosión de epífilo un <b>20%</b>. Reduce todas las resistencias de los objetivos un <b>7%</b> durante <b>7</b> seg al recibir el impacto de epífilos. Este efecto no se acumula."
     }
   ],
   "ascension": [

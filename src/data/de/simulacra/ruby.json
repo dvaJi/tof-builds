@@ -7,7 +7,7 @@
   "birthday": "15. Juli",
   "birthplace": "Unbekannt",
   "gender": "Weiblich",
-  "info": "Ein introvertiertes und unschuldiges Mädchen, das nicht viel von der Welt weiß. Sie hat etwas Angst vor Fremden und ist lieber allein unterwegs. Vermutlich wirkt sie deshalb immer etwas verängstigt und schüchtern, wenn sie Fremden begegnet.\nSie wird immer als „die Kleine von Lin“ bezeichnet und hat mittlerweile das Ziel verinnerlicht, durch harte Arbeit stärker zu werden, um keine Belastung mehr für Lin zu sein oder zuzulassen, dass Lins Mühe umsonst sein könnte.",
+  "info": "Ein introvertiertes und unschuldiges Mädchen, das nicht viel von der Welt weiß. Sie hat etwas Angst vor Fremden und ist lieber allein unterwegs. Vermutlich wirkt sie deshalb immer etwas verängstigt und schüchtern, wenn sie Fremden begegnet.\nSie wird immer als „die Kleine von Madame Lin“ bezeichnet und hat mittlerweile das Ziel verinnerlicht, durch harte Arbeit stärker zu werden, um keine Belastung mehr für Lin zu sein oder zuzulassen, dass Lins Mühe umsonst sein könnte.",
   "description": "Die Tochter eines alten Freundes von Lin, die aus bestimmten Gründen nun von Lin großgezogen wird. Das Mädchen wirkt nicht sehr stark, sondern wie ein krankes, schwaches Kind.\nMomentan erhält sie auf Lins Drängen hin eine Kampfausbildung, um sich verteidigen zu können. Obwohl der Stil, den Ruby entwickelt, sich sehr von Lins Stil unterscheidet, ist sie immerhin deutlich gesünder als zuvor und in der Lage, auch brenzlige Situationen zu bewältigen.\nSie hat noch immer nur eine vage Vorstellung von der Welt und ihrem Platz darin und folgt Lins Anweisungen blind, ohne sie zu hinterfragen, wodurch sie bei jeder Entscheidung von ihr abhängig ist. Lin ist der Ansicht, dass es momentan das Wichtigste ist, ihre Unabhängigkeit zu fördern.",
   "like": "Dolly, das Plüschkaninchen",
   "dislike": "Medizin nehmen",
@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Melee_name",
       "name": "Spark-Angriff",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Tippe auf dem Boden auf die normale Angriffstaste, damit Spark 5-mal hintereinander angreift.\nErster Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>84.6%</b> des ANG +<b>4</b> zu.\nZweiter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>93%</b> des ANG +<b>5</b> zu.\nDritter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>101.5%</b> des ANG +<b>5</b> zu.\nVierter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>109.9%</b> des ANG +<b>6</b> zu.\nFünfter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>253.7%</b> des ANG +<b>13</b> zu und <b>schleudert</b> sie hoch."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AirAttack_name",
       "name": "Luftsprengung",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Tippe in der Luft auf die normale Angriffstaste, damit Spark 4-mal hintereinander angreift.\nErster Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>97.1%</b> des ANG +<b>5</b> zu.\nZweiter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>106.8%</b> des ANG +<b>6</b> zu.\nDritter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von <b>121.3%</b> des ANG +<b>6</b> zu.\nVierter Angriff Fügt jedem Ziel Gesamtschaden in Höhe von <b>145.6%</b> des ANG +<b>8</b> zu."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AimAttack_name",
       "name": "Erwischt!",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Tippe und halte den normalen Angriff oder führe diese Aktion aus, nachdem „Sperrzone“ ausgelöst wurde, um kontinuierlich sengende Energiestrahlen auf Gegner in der Zielrichtung abzufeuern, die Schaden in Höhe von <b>40%</b> des ANG +<b>2</b> verursachen. Verbraucht die Ausdauer des Wanderers."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_JumpAttack_name",
       "name": "Lohensturz",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um „Lohensturz“ auszulösen.\nUmgibt den Körper mit Energie, bevor er rasant in den Boden einschlägt und Zielen in der Nähe Schaden in Höhe von <b>172.1%</b> des ANG +<b>9</b> zufügt."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Branch_name",
       "name": "Sperrzone",
       "type": [
         "Attack",
@@ -57,6 +62,7 @@
       "description": "Halte die Taste nach dem zweiten normalen Angriff während eines beliebigen Angriffs gedrückt, um dem Ziel Schaden in Höhe von <b>40%</b> des ANG +<b>2</b> zuzufügen. Das anvisierte Ziel wird für <b>3</b> Sekunden gefangen genommen und verbrannt, und ihm wird jede Sekunde Schaden in Höhe von <b>26.2%</b> des ANG +<b>1</b> zugefügt (unwirksam gegen Bosse)."
     },
     {
+      "id": "GA_FPlayeFunnelEvadeFire_FrontAttack_name",
       "name": "Los, Dolly!",
       "type": [
         "Dodge",
@@ -65,6 +71,7 @@
       "description": "Wirft nach dem Ausweichen Dolly. Dolly bleibt für <b>10</b> Sek. im Einsatz, zieht Gegner in der Nähe an, fügt ihnen Schaden in Höhe von <b>84.6%</b> des ANG +<b>4</b> zu und verspottet sie für <b>1,5</b> Sek., um ihre Angriffe auf sich zu lenken (Gegner können nicht verspottet werden, wenn du in einem Team bist)."
     },
     {
+      "id": "GA_FPlayerFunnelSkillFire_name",
       "name": "Funkelnde Karambolage",
       "type": [
         "Skill"
@@ -72,11 +79,12 @@
       "description": "Spark versprüht Funken, die 15 Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für <b>4</b> Sek. (Abklingzeit: <b>15</b> Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu <b>350%</b> des ANG +<b>37</b> zu und belegen es für <b>25</b> Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von <b>50%</b> des ANG +<b>3</b> zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen <b>110%</b> mehr Schaden zu. Wenn Funken Ziele treffen, die unter einem „Verbrennen“-Effekt vom Wanderer leiden, werden einmal verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Abklingzeit der Fähigkeit beträgt <b>30</b> Sek.\n<b>Passiv</b>: Während Funken aktiv sind, erhält der Wanderer <b>1</b> Hitzepunkt, wenn Spark-Angriff Schaden verursacht (Abklingzeit: <b>0,9</b> Sek.; bis zu <b>8</b> Hitzepunkte). Wenn die Hitzepunkte voll sind, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für <b>25</b> Sek. um <b>25%</b> erhöht."
     },
     {
+      "id": "GA_FPlayerFunnelChangeSkillFire_Success_name",
       "name": "Supernova",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Spark geht in einen aufgeladenen Zustand über und feuert kontinuierlich sengende Energiestrahlen großflächig auf den Zielort, bis er schließlich explodiert. Verursacht Schaden in Höhe von <b>750%</b> des ANG +<b>39</b>. Wenn das Ziel unter einem selbst verursachten Verbrenneneffekt leidet, wird es einmal verbrannt oder entzündet und erleidet dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache Verbrennen- oder Entzündeneffekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Schadensimmunität hält während der Fähigkeit für <b>2,6</b> Sek. an (nicht in der Apex-Liga verfügbar)."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b>. Spark geht in einen aufgeladenen Zustand über und feuert kontinuierlich sengende Energiestrahlen großflächig auf den Zielort, bis er schließlich explodiert. Verursacht Schaden in Höhe von <b>750%</b> des ANG +<b>39</b>. Wenn das Ziel unter einem selbst verursachten Verbrenneneffekt leidet, wird es einmal verbrannt oder entzündet und erleidet dabei zusätzlichen Schaden in Höhe von <b>100%</b> des verbleibenden Gesamtschadens (mehrfache Verbrennen- oder Entzündeneffekte werden zusammengerechnet). Die Abklingzeit für diesen Effekt beträgt <b>6</b> Sek. Die Schadensimmunität hält während der Fähigkeit für <b>2,6</b> Sek. an (nicht in der Apex-Liga verfügbar)."
     }
   ],
   "weapon_type": {

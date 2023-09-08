@@ -17,6 +17,7 @@
   "charge": 12.5,
   "skills": [
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_name",
       "name": "通常攻撃",
       "type": [
         "Attack"
@@ -24,6 +25,7 @@
       "description": "地上にいる時、杖を振るうと5回連続攻撃できる。ダメージは次の通り。\n1回目：攻撃力x<b>54.4%</b>+<b>3</b>\n2回目：攻撃力x<b>40.8%</b>+<b>2</b>\n3回目：攻撃力x<b>65.6%</b>+<b>3</b>\n4回目：攻撃力x<b>89.7%</b>+<b>5</b>\n5回目：攻撃力x<b>158.4%</b>+<b>8</b>"
     },
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_AirAttack_name",
       "name": "滞空打撃",
       "type": [
         "Jump",
@@ -32,6 +34,7 @@
       "description": "滞空時または1段ジャンプ使用後、通常攻撃を行うと空中で5回連続攻撃できる。ダメージは次の通り。\n1回目：攻撃力x<b>70.5%</b>+<b>4</b>\n2回目：攻撃力x<b>50.8%</b>+<b>3</b>\n3回目：攻撃力x<b>55.1%</b>+<b>3</b>\n4回目：攻撃力x<b>99.1%</b>+<b>5</b>\n5回目：攻撃力x<b>103.2%</b>+<b>5</b>"
     },
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_JumpAttack_name",
       "name": "落月撃",
       "type": [
         "Jump",
@@ -40,6 +43,7 @@
       "description": "滞空時に通常攻撃を長押しすると、落月撃を発動する。\n着地時に周囲のターゲットに対して<b>0.2</b>秒ごとに1回ダメージを与え、合計で攻撃力x<b>123.8%</b>+<b>7</b>のダメージを与える。"
     },
     {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_Branch_name",
       "name": "フォース攻撃",
       "type": [
         "Attack",
@@ -48,6 +52,7 @@
       "description": "3回目の通常攻撃の後、通常攻撃を長押しすると分岐攻撃を発動でき、<b>300</b>Ptのスタミナを消費する\n1回目の分岐では前方付近のモンスターを集め(<b>強制浮遊</b>)、<b>0.3</b>秒ごとに攻撃力x<b>34.9%</b>+<b>2</b>のダメージを与える(最大<b>4</b>回)\n2回目の分岐ではターゲットの位置およびその付近の敵に<b>0.3</b>秒ごとに1回、攻撃力x<b>40.4%</b>+<b>2</b>のダメージを与える"
     },
     {
+      "id": "GA_FPlayerStavesEvadeIce_SSR_FrontAttack_name",
       "name": "湧出",
       "type": [
         "Perfect Dodge",
@@ -56,6 +61,7 @@
       "description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、湧出を発動できる\nエナジー波動はターゲットに命中するたびに攻撃力x<b>45.9%</b>+<b>2</b>のダメージを与える\n発動するとただちに武器エナジー値を<b>75</b>Pt獲得する"
     },
     {
+      "id": "GA_FPlayerStavesEvadeIce_SSR_BackAttack_name",
       "name": "チャクラ",
       "type": [
         "Dodge",
@@ -64,6 +70,7 @@
       "description": "回避後すぐに通常攻撃を行うと、後方回避攻撃を発動できる\n探索者が前方にエナジーボールを1個放ち、通過途中の敵に対して<b>0.3</b>秒ごとに攻撃力x<b>66.4%</b>+<b>3</b>のダメージを与える(最大5回)\n発動するとただちに武器エナジー値を<b>75</b>Pt獲得する"
     },
     {
+      "id": "GA_FPlayerStavesSkillIce_SSR_name",
       "name": "庇護",
       "type": [
         "Skill"
@@ -71,6 +78,7 @@
       "description": "治療領域を発動し、周囲の味方全員を治療し続ける。探索者とともに移動し、<b>0.5</b>秒ごとに1回治療する。1回治療するごとに攻撃力x<b>95%</b>+<b>5</b>PtのHPを回復できる。持続時間<b>6</b>秒、クールダウン<b>60</b>秒"
     },
     {
+      "id": "GA_FPlayerStavesChangeSkillIce_SSR_Sucess_name",
       "name": "疾風の救援",
       "type": [
         "Discharge"

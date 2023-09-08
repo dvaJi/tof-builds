@@ -1,5 +1,5 @@
 {
-  "_id": 40021,
+  "_id": 32,
   "id": "annabella",
   "name": "Annabella",
   "suitName": "Anedota Sangrenta",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase final damage by <b>3%</b>/3.4%/3.8%/4.2% and final crit rate by <b>2%</b>/2%/2.4%/2.4% for <b>25</b> seconds when hitting a target with a flame weapon, stacking up to <b>2</b> times. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "Após atingir um alvo com uma arma ígnea, aumenta o dano final em 5%/6%/7%/8% e a taxa de crítico final em 2,5%/2,5%/3%/3% durante 25 segundos. Acumula até 2 vezes. Somente o efeito de classificação estelar mais alta é aplicado quando obtido repetidamente."
     },
     {
       "count": 4,
-      "value": "When equipping 2 or more flame weapons, gain Flowing Fire, which increases final damage by <b>7%</b>/8%/9%/10%, and increases crit damage by an additional <b>12%</b>/14%/16%/18% for <b>25</b> seconds after landing a critical hit. For every <b>3</b> charged attacks that hit the target, restore <b>1</b> dodge attempt. Cooldown: <b>2</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "Ao equipar 2 ou mais armas ígneas, recebe o efeito fogo corrente, que aumenta o dano final em 11%/13%/15%/17% e o dano crítico em mais 22%/24%/26%/28% durante 25 segundos após desferir um golpe crítico. A cada 3 ataques carregados desferidos contra o alvo, recupera 1 tentativa de esquiva. Tempo de recarga: 2 seg. Somente o efeito de classificação estelar mais alta é aplicado quando obtido repetidamente."
     }
   ],
   "mind": {

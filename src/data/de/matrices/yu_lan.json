@@ -1,5 +1,5 @@
 {
-  "_id": 40033,
+  "_id": 34,
   "id": "yu_lan",
   "name": "Yu Lan",
   "suitName": "Aufrichtigkeit",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When equipped with at least <b>1</b> frost weapon, while in the combat state, deal damage equal to <b>60%</b> of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by <b>5%</b>/6%/7%/8% for <b>30</b> seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+      "value": "Wenn mindestens 1 Frostwaffe ausgerüstet ist, wird Zielen in der Nähe im Kampfstatus jede Sekunde Schaden in Höhe von 85% des ANG zugefügt. Nach Verwendung einer beliebigen Frostwaffenfähigkeit oder Entladungsfähigkeit wird der Endschaden für 30 Sek. um 7%/8%/9%/10% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
     },
     {
       "count": 4,
-      "value": "After <b>Unity</b> consumes <b>Internal Strength</b> or <b>Fighting Spirit</b>, increase final damage by <b>5%</b> for <b>15</b> seconds. After dealing frost damage, increase all elemental damage by <b>11%</b>/14%/17%/20% for <b>30</b> seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+      "value": "Nachdem „Eintracht“ „Innere Stärke“ oder „Kampfgeist“ verbraucht hat, wird der Endschaden für 15 Sek. um 6% erhöht. Nachdem Frostschaden verursacht wurde, wird aller Elementarschaden für 30 Sek. um 12%/15%/19%/23% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
     }
   ],
   "mind": {

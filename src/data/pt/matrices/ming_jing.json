@@ -1,0 +1,34 @@
+{
+  "_id": 33,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "suitName": "Coração Perdido",
+  "hash": "SSR34",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Aumenta o limite de membros da corrente serpente para <b>5</b>. Aumenta o ATQ físico em 14%/16%/18%/20% quando houver pelo menos <b>1</b> arma física equipada. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito."
+    },
+    {
+      "count": 4,
+      "value": "Após aplicar o efeito da picada de cobra, aumenta o ATQ físico em 9% durante 30 segundos. Funciona no espaço secundário. Em estado de combate, aumenta o dano final em 14%/17%/20%/23%."
+    }
+  ],
+  "mind": {
+    "name": "Infusão de Chá",
+    "desc": "Reflexões mergulhadas em uma fragrância forte."
+  },
+  "memory": {
+    "name": "Tábula Rasa",
+    "desc": "Em meio à névoa, há algo que é preciso guardar com carinho para que não se perca de novo."
+  },
+  "belief": {
+    "name": "Reconstrução",
+    "desc": "Coletar os pedaços é o primeiro passo para se reconstruir algo."
+  },
+  "emotion": {
+    "name": "Apaixonado",
+    "desc": "Pensamentos ardentes ocultos em um semblante vazio."
+  }
+}

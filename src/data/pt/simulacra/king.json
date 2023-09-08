@@ -19,6 +19,7 @@
   "charge": 5,
   "skills": [
     {
+      "id": "GA_FPlayerSickleMelee_Melee_name",
       "name": "Ataque Normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, branda a gadanha para executar 5 ataques consecutivos.\nPrimeiro ataque: causa dano de <b>57.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>49.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>106.8%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>109.5%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuinto ataque: causa dano de <b>104.2%</b> do ATQ + <b>5</b>, <b>suspende muito</b> o alvo e suspende a si mesmo."
     },
     {
+      "id": "GA_FPlayerSickleMeleeFire_SSR_AirAttack_name",
       "name": "Gadanha Ascendente",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\nPrimeiro ataque: causa dano de <b>63.4%</b> do ATQ + <b>3</b>.\nSegundo ataque: causa dano de <b>68.8%</b> do ATQ + <b>4</b>.\nTerceiro ataque: causa dano de <b>190.5%</b> do ATQ + <b>10</b>.\nQuarto ataque: causa dano de <b>213.6%</b> do ATQ + <b>11</b>.\nQuinto ataque: causa dano de <b>173.9%</b> do ATQ + <b>9</b> e derruba o alvo. Quanto maior a altura de ativação, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
+      "id": "GA_FPlayerSickleMeleeFire_SSR_JumpAttack_name",
       "name": "Gadanha Cadente",
       "type": [
         "Jump",
@@ -42,14 +45,16 @@
       "description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Gadanha Cadente.\nEnquanto cai, causa dano de <b>12.5%</b> do ATQ + <b>1</b> a cada golpe. Ao aterrissar, causa dano de <b>71.9%</b> do ATQ + <b>4</b> e <b>derruba</b> os alvos.\nQuanto maior a altura, maior o dano causado. Chega a até <b>600%</b> do dano."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
       "name": "Duas em Uma",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Lançamento Veloz.\nCausa dano de <b>137.4%</b> do ATQ + <b>7</b> e puxa inimigos próximos."
+      "description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Lançamento Veloz.\nCausa dano de <b>137.4%</b> do ATQ + <b>7</b> e puxa inimigos próximos."
     },
     {
+      "id": "GA_FPlayerSickleSneakFire_SSR_name",
       "name": "Ataque Furtivo",
       "type": [
         "Croch",
@@ -58,14 +63,16 @@
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
       "name": "Duas em Uma",
       "type": [
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Lançamento Veloz.\nCausa dano de <b>126.9%</b> do ATQ + <b>7</b> e puxa inimigos próximos."
+      "description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Lançamento Veloz.\nCausa dano de <b>126.9%</b> do ATQ + <b>7</b> e puxa inimigos próximos."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_BackAttack_name",
       "name": "Festa dos Morcegos",
       "type": [
         "Dodge",
@@ -74,6 +81,7 @@
       "description": "Ao se esquivar, invoca um bando de morcegos que puxa o alvo para o centro. Use o botão de ataque normal logo após se esquivar para brandir a gadanha. Causa dano de <b>114.3%</b> do ATQ + <b>6</b> ao alvo."
     },
     {
+      "id": "GA_FPlayerSickleSkillFire_SSR_name",
       "name": "Fardo Mortal",
       "type": [
         "Skill"
@@ -81,11 +89,12 @@
       "description": "Brande a gadanha e causa dano de <b>499.9%</b> do ATQ + <b>26</b>. Tempo de recarga: <b>45</b> seg."
     },
     {
+      "id": "GA_FPlayerSickleChangeSkillFire_SSR_New_Sucess_name",
       "name": "Gadanha Ígnea",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e cria uma Gadanha Ígnea. Causa dano de <b>398.3%</b> do ATQ + <b>21</b> e dura por <b>10</b> segundos. Além disso, gera uma Área da Gadanha Ígnea a cada <b>2</b> segundos. As gadanhas provocam erupções vulcânicas no chão, que causam dano de <b>66%</b> do ATQ + <b>3</b> a alvos e os suspende."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e cria uma Gadanha Ígnea. Causa dano de <b>398.3%</b> do ATQ + <b>21</b> e dura por <b>10</b> segundos. Além disso, gera uma Área da Gadanha Ígnea a cada <b>2</b> segundos. As gadanhas provocam erupções vulcânicas no chão, que causam dano de <b>66%</b> do ATQ + <b>3</b> a alvos e os suspende."
     }
   ],
   "weapon_type": {

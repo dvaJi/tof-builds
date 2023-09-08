@@ -19,6 +19,7 @@
   "charge": 13,
   "skills": [
     {
+      "id": "GA_FPlayerCubeMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, manipulasi Cube untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>46.7%</b> ATK plus <b>2</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>38.2%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>118.5%</b> ATK plus <b>6</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>79.6%</b> ATK plus <b>4</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>80.9%</b> ATK plus <b>4</b> hingga 3 kali dan membuat target <b>Terpental Ke Atas</b>.\n<b>Pasif: Saat mendaratkan Serangan Biasa 6 kali, kamu mendapatkan 1 Cube. Bisa membawa hingga 5 Cube.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_AirAttack_name",
       "name": "Omnium Missile",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara, gunakan Serangan Biasa untuk mengaktifkan energi di dalam Cube dan menembakkan maks <b>5</b> peluru, menimpakan DMG dengan total sebesar <b>59.3%</b> ATK plus <b>3</b>. Mengonsumsi hingga <b>250</b> Stamina.\n<b>Pasif: Jika Wanderer mempunyai Cube, semua Cube akan dipakai untuk menembakkan Omnium Missile ke arah target untuk menimpakan DMG.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_JumpAttack_name",
       "name": "Energy Overflow",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Energy Overflow.\nSaat mendarat, menembakkan gelombang kejut yang bergerak ke depan, menimpakan DMG dengan total sebesar <b>23.4%</b> ATK + <b>1</b> kepada target di jalur serangannya."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Branch_name",
       "name": "Omnium Shock",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Pada Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Omnium Shock.\nSebuah pilar energi akan muncul dan membuat target di sekitar terpental ke atas, menimpakan DMG sebesar <b>68.4%</b> ATK plus <b>4</b>. Pilar itu aktif selama 5 detik dan menimpakan DMG sebesar <b>28.5%</b> ATK plus <b>2</b> pada target di sekitar tiap detik."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas1_name",
       "name": "Energy Sentinel",
       "type": [
         "Passive"
@@ -57,6 +62,7 @@
       "description": "Cube yang mengitari Wanderer menimpakan DMG sebesar <b>9.7%</b> ATK plus <b>1</b> pada musuh."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas2_name",
       "name": "Energy Missile",
       "type": [
         "Passive"
@@ -64,6 +70,7 @@
       "description": "Saat Wanderer menggunakan Omnium Missile dan Energy Overflow, Cube yang mengitarinya juga ikut ditembakkan, menimpakan DMG sebesar <b>48.5%</b> ATK plus <b>3</b> pada target."
     },
     {
+      "id": "GA_FPlayerCubeEvade_Evade_name",
       "name": "Soul Surge",
       "type": [
         "Dodge"
@@ -71,6 +78,7 @@
       "description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang memperlambat musuh dalam area dan menjadi kebal terhadap Hitstun selama <b>0,5</b> detik.\nJika Cube yang dimiliki Wanderer kurang dari <b>5</b>, setiap aksi menghindar yang berhasil dilakukan berpeluang <b>40%</b> untuk memulihkan 1 jatah menghindar.\nAksi menghindar yang berhasil dilakukan tidak akan memutus kombo Serangan Biasa.\n<b>Pasif: Setiap kali berhasil menghindar saat di udara, mendapatkan satu Cube.</b>"
     },
     {
+      "id": "GA_FPlayerCubeSkill_name",
       "name": "Omnium Shield",
       "type": [
         "Skill"
@@ -78,11 +86,12 @@
       "description": "Menciptakan Perisai untuk diri sendiri dan kawan di sekitar yang akan menahan DMG hingga <b>800%</b> ATK selama <b>10</b> detik, dan menimpakan DMG sebesar <b>124.9%</b> ATK plus <b>8</b> serta membuat target di sekitar <b>Terpental Ke Atas</b>. Saat skill ini digunakan, setiap Cube yang dimiliki akan meningkatkan Perisai maks sebesar <b>160%</b> ATK dan melenyapkan Cube tersebut. CD: <b>60</b> detik."
     },
     {
+      "id": "GA_FPlayerCubeChangeSkill_Success_name",
       "name": "Omnium Wave",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua debuff dari penggunanya</b>, dan pengguna akan mendapatkan <b>5</b> Cube, kemudian menembakkan <b>5</b> Cube tersebut sambil mengeluarkan gelombang Shockwave. Shockwave akan menimpakan DMG sebesar <b>171%</b> ATK plus <b>9</b> kepada target di sekitar dan mengakibatkan mereka <b>Terpental Keras</b> ke udara. Setiap Cube juga akan menimpakan DMG sebesar <b>48.5%</b> ATK plus <b>3</b>. Jika ada teman di sekitar, kalian akan kebal terhadap DMG selama <b>3</b> detik."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua debuff dari Wanderer</b>, dan pengguna akan mendapatkan <b>5</b> Cube, kemudian menembakkan <b>5</b> Cube tersebut sambil mengeluarkan gelombang Shockwave. Shockwave akan menimpakan DMG sebesar <b>171%</b> ATK plus <b>9</b> kepada target di sekitar dan mengakibatkan mereka <b>Terpental Keras</b> ke udara. Setiap Cube juga akan menimpakan DMG sebesar <b>48.5%</b> ATK plus <b>3</b>. Jika ada teman di sekitar, kalian akan kebal terhadap DMG selama <b>3</b> detik."
     }
   ],
   "weapon_type": {

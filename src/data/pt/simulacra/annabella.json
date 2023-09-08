@@ -1,0 +1,313 @@
+{
+  "_id": 1026,
+  "id": "annabella",
+  "name": "Annabella",
+  "weapon": "Cruz de Trevos",
+  "weapon_id": "clover_cross",
+  "birthday": "28 de abril",
+  "birthplace": "Desconhecido",
+  "gender": "Feminino",
+  "info": "Uma empregada típica que é calma, serena, elegante e capaz de resolver todo tipo de emergência... ou, pelo menos, era para ser assim.\nEla costuma depender de ordens diretas de seu \"Mestre\" para todas as coisas que vai fazer e relata todas as etapas.\nSua incapacidade de tomar decisões é sua fraqueza, o que causa uma espécie de \"lapso\" em operações reais.\nAlém disso, apesar de ser sempre polida e cortês, é muito curioso que, às vezes, ela use um linguajar bastante rude com o tom de voz humilde de sempre...",
+  "description": "Uma das sete grandes lendas urbanas do fórum anônimo de Reflexia: a empregada vampira carmesim que espreita a Cidade Baixa...\nA verdade é que a garota enigmática tem vários empregos, inclusive de guarda-costas, só para ganhar seu sustento... Por não ser nada fora do comum, descobriu-se que a lenda urbana não passa de uma fofoca exagerada.\nEla mesma insiste que é só uma empregada que faz seu trabalho e segue as ordens do \"Mestre\" do outro lado do comunicador. A identidade desse \"Mestre\", no entanto, ainda é um mistério.\nApesar disso, ela se sente de certa forma, sim, uma vampira... Mas talvez seja só uma pessoa comum que é boa em jogos de tiro e fala um pouco esquisito...\n",
+  "like": "Seu \"Mestre\", seguir ordens ao pé da letra",
+  "dislike": "Tempero demais, assuntos relacionados a criaturas fantásticas",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 9,
+  "skills": [
+    {
+      "id": "GA_FPlayerSnipeMelee_Melee_name",
+      "name": "Ataque Normal",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, ataque 3 vezes seguidas com o fuzil de precisão.\nPrimeiro ataque: causa dano de <b>44.2%</b> do ATQ + <b>2</b> e repele o alvo.\nSegundo ataque: causa dano de <b>84.4%</b> do ATQ + <b>4</b> e repele o alvo.\nTerceiro ataque: causa dano de <b>176.9%</b> do ATQ + <b>9</b> e lança o alvo no ar."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_PowerAttack_name",
+      "name": "Mira Cruzada",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Segure o botão de ataque normal para carregar o ataque, causando dano mínimo de <b>26.1%</b> do ATQ + <b>1</b>. Após carregar, causa dano de até <b>180.4%</b> do ATQ + <b>9</b>. Causa o dobro de dano ao acertar a cabeça ou um ponto fraco do inimigo e lança-o no ar (tiros na cabeça não têm efeito contra Errantes).\n<b>Passiva:</b> Recupera <b>300</b> cargas de arma sempre que Mira Cruzada atinge um alvo com queimadura ou causa dano crítico. Tempo de recarga: <b>15</b> seg.\n<b>Passiva:</b> A velocidade aumenta em <b>30%</b> durante <b>3</b> segundos após usar Mira Cruzada."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_Branch_name",
+      "name": "Barulho de Fervura",
+      "type": [
+        "Attack"
+      ],
+      "description": "Após qualquer ataque normal, segure o botão de ataque normal para disparar um projétil de laser que explode ao atingir o alvo. Causa dano de até <b>150%</b> do ATQ + <b>8</b> ao alvo ao alcance e o suspende."
+    },
+    {
+      "id": "GA_FPlayerSnipeMelee_AirAttack_name",
+      "name": "Detonação Aérea",
+      "type": [
+        "Attack"
+      ],
+      "description": "No ar, use o botão de ataque normal para atacar 3 vezes seguidas.\nPrimeiro ataque: causa dano de <b>47.6%</b> do ATQ + <b>3</b> e repele o alvo.\nSegundo ataque: causa dano de <b>90.9%</b> do ATQ + <b>5</b> e repele o alvo.\nTerceiro ataque: causa dano de <b>190.5%</b> do ATQ + <b>10</b> e lança o alvo no ar."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_EvadeAttack_name",
+      "name": "Arco do Crepúsculo",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Salta para trás e arremessa 1 granada para a frente, que explode ao atingir o solo e causa dano de até <b>37%</b> do ATQ + <b>2</b> aos alvos e os suspende.\n<b>Passiva:</b> Use o botão de ataque normal após usar Arco do Crepúsculo para disparar uma Mira Cruzada com carga completa instantaneamente."
+    },
+    {
+      "id": "GA_FPlayerSnipeEvade_Evade_name",
+      "name": "Esquiva",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante <b>0,5</b> segundo."
+    },
+    {
+      "id": "GA_FPlayerSnipeSkill_Skill_des",
+      "name": "Carregador Âmbar",
+      "type": [
+        "Skill"
+      ],
+      "description": "Troca o módulo para alterar os efeitos da Mira Cruzada e do Arco do Crepúsculo. Mira Cruzada pode ser usada até <b>8</b> vezes. Tempo de recarga da habilidade: <b>14</b> seg.\n<b>Bomba Brutal</b>: O efeito da Mira Cruzada se torna uma explosão de fogo que causa dano em área mínimo de <b>27.3%</b> do ATQ + <b>1</b>. Após carregar, causa dano de até <b>188.6%</b> do ATQ + <b>10</b>. Ao atingir alvos que não estejam com queimadura, inflige a eles queimadura cruzada, que causa dano de <b>120%</b> do ATQ por segundo durante <b>13</b> segundos. Ao atingir alvos que estejam com queimadura, inflige a eles queimadura cruzada e entra em aprimoramento de queimadura durante <b>20</b> segundos, que aumenta em <b>20%</b> o dano de queimadura nos alvos. Ao usar o Arco do Crepúsculo, você passa a arremessar <b>3</b> granadas.\n<b>Bomba Traiçoeira</b>: O efeito da Mira Cruzada se torna um ataque de gás de longa distância que causa dano mínimo de <b>42.6%</b> do ATQ + <b>2</b> ao atingir. Após carregar, causa dano de até <b>294.1%</b> do ATQ + <b>15</b>. Alvos na área do gás vão sofrer lentidão. O efeito de lentidão fica mais forte com o passar do tempo, e o gás dura <b>7</b> segundos. Arco do Crepúsculo pode detonar o gás (quanto mais carga, maior o dano da explosão de gás), causando dano explosivo de até <b>316.2%</b> do ATQ + <b>17</b> (isso é considerado como acionar Mira Cruzada 1 vez) e reduzindo a resistência ígnea do alvo em <b>10%</b> durante <b>10</b> segundos.\n\n<b>Passiva</b>: Após confirmar o módulo, você vai receber um número de usos de aprimoramento ótico correspondente ao número de tentativas de esquiva. Aprimoramento ótico: Reduz o tempo de carregamento da Mira Cruzada em <b>30%</b> e confere imunidade a efeitos de controle enquanto carrega. Recupera <b>1</b> tentativa de esquiva (limitado a <b>4</b> tentativas de esquiva) a cada <b>2</b> esquivas.\n<b>Passiva</b>: Enquanto o módulo de Bomba Traiçoeira estiver em vigor, há chance de a Mira Cruzada reduzir o tempo de recarga de outras habilidades de arma ígnea em <b>0,7</b> segundo após atingir um alvo."
+    },
+    {
+      "id": "GA_FPlayerSnipeChangeSkill_Success_name",
+      "name": "Comando de Bombardeio",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e arremessa uma bomba incendiária. Atire na bomba incendiária para detoná-la, causando dano de até <b>765.4%</b> do ATQ + <b>40</b> e <b>suspendendo muito</b> os alvos na área. A imunidade a dano dura <b>2,6</b> segundo quando a habilidade estiver ativa (indisponível na Liga do Apogeu)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fogo",
+    "description": "Com carga completa, o ataque seguinte da arma incendeia o alvo, o que causa dano de <b>{3}%</b> do ATQ por segundo durante <b>8</b> segundos. A eficácia da cura em alvos incendiados diminui em <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Reação ígnea",
+    "description": "<b>Reação ígnea</b>: Aumenta o ATQ ígneo em <b>20%</b> e a resistência ígnea em <b>40%</b>. Ativa-se ao equipar <b>2</b> ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea ou reação ígnea, e a ressonância ígnea tem prioridade."
+  },
+  "advancement": [
+    "Atingir um alvo <b>2</b> vezes com Mira Cruzada cria um <b>espaço ótico</b> durante <b>12</b> segundos na localização dele. Após um inimigo no espaço ótico acionar a contagem de queimadura, ela será acionada mais <b>2</b> vezes. Quando um inimigo sair do espaço ótico, a velocidade dele será reduzida em <b>80%</b> durante <b>2,5</b> segundos. Tempo de recarga: <b>12</b> seg.\nAlvos da Mira Cruzada ficarão amedrontados (reduz a velocidade em <b>80%</b>) durante <b>1,5</b> segundo. Tempo de recarga: <b>4</b> seg.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Após causar dano crítico com a Mira Cruzada, recupera vida equivalente a <b>50%</b> do dano causado (limitado a <b>15%</b> da própria vida máxima) e <b>50</b> cargas de arma.\nCada acúmulo de coração sereno aumenta a taxa de crítico final para <b>9%</b>, limitado a <b>27%</b>, e converte até <b>13,5%</b> de dano crítico.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Aprimoramento de <b>Bomba Brutal</b>: No estado de aprimoramento de queimadura, o dano de queimadura causado aos alvos aumenta em <b>30%</b>.\nAprimoramento de <b>Bomba Traiçoeira</b>: O dano da explosão de gás ignora <b>30%</b> da resistência ígnea do alvo.",
+    "Aumenta o dano causado por Mira Cruzada em mais <b>20%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Para cada <b>1</b> inimigo atingido por explosão de gás, o dano da Cruz de Trevos aumenta em <b>{0}%</b> durante <b>{1}</b> segundos. Acumula até <b>2</b> vezes.",
+      "values": [
+        8,
+        20
+      ]
+    },
+    {
+      "name": "",
+      "description": "Para cada <b>1</b> inimigo atingido por explosão de gás, o dano da Cruz de Trevos aumenta em <b>{0}%</b> durante <b>{1}</b> segundos. Acumula até <b>2</b> vezes.",
+      "values": [
+        15,
+        20
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Corpo reforçado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

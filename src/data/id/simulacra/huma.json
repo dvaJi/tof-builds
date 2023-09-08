@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerShieldMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, mengayunkan kapak perisai untuk menyerang 4 kali berturut-turut.\nSerangan Pertama Mode Perisai: Menimpakan DMG sebesar <b>77.7%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>56.9%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>62.8%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>184%</b> ATK plus <b>10</b> dan membuat target <b>Terpental Ke Atas</b>.\nSerangan Pertama Mode Kapak: Menimpakan DMG sebesar <b>135.2%</b> ATK plus <b>7</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>79.4%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>119.9%</b> ATK plus <b>6</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>221.3%</b> ATK plus <b>12</b> dan membuat target terpental ke belakang."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Aerial Strike",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>75.9%</b> ATK plus <b>4</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>80.2%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>103%</b> ATK plus <b>5</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>118.6%</b> ATK plus <b>6</b> dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
+      "id": "GA_FPlayerShieldMelee_PowerAttack_name",
       "name": "Anticipation",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Mode Perisai: Saat di darat, tekan dan tahan Serangan Biasa untuk mengangkat perisai (lepaskan untuk mengakhirinya) selama <b>3</b> detik. Dalam durasi tersebut, Wanderer tidak bisa bergerak dan semua DMG yang diterima berkurang <b>50%</b>. Saat mengangkat perisai, melepaskan tombol Serangan Biasa setelah menerima DMG atau setelah menahan tombol selama <b>3</b> detik akan membuatmu melancarkan Fire Crash, menimpakan DMG sebesar <b>167.3%</b> ATK plus <b>9</b> dan membuat target <b>Stun</b> selama <b>1</b> detik.\nMode Kapak: Menghantam target, menimpakan DMG sebesar <b>122.2%</b> ATK plus <b>6</b> dan membuat target terpental ke atas."
     },
     {
+      "id": "GA_FPlayerShieldMelee_JumpAttack_name",
       "name": "Valor",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Saat di udara, tekan dan tahan Serangan Biasa (tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan melakukan Serangan Branch di udara.\nMode Perisai: Melakukan serangan menukik ke bawah, menimpakan DMG sebesar <b>12.5%</b> ATK plus <b>1</b> di tiap hantaman. Saat mendarat, menimpakan DMG sebesar <b>89.2%</b> ATK plus <b>5</b> dan membuat target terpental ke atas.\nMode Kapak: Melakukan serangan menukik ke bawah, menimpakan DMG sebesar <b>12.5%</b> ATK plus <b>1</b> di tiap hantaman. Saat mendarat, menimpakan DMG sebesar <b>128.3%</b> ATK plus <b>7</b> dan membuat target terpental ke atas.\nMakin tinggi posisi pemain saat melakukan serangan, makin besar DMG yang ditimpakan, maks <b>600%</b> DMG."
     },
     {
+      "id": "GA_FPlayerShieldEvade_EvadeAttack_name",
       "name": "Erupt",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Gunakan Serangan Biasa selama rentang waktu singkat setelah Menghindar untuk melakukan Serangan Menghindar.\nMode Perisai: Menembakkan api dari perisai, menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan membuat target terpental ke belakang. Selain itu, memicu ledakan yang menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan membuat target <b>Stun</b> selama <b>0,5</b> detik. Penyembuhan yang diterima target berkurang <b>30%</b> selama <b>10</b> detik berikutnya.\nMode Kapak: Mengayunkan kapak, menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan mengurangi penyembuhan yang diterima target sebesar <b>30%</b> selama <b>10</b> detik berikutnya."
     },
     {
+      "id": "GA_FPlayerShieldSkill_name",
       "name": "Fission",
       "type": [
         "Skill"
@@ -64,11 +70,12 @@
       "description": "Konversi Perisai: Beralih dari Mode Perisai ke Mode Kapak, lalu menghantamkannya ke tanah, menimpakan DMG sebesar <b>373.8%</b> ATK plus <b>20</b> dan membuat target <b>Terpental Ke Atas</b>. Membuat zona api besar selama <b>5</b> detik yang akan membakar target dan menimpakan DMG terus-menerus sebesar <b>233.6%</b> ATK plus <b>12</b>.\nKonversi Kapak: Beralih dari Mode Kapak ke Mode Perisai, lalu menghantamkannya ke tanah, menimpakan DMG sebesar <b>309.5%</b> ATK + <b>16</b> kepada target dan membuat mereka terpental ke belakang. Membuat target tak bisa berganti senjata selama <b>5</b> detik.\nCD: <b>25</b> detik. Konversi Perisai dan Konversi Kapak berbagi waktu CD yang sama."
     },
     {
+      "id": "GA_FPlayerShieldChangeSkill_Success_name",
       "name": "Seething Rage",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melancarkan gelombang api, menimpakan DMG sebesar <b>352%</b> ATK plus <b>19</b>. Melakukan Taunt yang akan menarik perhatian musuh selama <b>5</b> detik, di mana DMG yang kamu terima berkurang <b>15%</b> selama durasi tersebut. Menyebarkan objek berbentuk perisai sesuai dengan jumlah target yang terkena Taunt. Objek ini aktif selama <b>20</b> detik, dan selama <b>10</b> detik akan mengurangi DMG yang kamu terima sebesar <b>5%</b> (bisa bertumpuk), serta memulihkan 1 jatah menghindar."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan melancarkan gelombang api, menimpakan DMG sebesar <b>352%</b> ATK plus <b>19</b>. Melakukan Taunt yang akan menarik perhatian musuh selama <b>5</b> detik, di mana DMG yang kamu terima berkurang <b>15%</b> selama durasi tersebut. Menyebarkan objek berbentuk perisai sesuai dengan jumlah target yang terkena Taunt. Objek ini aktif selama <b>20</b> detik, dan selama <b>10</b> detik akan mengurangi DMG yang kamu terima sebesar <b>5%</b> (bisa bertumpuk), serta memulihkan 1 jatah menghindar."
     }
   ],
   "weapon_type": {
@@ -81,7 +88,7 @@
     "Selama dalam wujud perisai, Branch/Serangan Dodge akan menimpakan DMG tambahan kepada target sebesar <b>4%</b> dari HP saat ini pengguna.",
     "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar <b>32%</b>.",
     "Setelah beralih ke Shield Axe, langsung memberikan <b>30%</b> Damage Reduction yang akan berkurang <b>10%</b> setiap <b>3</b> detik, hingga minimal <b>10%</b>. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: <b>30</b> detik.",
-    "Meningkatkan Conversion Skill.\nShield Conversion Enhancement: Meningkatkan DMG yang ditimbulkan sebesar <b>60%</b> dan memperluas radius zona Flame sebesar <b>30%</b>.\nAxe Conversion Enhancement: Cooldown tidak sama dengan Shield Conversion. Selama <b>5</b> detik berikutnya setelah menggunakan skill ini, semua DMG yang diterima akan diubah menjadi HP (hingga maks <b>15%</b> dari Max HP pengguna)."
+    "Memperkuat skill perubahan wujud senjata.\nPenguatan Konversi Perisai: DMG Skill yang ditimpakan meningkat <b>60%</b> dan radius zona api bertambah luas <b>30%</b>.\nPenguatan Konversi Kapak: CD menjadi terpisah dengan CD konversi perisai. Selama <b>5</b> detik berikutnya setelah menggunakan skill ini, semua DMG yang diterima akan diubah menjadi HP (maks <b>15%</b> dari Max HP pengguna)."
   ],
   "traits": [
     {

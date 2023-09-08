@@ -1,0 +1,378 @@
+{
+  "_id": 1038,
+  "id": "yu_lan",
+  "name": "Yu Lan",
+  "weapon": "Unidad",
+  "weapon_id": "unity",
+  "birthday": "9 de febrero",
+  "birthplace": "Guardia del Reloj Solar",
+  "gender": "Femenino",
+  "info": "",
+  "description": "Estrella de las artes marciales del Dominio 9. Todos los rivales que han combatido con ella la admiraban y, en consecuencia, la maestre Yu la asignó como Guardia del Reloj Solar en la Plaza del Reloj Solar de Fuegovilla. Su dedicación a las artes marciales supera con creces la de la gente corriente, puedes confiar que ganará en el campo de batalla. Cree que, a siete pasos, el puño es el más rápido.\n\nAunque parece amable, es bastante seria. Sus rivales en el Torneo de Artes Marciales lo comprenden profundamente por experiencia. Al principio del Torneo de Artes Marciales, ni siquiera entendía la etiqueta y las reglas de la competencia. Sus movimientos eran extremadamente feroces y poderosos, y venció a toda la gente con rapidez y eficiencia. No fue hasta más tarde cuando Yu Lan se dio cuenta de lo grosera que había sido su conducta anterior, y fue expresamente a buscar a sus rivales para disculparse. Todos esos rivales que decían ser de un \"determinado clan\" solo querían montar un espectáculo antes de la competencia y decir algunas palabras para aumentar su popularidad esperando que sus rivales dieran la cara y mostraran piedad. Por desgracia, Yu Lan no reconoció sus verdaderas intenciones. En lugar de eso, se tomó en serio a cada uno de ellos, los arrasó a todos contra el suelo, uno más rápido que el otro. Naturalmente, los del círculo detestan este tipo de prácticas. Sin embargo, debido al error de Yu Lan, el Torneo de Artes Marciales, que rara vez atraía a nadie, acabó atrayendo la atención de más gente. Toda la gente se benefició, y podrías decir que, al final, es lo mejor que pudo pasar.\n\nEs honesta y entusiasta, e incluso está dispuesta a impartir todo lo que sabe a sus rivales que vienen a pedirle consejos. Sin embargo, en realidad, su comprensión de las artes marciales no es muy buena. Para ser precisos, no se le da bien enseñar a los demás la esencia de las artes marciales. A menudo, la gente siente curiosidad por el linaje de artes marciales de Yu Lan. Ella misma no lo rehúye, porque el estilo de artes marciales que practica es el común del boxeo de fitness en el Dominio 9 que mucha gente practica solo para mantenerse en forma. Pero la gente no le cree, porque toda la gente lo practica como ejercicio de rutina, pero ella realiza los mismos movimientos con un poder asombroso, por lo que en general se cree que Yu Lan ha adquirido algún talento secreto para llegar a ser tan poderosa. Esto lleva a menudo a la gente a preguntarle sobre artes marciales, pero como no se le da bien explicar lo esencial de esas técnicas, le termina dando ansiedad.\n\nYu Lan entra rápidamente en un estado de abnegación cuando practica artes marciales y para combatir, lo que le permite centrarse en su práctica sin distracciones. El efecto es extraordinario. La maestre Yu cree que Yu Lan tiene lo que los filósofos de la antigüedad llamaban un \"corazón puro\", y que, por lo tanto, puede obtener el doble de resultados con la mitad del esfuerzo. Practicar artes marciales es el camino más adecuado para ella. Por el contrario, en la vida diaria, como es demasiado sincera, a veces no tiene en cuenta los pensamientos de los demás, por lo que da la impresión de ser imprudente. Sin embargo, todo esto se está corrigiendo gradualmente bajo la dirección de la maestre Yu. Como cada sugerencia de la maestre Yu tiene un efecto inmediato en Yu Lan, ella también está dispuesta a escuchar su orientación.",
+  "like": "Practicar artes marciales, comer y competir en torneos",
+  "dislike": "Planear y reflexionar, explicar teoría de las artes marciales.",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 13,
+  "charge": 11,
+  "skills": [
+    {
+      "id": "GA_FPlayerYulanMelee_Melee_name",
+      "name": "Puño Demoledor",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, usa el ataque normal para lanzar 6 ataques consecutivos.\nPrimer ataque: Inflige daño igual a <b>64.8%</b> del ATQ más <b>3</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño igual a <b>50.4%</b> del ATQ más <b>3</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño igual a <b>52.8%</b> del ATQ más <b>3</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño igual a <b>143.9%</b> del ATQ más <b>8</b> y hace retroceder al objetivo.\nQuinto ataque: Inflige daño igual a <b>279.2%</b> del ATQ más <b>15</b> y hace retroceder al objetivo continuamente.\nSexto ataque: Inflige un daño igual a <b>227.4%</b> del ATQ más <b>12</b> y lanza al objetivo.\n\nPuñetazo Pulverizador se puede usar en la forma de <b>Artista Marcial</b> o de <b>Fuerza Arrolladora</b>.\nDespués de usar cualquier ataque de evasión mientras estás en forma de <b>Artista Marcial</b>, usa el ataque normal para activar rápidamente el cuarto ataque.\nTras impactar con el quinto ataque mientras estás en forma de <b>Artista Marcial</b>, <b>congelas con fuerza</b> al objetivo por <b>2</b> seg (no disponible en la Liga Ápex y contra jefes); y además, causa <b>Malaescarcha</b>, lo que inflige daño igual a <b>280%</b> del ATQ más <b>15</b> cada segundo por <b>8</b> seg. Este efecto solo se puede activar sobre el mismo objetivo 1 vez cada <b>8</b> seg."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_AirAttack_name",
+      "name": "Puño Flotante",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.\nPrimer ataque: Inflige daño igual a <b>68.4%</b> del ATQ más <b>4</b>.\nSegundo ataque: Inflige daño igual a <b>59.9%</b> del ATQ más <b>3</b>.\nTercer ataque: Inflige daño igual a <b>62.7%</b> del ATQ más <b>3</b>.\nCuarto ataque: Inflige daño igual a <b>136.4%</b> del ATQ más <b>7</b>.\nQuinto ataque: Inflige daño igual a <b>249%</b> del ATQ más <b>13</b>.\nSexto ataque: Inflige daño igual a <b>222.3%</b> del ATQ más <b>12</b>.\n\nPuedes usar Puño Flotante en forma de <b>Artista Marcial</b> o de <b>Fuerza Arrolladora</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch1_name",
+      "name": "Golondrina Perforante",
+      "type": [
+        "Attack"
+      ],
+      "description": "Golondrina Perforante solo se puede usar en forma de <b>Artista Marcial</b>.\nMientras estás en el suelo, pulsa y mantén pulsado el ataque normal al usar del primer al tercer ataques normales para activar Golondrina Perforante.\nInflige daño igual a <b>62.8%</b> del ATQ más <b>3</b> y atrae a los objetivos cercanos. Entonces, inflige daño igual a <b>146.8%</b> del ATQ más <b>{3}</b> y repele a los objetivos.\n\nDespués de usar <b>Cometa Aérea</b>, usar el ataque normal también puede activar Golondrina Perforante."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch2_name",
+      "name": "Serpiente Danzante",
+      "type": [
+        "Attack"
+      ],
+      "description": "Serpiente Danzante solo se puede usar en forma de <b>Artista Marcial</b>.\nEn el suelo, pulsa y mantén pulsado el ataque normal cuando uses los ataques normales del cuarto al quinto para activar Serpiente Danzante.\nInflige daño igual a <b>153.9%</b> del ATQ más <b>8</b> a los objetivos cercanos y los suspende.\n\nDespués de usar <b>Golondrina Perforante</b>, pulsa y mantén pulsado el ataque normal para activar Serpiente Danzante."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_ArAttackBranch_name",
+      "name": "Escarcha Ascendente",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire, pulsa y mantén pulsado el ataque normal cuando uses del primero al sexto ataques normales para activar Escarcha Ascendente.\nLanza tu arma en el aire, lo que inflige daño igual a <b>329%</b> del ATQ más <b>17</b> a los objetivos cercanos.\n\nEscarcha Ascendente se puede usar en forma de <b>Artista Marcial</b> o de <b>Fuerza Arrolladora</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_JumpAttack_name",
+      "name": "Cometa Aérea",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar Cometa Aérea.\nCaes desde lo alto, lo que inflige daño igual a <b>148.6%</b> del ATQ más <b>8</b> a los objetivos cercanos al llegar al suelo y los derribas.\n\nCometa Aérea se puede usar en forma de <b>Artista Marcial</b> o de <b>Fuerza Arrolladora</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch3_name",
+      "name": "Regreso Total",
+      "type": [
+        "Attack"
+      ],
+      "description": "Cuando estés en el suelo, pulsa y mantén pulsado el ataque normal para activar Regreso Total.\nAtrae continuamente a los objetivos cercanos mientras consume tu resistencia, durante lo cual el nómada obtiene hipercuerpo.\n\nRegreso Total se puede usar en forma de <b>Artista Marcial</b> o de <b>Fuerza Arrolladora</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_Evade_name",
+      "name": "Evasión",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.\n\nSe puede usar en forma de <b>Artista Marcial</b> o <b>Fuerza Arrolladora</b>.\nDespués de evadir mientras estás en la forma <b>Artista Marcial</b>, obtienes hipercuerpo durante <b>5</b> seg."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackBack_name",
+      "name": "Hazaña Imposible",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Hazaña Imposible, lo que inflige daño igual a <b>177.6%</b> del ATQ más <b>9</b> a los objetivos cercanos.\n\nHazaña Imposible se puede usar en las formas de <b>Artista Marcial</b> o <b>Fuerza Arrolladora</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackFront_name",
+      "name": "Nubes Arrasadoras",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Nubes Arrasadoras, lo que inflige daño igual a <b>167.6%</b> del ATQ más <b>9</b> a los objetivos cercanos.\n\nNubes Arrasadoras se puede usar en las formas de <b>Artista Marcial</b> o <b>Fuerza Arrolladora</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_PassiveSkill_name",
+      "name": "Ataque y Defensa",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Unidad</b> tiene 2 formas: <b>Artista Marcial</b> y <b>Fuerza Arrolladora</b>. Activa <b>1</b> de ellas a través de la página Habilidades - Opciones. No se pueden cambiar mientras estás en estado de combate.\n\nForma de<b>Artista Marcial</b>: Mientras estás en estado de combate, aumenta el multiplicador del ataque de evasión/ataque normal de <b>Unidad</b> un <b>40%</b> adicional. Después de usar el ataque de evasión o el ataque normal de cualquier arma <b>3</b> veces, recibes <b>1</b> de <b>Fuerza Interna</b> (hasta <b>10</b>). Solo puedes obtener <b>1</b> de <b>Fuerza Interna</b> cada <b>2</b> seg. Mientras no estés en estado de combate, perderás toda la <b>Fuerza Interna</b>.\nForma de <b>Fuerza Arrolladora</b>: Después de impactar con <b>Observa y Reacciona</b>, entras en estado de <b>Anticipación</b> y recibes <b>1</b> de <b>Espíritu de Pelea</b> cada <b>0.8</b> seg (hasta <b>15</b>) durante <b>60</b> seg. Mientras no estés en estado de combate, perderás todo el <b>Espíritu de Pelea</b>.\n<b>Pasiva</b>: Escalofrío</>\nAl tener <b>Unidad</b> equipada, ignoras <b>30%</b> de la resistencia a la escarcha de los objetivos. Este efecto también funciona en la ranura secundaria."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_name",
+      "name": "Impacto Certero",
+      "type": [
+        "Skill"
+      ],
+      "description": "Inflige daño igual a <b>982.8%</b> del ATQ más <b>52</b> al objetivo. Enfriamiento: <b>15</b> seg. Al usar Impacto Certero, <b>Unidad</b> consumirá hasta <b>5</b> de <b>Fuerza Interna</b>. Al consumir <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> de <b>Fuerza Interna</b>, Impacto Certero infligirá <b>1.2</b>/<b>1.5</b>/<b>2.1</b>/<b>2.8</b>/<b>3.7</b> veces su daño original respectivamente.\nDespués de usar Impacto Certero, aumenta el daño de escarcha un <b>20%</b> por <b>30</b> seg.\nDespués de usar Impacto Certero, recuperas <b>2</b> intentos de evasión.\n\nImpacto Certero solo se puede usar en forma de <b>Artista Marcial</b>.\nCuando <b>Fuerza Interna</b> llega a <b>5</b>, el enfriamiento de Impacto Certero se reinicia."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_Skill2_name",
+      "name": "Choque de Armas",
+      "type": [
+        "Skill"
+      ],
+      "description": "Inflige daño igual a <b>982.8%</b> del ATQ más <b>52</b> al objetivo. Enfriamiento: <b>15</b> seg. En el estado de <b>Anticipación</b>, al usar cualquier habilidad de arma, <b>Unidad</b> consumirá hasta <b>5</b> de <b>Espíritu de Pelea</b>. Cuando consume <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> de <b>Espíritu de Pelea</b>, inflige daño de área adicional igual a <b>242%</b>/<b>503%</b>/<b>1049%</b>/<b>2351%</b>/<b>3930%</b> del ATQ, e inflige daño igual a <b>260%</b> del ATQ más <b>14</b> cada segundo durante <b>5</b> seg.\nTras usar cualquier habilidad de arma de escarcha, obtienes <b>2</b> seg de hipercuerpo.\n\nChoque de Armas solo se puede usar en la forma de <b>Fuerza Arrolladora</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_name",
+      "name": "Tigre Pisanieves",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma está completa</span> o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b>, inflige daño igual a <b>1173.1%</b> del ATQ más <b>62</b> a todos los objetivos cercanos y los <b>lanza fuerte</b>. Durante este periodo, obtienes inmunidad al daño durante <b>2.6</b> seg (no disponible en la Liga Ápex).\n\nSolo puedes usar Tigre Pisanieves mientras estás en forma de <b>Artista Marcial</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_ChangeSkill1_name",
+      "name": "Observa y Reacciona",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la <span class=\"text-red\">carga de arma está completa</span> o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b>, inflige daño igual a <b>1173.1%</b> del ATQ más <b>62</b> a todos los objetivos cercanos y los <b>lanza fuerte</b>. Durante este periodo, obtienes inmunidad al daño por <b>2.6</b> seg (no disponible en la Liga Ápex).\nDespués de que Observa y Reacciona logra un impacto, aumenta el daño de escarcha un <b>20%</b> por <b>30</b> seg.\nDespués de que Observa y Reacciona logra un impacto, entras en estado de <b>Anticipación</b> por <b>60</b> seg.\nDespués de usar <b>Unidad</b> para usar una habilidad de descarga, recibes <b>1000</b> de carga de arma. Este efecto solo se puede activar 1 vez cada <b>10</b> seg.\n\nObserva y Reacciona solo se puede usar mientras estás en la forma de <b>Fuerza Arrolladora</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Caparazón de hielo",
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque <b>congelará con fuerza</b> a los objetivos por <b>2</b> seg y los dejará afligidos de congelación por <b>6</b> seg. Romper el caparazón de hielo inflige daño igual a <b>144%</b> del ATQ. Mientras está afligido de congelación, reduce la tasa de carga de arma del objetivo un <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Resonancia de Escarcha",
+    "description": "<b>Resonancia de Escarcha</b>: Aumenta el ATQ de escarcha un <b>20%</b> y la resistencia a la escarcha un <b>40%</b>. Se activa equipando <b>2</b> o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Escarcha o Reacción de Escarcha, teniendo preferencia la Resonancia de Escarcha."
+  },
+  "advancement": [
+    "Mientras estás en la forma de <b>Artista Marcial</b>, después de consumir <b>3</b> o más de <b>Fuerza Interna</b>, <b>Unidad</b> restaura <b>3</b> de <b>Fuerza Interna</b>. Después, aumenta el daño final del nómada un <b>5%</b>, y aumenta el daño de ataque de evasión/ataque normal de <b>Unidad</b> un <b>50%</b> por <b>30</b> seg.\nAl estar en forma de <b>Fuerza Arrolladora</b>, tras consumir <b>3</b> o más de <b>Espíritu de Pelea</b>, <b>Unidad</b> restaura <b>3</b> de <b>Espíritu de Pelea</b>. También aumenta el daño final del nómada un <b>5%</b> por <b>15</b> seg.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
+    "En la forma de <b>Artista Marcial</b>, si no se obtiene <b>Fuerza Interna</b> en <b>4</b> seg, la siguiente adquisición de <b>Fuerza Interna</b> otorgará <b>2</b> acumulaciones.\nEn cualquier forma, cuando <b>Unidad</b> consume <b>3</b> o más de <b>Fuerza Interna</b> o de <b>Espíritu de Pelea</b>, recuperas un <b>10%</b> de tus PS Máx. En el modo individual, la recuperación de PS aumenta a <b>20%</b>. Este efecto solo se puede activar 1 vez cada <b>8</b> seg en forma de <b>Fuerza Arrolladora</b>. En la forma de <b>Artista Marcial</b>, no hay limitaciones.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
+    "Después de que <b>Unidad</b> consuma <b>Fuerza Interna</b> o <b>Espíritu de Pelea</b>, al recibir daño letal, evitas el daño letal 1 vez y recuperas <b>10%</b> de tus PS Máx. (no disponible en la Liga Ápex). En el modo individual, la recuperación de PS aumenta a <b>20%</b>. Ambos efectos solo se pueden activar 1 vez cada <b>8</b> seg.",
+    "Mientras estás en la forma <b>Artista Marcial</b>, aumenta el daño de ataque de evasión/ataque normal de <b>Unidad</b> un <b>70%</b> adicional. Después de consumir <b>Fuerza Interna</b>, aumenta el daño final del nómada un <b>10%</b> durante <b>30</b> seg.\nMientras estás en forma de <b>Fuerza Arrolladora</b>, después de que <b>Unidad</b> consume <b>Espíritu de Pelea</b>, aumenta el daño final del nómada un <b>15%</b> por <b>30</b> seg."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Aumenta el daño final un <b>{0}%</b>.\nMientras estés en la forma de <b>Artista Marcial</b>, aumenta tu daño final un <b>{1}%</b>. Tras impactar con <b>Impacto Certero</b>, aumenta el daño de escarcha que los objetivos impactados reciben un <b>{2}%</b> por <b>20</b> seg.\nMientras estés en la forma de <b>Fuerza Arrolladora</b>, <b>cada</b> arma de escarcha equipada, aumenta el daño infligido al consumir <b>Espíritu de Pelea</b> un <b>{3}%</b>. Al equipar <b>3</b> armas de escarcha, aumenta el daño de escarcha un <b>{4}%</b>.",
+      "values": [
+        13,
+        7,
+        1,
+        9,
+        8
+      ]
+    },
+    {
+      "name": "",
+      "description": "Aumenta el daño final un <b>{0}%</b>.\nMientras estés en la forma de <b>Artista Marcial</b>, aumenta tu daño final un <b>{1}%</b>. Tras impactar con <b>Impacto Certero</b>, aumenta el daño de escarcha que los objetivos impactados reciben un <b>{2}%</b> por <b>20</b> seg.\nMientras estés en la forma de <b>Fuerza Arrolladora</b>, <b>cada</b> arma de escarcha equipada, aumenta el daño infligido al consumir <b>Espíritu de Pelea</b> un <b>{3}%</b>. Al equipar <b>3</b> armas de escarcha, aumenta el daño de escarcha un <b>{4}%</b>.",
+      "values": [
+        18,
+        7,
+        1,
+        9,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Armazón Reforzado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

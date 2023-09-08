@@ -7,7 +7,7 @@
   "birthday": "26 Juni",
   "birthplace": "Banges Tech",
   "gender": "Perempuan",
-  "info": "Dia mungkin tampak serius dan tidak ramah, tapi sebenarnya sifatnya unik dan menarik.\nDia tidak menunjukkan banyak ekspresi wajah, tapi begitu kau mengenalnya, kau akan tahu bahwa dia baik hati dan penuh ide dan emosi. Dia mungkin akan menunjukkan wajah marah saat jengkel.\nDia seorang teknisi mekanis yang ahli, tapi dia bekerja dengan perasaan dan bukan teori.\nDia menangani kreasinya dengan \"indra keenam\", dan sering kali menambahkan modul yang sama sekali tidak berguna cuma karena dia suka...",
+  "info": "Dia mungkin tampak serius dan tidak ramah, tapi sebenarnya sifatnya unik dan menarik.\nDia tidak menunjukkan banyak ekspresi wajah, tapi begitu kamu mengenalnya, kamu akan tahu bahwa dia baik hati dan penuh ide dan emosi. Dia mungkin akan menunjukkan wajah marah saat jengkel.\nDia seorang teknisi mekanis yang ahli, tapi dia bekerja dengan perasaan dan bukan teori.\nDia menangani kreasinya dengan \"indra keenam\", dan sering kali menambahkan modul yang sama sekali tidak berguna cuma karena dia suka...",
   "description": "Cobalt-B (bukan nama asli) adalah teknisi mekanis untuk tim pengembangan senjata Banges Tech. Posisinya tidak terlalu tinggi di hierarki perusahaan karena hasil tesnya tidak terlalu bagus.\nHanya rekan kerjanya yang tahu bahwa dia sesungguhnya figur yang paling ulung dalam tim. Dia tak peduli soal teori dasar dan hanya membuat senjata yang sangat efektif dengan berbekal naluri.\nUntuk menguji senjata ini dan mengumpulkan data tempur, dia kadang ikut dengan operasi bersama tentara lain dan menjajal senjatanya ke anggota Hyena.",
   "like": "Permesinan, mencari ide, batu artistik",
   "dislike": "Belajar, ujian",
@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerGunMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan pertama menimpakan DMG dengan total sebesar <b>52.3%</b> ATK + <b>3</b>.\nSerangan kedua menimpakan DMG dengan total sebesar <b>75.6%</b> ATK + <b>4</b>.\nSerangan ketiga menimpakan DMG dengan total sebesar <b>94.5%</b> ATK + <b>5</b>.\nSerangan keempat menimpakan DMG dengan total sebesar <b>142.8%</b> ATK + <b>8</b>.\nSerangan kelima menimpakan DMG dengan total sebesar <b>137.8%</b> ATK + <b>7</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Power_name",
       "name": "Charged Shot",
       "type": [
         "Hold: Attack"
@@ -33,6 +35,7 @@
       "description": "Tahan Serangan Biasa untuk mengumpulkan tenaga dan lepas untuk menembakkan peluru, menimpakan DMG sebesar <b>95.4%</b> ATK plus <b>5</b>, plus sebuah ledakan 3 detik kemudian (atau jika target mati), menimpakan DMG sebesar <b>23.9%</b> ATK kepada musuh di sekitarnya. Setiap kali target menerima DMG selama terjadi ledakan (maks <b>4</b> kali), areanya menjadi dua kali lipat dan DMG meningkat."
     },
     {
+      "id": "GA_FPlayerGunMelee_JumpAttack_name",
       "name": "Jumping Blast",
       "type": [
         "Jump",
@@ -41,6 +44,7 @@
       "description": "Saat di udara atau setelah melompat sekali, melakukan Jumping Blast.\nMelempar bom yang menimpakan DMG sebesar <b>90.8%</b> ATK plus <b>5</b> kepada musuh dalam area lingkaran di depan, membuat mereka terpental sedikit ke belakang. Mengonsumsi <b>250</b> Stamina."
     },
     {
+      "id": "GA_FPlayerGunMelee_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Double Jump"
@@ -48,6 +52,7 @@
       "description": "Setelah lompat dua kali, melakukan Aerial Discharge saat di udara.\nMenembakkan laser Omnium ke bawah. Laser itu kemudian menyapu ke depan, menimpakan DMG sebesar <b>33.8%</b> ATK plus <b>2</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Branch_name",
       "name": "Heavy Bombardment",
       "type": [
         "Attack",
@@ -56,6 +61,7 @@
       "description": "Tahan tombol Serang saat melakukan Serangan Biasa untuk menembakkan Suppressing Fire ke depan, menimpakan DMG area kepada musuh dengan total sebesar <b>102%</b> ATK plus <b>5</b>."
     },
     {
+      "id": "GA_FPlayerGunEvade_BackAttack_name",
       "name": "Close Quarters",
       "type": [
         "Dodge",
@@ -64,6 +70,7 @@
       "description": "Gunakan Serangan Biasa tepat setelah menghindar untuk mengaktifkan Close Quarters.\nMenimpakan DMG sebesar <b>156.1%</b> ATK plus <b>8</b> kepada target di area kerucut di depan."
     },
     {
+      "id": "GA_FPlayerGunSkill_name",
       "name": "Barrage",
       "type": [
         "Skill"
@@ -71,11 +78,12 @@
       "description": "Menembak terus-menerus ke area kerucut di depan untuk menimpakan DMG sebesar <b>666%</b> ATK plus <b>35</b>. CD: <b>60</b> detik."
     },
     {
+      "id": "GA_FPlayerGunChangeSkill_NewNew_Sucess_name",
       "name": "Explosive Rain",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke Senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b> dan melontarkan <b>3</b> granat ke depan, menimpakan DMG area dengan total sebesar <b>570%</b> ATK plus <b>30</b> dan membuat target <b>terpental ke atas</b>."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke Senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b> dan melontarkan <b>3</b> granat ke depan, menimpakan DMG area dengan total sebesar <b>570%</b> ATK plus <b>30</b> dan membuat target <b>terpental ke atas</b>."
     }
   ],
   "weapon_type": {

@@ -1,0 +1,34 @@
+{
+  "_id": 33,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "suitName": "Verlorenes Herz",
+  "hash": "SSR34",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Erhöht das Schlangenkettenglied-Limit auf <b>5</b>. Wenn mindestens <b>1</b> physische Waffe ausgerüstet ist, wird der physische ANG um 14%/16%/18%/20% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot, und nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+    },
+    {
+      "count": 4,
+      "value": "Nach Verursachen des „Schlangenbiss“-Effekts wird der physische ANG für 30 Sek. um 9% erhöht. Funktioniert auch im Nebenhand-Slot. Im Kampfstatus wird der Endschaden um 14%/17%/20%/23% erhöht."
+    }
+  ],
+  "mind": {
+    "name": "Teeaufguss",
+    "desc": "Tiefe Gedanken, begraben unter einem starken Duft."
+  },
+  "memory": {
+    "name": "Unbeschriebenes Blatt",
+    "desc": "Inmitten des Nebels gibt es etwas, an dem man unbedingt festhalten muss, damit es nicht wieder verschwindet."
+  },
+  "belief": {
+    "name": "Wiederaufbau",
+    "desc": "Der erste Schritt, um etwas wieder in Ordnung zu bringen, ist, die Scherben aufzusammeln."
+  },
+  "emotion": {
+    "name": "Leidenschaft",
+    "desc": "Brennende Gedanken, maskiert von einem leeren Blick."
+  }
+}

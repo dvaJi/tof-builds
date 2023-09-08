@@ -1,0 +1,378 @@
+{
+  "_id": 1038,
+  "id": "yu_lan",
+  "name": "Yu Lan",
+  "weapon": "União",
+  "weapon_id": "unity",
+  "birthday": "9 de fevereiro",
+  "birthplace": "Cronoguarda",
+  "gender": "Feminino",
+  "info": "",
+  "description": "A estrela das artes marciais do Domínio 9. Todos os seus oponentes a admiravam e, consequentemente, a Mestre Yu a nomeou Cronoguarda na Praça do Relógio de Sol de Fogarejo. Sua dedicação às artes marciais supera em muito a das pessoas comuns, e ela é garantia de uma vitória no campo de batalha. Ela acredita que, a uma distância de sete passos, o punho é o mais rápido.\n\nEmbora pareça gentil, ela na verdade é muito séria, e seus oponentes no Torneio de Artes Marciais aprenderam isso por experiência própria. No início do torneio, ela sequer entendia as regras e etiqueta da competição. Seus golpes eram ferozes e poderosos, derrotando todos rápida e eficientemente. Foi somente mais tarde que Yu Lan percebeu como seu comportamento era rude e procurou seus oponentes para se desculpar. Todos os oponentes que alegavam ser de um \"certo clã\" queriam apenas se exibir antes da competição e ganhar mais popularidade, confiando que seus oponentes seriam tranquilos e misericordiosos. É uma pena que Yu Lan não tenha percebido isso: ela levou cada um deles a sério e derrotou todos, um mais rápido do que o outro. Esse tipo de prática é naturalmente detestado pelas pessoas do meio; no entanto, devido ao erro de Yu Lan, o Torneio de Artes Marciais que raramente atraía público acabou chamando a atenção de mais pessoas. Todos se beneficiaram, e isso pode ser considerado um mal que veio para o bem.\n\nEla é honesta, entusiasmada e até se dispõe a ensinar tudo o que sabe para oponentes que pedem por conselhos. No entanto, seu conhecimento de artes marciais não é muito bom. Mais precisamente, ela não é uma boa mestra que consegue passar a essência das artes marciais. As pessoas costumam se perguntar sobre a linhagem de artes marciais de Yu Lan, e ela mesma não foge das perguntas, pois o seu estilo é o boxe fitness comum no Domínio 9 que muitos praticam para manter a forma. Contudo, ninguém acredita nela: o boxe fitness é praticado como uma espécie de \"radiocalistenia\", mas ela executa os mesmos movimentos com uma força tão incrível que muitos pensam que Yu Lan possui algum talento secreto de onde vem todo esse poder. Isso geralmente leva as pessoas a questioná-la sobre artes marciais, mas como ela não é boa em explicar os fundamentos, isso a deixa muito ansiosa.\n\nAo praticar ou lutar, Yu Lan entra rapidamente em uma espécie de transe, permitindo que se concentre sem distrações. O efeito é impressionante. A Mestre Yu acredita que Yu Lan possui o que os filósofos da antiguidade chamavam de \"coração puro de uma criança\", o que a permite obter resultados duplamente melhores com metade do esforço. As artes marciais são o caminho mais adequado para ela. Por outro lado, por ser muito sincera no cotidiano, ela às vezes não leva em consideração as opiniões dos outros, o que a faz parecer muito séria. No entanto, tudo isso está sendo gradualmente corrigido sob a tutela da Mestre Yu. Ela está sempre disposta a ouvir os ensinamentos de sua mestra, e cada sugestão dada tem um efeito imediato.",
+  "like": "Praticando artes marciais, comendo e competindo em torneios",
+  "dislike": "Planejamento cuidadoso, explicação da teoria das artes marciais.",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 13,
+  "charge": 11,
+  "skills": [
+    {
+      "id": "GA_FPlayerYulanMelee_Melee_name",
+      "name": "Punho Demolidor",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, use o botão de ataque normal para desferir 6 ataques consecutivos.\nPrimeiro ataque: Causa dano de <b>64.8%</b> do ATQ + <b>3</b> e repele o alvo.\nSegundo ataque: Causa dano de <b>50.4%</b> do ATQ + <b>3</b> e repele o alvo.\nTerceiro ataque: Causa dano de <b>52.8%</b> do ATQ + <b>3</b> e repele o alvo.\nQuarto ataque: Causa dano de <b>143.9%</b> do ATQ + <b>8</b> e repele o alvo.\nQuinto ataque: Causa dano de <b>279.2%</b> do ATQ + <b>15</b> e repele continuamente o alvo.\nSexto ataque: Causa dano de <b>227.4%</b> do ATQ + <b>12</b> e lança o alvo no ar.\n\nPunho Demolidor pode ser usado na forma <b>Artista Marcial</b> ou <b>Força Implacável</b>.\nApós usar qualquer ataque de esquiva na forma <b>Artista Marcial</b>, use o botão de ataque normal para acionar rapidamente o quarto ataque.\nApós acertar o quinto ataque na forma <b>Artista Marcial</b>, causa <b>congelamento forte</b> ao alvo durante <b>2</b> segundos (indisponível na Liga do Apogeu e contra chefes) e inflige <b>geladura</b>, causando dano de <b>280%</b> do ATQ + <b>15</b> por segundo durante <b>8</b> segundos. Este efeito só pode ser acionado no mesmo alvo 1 vez a cada <b>8</b> segundos."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_AirAttack_name",
+      "name": "Punho Flutuante",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, use o botão de ataque normal para atacar 6 vezes seguidas enquanto consome vigor.\nPrimeiro ataque: Causa dano de <b>68.4%</b> do ATQ + <b>4</b>.\nSegundo ataque: Causa dano de <b>59.9%</b> do ATQ + <b>3</b>.\nTerceiro ataque: Causa dano de <b>62.7%</b> do ATQ + <b>3</b>.\nQuarto ataque: Causa dano de <b>136.4%</b> do ATQ + <b>7</b>.\nQuinto ataque: Causa dano de <b>249%</b> do ATQ + <b>13</b>.\nSexto ataque: Causa dano de <b>222.3%</b> do ATQ + <b>12</b>.\n\nPunho Flutuante pode ser usado na forma <b>Artista Marcial</b> ou na forma <b>Força Implacável</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch1_name",
+      "name": "Andorinha Perfuradora",
+      "type": [
+        "Attack"
+      ],
+      "description": "Andorinha Perfuradora só pode ser usada na forma <b>Artista Marcial</b>.\nNo chão, segure o botão de ataque normal ao usar do primeiro ao terceiro ataque normal para acionar Andorinha Perfuradora.\nCausa dano de <b>62.8%</b> do ATQ + <b>3</b> e atrai os alvos próximos. Em seguida, causa dano de <b>146.8%</b> do ATQ + <b>{3}</b> e repele os alvos.\n\nDepois de usar <b>Pipa Celeste</b>, usar o ataque normal também pode acionar Andorinha Perfuradora."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch2_name",
+      "name": "Serpente Alada",
+      "type": [
+        "Attack"
+      ],
+      "description": "Serpente Alada só pode ser usada na forma <b>Artista Marcial</b>.\nNo chão, segure o botão de ataque normal ao usar do quarto ao quinto ataque normal para acionar Serpente Alada.\nCausa dano de <b>153.9%</b> do ATQ + <b>8</b> aos alvos próximos e os suspende.\n\nDepois de usar <b>Andorinha Perfuradora</b>, segurar o botão de ataque normal também pode acionar Serpente Alada."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_ArAttackBranch_name",
+      "name": "Criofúria Ascendente",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "No ar, segure o botão de ataque normal ao usar do primeiro ao sexto ataque normal para ativar Criofúria Ascendente.\nJogue sua arma no ar, causando dano igual a <b>329%</b> do ATK + <b>17</b> aos alvos próximos.\n\nCriofúria Ascendente pode ser usada na forma <b>Artista Marcial</b> ou <b>Força Implacável</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_JumpAttack_name",
+      "name": "Pipa Celeste",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Pipa Celeste.\nDespenca dos céus, causando dano de <b>148.6%</b> do ATQ + <b>8</b> aos alvos próximos ao aterrissar e os derrubando.\n\nPipa Celeste pode ser usada na forma <b>Artista Marcial</b> ou na forma <b>Força Implacável</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch3_name",
+      "name": "Retorno às Raízes",
+      "type": [
+        "Attack"
+      ],
+      "description": "No chão, segure o botão de ataque normal para ativar o Retorno às Raízes.\nAtrai alvos próximos continuamente enquanto consome vigor, nesse período o Errante ganha corpo de aço.\n\nRetorno às Raízes pode ser usado na forma <b>Artista Marcial</b> ou <b>Força Implacável</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_Evade_name",
+      "name": "Esquiva",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduz a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.\n\nPode ser usado na forma <b>Artista Marcial</b> ou <b>Força Implacável</b>.\nApós esquivar-se na forma <b>Artista Marcial</b>, ganha corpo de aço durante <b>5</b> segundos."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackBack_name",
+      "name": "Façanha Impossível",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita para usar Façanha Impossível. Causa dano de <b>177.6%</b> do ATQ + <b>9</b> aos alvos próximos.\n\nFaçanha Impossível pode ser usada na forma <b>Artista Marcial</b> ou <b>Força Implacável</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackFront_name",
+      "name": "Vendaval Implacável",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Vendaval Implacável. Causa dano de <b>167.6%</b> do ATQ + <b>9</b> aos alvos próximos.\n\nVendaval Implacável pode ser usado na forma <b>Artista Marcial</b> ou <b>Força Implacável</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_PassiveSkill_name",
+      "name": "Defensiva e ofensiva",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>União</b> possui 2 formas: <b>Artista Marcial</b> e <b>Força Implacável</b>. Ative <b>1</b> delas na página de configurações de habilidades. Elas não podem ser trocadas durante o estado de combate.\n\nForma <b>Artista Marcial</b>: No estado de combate, o multiplicador de ataque normal/ataque de esquiva de <b>União</b> aumenta em mais <b>40%</b>. Depois de usar o ataque de esquiva ou ataque normal de qualquer arma <b>3</b> vezes, recebe <b>1</b> de <b>força interior</b> (até <b>10</b>). Apenas <b>1</b> de <b>força interior</b> pode ser obtido a cada <b>2</b> segundos. Fora do estado de combate, toda a <b>força interior</b> será perdida.\n<b>Força Implacável</b>: Após atingir um alvo com <b>Observar e Reagir</b>, entra no estado de <b>Antecipação</b> e recebe <b>1</b> de <b>espírito combatente</b> a cada <b>0,8</b> segundo (até <b>15</b>) durante <b>60 </b> segundos. Fora do estado de combate, todo o <b>espírito combatente</b> será perdido.\n<b>Passiva</b>: Calafrio</>\nQuando <b>União</b> estiver equipada, ignora <b>30%</b> da resistência gélida dos alvos. Este efeito também funciona no espaço secundário."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_name",
+      "name": "Fogo no Buraco",
+      "type": [
+        "Skill"
+      ],
+      "description": "Causa dano de <b>982.8%</b> do ATQ + <b>52</b> ao alvo. Tempo de recarga: <b>15</b> segundos. Ao usar Fogo no Buraco, <b>União</b> consumirá até <b>5</b> de <b>força interior</b>. Ao consumir <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> de <b>força interior</b>, Fogo no Buraco causará <b>1,2</b>/<b>1,5</b>/<b>2,1</b>/<b>2,8</b>/<b>3,7</b> vezes o seu dano original respectivamente.\nDepois de usar Fogo no Buraco, aumenta o dano gélido em <b>20%</b> durante <b>30</b> segundos.\nApós usar Fogo no Buraco, restaura <b>2 </b> tentativas de esquiva.\n\nFogo no Buraco só pode ser usado na forma <b>Artista Marcial</b>.\nQuando <b>força interior</b> atingir <b>5</b>, reinicia o tempo de recarga de Fogo no Buraco."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_Skill2_name",
+      "name": "Embate de Armas",
+      "type": [
+        "Skill"
+      ],
+      "description": "Causa dano de <b>982.8%</b> do ATQ + <b>52</b> ao alvo. Tempo de recarga: <b>15</b> seg. No estado de <b>Antecipação</b>, <b>União</b> consome até <b>5</b> de <b>espírito combatente</b> ao usar qualquer habilidade de arma. Ao consumir <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> de <b>espírito combatente</b>, causa dano em área adicional de <b>242%</b>/<b>503%</b>/<b>1.049%</b>/<b>2.351%</b>/<b>3.930%</b> do ATQ e dano de <b>260%</b> do ATQ + <b>14</b> por segundo durante <b>5</b> segundos.\nDepois de usar qualquer habilidade de arma gélida, recebe <b>2</b> segundos de corpo de aço.\n\nEmbate de Armas só pode ser usado na forma <b>Força Implacável</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_name",
+      "name": "Tigre das Neves",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e causa dano de até <b>1173.1%</b> do ATQ + <b>62</b> aos alvos próximos e os <b>lança alto no ar</b>. Nesse período, recebe imunidade a dano durante <b>2,6</b> segundos (indisponível na Liga do Apogeu).\n\nTigre das Neves só pode ser usado durante a forma de <b>Artista Marcial</b>."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_ChangeSkill1_name",
+      "name": "Observar e Reagir",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Quando a <span class=\"text-red\">carga da arma estiver completa</span> ou <span class=\"text-red\">Phantasia for desencadeada</span>, <b>remove todos os efeitos negativos de você</b> ao trocar para esta arma, causa dano de <b>1173.1%</b> do ATQ + <b>62</b> a alvos próximos e os <b>lança alto no ar</b>. Neste período, recebe imunidade a dano durante <b>2,6</b> segundos (indisponível na Liga do Apogeu).\nApós Observar e Reagir atingir um alvo, aumenta o dano gélido em <b>20%</b> durante <b>30</b> segundos.\nApós Observar e Reagir atingir um alvo, entra no estado de <b>Antecipação</b> durante <b>60</b> segundos.\nApós usar <b>União</b> com uma descarga de habilidade, recebe <b>1.000</b> cargas de arma. Este efeito só pode ser acionado 1 vez a cada <b>10</b> segundos.\n\nObservar e Reagir só pode ser usado na forma <b>Força Implacável</b>."
+    }
+  ],
+  "weapon_type": {
+    "name": "Casca de Gelo",
+    "description": "Com carga completa, o ataque seguinte da arma <b>congela forte</b> o alvo durante <b>2</b> segundos e causa geladura durante <b>6</b> segundos. Quebrar a casca de gelo causa dano de <b>144%</b> do ATQ. Durante a geladura, a velocidade de carga de arma do alvo diminui em <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Ressonância gélida",
+    "description": "<b>Ressonância gélida</b>: Aumenta o ATQ gélido em <b>20%</b> e a resistência gélida em <b>40%</b>. Ativa-se ao equipar <b>2</b> ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com outros efeitos de ressonância gélida ou reação gélida, e a ressonância gélida tem prioridade."
+  },
+  "advancement": [
+    "Após consumir pelo menos <b>3</b> de <b>força interior</b> na forma de <b>Artista Marcial</b>, <b>União</b> restaura <b>3</b> de <b>força interior</b>. Depois disso, o seu dano final aumenta em <b>5%</b>, e o dano de ataque normal/ataque de esquiva da <b>União</b> aumenta em <b>50%</b> durante <b>30</b> segundos.\nApós consumir pelo menos <b>3</b> de <b>espírito combatente</b> na forma de <b>Força Implacável</b>, <b>União</b> restaura <b>3</b> de <b>espírito combatente</b>. Depois disso, o seu dano final aumenta em <b>5%</b> durante <b>15</b> segundos.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>16%</b>.",
+    "Na forma de <b>Artista Marcial</b>, se <b>força interior</b> não for obtido em até <b>4</b> segundos, a próxima obtenção de <b>força interior</b> vai conferir <b>2</b> acúmulos.\nQuando a <b>União</b> consumir pelo menos <b>3</b> de <b>força interior</b> ou de <b>espírito combatente</b> em qualquer forma, restaura <b>10%</b> da sua vida máxima. No jogo individual, a recuperação de vida aumenta para <b>20%</b>. O efeito é acionado apenas 1 vez a cada <b>8</b> segundos na forma de <b>Força Implacável</b>. Não há limites na forma de <b>Artista Marcial</b>.",
+    "Aumenta o crescimento do ATQ mínimo da arma atual em <b>32%</b>.",
+    "Após a <b>União</b> consumir <b>força interior</b> ou <b>espírito combatente</b>, o dano letal sofrido é anulado uma vez e o usuário recupera <b>10%</b> de sua vida máxima (indisponível na Liga do Apogeu). No jogo individual, a recuperação de vida aumenta para <b>20%</b>. Ambos os efeitos só podem ser acionados 1 vez a cada <b>8</b> segundos.",
+    "Na forma de <b>Artista Marcial</b>, o dano de ataque normal/ataque de esquiva da <b>União</b> aumenta em mais <b>70%</b>. Após consumir <b>força interior</b>, o seu dano final aumenta em <b>10%</b> por <b>30</b> segundos.\nNa forma de <b>Força Implacável</b>, após a <b>União</b> consumir <b>espírito combatente</b>, o seu dano final aumenta em <b>15%</b> durante <b>30</b> segundos."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Aumenta o dano final em <b>{0}%</b>.\nEnquanto estiver na forma <b>Artista Marcial</b>, aumenta o dano final em mais <b>{1}%</b>. Após <b>Fogo no Buraco</b> acertar, aumente o dano gélido recebido pelos alvos atingidos em <b>{2}%</b> durante <b>20</b> segundos.\nEnquanto estiver na forma <b>Força Implacável</b>, para cada <b>1</b> arma gélida equipada, aumenta o dano causado ao consumir <b>espírito combatente</b> em <b>{3}%</b>. Quando <b>3</b> armas gélidas são equipadas, aumenta o dano gélido em <b>{4}%</b>.",
+      "values": [
+        13,
+        7,
+        1,
+        9,
+        8
+      ]
+    },
+    {
+      "name": "",
+      "description": "Aumenta o dano final em <b>{0}%</b>.\nEnquanto estiver na forma <b>Artista Marcial</b>, aumenta o dano final em mais <b>{1}%</b>. Após <b>Fogo no Buraco</b> acertar, aumente o dano gélido recebido pelos alvos atingidos em <b>{2}%</b> durante <b>20</b> segundos.\nEnquanto estiver na forma <b>Força Implacável</b>, para cada <b>1</b> arma gélida equipada, aumenta o dano causado ao consumir <b>espírito combatente</b> em <b>{3}%</b>. Quando <b>3</b> armas gélidas são equipadas, aumenta o dano gélido em <b>{4}%</b>.",
+      "values": [
+        18,
+        7,
+        1,
+        9,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanorrevestimento I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Revestimento antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Corpo reforçado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Corpo reforçado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Corpo de nanofibra II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanorrevestimento II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

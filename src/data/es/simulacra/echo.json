@@ -19,6 +19,7 @@
   "charge": 7,
   "skills": [
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
       "name": "Arremetida",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, blande la lanza larga para atacar 5 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>24.7%</b> del ATQ más <b>1</b> y hace retroceder un poco al objetivo.\nSegundo ataque: Inflige daño igual a <b>22.6%</b> del ATQ más <b>1</b> y hace retroceder un poco al objetivo.\nTercer ataque: Inflige daño igual a <b>47.2%</b> del ATQ más <b>2</b> y hace retroceder un poco al objetivo.\nCuarto ataque: Inflige daño igual a <b>65.2%</b> del ATQ más <b>3</b> y hace retroceder un poco al objetivo.\nQuinto ataque: Inflige daño igual a <b>114.95%</b> del ATQ más <b>6</b> y hace retroceder al objetivo una larga distancia."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Golpe de Salto",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire, utiliza el ataque normal para atacar 4 veces seguidas en el aire.\nPrimer ataque: Inflige daño igual a <b>27.4%</b> del ATQ más <b>1</b>.\nSegundo ataque: Inflige daño igual a <b>23.2%</b> del ATQ más <b>1</b>.\nTercer ataque: Inflige daño igual a <b>45.8%</b> del ATQ más <b>2</b>.\nCuarto ataque: Inflige daño igual a <b>110%</b> del ATQ más <b>6</b>."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
       "name": "Choque Propulsor",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar Choque Propulsor.\nMientras caes, inflige daño igual a <b>8%</b> del ATQ más <b>1</b> en cada impacto. Al aterrizar, inflige daño igual a <b>48.5%</b> del ATQ más <b>3</b> y derriba al objetivo.\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta <b>600%</b> de daño."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
       "name": "Ráfaga de Lanza",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\nAl impactar, <b>suspende fuerte</b> al objetivo e inflige daño igual al <b>49.2%</b> del ATQ más <b>3</b>. Pulsa de nuevo para continuar atacando al objetivo en el aire, lo que inflige hasta <b>98%</b> del ATQ más <b>5</b> de daño a un solo objetivo."
     },
     {
+      "id": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
       "name": "Ataque Sorpresa",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Acércate al enemigo desde atrás en posición agachada y usa el ataque normal para usar Ataque Sorpresa, lo que inflige daño igual al <b>570%</b> del ATQ más <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
       "name": "Patada Voladora",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Pulsa el ataque normal durante la oportunidad de evasión perfecta (pulsa el botón de flecha antes de esquivar) para activar Patada Voladora.\nAl golpear al objetivo, inflige daño igual al <b>72%</b> del ATQ más <b>4</b>, lo hace retroceder considerablemente y <b>aturde</b> a los enemigos por <b>1</b> segundo o <b>0.5</b> seg para nómadas."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
       "name": "Embestida Aplastante",
       "type": [
         "Dodge",
@@ -74,6 +81,7 @@
       "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Embestida Aplastante.\nAzota la lanza larga contra el suelo, lo que inflige daño igual a <b>52.8%</b> del ATQ más <b>3</b> y <b>suspende fuerte</b> a los objetivos."
     },
     {
+      "id": "GA_FPlayerSpearSkillThu_SSR_name",
       "name": "Cazalunas",
       "type": [
         "Skill"
@@ -81,16 +89,17 @@
       "description": "<b>Suspende fuerte</b> a los objetivos y quedas en el aire, lo que inflige daño equivalente al <b>127.5%</b> del ATQ más <b>7</b>. Enfriamiento: <b>25</b> seg."
     },
     {
+      "id": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
       "name": "Trueno",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b>; luego, saltas al aire y lanzas una Lanza de Trueno que explota al impactar contra el suelo, lo que inflige un <b>296.7%</b> del ATQ más <b>16</b> de daño y <b>paraliza contundentemente</b> a los objetivos por <b>1</b> seg."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b>; luego, saltas al aire y lanzas una Lanza de Trueno que explota al impactar contra el suelo, lo que inflige un <b>296.7%</b> del ATQ más <b>16</b> de daño y <b>paraliza contundentemente</b> a los objetivos por <b>1</b> seg."
     }
   ],
   "weapon_type": {
     "name": "Eléctrico",
-    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> segundo y los electrifica por <b>6</b>, lo que elimina todas sus mejoras e inflige daño igual a <b>106%</b> del ATQ. Los objetivos no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
+    "description": "Cuando el arma está totalmente cargada, el siguiente ataque <b>paraliza fuerte</b> a los objetivos por <b>1</b> seg y los electrifica por <b>6</b> seg, lo que elimina todas sus mejoras e inflige daño igual a <b>106%</b> del ATQ. Los objetivos electrificados no pueden recibir ninguna mejora durante los próximos <b>6</b> seg."
   },
   "advancement": [
     "Aumenta la destrucción en un <b>15%</b>. Luego de destruir el escudo del objetivo, aumenta el ATQ de todos los compañeros de grupo en un <b>15%</b> durante <b>30</b> segundos. No puede acumularse.",

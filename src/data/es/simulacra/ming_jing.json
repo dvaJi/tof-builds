@@ -1,0 +1,339 @@
+{
+  "_id": 1050,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "weapon": "Tortuga de Ónix",
+  "weapon_id": "onyx_tortoise",
+  "birthday": "12 de noviembre",
+  "birthplace": "Dominio 9",
+  "gender": "Masculino",
+  "info": "",
+  "description": "Un visitante desconocido del exterior. Su apariencia es tanto una variable impredecible como un punto de inflexión para el Dominio 9 cerrado.\n\nAceptaron a este hombre sin pasado, y el maestre Yue, el anterior Lord Xuanwu, decidió mantener a Ming Jing a su lado y entrenarlo. Ming Jing hizo todo lo posible por asimilar la cultura, las vistas, las batallas y las peleas por el poder... Se encontró con muchos obstáculos, pero ni una sola vez titubeó, y siguió adelante para devolver con hechos la amabilidad que había recibido.\n\nTras el fallecimiento del maestre Yue, el joven asumió el título de Xuanwu. Demostró su valía al acabar con rapidez a la Oscuridad y demostró que el maestre Yue tenía razón al nombrar sucesor a Ming Jing y confiarle Acuavilla.\n\n¿Es un líder natural? ¿Podría ser también posible que su presente esté vinculado al pasado que ha estado buscando?\n\nEsto es exactamente lo que le preocupa. Confuso e inseguro, ha estado buscando sus recuerdos y su identidad perdidos.\n\nQuizás nunca cambió y su pasado siempre lo ha acompañado. Tal vez no se haya dado cuenta todavía.\n\nSi hay alguien capaz de llegar al final del camino y comprender firmemente la respuesta, ese es Ming Jing.",
+  "like": "Cocinando, organizando y degustando té",
+  "dislike": "Planear y reflexionar, explicar teoría de las artes marciales.",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 14,
+  "charge": 12,
+  "skills": [
+    {
+      "id": "GA_FPlayerZekeMelee_Melee_name",
+      "name": "Temple",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estés en el suelo, usa tu ataque normal para lanzar 5 ataques consecutivos.\nMientras el <b>Tótem de Xuanwu</b> esté activo, después de que el quinto ataque de Temple logre su golpe final, añade 1 mordida de serpiente al objetivo fijado.\nPrimer ataque: Inflige daño igual a <b>131.6%</b> del ATQ más <b>7</b> y hace retroceder al objetivo.\nSegundo ataque: Inflige daño igual a <b>186.8%</b> del ATQ más <b>10</b> y hace retroceder al objetivo.\nTercer ataque: Inflige daño igual a <b>201.6%</b> del ATQ más <b>11</b> y hace retroceder al objetivo.\nCuarto ataque: Inflige daño igual a <b>238%</b> del ATQ más <b>13</b> y suspende al objetivo.\nQuinto ataque: Inflige daño igual a <b>378%</b> del ATQ más <b>20</b> y lanza al objetivo."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_AirAttack_name",
+      "name": "Piedra Voladora",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Mientras estás en el aire, usa el ataque normal para lanzar 5 ataques consecutivos; esto consume resistencia.\nPrimer ataque: Inflige daño igual a <b>112.8%</b> del ATQ más <b>6</b>.\nSegundo ataque: Inflige daño igual a <b>168%</b> del ATQ más <b>9</b>.\nTercer ataque: Inflige daño igual a <b>164.2%</b> del ATQ más <b>9</b>.\nCuarto ataque: Inflige daño igual a <b>140.2%</b> del ATQ más <b>7</b>.\nQuinto ataque: Inflige daño igual a <b>228%</b> del ATQ más <b>12</b>."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch_name",
+      "name": "Alma de Reino Alterno",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras usas el ataque normal en el suelo, pulsa y mantén pulsado el ataque normal cuando uses del primero al cuarto ataques normales para activar Alma de Reino Alterno.\nLanza tu arma hacia delante, lo que inflige daño igual a <b>212.4%</b> del ATQ más <b>11</b> a los objetivos cercanos."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch1_name",
+      "name": "Cumbre Colapsada",
+      "type": [
+        "Attack"
+      ],
+      "description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal para activar Cumbre Colapsada.\nAvanza continuamente mientras atacas y consumes resistencia, lo que inflige daño igual a <b>240%</b> del ATQ más <b>13</b> a los objetivos cercanos."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_JumpAttack_name",
+      "name": "Continuidad",
+      "type": [
+        "Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o usa el ataque normal mientras escalas, saltas hacia atrás o usas propulsor para activar Continuidad.\nDesciende en picada desde el cielo, lo que inflige daño igual a <b>204%</b> del ATQ más <b>11</b> a los objetivos cercanos al llegar al suelo."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Evade_name",
+      "name": "Evasión",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_ForwardAttack_name",
+      "name": "Nubes Abiertas",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Nubes Abiertas, lo que inflige daño igual a <b>60%</b> del ATQ más <b>3</b> a los objetivos cercanos.\nMientras el <b>Tótem de Xuanwu</b> esté activo, después de que Nubes Abiertas logre un impacto, añade 1 mordida de serpiente al objetivo fijado."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_BackAttack_name",
+      "name": "Arena Cortante",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Arena Cortante, lo que desata un aura de espada que inflige daño igual a <b>125%</b> del ATQ más <b>7</b> a los objetivos que estén delante.\nMientras el <b>Tótem de Xuanwu</b> esté activo, cuando Arena Cortante inflija un impacto, añade 1 mordida de serpiente al objetivo fijado."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Spec_name",
+      "name": "Mirador",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Pulsa y mantén pulsado el ataque normal tras evadir para activar Observación (no disponible en la Liga Ápex).\nUna vez completado el <b>Tótem de Xuanwu</b> invocado por <b>Abismo Absoluto</b>, usa Observación para entrar en el <b>Reino Abnegado</b> durante <b>25</b> seg y ganar <b>3</b> <b>Tajos Oscuros</b>.\nTras el primer ataque normal o de evasión con éxito de <b>Tortuga de Ónix</b>, desatas un <b>Tajo Oscuro</b>. Si el objetivo es un enemigo común o de élite y sus PS actuales no superan el ATQ base del nómada en más de <b>350 000</b> veces, ejecutarás al objetivo inmediatamente. De lo contrario, inflige daño igual a <b>3000%</b> del ATQ.\n<b>Reino Abnegado</b> finaliza cuando termina el efecto, se agota el conteo de <b>Tajos Oscuros</b> o al cambiar de arma. <b>Reino Abnegado</b> solo se puede activar 1 vez cada <b>200</b> seg."
+    },
+    {
+      "id": "GA_FPlayerZekeSkill_Skill_name",
+      "name": "Abismo Absoluto",
+      "type": [
+        "Skill"
+      ],
+      "description": "Abre una grieta en el suelo por delante; obtienes invencibilidad temporal (no disponible en la Liga Ápex) y atraes a los objetivos cercanos, lo que inflige daño igual a <b>806%</b> del ATQ más <b>42</b>. Enfriamiento: <b>20</b> seg. Aumenta el daño físico del nómada un <b>30%</b> durante <b>30</b> seg, y luego invoca al Tótem de Xuanwu. El Tótem de Xuanwu se elimina si no estás en estado de combate.\nEl Tótem de Xuanwu invoca almas oscuras de los cuatro núcleos de formación cada <b>0.6</b> seg, lo que inflige daño igual a <b>100%</b> del ATQ a los objetivos que encuentre por el camino cada vez. Cuando Abismo Absoluto está en enfriamiento, obtienes la nueva habilidad, <b>Reflejo del Espejo</b>: Contraatacas a las almas oscuras cercanas y activas sus núcleos de formación correspondientes. Después de activar cualquier núcleo de formación, el Tótem de Xuanwu estará completo y podrás entrar en el <b>Reino Abnegado</b>.\n\nMientras el Tótem de Xuanwu esté activo, usa <b>Tortuga de Ónix</b> para ganar hipercuerpo, y podrás aplicar mordidas de serpiente de las siguientes formas:\nDespués de que <b>Abismo Absoluto</b> logre un impacto, aplicas 1 mordida de serpiente al objetivo con más PS.\nDespués de que el quinto ataque de <b>Temple</b> logre su impacto final, aplica 1 mordida de serpiente al objetivo fijado.\nDespués de que <b>Nubes Abiertas</b> consiga un impacto, aplica 1 mordida de serpiente al objetivo fijado.\nTras impactar con <b>Arena Cortante</b>, aplica 1 mordida de serpiente al objetivo fijado.\nMordida de Serpiente inflige daño devorador igual a <b>300%</b> del ATQ al objetivo, restaura <b>12%</b> de los PS Máx. del nómada y convierte al objetivo en un integrante de la Cadena de Serpiente.\n\nLa Cadena de Serpiente puede transferir <b>30%</b> del daño real infligido por el arma de la ranura principal del nómada al integrante de la Cadena de Serpiente fijado y causar el estado <b>grave</b> a todos los integrantes de la Cadena de Serpiente (incluyendo al objetivo). Puede haber hasta <b>4</b> integrantes en la Cadena de Serpiente.\nEl tipo de elemento del daño por conducción es el daño original y no puede volver a conducirse. El daño por conducción total en <b>30</b> seg no será mayor a <b>14 000</b> veces el ATQ máximo del nómada (ilimitado en partidas en equipo). El daño de <b>Tajo Oscuro</b> no se puede conducir.\nDespués de usar <b>Abismo Absoluto</b>, el nómada también puede activar <b>Vendaval Poderoso</b>: Los integrantes de la Cadena de Serpiente infligen daño devorador igual a <b>35%</b> del ATQ a los objetivos cercanos (incluyendo al objetivo), y reinician el contador de daño devorador."
+    },
+    {
+      "id": "GA_FPlayerZekeChangeSkill_name",
+      "name": "Sendero de Regreso",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Cuando la carga de arma <span class=\"text-red\">está completa</span> o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las debilitaciones del nómada</b> e invoca a Xuanwu, lo que inflige daño de área igual a <b>681.2%</b> del ATQ más <b>36</b> a todos los objetivos cercanos. Durante este periodo, ganas inmunidad al daño por <b>2.6</b> seg (no disponible en la Liga Ápex)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Fuego",
+    "description": "Cuando el arma esté completamente cargada, el siguiente ataque encenderá al objetivo por <b>8</b> seg, lo que inflige daño igual a <b>{3}%</b> del ATQ cada segundo. Mientras está encendido, los efectos de curación en el objetivo son <b>50%</b> menos efectivos."
+  },
+  "weapon_resonance": {
+    "name": "Destrucción de Escudo: Separación",
+    "description": "<b>Resonancia Física</b>: Aumenta el ATQ físico un <b>20%</b> y la resistencia física un <b>40%</b>. Se activa equipando <b>2</b> o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Física o Reacción Física; Resonancia Física tiene prioridad.\n<b>Destrucción de Escudo: Separación</b>: Después de usar <b>Abismo Absoluto</b>, cada segundo inflige daño igual a <b>{1}%</b> del ATQ físico, más <b>{2}%</b> de los PS Máx. del nómada, más <b>{3}%</b> de la suma de todos los tipos de resistencias del nómada, más <b>{4}%</b> del crítico durante <b>{0}</b> seg. El daño de múltiples usos de Separación no se acumula, y el daño por destrucción de escudo cuenta como daño de habilidad. Si hay <b>1</b> arma eléctrica/de fuego/de escarcha de cualquier tipo equipada, multiplica el daño de destrucción de escudo por <b>{5}</b>. Además, el daño de la destrucción de escudo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales."
+  },
+  "advancement": [
+    "Cada vez que se aplica <b>grave</b>, inflige daño <b>devorador</b> igual a <b>100%</b> del ATQ al objetivo. Este efecto solo se puede activar 1 vez cada <b>0.5</b> seg.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>16%</b>.",
+    "Tras activar <b>Vendaval Poderoso</b>, convierte a los objetivos impactados en integrantes de la <b>Cadena de Serpiente</b>.",
+    "Aumenta el crecimiento de ATQ base del arma actual un <b>32%</b>.",
+    "Después de usar <b>Abismo Absoluto</b>, reduce el daño que el nómada recibe un <b>10%</b> (<b>20%</b> en el modo individual) por <b>30</b> seg.",
+    "Cuando hay <b>1</b> integrante en la <b>Cadena de la Serpiente</b>, aumenta el índice de <b>conducción</b> del daño un <b>80%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Aumenta el daño final un <b>{0}%</b>.\nEl ATQ físico base del nómada aumenta hasta el valor más alto de su ATQ base físico/de fuego/de escarcha/eléctrico. Cuando el arma de la ranura principal es <b>Tortuga de Ónix</b>, aumenta el daño de ataque normal un <b>{1}%</b>.",
+      "values": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "",
+      "description": "Aumenta el daño final un <b>{0}%</b>.\nEl ATQ físico base del nómada aumenta hasta el valor más alto de su ATQ base físico/de fuego/de escarcha/eléctrico. Cuando el arma de la ranura principal es <b>Tortuga de Ónix</b>, aumenta el daño de ataque normal un <b>{1}%</b>.",
+      "values": [
+        15,
+        50
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nanocubierta I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Esmaltado Antiácido I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Armazón Reforzado I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Armazón Reforzado II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Armazón de nanofibras II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nanocubierta II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

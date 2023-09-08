@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerStavesMelee_Melee_name",
       "name": "Normaler Angriff",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Der Anwender schwingt den Stab am Boden, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>25.1%</b> des ANG +<b>1</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>18.8%</b> des ANG +<b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>30.4%</b> des ANG +<b>2</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>41.4%</b> des ANG +<b>2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>73.2%</b> des ANG +<b>4</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_AirAttack_name",
       "name": "Steigendes Sperrfeuer",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>32.5%</b> des ANG +<b>2</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>23.5%</b> des ANG +<b>1</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>25.5%</b> des ANG +<b>1</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>45.6%</b> des ANG +<b>2</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>47.7%</b> des ANG +<b>3</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_JumpAttack_name",
       "name": "Mondfall",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um „Mondfall“ auszulösen.\nVerursacht bei der Landung alle <b>0,2</b> Sek. Schaden bis zu einem Gesamtschaden von <b>57.2%</b> des ANG +<b>3</b>."
     },
     {
+      "id": "GA_FPlayerStavesMelee_Branch_name",
       "name": "Fokussierter Angriff",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um Variantenangriffe auszulösen. Dies verbraucht <b>300</b> Ausdauerpunkte.\nErster Angriff: Zieht Gegner vor dem Anwender heran, <b>lässt sie länger schweben</b> und verursacht alle <b>0,3</b> Sek. Schaden in Höhe von <b>16.1%</b> des ANG +<b>1</b> (bis zu <b>4</b>-mal).\nZweiter Angriff: Fügt am Zielort und Gegnern in der Nähe alle <b>0,3</b> Sek. Schaden in Höhe von <b>18.6%</b> des ANG +<b>1</b> zu."
     },
     {
+      "id": "GA_FPlayerStavesEvade_FrontAttack_name",
       "name": "Volt-Welle",
       "type": [
         "Perfect Dodge",
@@ -58,6 +63,7 @@
       "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Volt-Welle“ auszulösen.\nJeder Energieimpuls fügt Zielen Schaden in Höhe von <b>22.6%</b> des ANG + <b>1</b> zu.\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
     },
     {
+      "id": "GA_FPlayerStavesEvade_BackAttack_name",
       "name": "Tesserakt",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Ausweichende Explosion“ auszulösen.\nDies schießt eine Energiekugel nach vorne und fügt allen Zielen im Weg alle <b>0,3</b> Sek. Schaden in Höhe von <b>32.1%</b> des ANG +<b>2</b> zu (bis zu 5-mal).\nGewährt bei Verwendung <b>75</b> Waffenladungspunkte."
     },
     {
+      "id": "GA_FPlayerStavesSkill_name",
       "name": "Heiligtum",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Erzeugt einen Energieschild an der Position des Wanderers. Heilt Verbündete innerhalb des Schilds jede Sekunde um <b>81.7%</b> des ANG +<b>4</b> und verringert den von ihnen erlittenen Schaden für <b>10</b> Sek. um <b>3%</b>. Abklingzeit: <b>60</b> Sek."
     },
     {
+      "id": "GA_FPlayerStavesChangeSkill_Sucess_name",
       "name": "Hauch von Ruhe",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>79%</b> des ANG + <b>4</b> LP."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b>. Der Stab entfernt weiterhin Debuffs vom Wanderer und seinen Verbündeten und heilt Wanderer und Verbündete in der Nähe <b>7</b> Sek. lang um <b>79%</b> des ANG + <b>4</b> LP."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
+    "description": "Wenn die Waffe voll geladen ist, werden Ziele beim nächsten Angriff für <b>1</b> Sek. <b>stark gelähmt</b> und <b>6</b> Sek. lang elektrisiert. Die Buffs der Ziele werden entfernt und sie erleiden Schaden in Höhe von <b>106%</b> des ANG. Elektrisiere Ziele können für die nächsten <b>6</b> Sek. keine Buffs erhalten."
   },
   "advancement": [
     "Heilt alle Teammitglieder innerhalb von <b>10</b> Metern nach Einsetzen einer Ausweichfähigkeit um <b>100%</b> des ANG.",

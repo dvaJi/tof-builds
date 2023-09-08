@@ -19,6 +19,7 @@
   "charge": 7,
   "skills": [
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
       "name": "Thrust",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, swing the long spear to attack 5 times in a row.\nFirst Attack: Deal damage equal to <b>24.7%</b> of ATK plus <b>1</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>22.6%</b> of ATK plus <b>1</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>47.2%</b> of ATK plus <b>2</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>65.2%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nFifth Attack: Deal damage equal to <b>114.95%</b> of ATK plus <b>6</b> and knock the target back a significant distance."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Jumping Strike",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne, use normal attack to attack 4 times in a row in the air.\nFirst Attack: Deal damage equal to <b>27.4%</b> of ATK plus <b>1</b>.\nSecond Attack: Deal damage equal to <b>23.2%</b> of ATK plus <b>1</b>.\nThird Attack: Deal damage equal to <b>45.8%</b> of ATK plus <b>2</b>.\nFourth Attack: Deal damage equal to <b>110%</b> of ATK plus <b>6</b>."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
       "name": "Crashing Drive",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Crashing Drive.\nWhile falling, deal damage equal to <b>8%</b> of ATK plus <b>1</b> each hit. Upon landing, deal damage equal to <b>48.5%</b> of ATK plus <b>3</b> and knock the target down.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
       "name": "Spear Flurry",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "After the third normal attack, hold the normal attack button to trigger Spear Flurry.\nUpon hit, <b>strongly suspend</b> the target, dealing damage equal to <b>49.2%</b> of ATK plus <b>3</b>. Tap again to continue attacking the airborne target, dealing up to <b>98%</b> of ATK plus <b>5</b> damage to a single target."
     },
     {
+      "id": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>570%</b> of ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
       "name": "Flying Kick",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Kick.\nOnce hit the target, deal damage equal to <b>72%</b> of ATK plus <b>4</b>, knock the enemies back significantly, and <b>stun</b> enemies for <b>1</b> second or <b>0.5</b> seconds to Wanderers."
     },
     {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
       "name": "Lunging Smash",
       "type": [
         "Dodge",
@@ -74,6 +81,7 @@
       "description": "Use normal attack during the short period after dodging to trigger Lunging Smash.\nSlam the long spear into the ground, dealing damage equal to <b>52.8%</b> of ATK plus <b>3</b> and <b>strongly suspending</b> targets."
     },
     {
+      "id": "GA_FPlayerSpearSkillThu_SSR_name",
       "name": "Moonchaser",
       "type": [
         "Skill"
@@ -81,16 +89,17 @@
       "description": "<b>Strongly suspend</b> targets and go airborne, dealing damage equal to <b>127.5%</b> of ATK plus <b>7</b>. Cooldown: <b>25</b> seconds."
     },
     {
+      "id": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
       "name": "Thunderclap",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b>, then jump in the air and throw a thunderous spear that explodes on hitting the ground, dealing <b>296.7%</b> of ATK plus <b>16</b> damage and <b>strongly paralyzing</b> targets for <b>1</b> second."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b>, then jump in the air and throw a thunderous spear that explodes on hitting the ground, dealing <b>296.7%</b> of ATK plus <b>16</b> damage and <b>strongly paralyzing</b> targets for <b>1</b> second."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>106%</b> of ATK. Targets can't receive any buffs for the next <b>6</b> seconds."
+    "description": "When the weapon is fully charged, the next attack will <b>strongly paralyze</b> targets for <b>1</b> second and electrify them for <b>6</b> seconds, removing all their buffs and dealing damage equal to <b>106%</b> of ATK. Electrified targets can't receive any buffs for the next <b>6</b> seconds."
   },
   "advancement": [
     "Increase shatter by <b>15%</b>. After shattering the target's shield, increase all teammates' ATK by <b>15%</b> for <b>30</b> seconds. This cannot be stacked.",

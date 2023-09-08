@@ -1,5 +1,5 @@
 {
-  "_id": 13,
+  "_id": 14,
   "id": "lyra",
   "name": "Lyra",
   "weapon": "Vesper",
@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerArmMeleeBuff_name",
       "name": "Passiveffekt des normalen Vesper-Angriffs",
       "type": [
         "Passive"
@@ -26,6 +27,7 @@
       "description": "<span class=\"text-green\">Erleuchtung</span>: Bei einem Treffer fügt Vespers normaler Angriff ohne „Segnungsresonanz“ Zielen mit der <b>„Erleuchtung“-Markierung</b> zusätzlichen Schaden in Höhe der Anzahl an getragenen Wächtern x <b>6,4%</b> des ANG (nicht mehr als 38,4% x ANG insgesamt) zu. Dieser Schaden löst keine zusätzlichen Angriffseffekte aus und wird als Entladungs- und Waffenfähigkeitsschaden betrachtet.\n\nBei einem Treffer fügt ein normaler Vesper-Angriff ohne „Segnungsresonanz“ Zielen mit der <b>„Erleuchtung“-Markierung</b> zusätzlichen Schaden in Höhe der Anzahl der vom Wanderer und seinem Team getragenen Wächter x <b>4,6%</b> des ANG (nicht mehr als 36,8% x ANG insgesamt) zu. Dieser Schaden löst keine zusätzlichen Angriffseffekte aus und wird als Entladungs- und Waffenfähigkeitsschaden betrachtet.\n<span class=\"text-green\">Glühen</span>: Bei einem Treffer stellen alle von Vespers normalen Angriffen LP in Höhe von <b>15%</b> des ANG wieder her.\n<span class=\"text-green\">Geweihter Schlag</span>: Vespers Luftangriff und Akkumulator können 60% der Ladung zu „Zertrümmern“ umwandeln.\n<span class=\"text-green\">Wächter</span>: Pro <b>15%</b> verlorener LP oder für je <b>300</b> erhaltene Waffenladung werden bis zu <b>5</b> Erleuchtungswächter für dich selbst erhalten (kann im Nebenhand-Slot produziert werden). Der Erleuchtungswächter hält <b>25</b> Sek. an. Wenn deine eigenen Erleuchtungswächter voll sind, greifen die neuen Erleuchtungswächter die Gegner an und verursachen physischen Schaden in Höhe von <b>120%</b> des ANG und verschwinden dann. Der Schaden löst keine zusätzlichen Angriffseffekte aus.\n\nHinweis: In „Vergessene Sinnestäuschung“ wird Vesper nicht als Unterstützungswaffe angesehen."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_Melee_name",
       "name": "Normaler Vesperangriff",
       "type": [
         "Attack"
@@ -33,6 +35,7 @@
       "description": "Wenn der Anwender am Boden Vesper nutzt, kann er 5-mal hintereinander angreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>81.6%</b> des ANG +<b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>59.1%</b> des ANG +<b>3</b> und stößt das Ziel deutlich zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>123.9%</b> des ANG +<b>7</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>173%</b> des ANG +<b>9</b> und lässt das Ziel schweben.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>196.4%</b> des ANG +<b>10</b> und schleudert das Ziel hoch."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_AirAttack_name",
       "name": "Frust",
       "type": [
         "Jump",
@@ -41,6 +44,7 @@
       "description": "Setze in der Luft einen normalen Angriff ein, um „Frust“ zu entfesseln. Jeder Schlag verursacht Schaden in Höhe von <b>33.2%</b> des ANG +<b>2</b> und verbraucht <b>10</b> Ausdauer. Der letzte Treffer verursacht Schaden in Höhe von <b>556.6%</b> des ANG +<b>29</b> und schleudert das Ziel hoch.\nBeim Entfesseln von „Frust“ wird das Ziel, wenn möglich, geschnappt und auf den Boden geschleudert, was insgesamt Schaden in Höhe von <b>124.5%</b> des ANG +<b>7</b> verursacht."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_PowerAttack_name",
       "name": "Akkumulator",
       "type": [
         "Attack"
@@ -48,6 +52,7 @@
       "description": "Tippe und halte den normalen Angriff und erhalte bis zu <b>3</b> Ladungen. Bei einem Treffer werden Ziele <b>länger schweben gelassen</b> und während des Akkumulatorangriffs besteht Immunität gegen Schaden und Kontrolleffekte. Das Loslassen vor einem eingesteckten Treffer kann „Trugbild“ auslösen.\nLadungstreffer Phase 1: Verursacht Schaden in Höhe von <b>96%</b> des ANG +<b>5</b>.\nLadungstreffer Phase 2: Verursacht Schaden in Höhe von <b>223%</b> des ANG +<b>12</b>.\nLadungstreffer Phase 3: Verursacht Schaden in Höhe von <b>360.5%</b> des ANG +<b>19</b>."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_Branch_name",
       "name": "Schimmer",
       "type": [
         "Hold: Attack"
@@ -55,6 +60,7 @@
       "description": "Tippe und halte den normalen Angriff während normaler Angriffe oder nach dem Ausweichen gedrückt, um „Schimmer“ auszulösen. Jeder Schlag verursacht Schaden in Höhe von <b>20%</b> des ANG +<b>1</b> und verbraucht <b>10</b> Ausdauer. Taste loslassen, um „Akkumulator“ auszulösen."
     },
     {
+      "id": "GA_FPlayerArmMeleePhy_JumpAttack_name",
       "name": "Stampfen",
       "type": [
         "Jump",
@@ -63,6 +69,7 @@
       "description": "Drücke und halte in der Luft den normalen Angriff, um 3 Ladungen in der Luft auszulösen. Taste loslassen, um auf den Boden zu stampfen und Ziele <b>länger schweben zu lassen</b>. Durch Loslassen vor einem eingesteckten Treffer kann „Trugbild“ ausgelöst werden.\nAufgeladener Angriff Phase 1: Verursacht Schaden in Höhe von <b>166.3%</b> des ANG +<b>9</b>.\nAufgeladener Angriff Phase 2: Verursacht Schaden in Höhe von <b>288.2%</b> des ANG +<b>15</b>.\nAufgeladener Angriff Phase 3: Verursacht Schaden in Höhe von <b>454.4%</b> des ANG +<b>24</b>."
     },
     {
+      "id": "GA_FPlayerArmEvadePhy_BackAttack_name",
       "name": "Gedankenkontrolle",
       "type": [
         "Dodge",
@@ -71,6 +78,7 @@
       "description": "Führe nach dem Ausweichen einen normalen Angriff aus, um das Ziel für <b>2</b> Sek. heranzuziehen und Schaden in Höhe von <b>261.4%</b> des ANG +<b>14</b> zu verursachen. Durch das Drücken und Halten des normalen Angriffs nach dem Ausweichen kann <b>Schimmer</b> ausgelöst werden, nachdem <b>Gedankenkontrolle</b> entfesselt wurde."
     },
     {
+      "id": "GA_FPlayerArmEvadePhy_Evade_name",
       "name": "Ausweichen",
       "type": [
         "Dodge"
@@ -78,13 +86,15 @@
       "description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Werde für <b>0,5</b> Sek. immun gegen Trefferlähmung, während du ausweichst und stelle <b>250</b> Ausdauer wieder her."
     },
     {
+      "id": "GA_FPlayerArmSkillPhy_Pas_name",
       "name": "Vergebungswächter",
       "type": [
         "Skill"
       ],
-      "description": "<span class=\"text-green\">Vergebungswächter</span>: Wenn der Heileffekt überfließt, wird ein LP-Schild in Höhe von bis zu <b>60%</b> der Max. LP verliehen. Wenn Vesper Vergebungswächter besitzt, werden unter verschiedenen Resonanzen unterschiedliche Wächtereffekte aktiviert.\n<span class=\"text-green\">Segnender Wächter</span>: Die Fähigkeit wird mit „<b>Kometenschweif</b>“ ersetzt und der Wanderer erhält keine weiteren Erleuchtungswächter, die dann zu Vergebungswächtern für Teammitglieder umgewandelt werden. Verdiene einen Vergebungswächter pro <b>15%</b> der geheilten Max. LP und verleiht jedem Teammitglied bis zu 1 Vergebungs-Wächter. Wenn jedes Teammitglied einen besitzt, verursacht der Vergebungswächter an einem Gegner physischen Schaden in Höhe von <b>120%</b> des ANG und verschwindet dann. Dieser Schaden löst keine zusätzlichen Angriffseffekte aus. Außerdem werden Max. LP um <b>12,5%</b> an selbst und den Teammitglied erhöht. Nicht stapelbar.\n <span class=\"text-green\">Angriffswächter</span>: Wenn eine Vesper-Fähigkeit trifft, wird sofort ein Schild in Höhe von <b>30%</b> der Max. LP erschaffen. Abklingzeit: <b>30</b> Sek.\n<span class=\"text-green\">Standhaftigkeitswächter</span>: Wenn eine Vesper-Fähigkeit trifft, wird sofort Heilung erhalten, die <b>20</b> Sek. lang pro Sekunde <b>2%</b> der Max. LP wiederherstellt. Abklingzeit: <b>30</b> Sek.\n <span class=\"text-green\">Balancewächter</span>: Wenn die LP über <b>50%</b> liegen, wird „Zertrümmern“ um <b>20%</b> erhöht. Wenn die LP unter <b>50%</b> liegen, wird der Endschaden um <b>10%</b> und „Zertrümmern“ um <b>10%</b> erhöht."
+      "description": "<span class=\"text-green\">Vergebungswächter</span>: Wenn der Heileffekt über die LP hinausgeht, wird ein LP-Schild in Höhe von bis zu <b>60%</b> der max. LP verliehen. Wenn Vesper „Vergebungswächter“ besitzt, werden unter verschiedenen Resonanzen unterschiedliche Wächtereffekte aktiviert.\n<span class=\"text-green\">Segnender Wächter</span>: Die Fähigkeit wird mit <b>Kometenschweif</b> ersetzt und der Wanderer erhält keine weiteren Erleuchtungswächter, die dann für Teammitglieder zu „Vergebungswächter“ umgewandelt werden. Gewährt 1 „Vergebungswächter“ pro <b>15%</b> der geheilten max. LP und verleiht jedem Teammitglied bis zu 1 „Vergebungswächter“. Wenn jedes Teammitglied einen besitzt, fügt „Vergebungswächter“ einem Gegner physischen Schaden in Höhe von <b>120%</b> des ANG zu und verschwindet dann. Dieser Schaden löst keine zusätzlichen Angriffseffekte aus. Außerdem werden die eigenen max. LP und die der Teammitglieder um <b>12,5%</b> erhöht. Nicht stapelbar.\n<span class=\"text-green\">Angriffsschutz</span>: Wenn eine Vesper-Fähigkeit trifft, wird sofort ein Schild in Höhe von <b>30%</b> der max. LP erzeugt. Abklingzeit: <b>30</b> Sek.\n<span class=\"text-green\">Standhaftigkeitswächter</span>: Wenn eine Vesper-Fähigkeit trifft, wird sofort Heilung gewährt, die <b>20</b> Sek. lang pro Sekunde <b>2%</b> der max. LP wiederherstellt. Abklingzeit: <b>30</b> Sek.\n<span class=\"text-green\">Balancewächter</span>: Wenn die LP über <b>50%</b> liegen, wird „Zertrümmern“ um <b>20%</b> erhöht. Wenn die LP unter <b>50%</b> liegen, wird der Endschaden um <b>10%</b> und „Zertrümmern“ um <b>10%</b> erhöht."
     },
     {
+      "id": "GA_FPlayerArmPublishSkillPhy_name",
       "name": "Sternenfall",
       "type": [
         "Skill"
@@ -92,6 +102,7 @@
       "description": "Springe auf das Ziel zu, verursache Schaden in Höhe von <b>702.1%</b> des ANG +<b>37</b> und lasse das Ziel <b>länger schweben</b>. Belegt das Ziel für <b>18 Sek.</b> mit einer „Erleuchtung“-Markierung. Abklingzeit: <b>20</b> Sek."
     },
     {
+      "id": "GA_FPlayerArmLawSkillPhy_name",
       "name": "Kometenschweif",
       "type": [
         "Skill"
@@ -99,6 +110,7 @@
       "description": "Stampfe auf den Boden und Ziele vor dir werden <b>stark hochgeschleudert</b>. Dabei wird Schaden in Höhe von <b>702.1%</b> des ANG +<b>37</b> verursacht und es werden bis zu <b>3</b> <b>Klingen</b> für <b>75</b> Sek. herbeigerufen (bis zu 1 Klinge alle 2 Meter). Diese Fähigkeit kann bis zu <b>3</b>-mal eingesetzt werden und hat jedes Mal eine Abklingzeit von <b>20</b> Sek. Wenn im Kampfbereich 2 <b>Klingen</b> existieren, wird ein <b>„Heller Glanz“</b> erschaffen. Wenn eine <b>Klinge</b> berührt wird, heilt sie Ziele im Bewegungsradius und stellt LP in Höhe von <b>25%</b> des ANG des Ziels wieder her. Wenn 3 <b>Klingen</b> existieren, wird eine <b>Galaxie</b> erschaffen. Wenn eine <b>Klinge</b> berührt wird, fügt sie Zielen im Bewegungsradius Schaden in Höhe von <b>150%</b> des ANG x Bewegungsdistanz / <b>5</b> m zu."
     },
     {
+      "id": "GA_FPlayerArmChangeSkillPhy_Success_name",
       "name": "Singsang",
       "type": [
         "Discharge"
@@ -108,7 +120,7 @@
   ],
   "weapon_type": {
     "name": "Verwunden",
-    "description": "Wenn die Waffe voll geladen ist, verwundet der nächste Angriff Gegner für <b>7</b> Sek., erhöht den von ihnen erlittenen Schaden um <b>20%</b> und fügt ihnen Schaden in Höhe von <b>{1}%</b> des ANG zu. Im <yellow_lbl_14_1>Teamspiel</> erleiden verwundete Ziele <b>20%</b> physischen Schaden zusätzlich."
+    "description": "Wenn die Waffe voll geladen ist, verwundet der nächste Angriff Gegner für <b>7</b> Sek., erhöht den von ihnen erlittenen Schaden um <b>20%</b> und fügt ihnen Schaden in Höhe von <b>{1}%</b> des ANG zu. Im <yellow_lbl_14_1>Teamspiel</> wird der physische Schaden, der verwundeten Zielen zugefüht wird, um <b>20%</b> erhöht."
   },
   "weapon_resonance": {
     "name": "Physische Resonanz",
@@ -119,7 +131,7 @@
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
     "Erhöht den gesamten durch Wächter verursachten Schaden um <b>20%</b> und den Endschaden des bewachten Ziels für <b>10 Sek.</b> um <b>15%</b>, wenn der Anwender unter dem Effekt von „Segnungsresonanz“ eine beliebige Waffenfähigkeit oder Entladung auslöst.",
     "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
-    "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du <b>1</b> Chance, tödlichen Schaden für den Träger und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt <b>5%</b> der max. LP wieder her. Nicht verfügbar in der Apex-Liga.\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er <b>2</b> Chancen, tödlichen Schaden zu negieren. Kann bis zu <b>5</b>-mal gestapelt werden. Nachdem der Träger tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und <b>5%</b> der max. LP werden wiederhergestellt. Nicht verfügbar in der Apex-Liga.",
+    "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du <b>1</b> Chance, tödlichen Schaden für den Anwender und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt <b>5%</b> der max. LP wieder her. Nicht in der Apex-Liga verfügbar.\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er <b>2</b> Chancen, tödlichen Schaden zu negieren. Kann bis zu <b>5</b>-mal gestapelt werden. Nachdem der Anwender tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und <b>5%</b> der max. LP werden wiederhergestellt. Nicht in der Apex-Liga verfügbar.",
     "Wenn du eine beliebige Waffenfähigkeit oder Entladung auslöst, hängt die Erhöhung des Endschadens und der Heilung von der Anzahl der Wächter ab. Jeder Wächter erhöht den endgültigen Schaden und Heilung um <b>1.6%</b>, bis zu <b>8%</b> für <b>25 Sek.</b>"
   ],
   "traits": [

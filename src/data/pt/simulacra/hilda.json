@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerCannonMelee_Melee_name",
       "name": "Ataque Normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Use o botão de ataque normal para acionar o modo de mira. Segure o botão de ataque normal para atirar sem parar, até no máximo <b>40</b> projéteis. Cada tiro causa dano de <b>11.4%</b> do ATQ + <b>1</b>. Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes)."
     },
     {
+      "id": "GA_FPlayerCannonSkill_name",
       "name": "Torreta",
       "type": [
         "Skill"
@@ -33,11 +35,12 @@
       "description": "Aciona o modo torreta e dispara grandes orbes de energia. Cada um causa dano de <b>213.3%</b> do ATQ + <b>11</b> e lança o alvo no ar. Enquanto instala a torreta, fica imune a interrupção e efeitos de controle. Tempo de recarga: <b>3.5</b> seg."
     },
     {
+      "id": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
       "name": "Feixe Gélido",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e dispara um feixe gélido. Causa dano de <b>329.2%</b> do ATQ + <b>17</b> e inflige um efeito de <b>congelamento forte</b> durante <b>3</b> segundos. Além disso, reduz a resistência a gelo do alvo em <b>50%</b> durante <b>10</b> segundos."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e dispara um feixe gélido. Causa dano de <b>329.2%</b> do ATQ + <b>17</b> e inflige um efeito de <b>congelamento forte</b> durante <b>3</b> segundos. Além disso, reduz a resistência a gelo do alvo em <b>50%</b> durante <b>10</b> segundos."
     }
   ],
   "weapon_type": {

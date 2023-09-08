@@ -19,6 +19,7 @@
   "charge": 6,
   "skills": [
     {
+      "id": "GA_FPlayerHammerMelee_Melee_name",
       "name": "Normaler Angriff",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Wenn der Anwender am Boden den Vorschlaghammer schwingt, kann er 4-mal hintereinander angreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>76.3%</b> des ANG +<b>4</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>62.1%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>157.4%</b> des ANG +<b>8</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>263.8%</b> des ANG +<b>14</b> und schleudert das Ziel hoch.\nWenn der Anwender den Hammer schwingt, während „Rage“ aktiv ist, kann er 4-mal hintereinander angreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>{8}%</b> des ANG +<b>{9}</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>{10}%</b> des ANG +<b>{11}</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>{12}%</b> des ANG +<b>{13}</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>{14}%</b> des ANG +<b>{15}</b> und lässt das Ziel <b>länger schweben</b>."
     },
     {
+      "id": "GA_FPlayerHammerMelee_AirAttack_name",
       "name": "Stampfen",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um „Sprungbombe“ auszulösen. Verursacht Schaden in Höhe von <b>121.7%</b> des ANG +<b>6</b> und lässt das Ziel schweben.\nWährend „Rage“ aktiv ist, verursachst du Schaden in Höhe von <b>133.9%</b> des ANG +<b>7</b> und lässt das Ziel <b>länger schweben</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
+      "id": "GA_FPlayerHammerMelee_JumpAttack_name",
       "name": "Schockwelle",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Eine Schockwelle wird ausgelöst durch Tippen und Halten in der Luft, bei einem Doppelsprung, durch kurzes Tippen in der Luft, wenn sich Ziele in der Nähe befinden, beim Klettern, beim Rückwärtsspringen oder durch Angriffe mit dem Jetpack. Lässt das Ziel <b>4</b>-mal <b>länger schweben</b> und verursacht jedes Mal Schaden in Höhe von <b>34.8%</b> des ANG +<b>2</b>. Ausdauerkosten <b>250</b>.\nWährend „Rage“ aktiv ist, lässt „Schockwelle“ das Ziel <b>5</b>-mal <b>länger schweben</b> und verursacht jedes Mal Schaden in Höhe von <b>38.3%</b> des *ANG +<b>2</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt <b>600%</b> des Schadens."
     },
     {
+      "id": "GA_FPlayerHammerSneak_name",
       "name": "Schleichattacke",
       "type": [
         "Croch",
@@ -50,6 +54,7 @@
       "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>427.5%</b> des ANG +<b>23</b> verursacht."
     },
     {
+      "id": "GA_FPlayerHammerPower_name",
       "name": "Gezielter Aufprall",
       "type": [
         "Hold: Attack"
@@ -57,6 +62,7 @@
       "description": "Tippe und halte den normalen Angriff, um „Gezielter Aufprall“ auszulösen (kann bis zu 3-mal gestapelt werden). Gewährt während des Aufladens Immunität gegen alle Kontrolleffekte und „Hyperkörper“.\nErster Stapel: Verursacht Schaden in Höhe von <b>110%</b> des ANG +<b>6</b> und lässt das Ziel schweben.\nZweiter Stapel: Verursacht Schaden in Höhe von <b>276%</b> des ANG +<b>15</b> und lässt das Ziel <b>länger schweben</b>.\nDritter Stapel: Verursacht Schaden in Höhe von <b>518%</b> des ANG +<b>27</b> und lässt das Ziel <b>länger schweben</b>.\nWährend „Rage“ aktiv ist, halte die normale Angriffstaste gedrückt, um „Rasende Schläge“ auszulösen. Dies verursacht Schaden in Höhe von <b>501.6%</b> des ANG +<b>26</b> und lässt das Ziel <b>länger schweben</b>."
     },
     {
+      "id": "GA_FPlayerHammerEvade_FrontAttack_name",
       "name": "Springender Aufprall",
       "type": [
         "Dodge"
@@ -64,6 +70,7 @@
       "description": "Benutze die Pfeiltasten und die Ausweichen-Taste, um „Springender Aufprall“ auszulösen. Dadurch wird eine Schockwelle entfesselt, die den Gegner <b>4</b> Mal schweben lässt, um Schaden in Höhe von <b>161.6%</b> des ANG +<b>9</b> zu verursachen."
     },
     {
+      "id": "GA_FPlayerHammerEvade_BackAttack_name",
       "name": "Weltenspalter",
       "type": [
         "Dodge",
@@ -72,6 +79,7 @@
       "description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Weltenspalter“ auszulösen. Dadurch werden <b>3</b> Schockwellen nach vorne geschickt, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG +<b>3</b> verursachen und Ziele schweben lassen.\nWährend „Rage“ aktiv ist, feuerst du <b>5</b> Schockwellen nach vorne, die jeweils Schaden in Höhe von <b>52.4%</b> des ANG +<b>3</b> verursachen und das Ziel schweben lassen."
     },
     {
+      "id": "GA_FPlayerHammerSkill_name",
       "name": "Rage",
       "type": [
         "Skill"
@@ -79,11 +87,12 @@
       "description": "Wechseln, um „Rage“ zu aktivieren und den verursachten Schaden <b>25</b> Sek. lang zu erhöhen.\nWährend „Rage“ aktiv ist, lösen Fähigkeiten „Zorn der Lüfte“ aus. Dies verursacht Schaden in Höhe von <b>219%</b> des ANG +<b>12</b>, lässt das Ziel <b>länger schweben</b> und erzeugt einen Luftstrom auf dem Boden. Solange man im Luftstrom steht, kostet das Ausweichen nichts. Abklingzeit: <b>45</b> Sek. (Abklingzeit von „Zorn der Lüfte“: <b>10</b> Sek)."
     },
     {
+      "id": "GA_FPlayerHammerIceChangeSkill_Sucess_name",
       "name": "Zerfleischen",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe Ziele in der Nähe <b>länger schweben</b> gelassen und <b>alle Debuffs vom Anwender entfernt</b>. Dies verursacht Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b>. Außerdem wird ein Vorschlaghammer beschworen, der auf Ziele in der Nähe fällt und Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b> verursacht."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe Ziele in der Nähe <b>länger schweben</b> gelassen und <b>alle Debuffs vom Wanderer entfernt</b>. Dies verursacht Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b>. Außerdem wird ein Vorschlaghammer beschworen, der auf Ziele in der Nähe fällt und Schaden in Höhe von <b>153.3%</b> des ANG +<b>8</b> verursacht."
     }
   ],
   "weapon_type": {

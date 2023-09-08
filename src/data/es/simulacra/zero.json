@@ -19,6 +19,7 @@
   "charge": 13,
   "skills": [
     {
+      "id": "GA_FPlayerCubeMelee_Melee_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Mientras estás en el suelo, manipula el cubo para atacar 5 veces seguidas.\nPrimer ataque: Inflige daño igual a <b>46.7%</b> del ATQ más <b>2</b>.\nSegundo ataque: Inflige daño igual a <b>38.2%</b> del ATQ más <b>2</b>.\nTercer ataque: Inflige daño igual a <b>118.5%</b> del ATQ más <b>6</b>.\nCuarto ataque: Inflige daño igual a <b>79.6%</b> del ATQ más <b>4</b>.\nQuinto ataque: Inflige daño igual a <b>80.9%</b> del ATQ más <b>4</b> hasta 3 veces y <b>lanza</b> al objetivo.\n<b>Pasiva: Si los ataques normales impactan 6 veces en los objetivos, obtienes 1 cubo. Puedes almacenar hasta 5 cubos.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_AirAttack_name",
       "name": "Misil de Omnio",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Mientras estás en el aire, usa el ataque normal para activar la energía dentro del cubo, lo que dispara hasta <b>5</b> misiles e inflige daño igual a <b>59.3%</b> del ATQ más <b>3</b>. Consume hasta <b>250</b> de resistencia.\n<b>Pasiva: Si el nómada tiene cubos almacenados, consume todos los cubos para disparar Misiles de Omnio a los objetivos e infligirles daño.</b>"
     },
     {
+      "id": "GA_FPlayerCubeMelee_JumpAttack_name",
       "name": "Sobrecarga de Energía",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "En el aire o luego de saltar una vez, usa el ataque normal para activar Sobrecarga de Energía.\nAl aterrizar, lanza una onda de choque hacia adelante e inflige hasta el <b>23.4%</b> del ATQ más <b>1</b> de daño a los objetivos en su camino."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Branch_name",
       "name": "Impacto de Omnio",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Impacto de Omnio.\nUn pilar de energía lanza a los objetivos cercanos al aire e inflige daño equivalente al <b>68.4%</b> del ATQ más <b>4</b>. El pilar dura 5 seg e inflige daño igual a <b>28.5%</b> del ATQ más <b>2</b> a los objetivos cercanos cada segundo."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas1_name",
       "name": "Centinela Energético",
       "type": [
         "Passive"
@@ -57,6 +62,7 @@
       "description": "Los cubos que orbitan al nómada infligen daño equivalente al <b>9.7%</b> del ATQ más <b>1</b> a los enemigos."
     },
     {
+      "id": "GA_FPlayerCubeMelee_Pas2_name",
       "name": "Misil de Energía",
       "type": [
         "Passive"
@@ -64,6 +70,7 @@
       "description": "Cuando el nómada utiliza Misil de Omnio y Sobrecarga de Energía, también dispara los cubos que le orbitan e inflige daño igual al <b>48.5%</b> del ATQ más <b>3</b> al objetivo."
     },
     {
+      "id": "GA_FPlayerCubeEvade_Evade_name",
       "name": "Sobrecarga Espiritual",
       "type": [
         "Dodge"
@@ -71,6 +78,7 @@
       "description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante <b>0.5</b> seg.\nSi el nómada tiene menos de <b>5</b> cubos, cada evasión tiene un <b>40%</b> probabilidad de restaurar 1 intento de evasión.\nLas evasiones exitosas no interrumpen los combos de ataques normales.\n<b>Pasiva: Gana un cubo por cada evasión aérea exitosa.</b>"
     },
     {
+      "id": "GA_FPlayerCubeSkill_name",
       "name": "Escudo de Omnio",
       "type": [
         "Skill"
@@ -78,11 +86,12 @@
       "description": "Crea un escudo para ti y los aliados cercanos para bloquear hasta <b>800%</b> del ATQ en daño por <b>10</b> seg, causa <b>124.9%</b> del ATQ más <b>8</b> de daño a los objetivos cercanos y los <b>lanza fuerte</b>. Cada cubo en posesión cuando se usa esta habilidad añade <b>160%</b> del ATQ al escudo máximo y agota el cubo. Enfriamiento: <b>60</b> seg."
     },
     {
+      "id": "GA_FPlayerCubeChangeSkill_Success_name",
       "name": "Onda de Omnio",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y otorga <b>5</b> cubos; luego, libera los <b>5</b> cubos junto con una Onda de Choque. Esta Onda de Choque inflige daño igual a <b>171%</b> del ATQ más <b>9</b> a los objetivos cercanos, y <b>los lanza fuerte</b> al aire. Además, cada cubo inflige daño igual a <b>48.5%</b> del ATQ más <b>3</b>. Si hay aliados cerca, los aliados y el portador obtienen inmunidad al daño por <b>3</b> seg."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y otorga <b>5</b> cubos; luego, libera los <b>5</b> cubos junto con una Onda de Choque. Esta Onda de Choque inflige daño igual a <b>171%</b> del ATQ más <b>9</b> a los objetivos cercanos, y <b>los lanza fuerte</b> al aire. Además, cada cubo inflige daño igual a <b>48.5%</b> del ATQ más <b>3</b>. Si hay camaradas cerca, ellas y el portador obtienen inmunidad al daño por <b>3</b> seg."
     }
   ],
   "weapon_type": {

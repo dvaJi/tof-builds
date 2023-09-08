@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Melee_name",
       "name": "Spark Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, tekan tombol Serangan Biasa untuk memerintahkan Spark menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG dengan total sebesar <b>84.6%</b> ATK plus <b>4</b> kepada setiap target.\nSerangan Kedua: Menimpakan DMG dengan total sebesar <b>93%</b> ATK plus <b>5</b> kepada setiap target.\nSerangan Ketiga: Menimpakan DMG dengan total sebesar <b>101.5%</b> ATK plus <b>5</b> kepada setiap target.\nSerangan Keempat: Menimpakan DMG dengan total sebesar <b>109.9%</b> ATK plus <b>6</b> kepada setiap target.\nSerangan Kelima: Menimpakan DMG dengan total sebesar <b>253.7%</b> ATK plus <b>13</b> kepada setiap target dan membuat target <b>Terpental Ke Atas</b>."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Jump",
@@ -34,13 +36,15 @@
       "description": "Saat di udara, tekan tombol Serangan Biasa untuk memerintahkan Spark menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG dengan total sebesar <b>97.1%</b> ATK plus <b>5</b> kepada setiap target.\nSerangan Kedua: Menimpakan DMG dengan total sebesar <b>106.8%</b> ATK plus <b>6</b> kepada setiap target.\nSerangan Ketiga: Menimpakan DMG dengan total sebesar <b>121.3%</b> ATK plus <b>6</b> kepada setiap target.\nSerangan Keempat: Menimpakan DMG dengan total sebesar <b>145.6%</b> ATK plus <b>8</b> kepada setiap target."
     },
     {
-      "name": "Kena Kau!",
+      "id": "GA_FPlayerFunnelMeleeFire_AimAttack_name",
+      "name": "Ashiap!",
       "type": [
         "Hold: Attack"
       ],
       "description": "Tekan dan tahan Serangan Biasa atau lakukan ini setelah Lockdown Zone terpicu untuk menembakkan laser panas secara terus-menerus yang akan membakar musuh yang tertembak, menimpakan DMG sebesar <b>40%</b> ATK plus <b>2</b>. Mengonsumsi Stamina Wanderer."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_JumpAttack_name",
       "name": "Blazing Dive",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Tekan dan tahan Serangan Biasa saat di udara untuk memicu Blazing Dive.\nMenyelimuti tubuh dengan lapisan energi, lalu terjun ke tanah dengan cepat, menimpakan DMG sebesar <b>172.1%</b> ATK plus <b>9</b> ke target di sekitar."
     },
     {
+      "id": "GA_FPlayerFunnelMeleeFire_Branch_name",
       "name": "Lockdown Zone",
       "type": [
         "Attack",
@@ -57,6 +62,7 @@
       "description": "Setelah Serangan Biasa kedua, tahan tombol selama serangan apa pun untuk menimpakan DMG sebesar <b>40%</b> ATK plus <b>2</b> kepada target. Mengurung dan membakar target yang terkunci selama <b>3</b> detik dan menimpakan DMG sebesar <b>26.2%</b> ATK plus <b>1</b> kepada target tersebut tiap detik (tidak berlaku pada Boss)."
     },
     {
+      "id": "GA_FPlayeFunnelEvadeFire_FrontAttack_name",
       "name": "Go, Dolly!",
       "type": [
         "Dodge",
@@ -65,6 +71,7 @@
       "description": "Melempar Dolly setelah menghindar. Dolly akan aktif selama <b>10</b> detik, menarik musuh di dekatnya dan menimpakan DMG sebesar <b>84.6%</b> ATK plus <b>4</b> kepada mereka, serta melakukan Taunt selama <b>1,5</b> detik, menyebabkan musuh mengalihkan serangan mereka ke Dolly (tidak dapat Taunt musuh saat berada dalam tim)."
     },
     {
+      "id": "GA_FPlayerFunnelSkillFire_name",
       "name": "Sparkling Collider",
       "type": [
         "Skill"
@@ -72,11 +79,12 @@
       "description": "Spark menembakkan Spark yang aktif 15 detik dan memantul di antara target dan Wanderer. Saat menghantam target, Spark akan memperlambatnya selama <b>4</b> detik dengan CD <b>15</b> detik. Makin jauh jarak yang ditempuh Spark, makin besar DMG yang ditimpakannya. Saat menghantam target, menimpakan DMG yang nilai maksimalnya sebesar <b>350%</b> ATK plus <b>37</b> dan mengakibatkan Emblazen selama <b>25</b> detik pada target. Di waktu yang sama, Spark juga akan menembakkan 4 peluru yang masing-masing menimpakan DMG sebesar <b>50%</b> ATK plus <b>3</b> kepada targetnya. Serangan Biasa Spark menimpakan DMG <b>110%</b> lebih besar kepada target yang terkena Emblazen. Jika target sedang terbakar, menerapkan Burn atau Ignite satu kali lagi dan menimpakan DMG tambahan sebesar <b>100%</b> dari DMG total yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung bersamaan). CD penghitungan hasil adalah <b>6</b> detik dan CD Skill ini adalah <b>30</b> detik.\n<b>Pasif</b>: Saat Spark aktif, setiap kali Spark Attack menimpakan DMG, Wanderer akan mendapatkan <b>1</b> Heat dengan CD <b>0,9</b> detik, maks <b>8</b> Heat. Setelah Heat mencapai batas tertingginya, Wanderer akan mendapatkan Ultimate Heat yang akan meningkatkan Flame ATK sebesar <b>25%</b> selama <b>25</b> detik."
     },
     {
+      "id": "GA_FPlayerFunnelChangeSkillFire_Success_name",
       "name": "Supernova",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>. Spark memasuki status Charged dan akan menembakkan laser panas berarea luas ke lokasi target secara terus-menerus hingga akhirnya meledak. Menimpakan DMG sebesar <b>750%</b> ATK plus <b>39</b>. Jika target sedang terbakar, menerapkan Burn atau Ignite satu kali lagi dan menimpakan DMG tambahan sebesar <b>100%</b> dari DMG total yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung bersamaan). CD penghitungan hasil adalah <b>6</b> detik. Saat skill ini aktif, kamu kebal terhadap DMG selama <b>2,6</b> detik (tidak berlaku di Apex League)."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>. Spark memasuki status Charged dan akan menembakkan laser panas berarea luas ke lokasi target secara terus-menerus hingga akhirnya meledak. Menimpakan DMG sebesar <b>750%</b> ATK plus <b>39</b>. Jika target sedang terbakar, menerapkan Burn atau Ignite satu kali lagi dan menimpakan DMG tambahan sebesar <b>100%</b> dari DMG total yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung bersamaan). CD penghitungan hasil adalah <b>6</b> detik. Saat skill ini aktif, kamu kebal terhadap DMG selama <b>2,6</b> detik (tidak berlaku di Apex League)."
     }
   ],
   "weapon_type": {

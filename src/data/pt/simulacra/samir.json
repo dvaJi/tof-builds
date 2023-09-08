@@ -19,6 +19,7 @@
   "charge": 10.7,
   "skills": [
     {
+      "id": "GA_FPlayerDgunMeleeThu_Melee_name",
       "name": "Tiro Duplo",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\nPrimeiro ataque: causa dano total de <b>47.1%</b> do ATQ + <b>2</b>.\nSegundo ataque: causa dano total de <b>35.8%</b> do ATQ + <b>2</b>.\nTerceiro ataque: causa dano total de <b>119.7%</b> do ATQ + <b>6</b>.\nQuarto ataque: causa dano total de <b>113.1%</b> do ATQ + <b>6</b>.\nQuinto ataque: causa dano total de <b>154%</b> do ATQ + <b>8</b> e <b>lança o alvo no ar</b>."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_AirAttack_name",
       "name": "Chuva de Balas",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar, use o botão de ataque normal para atirar sem parar no chão. Cada disparo causa dano de <b>50.6%</b> do ATQ + <b>3</b> e custa <b>150</b> de vigor."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_PowerAttack_name",
       "name": "Rajada de Energia",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Segure o botão de ataque para continuar atirando. Cada acerto causa dano mínimo de <b>23%</b> do ATQ + <b>1</b>."
     },
     {
+      "id": "GA_FPlayerDgunMeleeThu_JumpAttack_name",
       "name": "Chute Fantasma",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "No ar, segure o botão de ataque normal para usar Chute Fantasma. Derruba o alvo e causa dano de <b>70.5%</b> do ATQ + <b>4</b>. Ao aterrissar, causa dano de <b>98.7%</b> do ATQ + <b>5</b> a alvos próximos e os <b>lança alto no ar</b>."
     },
     {
+      "id": "GA_FPlayeDgunEvadeThu_FrontAttack_name",
       "name": "Esquiva Desacelerante",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Use o botão de ataque normal após se esquivar para <b>suspender muito</b> os alvos e causar dano de <b>122.6%</b> do ATQ + <b>6</b>."
     },
     {
+      "id": "GA_FPlayerDgunSkillThu_name",
       "name": "Campo Elétrico",
       "type": [
         "Skill"
@@ -64,16 +70,17 @@
       "description": "Gera um escudo energético na posição do alvo que emite feixes dentro da barreira. Causa dano de <b>269.8%</b> do ATQ + <b>14</b>. O último golpe <b>suspende muito</b> os alvos. Tempo de recarga: <b>45</b> seg."
     },
     {
+      "id": "GA_FPlayerDgunChangeSkillThu_Sucess_name",
       "name": "Área Relampejante",
       "type": [
         "Discharge"
       ],
-      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia</span> for desencadeada, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos no alcance, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
+      "description": "Quando a <span class=\"text-red\">carga da arma</span> estiver completa ou <span class=\"text-red\">Phantasia for desencadeada</span>, ao trocar para esta arma, <b>remove todos os efeitos negativos de você</b> e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. <b>Suspende muito</b> os alvos no alcance, causa dano total de <b>238.3%</b> do ATQ + <b>13</b> distribuído em 3 ataques e anula os efeitos positivos deles. A área dura <b>3,5</b> segundos e causa dano de <b>42.4%</b> do ATQ + <b>2</b> ao alvo a cada <b>0,5</b> segundo."
     }
   ],
   "weapon_type": {
     "name": "Raio",
-    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos não podem receber nenhum efeito positivo."
+    "description": "Com carga completa, o ataque seguinte da arma causa <b>paralisia forte</b> aos alvos durante <b>1</b> segundo e os eletrocuta durante <b>6</b> segundos, removendo todos os efeitos positivos deles e causando dano de <b>144%</b> do ATQ. Durante os próximos <b>6</b> segundos, os alvos eletrocutados não podem receber nenhum efeito positivo."
   },
   "advancement": [
     "Provoca uma explosão elétrica no alvo após desferir um golpe crítico, causando dano adicional de <b>30%</b> do ATQ ao alvo e inimigos próximos. Tempo de recarga: <b>0,2</b> seg.",
@@ -92,7 +99,7 @@
     {
       "name": "Sombra",
       "icon": true,
-      "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>4%</b> (acumula até <b>5</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>2</b> segundo)."
+      "description": "Confere <b>1</b> acúmulo de Concentração a cada <b>4</b> segundos sem que Samir sofra dano. Cada acúmulo aumenta o dano causado em <b>4%</b> (acumula até <b>5</b> vezes). Samir perde <b>1</b> Concentração acumulada ao sofrer um golpe (pode perder até <b>1</b> acúmulo a cada <b>2</b> segundos)."
     }
   ],
   "ascension": [

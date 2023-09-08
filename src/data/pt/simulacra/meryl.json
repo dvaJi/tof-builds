@@ -19,6 +19,7 @@
   "charge": 4,
   "skills": [
     {
+      "id": "GA_FPlayerBigSwordMeleeIce_SSR_name",
       "name": "Talho Pesado",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "No chão, branda o montante para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>72.9%</b> do ATQ + <b>4</b> e repele o alvo uma curta distância.\nSegundo ataque: causa dano de <b>60.1%</b> do ATQ + <b>3</b> e repele o alvo uma curta distância.\nTerceiro ataque: causa dano de <b>105.4%</b> do ATQ + <b>6</b> e repele o alvo uma curta distância.\nQuarto ataque: causa dano de <b>156%</b> do ATQ + <b>8</b>, <b>lança o alvo alto no ar</b>, depois lança-o no ar ao aterrissar."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Golpe Aéreo",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\nPrimeiro ataque: causa dano de <b>106.5%</b> do ATQ + <b>6</b>.\nSegundo ataque: causa dano de <b>87.5%</b> do ATQ + <b>5</b>.\nTerceiro ataque: causa dano de <b>156%</b> do ATQ + <b>8</b>.\nQuarto ataque: causa dano de <b>140.5%</b> do ATQ + <b>7</b> e <b>derruba</b> o alvo, depois lança-o no ar ao aterrissar."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Branch_name",
       "name": "Corte Ascendente",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Corte Ascendente.\nAo atingir, <b>suspende muito</b> o alvo e o ataca no ar. Causa dano de <b>64.3%</b> do ATQ + <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_JumpAttack_name",
       "name": "Corte Descendente",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Corte Descendente"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_R_Sneak_name",
       "name": "Ataque Furtivo",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de <b>570%</b> do ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Power_name",
       "name": "Redemoinho",
       "type": [
         "Hold: Attack"
@@ -65,14 +71,16 @@
       "description": "No chão, segure o botão de ataque normal para usar Redemoinho. Causa dano de <b>132.8%</b> do ATQ + <b>7</b> ao alvo a cada <b>0,5</b> segundo. Fica imune a interrupção enquanto em uso."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR_name",
       "name": "Devastação",
       "type": [
         "Perfect Dodge",
         "Attack"
       ],
-      "description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (toque direcional antes da esquiva) para usar Devastação.\nCada golpe causa dano de <b>65.9%</b> do ATQ + <b>3</b> e <b>lança</b> inimigos no ar."
+      "description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Devastação.\nCada golpe causa dano de <b>65.9%</b> do ATQ + <b>3</b> e <b>lança</b> inimigos no ar."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR_name",
       "name": "Espadas Auráticas",
       "type": [
         "Dodge",
@@ -81,6 +89,7 @@
       "description": "Use o botão de ataque normal logo após se esquivar para usar Espadas Auráticas.\nBrande a montante e lança auras de espada para frente. Cada uma causa dano de <b>49.6%</b> do ATQ + <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordBigSkillIce_SSR_name",
       "name": "Nevasca",
       "type": [
         "Skill"
@@ -88,6 +97,7 @@
       "description": "Brande o montante e lança auras de espada para frente. Cada uma causa dano de <b>141.7%</b> do ATQ + <b>7</b>, e o dano aumenta em <b>5%</b> a cada golpe. Enquanto estiver ativo, fica imune a efeitos de controle. Tempo de recarga: <b>30</b> seg."
     },
     {
+      "id": "GA_FPlayerBigSwordChangeSkillIce_SSR_name",
       "name": "Barreira Gélida",
       "type": [
         "Discharge"

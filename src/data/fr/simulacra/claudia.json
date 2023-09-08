@@ -19,6 +19,7 @@
   "charge": 12,
   "skills": [
     {
+      "id": "GA_FPlayerSwordMelee_SSR_Melee_name",
       "name": "Taillade rapide",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, attaquez 5 fois de suite avec la lame.\nPremière attaque : vous infligez des dégâts correspondant à <b>46.8%</b> de l'ATQ + <b>2</b>, et repoussez la cible sur une courte distance.\nDeuxième attaque : vous infligez des dégâts correspondant à <b>65.6%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nTroisième attaque : vous infligez des dégâts correspondant à <b>59.3%</b> de l'ATQ + <b>3</b>, et repoussez la cible sur une courte distance.\nQuatrième attaque : vous infligez des dégâts correspondant à <b>104.1%</b> de l'ATQ + <b>5</b>, et repoussez la cible sur une courte distance.\nCinquième attaque : vous infligez des dégâts correspondant à <b>177.8%</b> de l'ATQ + <b>9</b>, et <b>projetez</b> la cible."
     },
     {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
       "name": "Coup sauté",
       "type": [
         "Jump",
@@ -34,14 +36,16 @@
       "description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>27.9%</b> de l'ATQ + <b>1</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>48.4%</b> de l'ATQ + <b>3</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>114.6%</b> de l'ATQ + <b>6</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>139%</b> de l'ATQ + <b>7</b>."
     },
     {
-      "name": "de mer-sable",
+      "id": "GA_FPlayerSwordMeleeThu_R_Branch_name",
+      "name": "Cyclone",
       "type": [
         "Attack",
         "Hold: Attack"
       ],
-      "description": "Maintenez Attaque normale après des attaques normales pour déclencher Cyclone.\nLorsque vous touchez la cible, vous la suspendez. Cyclone peut infliger des dégâts équivalant à <b>47.8%</b> de l'ATQ + <b>3</b> à une seule cible."
+      "description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à <b>47.8%</b> de l'ATQ + <b>3</b> à une seule cible."
     },
     {
+      "id": "GA_FPlayerSwordMeleeThu_R_JumpAttack_name",
       "name": "Lame plongeante",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Lame plongeante.\nLorsque vous tombez, vous infligez des dégâts équivalant à <b>10%</b> de l'ATQ + <b>1</b> à chaque coup sur la cible. À l'atterrissage, vous infligez des dégâts équivalant à <b>76.4%</b> de l'ATQ + <b>4</b> aux cibles proches et vous les repoussez.\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à <b>600%</b> de dégâts."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Attaque furtive",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerSwordEvadeThu_R_BackAttack_name",
       "name": "Attaque bondissante",
       "type": [
         "Dodge",
@@ -66,6 +72,7 @@
       "description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Attaque bondissante.\nL'Explorateur brandit sa lame vers l'avant et inflige des dégâts équivalant à <b>37.9%</b> de l'ATQ + <b>2</b> à la cible. <b>Suspend longuement</b> la cible tout en s'envolant. Inflige ensuite des dégâts supplémentaires équivalant à <b>56.8%</b> de l'ATQ + <b>3</b> à la cible."
     },
     {
+      "id": "GA_FPlayerSwordSkillNew_SSR_name",
       "name": "Itinérance",
       "type": [
         "Skill"
@@ -73,6 +80,7 @@
       "description": "Filez à travers les cibles en brandissant la lame, infligeant un total de dégâts équivalant à <b>418%</b> de l'ATQ + <b>22</b> à <b>5</b> cibles maximum (les dégâts infligés par chaque coup consécutif sur une même cible sont réduits de <b>20%</b> par rapport au précédent coup). Lorsque Itinérance prend fin, vous tailladez l'espace face à vous, infligeant des dégâts de zone équivalant à <b>264%</b> de l'ATQ + <b>14</b> aux cibles proches et les suspendant. Vous immunise contre les effets de contrôle tant que la compétence est en cours d'utilisation et réduit tous les dégâts subis de <b>50%</b>. Temps de recharge : <b>15</b> secondes."
     },
     {
+      "id": "GA_FPlayerSwordChangeSkill_SSR_Sucess_name",
       "name": "Déluge effréné",
       "type": [
         "Discharge"
@@ -82,7 +90,7 @@
   ],
   "weapon_type": {
     "name": "Blessure grave",
-    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque inflige blessure grave aux ennemis pendant <b>7</b> secondes, augmentant leurs dégâts subis de <b>20%</b> et infligeant des dégâts équivalant à <b>137%</b> de l'ATQ. En <yellow_lbl_14_1>jeu en équipe</>, les cibles gravement blessées subissent <b>20%</b> de dégâts physiques supplémentaires."
+    "description": "Lorsque l'arme est entièrement chargée, la prochaine attaque inflige une blessure grave aux ennemis pendant <b>7</b> secondes, augmentant leurs dégâts subis de <b>20%</b> et infligeant des dégâts équivalant à <b>137%</b> de l'ATQ. En <yellow_lbl_14_1>jeu en équipe</>, les cibles gravement blessées subissent <b>20%</b> de dégâts physiques supplémentaires."
   },
   "weapon_resonance": {
     "name": "Résonance physique",

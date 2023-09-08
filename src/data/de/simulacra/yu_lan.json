@@ -1,0 +1,378 @@
+{
+  "_id": 1038,
+  "id": "yu_lan",
+  "name": "Yu Lan",
+  "weapon": "Eintracht",
+  "weapon_id": "unity",
+  "birthday": "9. Februar",
+  "birthplace": "Wächterin der Sonnenuhr",
+  "gender": "Weiblich",
+  "info": "",
+  "description": "Eine Kampfkunstmeisterin aus Gebiet 9. Jeder, der bisher gegen sie angetreten ist, sieht zu ihr auf, weshalb Meisterin Yu sie auch zur Wächterin der Sonnenuhr am Sonnenuhrplatz in Flammenstadt ernannt hat. Sie nimmt die Kampfkünste ernster als sonst irgendjemand. Auf dem Schlachtfeld kann man sich darauf verlassen, dass sie den Sieg holt. Sie ist der Meinung, dass die Faust innerhalb von sieben Schritten am schnellsten zuschlagen kann.\n\nSie mag zwar sanftmütig wirken, doch eigentlich nimmt sie ihre Kämpfe sehr ernst. Wer ihr im Kampfsportturnier gegenüberstand, kann das sicher bestätigen. Zu Beginn des Kampfsportturniers war sie noch nicht einmal mit der Etikette und den Regeln des Wettkampfs vertraut. Ihre Angriffe waren so ungestüm und heftig, dass sie all ihre Gegner schnell und effizient besiegte. Yu Lan verstand erst nach einiger Zeit, wie unhöflich ihr Verhalten gewesen war. Nachdem ihr dies klar geworden war, suchte sie ihre bisherigen Gegner auf, um sich bei ihnen zu entschuldigen. All ihre Gegner, die behauptet hatten, aus einem „bestimmten Clan“ zu stammen, wollten sich vor ihrer Konkurrenz nur aufspielen und sich mit ihren Worten die Unterstützung der Zuschauer sichern. Sie hofften, ihre Gegner würden dann ihr Gesicht wahren und ihnen Gnade zeigen. Leider erkannte Yu Lan ihre wahren Absichten nicht. Stattdessen nahm sie jeden Einzelnen von ihnen beim Wort und beförderte einen nach dem anderen in einem Wahnsinnstempo zu Boden. Ein solches Verhalten wird in diesen Kreisen verständlicherweise gar nicht gern gesehen. Doch durch Yu Lans Fehler wurden viel mehr Leute auf das Kampfsportturnier, an dem bisher nur wenige Interesse gezeigt hatten, aufmerksam. Davon hatten alle etwas, weshalb man das Ganze wohl als Glück im Unglück bezeichnen könnte.\n\nSie ist ehrlich und enthusiastisch und hat kein Problem damit, ihr gesamtes Wissen mit ihren Gegnern zu teilen, wenn diese zu ihr kommen und sie um Rat bitten. Doch überraschenderweise hat sie kein besonders gutes Verständnis von den Kampfkünsten. Genauer gesagt ist sie niemand, der anderen die Essenz der Kampfkünste lehren kann. Yu Lan wird oft gefragt, wie sie Kampfkünstlerin geworden ist. Sie erzählt gern davon, weil es sich bei der Kampfkunst, die sie ausübt, um gewöhnliches Fitnessboxen handelt – eine Sportart, der viele Menschen in Gebiet 9 nachgehen, um fit zu bleiben. Doch keiner mag das so recht glauben, denn die Allgemeinheit führt diese Übungen eher halbherzig aus. Bei Yu Lan hingegen wirken sie so kraftvoll, dass die Menschen davon überzeugt sind, sie müsse über ein geheimes Talent verfügen. Deshalb stellen die Leute ihr auch so oft Fragen zu den Kampfkünsten, aber da sie die Grundlagen dieser Kampfkunsttechniken nicht gut erklären kann, macht diese Fragerei sie sehr nervös.\n\nWenn Yu Lan ihre Kampfkunst übt oder kämpft, gerät sie schnell in einen Zustand der Ekstase, wodurch sie sich auf ihr Training konzentrieren kann, ohne sich von irgendetwas ablenken zu lassen. Dieser Effekt ist unheimlich stark. Deshalb glaubt Meisterin Yu auch, dass Yu Lan etwas besitzt, was die Philosophen des Altertums als „das reine Herz eines Kindes“ bezeichneten, wodurch sie sich nur halb so stark anstrengen muss und trotzdem doppelte Erfolge erzielen kann. Sie ist wie geschaffen für die Welt der Kampfkünste. Im Alltag ist sie jedoch zu aufrichtig und ab und zu vergisst sie, die Ideen anderer in Betracht zu ziehen, wodurch sie eher rücksichtslos wirkt. Doch Meisterin Yu arbeitet mit ihr an ihren Schwächen. Da jeder von Meisterin Yus Vorschlägen eine unmittelbare Veränderung in Yu Lan nach sich zieht, ist sie auch bereit, Meisterin Yus Ratschläge zu befolgen.",
+  "like": "Kampfkunst trainieren, essen und an Turnieren teilnehmen",
+  "dislike": "Durchdachte Planung, Erläuterung der Theorie der Kampfkünste.",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 13,
+  "charge": 11,
+  "skills": [
+    {
+      "id": "GA_FPlayerYulanMelee_Melee_name",
+      "name": "Faustschlag",
+      "type": [
+        "Attack"
+      ],
+      "description": "Verwende am Boden den normalen Angriff, um 6 Angriffe hintereinander auszuführen.\nErster Angriff: Verursacht Schaden in Höhe von <b>64.8%</b> des ANG + <b>3</b> und stößt das Ziel zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>50.4%</b> des ANG + <b>3</b> und stößt das Ziel zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>52.8%</b> des ANG + <b>3</b> und stößt das Ziel zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>143.9%</b> des ANG + <b>8</b> und stößt das Ziel zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>279.2%</b> des ANG + <b>15</b> und stößt das Ziel kontinuierlich zurück.\nSechster Angriff: Verursacht Schaden in Höhe von <b>227.4%</b> des ANG + <b>12</b> und schleudert das Ziel hoch.\n\n„Faustschlag“ kann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden.\nVerwende nach Einsatz eines beliebigen Ausweichangriffs in der <b>Kampfkünstler</b>-Form den normalen Angriff, um schnell den vierten Angriff auszulösen.\nNachdem der fünfte Angriff in der <b>Kampfkünstler</b>-Form einen Treffer gelandet hat, wird dem Ziel für <b>2</b> Sek. ein <b>starker Einfrieren-Effekt</b> zugefügt (nicht in der Apex-Liga oder gegen Bosse verfügbar). Verursacht zusätzlich <b>Frostblase</b> sowie für <b>8</b> Sek. jede Sekunde Schaden in Höhe von <b>280%</b> des ANG + <b>15</b>. Dieser Effekt kann nur 1-mal alle <b>8</b> Sek. auf dasselbe Ziel ausgelöst werden."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_AirAttack_name",
+      "name": "Schwebende Faust",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Verwende in der Luft den normalen Angriff, um 6 Angriffe hintereinander in der Luft auszuführen, wobei Ausdauer verbraucht wird.\nErster Angriff: Verursacht Schaden in Höhe von <b>68.4%</b> des ANG + <b>4</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>59.9%</b> des ANG + <b>3</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>62.7%</b> des ANG + <b>3</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>136.4%</b> des ANG + <b>7</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>249%</b> des ANG + <b>13</b>.\nSechster Angriff: Verursacht Schaden in Höhe von <b>222.3%</b> des ANG + <b>12</b>.\n\n„Schwebende Faust“ kann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch1_name",
+      "name": "Waldschwalbe",
+      "type": [
+        "Attack"
+      ],
+      "description": "„Waldschwalbe“ kann nur in der <b>Kampfkünstler</b>-Form verwendet werden.\nTippe und halte den normalen Angriff auf dem Boden während des ersten bis dritten Angriffs, um „Waldschwalbe“ auszulösen.\nVerursacht Schaden in Höhe von <b>62.8%</b> des ANG + <b>3</b> und zieht Ziele in der Nähe heran. Verursacht anschließend Schaden in Höhe von <b>146.8%</b> des ANG + <b>{3}</b> und stößt die Ziele zurück.\n\nNachdem <b>Drachen in den Wolken</b> verwendet wurde, kann der Einsatz des normalen Angriffs auch „Waldschwalbe“ auslösen."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch2_name",
+      "name": "Tanzende Himmelsschlange",
+      "type": [
+        "Attack"
+      ],
+      "description": "„Tanzende Himmelsschlange“ kann nur in der <b>Kampfkünstler</b>-Form verwendet werden.\nTippe und halte den normalen Angriff auf dem Boden während des vierten bis fünften Angriffs, um „Tanzende Himmelsschlange“ auszulösen.\nFügt Zielen in der Nähe Schaden in Höhe von <b>153.9%</b> des ANG + <b>8</b> zu und lässt sie schweben.\n\nNachdem <b>Waldschwalbe</b> verwendet wurde, kann das Drücken und Halten des normalen Angriffs auch „Tanzende Himmelsschlange“ auslösen."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_ArAttackBranch_name",
+      "name": "Frost Hoch & Tief",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tippe und halte in der Luft den normalen Angriff während des ersten bis sechsten normalen Angriffs, um „Frost Hoch & Tief“ auszulösen.\nDeine Waffe wird in die Luft geworfen und fügt Zielen in der Nähe Schaden in Höhe von <b>329%</b> des ANG + <b>17</b> zu.\n\n„Frost Hoch & Tief“ kann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_JumpAttack_name",
+      "name": "Drachen in den Wolken",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder verwende den normalen Angriff, während du kletterst, zurückspringst oder das Jetpack einsetzt, um „Drachen in den Wolken“ auszulösen.\nStürzt von oben herab und fügt beim Aufprall am Boden Zielen in der Nähe Schaden in Höhe von <b>148.6%</b> des ANG + <b>8</b> zu und bringt sie zu Fall.\n\n„Drachen in den Wolken“ kann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanMelee_MeleeBranch3_name",
+      "name": "Vollständiges Zurückspulen",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tippe und halte den normalen Angriff auf dem Boden, um „Vollständiges Zurückspulen“ auszulösen.\nZieht kontinuierlich Ziele in der Nähe heran und verbraucht Ausdauer. Gewährt währenddessen Hyperkörper.\n\n„Vollständiges Zurückspulen“ kann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_Evade_name",
+      "name": "Ausweichen",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.\n\nKann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden.\nNach dem Ausweichen in der <b>Kampfkünstler</b>-Form wird für <b>5</b> Sek. Hyperkörper gewährt."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackBack_name",
+      "name": "Das Unmögliche",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff, um „Das Unmögliche“ auszulösen, was Zielen in der Nähe Schaden in Höhe von <b>177.6%</b> des ANG + <b>9</b> zufügt.\n\n„Das Unmögliche“ kann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanEvade_EvadeAttackFront_name",
+      "name": "Wogende Winde",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Wogende Winde“ auszulösen, was Zielen in der Nähe Schaden in Höhe von <b>167.6%</b> des ANG + <b>9</b> zufügt.\n\n„Wogende Winde“ kann in der <b>Kampfkünstler</b>- und in der <b>Rohe Kraft</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_PassiveSkill_name",
+      "name": "Angriff & Verteidigung",
+      "type": [
+        "Skill"
+      ],
+      "description": "<b>Eintracht</b> verfügt über 2 Formen: die <b>Kampfkünstler</b>-Form und die <b>Rohe Kraft</b>-Form. Unter Fähigkeiten – Einstellungen kann bis zu <b>1</b> davon aktiviert werden. Im Kampfstatus kann die Form nicht gewechselt werden.\n\n<b>Kampfkünstler</b>-Form: Im Kampfstatus wird der Multiplikator des Ausweichangriffs/normalen Angriffs von <b>Eintracht</b> zusätzlich um <b>40%</b> erhöht. Nachdem der Ausweichangriff oder der normale Angriff einer beliebigen Waffe <b>3</b>-mal verwendet wurde, erhältst du <b>1</b> <b>Innere Stärke</b> (max. <b>10</b>). Alle <b>2</b> Sek. kann nur <b>1</b> <b>Innere Stärke</b> erhalten werden. Außerhalb des Kampfstatus geht sämtliche <b>Innere Stärke</b> verloren.\n<b>Rohe Kraft</b>-Form: Nachdem <b>Beobachten & reagieren</b> einen Treffer landet, gehst du in den <b>Vorhersehen</b>-Zustand über und erhältst für <b>60</b> Sek. alle <b>0,8</b> Sek. <b>1</b> <b>Kampfgeist</b> (max. <b>15</b>). Außerhalb des Kampfstatus geht sämtlicher <b>Kampfgeist</b> verloren.\n<b>Passiv</b>: Kühlen</>\nWenn <b>Eintracht</b> ausgerüstet ist, wird <b>30%</b> des Frostwiderstands der Ziele ignoriert. Dieser Effekt funktioniert auch im Nebenhand-Slot."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_name",
+      "name": "Volle Deckung",
+      "type": [
+        "Skill"
+      ],
+      "description": "Fügt dem Ziel Schaden in Höhe von <b>982.8%</b> des ANG + <b>52</b> zu. Abklingzeit: <b>15</b> Sek. Bei der Verwendung von „Volle Deckung“ verbraucht <b>Eintracht</b> bis zu <b>5</b> <b>Innere Stärke</b>. Wenn <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> <b>Innere Stärke</b> verbraucht wird, verursacht „Volle Deckung“ jeweils <b>1,2</b>-/<b>1,5</b>-/<b>2,1</b>-/<b>2,8</b>-/<b>3,7</b>-mal so viel Schaden wie sonst.\nNachdem „Volle Deckung“ verwendet wurde, wird der Frostschaden für <b>30</b> Sek. um <b>20%</b> erhöht.\nNachdem „Volle Deckung“ verwendet wurde, werden <b>2</b> Ausweichversuche wiederhergestellt.\n\n„Volle Deckung“ kann nur in der <b>Kampfkünstler</b>-Form verwendet werden.\nWenn <b>Innere Stärke</b> <b>5</b> erreicht, wird die Abklingzeit von „Volle Deckung“ zurückgesetzt."
+    },
+    {
+      "id": "GA_FPlayerYulanSkill_Skill2_name",
+      "name": "Waffenklirren",
+      "type": [
+        "Skill"
+      ],
+      "description": "Fügt dem Ziel Schaden in Höhe von <b>982.8%</b> des ANG + <b>52</b> zu. Abklingzeit: <b>15</b> Sek. Im <b>Erwarten</b>-Zustand verbraucht <b>Eintracht</b> bei Verwendung einer beliebigen Waffenfähigkeit bis zu <b>5</b> <b>Kampfgeist</b>. Wenn <b>1</b>/<b>2</b>/<b>3</b>/<b>4</b>/<b>5</b> <b>Kampfgeist</b> verbraucht wird, wird zusätzlicher Flächenschaden in Höhe von <b>242%</b>/<b>503%</b>/<b>1049%</b>/<b>2351%</b>/<b>3930%</b> des ANG sowie für <b>5</b> Sek. jede Sekunde Schaden in Höhe von <b>260%</b> des ANG + <b>14</b> verursacht.\nNach Verwendung einer beliebigen Frostwaffenfähigkeit wird für <b>2</b> Sek. „Hyperkörper“ gewährt.\n\n„Waffenklirren“ kann nur in der <b>Rohe Kraft</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_name",
+      "name": "Tiger im Schnee",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b>. Dies fügt Zielen in der Nähe Schaden in Höhe von bis zu <b>1173.1%</b> des ANG + <b>62</b> zu und <b>schleudert sie stark hoch</b>. Währenddessen erhältst du für <b>2,6</b> Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).\n\n„Tiger im Schnee“ kann nur in der <b>Kampfkünstler</b>-Form verwendet werden."
+    },
+    {
+      "id": "GA_FPlayerYulanChangeSkill_ChangeSkill1_name",
+      "name": "Beobachten & reagieren",
+      "type": [
+        "Discharge"
+      ],
+      "description": "Wenn die <span class=\"text-red\">Waffenladung voll ist</span> oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b>. Dies fügt Zielen in der Nähe Schaden in Höhe von <b>1173.1%</b> des ANG + <b>62</b> zu und <b>schleudert sie stark hoch</b>. Währenddessen erhältst du für <b>2,6</b> Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).\nNachdem „Beobachten & reagieren“ einen Treffer gelandet hat, wird der Frostschaden für <b>30</b> Sek. um <b>20%</b> erhöht.\nNachdem „Beobachten & reagieren“ einen Treffer gelandet hat, gehst du für <b>60</b> Sek. in den <b>Vorhersehen</b>-Zustand über.\nNachdem du <b>Eintracht</b> verwendet hast, um eine Entladungsfähigkeit einzusetzen, erhältst du <b>1000</b> Waffenladung. Dieser Effekt kann nur 1-mal alle <b>10</b> Sek. ausgelöst werden.\n\n„Beobachten & reagieren“ kann nur in der <b>Rohe Kraft</b>-Form verwendet werden."
+    }
+  ],
+  "weapon_type": {
+    "name": "Eispanzer",
+    "description": "Wenn die Waffe voll geladen ist, bewirkt der nächste Angriff für <b>2</b> Sek. einen <b>starken Einfrieren-Effekt</b> und verursacht bei Zielen <b>6</b> Sek. lang Erfrierungen. Das Durchbrechen der Eisschicht verursacht zusätzlichen Schaden in Höhe von <b>144%</b> des ANG. Während der Erfrierungen wird die Waffenladegeschwindigkeit des Ziels um <b>50%</b> verringert."
+  },
+  "weapon_resonance": {
+    "name": "Frostresonanz",
+    "description": "<b>Frostresonanz</b>: Erhöht den Frost-ANG um <b>20%</b> und den Frostwiderstand um <b>40%</b>. Wird durch Ausrüsten von <b>2</b> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Frostresonanz- oder Frostreaktion-Effekten gestapelt werden, wobei Frostresonanz priorisiert wird."
+  },
+  "advancement": [
+    "Wenn in der <b>Kampfkünstler</b>-Form <b>3</b> oder mehr <b>Innere Stärke</b> verbraucht wurden, regeneriert <b>Eintracht</b> <b>3</b> <b>Innere Stärke</b>. Anschließend wird der Endschaden des Wanderers um <b>5%</b> erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von <b>Eintracht</b> wird <b>30</b> Sekunden lang um <b>50%</b> erhöht.\nWenn in der <b>Rohe Kraft</b>-Form <b>3</b> oder mehr <b>Kampfgeist</b> verbraucht wurden, regeneriert <b>Eintracht</b> <b>3</b> <b>Kampfgeist</b>. Anschließend wird der Endschaden des Wanderers <b>15</b> Sekunden lang um <b>5%</b> erhöht.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>16%</b>.",
+    "Wenn in der <b>Kampfkünstler</b>-Form innerhalb von <b>4</b> Sekunden keine <b>Innere Stärke</b> generiert wird, werden beim nächsten Erhalt von <b>Innerer Stärke</b> stattdessen <b>2</b> Einheiten verliehen.\nWenn <b>Eintracht</b> in einer beliebigen Form <b>3</b> oder mehr <b>Innere Stärke</b> oder <b>Kampfgeist</b> verbraucht, werden <b>10%</b> der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf <b>20%</b> erhöht. Dieser Effekt in der <b>Rohe Kraft</b>-Form nur 1-mal alle <b>8</b> Sekunden auftreten. In der <b>Kampfkünstler</b>-Form gibt es keine Beschränkung.",
+    "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <b>32%</b>.",
+    "Wenn <b>Eintracht</b> <b>Innere Stärke</b> oder <b>Kampfgeist</b> verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt <b>10%</b> der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf <b>20%</b> erhöht. Beide Effekte können nur 1-mal alle <b>8</b> Sek. ausgelöst werden.",
+    "In der <b>Kampfkünstler</b>-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von <b>Eintracht</b> um weitere <b>70%</b> erhöht. Wenn <b>innere Stärke</b> verbraucht wird, wird der Endschaden des Wanderers <b>30</b> Sek. lang um <b>10%</b> erhöht.\nWenn <b>Eintracht</b> in der <b>Rohe Kraft</b>-Form <b>Kampfgeist</b> verbraucht, wird der Endschaden des Wanderers <b>30</b> Sek. lang um <b>15%</b> erhöht."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Erhöht den Endschaden um <b>{0}%</b>.\nIn der <b>Kampfkünstler</b>-Form wird der Endschaden zusätzlich um <b>{1}%</b> erhöht. Nachdem <b>Volle Deckung</b> einen Treffer gelandet hat, wird der von Zielen erlittene Frostschaden für <b>20</b> Sek. um <b>{2}%</b> erhöht.\nIn der <b>Rohe Kraft</b>-Form wird der Schaden, der durch den Verbrauch von <b>Kampfgeist</b> verursacht wird, pro <b>1</b> ausgerüsteter Frostwaffe um <b>{3}%</b> erhöht. Bei <b>3</b> ausgerüsteten Frostwaffen wird der Frostschaden um <b>{4}%</b> erhöht.",
+      "values": [
+        13,
+        7,
+        1,
+        9,
+        8
+      ]
+    },
+    {
+      "name": "",
+      "description": "Erhöht den Endschaden um <b>{0}%</b>.\nIn der <b>Kampfkünstler</b>-Form wird der Endschaden zusätzlich um <b>{1}%</b> erhöht. Nachdem <b>Volle Deckung</b> einen Treffer gelandet hat, wird der von Zielen erlittene Frostschaden für <b>20</b> Sek. um <b>{2}%</b> erhöht.\nIn der <b>Rohe Kraft</b>-Form wird der Schaden, der durch den Verbrauch von <b>Kampfgeist</b> verursacht wird, pro <b>1</b> ausgerüsteter Frostwaffe um <b>{3}%</b> erhöht. Bei <b>3</b> ausgerüsteten Frostwaffen wird der Frostschaden um <b>{4}%</b> erhöht.",
+      "values": [
+        18,
+        7,
+        1,
+        9,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano-Beschichtung I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Säurefeste Glasur I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster-Rahmen I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofaser-Rahmen II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano-Beschichtung II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

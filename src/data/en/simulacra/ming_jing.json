@@ -1,0 +1,339 @@
+{
+  "_id": 1050,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "weapon": "Onyx Tortoise",
+  "weapon_id": "onyx_tortoise",
+  "birthday": "November 12",
+  "birthplace": "Domain 9",
+  "gender": "Male",
+  "info": "",
+  "description": "An unknown visitor from the outside. His appearance is both an unpredictable variable and a turning point to the closed Domain 9.\n\nThey accepted this man with no past, and Master Yue, the previous Lord Xuanwu, decided to keep Ming Jing by his side and train him. Ming Jing did his best to take in the culture, the sights, the battles, and the power struggles... He encountered many obstacles, but he never once wavered, and forged ahead to repay the kindness that he received with actions.\n\nAfter Master Yue passed away, the young man took up the title of Xuanwu. He proved himself with favorable results from how he swiftly dealt with the Darkness, and showed that Master Yue was right to make Ming Jing his successor, and entrust him with Aquaville.\n\nIs he a natural leader? Could it also be possible that his present is linked to his past that he has been searching for?\n\nThis is exactly what troubles him. Confused and uncertain, he has been looking for his lost memories and identity.\n\nMaybe he never changed, and his past has always been with him. Perhaps he just hasn't noticed yet.\n\nIf there's anyone who can reach the end of the road and firmly grasp the answer, then it's Ming Jing.",
+  "like": "Cooking, organizing, and tasting tea",
+  "dislike": "Thoughtful planning, explaining the theory of martial arts.",
+  "element": "Flame",
+  "rarity": "SSR",
+  "role": "DPS",
+  "resonance": "DPS",
+  "shatter": 14,
+  "charge": 12,
+  "skills": [
+    {
+      "id": "GA_FPlayerZekeMelee_Melee_name",
+      "name": "Resistor",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, use normal attack to launch 5 consecutive attacks.\nWhile the <b>Xuanwu Totem</b> is active, after Resistor's fifth attack lands its final hit, add 1 snake bite to the locked-on target.\nFirst Attack: Deal damage equal to <b>131.6%</b> of ATK plus <b>7</b> and knock the target back.\nSecond Attack: Deal damage equal to <b>186.8%</b> of ATK plus <b>10</b> and knock the target back.\nThird Attack: Deal damage equal to <b>201.6%</b> of ATK plus <b>11</b> and knock the target back.\nFourth Attack: Deal damage equal to <b>238%</b> of ATK plus <b>13</b> and suspend the target.\nFifth Attack: Deal damage equal to <b>378%</b> of ATK plus <b>20</b> and launch the target."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_AirAttack_name",
+      "name": "Flying Stone",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "While airborne, use normal attack to launch 5 consecutive attacks in mid-air, consuming endurance.\nFirst Attack: Deal damage equal to <b>112.8%</b> of ATK plus <b>6</b>.\nSecond Attack: Deal damage equal to <b>168%</b> of ATK plus <b>9</b>.\nThird Attack: Deal damage equal to <b>164.2%</b> of ATK plus <b>9</b>.\nFourth Attack: Deal damage equal to <b>140.2%</b> of ATK plus <b>7</b>.\nFifth Attack: Deal damage equal to <b>228%</b> of ATK plus <b>12</b>."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch_name",
+      "name": "Othershore Soul",
+      "type": [
+        "Attack"
+      ],
+      "description": "While using normal attack on the ground, tap and hold normal attack when using the first to fourth normal attacks to trigger Othershore Soul.\nToss your weapon ahead, dealing damage equal to <b>212.4%</b> of ATK plus <b>11</b> to nearby targets."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_Branch1_name",
+      "name": "Collapsing Mountain",
+      "type": [
+        "Attack"
+      ],
+      "description": "While on the ground, tap and hold normal attack to trigger Collapsing Mountain.\nContinuously move forward while attacking and consuming endurance, dealing damage equal to <b>240%</b> of ATK plus <b>13</b> to nearby targets."
+    },
+    {
+      "id": "GA_FPlayerZekeMelee_JumpAttack_name",
+      "name": "In Continuity",
+      "type": [
+        "Attack"
+      ],
+      "description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger In Continuity.\nDive down from above, dealing damage equal to <b>204%</b> of ATK plus <b>11</b> to nearby targets upon reaching the ground."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Evade_name",
+      "name": "Dodge",
+      "type": [
+        "Dodge"
+      ],
+      "description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_ForwardAttack_name",
+      "name": "Open Clouds",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Open Clouds, dealing damage equal to <b>60%</b> of ATK plus <b>3</b> to nearby targets.\nWhile the <b>Xuanwu Totem</b> is active, after Open Clouds lands a hit, add 1 snake bite to the locked-on target."
+    },
+    {
+      "id": "GA_FPlayerZekeEvadeAttack_BackAttack_name",
+      "name": "Cutting Sand",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Use normal attack during the short period after dodging to trigger Cutting Sand, unleashing a sword aura, dealing damage equal to <b>125%</b> of ATK plus <b>7</b> to targets ahead.\nWhile the <b>Xuanwu Totem</b> is active, after Cutting Sand lands a hit, add 1 snake bite to the locked-on target."
+    },
+    {
+      "id": "GA_FPlayerZekeEvade_Spec_name",
+      "name": "Lookout",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "Tap and hold normal attack right after dodging to trigger Lookout (unavailable in Apex League).\nAfter the <b>Xuanwu Totem</b> summoned by <b>Absolute Ravine</b> is completed, use Lookout to enter <b>Selfless Realm</b> for <b>25</b> seconds and gain <b>3</b> <b>Dark Slashes</b>.\nAfter the first successful normal or dodge attack from <b>Onyx Tortoise</b>, it triggers <b>Dark Slash</b>. If the target is a common or elite enemy and their current HP doesn't exceed the Wanderer's base ATK by more than <b>350,000</b> times, the target will be immediately executed. Otherwise, deal damage equal to <b>3,000%</b> of ATK.\n<b>Selfless Realm</b> ends when its duration is over, the <b>Dark Slash</b> count is exhausted, or upon switching weapons. <b>Selfless Realm</b> can only be triggered 1 time every <b>200</b> seconds."
+    },
+    {
+      "id": "GA_FPlayerZekeSkill_Skill_name",
+      "name": "Absolute Ravine",
+      "type": [
+        "Skill"
+      ],
+      "description": "Split a crack in the ground ahead, and gain temporary invincibility (unavailable in Apex League) and draw in nearby targets, dealing damage equal to <b>806%</b> of ATK plus <b>42</b>. Cooldown: <b>20</b> seconds. Increase the Wanderer's physical damage by <b>30%</b> for <b>30</b> seconds, and then summon the Xuanwu Totem. The Xuanwu Totem is removed while in the non-combat state.\nThe Xuanwu Totem summons dark souls from the four formation cores every <b>0.6</b> seconds, each time dealing damage equal to <b>100%</b> of ATK to targets along the way. When Absolute Ravine is in cooldown, gain the new skill <b>Mirror Reflection</b>: Strike back the nearby dark souls and activate their corresponding formation cores. After any formation core is activated, the Xuanwu Totem will be complete, and the <b>Selfless Realm</b> can be entered.\n\nWhile the Xuanwu Totem is active, use <b>Onyx Tortoise</b> to gain hyperbody, and snake bites can be applied in the following ways:\nAfter <b>Absolute Ravine</b> lands a hit, apply 1 snake bite to the target with the highest HP.\nAfter <b>Resistor's</b> fifth attack lands its final hit, apply 1 snake bite to the locked-on target.\nAfter <b>Open Clouds</b> lands a hit, apply 1 snake bite to the locked-on target.\nAfter <b>Cutting Sand</b> lands a hit, add 1 snake bite to the locked-on target.\nSnake bite deals devouring damage equal to <b>300%</b> of ATK to the target, restores <b>12%</b> of the Wanderer's Max HP, and makes the target a Serpent Chain member.\n\nSerpent Chain can transfer <b>30%</b> of the actual damage dealt by the Wanderer's main slot weapon to the locked-on Serpent Chain member and cause <b>grievous</b> to be conducted to all Serpent Chain members (including the target themselves). There can be up to <b>4</b> Serpent Chain members.\nConduction damage's element type follows the original damage and cannot be conducted again. The total conduction damage within <b>30</b> seconds should not exceed <b>14,000</b> times of the Wanderer's maximum ATK (unlimited in team play). <b>Dark Slash</b> damage cannot be conducted.\nAfter using <b>Absolute Ravine</b>, the Wanderer can also trigger <b>Mighty Wind</b>: Serpent Chain members deal devouring damage equal to <b>35%</b> of ATK to nearby targets (including the target themselves), and reset the devouring damage count."
+    },
+    {
+      "id": "GA_FPlayerZekeChangeSkill_name",
+      "name": "Way Home",
+      "type": [
+        "Discharge"
+      ],
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and summon Xuanwu, dealing area damage equal to <b>681.2%</b> of ATK plus <b>36</b> to all nearby targets. During this period, gain damage immunity for <b>2.6</b> seconds (unavailable in Apex League)."
+    }
+  ],
+  "weapon_type": {
+    "name": "Flame",
+    "description": "When the weapon is fully charged, the next attack will ignite the target for <b>8</b> seconds, dealing damage equal to <b>{3}%</b> of ATK every second. While Ignited, targets' healing effect is reduced by <b>50%</b>."
+  },
+  "weapon_resonance": {
+    "name": "Shield Break: Detachment",
+    "description": "<b>Physical Resonance</b>: Increase physical ATK by <b>20%</b> and physical resistance by <b>40%</b>. Activate by equipping <b>2</b> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance or Physical Reaction effects, with Physical Resonance taking precedence.\n<b>Shield Break: Detachment</b>: After using <b>Absolute Ravine</b>, every second, deal damage equal to <b>{1}%</b> of physical ATK plus <b>{2}%</b> of the Wanderer's Max HP plus <b>{3}%</b> of the sum of all the Wanderer's resistance types plus <b>{4}%</b> of crit for <b>{0}</b> seconds. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage. If there is <b>1</b> volt/flame/frost weapon of any kind equipped, shield break damage is multiplied by <b>{5}</b> times. In addition, shield break damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects."
+  },
+  "advancement": [
+    "Every time <b>grievous</b> is applied, deal <b>devouring</b> damage equal to <b>100%</b> of ATK to the target. This effect can only be triggered 1 time every <b>0.5</b> seconds.",
+    "Increase the current weapon's base ATK growth by <b>16%</b>.",
+    "After triggering <b>Mighty Wind</b>, turn targets hit into members of the <b>Serpent Chain</b>.",
+    "Increase the current weapon's base ATK growth by <b>32%</b>.",
+    "After using <b>Absolute Ravine</b>, reduce the Wanderer's damage taken by <b>10%</b> (<b>20%</b> in solo play) for <b>30</b> seconds.",
+    "When there is <b>1</b> <b>Serpent Chain</b> member, increase <b>conduction</b> damage's conduction rate by <b>80%</b>."
+  ],
+  "traits": [
+    {
+      "name": "",
+      "description": "Increase final damage by <b>{0}%</b>.\nThe Wanderer's base physical ATK is increased to the highest value out of their physical/flame/frost/volt base ATK. When the main slot weapon is <b>Onyx Tortoise</b>, normal attack damage is increased by <b>{1}%</b>.",
+      "values": [
+        12,
+        30
+      ]
+    },
+    {
+      "name": "",
+      "description": "Increase final damage by <b>{0}%</b>.\nThe Wanderer's base physical ATK is increased to the highest value out of their physical/flame/frost/volt base ATK. When the main slot weapon is <b>Onyx Tortoise</b>, normal attack damage is increased by <b>{1}%</b>.",
+      "values": [
+        15,
+        50
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "Nano Coating I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "Acidproof Glaze I",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "Booster Frame I",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "Booster Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "Nanofiber Frame II",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "Nano Coating II",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

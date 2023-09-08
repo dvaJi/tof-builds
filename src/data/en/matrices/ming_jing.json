@@ -1,0 +1,34 @@
+{
+  "_id": 33,
+  "id": "ming_jing",
+  "name": "Ming Jing",
+  "suitName": "Lost at Heart",
+  "hash": "SSR34",
+  "rarity": "SSR",
+  "bonus": [
+    {
+      "count": 2,
+      "value": "Increase Serpent Chain member limit to <b>5</b>. When at least <b>1</b> physical weapon is equipped, increase physical ATK by 14%/16%/18%/20%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+    },
+    {
+      "count": 4,
+      "value": "After applying the snake bite effect, increase physical ATK by 9% for 30 seconds. Works in the off-hand slot. While in the combat state, increase final damage by 14%/17%/20%/23%."
+    }
+  ],
+  "mind": {
+    "name": "Infused in Tea",
+    "desc": "Deep thoughts buried within a strong fragrance."
+  },
+  "memory": {
+    "name": "Blank Slate",
+    "desc": "In the midst of the fog, there is something that must be held onto dearly, lest it be gone once more."
+  },
+  "belief": {
+    "name": "Rebuilding",
+    "desc": "Picking the pieces back up is the first step toward putting things back together."
+  },
+  "emotion": {
+    "name": "Passionate",
+    "desc": "Burning thoughts masked in blank expression."
+  }
+}

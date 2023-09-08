@@ -19,6 +19,7 @@
   "charge": 6,
   "skills": [
     {
+      "id": "GA_FPlayerHammerMelee_Melee_name",
       "name": "Normal Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, swing the maul to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>76.3%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>62.1%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>157.4%</b> of ATK plus <b>8</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>263.8%</b> of ATK plus <b>14</b> and launch the target.\nWhile Outburst is active, swing the maul to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>{8}%</b> of ATK plus <b>{9}</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>{10}%</b> of ATK plus <b>{11}</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>{12}%</b> of ATK plus <b>{13}</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>{14}%</b> of ATK plus <b>{15}</b> and <b>strongly suspend</b> the target."
     },
     {
+      "id": "GA_FPlayerHammerMelee_AirAttack_name",
       "name": "Pummel",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne or after jumping once, use normal attack to trigger Jumping Blast. Deal damage equal to <b>121.7%</b> of ATK plus <b>6</b>and suspend the target.\nWhile Outburst is active, deal damage equal to <b>133.9%</b> of ATK plus <b>7</b> and <b>strongly suspend</b> the target.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
+      "id": "GA_FPlayerHammerMelee_JumpAttack_name",
       "name": "Shockwave",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Tapping and holding while airborne, double-jumping, short tapping in the air when there are targets nearby, climbing, jumping backward, or attacking while using the Jetpack will trigger a Shockwave. <b>Strongly suspend</b> the target <b>4</b> times, dealing damage equal to <b>34.8%</b> of ATK+ <b>2</b> each time. Cost <b>250</b> endurance.\nWhile Outburst is active, Shockwave <b>strongly suspends</b> the target <b>5</b> times, dealing damage equal to <b>38.3%</b> of *ATK plus <b>2</b> each time.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
+      "id": "GA_FPlayerHammerSneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -50,6 +54,7 @@
       "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to <b>427.5%</b> of ATK plus <b>23</b>."
     },
     {
+      "id": "GA_FPlayerHammerPower_name",
       "name": "Focus Smash",
       "type": [
         "Hold: Attack"
@@ -57,6 +62,7 @@
       "description": "Tap and hold normal attack to trigger Focus Smash (can be charged up to 3 stacks). Grant immunity to all control effects and hyperbody while charging.\nFirst Stack: Deal damage equal to <b>110%</b> of ATK plus <b>6</b> and suspend the target.\nSecond Stack: Deal damage equal to <b>276%</b> of ATK plus <b>15</b> and <b>strongly suspend</b> the target.\nThird Stack: Deal damage equal to <b>518%</b> of ATK plus <b>27</b> and <b>strongly suspend</b> the target.\nWhile Outburst is active, tap and hold normal attack to trigger Furious Strikes, dealing damage equal to <b>501.6%</b> of ATK plus <b>26</b> and <b>strongly suspend</b> the target."
     },
     {
+      "id": "GA_FPlayerHammerEvade_FrontAttack_name",
       "name": "Jumping Smash",
       "type": [
         "Dodge"
@@ -64,6 +70,7 @@
       "description": "Use the arrow buttons and the dodge button to trigger Jumping Smash, unleashing a Shockwave that suspends the enemy <b>4</b> times, dealing damage equal to <b>161.6%</b> of ATK plus <b>9</b>."
     },
     {
+      "id": "GA_FPlayerHammerEvade_BackAttack_name",
       "name": "Worldsplitter",
       "type": [
         "Dodge",
@@ -72,6 +79,7 @@
       "description": "Tap normal attack during the short period of time after a dodge to trigger Worldsplitter, unleashing <b>3</b> shockwaves forward, each dealing damage equal to <b>52.4%</b> of ATK plus <b>3</b>, and suspending the targets.\nWhile in Outburst mode, fire <b>5</b> shockwaves forward, each dealing damage equal to <b>52.4%</b> of ATK plus <b>3</b> and suspending the target."
     },
     {
+      "id": "GA_FPlayerHammerSkill_name",
       "name": "Outburst",
       "type": [
         "Skill"
@@ -79,11 +87,12 @@
       "description": "Switch to activate Outburst, increasing damage dealt for <b>25</b> seconds.\nWhile Outburst is active, skills trigger Windfury, dealing damage equal to <b>219%</b> of ATK plus <b>12</b>, <b>strongly suspending</b> the target and creating an air current on the ground. While standing in the current, dodging has no cost. Cooldown: <b>45</b> seconds (Windfury's cooldown: <b>10</b> seconds)."
     },
     {
+      "id": "GA_FPlayerHammerIceChangeSkill_Sucess_name",
       "name": "Overwhelming Maul",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and <b>strongly suspend</b> nearby targets, dealing damage equal to <b>153.3%</b> of ATK plus <b>8</b>. Also summon a maul to fall on nearby targets, dealing damage equal to <b>153.3%</b> of ATK plus <b>8</b>."
+      "description": "When <span class=\"text-red\">weapon charge</span> is full or <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and <b>strongly suspend</b> nearby targets, dealing damage equal to <b>153.3%</b> of ATK plus <b>8</b>. Also summon a maul to fall on nearby targets, dealing damage equal to <b>153.3%</b> of ATK plus <b>8</b>."
     }
   ],
   "weapon_type": {

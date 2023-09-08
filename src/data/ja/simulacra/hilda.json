@@ -17,6 +17,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerCannonMelee_Melee_name",
       "name": "通常攻撃",
       "type": [
         "Attack"
@@ -24,6 +25,7 @@
       "description": "通常攻撃を行うと照準状態になり、通常攻撃長押しで連射できる。最大で<b>40</b>発連射可能。1発につき攻撃力x<b>11.4%</b>+<b>1</b>のダメージを与える。敵の頭部または弱点に命中するとヘッドショットを発動し(ヘッドショットは探索者に対して無効)、2倍のダメージを与えてノックダウンする"
     },
     {
+      "id": "GA_FPlayerCannonSkill_name",
       "name": "砲台",
       "type": [
         "Skill"
@@ -31,6 +33,7 @@
       "description": "砲台モードをオンにすると、強力なエナジー砲弾を発射する。砲弾1発につき攻撃力x<b>213.3%</b>+<b>11</b>のダメージを与え、ターゲットをノックアップする。クールダウン<b>3.5</b>秒。砲台設置時、硬直と行動制限を無効化する"
     },
     {
+      "id": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
       "name": "極寒レーザー",
       "type": [
         "Discharge"

@@ -1,5 +1,5 @@
 {
-  "_id": 40021,
+  "_id": 32,
   "id": "annabella",
   "name": "Annabella",
   "suitName": "Bloody Anecdote",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase final damage by <b>3%</b>/3.4%/3.8%/4.2% and final crit rate by <b>2%</b>/2%/2.4%/2.4% for <b>25</b> seconds when hitting a target with a flame weapon, stacking up to <b>2</b> times. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "Setelah menghantam target dengan Senjata Flame, meningkatkan Final DMG sebesar 5%/6%/7%/8% dan Crit Rate Final sebesar 2,5%/2,5%/3%/3% selama 25 detik. Bisa bertumpuk maks 2 kali. Jika didapatkan berulang kali, yang berlaku hanya efek yang rating bintangnya paling tinggi."
     },
     {
       "count": 4,
-      "value": "When equipping 2 or more flame weapons, gain Flowing Fire, which increases final damage by <b>7%</b>/8%/9%/10%, and increases crit damage by an additional <b>12%</b>/14%/16%/18% for <b>25</b> seconds after landing a critical hit. For every <b>3</b> charged attacks that hit the target, restore <b>1</b> dodge attempt. Cooldown: <b>2</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "Saat memakai 2 Senjata Flame atau lebih, mendapatkan efek Flowing Fire yang meningkatkan Final DMG sebesar 11%/13%/15%/17% dan meningkatkan Crit DMG lagi sebesar 22%/24%/26%/28% dalam 25 detik saat mendaratkan serangan Crit. Untuk setiap 3 Serangan Charge yang menghantam target, memulihkan 1 jatah menghindar. CD: 2 detik. Saat efek ini didapatkan berulang kali, hanya efek dengan rating bintang tertinggi yang akan aktif."
     }
   ],
   "mind": {

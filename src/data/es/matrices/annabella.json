@@ -1,5 +1,5 @@
 {
-  "_id": 40021,
+  "_id": 32,
   "id": "annabella",
   "name": "Annabella",
   "suitName": "Anécdota Sangrienta",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase final damage by <b>3%</b>/3.4%/3.8%/4.2% and final crit rate by <b>2%</b>/2%/2.4%/2.4% for <b>25</b> seconds when hitting a target with a flame weapon, stacking up to <b>2</b> times. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "Después de impactar a un objetivo con un arma de fuego, aumenta el daño final un 5%/6%/7%/8% y la tasa crítica final un 2.5%/2.5%/3%/3% por 25 seg, se acumula hasta 2 veces. Al obtenerse repetidamente, solo se aplica el efecto con la clasificación de estrellas más alta."
     },
     {
       "count": 4,
-      "value": "When equipping 2 or more flame weapons, gain Flowing Fire, which increases final damage by <b>7%</b>/8%/9%/10%, and increases crit damage by an additional <b>12%</b>/14%/16%/18% for <b>25</b> seconds after landing a critical hit. For every <b>3</b> charged attacks that hit the target, restore <b>1</b> dodge attempt. Cooldown: <b>2</b> seconds. Only the effect with the highest star rating is applied when obtained repeatedly."
+      "value": "Al equipar 2 o más armas de fuego, obtienes el efecto Flujo de Fuego, lo que aumenta el daño final un 11%/13%/15%/17% y aumenta el daño crítico un 22%/24%/26%/28% adicional en un plazo de 25 segundos tras causar un impacto crítico. Por cada 3 ataques cargados que impacten al objetivo, restaura 1 intento de evasión. Enfriamiento: 2 segundos. Al obtenerse repetidamente, solo se aplica el efecto con la clasificación de estrellas más alta."
     }
   ],
   "mind": {

@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
       "name": "Twin Blades",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, ayunkan kedua pisau untuk melakukan hingga 5 serangan beruntun.\nSerangan Pertama: Menimpakan DMG sebesar <b>60.1%</b> ATK plus <b>3</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>73%</b> ATK plus <b>4</b> dan membuat target terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>90.9%</b> ATK plus <b>5</b> dan membuat target terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>96.8%</b> ATK plus <b>5</b> dan membuat target terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>202.2%</b> ATK plus <b>11</b> dan membuat target terpental sedikit ke belakang."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
       "name": "Sky Flurry",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>65.6%</b> ATK plus <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>38.4%</b> ATK plus <b>2</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>92%</b> ATK plus <b>5</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>138%</b> ATK plus <b>7</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
       "name": "Rapid Lunge",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Rapid Lunge.\nSaat serangan kena, membuat target <b>Terpental Ke Atas</b> dan menimpakan DMG sebesar <b>116.8%</b> ATK plus <b>6</b>."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
       "name": "Spiral Drive",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tahan dan tahan Serangan Biasa saat di udara (atau tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Spiral Drive.\nMelakukan serangan ke bawah, menimpakan DMG sebesar <b>42%</b> ATK plus <b>2</b> setiap kali menghantam target."
     },
     {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
       "name": "Sneak Attack",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk melakukan Sneak Attack yang menimpakan DMG sebesar <b>570%</b> ATK plus <b>30</b>."
     },
     {
+      "id": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
       "name": "Flying Blades",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\nMenebas target <b>5</b> kali, masing-masing menimpakan DMG sebesar <b>26.4%</b> ATK plus <b>1</b>. Selama durasi Phase, menjadi kebal terhadap efek kontrol."
     },
     {
+      "id": "GA_FPlayerDSSkillThu_SSR_name",
       "name": "Returning Blades",
       "type": [
         "Skill"
@@ -73,16 +80,17 @@
       "description": "Mengeluarkan <b>6</b> pisau ke segala arah yang akan berputar dan kembali kepadamu, masing-masing menimpakan DMG sebesar <b>52.8%</b> ATK plus <b>3</b> dan mendapatkan <b>Hyperbody</b> selama maks <b>8</b> detik. Efek ini akan lenyap saat pisau-pisau itu kembali kepadamu. CD: <b>45</b> detik."
     },
     {
+      "id": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
       "name": "Orbiting Blades",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>, lalu menerjang ke lokasi target dan menyerang musuh, menimpakan DMG sebesar <b>86.9%</b> ATK plus <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimpakan Volt DMG sebesar <b>15%</b> dari DMG yang ditimpakan, maks <b>350%</b> ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 pisau akan muncul dan mengitari Wanderer, menimpakan DMG sebesar <b>65.2%</b> ATK plus <b>3</b> kepada musuh yang menyentuhnya."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>, lalu menerjang ke lokasi target dan menyerang musuh, menimpakan DMG sebesar <b>86.9%</b> ATK plus <b>5</b> dan membuat target terkena sengatan listrik (setelah <b>5</b> detik, menimpakan Volt DMG sebesar <b>15%</b> dari DMG yang ditimpakan, maks <b>350%</b> ATK Wanderer. Ini adalah status abnormal yang bisa ditangkal). 3 pisau akan muncul dan mengitari Wanderer, menimpakan DMG sebesar <b>65.2%</b> ATK plus <b>3</b> kepada musuh yang menyentuhnya."
     }
   ],
   "weapon_type": {
     "name": "Volt",
-    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target tidak bisa menerima buff."
+    "description": "Saat senjata terisi penuh, serangan berikutnya akan mengakibatkan <b>Paralyze Kuat</b> pada target selama <b>1</b> detik dan menerapkan Electrify selama <b>6</b> detik, menetralkan semua buff mereka dan menimpakan DMG sebesar <b>144%</b> ATK. Selama <b>6</b> detik berikutnya, target yang terkena Electrify tidak bisa menerima buff."
   },
   "advancement": [
     "Menyerang target dari belakang meningkatkan Crit Rate semua serangan Dual Blade sebesar <b>40%</b>. Melakukan Backstab pada target yang terkena Electrify akan meningkatkan Crit Rate sebesar <b>100%</b> dan Crit DMG sebesar <b>30%</b>.",

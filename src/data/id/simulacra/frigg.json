@@ -19,6 +19,7 @@
   "charge": 8,
   "skills": [
     {
+      "id": "GA_PlayerFriggMelee_Melee_name",
       "name": "Serangan Biasa",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Saat di darat, mulai 5 serangan berturut-turut dengan Balmung.\nSerangan Pertama: Menimpakan DMG sebesar <b>62.1%</b> ATK plus <b>3</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Kedua: Menimpakan DMG sebesar <b>46.2%</b> ATK plus <b>2</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Ketiga: Menimpakan DMG sebesar <b>91.1%</b> ATK plus <b>5</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Keempat: Menimpakan DMG sebesar <b>55.8%</b> ATK plus <b>3</b> dan membuatnya terpental sedikit ke belakang.\nSerangan Kelima: Menimpakan DMG sebesar <b>218.4%</b> ATK plus <b>11</b> dan menjatuhkan target."
     },
     {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
       "name": "Aerial Discharge",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\nSerangan Pertama: Menimpakan DMG sebesar <b>64.4%</b> ATK plus <b>3</b>.\nSerangan Kedua: Menimpakan DMG sebesar <b>72.6%</b> ATK plus <b>4</b>.\nSerangan Ketiga: Menimpakan DMG sebesar <b>76.7%</b> ATK plus <b>4</b>.\nSerangan Keempat: Menimpakan DMG sebesar <b>107.9%</b> ATK plus <b>6</b>.\nSerangan Kelima: Menimpakan DMG sebesar <b>168.3%</b> ATK plus <b>9</b>."
     },
     {
+      "id": "GA_PlayerFriggMelee_Branch_name",
       "name": "Soaring Slash",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Saat menggunakan Serangan Biasa, tahan Serangan Biasa untuk mengaktifkan Soaring Slash.\nTerjang maju dengan sabetan horizontal, lalu buat target terkena Suspend sebelum mengudara dengannya. Menimbulkan maksimal <b>134.3%</b> ATK plus <b>7</b> DMG."
     },
     {
+      "id": "GA_PlayerFriggMelee_JumpAttack_name",
       "name": "Helix Slash",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Tekan dan tahan Serangan Biasa saat terbang, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Helix Slash.\nSaat turun, menimpakan DMG sebesar <b>19.8%</b> ATK plus <b>1</b> tiap kali menghantam target. Saat mendarat, menimpakan DMG sebesar <b>185.7%</b> ATK plus <b>10</b> kepada target di sekitar."
     },
     {
+      "id": "GA_FPlayerFriggEvade_BackAttack_name",
       "name": "Multislash",
       "type": [
         "Perfect Dodge",
@@ -58,6 +63,7 @@
       "description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat untuk mengaktifkan Multislash.\nMelakukan tebasan beruntun sejauh jarak tertentu di depan pemain, menimpakan DMG dengan total sebesar <b>143.9%</b> ATK plus <b>8</b>."
     },
     {
+      "id": "GA_FPlayerFriggSkill_Skill_name",
       "name": "Fimbulwinter",
       "type": [
         "Skill"
@@ -65,11 +71,12 @@
       "description": "Menebas area di sekitar Wanderer, menimpakan DMG sebesar <b>577.5%</b> ATK plus <b>30</b>, membuat target terpental ke atas dan menahan mereka di udara, dan mendapatkan Imunitas DMG selama skill ini digunakan. CD: <b>30</b> detik.\nSetelah mengeluarkan <b>\"Fimbulwinter\"</b>, akan terbentuk Frost Domain yang luas di sekitar Wanderer yang aktif selama <b>25</b> detik. Jatah Menghindar tidak akan berkurang saat kamu Menghindar dengan Balmung dalam Frost Domain.\nSaat berada di dalam Frost Domain, kamu mendapatkan \"Domain of Frost I\": Saat menggunakan Senjata Frost, Shatter meningkat <b>25%</b>, sedangkan Frost ATK meningkat <b>15%</b>."
     },
     {
+      "id": "GA_FPlayerFriggChangeSkill_Success_name",
       "name": "Frigid Fracture",
       "type": [
         "Discharge"
       ],
-      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari penggunanya</b>. Selain itu, penggunanya akan menerjang maju dan menyerang musuh di sekitar, menerapkan efek kontrol kepada mereka, dan dilanjutkan dengan sabetan besar. Serangan ini membuat target terpental ke atas dan menimpakan DMG sebesar <b>618.2%</b>ATK plus <b>33</b>."
+      "description": "Saat <span class=\"text-red\">Charge Senjata</span> penuh atau <span class=\"text-red\">Phantasia</span> terpicu, beralih ke senjata ini akan <b>melenyapkan semua Debuff dari Wanderer</b>. Selain itu, penggunanya akan menerjang maju dan menyerang musuh di sekitar, menerapkan efek kontrol kepada mereka, dan dilanjutkan dengan sabetan besar. Serangan ini membuat target terpental ke atas dan menimpakan DMG sebesar <b>618.2%</b>ATK plus <b>33</b>."
     }
   ],
   "weapon_type": {

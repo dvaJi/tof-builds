@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerGunMelee_Melee_name",
       "name": "Ataque normal",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "En el suelo, usa el ataque normal para lanzar 5 ataques seguidos.\nEl primer ataque inflige daño total igual a <b>52.3%</b> del ATQ + <b>3</b>.\nEl segundo ataque inflige daño total igual a <b>75.6%</b> del ATQ + <b>4</b>.\nEl tercer ataque inflige daño total igual a <b>94.5%</b> del ATQ + <b>5</b>.\nEl cuarto ataque inflige daño total igual al <b>142.8%</b> del ATQ +<b>8</b>.\nEl quinto ataque inflige daño total igual a <b>137.8%</b> del ATQ +<b>7</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Power_name",
       "name": "Disparo Cargado",
       "type": [
         "Hold: Attack"
@@ -33,6 +35,7 @@
       "description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque y suéltalo para disparar proyectiles, lo que inflige <b>95.4%</b> del ATQ más <b>5</b> de daño, más una explosión 3 seg después (o si el objetivo muere), lo que inflige <b>23.9%</b> del ATQ como daño a los enemigos cercanos. Cada vez que se inflige daño al objetivo durante la explosión (hasta <b>4</b> veces), el efecto de área de duplica y el daño aumenta."
     },
     {
+      "id": "GA_FPlayerGunMelee_JumpAttack_name",
       "name": "Ráfaga de Salto",
       "type": [
         "Jump",
@@ -41,6 +44,7 @@
       "description": "Mientras estás en el aire o después de saltar una vez, lanza Ráfaga de Salto.\nLanza una bomba que inflige daño igual a <b>90.8%</b> del ATQ más <b>5</b> a los enemigos en un círculo por delante, lo que los hace retroceder una corta distancia. Consume <b>250</b> de resistencia."
     },
     {
+      "id": "GA_FPlayerGunMelee_AirAttack_name",
       "name": "Descarga Aérea",
       "type": [
         "Double Jump"
@@ -48,6 +52,7 @@
       "description": "Después de un salto doble, lanza una Descarga Aérea en el aire.\nDispara un rayo de Omnio hacia abajo. Luego, el rayo barre hacia delante, lo que inflige daño igual a <b>33.8%</b> del ATQ más <b>2</b>."
     },
     {
+      "id": "GA_FPlayerGunMelee_Branch_name",
       "name": "Bombardeo Pesado",
       "type": [
         "Attack",
@@ -56,6 +61,7 @@
       "description": "Mantén pulsado el botón de ataque durante un ataque normal para desatar Fuego Sofocante al frente, lo que inflige daño de área igual al <b>102%</b> del ATQ más <b>5</b> en total."
     },
     {
+      "id": "GA_FPlayerGunEvade_BackAttack_name",
       "name": "Corta Distancia",
       "type": [
         "Dodge",
@@ -64,6 +70,7 @@
       "description": "Utiliza el ataque normal justo después de esquivar para activar Corta Distancia.\nInflige daño igual a <b>156.1%</b> del ATQ más <b>8</b> a los objetivos en un área de cono frontal."
     },
     {
+      "id": "GA_FPlayerGunSkill_name",
       "name": "Ráfaga",
       "type": [
         "Skill"
@@ -71,11 +78,12 @@
       "description": "Inflige daño continuamente en un área del cono frontal, lo que inflige daño total igual a <b>666%</b> del ATQ más <b>35</b>. Enfriamiento: <b>60</b> seg."
     },
     {
+      "id": "GA_FPlayerGunChangeSkill_NewNew_Sucess_name",
       "name": "Lluvia Explosiva",
       "type": [
         "Discharge"
       ],
-      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del portador</b> y arroja <b>3</b> granadas hacia adelante, lo que inflige daño de área igual a <b>570%</b> del ATQ más <b>30</b> en total y <b>lanza</b> al objetivo."
+      "description": "Cuando la <span class=\"text-red\">carga de arma</span> está completa o se activa <span class=\"text-red\">Phantasia</span>, al cambiar a esta arma, <b>elimina todas las desventajas del nómada</b> y arroja <b>3</b> granadas hacia adelante, lo que inflige daño de área igual a <b>570%</b> del ATQ más <b>30</b> en total y <b>lanza</b> al objetivo."
     }
   ],
   "weapon_type": {

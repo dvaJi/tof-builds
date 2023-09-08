@@ -19,6 +19,7 @@
   "charge": 5,
   "skills": [
     {
+      "id": "GA_FPlayerSickleMelee_Melee_name",
       "name": "Normaler Angriff",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Wenn der Anwender am Boden die Sense schwingt, kann er 5-mal hintereinander angreifen.\nErster Angriff: Verursacht Schaden in Höhe von <b>57.1%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>49.1%</b> des ANG +<b>3</b> und stößt das Ziel eine kurze Strecke zurück.\nDritter Angriff: Verursacht Schaden in Höhe von <b>106.8%</b> des ANG +<b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nVierter Angriff: Verursacht Schaden in Höhe von <b>109.5%</b> des ANG +<b>6</b> und stößt das Ziel eine kurze Strecke zurück.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>104.2%</b> des ANG +<b>5</b>, lässt das Ziel <b>länger schweben</b> und den Wanderer in die Luft steigen."
     },
     {
+      "id": "GA_FPlayerSickleMeleeFire_SSR_AirAttack_name",
       "name": "Sensen-Aufschwung",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Greift in der Luft oder nach einmaligem Springen 5-mal hintereinander an.\nErster Angriff: Verursacht Schaden in Höhe von <b>63.4%</b> des ANG +<b>3</b>.\nZweiter Angriff: Verursacht Schaden in Höhe von <b>68.8%</b> des ANG +<b>4</b>.\nDritter Angriff: Verursacht Schaden in Höhe von <b>190.5%</b> des ANG +<b>10</b>.\nVierter Angriff: Verursacht Schaden in Höhe von <b>213.6%</b> des ANG +<b>11</b>.\nFünfter Angriff: Verursacht Schaden in Höhe von <b>173.9%</b> des ANG +<b>9</b> und bringt das Ziel zu Fall. Je höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
+      "id": "GA_FPlayerSickleMeleeFire_SSR_JumpAttack_name",
       "name": "Zerschlagen",
       "type": [
         "Jump",
@@ -42,6 +45,7 @@
       "description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Zerschlagen“ auszulösen.\nVerursacht beim Fallen pro Treffer Schaden in Höhe von <b>12.5%</b> des ANG +<b>1</b>. Verursacht bei der Landung Schaden in Höhe von <b>71.9%</b> des ANG +<b>4</b> und einen <b>Knockdown</b>.\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu <b>600%</b>)."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
       "name": "Bumerang-Kettenklinge",
       "type": [
         "Attack",
@@ -50,6 +54,7 @@
       "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Schneller Stoß“ auszulösen.\nVerursacht Schaden in Höhe von bis zu <b>137.4%</b> des ANG +<b>7</b> und zieht Gegner in der Nähe an."
     },
     {
+      "id": "GA_FPlayerSickleSneakFire_SSR_name",
       "name": "Schleichattacke",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von <b>570%</b> des ANG +<b>30</b> verursacht."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_FrontAttack_name",
       "name": "Bumerang-Kettenklinge",
       "type": [
         "Perfect Dodge",
@@ -66,6 +72,7 @@
       "description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Schneller Stoß“ auszulösen.\nVerursacht Schaden in Höhe von bis zu <b>126.9%</b> des ANG +<b>7</b> und zieht Gegner in der Nähe an."
     },
     {
+      "id": "GA_FPlayerSickleEvadeFire_SSR_BackAttack_name",
       "name": "Domäne der Fledermaus",
       "type": [
         "Dodge",
@@ -74,6 +81,7 @@
       "description": "Beschwöre beim Ausweichen eine Domäne der Fledermaus, die das Ziel in die Mitte zieht. Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um die Sense zu schwingen und dem Ziel bis zu <b>114.3%</b> des ANG +<b>6</b> Schaden zuzufügen."
     },
     {
+      "id": "GA_FPlayerSickleSkillFire_SSR_name",
       "name": "Todesspirale",
       "type": [
         "Skill"
@@ -81,11 +89,12 @@
       "description": "Schwinge die Sense, um Schaden in Höhe von <b>499.9%</b> des ANG +<b>26</b> zu verursachen. Abklingzeit: <b>45</b> Sek."
     },
     {
+      "id": "GA_FPlayerSickleChangeSkillFire_SSR_New_Sucess_name",
       "name": "Flammensense",
       "type": [
         "Discharge"
       ],
-      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Anwender entfernt</b> und eine Flammensense erzeugt. Dies verursacht Schaden in Höhe von <b>398.3%</b> des ANG +<b>21</b>. Hält <b>10</b> Sek. an. Außerdem wird alle <b>2</b> Sek. ein Flammensensen-Gebiet erzeugt. Die Sensen erzeugen Vulkanausbrüche am Boden, die Zielen Schaden in Höhe von <b>66%</b> des ANG +<b>3</b> zufügen und sie schweben lassen."
+      "description": "Wenn die <span class=\"text-red\">Waffenladung</span> voll ist oder <span class=\"text-red\">Trugbild</span> ausgelöst wird, werden beim Wechsel zu dieser Waffe <b>alle Debuffs vom Wanderer entfernt</b> und eine Flammensense erzeugt. Dies verursacht Schaden in Höhe von <b>398.3%</b> des ANG +<b>21</b>. Hält <b>10</b> Sek. an. Außerdem wird alle <b>2</b> Sek. ein Flammensensen-Gebiet erzeugt. Die Sensen erzeugen Vulkanausbrüche am Boden, die Zielen Schaden in Höhe von <b>66%</b> des ANG +<b>3</b> zufügen und sie schweben lassen."
     }
   ],
   "weapon_type": {

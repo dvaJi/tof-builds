@@ -19,6 +19,7 @@
   "charge": 4,
   "skills": [
     {
+      "id": "GA_FPlayerBigSwordMeleeIce_SSR_name",
       "name": "Frappe lourde",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "Lorsque vous êtes au sol, brandissez une grande épée pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>72.9%</b> de l'ATQ + <b>4</b> et repousse la cible sur une courte distance.\nDeuxième attaque : inflige des dégâts équivalant à <b>60.1%</b> de l'ATQ + <b>3</b> et repousse la cible sur une courte distance.\nTroisième attaque : inflige des dégâts équivalant à <b>105.4%</b> de l'ATQ + <b>6</b> et repousse la cible sur une courte distance.\nQuatrième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>, <b>projette fortement</b> la cible, puis la projette après l'atterrissage."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Frappe aérienne",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 4 fois de suite.\nPremière attaque : inflige des dégâts équivalant à <b>106.5%</b> de l'ATQ + <b>6</b>.\nDeuxième attaque : inflige des dégâts équivalant à <b>87.5%</b> de l'ATQ + <b>5</b>.\nTroisième attaque : inflige des dégâts équivalant à <b>156%</b> de l'ATQ + <b>8</b>.\nQuatrième attaque : inflige des dégâts équivalant à <b>140.5%</b> de l'ATQ + <b>7</b> et <b>renverse</b> la cible avant de la projeter dans les airs au moment de toucher le sol."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Branch_name",
       "name": "Taillade ascendante",
       "type": [
         "Attack",
@@ -42,6 +45,7 @@
       "description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Taillade ascendante.\nAu contact, <b>suspend longuement</b> la cible et vous fait décoller du sol, infligeant des dégâts équivalant à <b>64.3%</b>de l'ATQ + <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_JumpAttack_name",
       "name": "Taillade crépusclunaire",
       "type": [
         "Jump",
@@ -50,6 +54,7 @@
       "description": "Taillade crépusclunaire"
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_R_Sneak_name",
       "name": "Attaque furtive",
       "type": [
         "Croch",
@@ -58,6 +63,7 @@
       "description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à <b>570%</b> de l'ATQ + <b>30</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_Power_name",
       "name": "Tourbillon",
       "type": [
         "Hold: Attack"
@@ -65,6 +71,7 @@
       "description": "Lorsque vous êtes debout ou lorsque vous vous déplacez, maintenez Attaque normale pour déclencher Tourbillon. Inflige à la cible des dégâts équivalant à <b>132.8%</b> de l'ATQ + <b>7</b> chaque <b>0,5</b> seconde. Confère une immunité à l'hébétement pendant que vous l'utilisez."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR_name",
       "name": "Dévastation",
       "type": [
         "Perfect Dodge",
@@ -73,6 +80,7 @@
       "description": "Appuyer sur l'attaque normale pendant la courte fenêtre d'esquive parfaite (appuyez sur un bouton flèche avant d'esquiver) pour déclencher Dévastation.\nVous infligez des dégâts équivalant à <b>65.9%</b> de l'ATQ + <b>3</b> à chaque coup et <b>vous projetez</b> les cibles."
     },
     {
+      "id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR_name",
       "name": "Taillade en croissant",
       "type": [
         "Dodge",
@@ -81,6 +89,7 @@
       "description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Taillade en croissant.\nVous brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à <b>49.6%</b> de l'ATQ + <b>3</b>."
     },
     {
+      "id": "GA_FPlayerBigSwordBigSkillIce_SSR_name",
       "name": "Blizzard",
       "type": [
         "Skill"
@@ -88,11 +97,12 @@
       "description": "Brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à <b>141.7%</b> de l'ATQ + <b>7</b> qui augmentent de <b>5%</b> à chaque coup. L'attaque vous immunise contre les effets de contrôle. Temps de recharge : <b>30</b> secondes."
     },
     {
+      "id": "GA_FPlayerBigSwordChangeSkillIce_SSR_name",
       "name": "Barrière de givre",
       "type": [
         "Discharge"
       ],
-      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, au moment où vous changez d'arme, <b>supprime toutes les altérations sur le porteur</b>, et frappe le sol pour former une barrière. Inflige des dégâts équivalant à <b>503.2%</b> de l'ATQ + <b>26</b> aux ennemis proches, et suspend les cibles. Ceci réduit leur vitesse de <b>50%</b> et les empêche d'esquiver ou de sauter. La barrière dure <b>5</b> secondes et bloque les projectiles."
+      "description": "Lorsque la <span class=\"text-red\">recharge d'arme</span> est pleine, ou lorsque <span class=\"text-red\">Fantaisie</span> est déclenchée, au moment où vous changez d'arme, <b>supprime toutes les altérations sur l'Explorateur</b>, et frappe le sol pour former une barrière. Inflige des dégâts équivalant à <b>503.2%</b> de l'ATQ + <b>26</b> aux ennemis proches, et suspend les cibles. Ceci réduit leur vitesse de <b>50%</b> et les empêche d'esquiver ou de sauter. La barrière dure <b>5</b> secondes et bloque les projectiles."
     }
   ],
   "weapon_type": {

@@ -19,6 +19,7 @@
   "charge": 10,
   "skills": [
     {
+      "id": "GA_FPlayerShieldMelee_Melee_name",
       "name": "Normal Attack",
       "type": [
         "Attack"
@@ -26,6 +27,7 @@
       "description": "While on the ground, swing the shield axe to attack 4 times in a row.\nFirst Attack in Shield Form: Deal damage equal to <b>77.7%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>56.9%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>62.8%</b> of ATK plus <b>3</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>184%</b> of ATK plus <b>10</b> and <b>launch the target into the air</b>.\nFirst Attack in Axe Form: Deal damage equal to <b>135.2%</b> of ATK plus <b>7</b> and knock the target back a short distance.\nSecond Attack: Deal damage equal to <b>79.4%</b> of ATK plus <b>4</b> and knock the target back a short distance.\nThird Attack: Deal damage equal to <b>119.9%</b> of ATK plus <b>6</b> and knock the target back a short distance.\nFourth Attack: Deal damage equal to <b>221.3%</b> of ATK plus <b>12</b> and knock the target back."
     },
     {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
       "name": "Aerial Strike",
       "type": [
         "Jump",
@@ -34,6 +36,7 @@
       "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\nFirst Attack: Deal damage equal to <b>75.9%</b> of ATK plus <b>4</b>.\nSecond Attack: Deal damage equal to <b>80.2%</b> of ATK plus <b>4</b>.\nThird Attack: Deal damage equal to <b>103%</b> of ATK plus <b>5</b>.\nFourth Attack: Deal damage equal to <b>118.6%</b> of ATK plus <b>6</b> and deliver a <b>knockdown</b>, launch the target upon landing."
     },
     {
+      "id": "GA_FPlayerShieldMelee_PowerAttack_name",
       "name": "Anticipation",
       "type": [
         "Hold: Attack"
@@ -41,6 +44,7 @@
       "description": "Shield Form: While on the ground, tap and hold normal attack to enter shield form (release to exit) for <b>3</b> seconds, during which the Wanderer is unable to move, and all damage taken is reduced by <b>50%</b>. While in shield form, releasing the normal attack button after taking damage or after holding the button for <b>3</b> seconds unleashes fire crash, dealing damage equal to <b>167.3%</b> of ATK plus <b>9</b> and inflicting a <b>1</b>-second <b>stun</b> effect on the target.\nAxe Form: Smash the target, dealing damage equal to <b>122.2%</b> of ATK plus <b>6</b> and suspending the target."
     },
     {
+      "id": "GA_FPlayerShieldMelee_JumpAttack_name",
       "name": "Valor",
       "type": [
         "Jump",
@@ -49,6 +53,7 @@
       "description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger aerial branch attacks.\nShield Form: While falling, deal damage equal to <b>12.5%</b> of ATK plus <b>1</b> each hit. Upon landing, deal damage equal to <b>89.2%</b> of ATK plus <b>5</b> and suspend the target.\nAxe Form: While falling, deal damage equal to <b>12.5%</b> of ATK plus <b>1</b> each hit. Upon landing, deal damage equal to <b>128.3%</b> of ATK plus <b>7</b> and suspend the target.\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to <b>600%</b> damage."
     },
     {
+      "id": "GA_FPlayerShieldEvade_EvadeAttack_name",
       "name": "Erupt",
       "type": [
         "Dodge",
@@ -57,6 +62,7 @@
       "description": "Use normal attack during the short period after dodging to trigger Dodge Attack.\nShield Form: Unleash a flaming shield, dealing damage equal to <b>55.8%</b> of ATK plus <b>3</b> and knocking back targets. In addition, trigger an explosion that deals damage equal to <b>55.8%</b> of ATK plus <b>3</b>, <b>stun</b> targets for <b>0.5</b> seconds, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds.\nAxe Form: Swing an axe to deal damage equal to <b>55.8%</b> of ATK plus <b>3</b>, and reduce incoming healing effects on targets by <b>30%</b> for <b>10</b> seconds."
     },
     {
+      "id": "GA_FPlayerShieldSkill_name",
       "name": "Fission",
       "type": [
         "Skill"
@@ -64,11 +70,12 @@
       "description": "Shield Conversion: Switch from shield form to axe form and smash the ground, dealing damage equal to <b>373.8%</b> of ATK plus <b>20</b> and <b>strongly suspending</b> the target. Leave a large flame zone for <b>5</b> seconds that burns the target, dealing continuous damage equal to <b>233.6%</b> of ATK plus <b>12</b>.\nAxe Conversion: Switch from axe form to shield form and slam it to the ground, dealing damage equal to <b>309.5%</b> of ATK plus <b>16</b> to the target and knocking them back. Prevent the target from switching weapons for <b>5</b> seconds.\nCooldown: <b>25</b> seconds. Shield Conversion, and Axe Conversion share a cooldown."
     },
     {
+      "id": "GA_FPlayerShieldChangeSkill_Success_name",
       "name": "Seething Rage",
       "type": [
         "Discharge"
       ],
-      "description": "When <span class=\"text-red\">weapon charge is full</span> or when <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the wielder</b> and unleash a flame shockwave, dealing damage equal to <b>352%</b> of ATK plus <b>19</b>. Taunt enemies for <b>5</b> seconds, during which a <b>15%</b> damage reduction is gained. Scatter shield-shaped objects based on the number of targets taunted. Objects last <b>20</b> seconds and provide <b>10</b> seconds of <b>5%</b> damage reduction (stackable), restoring dodge by 1."
+      "description": "When <span class=\"text-red\">weapon charge is full</span> or when <span class=\"text-red\">Phantasia</span> is triggered, upon switching to this weapon, <b>remove all debuffs from the Wanderer</b> and unleash a flame shockwave, dealing damage equal to <b>352%</b> of ATK plus <b>19</b>. Taunt enemies for <b>5</b> seconds, during which a <b>15%</b> damage reduction is gained. Scatter shield-shaped objects based on the number of targets taunted. Objects last <b>20</b> seconds and provide <b>10</b> seconds of <b>5%</b> damage reduction (stackable), restoring dodge by 1."
     }
   ],
   "weapon_type": {
@@ -81,7 +88,7 @@
     "While in shield form, branch/dodge attacks deal additional damage to targets equal to <b>4%</b> of the user's current HP.",
     "Increase the current weapon's base ATK growth by <b>32%</b>.",
     "After switching to a shield axe, immediately grant <b>30%</b> damage reduction that diminishes by <b>10%</b> every <b>3</b> seconds, down to a minimum of <b>10%</b>. Switching weapons cancels this effect. Cooldown: <b>30</b> seconds.",
-    "Enhance conversion skills.\nShield Conversion Enhancement: Increases damage dealt by <b>60%</b> and expands the radius of the flame zone by <b>30%</b>.\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <b>5</b> seconds after using this skill, turns all damage received into HP (up to a maximum of <b>15%</b> of the user's Max HP)."
+    "Enhance conversion skills.\nShield Conversion Enhancement: Increases skill damage dealt by <b>60%</b> and expands the radius of the flame zone by <b>30%</b>.\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <b>5</b> seconds after using this skill, turns all damage received into HP (up to a maximum of <b>15%</b> of the user's Max HP)."
   ],
   "traits": [
     {
