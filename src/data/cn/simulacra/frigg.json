@@ -1,0 +1,287 @@
+{
+  "_id": 6,
+  "id": "frigg",
+  "name": "Frigg",
+  "weapon": "巴尔蒙克",
+  "weapon_id": "balmung",
+  "birthday": "2月1日",
+  "birthplace": "赦免天使",
+  "gender": "女",
+  "info": "少言寡语，做事干脆利落杀伐果决。\n对生命有自己独特的理解和哲学。在闲暇之余，亦会开始思索生命的真谛。",
+  "description": "赦免天使的一员，身体被改造成了由活体金属制成的机械之躯，具有无需抑制器也可抵御辐射侵蚀的能力。\n\n她是「贤者」的得力助手，对于贤者的命令从来都是无条件的服从。身为核心干部，有统御艾达之子作战部队的权限，但在大多数时候，弗丽嘉只会选择孤身一人进行行动。",
+  "like": "自己的刀",
+  "dislike": "妨碍自己的一切事物",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 8,
+  "charge": 8,
+  "skills": [
+    {
+      "id": "GA_PlayerFriggMelee_Melee_name",
+      "name": "普通攻击",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，使用巴尔蒙克进行五次攻击。\n第一次攻击对目标可造成<b>62.1%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第二次攻击对目标可造成<b>46.2%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。\n第三次攻击对目标可造成<b>91.1%</b>*攻击力+<b>5</b>点伤害，并小幅击退目标。\n第四次攻击对目标可造成<b>55.8%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第五次攻击对目标可造成<b>218.4%</b>*攻击力+<b>11</b>点伤害，并击倒目标。"
+    },
+    {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
+      "name": "空中攻击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行五次攻击。\n第一次攻击对目标造成<b>64.4%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标造成<b>72.6%</b>*攻击力+<b>4</b>点伤害。\n第三次攻击对目标造成<b>76.7%</b>*攻击力+<b>4</b>点伤害。\n第四次攻击对目标造成<b>107.9%</b>*攻击力+<b>6</b>点伤害。\n第五次攻击对目标造成<b>168.3%</b>*攻击力+<b>9</b>点伤害。"
+    },
+    {
+      "id": "GA_PlayerFriggMelee_Branch_name",
+      "name": "凌空斩",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普通攻击中，长按普攻可触发凌空斩。\n前冲一段距离横劈后再将目标攻击至浮空，自身随之滞空，对目标最多造成<b>134.3%</b>*攻击力+<b>7</b>点伤害。"
+    },
+    {
+      "id": "GA_PlayerFriggMelee_JumpAttack_name",
+      "name": "螺旋切割",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，攀爬，反向跳攻击或使用喷气背包普攻，会触发螺旋切割。\n下落过程中，每次命中目标对目标造成<b>19.8%</b>*攻击力+<b>1</b>点伤害；落地时对周围目标造成<b>185.7%</b>*攻击力+<b>10</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerFriggEvade_BackAttack_name",
+      "name": "多重斩切",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发多重斩切。\n在前方一定距离内产生多道斩切攻击，共造成<b>143.9%</b>*攻击力+<b>8</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerFriggSkill_Skill_name",
+      "name": "芬布尔之冬",
+      "type": [
+        "Skill"
+      ],
+      "description": "斩切自身周围的空间，共造成<b>577.5%</b>*攻击力+<b>30</b>点伤害，附带浮空和击飞效果，技能释放期间不会受到伤害，冷却<b>30</b>秒。\n释放技能<b>“芬布尔之冬”</b>后在自身周围形成大范围冰域，持续<b>25</b>秒。冰域内使用巴尔蒙克闪避不消耗闪避次数。\n自身处于冰域内获得“寒冰领域Ⅰ”：使用冰元素武器破盾效率提升<b>25%</b>，冰元素攻击提升<b>15%</b>。"
+    },
+    {
+      "id": "GA_FPlayerFriggChangeSkill_Success_name",
+      "name": "零度撕裂",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，向前方冲刺攻击，短暂控制周围的敌人后发起一道大范围的斩击，击飞命中的目标，共造成<b>618.2%</b>*攻击力+<b>33</b>伤害。"
+    }
+  ],
+  "weapon_type": {
+    "name": "寒冰",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>2</b>秒<b>强控冰冻</b>效果并造成<b>6</b>秒冻伤效果，冰冻破碎时造成<b>111%</b>*攻击力伤害，目标冻伤期间武器充能值获取速度降低<b>50%</b>。"
+  },
+  "weapon_resonance": {
+    "name": "寒冰共鸣",
+    "description": "<b>寒冰共鸣</b>：装备<b>2</b>把及以上寒冰武器触发，提升<b>15%</b>冰攻和<b>25%</b>冰抗，装备后后台可生效，同类效果不叠加。"
+  },
+  "advancement": [
+    "冰域内自身每造成<b>550%</b>*冰攻的任意元素伤害获得<b>1</b>点寒冰值，寒冰值最多累积<b>10</b>点。\n冰域结束时会对冰域内所有敌方目标造成寒冰值点数*<b>95%</b>*冰攻的“爆域伤害”。离开冰域后每<b>3</b>秒后损失<b>1</b>点寒冰值。",
+    "当前武器的基础生命成长+<b>16%</b>",
+    "寒冰值上限提高到<b>15</b>点，冰域内释放任意寒冰武器连携技时会对冰域内所有目标造成（自身寒冰值点数+5）*<b>25%</b>*冰攻的伤害。",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "冰域内使用寒冰武器破盾会冰冻目标<b>2</b>秒，并额外造成寒冰值点数*<b>35%</b>*冰攻的伤害（目标无法被冰冻则额外造成的伤害翻倍）。",
+    "寒冰值达到<b>15</b>点时自身处于冰域内额外获得“寒冰领域II”：使用寒冰武器时冰攻提升<b>25%</b>。"
+  ],
+  "traits": [
+    {
+      "name": "冻结",
+      "description": "进入战斗时每<b>3</b>秒获得<b>1.5%</b>寒冰攻击力提升，最多叠加<b>10</b>层，持续<b>5</b>秒。"
+    },
+    {
+      "name": "冰封",
+      "description": "进入战斗时每<b>3</b>秒获得<b>2.4%</b>寒冰攻击提升，最多叠加<b>10</b>层，持续<b>5</b>秒，并且在冰域内获得霸体效果和免疫控制效果。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "寒冬之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "合金增强框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

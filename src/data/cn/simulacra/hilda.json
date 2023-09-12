@@ -1,0 +1,134 @@
+{
+  "_id": 7,
+  "id": "hilda",
+  "name": "Hilda",
+  "weapon": "终结者",
+  "weapon_id": "the_terminator",
+  "birthday": "4月11日",
+  "birthplace": "班吉斯",
+  "gender": "女",
+  "info": "爽朗热情的少女，大大咧咧不拘小节，人缘颇好。\n不在乎男女老少的差别和身份差距，总是以相同的态度待人，无论大人还是小孩都能去融入其中与之打成一片。尤其将班吉斯重工老板的儿子迪奥视为好友。\n缺点是神经大条，粗心，时常丢三落四，甚至会忘带武器出门。",
+  "description": "作为班吉斯港口的“大明星”，在那里，没有一个居民不认识希尔达。\n班吉斯对她来说正是最重要、需要好好守护着的家乡。\n希尔达没有固定的职责，大多数时候只是在港口上的店铺之间周转，打工赚取零花钱，有时也会做一些力所能及的巡逻、警备工作，感觉累的时候就自己给自己放个假，吃吃买买潇洒过日子。",
+  "like": "炸鸡、庆典、砍价",
+  "dislike": "规划生活",
+  "element": "Ice",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 10,
+  "charge": 10,
+  "skills": [
+    {
+      "id": "GA_FPlayerCannonMelee_Melee_name",
+      "name": "普通攻击",
+      "type": [
+        "Attack"
+      ],
+      "description": "点击普攻进入到瞄准状态，长按普攻，可进行连续射击，最多可连续射击<b>40</b>发子弹。每发子弹造成<b>11.4%</b>*攻击力+<b>1</b>点伤害。若命中怪物头部或者弱点，触发爆头效果（爆头效果对拓荒者无效），造成双倍伤害，并击倒目标"
+    },
+    {
+      "id": "GA_FPlayerCannonSkill_name",
+      "name": "炮台",
+      "type": [
+        "Skill"
+      ],
+      "description": "开启炮台模式，射出能量巨大的炮弹，每发炮弹造成<b>213.3%</b>*攻击力+<b>11</b>点伤害，并击飞目标，冷却<b>3.5</b>秒，架设炮台时免疫硬直和控制效果。"
+    },
+    {
+      "id": "GA_FPlayerCannonChangeSkill_New_Sucess_name",
+      "name": "极寒激光",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，向前方发出一束极寒激光，命中造成<b>329.2%</b>*攻击力+<b>17</b>伤害，附带<b>3</b>秒<b>强控冰冻</b>效果，同时使目标冰抗减少<b>50%</b>，持续<b>10</b>秒"
+    }
+  ],
+  "weapon_type": {
+    "name": "寒冰",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>2</b>秒<b>强控冰冻</b>效果并造成<b>6</b>秒冻伤效果，冰冻破碎时造成<b>111%</b>*攻击力伤害，目标冻伤期间武器充能值获取速度降低<b>50%</b>。"
+  },
+  "advancement": [
+    "普攻每次命中提高<b>1%</b>伤害，持续<b>2</b>秒，最多叠加<b>15</b>层，子弹提升至<b>60</b>发。",
+    "当前武器的基础攻击成长+<b>10%</b>",
+    "切换至该武器后<b>10</b>秒内普攻伤害和破盾率提高<b>30%</b>，冷却<b>25</b>秒，子弹提升至<b>80</b>发。",
+    "当前武器的基础攻击成长+<b>20%</b>",
+    "炮塔状态下的普攻冷却时间降低到<b>2</b>秒。",
+    "切换至该武器后<b>10</b>秒内普攻伤害和破盾率提高<b>60%</b>，冷却<b>25</b>秒。"
+  ],
+  "traits": [
+    {
+      "name": "希尔达-油门狂踩",
+      "icon": true,
+      "description": "希尔达乘坐载具时，移速增加<b>7%</b>"
+    },
+    {
+      "name": "希尔达-全速漂移",
+      "icon": true,
+      "description": "希尔达乘坐载具时，移速增加<b>10%</b>"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

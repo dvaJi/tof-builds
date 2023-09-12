@@ -1,5 +1,5 @@
 {
-  "_id": 40005,
+  "_id": 28,
   "id": "cobaltb",
   "name": "Кобальт-Би",
   "suitName": "Интуитивная тактика",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase damage against debuffed targets by <b>14%</b>/16%/18%/20%."
+      "value": "Восстанавливает 1 попытку уклонения каждые 4 уклонения. Атака с уклонением накладывает горение, наносящее урон в размере{0}%/{1}%/{2}%/{3}% от АТК каждую секунду в течение {4} сек."
     },
     {
       "count": 4,
-      "value": "Restore <b>1</b> dodge attempt every <b>3</b> dodges. Dodge skills inflict burn upon hit, dealing damage equal to <b>24%</b>/30%/36%/42% of ATK every 0.5 seconds for <b>4</b> seconds."
+      "value": "Увеличивает урон, наносимый целям с дебаффом, на {0}%/{1}%/{2}%/{3}%."
     }
   ],
   "mind": {

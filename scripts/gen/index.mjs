@@ -25,7 +25,7 @@ const OFFICIALLOC_PATH = path.join(
   'OfficialLocalization'
 );
 
-const locales = ['en', 'es', 'de', 'fr', 'id', 'ja', 'pt', 'th'];
+const locales = ['en', 'es', 'de', 'fr', 'id', 'ja', 'pt', 'th', 'ru', 'zh-CN'];
 
 async function main() {
   logger.info('Generating items...', process.env.MYCUSTOM_DEV_ENV);
@@ -34,10 +34,11 @@ async function main() {
       const textMap = JSON.parse(
         fs.readFileSync(path.join(OFFICIALLOC_PATH, locale, `Game.json`))
       );
-      await mainItems(textMap, locale, { ...ENtextMap });
-      await mainMatrices(textMap, locale, { ...ENtextMap });
-      await mainSimulacra(textMap, locale, { ...ENtextMap });
-      await mainMounts(textMap, locale, { ...ENtextMap });
+      const lang = locale === 'zh-CN' ? 'cn' : locale;
+      await mainItems(textMap, lang, { ...ENtextMap });
+      await mainMatrices(textMap, lang, { ...ENtextMap });
+      await mainSimulacra(textMap, lang, { ...ENtextMap });
+      await mainMounts(textMap, lang, { ...ENtextMap });
     }
   }
 

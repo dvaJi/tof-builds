@@ -1,0 +1,284 @@
+{
+  "_id": 15,
+  "id": "tsubasa",
+  "name": "Hane",
+  "weapon": "冰风之矢",
+  "weapon_id": "icewind_arrow",
+  "birthday": "3月24日",
+  "birthplace": "艾达之子",
+  "gender": "女",
+  "info": "见风使舵的投机主义者，活跃，话唠，喜欢凑热闹。\n自来熟，就算被指着鼻子骂墙头草也不会生气的好脾气，能若无其事地接纳形形色色的观念，和谁都能在短时间内勾肩搭背称兄道弟起来。\n但归根结底，要在这个视自由为一切的家伙身上追求持久的安心信赖感是绝无可能的。",
+  "description": "她自己提交的履历显示，四枫院曾是呆过一段时间星岛避难所的平民，曾是鬣狗帮的干部，曾是海嘉德的打工仔——现在我们用作拟态的她的数据就是这个时期留下的。\n在那之后，她选择了彻底背叛海嘉德而加入艾达之子。\n只能将其形容为是极为不安定的一棋。虽然目前的境况不明，但能确定的是以她的能力在艾达之子中不可能会只当一个小卒。\n完全不以理念、善恶、目标和行事准则去决定自己要与哪一边成为一路人，就好像他人身上的这些元素对她而言根本无所谓一般。她从属过这么多个组织，却又好像从来没真正属于过任何地方。",
+  "like": "风、重力、自由、泡泡糖",
+  "dislike": "静止、稳定",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 4,
+  "charge": 11.5,
+  "skills": [
+    {
+      "id": "GA_FPlayerBowMeleeIce_SSR_name",
+      "name": "弓箭普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，连续拉弓进行五次攻击。\n第一次攻击对目标造成<b>48.8%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标造成<b>43.7%</b>*攻击力+<b>2</b>点伤害。\n第三次攻击对目标造成<b>78.6%</b>*攻击力+<b>4</b>点伤害。\n第四次攻击对目标造成<b>121.2%</b>*攻击力+<b>6</b>点伤害。\n第五次攻击对目标造成<b>112.5%</b>*攻击力+<b>6</b>点伤害，并小幅击退目标。"
+    },
+    {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Powner_name",
+      "name": "蓄力箭",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "长按普攻，进入蓄力攻击状态，对目标造成<b>87.8%</b>*攻击力+<b>5</b>点基础伤害，蓄力每增加<b>1</b>秒，伤害增加<b>0.5</b>倍，蓄力<b>3</b>秒后达到伤害最大值，若命中怪物头部或者弱点，触发爆头效果（爆头效果对拓荒者无效），造成双倍伤害，并击倒目标。"
+    },
+    {
+      "id": "GA_FPlayerBowMeleeIce_SSR_Branch_name",
+      "name": "箭雨",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "任意一段普攻后长按普攻，释放箭雨造成范围伤害，对目标最多造成<b>287.2%</b>*攻击力+<b>15</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBowMeleeIce_SSR_AirAttack_name",
+      "name": "空中连击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时，点击普攻可在空中连续进行四次攻击。\n第一次攻击对目标造成<b>56.3%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标造成<b>74%</b>*攻击力+<b>4</b>点伤害。\n第三次攻击对目标造成<b>112.7%</b>*攻击力+<b>6</b>点伤害。\n第四次攻击对目标造成<b>169.8%</b>*攻击力+<b>9</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBowEvadeIce_SSR_Attack_name",
+      "name": "蓄力一击",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避后，点击攻击，可触发蓄力一击效果，<b>强制击退</b>目标，并对目标造成<b>124%</b>*攻击力+<b>7</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBowSkillIce_SSR_name",
+      "name": "穿透箭",
+      "type": [
+        "Skill"
+      ],
+      "description": "后空翻并向前方射出<b>3</b>支穿透箭，主箭对目标造成<b>258.3%</b>*攻击力+<b>14</b>点伤害，另外两支箭造成60%的伤害，并<b>强制击退</b>目标，目标在击退过程中碰到阻挡则会进入<b>5</b>秒晕眩，冷却<b>12</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerBowChangeSkillIce_SSR_name",
+      "name": "爆裂箭雨",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，在目标位置降下持续冰雹，对单个目标最多造成<b>570%</b>*攻击力+<b>30</b>点伤害，冰雹攻击有<b>10%</b>几率使附带<b>2</b>秒<b>强控冰冻</b>效果，同时自身进入强冷状态，移动速度增加<b>45%</b>，持续<b>7</b>秒。"
+    }
+  ],
+  "weapon_type": {
+    "name": "寒冰",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>2</b>秒<b>强控冰冻</b>效果并造成<b>6</b>秒冻伤效果，冰冻破碎时造成<b>151%</b>*攻击力伤害，目标冻伤期间武器充能值获取速度降低<b>50%</b>。"
+  },
+  "advancement": [
+    "闪避攻击每支箭命中目标，获得一层“利箭”效果，每层提高<b>5%</b>伤害，最多<b>3</b>层，持续<b>15</b>秒",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "闪避攻击射出<b>3</b>只蓄力箭",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "箭雨的持续时间延长一倍，附带<b>25%</b>减速",
+    "\"利箭\"可以叠加<b>5</b>层。蓄力箭命中目标后立即获得<b>3</b>层，如果打中头部获得<b>5</b>层"
+  ],
+  "traits": [
+    {
+      "name": "四枫院羽-暴雨",
+      "icon": true,
+      "description": "四枫院羽每次造成伤害后，获得<b>1</b>层【强击】，每<b>1</b>秒至多叠加<b>1</b>层，每层增加<b>0.5%</b>的攻击，最多叠<b>15</b>层，重新获得时刷新持续时间，持续<b>30</b>秒。"
+    },
+    {
+      "name": "四枫院羽-狂澜",
+      "icon": true,
+      "description": "四枫院羽每次造成伤害后，获得<b>1</b>层【强击】，每<b>1</b>秒至多叠加<b>1</b>层，每层增加<b>0.6%</b>的攻击，最多叠<b>30</b>层，重新获得时刷新持续时间，持续<b>30</b>秒。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "寒冬之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

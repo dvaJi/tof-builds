@@ -1,5 +1,5 @@
 {
-  "_id": 40017,
+  "_id": 30,
   "id": "saki_fuwa",
   "name": "Саки Фува",
   "suitName": "Суперпоток",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When Frost Resonance gets triggered: Every <b>3</b> seconds, deal frost damage equal to <b>65%</b>/80%/95%/110% of frost ATK to enemies within a 10-meter radius and apply the Icefrost effect: Inflict -5% slow effect that lasts for <b>350</b> seconds, freeze targets for <b>3</b> seconds after 3 stacks (does not apply to bosses), and increase frost damage taken by the target by <b>5%</b> for <b>18</b> seconds. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+      "value": "Когда срабатывает эффект резонанса холода: каждые 3 сек. наносит урон холодом в размере 60%/100%/150%/220% от АТК холодом врагам в радиусе 10 м и применяет эффект Лютого холода. Вызывает эффект замедления на 3.5%, который длится 5 сек., замораживает цели на 3 сек. 3 раза (не относится к боссам) и увеличивает урон от холода, получаемый целью, на 5% на 18 сек. Эффект этой матрицы действует также и в ячейке дополнительного оружия, но применяется только эффект набора с наивысшим звездным уровнем."
     },
     {
       "count": 4,
-      "value": "Attack the target <b>10</b> times to inflict a 12-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by <b>11%</b>/13%/15%/17%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect."
+      "value": "Атакуйте цель 10 раз, чтобы на 12 сек. наложить на неё метку Мгновенной заморозки. Мгновенная заморозка: увеличивает наносимый помеченной цели урон от холода на 11%/28%/31%/34%. Эффект этой матрицы действует также и в ячейке дополнительного оружия, но применяется только эффект набора с наивысшим звездным уровнем."
     }
   ],
   "mind": {

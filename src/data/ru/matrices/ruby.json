@@ -1,5 +1,5 @@
 {
-  "_id": 40016,
+  "_id": 29,
   "id": "ruby",
   "name": "Руби",
   "suitName": "Танец белого кролика",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increases flame ATK after casting weapon skill by <b>8%</b>/10%/12%/15% for <b>25</b> seconds. If multiple star rating effects are triggered, the one triggered last prevails. This effect does not stack."
+      "value": "Увеличивает АТК огнем после применения навыка оружия на 8%/10%/12%/15% на 25 сек. При срабатывании нескольких эффектов звездного уровня приоритет имеет тот, который сработал последним. Этот эффект не накапливается."
     },
     {
       "count": 4,
-      "value": "Grant Mastery after casting weapon skill for <b>15</b> seconds, with a cooldown of <b>15</b> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increases flame damage by <b>2%</b>/2.5%/3%/3.5% every time the target is hit with a normal attack until the end of Mastery, adding a maximum of <b>1</b> stack every <b>0.2</b> seconds, up to <b>6</b> stacks. After <b>6</b> stacks, gain a shield that can block damage <b>1</b> time."
+      "value": "После применения навыка оружия дает Мастерство на 15 сек. с перезарядкой 15 сек. (у Мастерства общая перезарядка для всех уровней). Мастерство не накапливается. До конца действия Мастерства увеличивает урон от огня на 2%/2.5%/3%/3.5% каждый раз, когда цель получает удар обычной атакой. Этот эффект накапливается не чаще 1 раза в 0,2 сек. и до 6 раз. При 6 экз. дает щит, который может 1 раз блокировать урон."
     }
   ],
   "mind": {

@@ -1,0 +1,294 @@
+{
+  "_id": 14,
+  "id": "shiro",
+  "name": "Shiro",
+  "weapon": "环海轮刃",
+  "weapon_id": "chakram_of_the_seas",
+  "birthday": "9月22日",
+  "birthplace": "无记录",
+  "gender": "女",
+  "info": "不合群、厌恶与陌生人接触、和生人接触很排斥很紧张。\n性格乖张，即便是自己的搭档也不怎么待见。只有在碰到感兴趣的事物或话题时才会情绪高涨，但她不会在意搭档能否接上，只会自顾自地说个不停；而当发现搭档接不上时又会因此生气，很长一段时间不理人。\n平时不爱搭理人，想要获得关注而没能满足时又会生气，就像宠物猫一样。",
+  "description": "“痴迷海洋的独行者”是旁人对于海洋学家：西萝的评价。这个不喜与人接触的女孩，在面对着大海时却会表露出另一副面孔：钟情且专一。\n长大后，日益展露出对海洋科学独具科研天赋的她，独自旅行数年，完成了对艾达星表面海洋分布测量的壮举，为人类对于艾达星的认识做出了卓越贡献。",
+  "like": "海洋、第一次见到和觉得好玩的海洋生物",
+  "dislike": "无记录",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "DPS",
+  "shatter": 11.7,
+  "charge": 6,
+  "skills": [
+    {
+      "id": "GA_FPlayerDartsMelee_name",
+      "name": "环刃普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，挥舞环刃可连续进行五次回旋攻击，回旋造成同等伤害。\n第一次攻击对目标造成<b>30.7%</b>*攻击力+<b>2</b>点伤害。\n第二次攻击对目标造成<b>23.8%</b>*攻击力+<b>1</b>点伤害。\n第三次攻击对目标造成<b>34%</b>*攻击力+<b>2</b>点伤害。\n第四次攻击对目标造成<b>30.7%</b>*攻击力+<b>2</b>点伤害。\n第五次攻击对目标造成<b>53.8%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。"
+    },
+    {
+      "id": "GA_FPlayerDartsMelee_AirAttack_name",
+      "name": "空中攻击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行三次回旋攻击，回旋时造成同等伤害。\n第一次攻击对目标造成<b>26.2%</b>*攻击力+<b>1</b>点伤害。\n第二次攻击对目标造成<b>29.2%</b>*攻击力+<b>2</b>点伤害。\n第三次攻击对目标造成<b>37.2%</b>*攻击力+<b>2</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDartsMelee_Branch_name",
+      "name": "散华",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第二下后，长按普攻可触发散华。\n向前方发出五个环刃，强穿透，每个环刃命中造成<b>43.5%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。"
+    },
+    {
+      "id": "GA_FPlayerDartsMelee_JumpAttack_name",
+      "name": "空旋",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，触发空旋。\n向目标发出强力一击，对目标及周围敌方单位造成<b>191.5%</b>*攻击力+<b>10</b>点伤害与浮空。"
+    },
+    {
+      "id": "GA_FPlayerDartsSneak_name",
+      "name": "偷袭",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "处于下蹲状态时靠近敌人身后，点击普攻可触发偷袭，对目标造成<b>427.5%</b>*攻击力+<b>23</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDartsEvade_BackAttack_name",
+      "name": "残月",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发残月。\n向前扔出旋转环刃，对目标造成<b>132.9%</b>*攻击力+<b>7</b>点伤害，附带<b>0.5</b>秒<b>强控眩晕</b>效果，同时环刃会分裂成<b>3</b>个继续向前飞行，对沿途目标造成<b>24.2%</b>*攻击力+<b>1</b>点伤害，<span class=\"text-red\">分裂后的环刃可在玲珑漫天中进行弹射</span>。"
+    },
+    {
+      "id": "GA_FPlayerDartsSkill_name",
+      "name": "玲珑漫天",
+      "type": [
+        "Skill"
+      ],
+      "description": "以自身为圆心形成环刃领域，持续<b>8</b>秒，释放时汇聚敌人，附带<b>8</b>秒<b>30%</b>减速，释放<b>5</b>个环刃进行弹射攻击，环刃弹射时对路径上的目标造成<b>24.2%</b>*攻击力+<b>1</b>点伤害，每个环刃最多可弹射<b>5</b>次，<span class=\"text-red\">残月触发的分裂环刃同样适用于弹射，最多可弹射5次</span>，冷却<b>45</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerDartsChangeSkill_New_Sucess_name",
+      "name": "空灵",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，向目标释放环海轮刃，命中目标附带范围<b>1</b>秒<b>强控眩晕</b>，同时每秒对最多<b>3</b>个单位攻击<b>1</b>次（攻击有<b>10%</b>几率使敌人进入<b>1.5</b>秒<b>强控眩晕</b>），造成<b>41.4%</b>*攻击力+<b>2</b>点伤害，持续<b>10</b>秒"
+    }
+  ],
+  "weapon_type": {
+    "name": "重伤",
+    "description": "武器充能值充满后下次攻击使敌人进入<b>7</b>秒重伤状态，受到伤害增加<b>20%</b>，并造成<b>137%</b>*攻击力伤害。<yellow_lbl_14_1>[组队玩法]</>中，重伤状态目标受到物理伤害额外增加<b>20%</b>。"
+  },
+  "advancement": [
+    "技能<span class=\"text-green\">玲珑漫天</span>范围内目标受到的伤害和受到的全元素破盾效果提高<b>30%</b>。",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "破盾效率提高<b>15%</b>，破盾目标后清除所有武器技能的冷却，<b>30</b>秒触发一次。",
+    "当前武器的基础生命成长+<b>32%</b>",
+    "攻击命中带重伤效果的目标，使其重伤持续时间额外增加<b>7</b>秒，同效果内最多生效一次。",
+    "释放技能<span class=\"text-green\">玲珑漫天</span>后<b>8</b>秒内必暴击。"
+  ],
+  "traits": [
+    {
+      "name": "西萝-安全警戒",
+      "icon": true,
+      "description": "西萝释放武器技能/连携技时，全攻提高<b>10%</b>，物攻额外提高<b>7%</b>，持续<b>8</b>秒，冷却<b>16</b>秒。"
+    },
+    {
+      "name": "西萝-红色告警",
+      "icon": true,
+      "description": "西萝释放武器技能/连携技时，全攻提高<b>16%</b>，物攻额外提高<b>10%</b>，持续<b>8</b>秒，冷却<b>16</b>秒。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "山岳之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "抗蚀薄膜Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "合金增强框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

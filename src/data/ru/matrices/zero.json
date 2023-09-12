@@ -1,5 +1,5 @@
 {
-  "_id": 40008,
+  "_id": 27,
   "id": "zero",
   "name": "Зеро",
   "suitName": "Невероятная связь",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to <b>150%</b>/200%/250%/300% of ATK for <b>6</b> seconds."
+      "value": "При использовании навыка разрядки для переключения на текущее оружие дает щит в размере 150%/200%/250%/300% от АТК на 6 сек."
     },
     {
       "count": 4,
-      "value": "While the shield is active, you and your teammates deal <b>16%</b>/20%/24%/28% more damage."
+      "value": "Пока щит активен, вы и ваши товарищи по команде наносите на 16%/20%/24%/28% больше урона."
     }
   ],
   "mind": {

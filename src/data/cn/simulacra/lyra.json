@@ -1,0 +1,346 @@
+{
+  "_id": 14,
+  "id": "lyra",
+  "name": "星寰",
+  "weapon": "晚祷",
+  "weapon_id": "vesper",
+  "birthday": "6月23日",
+  "birthplace": "麦德琳基金",
+  "gender": "女",
+  "info": "淡漠稳重、作风低调，麦德琳基金会的现任管理者，不过鲜有人知道她的存在。\n不喜接触世间琐事，但当事态严峻时一定会出面相助。\n「我只是谨遵麦德琳女士的遗嘱行事。」",
+  "description": "德高望重，在诸多科技领域有着杰出贡献的麦德琳女士唯一继承人，同时也是被麦德琳女士视作最亲近之人的存在。\n\n人心难测，究竟何人才能完美贯彻履行自己的意志……麦德琳女士是抱着怎样的想法留下了遗嘱已无可追究，但星寰确实有着与麦德琳女士相似的行事作风，将事业打理得井井有条。\n\n因与海嘉德的合作关系，星寰在海嘉德高层也有着一定的影响力，不过因为本人低调的作风，知道此事的人寥寥无几。",
+  "like": "小提琴",
+  "dislike": "细菌、难以清理的污渍无",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Support",
+  "resonance": "DPS",
+  "shatter": 12,
+  "charge": 10,
+  "skills": [
+    {
+      "id": "GA_FPlayerArmMeleeBuff_name",
+      "name": "晚祷普攻被动",
+      "type": [
+        "Passive"
+      ],
+      "description": "<span class=\"text-green\">悔悟</span>：非恩赐共鸣时晚祷普攻命中拥有<b>「悔悟」标记</b>的目标时附带额外伤害，伤害数值=自身附带的守护数量*<b>6.4%</b>*攻击（最多38.4%*攻击），该伤害不会触发额外的攻击效果且视为连携技伤害和武器技能伤害；\n\n恩赐共鸣时晚祷普攻命中拥有<b>「悔悟」标记</b>的目标时附带额外伤害，伤害数值=自身附带和为队友附带的守护数量*<b>4.6%</b>*攻击（最多36.8%*攻击），该伤害不会触发额外的攻击效果且视为连携技伤害和武器技能伤害。\n<span class=\"text-green\">辉光</span>：晚祷的所有普攻命中目标后回复<b>15%</b>*攻击的生命。\n<span class=\"text-green\">圣击</span>：晚祷的空中攻击和蓄锐可以将充能能力的60%转化为破盾能力。\n<span class=\"text-green\">守护</span>：自身生命值每减少<b>15%</b>最大生命值或者获得<b>300</b>点武器充能值，自身获得「悔悟」守护最多<b>5</b>个（后台可以产生），「悔悟」守护持续<b>25</b>秒。如果自身「悔悟」守护已满，新生成的「悔悟」守护会攻击敌方目标，造成<b>120%</b>攻击物理伤害并消失，该伤害不会触发额外的攻击效果。\n\n注：晚祷在旧日幻象中不视为辅助武器"
+    },
+    {
+      "id": "GA_FPlayerArmMeleePhy_Melee_name",
+      "name": "晚祷普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，使用晚祷可连续进行五次攻击。\n第一次攻击对目标造成<b>81.6%</b>*攻击力+<b>4</b>点伤害，并小幅击退目标。\n第二次攻击对目标造成<b>59.1%</b>*攻击力+<b>3</b>点伤害，并大幅击退目标。\n第三次攻击对目标造成<b>123.9%</b>*攻击力+<b>7</b>点伤害，并小幅击退目标。\n第四次攻击对目标造成<b>173%</b>*攻击力+<b>9</b>点伤害，并浮空目标。\n第五次攻击对目标造成<b>196.4%</b>*攻击力+<b>10</b>点伤害，并击飞目标。"
+    },
+    {
+      "id": "GA_FPlayerArmMeleePhy_AirAttack_name",
+      "name": "破惘",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当玩家滞空时，点击普攻可释放破惘，每次挥拳对目标对目标造成<b>33.2%</b>*攻击力+<b>2</b>点伤害，并消耗<b>10</b>点耐力，最后一击造成<b>556.6%</b>*攻击力+<b>29</b>点伤害并击飞目标。\n释放破惘期间，若目标可被抓取，则将目标抓取并抛掷到地上，总计造成<b>124.5%</b>*攻击力+<b>7</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerArmMeleePhy_PowerAttack_name",
+      "name": "蓄锐",
+      "type": [
+        "Attack"
+      ],
+      "description": "长按普攻按钮，进行最多<b>3</b>段蓄力；命中目标造成<b>强控浮空</b>效果，蓄锐攻击期间免疫伤害和控制效果，在被命中前释放，可触发幻时。\n一段蓄力命中造成<b>96%</b>*攻击力+<b>5</b>点伤害。\n二段蓄力命中造成<b>223%</b>*攻击力+<b>12</b>点伤害。\n三段蓄力命中造成<b>360.5%</b>*攻击力+<b>19</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerArmMeleePhy_Branch_name",
+      "name": "瞬光",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "普攻过程中或闪避后长按普攻不放，可释放瞬光，每次挥拳对目标造成<b>20%</b>*攻击力+<b>1</b>点伤害，并消耗<b>10</b>点耐力，松手后触发蓄锐。"
+    },
+    {
+      "id": "GA_FPlayerArmMeleePhy_JumpAttack_name",
+      "name": "重击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当玩家滞空时长按普攻，可触发空中3段蓄力，松手后重击地面并<b>强控浮空</b>目标，在被命中前进入蓄力，可触发幻时。\n一段蓄力攻击：对目标造成<b>166.3%</b>*攻击力+<b>9</b>点伤害；\n二段蓄力攻击：对目标造成<b>288.2%</b>*攻击力+<b>15</b>点伤害；\n三段蓄力攻击：对目标造成<b>454.4%</b>*攻击力+<b>24</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerArmEvadePhy_BackAttack_name",
+      "name": "意识捕获",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避后，点击普攻，将目标抓取到身边并持续吸附目标<b>2</b>秒，并标造成<b>261.4%</b>*攻击力+<b>14</b>点伤害；闪避后长按普攻可在释放<b>意识捕获</b>后触发<b>瞬光</b>。"
+    },
+    {
+      "id": "GA_FPlayerArmEvadePhy_Evade_name",
+      "name": "闪避",
+      "type": [
+        "Dodge"
+      ],
+      "description": "在被命中前闪避，可触发幻时，使一定范围内的目标动作速率变缓；闪避过程中，免疫硬直效果，持续<b>0.5</b>秒并恢复<b>250</b>点耐力。"
+    },
+    {
+      "id": "GA_FPlayerArmSkillPhy_Pas_name",
+      "name": "「宽恕」守护",
+      "type": [
+        "Skill"
+      ],
+      "description": "<span class=\"text-green\">「宽恕」守护</span>：治疗效果溢出时，生成不超过最大生命值<b>60%</b>的生命护盾；晚祷拥有「宽恕」守护，且在不同武器共鸣下激活不同守护效果\n<span class=\"text-green\">恩赐守护</span>：技能替换为<b>辉起</b>；自身不再获得「悔悟」守护，改为为队友添加「宽恕」守护，并且每治疗最大生命的<b>15%</b>也可获得一个「宽恕」守护，每个队友最多附带一个「宽恕」守护，如果场上没有未获得「宽恕」守护的队友，则「宽恕」守护对一个敌方单位造成<b>120</b>%攻击物理伤害并消失，该伤害不会触发额外的攻击效果；自身和队友生命值上限提升<b>12.5%</b>（多个不叠加）\n<span class=\"text-green\">强攻守护</span>：使用晚祷技能命中时，立刻获得<b>30%</b>最大生命值护盾，冷却<b>30</b>秒\n<span class=\"text-green\">坚毅守护</span>：使用晚祷技能命中时，立刻获得治疗，每秒恢复<b>2%</b>最大生命值持续<b>20</b>秒，冷却<b>30</b>秒\n<span class=\"text-green\">均衡守护</span>：生命高于<b>50%</b>时，破盾提升<b>20%</b>；生命低于<b>50%</b>时，最终伤害提升<b>10%</b>，破盾提升<b>10%</b>"
+    },
+    {
+      "id": "GA_FPlayerArmPublishSkillPhy_name",
+      "name": "星落",
+      "type": [
+        "Skill"
+      ],
+      "description": "跃向目标，对目标造成<b>702.1%</b>*攻击力+<b>37</b>点伤害，<b>强控浮空</b>目标，并给目标添加「悔悟」标记持续<b>18</b>秒，冷却<b>20</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerArmLawSkillPhy_name",
+      "name": "辉起",
+      "type": [
+        "Skill"
+      ],
+      "description": "重击地面，<b>强控击飞</b>面前的目标造成<b>702.1%</b>*攻击力+<b>37</b>点伤害，并召唤<b>锋芒</b>最多存在<b>3</b>个，持续<b>75</b>秒（锋芒附近2米范围内最多存在1个），该技能最多可累积使用<b>3</b>次，单次冷却时间<b>20</b>秒；当场上存在2个<b>锋芒</b>时，创建一个<b>清晖</b>，每次触碰<b>锋芒</b>，对移动距离半径内的目标进行一次治疗，恢复目标攻击力<b>25%</b>的生命；当场上存在3个<b>锋芒</b>时，创建一个<b>星云</b>，每次触碰<b>锋芒</b>，对移动距离半径内的目标造成（<b>150%</b>*攻击力*移动距离/<b>5</b>米）点伤害。"
+    },
+    {
+      "id": "GA_FPlayerArmChangeSkillPhy_Success_name",
+      "name": "喟叹轻咏",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，释放喟叹轻咏，对目标造成<b>748.1%</b>*攻击力+<b>39</b>点伤害，并给目标添加「悔悟」标记持续<b>18</b>秒，期间免疫伤害持续<b>2.6</b>秒（巅峰联赛不生效）"
+    }
+  ],
+  "weapon_type": {
+    "name": "重伤",
+    "description": "武器充能值充满后下次攻击使敌人进入<b>7</b>秒重伤状态，受到伤害增加<b>20%</b>，并造成<b>{1}%</b>*攻击力伤害。<yellow_lbl_14_1>[组队玩法]</>中，重伤状态目标受到物理伤害额外增加<b>20%</b>。"
+  },
+  "weapon_resonance": {
+    "name": "物理共鸣",
+    "description": "<b>物理共鸣</b>：装备<b>2</b>把及以上物理元素武器触发，提升<b>15%</b>物攻和<b>25%</b>物抗，装备后后台可生效（多个物理共鸣/物理反应不叠加，优先生效物理共鸣）\n<b>物理恩赐</b>：自身激活恩赐共鸣时，提升全队<b>5%</b>物攻"
+  },
+  "advancement": [
+    "释放任意武器技能或连携时，若自身守护达到最大数量时，刷新守护时间，并根据场上守护数量对敌方目标造成守护数量*<b>100%</b>物攻的物理伤害（非恩赐下最多6个守护，恩赐下最多8个守护）。",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "所有守护造成的伤害提升<b>20%</b>，并且恩赐共鸣使用任意武器技能或连携使守护目标获得<b>15%</b>最终伤害提升，持续<b>10</b>秒",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "「宽恕」守护：共鸣5次后，使自己和守护目标获得<b>1</b>次抵挡致命伤害，队友在抵挡致命伤害后消耗「宽恕」守护并回复<b>5%</b>最大生命值（巅峰联赛中不生效）\n「悔悟」守护：共鸣5次后且自身存在「悔悟」守护，使自己抵挡<b>2</b>次致命伤害，最多积累<b>5</b>次，抵挡伤害后消耗1层「悔悟」守护并回复<b>5%</b>最大生命值（巅峰联赛中不生效）",
+    "释放任意武器技能或连携时，根据守护数量获得最终伤害和治疗提升，每个守护为玩家提供<b>1.6%</b>最终伤害和治疗，最多提升<b>8%</b>持续<b>25</b>秒"
+  ],
+  "traits": [
+    {
+      "name": "移情",
+      "description": "恩赐共鸣时：提升全队{0}%生命上限，多个不叠加",
+      "values": [
+        10
+      ]
+    },
+    {
+      "name": "庇佑",
+      "description": "恩赐共鸣时：提升全队{0}%生命上限，多个不叠加，自身额外提升{1}%生命上限，每次成功释放技能且自身有霸体效果或者生命值大于50%则为全体友方提供{2}秒霸体效果",
+      "values": [
+        10,
+        50,
+        8
+      ]
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "合金增强框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "_id": 21,
+  "id": "lin",
+  "name": "Lin",
+  "weapon": "影织",
+  "weapon_id": "shadoweave",
+  "birthday": "9月3日",
+  "birthplace": "海嘉德第七分区",
+  "gender": "女",
+  "info": "身环飒爽之气，走路带风的青年行政官。\n略有洁癖，眼里容不得沙子，对人对己都以高水准要求。如此一来初识免不了会给人一种严厉的印象，但并非是墨守成规不能通情达理的类型。\n浸泡在精英教育中长大而出落成现在的样子。是个认真、雷厉风行、办事风格极其干练的完美主义者。",
+  "description": "上一任地区最高执行官晴信的独生女，作为衣钵继任者被培养的苗子。虽还未正式上任，民意上却已经是预订下一任最高执行官的地位了。\n从小便被要求进行高强度的战斗训练。如今比起待在办公室处理文件，更倾向于在前线身体力行，取得的成绩也着实斐然。\n上至中央区，下至下城区，在镜都居民圈中有着毋庸置疑的高人气。",
+  "like": "茶、洗衣粉的香气、油炸豆腐",
+  "dislike": "细菌、难以清理的污渍",
+  "element": "Altered",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "id": "GA_FPlayerFanMelee_Melee_name",
+      "name": "普通攻击",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，使用影织进行五次攻击。\n第一次攻击对目标造成<b>59.9%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标造成<b>57.1%</b>*攻击力+<b>3</b>点伤害。\n第三次攻击对目标造成<b>49.5%</b>*攻击力+<b>3</b>点伤害。\n第四次攻击对目标造成<b>114.2%</b>*攻击力+<b>6</b>点伤害，并浮空目标。\n第五次攻击对目标造成<b>152.2%</b>*攻击力+<b>8</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerFanMelee_AirAttack_name",
+      "name": "空中攻击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时，点击普攻可在空中连续进行五次攻击。\n第一次攻击对目标造成<b>30.6%</b>*攻击力+<b>2</b>点伤害。\n第二次攻击对目标造成<b>55.6%</b>*攻击力+<b>3</b>点伤害。\n第三次攻击对目标造成<b>48.2%</b>*攻击力+<b>3</b>点伤害。\n第四次攻击对目标造成<b>111.2%</b>*攻击力+<b>6</b>点伤害。\n第五次攻击对目标造成<b>148.3%</b>*攻击力+<b>8</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerFanMelee_Branch_name",
+      "name": "零落成泥",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "地面或者空中普攻第二下后，长按普攻可触发零落成泥。\n在目标位置发动攻击，造成<b>83.2%</b>*攻击力+<b>4</b>点伤害，并将目标击倒。\n被动：地面释放零落成泥后快速点击普攻，可立即释放（第三层）昙花一现。"
+    },
+    {
+      "id": "GA_FPlayerFanMelee_PowerAttack_name",
+      "name": "昙花一现",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "长按普攻，可释放昙花一现，最多可蓄力三层，蓄力期间开启霸体和免控效果。\n第一层，对目标造成<b>73.9%</b>*攻击力+<b>4</b>点伤害；\n第二层，对目标造成<b>146.8%</b>*攻击力+<b>246.4</b>点伤害；\n第三层，对目标造成<b>13%</b>*攻击力+<b>{5}</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerFanMelee_JumpAttack_name",
+      "name": "坠影",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "空中长按普攻可触发坠影。\n从空中快速下落，落地后造成<b>160%</b>*攻击力+<b>8</b>点伤害，并将目标击倒。"
+    },
+    {
+      "id": "GA_FPlayerFanEvade_Evade_name",
+      "name": "闪避",
+      "type": [
+        "Dodge"
+      ],
+      "description": "在被命中前闪避，可触发幻时，使一定范围内的目标动作速率变缓；闪避过程中，免疫硬直效果，持续<b>0.5</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerFanEvade_RollAttack_name",
+      "name": "徒留翠意",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "空翻位移的同时向目标发出翠意，造成<b>70%</b>*攻击力+<b>4</b>点伤害，命中生成昙花(随机<b>1-3</b>个），同时形成持续<b>5</b>秒的翠绿场域，处于翠绿场域中的敌方单位锁定拓荒者时，移动速度减少<b>50%</b>。\n被动：地面和空中均可释放。\n被动：自身被控制时，立即解除控制，并自动释放徒留翠意（不消耗闪避次数），冷却<b>20</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerDkatanaSkill_Skill1_name",
+      "name": "动心流·凝泉掠影",
+      "type": [
+        "Skill"
+      ],
+      "description": "在自身周围形成映月之镜，持续<b>15</b>秒，在映月之镜内，自身造成伤害提高<b>10%</b>，跳跃能力提高<b>20%</b>，耐力消耗减少<b>50%</b>，冷却<b>30</b>秒。\n处于映月之镜内使用影织时，获得特殊状态“凛空”，下落速度大幅减缓，可多次二段跳，空中同时使用摇杆和跳跃按钮，会进行一次穿梭，向目标发动一次攻击，命中造成<b>66%</b>*攻击力+<b>3</b>点伤害并生成昙花(随机<b>1-3</b>个）。\n\n被动：拓荒者释放的映月之镜会间隔在一个目标附近生成昙花，每<b>0.8</b>秒生成<b>1</b>个。\n被动：自身处于映月之镜内使用影织时，对生命低于<b>20%</b>的目标造成伤害提高<b>50%</b>。\n被动：自身处于映月之镜内使用影织时，检测到即将受到伤害时自身会向远离目标位置闪烁，冷却<b>10</b>秒。\n\n被动：武器大师\n火焰：影织与两把火焰武器搭配时，映月之镜转化为焰·映月之境，焰·映月之镜中自身对目标添加灼烧时，持续时间额外增加<b>4</b>秒，并对有护盾目标造成的火焰伤害增加<b>15%</b>。\n\n雷电：影织与两把雷电武器搭配时，映月之镜转化为雷·映月之境，雷·映月之镜中使用闪避时有<b>65%</b>几率不消耗闪避次数，闪避攻击造成伤害提高<b>35%</b>，激活雷电共鸣时，额外提高<b>30%</b>雷电伤害。\n\n寒冰：影织与两把寒冰武器搭配时，映月之镜转化为冰·映月之境，冰·映月之镜中目标受到<b>10</b>次寒冰伤害时，进入“冻伤”状态，持续<b>15</b>秒，期间受到寒冰伤害增加<b>22%</b>，冻伤状态期间不累加次数。\n\n物理：影织与两把物理武器搭配时，映月之镜转化为物·映月之境，物·映月之镜中自身存在生命护盾时，每秒对范围目标造成<b>50%</b>*攻击力+<b>3</b>点伤害。\n\n均衡：影织与火、雷、冰、物四种元素中任意两种不同元素武器搭配时，映月之镜中自身攻击增加<b>15%</b>，且视为激活火、雷、冰、物元素共鸣（无共鸣效果）。"
+    },
+    {
+      "id": "GA_FPlayerFanChangeSkill_Success_name",
+      "name": "重力编织",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，释放重力编织，带有较强吸附力，造成<b>368.5%</b>*攻击力+<b>19</b>点伤害，<b>5</b>秒后爆炸形成范围扩散波，造成<b>184.3%</b>*攻击力+<b>10</b>点伤害，技能期间免疫伤害持续<b>2.6</b>秒（巅峰联赛不生效）。"
+    }
+  ],
+  "weapon_type": {
+    "name": "异能",
+    "description": "武器充能值充满后下次攻击对敌人进行标记，<b>5</b>秒后爆炸，额外受到标记期间所有伤害的<b>25%</b>，最多不超过自身<b>560%</b>攻击。同时间目标只能存在一个标记。"
+  },
+  "weapon_resonance": {
+    "name": "影织数据核心",
+    "description": "影织与其他武器搭配时，可构成<b>“武器大师”</b>效果。\n昙花会随机出现在目标周围，并在<b>1-3</b>秒内爆炸，造成<b>60%</b>*攻击力的范围伤害。"
+  },
+  "advancement": [
+    "普攻命中变为范围伤害。\n昙花引爆范围内存在其他昙花时，会使后续的昙花爆炸伤害提高（每个<b>{0}%</b>，最多<b>{1}%</b>）。\n<b>技能“映月之境”</b>生成昙花间隔缩短至<b>0.5</b>秒。",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "<b>技能“映月之境”</b>生成昙花间隔缩短至<b>0.3</b>秒。\n昙花会附着于敌方目标。\n<b>技能“映月之境”</b>持续时间延长至<b>20</b>秒。",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "自身处于<b>技能“映月之境”</b>内时，每秒获得<b>30</b>点武器充能值，同时连携技造成伤害提高<b>{0}%</b>。",
+    "<b>技能“映月之境”</b>模式改变，最多可使用<b>2</b>次（通过技能冷却最多可积攒<b>1</b>个次数，连携充能可额外积攒<b>1</b>个次数）。\n使用<b>3</b>次任意武器连携，<b>技能“映月之境”</b>使用次数<b>+1</b>（影织处于后台也生效）。\n<b>技能“映月之境”</b>内伤害加成提高至<b>{0}%</b>。"
+  ],
+  "traits": [
+    {
+      "name": "凛夜-昙花绽放",
+      "description": "昙花爆炸伤害提高<b>15%</b>"
+    },
+    {
+      "name": "凛夜-昙花绚烂",
+      "description": "昙花爆炸伤害提高<b>20%</b>；昙花命中使目标减少<b>7%</b>全抗，持续<b>7</b>秒，不可叠加"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 700,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 1100,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 5
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 16
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 16
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 21
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 21
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "booster_frame_ii",
+        "name": "合金增强框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat2": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 9
+      },
+      "mat3": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 9
+      }
+    }
+  ]
+}

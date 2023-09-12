@@ -1,5 +1,5 @@
 {
-  "_id": 40004,
+  "_id": 14,
   "id": "king",
   "name": "Кинг",
   "suitName": "Адвокат насилия",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When a target is shattered, grant <b>8%</b>/10%/12%/14% damage boost for <b>25</b> seconds. Only the highest level's effect is applied when obtained repeatedly."
+      "value": "За каждые 10% раскола по цели увеличивает наносимый урон на 4%/5%/6%/7% на 25 сек, накапливается до 3 раз."
     },
     {
       "count": 4,
-      "value": "If there are <b>2</b> or more enemies nearby, attacks restore HP equal to <b>14%</b>/18%/22%/26% of the damage dealt, up to <b>36%</b>/42%/48%/54% of ATK every <b>0.5</b> seconds."
+      "value": "Когда рядом больше 2 врагов, каждый удар восстанавливает ОЗ в размере 14%/18%/22%/26% от нанесенного при атаке урона. Макс. количество ОЗ, восстанавливаемых каждые 0,5 сек., не может превышать 36%/42%/48%/54% от АТК."
     }
   ],
   "mind": {

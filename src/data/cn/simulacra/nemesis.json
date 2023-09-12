@@ -1,0 +1,297 @@
+{
+  "_id": 11,
+  "id": "nemesis",
+  "name": "Nemesis",
+  "weapon": "启明星",
+  "weapon_id": "venus",
+  "birthday": "5月23日",
+  "birthplace": "赦免天使",
+  "gender": "女",
+  "info": "在接受艾达之子的改造时，经历了洗脑、记忆清除、被植入第二人格等，在一段时间内一直是情绪极为不稳定的状态。\n原先莎莉的人格也曾被强行压制，但好在现在已经大体上恢复，只是仍需稍稍留心于潜在的隐患。\n虽然无法完全回到作为莎莉时充满活力的样子，但大体上已经可以作为正常的女孩相处。\n对自己的存在仍抱有挥之不去的怀疑，那也是其不安与创伤没能被根治的体现。只能说……起码，她变得能够鼓起勇气去面对一些事情了，这预兆着一个好的开始。",
+  "description": "由星岛避难所的见习护士莎莉改造而成的新生赦免天使，身体超过一半部分的血肉和神经都已经被机械和电路替代。\n\n作为人类时曾一度因抑制器损坏而正面承受了大量的原能辐射冲击，但在完全异化之前，被送至艾达之子处接受了实验性救治，而结果奇迹般地成功。\n\n完成改造的时间还不长，是所有赦免天使中状态最不稳定的一个，但这意味着她身上所包含的艾达之子的技术也是最新版本的。",
+  "like": "绘画、拼图、橘子汽水",
+  "dislike": "昆虫、惊吓",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "Support",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "id": "GA_PlayerFriggMelee_Melee_name",
+      "name": "普通攻击",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，使用巴尔蒙克进行五次攻击。\n第一次攻击对目标可造成<b>50.8%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第二次攻击对目标可造成<b>36.3%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。\n第三次攻击对目标可造成<b>98.3%</b>*攻击力+<b>5</b>点伤害，并小幅击退目标。\n第四次攻击对目标可造成<b>67.3%</b>*攻击力+<b>4</b>点伤害，并小幅击退目标。\n第五次攻击对目标可造成<b>148.3%</b>*攻击力+<b>8</b>点伤害，并击倒目标。"
+    },
+    {
+      "id": "GA_PlayerFriggMelee_AirAttack_name",
+      "name": "空中攻击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行五次攻击。\n第一次攻击对目标造成<b>62.5%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标造成<b>62%</b>*攻击力+<b>5</b>点伤害。\n第三次攻击对目标造成<b>3%</b>*攻击力+<b>120</b>点伤害。\n第四次攻击对目标造成<b>6%</b>*攻击力+<b>71.2</b>点伤害。\n第五次攻击对目标造成<b>4%</b>*攻击力+<b>126</b>点伤害。"
+    },
+    {
+      "id": "GA_PlayerSuspensionMelee_Branch_name",
+      "name": "正向追击",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第二段后，长按普攻可触发正向追击。\n向目标发射激光导弹，对目标最多造成<b>107.5%</b>*攻击力+<b>6</b>点伤害。"
+    },
+    {
+      "id": "GA_PlayerSuspensionMelee_PowerAttack_name",
+      "name": "双点调焦",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "长按普攻，进入蓄力攻击状态，发射电荷球，命中产生范围爆炸，对目标造成<b>118.4%</b>*攻击力+<b>6</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSuspensionEvade_BackAttack_name",
+      "name": "双旋对焦",
+      "type": [
+        "Perfect Attack",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发缓速磁场。\n启明星发射电荷球，向前飞行一段距离/命中目标后爆炸，造成<b>171.6%</b>*攻击力+<b>9</b>点伤害，同时形成缓速磁场，持续<b>3</b>秒【缓速磁场---范围内的敌方目标移动和攻击速度减少<b>35%</b>】。\n使用闪避的同时释放治疗链治疗附近友方单位（=拓荒者<b>67.7%</b>*攻击力），后续<b>10</b>秒内每隔<b>2</b>秒释放小幅治疗链治疗附近友方单位（=拓荒者<b>22.5%</b>*攻击力），每次释放闪避获得<b>1</b>层治疗链强化，提高<b>25%</b>治疗链的治疗效果，最多叠加<b>5</b>层，治疗链强化效果持续<b>30</b>秒。【切换武器不消失】"
+    },
+    {
+      "id": "GA_FPlayerSuspensionEvade_RollAttack_name",
+      "name": "平行光管",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "使用方向键加闪避按钮触发前闪避的短暂时间内，点击普攻，可触发平行光管。\n启明星发射平行光管，造成<b>171.6%</b>*攻击力+<b>9</b>点穿透伤害。\n使用闪避的同时释放治疗链治疗附近友方单位（=拓荒者<b>67.7%</b>*攻击力），后续<b>10</b>秒内每隔<b>2</b>秒释放小幅治疗链治疗附近友方单位（=拓荒者<b>22.5%</b>*攻击力），每次释放闪避获得<b>1</b>层治疗链强化，提高<b>25%</b>治疗链的治疗效果，最多叠加<b>5</b>层，治疗链强化效果持续<b>30</b>秒。【切换武器不消失】"
+    },
+    {
+      "id": "GA_FPlayerSuspensionSkill_Skill_name",
+      "name": "脉冲锁定",
+      "type": [
+        "Skill"
+      ],
+      "description": "启明星发动导弹攻击，命中目标后产生爆炸，造成<b>233.2%</b>*攻击力+<b>12</b>点伤害，附带击倒效果，冷却<b>25</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerSuspensionChangeSkill_Success_name",
+      "name": "粒子束喷发",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，操控启明星，向地面发出交叉射线，地面立即形成一个不稳定的区域，敌方目标在<b>5</b>秒内减速<b>70%</b>，短暂时间后电磁喷发，造成<b>393.9%</b>*攻击力+<b>21</b>伤害。\n连携释放后会在目标位置生成<b>1</b>个“电极”，电极每<b>1.5</b>秒进行一次攻击，造成<b>39.9%</b>*攻击力+<b>2</b>点伤害。\n电极继承玩家<b>100%</b>属性，可被攻击，可被治疗，电极每秒扣除<b>3%</b>最大生命值。\n最多存在<b>1</b>个电极。新的电极出现时，会替换之前的电极。"
+    }
+  ],
+  "weapon_type": {
+    "name": "雷电",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>1</b>秒<b>强控麻痹</b>效果并感电<b>6</b>秒，清除目标的增益效果并造成<b>144%</b>*攻击力伤害，并且<b>6</b>秒内无法获得增益效果。"
+  },
+  "weapon_resonance": {
+    "name": "雷电共鸣",
+    "description": "<b>雷电共鸣</b>：装备<b>2</b>把及以上雷电武器触发，提升<b>15%</b>雷攻和<b>25%</b>雷抗，装备后后台可生效，同类效果不叠加。\n<b>雷电恩赐</b>：自身激活恩赐共鸣时，提升全队<b>5%</b>雷攻。"
+  },
+  "advancement": [
+    "释放<b>技能“脉冲锁定”</b>或<b>连携“粒子束喷发”</b>时，创建<b>1</b>个电极，自身立即获得<b>5</b>层治疗链强化效果，同时释放一道治疗链，治疗附近友方单位（=拓荒者<b>135%</b>*攻击力）。",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "电极每<b>6</b>秒释放一次<b>环形电流</b>，最多造成<b>205%</b>*攻击的范围伤害。",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "释放<b>技能“脉冲锁定”</b>后，提高自身（<b>6.5</b>+自身电极数*<b>6.5</b>）%攻击，持续<b>25</b>秒。",
+    "最多同时存在<b>2</b>个电极。新的电极出现时，会替换距离自身距离较远的电极。"
+  ],
+  "traits": [
+    {
+      "name": "奈美西斯-蜕变",
+      "icon": true,
+      "description": "召唤电极时，电极周围<b>30</b>米内，所有敌人受到<b>60%</b>攻击力的雷电伤害，所有友方（包括自身）获得<b>120%</b>攻击力的治疗。"
+    },
+    {
+      "name": "奈美西斯-升华",
+      "icon": true,
+      "description": "召唤电极时，电极周围<b>30</b>米内，所有敌人受到<b>100%</b>攻击力的雷电伤害，所有友方（包括自身）获得<b>200%</b>攻击力的治疗。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "闪电之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "_id": 40009,
+  "_id": 20,
   "id": "samir",
   "name": "Самир",
   "suitName": "Рациональное освобождение",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase damage progressively by <b>1%</b> upon hitting a target. Stack up to <b>10</b>/13/16/20 times. Lasts for <b>1.5</b> seconds."
+      "value": "Увеличивает урон при каждом попадании по цели на 1,5%, накапливается до 10/13/16/20 раз. Время получения экземпляра баффа: 2 сек."
     },
     {
       "count": 4,
-      "value": "Increase Dual EM Stars' electrical explosion damage by <b>16%</b>/22%/30%/40%."
+      "value": "Каждая атака по фиксированным целям наносит доп. урон в размере 10%/12,5%/15%/17,5% от АТК."
     }
   ],
   "mind": {

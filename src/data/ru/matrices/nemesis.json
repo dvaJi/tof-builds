@@ -1,5 +1,5 @@
 {
-  "_id": 40014,
+  "_id": 16,
   "id": "nemesis",
   "name": "Немезида",
   "suitName": "Мосты жизни",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "When a target is being healed, their volt ATK is increased by <b>8%</b>/10%/12%/15% for <b>20</b> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly."
+      "value": "Когда цель лечится, ее АТК электричеством увеличивается на 15%/18%/21%/25% на 20 сек. Этот эффект не накапливается, и при многократном получении применяется эффект только наивысшего уровня."
     },
     {
       "count": 4,
-      "value": "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <b>30</b> seconds will cast Lightning, dealing volt damage equal to <b>240%</b>/300%/360%/420% of volt ATK on the first target hit, and damage caused by Electrodes is reduced by 50%. Cannot be triggered more than once in <b>10</b> seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly."
+      "value": "При лечении себя или своего электрода цель лечения получает заряд молнии. При следующей атаке в течение 30 сек. цель получает удар молнией, наносящий урон в размере 300%/375%/450%/525% от АТК электричеством (урон, наносимый электродами, снижается на 50%). Срабатывает не чаще одного раза в 10 сек. Заряды молнии не накапливаются. При многократном получении применяется эффект только наивысшего уровня."
     }
   ],
   "mind": {

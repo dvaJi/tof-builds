@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import chalk from 'chalk';
+import { red, dim, green } from 'colorette';
 import dotenv from 'dotenv';
 import { fileURLToPath } from 'url';
 import { S3Client, PutObjectCommand } from '@aws-sdk/client-s3';
@@ -48,7 +48,10 @@ function isFileAlreadyUploaded(filePath) {
 
 async function uploadFile(filePath) {
   const fileContent = fs.readFileSync(filePath);
-  const fileKey = filePath.replace(ROOT_FOLDER + '/', '');
+  const fileKey = filePath
+    .replace(ROOT_FOLDER + '/', '')
+    .replaceAll('\\', '/')
+    .replace('images/', '');
 
   const command = new PutObjectCommand({
     Bucket: S3_BUCKET,
@@ -63,7 +66,7 @@ async function uploadFile(filePath) {
     console.log(`Uploaded ${filePath}`);
     return true;
   } catch (err) {
-    console.error(chalk.red(`Error uploading ${filePath}: ${err}`));
+    console.error(red(`Error uploading ${filePath}: ${err}`));
     return false;
   }
 }
@@ -89,10 +92,10 @@ async function uploadFilesRecursively(dirPath) {
 }
 
 async function uploadImages() {
-  console.log(chalk.dim('Uploading files...'));
+  console.log(dim('Uploading files...'));
   await uploadFilesRecursively(ROOT_FOLDER);
   fs.writeFileSync(UPLOAD_TRACKER_FILE, JSON.stringify(uploadedFiles));
-  console.log(chalk.green('Done uploading files'));
+  console.log(green('Done uploading files'));
 }
 
 uploadImages();

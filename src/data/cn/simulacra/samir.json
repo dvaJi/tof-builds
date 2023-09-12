@@ -1,0 +1,284 @@
+{
+  "_id": 13,
+  "id": "samir",
+  "name": "Samir",
+  "weapon": "超电磁双星",
+  "weapon_id": "dual_em_stars",
+  "birthday": "5月20日",
+  "birthplace": "海嘉德",
+  "gender": "女",
+  "info": "性格懒散，随心所欲。喜欢一些不疼不痒的玩笑和恶作剧。\n虽然名义上是海嘉德执行者成员，且拥有过人的实力，但其懒散随性不靠谱的性格和喜欢捉弄同僚的习惯却让所有与之共事过的人感到哭笑不得，因此人缘并不算好，但她本人似乎对此完全不在意。",
+  "description": "过去的详情有诸多不明朗之处。\n已知的仅有，赛弥尔是班吉斯住民收养的孤儿，成年自立后加入海嘉德接受训练成为执行者的一员。\n在战斗精英云集的执行者中也有着称得上顶尖的枪法，海嘉德方面曾有让她来做新人教官的预想，后来因为性格不合适而作罢。",
+  "like": "解谜游戏、推理小说",
+  "dislike": "无记录",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10.7,
+  "skills": [
+    {
+      "id": "GA_FPlayerDgunMeleeThu_Melee_name",
+      "name": "双枪普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时点击普攻，挥舞双枪可连续进行五次攻击。\n第一次攻击对目标总计造成<b>47.1%</b>*攻击力+<b>2</b>点伤害。\n第二次攻击对目标总计造成<b>35.8%</b>*攻击力+<b>2</b>点伤害。\n第三次攻击对目标总计造成<b>119.7%</b>*攻击力+<b>6</b>点伤害。\n第四次攻击对目标总计造成<b>113.1%</b>*攻击力+<b>6</b>点伤害。\n第五次攻击对目标总计造成<b>154%</b>*攻击力+<b>8</b>点伤害，并造成<b>击飞</b>效果。"
+    },
+    {
+      "id": "GA_FPlayerDgunMeleeThu_AirAttack_name",
+      "name": "爆裂枪雨",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "滞空时，点击普攻可对地面目标持续射击，每次命中造成<b>50.6%</b>*攻击力+<b>3</b>点伤害，消耗<b>150</b>点耐力。"
+    },
+    {
+      "id": "GA_FPlayerDgunMeleeThu_PowerAttack_name",
+      "name": "能量轰击",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "长按普攻或普攻过程中长按，可对目标持续射击，命中造成<b>23%</b>*攻击力+<b>1</b>点基础伤害。"
+    },
+    {
+      "id": "GA_FPlayerDgunMeleeThu_JumpAttack_name",
+      "name": "幻影飞踢",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，可触发幻影飞踢，击落目标造成<b>70.5%</b>*攻击力+<b>4</b>点伤害，落地时对周围目标再次造成<b>98.7%</b>*攻击力+<b>5</b>点伤害，并造成<b>强控击飞</b>效果。"
+    },
+    {
+      "id": "GA_FPlayeDgunEvadeThu_FrontAttack_name",
+      "name": "闪电升龙踢",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "向前闪避后，点击普攻，<b>强控浮空</b>目标并造成<b>122.6%</b>*攻击力+<b>6</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDgunSkillThu_name",
+      "name": "电能光束",
+      "type": [
+        "Skill"
+      ],
+      "description": "向锁定目标位置发射能量光盾，在能量范围内持续反射光束能量，对目标造成<b>269.8%</b>*攻击力+<b>14</b>点伤害，最后一击造成<b>强控浮空</b>效果，冷却<b>45</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerDgunChangeSkillThu_Sucess_name",
+      "name": "雷电领域",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，锁定目标位置，制造雷电领域，<b>强控浮空</b>范围内的目标造成三次总计<b>238.3%</b>*攻击力+<b>13</b>点伤害并清除目标增益效果，雷电领域存在<b>3.5</b>秒，每<b>0.5</b>秒锁定对范围内目标并造成<b>42.4%</b>*攻击力+<b>2</b>点伤害。"
+    }
+  ],
+  "weapon_type": {
+    "name": "雷电",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>1</b>秒<b>强控麻痹</b>效果并感电<b>6</b>秒，清除目标的增益效果并造成<b>144%</b>*攻击力伤害，并且<b>6</b>秒内无法获得增益效果。"
+  },
+  "advancement": [
+    "暴击目标时，在目标身上引起一次电爆，对目标及其附近单位额外造成<b>30%</b>攻击力的伤害，冷却<b>0.2</b>秒",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "对有感电效果的目标暴击率提高<b>40%</b>，电爆时延长感电时间<b>0.5</b>秒，最长<b>5</b>秒",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "电能光束持续时间翻倍，技能释放时会将目标拉至中心",
+    "触发电爆时技能冷却降低<b>1</b>秒"
+  ],
+  "traits": [
+    {
+      "name": "赛弥尔-诡变",
+      "icon": true,
+      "description": "赛弥尔每<b>4</b>秒未被命中，获得<b>1</b>层【专注】，伤害提升<b>3%</b>，最多累计<b>4</b>层。每次被命中，失去<b>1</b>层【专注】，每<b>1</b>秒至多失去<b>1</b>次。"
+    },
+    {
+      "name": "赛弥尔-幽影",
+      "icon": true,
+      "description": "赛弥尔每<b>4</b>秒未被命中，获得<b>1</b>层【专注】，伤害提升<b>4%</b>，最多累计<b>5</b>层。每次被命中，失去<b>1</b>层【专注】，每<b>2</b>秒至多失去<b>1</b>次。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "闪电之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

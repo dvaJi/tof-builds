@@ -1,0 +1,311 @@
+{
+  "_id": 10,
+  "id": "meryl",
+  "name": "Meryl",
+  "weapon": "蔷薇之锋",
+  "weapon_id": "rosy_edge",
+  "birthday": "10月10日",
+  "birthplace": "海嘉德",
+  "gender": "女",
+  "info": "冷漠，孤僻，不论发生什么事情都鲜有波澜。梅丽尔不会表露出任何情感，并非说其毫无感情，只是她拒绝与他人产生联系。",
+  "description": "出生、年龄均无记录的海嘉德上位高等执行者，根据目前可查阅的信息，梅丽尔曾凭借出色的剑技和战斗技巧，在海嘉德的各种S级任务中脱颖而出，仅用几年时间便从普通干事升职为高等执行者。\n梅丽尔对外界事物都抱持着冷淡的态度，没有人能摸清她的真正想法，加之对敌人从不手软，因此众人都敬而远之。\n执行者资料库显示，梅丽尔有位感情很好的双胞胎兄弟，但关于此人的记录，尚未有任何相关记载。",
+  "like": "下雪天、晶体石头",
+  "dislike": "打理植物类",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Shieldbreaking",
+  "resonance": "Defense",
+  "shatter": 12,
+  "charge": 4,
+  "skills": [
+    {
+      "id": "GA_FPlayerBigSwordMeleeIce_SSR_name",
+      "name": "大剑普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，挥舞大剑可连续进行四次攻击。\n第一次攻击对目标造成<b>72.9%</b>*攻击力+<b>4</b>点伤害，并小幅击退目标。\n第二次攻击对目标造成<b>60.1%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第三次攻击对目标造成<b>105.4%</b>*攻击力+<b>6</b>点伤害，并小幅击退目标。\n第四次攻击对目标造成<b>156%</b>*攻击力+<b>8</b>点伤害，造成<b>强控击飞</b>，落地并击飞目标。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordMelee_AirAttack_name",
+      "name": "空击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行四次攻击。\n第一次攻击对目标造成<b>106.5%</b>*攻击力+<b>6</b>点伤害。\n第二次攻击对目标造成<b>87.5%</b>*攻击力+<b>5</b>点伤害。\n第三次攻击对目标造成<b>156%</b>*攻击力+<b>8</b>点伤害。\n第四次攻击对目标造成<b>140.5%</b>*攻击力+<b>7</b>点伤害，造成<b>强控击倒</b>，落地并击飞目标。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordMelee_Branch_name",
+      "name": "腾空斩",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第三下后，长按普攻可触发腾空斩。\n命中目标会<b>强控浮空</b>目标并使拓荒者滞空，总计造成<b>64.3%</b>*攻击力+<b>3</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordMelee_JumpAttack_name",
+      "name": "落月斩",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "落月斩"
+    },
+    {
+      "id": "GA_FPlayerBigSwordMelee_R_Sneak_name",
+      "name": "偷袭",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "处于下蹲状态时靠近敌人身后，点击普攻可触发偷袭，大剑劈斩，对目标造成<b>570%</b>*攻击力+<b>30</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordMelee_Power_name",
+      "name": "旋风斩",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "当拓荒者处于站立或移动状态时，长按普攻，可触发旋风斩，每<b>0.5</b>秒对目标造成<b>132.8%</b>*攻击力+<b>7</b>点伤害，期间免疫控制和硬直效果。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR_name",
+      "name": "破斩",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "使用方向键加闪避按钮触发前闪避的短暂时间内，点击普攻，可触发破斩。\n破斩每段命中目标造成<b>65.9%</b>*攻击力+<b>3</b>点伤害，并造成<b>击飞</b>效果。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR_name",
+      "name": "半月斩",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发半月斩。\n挥舞大剑向前方斩出剑气，每道剑气造成<b>49.6%</b>*攻击力+<b>3</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordBigSkillIce_SSR_name",
+      "name": "回旋斩",
+      "type": [
+        "Skill"
+      ],
+      "description": "连续挥舞大剑，对身前范围发射剑气，每次造成<b>141.7%</b>*攻击力+<b>7</b>点伤害，每道剑气造成伤害依次递增<b>5%</b>，技能期间免疫控制效果，冷却<b>30</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerBigSwordChangeSkillIce_SSR_name",
+      "name": "极寒冰墙",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，重击地面，形成冰墙，对范围内敌人造成<b>503.2%</b>*攻击力+<b>26</b>点伤害，并浮空目标，附带<b>50%</b>减速，且无法使用闪避和跳跃技能，冰墙可以阻挡子弹，冰墙持续<b>5</b>秒。"
+    }
+  ],
+  "weapon_type": {
+    "name": "寒冰",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>2</b>秒<b>强控冰冻</b>效果并造成<b>6</b>秒冻伤效果，冰冻破碎时造成<b>151%</b>*攻击力伤害，目标冻伤期间武器充能值获取速度降低<b>50%</b>。"
+  },
+  "advancement": [
+    "破盾效率提高<b>15%</b>，破盾目标后回复<b>10%</b>生命",
+    "当前武器的基础生命成长+<b>16%</b>",
+    "切换至该武器时获得<b>10%</b>最大生命值的生命冰盾，冷却<b>20</b>秒，冰盾最多持续<b>10</b>秒。",
+    "当前武器的基础生命成长+<b>32%</b>",
+    "生命护盾期间伤害和破盾效率提高<b>50%</b>",
+    "切换至该武器时获得<b>20%</b>最大生命值的生命冰盾，护盾期间免控，冷却<b>20</b>秒，冰盾最多持续<b>10</b>秒。"
+  ],
+  "traits": [
+    {
+      "name": "梅丽尔-蔷薇冷艳",
+      "icon": true,
+      "description": "梅丽尔受到冰伤降低<b>20%</b>，免疫冻伤效果，被冰冻时长降低<b>50%</b>"
+    },
+    {
+      "name": "梅丽尔-冰霜凛冽",
+      "icon": true,
+      "description": "梅丽尔受到冰伤降低<b>25%</b>，免疫冻伤效果，被冰冻时长降低<b>50%</b>。梅丽尔的周围会结冰。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "寒冬之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "合金增强框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

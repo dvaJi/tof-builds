@@ -1,0 +1,188 @@
+{
+  "_id": 4,
+  "id": "echo",
+  "name": "Manaka",
+  "weapon": "雷霆战戟",
+  "weapon_id": "thunderous_halberd",
+  "birthday": "8月14日",
+  "birthplace": "未记录",
+  "gender": "女",
+  "info": "活力充沛，横冲直撞的冒失娘。性格单纯，会把心情直接体现在脸上的类型。\n因为自己是从过路行商的善举中被拯救下来的生命，有一种报恩情结，努力想要像那个人一样，在四处旅行的同时顺便行善。\n嫉恶如仇的同时，将惩治恶与践行善在心里画过等号，因为不够成熟，会用草率的标准去判断人的善恶。",
+  "description": "在沃兰雪原出生的爱歌，从小渴望踏出这片无垠的洁白之境，去游历更多彩的世界。\n但在9岁那年，爱歌所在的避难所受到突发雪崩的影响，父母均死于这场天灾中，唯独被护在身下的她活了下来。在那之后，她被路过的好心行商所救，并送入了班吉斯的疗养院。\n在班吉斯生活了5年后，爱歌下定决心整备出发，成为一名边旅行边惩恶扬善的废土行者。",
+  "like": "艾琳奶奶、鱼料理",
+  "dislike": "交通工具",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Shieldbreaking",
+  "resonance": "DPS",
+  "shatter": 11,
+  "charge": 7,
+  "skills": [
+    {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Melee_name",
+      "name": "长枪普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，挥舞长枪可连续进行五次攻击。\n第一次攻击对目标造成<b>24.7%</b>*攻击力+<b>1</b>点伤害，并小幅击退目标。\n第二次攻击对目标造成<b>22.6%</b>*攻击力+<b>1</b>点伤害，并小幅击退目标。\n第三次攻击对目标造成<b>47.2%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。\n第四次攻击对目标造成<b>65.2%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第五次攻击对目标造成<b>114.95%</b>*攻击力+<b>6</b>点伤害，并大幅击退目标。"
+    },
+    {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
+      "name": "飞击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时，点击普攻可在空中连续进行四次攻击。\n第一次攻击对目标造成<b>27.4%</b>*攻击力+<b>1</b>点伤害。\n第二次攻击对目标造成<b>23.2%</b>*攻击力+<b>1</b>点伤害。\n第三次攻击对目标造成<b>45.8%</b>*攻击力+<b>2</b>点伤害。\n第四次攻击对目标造成<b>110%</b>*攻击力+<b>6</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_JumpAttack_name",
+      "name": "破击",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻(存在敌方目标时点按），攀爬，反向跳攻击或使用喷气背包普攻，会触发破击。\n下落过程中，每次命中目标对目标造成<b>8%</b>*攻击力+<b>1</b>点伤害；落地时对周围目标造成<b>48.5%</b>*攻击力+<b>3</b>点伤害，并击倒目标。\n触发时离地距离越高，伤害越高，最高可达<b>600%</b>伤害。"
+    },
+    {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_Branch_name",
+      "name": "乱枪狂舞",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第三下后，长按普攻可触发乱枪狂舞。\n命中目标会<b>强控浮空</b>目标造成<b>49.2%</b>*攻击力+<b>3</b>点伤害；再次点击对浮空目标连续攻击，对单个目标最多可造成<b>98%</b>*攻击力+<b>5</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerHammerMeleeThu_SSR_Sneak_name",
+      "name": "偷袭",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "处于下蹲状态时靠近敌人身后，点击普攻可触发偷袭，双刀刺击，对目标造成<b>570%</b>*攻击力+<b>30</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_FrontAttack_name",
+      "name": "飞踢",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "使用方向键加闪避按钮触发前闪避的短暂时间内，点击普攻，可触发飞踢。\n飞踢命中目标造成<b>72%</b>*攻击力+<b>4</b>点伤害，大幅击退目标并对怪物造成<b>1</b>秒，对玩家造成<b>0.5</b>秒<b>强控眩晕</b>效果。"
+    },
+    {
+      "id": "GA_FPlayerSpearEvadeThu_SSR_BackAttack_name",
+      "name": "挑击",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发挑击。\n挥舞长枪砸地造成<b>强控浮空</b>，造成<b>52.8%</b>*攻击力+<b>3</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSpearSkillThu_SSR_name",
+      "name": "逐月",
+      "type": [
+        "Skill"
+      ],
+      "description": "旋风一般将目标<b>强控浮空</b>，并使拓荒者滞空，造成<b>127.5%</b>*攻击力+<b>7</b>点伤害与浮空，冷却<b>25</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerSpearChangeSkillNewThu_SSRNew_Sucess_name",
+      "name": "雷枪",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，跳向空中，蓄力后向目标位置投掷出雷电长枪，落地会产生范围爆炸，造成<b>296.7%</b>*攻击力+<b>16</b>点伤害，且<b>强控麻痹</b>目标<b>1</b>秒。"
+    }
+  ],
+  "weapon_type": {
+    "name": "雷电",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>1</b>秒<b>强控麻痹</b>效果并感电<b>6</b>秒，清除目标的增益效果并造成<b>106%</b>*攻击力伤害，并且<b>6</b>秒内无法获得增益效果。"
+  },
+  "advancement": [
+    "破盾效率提高<b>15%</b>，破盾目标后提高全队<b>15%</b>攻击，不叠加，持续<b>30</b>秒。",
+    "当前武器的基础生命成长+<b>10%</b>",
+    "技能<span class=\"text-green\">逐月</span>命中目标后，降低目标<b>5%</b>攻击，提高自身<b>5%</b>攻击，持续<b>15</b>秒，命中多个目标时可叠加，最多叠加<b>3</b>层。对于重伤的目标，效果翻倍。",
+    "当前武器的基础攻击成长+<b>20%</b>",
+    "前闪避技的眩晕时长翻倍",
+    "连携技投掷距离越远伤害越高，最多提高<b>100%</b>伤害。"
+  ],
+  "traits": [
+    {
+      "name": "爱歌-正气",
+      "icon": true,
+      "description": "与爱歌组队时，爱歌<b>10</b>米范围内的队友获得伤害提升<b>4%</b>（不包括自己）。"
+    },
+    {
+      "name": "爱歌-坚定",
+      "icon": true,
+      "description": "与爱歌组队时，爱歌<b>10</b>米范围内的队友获得伤害提升<b>6%</b>（不包括自己）。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "_id": 2,
+  "id": "cocoritter",
+  "name": "Cocoritter",
+  "weapon": "零度指针",
+  "weapon_id": "absolute_zero",
+  "birthday": "6月1日",
+  "birthplace": "无记录",
+  "gender": "女",
+  "info": "天真烂漫的小姑娘，总能保持着乐观积极的态度。相当信赖着他人，甚至有时候因此给人留下“是不是很好骗”或者“太轻信陌生人了”这样的印象。\n喜好着甜食，并在健康菜肴和甜食这矛盾的两者中保持着奇妙的平衡。平时有些路痴，但也有着一旦找到路后就绝不会再找不到方向的神奇本领。她似乎总让人忍不住为她操心，但实际上她可以管理好自己的一切，完全没有任何需要担心之处。",
+  "description": "海嘉德医疗部门研究人员的女儿。不知是否因此缘故，可可丽特从小便展现出了她的医疗天赋，并且加入了父母所在的研究所，系统学习着医疗方面的知识。\n目前正在大陆上四处游历，游走于各避难所间，帮助避难所中的伤病员。这被她视为一件严肃、重要的事情，是她成为更有经验、更为成熟的医疗人员的必经之路。",
+  "like": "甜食、可爱的东西",
+  "dislike": "无记录",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Utility",
+  "resonance": "Support",
+  "shatter": 4,
+  "charge": 12.5,
+  "skills": [
+    {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_name",
+      "name": "普通攻击",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，挥舞法杖可连续进行五次攻击。\n第一次攻击对目标造成<b>54.4%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标造成<b>40.8%</b>*攻击力+<b>2</b>点伤害。\n第三次攻击对目标造成<b>65.6%</b>*攻击力+<b>3</b>点伤害。\n第四次攻击对目标造成<b>89.7%</b>*攻击力+<b>5</b>点伤害。\n第五次攻击对目标造成<b>158.4%</b>*攻击力+<b>8</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_AirAttack_name",
+      "name": "临空打击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行五次攻击。\n第一次攻击对目标造成<b>70.5%</b>*攻击力+<b>4</b>点伤害。\n第二次攻击对目标造成<b>50.8%</b>*攻击力+<b>3</b>点伤害。\n第三次攻击对目标造成<b>55.1%</b>*攻击力+<b>3</b>点伤害。\n第四次攻击对目标造成<b>99.1%</b>*攻击力+<b>5</b>点伤害。\n第五次攻击对目标造成<b>103.2%</b>*攻击力+<b>5</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_JumpAttack_name",
+      "name": "落月击",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，会触发落月击。\n落地时对周围目标每<b>0.2</b>秒造成一次伤害，共计<b>123.8%</b>*攻击力+<b>7</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesMeleeIce_SSR_Branch_name",
+      "name": "聚能攻击",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第三下后，长按普攻可触发分支攻击，消耗<b>300</b>点耐力。\n第一下分支将前方附近的怪物聚拢（<b>强制浮空</b>）并每<b>0.3</b>秒造成<b>34.9%</b>*攻击力+<b>2</b>点伤害(最多<b>4</b>次)。\n第二下分支对目标位置及其附近的敌方单位每<b>0.3</b>秒造成一次<b>40.4%</b>*攻击力+<b>2</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesEvadeIce_SSR_FrontAttack_name",
+      "name": "涌现",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "使用方向键加闪避按钮触发前闪避的短暂时间内，点击普攻，可触发涌现。\n每个能量波动命中目标造成<b>45.9%</b>*攻击力+<b>2</b>点伤害。\n释放立即获得<b>75</b>点武器充能值。"
+    },
+    {
+      "id": "GA_FPlayerStavesEvadeIce_SSR_BackAttack_name",
+      "name": "灵球",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发后闪攻击。\n拓荒者向前放释放一个能量球，对经过的敌方单位每<b>0.3</b>秒造成<b>66.4%</b>*攻击力+<b>3</b>点伤害(最多五次)。\n释放立即获得<b>75</b>点武器充能值。"
+    },
+    {
+      "id": "GA_FPlayerStavesSkillIce_SSR_name",
+      "name": "庇护",
+      "type": [
+        "Skill"
+      ],
+      "description": "释放治疗领域，持续治疗周围的全体队友，跟随拓荒者移动，每<b>0.5</b>秒治疗一次，每次治疗<b>95%</b>*攻击力+<b>5</b>点的生命，持续<b>6</b>秒，冷却<b>60</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerStavesChangeSkillIce_SSR_Sucess_name",
+      "name": "极速救援",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，设置权杖持续清除拓荒者和友方的负面效果，并持续治疗附近拓荒者和友方目标<b>118.8%</b>*攻击力+<b>6</b>点生命，持续<b>7</b>秒。"
+    }
+  ],
+  "weapon_type": {
+    "name": "寒冰",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>2</b>秒<b>强控冰冻</b>效果并造成<b>6</b>秒冻伤效果，冰冻破碎时造成<b>151%</b>*攻击力伤害，目标冻伤期间武器充能值获取速度降低<b>50%</b>。"
+  },
+  "advancement": [
+    "使用闪避后，召唤一只治疗蜜蜂跟随自己，治疗蜜蜂可治疗<b>15</b>米范围内的生命百分比最低的队友，每次治疗量为<b>25%</b>攻击力的生命并回复<b>50</b>点武器充能值，治疗蜜蜂持续<b>25</b>秒，召唤冷却<b>25</b>秒。",
+    "当前武器的基础生命成长+<b>16%</b>",
+    "释放技能<span class=\"text-yellow\">庇护</span>或连携技为目标解除异常状态，可在被控制状态下释放，范围内的所有队友破盾效率和伤害提高<b>20%</b>，且免疫控制和破盾效果。",
+    "当前武器的基础生命成长+<b>32%</b>",
+    "治疗效果提升<b>15%</b>，并对生命值低于<b>60%</b>的目标再提升<b>20%</b>。",
+    "治疗蜜蜂召唤出生和消失时对全体友方单位进行一次治疗，治疗量为<b>100%</b>攻击力。治疗蜜蜂<b>10</b>米内的所有友方单位获得<b>15%</b>全伤害和治疗效果提升，不叠加。"
+  ],
+  "traits": [
+    {
+      "name": "可可丽特-援助",
+      "icon": true,
+      "description": "可可丽特使用辅助武器时，治疗效果以及被治疗效果加强<b>20%</b>"
+    },
+    {
+      "name": "可可丽特-信赖",
+      "icon": true,
+      "description": "可可丽特使用辅助武器时，治疗效果以及被治疗效果加强<b>20%</b>且使用辅助武器的连携技或者武器技能时，周围友军的攻击力提升<b>15%</b>，持续<b>5</b>秒。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "寒冬之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "抗蚀薄膜Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

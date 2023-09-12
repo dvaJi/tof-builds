@@ -1,5 +1,5 @@
 {
-  "_id": 40003,
+  "_id": 5,
   "id": "cocoritter",
   "name": "Коко Риттер",
   "suitName": "Доказательство доверия",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase healing capability and healing received by <b>10%</b>/12%/14%/16%."
+      "value": "Увеличивает способность к лечению и получаемое лечение на 10%/12%/14%/16%."
     },
     {
       "count": 4,
-      "value": "When you or your teammates are healed, increase ATK by <b>12.5%</b>/15%/17.5%/20% for <b>6</b> seconds. Only the highest level's effect is applied when obtained repeatedly."
+      "value": "Когда вы или ваши товарищи по команде лечитесь, повышает АТК на 12,5%/15%/17,5%/20% на 6 сек."
     }
   ],
   "mind": {
@@ -30,9 +30,5 @@
   "emotion": {
     "name": "Рука помощи",
     "desc": "Доверься мне и позволь мне поддержать тебя."
-  },
-  "undefined": {
-    "name": "Откровенность",
-    "desc": "Прямота и открытость порой приводят к недоразумениям."
   }
 }

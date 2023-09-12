@@ -1,0 +1,296 @@
+{
+  "_id": 18,
+  "id": "cobaltb",
+  "name": "Cobalt-B",
+  "weapon": "炽焰左轮",
+  "weapon_id": "flaming_revolver",
+  "birthday": "6月26日",
+  "birthplace": "班吉斯重工",
+  "gender": "女",
+  "info": "乍看十分严肃、一本正经的科学怪人模样。实际是毫不刻板、行事风格颇有张力的类型。\n就跟天生面部肌肉不发达似的，没啥表情，但一相处就会明白为人并不冷漠，情绪和想法都不少。生气的时候似乎会鼓脸颊。\n虽然是当今机械开发领域的大师，但并非理论派而是直觉派。\n凭借超强的第六感来调整器械，不过也经常会按照嗜好添加一些完全无用的搞笑向插件。",
+  "description": "在班吉斯重工的武器开发部门供职的机械师，工作时隐藏真名，以“钴蓝”为代号。就外人来看，职位并不算很高，升不了职的原因是理论考试的成绩不达标。\n然而，只有班吉斯重工内部的人才知道，她实质上才是武器开发部门的王牌角色。钴蓝并不在乎循规蹈矩的基础设计理论，仅以临时的直觉来创作机械，成品却总能取得突破性的好效果。\n为了亲自测试武器、收集实战数据，偶尔会和武装力量同行出外勤，拿周围倒霉的鬣狗帮等开刀试手。",
+  "like": "机械制品、头脑风暴、艺术摇滚",
+  "dislike": "背书、考试",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 12.5,
+  "charge": 10,
+  "skills": [
+    {
+      "id": "GA_FPlayerGunMelee_Melee_name",
+      "name": "普通攻击",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，点击普攻可连续进行五次攻击。\n第一次攻击对目标总计造成<b>52.3%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标总计造成<b>75.6%</b>*攻击力+<b>4</b>点伤害。\n第三次攻击对目标总计造成<b>94.5%</b>*攻击力+<b>5</b>点伤害。\n第四次攻击对目标总计造成<b>142.8%</b>*攻击力+<b>8</b>点伤害。\n第五次攻击对目标总计造成<b>137.8%</b>*攻击力+<b>7</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerGunMelee_Power_name",
+      "name": "蓄力攻击",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "长按普攻，进入蓄力攻击状态，松手时发射子弹，可对目标造成<b>95.4%</b>*攻击力+<b>5</b>点伤害;三秒后（或目标死亡时）爆炸，对附近的敌方单位造成<b>23.9%</b>*攻击力伤害，期间目标每受到一次伤害，伤害范围扩大一倍（最多扩大<b>4</b>次），并提升伤害。"
+    },
+    {
+      "id": "GA_FPlayerGunMelee_JumpAttack_name",
+      "name": "跳跃攻击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，可以发动跳跃攻击。\n向前方扔出一枚炸弹，对前方圆形范围内的敌人造成<b>90.8%</b>*攻击力+<b>5</b>点伤害，并小幅击退目标，消耗<b>250</b>点耐力。"
+    },
+    {
+      "id": "GA_FPlayerGunMelee_AirAttack_name",
+      "name": "空中攻击",
+      "type": [
+        "Double Jump"
+      ],
+      "description": "当拓荒者使用二段跳之后，可以在空中发动空中攻击。\n向下方发射出一道原能光线，并向前扫射，对扫过的敌人造成<b>33.8%</b>*攻击力+<b>2</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerGunMelee_Branch_name",
+      "name": "爆破榴弹",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "在普通攻击过程中，长按普攻，向前方扫射，对扫过的敌人总计造成<b>102%</b>*攻击力+<b>5</b>点范围伤害。"
+    },
+    {
+      "id": "GA_FPlayerGunEvade_BackAttack_name",
+      "name": "近身破击",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避后立刻使用普通攻击可触发近身破击。\n对身前扇形范围内的目标造成<b>156.1%</b>*攻击力+<b>8</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerGunSkill_name",
+      "name": "弹幕",
+      "type": [
+        "Skill"
+      ],
+      "description": "对正前方扇形范围内的目标持续射击，总计造成<b>666%</b>*攻击力+<b>35</b>点伤害，冷却<b>60</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerGunChangeSkill_NewNew_Sucess_name",
+      "name": "多重榴弹",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，向前方发出<b>3</b>枚榴弹，命中总计造成<b>570%</b>*攻击力+<b>30</b>点范围伤害，附带<b>击飞</b>效果。"
+    }
+  ],
+  "weapon_type": {
+    "name": "火焰",
+    "description": "武器充能值充满后下次攻击点燃敌人<b>8</b>秒，每秒造成<b>58%</b>*攻击力伤害，点燃期间目标的治疗效果降低<b>50%</b>。"
+  },
+  "weapon_resonance": {
+    "name": "火焰共鸣",
+    "description": "<b>火焰共鸣</b>：装备<b>2</b>把及以上火焰武器触发，提升<b>15%</b>火攻和<b>25%</b>火抗，装备后后台可生效，同类效果不叠加。"
+  },
+  "advancement": [
+    "技能每段附加目标当前生命<b>2%</b>伤害，最高不超过攻击的<b>180%</b>",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "分支技能\"爆破榴弹\"和闪避攻击\"近身破击\"会对灼烧状态下目标施加<span class=\"text-green\">离子灼烧</span>，每秒造成攻击力<b>40%</b>的火焰伤害，持续<b>10</b>秒",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "<span class=\"text-green\">离子灼烧</span>的伤害提高到攻击的<b>60%</b>，且任意武器的“闪避技”命中目标刷新目标体内<span class=\"text-green\">离子灼烧</span>的持续时间",
+    "技能<span class=\"text-green\">弹幕</span>附带灼烧效果持续<b>15</b>秒，任意武器的“闪避技”命中目标后降低技能<span class=\"text-green\">弹幕</span><b>4</b>秒的冷却时间，该效果冷却<b>1.5</b>秒；“闪避技”附带的持续灼烧也可触发降低冷却效果"
+  ],
+  "traits": [
+    {
+      "name": "钴蓝-余温",
+      "icon": true,
+      "description": "钴蓝释放连携技后，自身随机恢复<b>50</b>-<b>120</b>点武器充能值。"
+    },
+    {
+      "name": "钴蓝-火花",
+      "icon": true,
+      "description": "钴蓝释放连携技后，自身随机恢复<b>90</b>-<b>180</b>点武器充能值。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "熔岩之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "合金增强框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

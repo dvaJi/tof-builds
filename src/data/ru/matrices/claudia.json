@@ -1,5 +1,5 @@
 {
-  "_id": 40006,
+  "_id": 4,
   "id": "claudia",
   "name": "Клаудия",
   "suitName": "Всесторонний удар",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase damage by <b>13%</b>/17%/20%/23% when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air."
+      "value": "Увеличивает урон на 13%/17%/20%/23% при попадании в цель в воздухе или при начале атаки в воздухе. При попадании в цель в воздухе сбрасывается двойной прыжок."
     },
     {
       "count": 4,
-      "value": "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by <b>1.5</b>/2/2.5/3 seconds and increases the damage of discharge skills by <b>58%</b>/80%/103%/126% for <b>15</b> seconds."
+      "value": "Попадание навыком по врагу сокращает перезарядку всех навыков оружия на 1,5/2/2,5/3 сек. и увеличивает урон от навыков разрядки на 58%/80%/103%/126% на 15 сек."
     }
   ],
   "mind": {

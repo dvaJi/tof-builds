@@ -1,0 +1,169 @@
+{
+  "_id": 1,
+  "id": "bailing",
+  "name": "Bai Ling",
+  "weapon": "夜雀之羽",
+  "weapon_id": "nightingales_feather",
+  "birthday": "5月8日",
+  "birthplace": "HT201避难所",
+  "gender": "女",
+  "info": "缺乏自信、患得患失，在意别人的看法大于自己的主见，因而容易敏感和伤感，有时会因为一些小事忧心忡忡。但也是一个脚踏实地的好苗子，待人稳重有礼，办事细致入微。\n方方面面都还处于成长学习中，已经意识到自己的问题，正在努力朝着独当一面的方向龟速前进。",
+  "description": " HT201避难所现任首领，负责HT201避难所营地的日常事务和作战指挥，由于刚担任首领不久，在面对各项工作任务时总是显得手忙脚乱、力不从心。\n 前任首领的意外离世，让白伶深受打击，思虑过多、瞻前顾后的性格也曾遭到避难所内不少成员的质疑。对于避难所首领一职，她始终觉得是个很重的负担，时常担心焦虑如何才能经营打点好避难所的一切。\n 好在白伶责任感充沛，事事都会为避难所的人员考虑，细心谨慎又善于管理财务。就目前来看，HT201避难所在她的管理下，状况还算不错。",
+  "like": "做账、理财、清点库存",
+  "dislike": "和嘴巴毒或脾气怪异的人相处",
+  "element": "Physical",
+  "rarity": "SR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 10,
+  "skills": [
+    {
+      "id": "GA_FPlayerBowMeleeNew_R_Melee_name",
+      "name": "弓箭普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，连续拉弓进行五次攻击。\n第一次攻击对目标造成<b>33.7%</b>*攻击力+<b>2</b>点伤害。\n第二次攻击对目标造成<b>30.2%</b>*攻击力+<b>2</b>点伤害。\n第三次攻击对目标造成<b>54.3%</b>*攻击力+<b>3</b>点伤害。\n第四次攻击对目标造成<b>83.5%</b>*攻击力+<b>4</b>点伤害。\n第五次攻击对目标造成<b>77.7%</b>*攻击力+<b>4</b>点伤害，并小幅击退目标。"
+    },
+    {
+      "id": "GA_FPlayerBowMeleeNew_R_Power_name",
+      "name": "蓄力箭",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "长按普攻，进入蓄力攻击状态，对目标造成<b>60.5%</b>*攻击力+<b>3</b>点基础伤害，蓄力每增加<b>1</b>秒，伤害增加<b>0.5</b>倍，蓄力<b>3</b>秒后达到伤害最大值，若命中怪物头部或者弱点，触发爆头效果（爆头效果对拓荒者无效），造成双倍伤害，并击倒目标。"
+    },
+    {
+      "id": "GA_FPlayerBowMeleeNew_R_Branch_name",
+      "name": "箭雨",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "任意一段普攻后长按普攻，释放箭雨造成范围伤害，对目标最多造成<b>198.7%</b>*攻击力+<b>10</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBowMeleeNew_R_AirAttack_name",
+      "name": "空中连击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时，点击普攻可在空中连续进行四次攻击。\n第一次攻击对目标造成<b>38.8%</b>*攻击力+<b>2</b>点伤害。\n第二次攻击对目标造成<b>51%</b>*攻击力+<b>3</b>点伤害。\n第三次攻击对目标造成<b>77.7%</b>*攻击力+<b>4</b>点伤害。\n第四次攻击对目标造成<b>117%</b>*攻击力+<b>6</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBowEvadeNew_R_Attack_name",
+      "name": "蓄力一击",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避后，点击攻击，可触发蓄力一击效果，小幅击退目标，并对目标造成<b>85.5%</b>*攻击力+<b>5</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerBowSkill_R_name",
+      "name": "穿透箭",
+      "type": [
+        "Skill"
+      ],
+      "description": "后空翻并向前方射出<b>1</b>支穿透箭，对目标造成<b>154.8%</b>*攻击力+<b>8</b>点伤害，并击退目标，冷却<b>12</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerBowChangeSkill_R_Sucess_name",
+      "name": "爆裂箭雨",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，向目标射出爆裂箭雨，对单个目标最多造成<b>486.6%</b>*攻击力+<b>26</b>点伤害。"
+    }
+  ],
+  "weapon_type": {
+    "name": "重伤",
+    "description": "武器充能值充满后下次攻击使敌人进入<b>7</b>秒重伤状态，受到伤害增加<b>20%</b>，并造成<b>100%</b>*攻击力伤害。<yellow_lbl_14_1>[组队玩法]</>中，重伤状态目标受到物理伤害额外增加<b>20%</b>。"
+  },
+  "advancement": [
+    "普攻第五下或者施放技能<span class=\"text-green\">穿透箭</span>恢复一次闪避次数。",
+    "当前武器的基础攻击成长+<b>10%</b>",
+    "爆头伤害提升<b>30%</b>。",
+    "当前武器的基础攻击成长+<b>20%</b>",
+    "闪避技对目标附加持续<b>7</b>秒的重伤。",
+    "对重伤目标暴击率提高<b>30%</b>，暴击伤害提高<b>50%</b>。"
+  ],
+  "traits": [
+    {
+      "name": "白伶-勇气",
+      "icon": true,
+      "description": "白伶收起滑翔伞或者滑板时，移速提升<b>8%</b>，持续<b>12</b>秒，冷却<b>60</b>秒。"
+    },
+    {
+      "name": "白伶-果敢",
+      "icon": true,
+      "description": "白伶收起滑翔伞或者滑板时，移速提升<b>15%</b>，持续<b>12</b>秒，冷却<b>60</b>秒。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

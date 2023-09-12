@@ -1,0 +1,294 @@
+{
+  "_id": 3,
+  "id": "crow",
+  "name": "Karasuma",
+  "weapon": "疾雷双刃",
+  "weapon_id": "thunderblades",
+  "birthday": "12月17日",
+  "birthplace": "无记录",
+  "gender": "男",
+  "info": "活跃气氛的开心果担当。外向而坦率，不管面对什么事都很乐观，偶尔会显得得意忘形。\n总是在练习些叫人眼花缭乱的匕首戏法，还收集了很多自以为好笑的冷笑话，时常拿这些进行表演。\n随性自在的表象下隐藏着相当坚强的意志力，一旦决定要做的事，无论遇见多少阻碍都会坚持到底，有时会因此过度勉强自己。",
+  "description": "作为已经离任的执行者，乌丸和海嘉德方面依旧保持着良好的关系。他并非是因为闯祸或是业绩不精而被劝退的，只是经过一段时间与团队磨合的尝试，发觉了内心更向往不被拘束的生活后，做出了更符合自己的选择。\n如今自由身的他，常年独自四处旅行，爽朗爱笑的个性让人们对他的第一印象总是很好。每到新的地方，他就会给当地的人们带来他努力练习的节目。人们总是亲切地“阿乌、阿乌”地叫他，他本人很喜欢这个昵称，说是因为听起来就像是人们在为他的表演欢呼一样。",
+  "like": "猫、有个性的各类匕首",
+  "dislike": "酒、恐怖故事",
+  "element": "Volt",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 6,
+  "charge": 8,
+  "skills": [
+    {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Melee_name",
+      "name": "双刀普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，挥舞双刀可连续进行五次攻击。\n第一次攻击对目标造成<b>60.1%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第二次攻击对目标造成<b>73%</b>*攻击力+<b>4</b>点伤害，并小幅击退目标。\n第三次攻击对目标造成<b>90.9%</b>*攻击力+<b>5</b>点伤害，并小幅击退目标。\n第四次攻击对目标造成<b>96.8%</b>*攻击力+<b>5</b>点伤害，并小幅击退目标。\n第五次攻击对目标造成<b>202.2%</b>*攻击力+<b>11</b>点伤害，并小幅击退目标。"
+    },
+    {
+      "id": "GA_FPlayerDSMeleeThu_SSR_AirAttack_name",
+      "name": "空中穿梭",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行4次攻击。\n第一次攻击对目标造成<b>65.6%</b>*攻击力+<b>3</b>点伤害。\n第二次攻击对目标造成<b>38.4%</b>*攻击力+<b>2</b>点伤害。\n第三次攻击对目标造成<b>92%</b>*攻击力+<b>5</b>点伤害。\n第四次攻击对目标造成<b>138%</b>*攻击力+<b>7</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Branch_name",
+      "name": "闪击",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第三下后，长按普攻可触发闪击。\n命中目标会<b>强控浮空</b>目标，总计造成<b>116.8%</b>*攻击力+<b>6</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDSMeleeThu_SSR_JumpAttack_name",
+      "name": "旋转利刃",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻(存在敌方目标时点按），攀爬，反向跳攻击或使用喷气背包普攻，会触发旋转利刃。\n下落过程中，每次命中目标对目标造成<b>42%</b>*攻击力+<b>2</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
+      "name": "偷袭",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "处于下蹲状态时靠近敌人身后，点击普攻可触发偷袭，刺出短剑，对目标造成<b>570%</b>*攻击力+<b>30</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDsEvadeThu_SSR_FrontAttack_name",
+      "name": "飞刃",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "使用方向键加闪避按钮触发前闪避的短暂时间内，点击普攻，可触发飞刃。\n对单个目标瞬切斩<b>5</b>次，每次切斩造成<b>26.4%</b>*攻击力+<b>1</b>点伤害，瞬切斩过程中免疫控制效果。"
+    },
+    {
+      "id": "GA_FPlayerDSSkillThu_SSR_name",
+      "name": "回旋飞刃",
+      "type": [
+        "Skill"
+      ],
+      "description": "向四周射出<b>6</b>个回旋飞刃，每个飞刃造成<b>52.8%</b>*攻击力+<b>3</b>点伤害，自身获得最长可持续<b>8</b>秒的<b>霸体</b>效果，释放的飞刃在外停留较长时间，飞刃返回自身时移除霸体效果，冷却<b>45</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerDSChangeSkillThu_SSR_Sucess_name",
+      "name": "轮转飞刃",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，闪烁到目标位置发动攻击，造成<b>86.9%</b>*攻击力+<b>5</b>点伤害，同时给目标添加电刑效果（<b>5</b>秒后额外造成已损失血量<b>15%</b>的雷电伤害，最高不超过拓荒者攻击力的<b>350%</b>，属于异常状态，可被驱散），并掷出3个飞刃围绕拓荒者旋转，对每次触碰的目标造成<b>65.2%</b>*攻击力+<b>3</b>点伤害。"
+    }
+  ],
+  "weapon_type": {
+    "name": "雷电",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>1</b>秒<b>强控麻痹</b>效果并感电<b>6</b>秒，清除目标的增益效果并造成<b>144%</b>*攻击力伤害，并且<b>6</b>秒内无法获得增益效果。"
+  },
+  "advancement": [
+    "命中目标背部时双刀的所有攻击暴击率提高<b>40%</b>；对感电目标的背刺，暴击率提升<b>100%</b>，暴击伤害提升<b>30%</b>。",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "对生命值低于<b>60%</b>的目标伤害提高<b>30%</b>。",
+    "当前武器的基础生命成长+<b>32%</b>",
+    "触发背击时获得持续<b>4</b>秒的必定暴击状态，同时暴击伤害提高<b>50%</b>，冷却<b>10</b>秒。",
+    "释放技能时目标受到的雷电伤害提高<b>20%</b>，持续<b>20</b>秒。"
+  ],
+  "traits": [
+    {
+      "name": "乌丸-独行",
+      "icon": true,
+      "description": "乌丸非组队状态下伤害提升<b>6%</b>，受到的伤害降低<b>4%</b>"
+    },
+    {
+      "name": "乌丸-寂夜",
+      "icon": true,
+      "description": "乌丸非组队状态下伤害提升<b>10%</b>，受到的伤害降低<b>6%</b>；乌丸战斗开始时，伤害提升<b>12%</b>，持续<b>12</b>秒。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lightning",
+        "name": "闪电之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

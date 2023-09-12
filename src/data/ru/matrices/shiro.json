@@ -1,5 +1,5 @@
 {
-  "_id": 40007,
+  "_id": 22,
   "id": "shiro",
   "name": "Широ",
   "suitName": "Поэма к отбытию",
@@ -8,11 +8,11 @@
   "bonus": [
     {
       "count": 2,
-      "value": "Increase both damage and shatter to targets with more than <b>50%</b> HP by <b>15%</b>/19%/22.5%/26%."
+      "value": "Увеличивает урон и раскол по целям, у которых более 50% ОЗ, на 15%/19%/22,5%/26%."
     },
     {
       "count": 4,
-      "value": "Upon entering battle, gain a <b>20%</b>/25%/30%/35% damage boost for <b>35</b> seconds. Reset <b>5</b> seconds after exiting battle."
+      "value": "При вступлении в бой дает 20%/25%/30%/35% усиление урона на 35 сек. Сбрасывается через 5 сек. после выхода из боя."
     }
   ],
   "mind": {

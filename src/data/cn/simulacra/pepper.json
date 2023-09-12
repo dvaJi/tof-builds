@@ -1,0 +1,179 @@
+{
+  "_id": 12,
+  "id": "pepper",
+  "name": "Peppa",
+  "weapon": "圣痕权杖",
+  "weapon_id": "staff_of_scars",
+  "birthday": "7月9日",
+  "birthplace": "海嘉德医疗部门",
+  "gender": "女",
+  "info": "以温和耐心的笑容为招牌，颇受好评的护士，有着公认出色的工作效率。但实际上自身体质和体力都称不上优秀，因忙于事务，加之对自己要求较高，而长期处于疲劳状态之中。\n经诊断，有着较为严重的失眠症状，以及轻度的精神衰弱和偏执……但体现并不明显，那些征兆全都以高度的教养和自我约束压制住了。",
+  "description": "出生于班吉斯一个条件优渥的家庭，儿童时期就接受了较好的教育，因此她在大多数情况下都能表现出良好的教养。然而某次随父母一同外出时，遭到了突如其来的异化人袭击，其父母在那次袭击中损失了他们的抑制器而死亡——即便要说“死亡”，也并不是绝对正确。\n他们异化了，而幸存的佩·佩对当时打算解脱他们的海嘉德执行者拼命求情，因此，这两只异化人至今仍以某种形式被还记得关押收治着，维持现状的支出蚕食着家底。\n这就是为什么现在的佩·佩正在海嘉德医疗部门工作，她选择了一条不归路——寻找医治异化人，扭转异化的方法……",
+  "like": "父母、工作、研究进展",
+  "dislike": "准时入眠",
+  "element": "Volt",
+  "rarity": "SR",
+  "role": "Utility",
+  "resonance": "Support",
+  "shatter": 4,
+  "charge": 10,
+  "skills": [
+    {
+      "id": "GA_FPlayerStavesMelee_Melee_name",
+      "name": "普通攻击",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，挥舞法杖可连续进行五次攻击。\n第一次攻击对目标造成<b>25.1%</b>*攻击力+<b>1</b>点伤害。\n第二次攻击对目标造成<b>18.8%</b>*攻击力+<b>1</b>点伤害。\n第三次攻击对目标造成<b>30.4%</b>*攻击力+<b>2</b>点伤害。\n第四次攻击对目标造成<b>41.4%</b>*攻击力+<b>2</b>点伤害。\n第五次攻击对目标造成<b>73.2%</b>*攻击力+<b>4</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesMelee_AirAttack_name",
+      "name": "临空打击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行五次攻击。\n第一次攻击对目标造成<b>32.5%</b>*攻击力+<b>2</b>点伤害。\n第二次攻击对目标造成<b>23.5%</b>*攻击力+<b>1</b>点伤害。\n第三次攻击对目标造成<b>25.5%</b>*攻击力+<b>1</b>点伤害。\n第四次攻击对目标造成<b>45.6%</b>*攻击力+<b>2</b>点伤害。\n第五次攻击对目标造成<b>47.7%</b>*攻击力+<b>3</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesMelee_JumpAttack_name",
+      "name": "落月击",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，会触发落月击。\n落地时对周围目标每<b>0.2</b>秒造成一次伤害，共计<b>57.2%</b>*攻击力+<b>3</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesMelee_Branch_name",
+      "name": "聚能攻击",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第三下后，长按普攻可触发分支攻击，消耗<b>300</b>点耐力。\n第一下分支将前方附近的怪物聚拢（<b>强制浮空</b>）并每<b>0.3</b>秒造成<b>16.1%</b>*攻击力+<b>1</b>点伤害(最多<b>4</b>次)。\n第二下分支对目标位置及其附近的敌方单位每<b>0.3</b>秒造成一次<b>18.6%</b>*攻击力+<b>1</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerStavesEvade_FrontAttack_name",
+      "name": "涌现",
+      "type": [
+        "Perfect Dodge",
+        "Attack"
+      ],
+      "description": "使用方向键加闪避按钮触发前闪避的短暂时间内，点击普攻，可触发涌现。\n每个能量波动命中目标造成<b>22.6%</b>*攻击力+<b>1</b>点伤害。\n释放立即获得<b>75</b>点武器充能值。"
+    },
+    {
+      "id": "GA_FPlayerStavesEvade_BackAttack_name",
+      "name": "灵球",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发后闪攻击。\n拓荒者向前放释放一个能量球，对经过的敌方单位每<b>0.3</b>秒造成<b>32.1%</b>*攻击力+<b>2</b>点伤害(最多五次)。\n释放立即获得<b>75</b>点武器充能值。"
+    },
+    {
+      "id": "GA_FPlayerStavesSkill_name",
+      "name": "庇护",
+      "type": [
+        "Skill"
+      ],
+      "description": "在原地释放一个能量护盾，对护盾中的友方单位每秒恢复<b>81.7%</b>*攻击力+<b>4</b>点生命值，并降低<b>3%</b>受到的伤害，持续<b>10</b>秒。冷却<b>60</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerStavesChangeSkill_Sucess_name",
+      "name": "极速救援",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，设置权杖持续清除拓荒者和友方的负面效果，并治疗附近拓荒者和友方目标<b>79%</b>*攻击力+<b>4</b>点生命，持续<b>7</b>秒。"
+    }
+  ],
+  "weapon_type": {
+    "name": "雷电",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>1</b>秒<b>强控麻痹</b>效果并感电<b>6</b>秒，清除目标的增益效果并造成<b>106%</b>*攻击力伤害，并且<b>6</b>秒内无法获得增益效果。"
+  },
+  "advancement": [
+    "释放闪避技时治疗周围<b>10</b>米内所有队友，治疗量为<b>100%</b>攻击。",
+    "当前武器的基础生命成长+<b>10%</b>",
+    "每次普攻附加两枚飞弹，每个飞弹对目标造成<b>5%</b>攻击伤害，并获得<b>5</b>点武器充能值。",
+    "当前武器的基础生命成长+<b>20%</b>",
+    "武器充能值获取速度提高<b>20%</b>。（飞弹的攻击不享受此加成）",
+    "技能为目标解除控制效果，技能范围内的友方单位获得<b>60%</b>的减伤。"
+  ],
+  "traits": [
+    {
+      "name": "佩·佩-复苏",
+      "icon": true,
+      "description": "佩·佩使用饱食度恢复生命时，恢复效果提升<b>100%</b>"
+    },
+    {
+      "name": "佩·佩-源泉",
+      "icon": true,
+      "description": "佩·佩使用饱食度恢复生命时，恢复效果提升<b>200%</b>"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 250,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 1
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 500,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 750,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1000,
+      "mat1": {
+        "id": "magcore",
+        "name": "磁能之核",
+        "rarity": "N",
+        "amount": 2
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 2
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 2
+      }
+    }
+  ]
+}

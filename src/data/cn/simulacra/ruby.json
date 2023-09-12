@@ -1,0 +1,295 @@
+{
+  "_id": 19,
+  "id": "ruby",
+  "name": "Rabbit",
+  "weapon": "斯帕克",
+  "weapon_id": "spark",
+  "birthday": "7月15日",
+  "birthplace": "无记录",
+  "gender": "女",
+  "info": "内向、天真、不谙世事的的女孩。有些怕生，喜欢一个人独处，或许是因为过去总是习惯一个人呆着，见到陌生人会有些恐惧和害羞。\n总是被人称作“凛夜大人带着的那个小不点”，因此自己萌生了一种使命感——自己要变得更努力、变得更强才行，这样才不会拖凛夜姐姐的后腿，这样才能不辜负凛夜姐姐对自己的教导。",
+  "description": "凛夜某位故人的女儿，因为某些缘故现由凛夜代为监护，与她共同行动。身体似乎不是很好，给人一种有些病弱的印象。\n应凛夜的要求正在学习防身用的战斗技巧。虽然发展的方向好像与凛夜自己的流派相比出现了不小的偏差，但至少现在蕾贝的身体状况与之前相比好了许多，甚至能够应付下来不少麻烦的场合。\n对世界和自身的认知都是一种懵懵懂懂的状态。盲信着凛夜的教导和讲述，也十分依赖她来帮自己做决定。对于这个现状，凛夜的评价是——其独立性现在务必强抓着培养起来。",
+  "like": "玩偶兔多莉",
+  "dislike": "吃药",
+  "element": "Fire",
+  "rarity": "SSR",
+  "role": "Main DPS",
+  "resonance": "DPS",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "id": "GA_FPlayerFunnelMeleeFire_Melee_name",
+      "name": "斯帕克普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时点击普攻，操控斯帕克可连续进行5次攻击。\n第一次攻击对每个目标总计造成<b>84.6%</b>*攻击力+<b>4</b>点伤害。\n第二次攻击对每个目标总计造成<b>93%</b>*攻击力+<b>5</b>点伤害。\n第三次攻击对每个目标总计造成<b>101.5%</b>*攻击力+<b>5</b>点伤害。\n第四次攻击对每个目标总计造成<b>109.9%</b>*攻击力+<b>6</b>点伤害。\n第五次攻击对每个目标总计造成<b>253.7%</b>*攻击力+<b>13</b>点伤害，并造成<b>击飞</b>效果。"
+    },
+    {
+      "id": "GA_FPlayerFunnelMeleeFire_AirAttack_name",
+      "name": "空中攻击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "滞空时点击普攻，操控斯帕克可连续进行4次攻击。\n第一次攻击对每个目标总计造成<b>97.1%</b>*攻击力+<b>5</b>点伤害。\n第二次攻击对每个目标总计造成<b>106.8%</b>*攻击力+<b>6</b>点伤害。\n第三次攻击对每个目标总计造成<b>121.3%</b>*攻击力+<b>6</b>点伤害。\n第四次攻击对每个目标总计造成<b>145.6%</b>*攻击力+<b>8</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerFunnelMeleeFire_AimAttack_name",
+      "name": "抓到你了！",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "长按普攻或者在触发“禁锢领域”后长按普攻，持续射出火焰光束对瞄准方向的目标造成<b>40%</b>*攻击力+<b>2</b>点伤害并消耗耐力。"
+    },
+    {
+      "id": "GA_FPlayerFunnelMeleeFire_JumpAttack_name",
+      "name": "火焰坠落",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，触发火焰坠落。\n被能量体包裹，快速坠落至地面，对周围的目标造成<b>172.1%</b>*攻击力+<b>9</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerFunnelMeleeFire_Branch_name",
+      "name": "禁锢领域",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻第二段后任意段长按，对目标造成<b>40%</b>*攻击力+<b>2</b>点伤害，并将锁定目标禁锢（非强控）并灼烧<b>3</b>秒，每秒造成<b>26.2%</b>*攻击力+<b>1</b>点伤害（对boss不生效）。"
+    },
+    {
+      "id": "GA_FPlayeFunnelEvadeFire_FrontAttack_name",
+      "name": "多莉出动！",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避后，将多莉抛出并存在<b>10</b>秒，吸附附近敌人造成<b>84.6%</b>*攻击力+<b>4</b>点伤害并嘲讽敌人<b>1.5</b>秒（嘲讽在组队状态下不生效），使其转向攻击多莉。"
+    },
+    {
+      "id": "GA_FPlayerFunnelSkillFire_name",
+      "name": "火花撞撞",
+      "type": [
+        "Skill"
+      ],
+      "description": "斯帕克向前方射出【火花】存在15秒，在目标和玩家之间反弹并首次命中使目标动作速率减缓（非强控）持续<b>4</b>秒冷却<b>15</b>秒，距离越远伤害越高，命中敌人最多可造成<b>350%</b>*攻击力+<b>37</b>点伤害并施加【炙热】标记持续<b>25</b>秒，同时释放4颗子弹，每颗子弹对目标造成<b>50%</b>*攻击力+<b>3</b>点伤害；斯帕克对【炙热】标记的目标普攻伤害提高<b>110%</b>。若目标存在自己施加的灼烧，则在【火花】命中时触发一次灼烧或点燃剩余总伤害<b>100%</b>的额外伤害（多个灼烧或点燃合并计算）,结算冷却<b>6</b>秒,技能冷却<b>30</b>秒。\n<b>被动</b>：【火花】存在期间，斯帕克普攻每造成1次伤害，玩家累积<b>1</b>点【热能】冷却<b>0.9</b>秒，至多积累<b>8</b>点，当【热能】达到上限时，玩家获得【极限热能】效果，火攻增加<b>25%</b>持续<b>25</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerFunnelChangeSkillFire_Success_name",
+      "name": "超新星爆发",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，斯帕克开启蓄力形态，持续向前方射出大范围火焰光束，并在结束时爆炸，造成<b>750%</b>*攻击力+<b>39</b>点伤害；若目标存在自己施加的灼烧，命中时触发一次灼烧或点燃剩余总伤害<b>100%</b>的额外伤害（多个灼烧或点燃合并计算）,结算冷却<b>6</b>秒，技能期间免疫伤害持续<b>2.6</b>秒（巅峰联赛不生效）。"
+    }
+  ],
+  "weapon_type": {
+    "name": "烈焰",
+    "description": "武器充能值充满后下次攻击点燃敌人<b>8</b>秒，每秒造成<b>58%</b>*攻击力伤害，点燃期间目标的治疗效果降低<b>50%</b>。"
+  },
+  "weapon_resonance": {
+    "name": "火焰共鸣",
+    "description": "装备2把及以上火焰武器触发，提升<b>20%</b>火攻和<b>40%</b>火抗，后台可生效"
+  },
+  "advancement": [
+    "【炙热】使斯帕克普攻增伤提高至<b>80%</b>；技能冷却缩减至<b>24</b>秒",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "【炙热】附带受到火伤增加<b>8%</b>；灼烧结算倍率提升至<b>150%</b>",
+    "当前武器的基础攻击成长+<b>32%</b>",
+    "斯帕克普攻每次命中敌方单位，额外回复<b>75</b>点武器充能值，冷却0.9秒；【极限热能】期间，破防效率提升<b>25%</b>",
+    "【炙热】使斯帕克普攻增伤提高至<b>160%</b>，且【热能】获得效率翻倍；技能冷却缩减至<b>16</b>秒"
+  ],
+  "traits": [
+    {
+      "name": "捕梦之网",
+      "description": "多莉附近<b>5</b>米范围内，怪物受到的火焰伤害增加<b>8%</b>，不可叠加"
+    },
+    {
+      "name": "多莉领域",
+      "description": "多莉附近5米范围内，怪物受到的火焰伤害增加<b>8%</b>，不可叠加；抛出多莉后，火攻增加<b>12%</b>，持续<b>10</b>秒，不可叠加"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "firecore",
+        "name": "炙热之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "acidproof_glaze_i",
+        "name": "抗蚀薄膜Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_lava",
+        "name": "熔岩之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "acidproof_glaze_ii",
+        "name": "抗蚀薄膜Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

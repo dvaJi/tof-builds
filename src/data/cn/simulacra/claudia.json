@@ -1,0 +1,298 @@
+{
+  "_id": 17,
+  "id": "claudia",
+  "name": "Claudia",
+  "weapon": "红莲刃",
+  "weapon_id": "guren_blade",
+  "birthday": "1月16日",
+  "birthplace": "海嘉德",
+  "gender": "女",
+  "info": "可靠、坚韧，战斗起来奋不顾身，看似高冷其实熟悉后会发现是个热心肠大姐姐。正义感极强，乐于助人，经常打抱不平。",
+  "description": "海嘉德执行者，身材修长挺拔有点军人气质。\n善于使用单手剑，机动性极强，原本一直奋战于各类艰巨任务的最前线，后来由于在任务代号为“黑色末日”的行动中身受重伤，克劳迪娅被送至海嘉德某医疗部门进行疗养。",
+  "like": "咸味食物、有个性的帽子",
+  "dislike": "猫科动物",
+  "element": "Physical",
+  "rarity": "SSR",
+  "role": "Sub DPS",
+  "resonance": "DPS",
+  "shatter": 7.5,
+  "charge": 12,
+  "skills": [
+    {
+      "id": "GA_FPlayerSwordMelee_SSR_Melee_name",
+      "name": "短剑普攻",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，挥舞短剑可连续进行五次攻击。\n第一次攻击对目标造成<b>46.8%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。\n第二次攻击对目标造成<b>65.6%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第三次攻击对目标造成<b>59.3%</b>*攻击力+<b>3</b>点伤害，并小幅击退目标。\n第四次攻击对目标造成<b>104.1%</b>*攻击力+<b>5</b>点伤害，并小幅击退目标。\n第五次攻击对目标造成<b>177.8%</b>*攻击力+<b>9</b>点伤害，造成<b>击飞</b>效果。"
+    },
+    {
+      "id": "GA_FPlayerSpearMeleeThu_SSR_AirAttack_name",
+      "name": "飞击",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时，点击普攻可在空中连续进行四次攻击。\n第一次攻击对目标造成<b>27.9%</b>*攻击力+<b>1</b>点伤害。\n第二次攻击对目标造成<b>48.4%</b>*攻击力+<b>3</b>点伤害。\n第三次攻击对目标造成<b>114.6%</b>*攻击力+<b>6</b>点伤害。\n第四次攻击对目标造成<b>139%</b>*攻击力+<b>7</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSwordMeleeThu_R_Branch_name",
+      "name": "气旋",
+      "type": [
+        "Attack",
+        "Hold: Attack"
+      ],
+      "description": "普攻后长按可触发气旋。\n命中目标会浮空目标，气旋可对单个目标造成<b>47.8%</b>*攻击力+<b>3</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSwordMeleeThu_R_JumpAttack_name",
+      "name": "落斩",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，攀爬，反向跳攻击或使用喷气背包普攻，会触发落斩。\n下落过程中，每次命中目标对目标造成<b>10%</b>*攻击力+<b>1</b>点伤害；落地时对周围目标造成<b>76.4%</b>*攻击力+<b>4</b>点伤害，并击退目标。\n触发时离地距离越高，伤害越高，最高可达<b>600%</b>伤害。"
+    },
+    {
+      "id": "GA_FPlayerDSMeleeThu_SSR_Sneak_name",
+      "name": "偷袭",
+      "type": [
+        "Croch",
+        "Attack"
+      ],
+      "description": "处于下蹲状态时靠近敌人身后，点击普攻可触发偷袭，双刀刺击，对目标造成<b>570%</b>*攻击力+<b>30</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSwordEvadeThu_R_BackAttack_name",
+      "name": "飞身一击",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "闪避之后的短暂时间内，点击普攻，可触发飞身一击。\n拓荒者向前挥刀冲刺对目标造成<b>37.9%</b>*攻击力+<b>2</b>点伤害，<b>强控浮空</b>目标并使自己滞空，再次对目标造成<b>56.8%</b>*攻击力+<b>3</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerSwordSkillNew_SSR_name",
+      "name": "穿梭",
+      "type": [
+        "Skill"
+      ],
+      "description": "挥舞短剑穿梭于目标之间，最多可对<b>5</b>个目标总计造成<b>418%</b>*攻击力+<b>22</b>点伤害，技能期间免疫控制效果，且受到伤害减少<b>50%</b>，对同一目标造成的伤害依次递减<b>20%</b>，穿梭完成后斩击前方空间，造成<b>264%</b>*攻击力+<b>14</b>点范围伤害，并浮空目标，冷却<b>15</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerSwordChangeSkill_SSR_Sucess_name",
+      "name": "剑气纵横",
+      "type": [
+        "Discharge"
+      ],
+      "description": "当<span class=\"text-red\">武器充能满</span>或触发<span class=\"text-red\">幻时</span>时，从其他武器切换到该武器时<b>清除自身负面状态</b>，冲向目标并将目标<b>强控浮空</b>，对目标造成<b>523.3%</b>*攻击力+<b>28</b>点伤害，同时留下剑刃风暴，对目标造成<b>209.6%</b>*攻击力+<b>11</b>点伤害，自身在<b>5</b>秒内免疫重伤/冰冻/灼烧/感电效果。"
+    }
+  ],
+  "weapon_type": {
+    "name": "重伤",
+    "description": "武器充能值充满后下次攻击使敌人进入<b>7</b>秒重伤状态，受到伤害增加<b>20%</b>，并造成<b>137%</b>*攻击力伤害。<yellow_lbl_14_1>[组队玩法]</>中，重伤状态目标受到物理伤害额外增加<b>20%</b>。"
+  },
+  "weapon_resonance": {
+    "name": "物理共鸣",
+    "description": "<b>物理共鸣</b>：装备<b>2</b>把及以上物理元素武器触发，提升<b>15%</b>物理攻击和<b>25%</b>物理抗性，装备后后台可生效，同类效果不叠加。"
+  },
+  "advancement": [
+    "每次释放技能或连携命中目标后，获得一层伤害提升效果，提高<b>8%</b>伤害，持续<b>25</b>秒，最多叠加<b>3</b>层（每次释放技能或连携最多叠加一层）。",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "技能或者连携技命中目标时，使目标受到“战损”效果：受到的物理伤害和受到物理元素武器破盾效率提高<b>10%</b>，持续<b>15</b>秒，最多<b>1</b>层。",
+    "当前武器的基础生命成长+<b>32%</b>",
+    "技能或连携技命中目标后获得“增伤”，全伤害提高<b>20%</b>，持续<b>25</b>秒，不叠加。",
+    "技能命中同一目标后伤害不再递减；使用红莲刃技能或连携时，使8米范围内存在“战损”效果的敌方目标再叠加<b>1</b>层该效果。"
+  ],
+  "traits": [
+    {
+      "name": "克劳迪娅-闪烁",
+      "icon": true,
+      "description": "闪避后隐身<b>1</b>秒。"
+    },
+    {
+      "name": "克劳迪娅-潜影",
+      "icon": true,
+      "description": "闪避后隐身<b>1.5</b>秒。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "rockcore",
+        "name": "岩石之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "nanofiber_frame_i",
+        "name": "纳米纤维框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_summit",
+        "name": "山岳之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "nanofiber_frame_ii",
+        "name": "纳米纤维框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}

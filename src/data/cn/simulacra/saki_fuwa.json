@@ -1,0 +1,294 @@
+{
+  "_id": 20,
+  "id": "saki_fuwa",
+  "name": "Saki Fuwa",
+  "weapon": "流泉彻心",
+  "weapon_id": "heartstream",
+  "birthday": "10月11日",
+  "birthplace": "镜都安全部特勤队",
+  "gender": "女",
+  "info": "稚嫩的外表下有着与外表不相符的处事的心，是一个不折不扣的“小大人”。\n不过在人后却会表露出不为人知的中二一面。在四下无人时，会给自己做设定加战斗口号，喜欢收集旧时代就延续下来的的初级工艺品“手办”，有收藏癖。",
+  "description": "镜都安全部特勤队队长，「超心流」状态控制方法应用体，钟爱古老剑道，以一套类似剑道服的着装示人。是镜都安全部队少数未经过任何义体改造的强力战士，承担着保护镜都的职责。",
+  "like": "手办、漫画",
+  "dislike": "分心烦躁、安全部队队员",
+  "element": "Ice",
+  "rarity": "SSR",
+  "role": "Tank",
+  "resonance": "Defense",
+  "shatter": 11.5,
+  "charge": 8,
+  "skills": [
+    {
+      "id": "GA_PlayerDkatanaMelee_Melee_name",
+      "name": "流泉激浪",
+      "type": [
+        "Attack"
+      ],
+      "description": "在地面时，使用流泉彻心进行五次攻击。\n第一次攻击对目标可造成<b>42.5%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。\n第二次攻击对目标可造成<b>29.5%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。\n第三次攻击对目标可造成<b>45%</b>*攻击力+<b>2</b>点伤害，并小幅击退目标。\n第四次攻击对目标可造成<b>70.6%</b>*攻击力+<b>4</b>点伤害，并小幅击退目标。\n第五次攻击对目标可造成<b>102.6%</b>*攻击力+<b>5</b>点伤害，并击飞目标。"
+    },
+    {
+      "id": "GA_PlayerDkatanaMelee_AirAttack_name",
+      "name": "飞瀑破空",
+      "type": [
+        "Jump",
+        "Attack"
+      ],
+      "description": "当拓荒者滞空时或使用一段跳之后，点击普攻可在空中连续进行五次攻击。\n第一次攻击对目标造成<b>47.2%</b>*攻击力+<b>2</b>点伤害。\n第二次攻击对目标造成<b>43.7%</b>*攻击力+<b>2</b>点伤害。\n第三次攻击对目标造成<b>54.2%</b>*攻击力+<b>3</b>点伤害。\n第四次攻击对目标造成<b>76.9%</b>*攻击力+<b>4</b>点伤害。\n第五次攻击对目标造成<b>170.2%</b>*攻击力+<b>9</b>点伤害。"
+    },
+    {
+      "id": "GA_PlayerDkatanaMelee_Branch1_name",
+      "name": "动心流·漩涡",
+      "type": [
+        "Hold: Attack"
+      ],
+      "description": "动心流模式下，普通攻击中，长按普攻可触发。\n向前冲刺并旋转自身进行多段攻击，对目标最多造成<b>199.5%</b>*攻击力+<b>11</b>点伤害。"
+    },
+    {
+      "id": "GA_PlayerDkatanaMelee_JumpAttack_name",
+      "name": "霜落",
+      "type": [
+        "Jump",
+        "Hold: Attack"
+      ],
+      "description": "滞空时长按普攻，攀爬，反向跳攻击或使用喷气背包普攻可触发。\n下落过程中，每次命中目标对目标造成<b>30.4%</b>*攻击力+<b>2</b>点伤害；落地时对周围目标造成<b>76%</b>*攻击力+<b>4</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDkatanaEvade_name",
+      "name": "闪避",
+      "type": [
+        "Dodge"
+      ],
+      "description": "在被命中前闪避，可触发幻时，使一定范围内的目标动作速率变缓；闪避过程中，免疫硬直效果，持续<b>0.5</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerDkatanaEvade_ForwardAttack_name",
+      "name": "寒潮",
+      "type": [
+        "Dodge",
+        "Attack"
+      ],
+      "description": "向前闪避之后的短暂时间内，点击普攻。\n冲刺并转身攻击目标，共造成<b>277%</b>*攻击力+<b>15</b>点伤害。"
+    },
+    {
+      "id": "GA_FPlayerDkatanaSkill_Skill1_name",
+      "name": "动心流·凝泉掠影",
+      "type": [
+        "Skill"
+      ],
+      "description": "向目标方向突进并短暂定身路径上的敌方，延迟对路径上的敌方造成至多<b>445.3%</b>*攻击力+<b>23</b>点伤害，冷却<b>30</b>秒。"
+    },
+    {
+      "id": "GA_FPlayerDkatanaSkill_Skill2_name",
+      "name": "静心流·聚凝泉涌",
+      "type": [
+        "Discharge"
+      ],
+      "description": "释放静心流技能进入蓄力状态，持续嘲讽周围目标，最多蓄力<b>3</b>秒，蓄力期间吸收伤害，最多吸收<b>60%</b>最大生命值伤害，蓄力结束时根据吸收的伤害量对目标造成一次<b>850%</b>*冰攻+<b>50%</b>*吸收的伤害量的寒冰伤害，未被消耗的<b>20%</b>数值转化为生命回复，冷却<b>30</b>秒。\n\n激活坚毅共鸣时进入静心流状态，<b>动心流·凝泉掠影</b>替换为<b>静心流·聚凝泉涌</b>，非坚毅共鸣时为动心流状态\n释放不破咲技能获得跟随自身的剑影，释放不破咲分支技或者连携技时剑影会释放【涌动】，对目标造成<b>450%</b>*冰攻范围伤害，【涌动】冷却<b>10</b>秒。\n动心流状态下：玩家使用任意武器造成伤害时剑影释放【流转】，对首个命中的目标造成<b>125%</b>*冰攻伤害并回复伤害值<b>57%</b>的生命值，每次最大回复量不超过攻击的<b>100%</b>，冷却<b>0.8</b>秒。\n静心流状态下：剑影释放【涌动】后，玩家获得<b>3</b>次格挡能力，持续<b>10</b>秒，格挡量最大不超过自身最大生命值的<b>15%</b>，每次成功格挡对目标造成一次<b>450%</b>*冰攻的【反击】伤害，【涌动】的破盾能力提高<b>100%</b>并附加嘲讽效果。"
+    }
+  ],
+  "weapon_type": {
+    "name": "寒冰",
+    "description": "武器充能值充满后下次攻击对敌人造成<b>2</b>秒<b>强控冰冻</b>效果并造成<b>6</b>秒冻伤效果，冰冻破碎时造成<b>151%</b>*攻击力伤害，目标冻伤期间武器充能值获取速度降低<b>50%</b>。"
+  },
+  "weapon_resonance": {
+    "name": "寒冰共鸣",
+    "description": "<b>寒冰共鸣</b>：装备<b>2</b>把及以上寒冰武器触发，提升<b>15%</b>冰攻和<b>25%</b>冰抗，装备后后台可生效"
+  },
+  "advancement": [
+    "激活寒冰共鸣时累计释放任意武器技能<b>5</b>次清除所有武器技能冷却，并且后续<b>25</b>秒的【流转】和【反击】伤害提升<b>1</b>倍。",
+    "当前武器的基础攻击成长+<b>16%</b>",
+    "动心流下：剑影【涌动】伤害提升至<b>900%</b>*冰攻\n静心流下：剑影【涌动】冷却变为<b>5</b>秒",
+    "当前武器的基础生命成长+<b>32%</b>",
+    "【涌动】命中目标时会冻结时间触发幻时，与闪避触发的幻时共用冷却",
+    "【涌动】命中目标后自身的寒冰伤害提高<b>11%</b>，持续<b>15</b>秒\n剑影触发格挡时会使周围敌方目标造成的寒冰伤害降低<b>25%</b>，持续<b>12</b>秒。"
+  ],
+  "traits": [
+    {
+      "name": "不破咲-坚毅姿态",
+      "description": "生命低于<b>70%</b>时，获得<b>40%</b>全抗。"
+    },
+    {
+      "name": "不破咲-守护之剑",
+      "description": "生命低于<b>70%</b>时，获得<b>40%</b>全抗并额外获得<b>60%</b>冰抗。静心流下【涌动】提供格挡时为生命值百分比最低的队友（不包括自己）附加3次格挡能力，格挡量不超过队友最大生命的<b>15%</b>，持续<b>10</b>秒。"
+    }
+  ],
+  "ascension": [
+    {
+      "ascension": 1,
+      "level": 10,
+      "cost": 400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 2,
+      "level": 20,
+      "cost": 800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 2
+      }
+    },
+    {
+      "ascension": 3,
+      "level": 30,
+      "cost": 1200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 4,
+      "level": 40,
+      "cost": 1600,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 3
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 3
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 3
+      }
+    },
+    {
+      "ascension": 5,
+      "level": 50,
+      "cost": 2000,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 4
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 4
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 4
+      }
+    },
+    {
+      "ascension": 6,
+      "level": 60,
+      "cost": 2400,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 6
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 6
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 6
+      }
+    },
+    {
+      "ascension": 7,
+      "level": 70,
+      "cost": 2800,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 8
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 8
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 8
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3200,
+      "mat1": {
+        "id": "icecore",
+        "name": "冰冻之核",
+        "rarity": "N",
+        "amount": 11
+      },
+      "mat2": {
+        "id": "nano_coating_i",
+        "name": "纳米涂层Ⅰ型",
+        "rarity": "R",
+        "amount": 11
+      },
+      "mat3": {
+        "id": "booster_frame_i",
+        "name": "合金增强框架Ⅰ型",
+        "rarity": "SR",
+        "amount": 11
+      }
+    },
+    {
+      "ascension": 8,
+      "level": 80,
+      "cost": 3600,
+      "mat1": {
+        "id": "heart_of_winter",
+        "name": "寒冬之心",
+        "rarity": "R",
+        "amount": 5
+      },
+      "mat2": {
+        "id": "nano_coating_ii",
+        "name": "纳米涂层Ⅱ型",
+        "rarity": "SR",
+        "amount": 5
+      },
+      "mat3": {
+        "id": "booster_frame_ii",
+        "name": "合金增强框架Ⅱ型",
+        "rarity": "SSR",
+        "amount": 5
+      }
+    }
+  ]
+}
